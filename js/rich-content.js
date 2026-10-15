@@ -24,6 +24,8 @@
   "use strict";
 
   const { createElement } = quiz.helpers;
+  const SHOW_GRAMMAR = "Show all grammar";
+  const HIDE_GRAMMAR = "Hide grammar";
 
   /**
    * A code listing.
@@ -220,7 +222,30 @@
   }
 
   /**
-   * Word chips for a verse, one row per verse line.
+   * A button that shows or hides the grammar of every chip in a list.
+   * @param {HTMLElement} list the element that holds the chips
+   * @returns {HTMLElement}
+   */
+  function createGrammarToggle(list) {
+    const button = createElement("button", "grammar-toggle",
+      SHOW_GRAMMAR);
+    button.type = "button";
+    button.setAttribute("aria-pressed", "false");
+    button.addEventListener("click", function toggleAll() {
+      const show = button.getAttribute("aria-pressed") !== "true";
+      button.setAttribute("aria-pressed", String(show));
+      button.textContent = show ? HIDE_GRAMMAR : SHOW_GRAMMAR;
+      list.querySelectorAll(".word-chip").forEach(function set(chip) {
+        chip.classList.toggle("is-open", show);
+        chip.setAttribute("aria-expanded", String(show));
+      });
+    });
+    return button;
+  }
+
+  /**
+   * Word chips for a verse, one row per verse line, with a button that
+   * shows all the grammar at once.
    * @param {object[][]} rows
    * @returns {HTMLElement}
    */
@@ -233,7 +258,10 @@
       });
       list.appendChild(line);
     });
-    return list;
+    const wrapper = createElement("div", "word-list");
+    wrapper.appendChild(createGrammarToggle(list));
+    wrapper.appendChild(list);
+    return wrapper;
   }
 
   /**

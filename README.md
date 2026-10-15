@@ -1,8 +1,11 @@
 # Charaka Samhita: Sutrasthana, chapter 1 (test build)
 
-A test of the verse-study quiz: 141 verse cards (139 verses and 2 prose lines
-of Su. 1, Dirghanjivitiya) with Devanagari text, word-by-word split,
-Hindi and English, plus 846 auto-generated practice questions.
+A test of the verse-study quiz, finished for the **first ten units** of
+Su. 1 (Dirghanjivitiya): the 2 opening prose lines and verses 3 to 10. Each
+card has the Devanagari text, a tap-to-open word split with grammar, Hindi,
+English, an explanation, a memory hook, a text note, and a hand-written
+six-question ladder (60 questions in all). The other 131 units are not in
+this build yet.
 
 **This branch is a self-contained test build.** Unlike the normal book shell
 (see the original README in `main`), it carries the quiz code itself
@@ -16,10 +19,13 @@ and then return this repo to the shell layout (loader `index.html` and
 | `index.html`, `css/`, `js/`, `htrab/` | The quiz site (template 2.1.0 plus the verse-study changes) |
 | `questions.json` | The Chapter 1 bank, generated from `data/` |
 | `data/sutrasthana1_verses.json` | Source data: verse text, word split, Hindi, English, flags, notes |
-| `tools/make_bank_from_verses.py` | Builds `questions.json` from the data (needs `indic_transliteration`) |
+| `tools/make_bank_ch1.py` | Builds `questions.json` from the data plus the hand-written content (needs `indic_transliteration`) |
+| `tools/ch1_authored.py` | Hand-written explanations, hooks, notes and questions for units 1 to 10 |
+| `tools/gram_hi.py` | Hindi grammar labels for the word chips |
 
 Sanskrit text: SARIT edition of the Carakasamhita (single witness, CC BY-SA 3.0).
 Hindi and English are AI-drafted and AI-reviewed, not yet checked by a person.
+Rebuild: `python3 tools/make_bank_ch1.py data/sutrasthana1_verses.json questions.json`.
 Sync is off (`js/sync/sync-config.js`), so progress stays in the browser.
 
 To run it: serve the folder with any static server, or turn on GitHub Pages for this branch.
