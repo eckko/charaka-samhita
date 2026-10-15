@@ -239,7 +239,7 @@ def main():
             ["गार्ग्य", "शाण्डिल्य–कौण्डिल्य", "वार्क्षि", "देवल–गालव"],
             "श्लोक १०"),
     }
-    import make_bank_ch1 as gen
+    import make_bank as gen
     gen.load_batches()
     for spec in gen.IMAGE_SPECS.values():
         files[spec["file"]] = render_spec(spec)

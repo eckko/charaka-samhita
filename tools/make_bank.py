@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Build questions.json for Caraka Su. 1 (all units).
+"""Build questions.json for Caraka Su. 1 and 2 (all units).
 
-    python3 tools/make_bank_ch1.py data/sutrasthana1_verses.json questions.json
+    python3 tools/make_bank.py data questions.json
 
 Verse data (Sanskrit, word split, Hindi, English, notes) comes from the
 verse file. Explanations, mnemonics, the card summary and every question
@@ -26,30 +26,38 @@ from metre import split_pada  # noqa: E402
 from make_aid_images import render_spec  # noqa: E402
 
 IMAGE_SPECS = {}
+CHAPTERS = {
+    1: {"title": "दीर्घञ्जीवितीय", "glob": "batch_*.py",
+        "A": AUTHORED, "N": NOTES_HI, "AI": AIDS, "IM": IMAGES},
+    2: {"title": "अपामार्गतण्डुलीय", "glob": "ch2_batch_*.py",
+        "A": {}, "N": {}, "AI": {}, "IM": {}},
+}
 
 
 def load_batches():
-    """Merge batch_NN.py modules (units authored in groups of ~10)."""
+    """Merge batch modules (units authored in groups of ~10), per chapter:
+    batch_NN.py for chapter 1, ch2_batch_NN.py for chapter 2."""
     here = Path(__file__).resolve().parent
     only = os.environ.get("BATCHES")  # e.g. "batch_03" while authoring
-    for mod in sorted(p.stem for p in here.glob("batch_*.py")):
-        if only and mod not in only.split(","):
-            continue
-        m = importlib.import_module(mod)
-        clash = set(m.AUTHORED) & set(AUTHORED)
-        assert not clash, (mod, clash)
-        AUTHORED.update(m.AUTHORED)
-        NOTES_HI.update(m.NOTES_HI)
-        for n, kinds in m.AIDS.items():
-            AIDS[n] = kinds
-        for key, spec in getattr(m, "IMAGE_SPECS", {}).items():
-            IMAGE_SPECS[key] = spec
-            IMAGES[key] = (spec["file"], spec["alt"])
+    for ch, st in CHAPTERS.items():
+        for mod in sorted(p.stem for p in here.glob(st["glob"])):
+            if only and mod not in only.split(","):
+                continue
+            m = importlib.import_module(mod)
+            clash = set(m.AUTHORED) & set(st["A"])
+            assert not clash, (mod, clash)
+            st["A"].update(m.AUTHORED)
+            st["N"].update(m.NOTES_HI)
+            for n, kinds in m.AIDS.items():
+                st["AI"][n] = kinds
+            for key, spec in getattr(m, "IMAGE_SPECS", {}).items():
+                IMAGE_SPECS[(ch,) + key] = spec
+                st["IM"][key] = (spec["file"], spec["alt"])
 
 
-def cid_of(n):
+def cid_of(n, ch=1):
     whole, _, part = str(n).partition(".")
-    return f"su1-{int(whole):03d}" + (f"-{part}" if part else "")
+    return f"su{ch}-{int(whole):03d}" + (f"-{part}" if part else "")
 
 dev = lambda s: S.transliterate(unicodedata.normalize("NFC", s), S.IAST,
                                 S.DEVANAGARI)
@@ -119,9 +127,9 @@ def chip_rows(rows):
             for row in rows]
 
 
-def aid_items(n, unit):
+def aid_items(n, unit, ch=1):
     """The memory aids of a card, in a fixed order."""
-    chosen = dict(AIDS.get(n, {}))
+    chosen = dict(CHAPTERS[ch]["AI"].get(n, {}))
     if unit["type"] == "verse":
         parts = [split_pada(line) for line in unit["lines_deva"]]
         if all(parts):
@@ -139,19 +147,22 @@ def aid_items(n, unit):
             item["text"] = content
         else:
             item.update(content)
-        if (n, kind) in IMAGES:
-            name, alt = IMAGES[(n, kind)]
+        if (n, kind) in CHAPTERS[ch]["IM"]:
+            name, alt = CHAPTERS[ch]["IM"][(n, kind)]
             item["image"] = {"src": "images/aids/" + name, "alt": alt}
         items.append(item)
     return items
 
 
-def build(units):
+def build(units, ch=1):
+    st = CHAPTERS[ch]
+    AUTHORED, NOTES_HI = st["A"], st["N"]
+    unit_name, unit_title = f"Chapter {ch}", st["title"]
     concepts, questions = [], []
     previous = {}
     last_in_section = {}
     for unit in units:
-        sec = section_of(unit["n"])
+        sec = section_of(unit["n"], ch)
         previous[unit["n"]] = last_in_section.get(sec)
         last_in_section[sec] = unit["n"]
     for unit in units:
@@ -159,12 +170,13 @@ def build(units):
         if n not in AUTHORED and os.environ.get("PARTIAL"):
             continue  # a batch under construction
         authored = AUTHORED[n]
-        cid = cid_of(n)
-        section = section_of(n)
+        cid = cid_of(n, ch)
+        section = section_of(n, ch)
         prev = previous[n]
         requires = authored.get("requires",
-                                [cid_of(prev)] if prev else [])
+                                [cid_of(prev, ch)] if prev else [])
         digits = number(n)
+        chd = number(str(ch))
         kind = "गद्य" if unit["type"] == "prose" else "श्लोक"
         rows = []
         if "lead_in_tokens" in unit:
@@ -177,7 +189,7 @@ def build(units):
             verse_lines[-1] += f" ॥ {digits} ॥"
         blocks = [
             {"label": "संदर्भ",
-             "text": (f"चरकसंहिता · सूत्रस्थान · अध्याय १ · {kind} {digits}। "
+             "text": (f"चरकसंहिता · सूत्रस्थान · अध्याय {chd} · {kind} {digits}। "
                       "पाठ: SARIT (एक ही स्रोत)। हिन्दी और English: "
                       "AI-रचित, AI-समीक्षित; विद्वान् से जाँच शेष।")},
             {"label": "श्लोक" if kind == "श्लोक" else "मूल पाठ",
@@ -189,11 +201,11 @@ def build(units):
             {"label": "व्याख्या", "study": True,
              "text": authored["explain_hi"]},
             {"label": "स्मरण-सहायक", "study": True,
-             "aids": aid_items(n, unit)},
+             "aids": aid_items(n, unit, ch)},
         ]
         blocks.append({"label": "पाठ-टिप्पणी", "text": NOTES_HI[n]})
         concept = {
-            "id": cid, "unit": "Chapter 1", "unitTitle": "दीर्घञ्जीवितीय",
+            "id": cid, "unit": unit_name, "unitTitle": unit_title,
             "section": section,
             "title": f"{digits}. {authored['title']}",
             "requires": requires,
@@ -202,7 +214,7 @@ def build(units):
             "question": authored["question"], "core": authored["core"],
         }
         concepts.append(concept)
-        base = {"unit": "Chapter 1", "unitTitle": "दीर्घञ्जीवितीय",
+        base = {"unit": unit_name, "unitTitle": unit_title,
                 "section": section, "concept": cid}
         for question in authored["questions"]:
             q = dict(question)
@@ -215,22 +227,30 @@ def build(units):
 
 
 def main():
-    source, target = sys.argv[1], sys.argv[2]
-    units = json.load(open(source, encoding="utf8"))
+    source, target = Path(sys.argv[1]), sys.argv[2]
     load_batches()
-    concepts, questions = build(units)
+    concepts, questions = [], []
+    for ch in CHAPTERS:
+        units = json.load(open(source / f"sutrasthana{ch}_verses.json",
+                               encoding="utf8"))
+        c, q = build(units, ch)
+        concepts += c
+        questions += q
     bank = {
-        "id": "caraka-su1", "book": "चरकसंहिता — सूत्रस्थान १",
+        "id": "caraka-sutra", "book": "चरकसंहिता — सूत्रस्थान",
         "labels": {"unit": "Chapter", "units": "chapters", "topic": "Verse",
                    "whole": "Whole chapter"},
-        "summary": ("The opening of the Charaka Samhita, Sūtrasthāna 1: the "
-                    "chapter's announcement, Bharadvāja's search for long "
-                    "life, the line of Āyurveda from Brahmā to Indra, and "
-                    "the sages who gathered on the Himālaya. Every verse of the chapter."),
+        "summary": ("The Charaka Samhita, Sūtrasthāna chapters 1 and 2: "
+                    "how Āyurveda came down from Brahmā to the sages, then "
+                    "the drugs and gruels of the five cleansing treatments."),
         "genre": "चरकसंहिता",
-        "unitSummaries": {"Chapter 1": (
-            "How Āyurveda passed from Brahmā to Indra, why the sages "
-            "gathered on the Himālaya, and who they were.")},
+        "unitSummaries": {
+            "Chapter 1": (
+                "How Āyurveda passed from Brahmā to Indra, why the sages "
+                "gathered on the Himālaya, and who they were."),
+            "Chapter 2": (
+                "The drug groups for the five treatments, the twenty-eight "
+                "gruels, and the physician who can use them.")},
         "concepts": concepts, "questions": questions}
     json.dump(bank, open(target, "w", encoding="utf8"), ensure_ascii=False,
               indent=1)

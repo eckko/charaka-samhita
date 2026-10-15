@@ -94,7 +94,7 @@ kinds per unit across the six (mcq plus at least match/fill/order/multi).
 Run (use your own output path):
 ```
 cd <dir above>
-BATCHES=batch_NN PARTIAL=1 python3 make_bank_ch1.py sutrasthana1_verses.json /tmp/chk/qNN.json
+BATCHES=batch_NN PARTIAL=1 python3 make_bank.py ../data /tmp/chk/qNN.json
 python3 /tmp/claude-0/-home-claude-claude-memory/0cac1b21-6382-56bd-abe4-a207ecd1a4f6/scratchpad/tpl/work/tools/validate_bank.py /tmp/chk/qNN.json
 python3 make_aid_images.py /tmp/chk/imgNN   # only if you added IMAGE_SPECS; then
                                             # open the SVG(s) via Read? (text only: check the file exists and is sane)
@@ -107,3 +107,37 @@ Do NOT edit any file except your own `batch_NN.py`. Do not run git.
 Final report (<=200 words): units done, validator result, any translation
 problems found in the data, any section boundary that looks wrong, any
 verse you are unsure about.
+
+
+---
+# CHAPTER 2 (Apāmārgataṇḍulīya, Su. 2) differences — these override the above
+- Work in the repo: /home/claude/charaka-samhita/tools/ (not the scratchpad copy). Data:
+  /home/claude/charaka-samhita/data/sutrasthana2_verses.json (36 units, keys "1".."36").
+  Study finished examples in ch1_authored.py (units 3, 5, 9, 10) and batch_08.py, batch_11.py
+  (list-heavy verses), which already passed independent review.
+- Your file is `ch2_batch_NN.py` in tools/, starting with `from ch1_authored import mcq, match, order, fill, multi`.
+  Keys of AUTHORED/NOTES_HI/AIDS are the unit numbers "1".."36". Do not write "section"
+  (tools/sections.py RANGES_2 supplies it). Concept ids are su2-NNN; use those in any `requires`
+  (omit `requires` normally).
+- Picture file names MUST start with "ch2-" (e.g. "ch2-drugs-5.svg"); IMAGE_SPECS keys are (unit, kind) as before.
+- Self-check from tools/:
+  `BATCHES=ch2_batch_NN PARTIAL=1 python3 make_bank.py ../data /tmp/chk/c2NN.json` then
+  `python3 /tmp/claude-0/-home-claude-claude-memory/0cac1b21-6382-56bd-abe4-a207ecd1a4f6/scratchpad/tpl/work/tools/validate_bank.py /tmp/chk/c2NN.json`
+  (0 errors, 0 warnings except the 'requires … not an earlier concept' batch-edge error), and for pictures
+  `python3 make_aid_images.py /tmp/chk/img2NN`. Delete `tools/__pycache__` afterwards. Edit only your own file.
+- Subject: drug groups and gruels for the five treatments. The verse lists names and uses; it gives no dose,
+  no pharmacology and no modern identification beyond the data's glosses. Never identify a plant beyond the
+  card data; never state what a drug "does" except what the verse says; never build a question on a plant's
+  identity or on a contested construal. Good question types here: which treatment a list is for (head-purging /
+  emesis / purgation / enemas), which condition a gruel is for, match gruel-feature to its effect, order of
+  the five procedures as the verse states them, what the compound/sandhi form is, and transfer questions on
+  the sentence frame ("X gruel cooked in Y removes Z"). Verses 3-5, 7-8, 9-10, 11-14 form sentences that run
+  over several verses: say so on the card and keep each question to what this unit contains.
+- Pitfalls the chapter-1 reviews found (all became fixes): seesaw only for a true pair of opposites that
+  both appear in THIS verse; diagram/chunks must reproduce the printed words in printed order (incl. repeated
+  words, and printed sandhi like ऽ); sandhi rules stated exactly (अः+घोष → ओ only after अ; इः/उः → र्; after आ the
+  visarga drops); an invented transfer sentence must be valid Sanskrit with agreeing case/number/gender;
+  fill `accept` lists every spelling a learner may type (with/without anusvāra form, printed sandhi form);
+  stems <=25 words with a single "?"; no "listed in verses X-Y" claims unless checked; do not add
+  etymologies or interpretations not in the data; say "my own picture" for pegs; keep claims about the
+  edition's typos tied to the data's text_flags.
