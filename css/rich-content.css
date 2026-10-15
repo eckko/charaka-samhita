@@ -241,6 +241,14 @@
   margin: 0;
 }
 
+.aid-image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-top: 4px;
+  border-radius: 10px;
+}
+
 .aid-steps {
   display: flex;
   flex-wrap: wrap;

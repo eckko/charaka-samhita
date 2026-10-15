@@ -198,7 +198,11 @@
        {
         "aid": "pegs",
         "label": "चित्र-शब्द (मेरा बनाया चित्र)",
-        "text": "इति = उद्धरण का बन्द चिह्न (”): ऊपर कही सारी बात आत्रेय के मुँह से।"
+        "text": "इति = उद्धरण का बन्द चिह्न (”): ऊपर कही सारी बात आत्रेय के मुँह से।",
+        "image": {
+         "src": "images/aids/quote.svg",
+         "alt": "A large closing quotation mark, with the words: इति closes the quotation, so all the words above are Ātreya's"
+        }
        },
        {
         "aid": "sandhi",
@@ -336,7 +340,11 @@
        {
         "aid": "pegs",
         "label": "चित्र-शब्द (मेरा बनाया चित्र)",
-        "text": "दीर्घ = बहुत लम्बी रस्सी · भरद्वाज = रस्सी खींचता साधक · इन्द्र = वज्र वाला राजा · शरण्य = राजा के हाथ की छतरी।"
+        "text": "दीर्घ = बहुत लम्बी रस्सी · भरद्वाज = रस्सी खींचता साधक · इन्द्र = वज्र वाला राजा · शरण्य = राजा के हाथ की छतरी।",
+        "image": {
+         "src": "images/aids/rope-vajra-umbrella.svg",
+         "alt": "A long rope, a thunderbolt and an umbrella, labelled long life, Indra and refuge"
+        }
        },
        {
         "aid": "anchors",
@@ -507,7 +515,11 @@
        {
         "aid": "pegs",
         "label": "चित्र-शब्द (मेरा बनाया चित्र)",
-        "text": "ब्रह्मा से अश्विनौ तक = रिले-दौड़ की बैटन: ब्रह्मा से प्रजापति को, प्रजापति से दो घुड़सवारों को।"
+        "text": "ब्रह्मा से अश्विनौ तक = रिले-दौड़ की बैटन: ब्रह्मा से प्रजापति को, प्रजापति से दो घुड़सवारों को।",
+        "image": {
+         "src": "images/aids/baton.svg",
+         "alt": "A relay baton passed from Brahmā to Prajāpati to the two Aśvins"
+        }
        },
        {
         "aid": "puns",
@@ -682,7 +694,11 @@
          "अश्विनौ",
          "शक्र",
          "भरद्वाज (पास गए)"
-        ]
+        ],
+        "image": {
+         "src": "images/aids/stairs.svg",
+         "alt": "Five steps going down: Brahmā, Prajāpati, the Aśvins, Śakra, then Bharadvāja"
+        }
        },
        {
         "aid": "story",
@@ -829,7 +845,11 @@
        {
         "aid": "pegs",
         "label": "चित्र-शब्द (मेरा बनाया चित्र)",
-        "text": "रोग = रास्ते का पत्थर (विघ्न): तप, उपवास, अध्ययन, ब्रह्मचर्य, व्रत और आयु की राह रुक जाती है।"
+        "text": "रोग = रास्ते का पत्थर (विघ्न): तप, उपवास, अध्ययन, ब्रह्मचर्य, व्रत और आयु की राह रुक जाती है।",
+        "image": {
+         "src": "images/aids/stone.svg",
+         "alt": "A stone blocking a winding path: disease as an obstacle to austerity, fasting, study, celibacy, vows and life"
+        }
        },
        {
         "aid": "anchors",
@@ -1029,7 +1049,11 @@
        {
         "aid": "pegs",
         "label": "चित्र-शब्द (मेरा बनाया चित्र)",
-        "text": "पुरस्कृत्य = आगे रखकर: जैसे आगे रखी मशाल, वैसे करुणा को आगे रखकर ऋषि एकत्र हुए।"
+        "text": "पुरस्कृत्य = आगे रखकर: जैसे आगे रखी मशाल, वैसे करुणा को आगे रखकर ऋषि एकत्र हुए।",
+        "image": {
+         "src": "images/aids/torch-slope.svg",
+         "alt": "A torch held ahead of figures gathering on the slope of a mountain: compassion put first"
+        }
        },
        {
         "aid": "anchors",
@@ -1210,7 +1234,11 @@
            "असित"
           ]
          }
-        ]
+        ],
+        "image": {
+         "src": "images/aids/ledges-8.svg",
+         "alt": "A mountain with two ledges listing the eleven sages of verse 8, five on the upper ledge and six on the lower"
+        }
        },
        {
         "aid": "letters",
@@ -1382,7 +1410,11 @@
            "कपिञ्जल"
           ]
          }
-        ]
+        ],
+        "image": {
+         "src": "images/aids/ledges-9.svg",
+         "alt": "A mountain with two ledges listing the sages of verse 9, three entries on the upper ledge and four on the lower"
+        }
        },
        {
         "aid": "letters",
@@ -1554,7 +1586,11 @@
            "देवल–गालव (जोड़ा)"
           ]
          }
-        ]
+        ],
+        "image": {
+         "src": "images/aids/ledges-10.svg",
+         "alt": "A mountain with two ledges listing the sages of verse 10, three entries on the upper ledge and four on the lower"
+        }
        },
        {
         "aid": "letters",

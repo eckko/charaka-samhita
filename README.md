@@ -28,6 +28,7 @@ and then return this repo to the shell layout (loader `index.html` and
 | `tools/ch1_authored.py` | Hand-written explanations, hooks, notes and questions for units 1 to 10 |
 | `tools/gram_hi.py` | Hindi grammar labels for the word chips |
 | `tools/ch1_aids.py`, `tools/metre.py` | Hand-written memory aids; the metre cut (8+8 akṣaras) is computed |
+| `tools/make_aid_images.py`, `images/aids/` | The nine small pictures (drawn as SVG) used by the picture words and diagram aids |
 | `js/study-aids.js` | The Sanskrit settings card and the show/hide of each aid kind |
 
 Sanskrit text: SARIT edition of the Carakasamhita (single witness, CC BY-SA 3.0).

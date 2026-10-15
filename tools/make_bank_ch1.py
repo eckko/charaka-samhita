@@ -17,7 +17,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from indic_transliteration import sanscript as S  # noqa: E402
 from ch1_authored import AUTHORED, NOTES_HI  # noqa: E402
 from gram_hi import gram_hi  # noqa: E402
-from ch1_aids import AIDS, KIND_LABELS, ORDER  # noqa: E402
+from ch1_aids import AIDS, IMAGES, KIND_LABELS, ORDER  # noqa: E402
 from metre import split_pada  # noqa: E402
 
 dev = lambda s: S.transliterate(unicodedata.normalize("NFC", s), S.IAST,
@@ -109,6 +109,9 @@ def aid_items(n, unit):
             item["text"] = content
         else:
             item.update(content)
+        if (n, kind) in IMAGES:
+            name, alt = IMAGES[(n, kind)]
+            item["image"] = {"src": "images/aids/" + name, "alt": alt}
         items.append(item)
     return items
 

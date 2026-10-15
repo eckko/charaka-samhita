@@ -303,6 +303,13 @@
           item.appendChild(createElement("p", "aid-line", line));
         });
       }
+      if (aid.image) {
+        const picture = createElement("img", "aid-image");
+        picture.src = aid.image.src;
+        picture.alt = aid.image.alt;
+        picture.loading = "lazy";
+        item.appendChild(picture);
+      }
       list.appendChild(item);
     });
     return list;

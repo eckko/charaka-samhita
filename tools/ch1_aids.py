@@ -203,3 +203,16 @@ AIDS = {
                   "शाण्डिल्यकौण्डिल्यौ | वार्क्षिर्देवलगालवौ।",
     },
 }
+
+
+IMAGES = {
+    ("2", "pegs"): ("quote.svg", "A large closing quotation mark, with the words: इति closes the quotation, so all the words above are Ātreya's"),
+    ("3", "pegs"): ("rope-vajra-umbrella.svg", "A long rope, a thunderbolt and an umbrella, labelled long life, Indra and refuge"),
+    ("4", "pegs"): ("baton.svg", "A relay baton passed from Brahmā to Prajāpati to the two Aśvins"),
+    ("5", "diagram"): ("stairs.svg", "Five steps going down: Brahmā, Prajāpati, the Aśvins, Śakra, then Bharadvāja"),
+    ("6", "pegs"): ("stone.svg", "A stone blocking a winding path: disease as an obstacle to austerity, fasting, study, celibacy, vows and life"),
+    ("7", "pegs"): ("torch-slope.svg", "A torch held ahead of figures gathering on the slope of a mountain: compassion put first"),
+    ("8", "diagram"): ("ledges-8.svg", "A mountain with two ledges listing the eleven sages of verse 8, five on the upper ledge and six on the lower"),
+    ("9", "diagram"): ("ledges-9.svg", "A mountain with two ledges listing the sages of verse 9, three entries on the upper ledge and four on the lower"),
+    ("10", "diagram"): ("ledges-10.svg", "A mountain with two ledges listing the sages of verse 10, three entries on the upper ledge and four on the lower"),
+}
