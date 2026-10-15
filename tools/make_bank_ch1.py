@@ -17,6 +17,8 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from indic_transliteration import sanscript as S  # noqa: E402
 from ch1_authored import AUTHORED, NOTES_HI  # noqa: E402
 from gram_hi import gram_hi  # noqa: E402
+from ch1_aids import AIDS, KIND_LABELS, ORDER  # noqa: E402
+from metre import split_pada  # noqa: E402
 
 dev = lambda s: S.transliterate(unicodedata.normalize("NFC", s), S.IAST,
                                 S.DEVANAGARI)
@@ -87,6 +89,30 @@ def chip_rows(rows):
             for row in rows]
 
 
+def aid_items(n, unit):
+    """The memory aids of a card, in a fixed order."""
+    chosen = dict(AIDS.get(n, {}))
+    if unit["type"] == "verse":
+        parts = [split_pada(line) for line in unit["lines_deva"]]
+        if all(parts):
+            chosen["metre"] = {
+                "text": "हर पंक्ति में ८ + ८ अक्षर (गिनती से)। ‘|’ पाद की "
+                        "सीमा है; संधि के कारण वह शब्द के बीच भी पड़ सकती है।",
+                "lines": [f"{a} | {b}" for a, b in parts]}
+    items = []
+    for kind in ORDER:
+        if kind not in chosen:
+            continue
+        content = chosen[kind]
+        item = {"aid": kind, "label": KIND_LABELS[kind]}
+        if isinstance(content, str):
+            item["text"] = content
+        else:
+            item.update(content)
+        items.append(item)
+    return items
+
+
 def build(units):
     concepts, questions = [], []
     for unit in units[:UNITS]:
@@ -117,7 +143,8 @@ def build(units):
              "text": fold(unit["english"])},
             {"label": "व्याख्या", "study": True,
              "text": authored["explain_hi"]},
-            {"label": "स्मरण-सूत्र", "study": True, "text": authored["hook"]},
+            {"label": "स्मरण-सहायक", "study": True,
+             "aids": aid_items(n, unit)},
         ]
         blocks.append({"label": "पाठ-टिप्पणी", "text": NOTES_HI[n]})
         concept = {

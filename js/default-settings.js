@@ -115,6 +115,7 @@
       "custom-practice-section": false,
       "flags-section": false,
       "idea-flags-section": false,
+      "sanskrit-section": false,
       "home-section": false,
       "progress-file-panel": false,
     },

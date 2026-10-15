@@ -214,3 +214,88 @@
   font-size: 0.8rem;
   color: var(--color-text-muted);
 }
+
+/* Memory aids (js/study-aids.js) */
+.aid-list {
+  display: grid;
+  gap: 12px;
+  margin: 6px 0 0;
+}
+
+.aid-item {
+  display: grid;
+  gap: 4px;
+  min-width: 0;
+  padding-left: 10px;
+  border-left: 2px solid var(--color-study);
+}
+
+.aid-label {
+  color: var(--color-study);
+  font: 600 0.78rem var(--font-body);
+  letter-spacing: 0.02em;
+}
+
+.aid-text,
+.aid-line {
+  margin: 0;
+}
+
+.aid-steps {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 6px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.aid-steps li {
+  padding: 2px 10px;
+  border-radius: 999px;
+  background: var(--color-card);
+}
+
+.aid-steps li:not(:last-child)::after {
+  content: "\2192";
+  margin-left: 8px;
+  color: var(--color-study);
+}
+
+.aid-tiers {
+  display: grid;
+  gap: 4px;
+}
+
+.aid-tier {
+  display: grid;
+  gap: 2px;
+  padding: 4px 10px;
+  border-radius: 6px;
+  background: var(--color-card);
+}
+
+.aid-tier[data-tier="1"] { margin-left: 8px; }
+.aid-tier[data-tier="2"] { margin-left: 16px; }
+.aid-tier[data-tier="3"] { margin-left: 24px; }
+
+/* A kind switched off in Settings (the html attribute lists the kinds) */
+html[data-hide-aids~="chain"] .aid-item[data-aid="chain"],
+html[data-hide-aids~="letters"] .aid-item[data-aid="letters"],
+html[data-hide-aids~="seesaw"] .aid-item[data-aid="seesaw"],
+html[data-hide-aids~="sandhi"] .aid-item[data-aid="sandhi"],
+html[data-hide-aids~="frame"] .aid-item[data-aid="frame"],
+html[data-hide-aids~="anchors"] .aid-item[data-aid="anchors"],
+html[data-hide-aids~="diagram"] .aid-item[data-aid="diagram"],
+html[data-hide-aids~="metre"] .aid-item[data-aid="metre"],
+html[data-hide-aids~="chunks"] .aid-item[data-aid="chunks"],
+html[data-hide-aids~="pegs"] .aid-item[data-aid="pegs"],
+html[data-hide-aids~="puns"] .aid-item[data-aid="puns"],
+html[data-hide-aids~="contrast"] .aid-item[data-aid="contrast"],
+html[data-hide-aids~="story"] .aid-item[data-aid="story"] {
+  display: none;
+}
+
+.aid-block[hidden] {
+  display: none;
+}

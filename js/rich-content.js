@@ -265,6 +265,50 @@
   }
 
   /**
+   * The memory aids of a block: one labelled item per aid, each marked
+   * with its kind (data-aid) so Settings can switch the kind off.
+   * @param {object[]} aids
+   * @returns {HTMLElement}
+   */
+  function createAids(aids) {
+    const list = createElement("div", "aid-list");
+    aids.forEach(function addAid(aid) {
+      const item = createElement("div", "aid-item");
+      item.dataset.aid = aid.aid;
+      item.appendChild(createElement("small", "aid-label", aid.label));
+      if (aid.text) {
+        item.appendChild(createElement("p", "aid-text", aid.text));
+      }
+      if (aid.steps) {
+        const steps = createElement("ol", "aid-steps");
+        aid.steps.forEach(function addStep(step) {
+          steps.appendChild(createElement("li", null, step));
+        });
+        item.appendChild(steps);
+      }
+      if (aid.groups) {
+        const tiers = createElement("div", "aid-tiers");
+        aid.groups.forEach(function addTier(group, index) {
+          const tier = createElement("div", "aid-tier");
+          tier.dataset.tier = String(index);
+          tier.appendChild(createElement("b", null, group.label));
+          tier.appendChild(createElement("span", null,
+            group.items.join(" · ")));
+          tiers.appendChild(tier);
+        });
+        item.appendChild(tiers);
+      }
+      if (aid.lines) {
+        aid.lines.forEach(function addLine(line) {
+          item.appendChild(createElement("p", "aid-line", line));
+        });
+      }
+      list.appendChild(item);
+    });
+    return list;
+  }
+
+  /**
    * The labelled blocks of a card.
    * @param {object[]} blocks
    * @returns {HTMLElement[]}
@@ -286,7 +330,14 @@
       if (block.text) {
         element.appendChild(createElement("p", null, block.text));
       }
+      if (block.aids) {
+        element.classList.add("aid-block");
+        element.appendChild(createAids(block.aids));
+      }
       appendExtras(element, block);
+      if (block.aids && quiz.studyAids) {
+        quiz.studyAids.applyToBlock(element);
+      }
       return element;
     });
   }
