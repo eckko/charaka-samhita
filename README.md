@@ -1,16 +1,17 @@
 # Charaka Samhita: Sutrasthana, chapter 1 (test build)
 
-A test of the verse-study quiz, finished for the **first ten units** of
-Su. 1 (Dirghanjivitiya): the 2 opening prose lines and verses 3 to 10. Each
+A test of the verse-study quiz, finished for **all 141 units** of
+Su. 1 (Dirghanjivitiya): the 2 opening prose lines and verses 3 to 140 (with 66.1). Each
 card has the Devanagari text, a tap-to-open word split with grammar, Hindi,
 English, an explanation, a block of memory aids (13 kinds: chain, first
 letters, यदा–तदा pairs, sandhi rule, who/to whom/why, word families,
 diagram, metre, rhythm chunks, picture words, sound-alikes, look-alike
-pairs, story), a text note, and a hand-written six-question ladder (60
+pairs, story), a text note, and a hand-written six-question ladder (846
 questions in all). Settings has a "Sanskrit cards" section where each kind
 can be shown or hidden (all on at first; saved in this browser only, never
-synced to an account). The other 131 units are not in
-this build yet.
+synced to an account). Hindi, English and all
+memory aids are AI-written and AI-reviewed (two independent review passes);
+a scholar's check is still pending.
 
 **This branch is a self-contained test build.** Unlike the normal book shell
 (see the original README in `main`), it carries the quiz code itself
@@ -25,10 +26,11 @@ and then return this repo to the shell layout (loader `index.html` and
 | `questions.json` | The Chapter 1 bank, generated from `data/` |
 | `data/sutrasthana1_verses.json` | Source data: verse text, word split, Hindi, English, flags, notes |
 | `tools/make_bank_ch1.py` | Builds `questions.json` from the data plus the hand-written content (needs `indic_transliteration`) |
-| `tools/ch1_authored.py` | Hand-written explanations, hooks, notes and questions for units 1 to 10 |
+| `tools/ch1_authored.py` | Hand-written explanations, hooks, notes and questions for units 1 to 10 (shared helpers) |
+| `tools/batch_02.py` … `batch_14.py` | The same for units 11 to 140, in batches of about ten; `tools/sections.py` holds the section of every unit; `tools/AUTHORING.md` is the writing guide |
 | `tools/gram_hi.py` | Hindi grammar labels for the word chips |
 | `tools/ch1_aids.py`, `tools/metre.py` | Hand-written memory aids; the metre cut (8+8 akṣaras) is computed |
-| `tools/make_aid_images.py`, `images/aids/` | The nine small pictures (drawn as SVG) used by the picture words and diagram aids |
+| `tools/make_aid_images.py`, `images/aids/` | The small pictures (drawn as SVG) used by the picture words and diagram aids |
 | `js/study-aids.js` | The Sanskrit settings card and the show/hide of each aid kind |
 
 Sanskrit text: SARIT edition of the Carakasamhita (single witness, CC BY-SA 3.0).

@@ -153,6 +153,73 @@ def mountain(top, bottom, title):
     return svg(body, "sages on two ledges of a mountain", height)
 
 
+def box(x, y, w, h, lines, stroke=TEAL, size=12.5):
+    out = (f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="8" '
+           f'fill="{BG}" stroke="{stroke}"/>')
+    top = y + h / 2 - 9 * (len(lines) - 1) + 4
+    for i, ln in enumerate(lines):
+        out += text(x + w / 2, top + 18 * i, ln, size)
+    return out
+
+
+def chain_spec(spec):
+    """Boxes stacked top to bottom with arrows between them."""
+    steps = spec["steps"]
+    boxes = [wrap(t, 34) for t in steps]
+    y, body = 40, text(180, 22, spec["title"], 13, TEAL, weight=700)
+    for i, lines in enumerate(boxes):
+        h = 18 * len(lines) + 12
+        body += box(40, y, 280, h, lines)
+        y += h
+        if i < len(boxes) - 1:
+            body += (f'<line x1="180" y1="{y}" x2="180" y2="{y + 16}" '
+                     f'stroke="{ACC}" stroke-width="2.5"/>'
+                     f'<polygon points="180,{y + 22} 174,{y + 13} 186,'
+                     f'{y + 13}" fill="{ACC}"/>')
+            y += 24
+    return svg(body, spec["alt"], y + 16)
+
+
+def table_spec(spec):
+    """Rows of (left, right) pairs under two column heads."""
+    heads = spec.get("heads", ["", ""])
+    y, body = 62, text(180, 22, spec["title"], 13, TEAL, weight=700)
+    body += text(100, 46, heads[0], 12, ACC, weight=700)
+    body += text(262, 46, heads[1], 12, ACC, weight=700)
+    for a, b in spec["rows"]:
+        la, lb = wrap(a, 18), wrap(b, 22)
+        h = 18 * max(len(la), len(lb)) + 10
+        body += box(20, y, 160, h, la) + box(190, y, 150, h, lb, ACC)
+        y += h + 8
+    return svg(body, spec["alt"], y + 8)
+
+
+def split_spec(spec):
+    """Two labelled columns of short lists (e.g. the two sides of a pair)."""
+    cols = spec["cols"]
+    body = text(180, 22, spec["title"], 13, TEAL, weight=700)
+    deep = 0
+    for k, (head, items) in enumerate(cols):
+        x = 16 + k * 170
+        body += text(x + 77, 52, head, 13, ACC if k else TEAL, weight=700)
+        y = 64
+        for it in items:
+            lines = wrap(it, 16)
+            h = 18 * len(lines) + 10
+            body += box(x, y, 154, h, lines, ACC if k else TEAL)
+            y += h + 6
+        deep = max(deep, y)
+    return svg(body, spec["alt"], deep + 10)
+
+
+def render_spec(spec):
+    kind = spec["type"]
+    if kind == "mountain":
+        return mountain(spec["top"], spec["bottom"], spec["title"])
+    return {"chain": chain_spec, "table": table_spec,
+            "split": split_spec}[kind](spec)
+
+
 def main():
     out = Path(sys.argv[1])
     out.mkdir(parents=True, exist_ok=True)
@@ -172,6 +239,10 @@ def main():
             ["गार्ग्य", "शाण्डिल्य–कौण्डिल्य", "वार्क्षि", "देवल–गालव"],
             "श्लोक १०"),
     }
+    import make_bank_ch1 as gen
+    gen.load_batches()
+    for spec in gen.IMAGE_SPECS.values():
+        files[spec["file"]] = render_spec(spec)
     for name, markup in files.items():
         (out / name).write_text(markup, encoding="utf8")
     print(len(files), "images in", out)

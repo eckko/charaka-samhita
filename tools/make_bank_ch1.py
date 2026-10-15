@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build questions.json for Caraka Su. 1, units 1-10.
+"""Build questions.json for Caraka Su. 1 (all units).
 
     python3 tools/make_bank_ch1.py data/sutrasthana1_verses.json questions.json
 
@@ -8,6 +8,7 @@ verse file. Explanations, mnemonics, the card summary and every question
 are written by hand in ch1_authored.py.
 """
 import json
+import os
 import re
 import sys
 import unicodedata
@@ -15,10 +16,40 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from indic_transliteration import sanscript as S  # noqa: E402
+import importlib  # noqa: E402
+import pkgutil  # noqa: E402
 from ch1_authored import AUTHORED, NOTES_HI  # noqa: E402
+from sections import section_of  # noqa: E402
 from gram_hi import gram_hi  # noqa: E402
 from ch1_aids import AIDS, IMAGES, KIND_LABELS, ORDER  # noqa: E402
 from metre import split_pada  # noqa: E402
+from make_aid_images import render_spec  # noqa: E402
+
+IMAGE_SPECS = {}
+
+
+def load_batches():
+    """Merge batch_NN.py modules (units authored in groups of ~10)."""
+    here = Path(__file__).resolve().parent
+    only = os.environ.get("BATCHES")  # e.g. "batch_03" while authoring
+    for mod in sorted(p.stem for p in here.glob("batch_*.py")):
+        if only and mod not in only.split(","):
+            continue
+        m = importlib.import_module(mod)
+        clash = set(m.AUTHORED) & set(AUTHORED)
+        assert not clash, (mod, clash)
+        AUTHORED.update(m.AUTHORED)
+        NOTES_HI.update(m.NOTES_HI)
+        for n, kinds in m.AIDS.items():
+            AIDS[n] = kinds
+        for key, spec in getattr(m, "IMAGE_SPECS", {}).items():
+            IMAGE_SPECS[key] = spec
+            IMAGES[key] = (spec["file"], spec["alt"])
+
+
+def cid_of(n):
+    whole, _, part = str(n).partition(".")
+    return f"su1-{int(whole):03d}" + (f"-{part}" if part else "")
 
 dev = lambda s: S.transliterate(unicodedata.normalize("NFC", s), S.IAST,
                                 S.DEVANAGARI)
@@ -30,7 +61,6 @@ IAST_CH = set("āīūṛṝḷṅñṭḍṇśṣṃḥĀĪŪṚŚṢ")
 WORD = re.compile(r"[A-Za-zāīūṛṝḷṅñṭḍṇśṣṃḥĀĪŪṚŚṢ\-]+")
 QUOTE = re.compile(r"(?<![\w])[‘'’“\"]([A-Za-zāīūṛṝḷṅñṭḍṇśṣṃḥ\- ]{1,40}?)"
                    r"[’'’”\"](?![\w])")
-UNITS = 10
 
 
 def fold_char(c):
@@ -118,10 +148,22 @@ def aid_items(n, unit):
 
 def build(units):
     concepts, questions = [], []
-    for unit in units[:UNITS]:
+    previous = {}
+    last_in_section = {}
+    for unit in units:
+        sec = section_of(unit["n"])
+        previous[unit["n"]] = last_in_section.get(sec)
+        last_in_section[sec] = unit["n"]
+    for unit in units:
         n = unit["n"]
+        if n not in AUTHORED and os.environ.get("PARTIAL"):
+            continue  # a batch under construction
         authored = AUTHORED[n]
-        cid = f"su1-{int(n):03d}"
+        cid = cid_of(n)
+        section = section_of(n)
+        prev = previous[n]
+        requires = authored.get("requires",
+                                [cid_of(prev)] if prev else [])
         digits = number(n)
         kind = "गद्य" if unit["type"] == "prose" else "श्लोक"
         rows = []
@@ -152,16 +194,16 @@ def build(units):
         blocks.append({"label": "पाठ-टिप्पणी", "text": NOTES_HI[n]})
         concept = {
             "id": cid, "unit": "Chapter 1", "unitTitle": "दीर्घञ्जीवितीय",
-            "section": authored["section"],
+            "section": section,
             "title": f"{digits}. {authored['title']}",
-            "requires": authored.get("requires", []),
+            "requires": requires,
             "card": {"blocks": blocks, "rule": authored["rule"],
                      "limits": authored["limits"]},
             "question": authored["question"], "core": authored["core"],
         }
         concepts.append(concept)
         base = {"unit": "Chapter 1", "unitTitle": "दीर्घञ्जीवितीय",
-                "section": authored["section"], "concept": cid}
+                "section": section, "concept": cid}
         for question in authored["questions"]:
             q = dict(question)
             q = {k: v for k, v in q.items() if v is not None}
@@ -175,6 +217,7 @@ def build(units):
 def main():
     source, target = sys.argv[1], sys.argv[2]
     units = json.load(open(source, encoding="utf8"))
+    load_batches()
     concepts, questions = build(units)
     bank = {
         "id": "caraka-su1", "book": "चरकसंहिता — सूत्रस्थान १",
@@ -183,7 +226,7 @@ def main():
         "summary": ("The opening of the Charaka Samhita, Sūtrasthāna 1: the "
                     "chapter's announcement, Bharadvāja's search for long "
                     "life, the line of Āyurveda from Brahmā to Indra, and "
-                    "the sages who gathered on the Himālaya. Units 1 to 10."),
+                    "the sages who gathered on the Himālaya. Every verse of the chapter."),
         "genre": "चरकसंहिता",
         "unitSummaries": {"Chapter 1": (
             "How Āyurveda passed from Brahmā to Indra, why the sages "
