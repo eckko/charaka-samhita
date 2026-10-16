@@ -94,7 +94,7 @@ AUTHORED["22"] = {
              "Ātreya said to him: an intelligent person should not look at this in this "
              "way, Agniveśa."),
     "limits": ("This unit gives only the first words of the reply: a rejection of that "
-               "way of looking. It does not yet say what the right way is, nor name "
+               "way of looking. It does not say what the right way is, nor name "
                "any number."),
     "explain_hi": ("यह आत्रेय के उत्तर का आरम्भ है। ‘तम्’ (उनसे) और ‘उवाच’ (कहा) बताते हैं कि "
                    "वे अग्निवेश से बोल रहे हैं, और अन्त में ‘अग्निवेश’ सम्बोधन है। मुख्य वाक्य: "
@@ -179,7 +179,7 @@ AUTHORED["23"] = {
                    "जिस (स्रोत) से, जितने और जिन द्रव्यों से बनते हैं, यहाँ ‘संक्षेप से’ "
                    "(संग्रहेण) कहे गए हैं, और वैसे ही इनके छह आश्रय भी। ‘यावन्ति’ का "
                    "अर्थ ‘जितने’ है और ‘उक्तानि’ ‘कहे गए’। ‘षडाश्रयाः’ = षट् + आश्रयाः, "
-                   "यानी ‘छह आधार’; श्लोक उनके नाम नहीं देता (नाम पहले की इकाई ५ में आए हैं)।"),
+                   "यानी ‘छह आधार’; श्लोक उनके नाम नहीं देता (इकाई ५ में ‘षड् विरेचनाश्रयाः’ आए हैं; यह श्लोक स्वयं उनके नाम नहीं देता)।"),
     "hook": "छह सौ विरेचन संक्षेप में कहे गए (यतः, यावन्ति, यैर्द्रव्यैः) और उनके छह आश्रय भी।",
     "core": False,
     "questions": [
@@ -276,7 +276,7 @@ AUTHORED["24"] = {
               "These words give what is named, with what exclusion, and what the result concerns.",
               "रसाः = tastes; लवणवर्ज्याः = excluding salt; संज्ञिताः = named; योनिः = source."),
         fill(2, "The word meaning 'fivefold' in verse 24 is ____ (type it in Devanagari).",
-             ["पञ्चविधा"],
+             ["पञ्चविधा", "पंचविधा"],
              "Line 2 says पञ्चविधा योनिः: the source is fivefold.",
              "पञ्चविधा is पञ्च ('five') + विधा ('kind'), feminine singular to agree with योनिः: 'of five kinds'.",
              "पञ्चविधा = fivefold; it describes the feminine योनिः."),
@@ -328,7 +328,7 @@ AUTHORED["25"] = {
                "'further'. The verse does not say what the fifty are."),
     "explain_hi": ("यह श्लोक दो संख्याएँ गिनाता है: इन (कषायों) की ‘कल्पना’ (तैयार करने की विधि) "
                    "भी ‘पञ्चविध’ (पाँच प्रकार की) कही गई, और महान् कषायों के ‘पचास’ "
-                   "(पञ्चाशत्) वर्ग बताए गए। ‘तथा’ (वैसे ही) पिछले श्लोक की बात को जोड़ता है। "
+                   "(पञ्चाशत्) वर्ग बताए गए। ‘तथा’ = वैसे ही, जोड़ने वाला शब्द। "
                    "पाँच कल्पनाओं के नाम इस श्लोक में नहीं हैं; इकाई ७ में पाँच कहकर छह नाम "
                    "आए हैं, और उसे हल नहीं किया गया। ‘पुनः’ का अर्थ ‘फिर’ या ‘और’ हो सकता है।"),
     "hook": "कल्पना (तैयारी) पाँच प्रकार की; महान् कषाय पचास।",
@@ -341,7 +341,7 @@ AUTHORED["25"] = {
             [("Five",
               "Five is the number of kinds of preparation, not of great kaṣāyas."),
              ("Five hundred",
-              "Five hundred is the number in verse 26, for the other kaṣāyas."),
+              "Five hundred is the number in verse 26."),
              ("Six hundred",
               "Six hundred is the number of purgatives in verse 23.")],
             "पञ्चाशत् = fifty, said of the great kaṣāyas.",
@@ -352,7 +352,7 @@ AUTHORED["25"] = {
               "These words say what is fivefold and what is enumerated.",
               "कल्पनम् = preparation; पञ्चविधम् = fivefold; महताम् = of the great; परिकीर्तिता = enumerated."),
         fill(2, "The number word meaning 'fifty' in verse 25 is ____ (type it in Devanagari).",
-             ["पञ्चाशत्", "पञ्चाशत"],
+             ["पञ्चाशत्", "पञ्चाशत", "पंचाशत्", "पंचाशत"],
              "Line 2 ends with पञ्चाशत् परिकीर्तिता: fifty are enumerated.",
              "पञ्चाशत् is a feminine noun-number, and परिकीर्तिता is feminine too, so they agree: 'fifty (are) enumerated'.",
              "पञ्चाशत् = fifty; it agrees with the feminine परिकीर्तिता."),
@@ -402,8 +402,8 @@ AUTHORED["26"] = {
     "limits": ("The verse does not say how the five hundred are divided. भागशः "
                "can also be read as 'in divisions'. It gives no list."),
     "explain_hi": ("यह श्लोक कहता है कि ‘पाँच सौ’ कषाय भी ‘भागशः’ (भाग-भाग करके) कहे गए हैं, "
-                   "‘लक्षणार्थम्’ (पहचान या नमूने के लिए)। कारण ‘हि’ (क्योंकि) के बाद आता है: "
-                   "‘विस्तर की कोई सीमा (प्रमाण) नहीं मिलती’ (‘न विद्यते’)। ‘शतानि’ का अर्थ "
+                   "‘लक्षणार्थम्’ (पहचान/लक्षण बताने के लिए)। कारण ‘हि’ (क्योंकि) के बाद आता है: "
+                   "‘विस्तार की कोई सीमा (प्रमाण) नहीं मिलती’ (‘न विद्यते’)। ‘शतानि’ का अर्थ "
                    "‘सैकड़े’ है, इसलिए ‘पञ्च … शतानि’ = पाँच सौ। ‘च’ और ‘अपि’ दोनों ‘और भी’ का "
                    "भाव देते हैं। श्लोक यह नहीं बताता कि भाग कैसे बँटे हैं।"),
     "hook": "पाँच सौ कषाय भाग-भाग करके, पहचान के लिए, क्योंकि विस्तार की सीमा नहीं।",
@@ -477,7 +477,7 @@ AUTHORED["27"] = {
                "subject 'this exposition' is understood, not printed. न … अलम् is "
                "taken as 'does not suffice'."),
     "explain_hi": ("पहली पंक्ति: ‘अतिसंक्षेप’ (बहुत अधिक संक्षिप्त होना) ‘सामर्थ्य’ के लिए ‘अलम्’ "
-                   "(पर्याप्त) नहीं होता, यानी ज्ञान की क्षमता नहीं बनाता। दूसरी पंक्ति: "
+                   "(पर्याप्त) नहीं होता,  दूसरी पंक्ति: "
                    "‘इसलिए’ (तस्मात्) अल्पबुद्धि वाले के लिए यह (वर्णन) न बहुत संक्षिप्त है, न बहुत "
                    "विस्तृत। यही भाव गद्य इकाई २० में भी है। ‘अयम्’ का संज्ञा-पद ‘वर्णन’ श्लोक में "
                    "नहीं छपा, उसे समझ लिया गया है। ‘अल्पबुद्धेः’ षष्ठी एकवचन है: ‘अल्प बुद्धि वाले का/के लिए’।"),
@@ -504,7 +504,7 @@ AUTHORED["27"] = {
               "These words carry the argument: brevity, what it fails to give, for whom, and the conclusion.",
               "अतिसंक्षेपः = excessive brevity; सामर्थ्याय = for capability; अल्पबुद्धेः = of little intelligence; तस्मात् = therefore."),
         fill(2, "The word meaning 'therefore' in verse 27 is ____ (type it in Devanagari, as the card shows it).",
-             ["तस्मात्"],
+             ["तस्मात्", "तस्मात"],
              "Line 2 has तस्मान्नातिसंक्षेपविस्तरः, which begins with तस्मात्.",
              "तस्मात् is an ablative form used as an adverb: 'for that reason, therefore'. It draws the conclusion from line 1.",
              "तस्मात् = therefore; it introduces the conclusion."),
@@ -517,17 +517,17 @@ AUTHORED["27"] = {
             "सामर्थ्यायोपकल्पते is सामर्थ्याय (for capability) + उपकल्पते (serves).",
             "अ + उ → ओ: सामर्थ्याय + उपकल्पते → सामर्थ्यायोपकल्पते."),
         mcq("apply", 4,
-            "How does verse 27 reach its conclusion about the exposition?",
-            ("Excessive brevity does not suffice, so the exposition is kept neither too brief nor too elaborate",
-             "Line 1 gives the reason; तस्मात् in line 2 draws the conclusion for one of little intelligence."),
-            [("The exposition is as brief as possible, so that it is easily learnt",
-              "The verse says excessive brevity does not suffice."),
-             ("The exposition is very long, so that nothing is missed",
-              "The verse also says it is not too elaborate."),
-             ("The exposition is for the learned alone, who need no detail",
-              "The verse speaks of one of little intelligence, not the learned.")],
-            "The verse argues from the failure of excessive brevity to the middle way.",
-            "Reason (brevity fails) → तस्मात् → neither extreme."),
+            "What reason does line 1 of verse 27 give, on which तस्मात् then builds?",
+            ("Excessive brevity does not suffice for capability",
+             "Line 1 says न अलम् अतिसंक्षेपः सामर्थ्याय उपकल्पते; तस्मात् then draws the conclusion."),
+            [("Detailed teaching is always harmful",
+              "The verse says nothing against detail."),
+             ("The learned need no teaching",
+              "The learned are not mentioned in this verse."),
+             ("Brevity makes drugs stronger",
+              "The verse speaks of capability, not of the strength of drugs.")],
+            "The reason is in line 1: excessive brevity does not suffice for capability; line 2 begins with तस्मात्.",
+            "Reason (line 1) → तस्मात् → conclusion (line 2)."),
         mcq("transfer", 5,
             "An invented phrase: अल्पबलस्य रोगिणः (बल = strength). By the pattern of अल्पबुद्धेः, what does it mean?",
             ("Of a patient of little strength",
@@ -558,7 +558,7 @@ AUTHORED["28"] = {
                    "‘व्यवहार’ (प्रयोग/उपयोग) के लिए, और ‘बुधानाम्’ (बुद्धिमानों) की बुद्धि की "
                    "वृद्धि के लिए। ‘हि’ (क्योंकि) के बाद कारण आता है: कषायों का यह ‘पचास का वर्ग’ "
                    "(पञ्चाशत्को वर्गः) कहा गया है। ‘व्यवहाराय’ और ‘वृद्धये’ चतुर्थी (तादर्थ्य, "
-                   "‘के लिए’) हैं। ‘मन्द’ और ‘बुध’ दो विपरीत सिरे हैं, और दोनों के लिए एक ही वर्ग "
+                   "‘के लिए’) हैं। (मेरी पढ़त:) ‘मन्द’ और ‘बुध’ दो छोर जैसे हैं, और दोनों के लिए एक ही वर्ग "
                    "उपयोगी बताया गया है।"),
     "hook": "मन्द → व्यवहार के लिए; बुध → बुद्धि की वृद्धि के लिए; दोनों के लिए पचास का वर्ग।",
     "core": False,
@@ -632,7 +632,7 @@ AUTHORED["29"] = {
                "'These' (तेषाम्) refers to the kaṣāyas of the preceding verses."),
     "explain_hi": ("यह अन्तिम श्लोक वैद्य की पहचान देता है। जो उन (कषायों) के ‘बाह्य’ और "
                    "‘आभ्यन्तर’ कर्मों में तीन बातें जानता है, वह ‘भिषग्वर’ (श्रेष्ठ वैद्य) है: "
-                   "‘योग’ (प्रयोग-योग/उपयोग), ‘संयोग’ (मेल) और ‘प्रयोग’ (देना)। ‘योगम्’ का "
+                   "‘योग’ (उपयोग), ‘संयोग’ (मेल) और ‘प्रयोग’ (देना)। ‘योगम्’ का "
                    "अन्वय बाह्य और आभ्यन्तर दोनों कर्मों के साथ लिया गया है। ‘यः … सः’ "
                    "का जोड़ा ‘जो … वह’ का भाव देता है। तीनों शब्दों का भेद श्लोक नहीं समझाता; "
                    "यहाँ उनके सीधे अर्थ ही रखे हैं।"),
@@ -700,8 +700,8 @@ NOTES_HI = {
            "ह्येव + अङ्गानि → ह्येवाङ्गानि; अङ्गानि + उपप्लवन्ते → अङ्गान्युपप्लवन्ते (इ + उ → ्यु)।"),
     "22": ("पाठ-संशय नहीं है। ‘तमुवाच’ = तम् + उवाच; ‘नैतदेवं’ = न + एतत् + एवम् (अ + ए → ऐ; एतत् का त् "
            "स्वर से पहले द् होता है)। ‘बुद्धिमता’ तृतीया एकवचन है, और ‘द्रष्टव्यम्’ √दृश् का विधि-कृदन्त "
-           "(‘देखना चाहिए’) है। ‘भगवानात्रेयः’ = भगवान् + आत्रेयः। ‘एवं’ का अर्थ ‘इस प्रकार’ है; यह किस "
-           "प्रकार की ओर संकेत करता है, यह अगली बातों से स्पष्ट होता है, इस इकाई से नहीं।"),
+           "(‘देखना चाहिए’) है। ‘भगवानात्रेयः’ = भगवान् + आत्रेयः। ‘एवं’ का अर्थ ‘इस प्रकार’ है; वह अग्निवेश की पिछली "
+           "शंका की ओर संकेत करता है; इस इकाई में उससे आगे कुछ नहीं कहा गया।"),
     "23": ("पाठ-संशय नहीं है। पहले ‘तत्र श्लोकाः’ (यहाँ, इस विषय में, श्लोक) लगा है। ‘यतः’ का अर्थ "
            "‘जिस (स्रोत) से’ लिया गया; ‘क्योंकि’ भी हो सकता है। ‘उक्तानि’ नपुंसक बहुवचन है और "
            "‘विरेचनशतानि’ से मेल खाता है। ‘षडाश्रयाः’ = षट् + आश्रयाः (ट् + स्वर → ड्); इसे ‘छह आश्रय’ "
@@ -709,7 +709,7 @@ NOTES_HI = {
            "‘संग्रहेणेह’ = संग्रहेण + इह (अ + इ → ए); ‘तथैवैषाम्’ = तथा + एव + एषाम् (आ + ए → ऐ; अ + ए → ऐ)।"),
     "24": ("पाठ-संकेत: स्रोत में एक भटका ‘&’ हटाया गया था; टोकन ठीक पढ़ते हैं और छन्द (१६+१६) बैठता है, "
            "इसलिए शब्द-विभाजन की कोई समस्या नहीं दिखी। ‘कषाय’ यहाँ वर्ग का नाम है, केवल कसैला स्वाद नहीं। "
-           "‘लवणवर्ज्याः’ को ‘जिनमें लवण छोड़ा गया’ पढ़ा गया है (तत्पुरुष)। ‘रसा’ = रसाः (आः + घोष: विसर्ग "
+           "‘लवणवर्ज्याः’ को ‘लवण को छोड़कर’ पढ़ा गया है (डेटा: तत्पुरुष)। ‘रसा’ = रसाः (आः + घोष: विसर्ग "
            "लुप्त); ‘लवणवर्ज्याश्च’ = लवणवर्ज्याः + च (विसर्ग + च → श्च); ‘कषाय इति’ = कषायः + इति "
            "(अः + इ: विसर्ग लुप्त); ‘कषायाणामुदाहृता’ = कषायाणाम् + उदाहृता।"),
     "25": ("पाठ-संशय नहीं है। ‘कल्पन’ का अर्थ ‘तैयार करने की विधि’ लिया गया; इस श्लोक में पाँच नाम नहीं हैं। "
@@ -757,7 +757,7 @@ AIDS = {
         "chunks": "तमुवाच भगवानात्रेयः ‖ नैतदेवं बुद्धिमता | द्रष्टव्यमग्निवेश।",
     },
     "23": {
-        "frame": "क्या: छह सौ विरेचन · कैसे: संक्षेप में कहे गए (संग्रहेण) · किस आधार पर: यतः, यावन्ति, यैर्द्रव्यैः · साथ में: इनके छह आश्रय।",
+        "frame": "क्या: छह सौ विरेचन · कैसे: संक्षेप में कहे गए (संग्रहेण) · किस स्रोत से, कितने, किन द्रव्यों से: यतः, यावन्ति, यैर्द्रव्यैः · साथ में: इनके छह आश्रय।",
         "diagram": {"groups": [
             _g("पंक्ति १", "यतो यावन्ति यैर्द्रव्यैर्विरेचनशतानि षट्"),
             _g("पंक्ति २", "उक्तानि संग्रहेणेह तथैवैषां षडाश्रयाः")]},
@@ -788,7 +788,7 @@ AIDS = {
         "anchors": "पञ्चविधम् = पाँच प्रकार का (नाम इस श्लोक में नहीं) · पञ्चाशत् = पचास, स्त्रीलिङ्ग, ‘परिकीर्तिता’ के साथ मेल · तथा = वैसे ही।",
     },
     "26": {
-        "frame": "क्या: पाँच सौ कषाय (शतानि) · कैसे: भाग-भाग करके · किसलिए: लक्षण के लिए · क्यों: विस्तर की सीमा नहीं।",
+        "frame": "क्या: पाँच सौ कषाय (शतानि) · कैसे: भाग-भाग करके · किसलिए: लक्षण के लिए · क्यों: विस्तार की सीमा नहीं।",
         "diagram": {"groups": [
             _g("पंक्ति १", "पञ्च चापि कषायाणां शतान्युक्तानि भागशः"),
             _g("पंक्ति २", "लक्षणार्थं प्रमाणं हि विस्तरस्य न विद्यते")]},
@@ -820,9 +820,9 @@ AIDS = {
             _g("पंक्ति १", "तेषां कर्मसु बाह्येषु योगमाभ्यन्तरेषु च"),
             _g("पंक्ति २", "संयोगं च प्रयोगं च यो वेद स भिषग्वरः")]},
         "chain": {"steps": [
-            "योग: प्रयोग-योग (उपयोग)",
+            "योग: उपयोग (application)",
             "संयोग: मेल",
-            "प्रयोग: देना, व्यवहार में लाना",
+            "प्रयोग: देना, प्रयुक्त करना",
             "जो जानता है, वह भिषग्वर"]},
         "sandhi": "योगम् + आभ्यन्तरेषु → योगमाभ्यन्तरेषु (म् + आ जुड़ता है) · यः + वेद → यो वेद (अः + घोष → ओ) · सः + भिषग्वरः → स भिषग्वरः (सः का विसर्ग व्यंजन से पहले लुप्त) · भिषज् + वरः → भिषग्वरः (ज् → ग्)।",
         "chunks": "तेषां कर्मसु बाह्येषु | योगमाभ्यन्तरेषु च ‖ संयोगं च प्रयोगं च | यो वेद स भिषग्वरः।",
@@ -845,8 +845,8 @@ IMAGE_SPECS = {
         "alt": "Chain of four boxes for verse 29: yoga, saṃyoga, prayoga, and the one who knows them is the best of physicians.",
         "type": "chain",
         "title": "श्लोक २९: श्रेष्ठ वैद्य",
-        "steps": ["योग: प्रयोग-योग (उपयोग)", "संयोग: मेल",
-                  "प्रयोग: देना, व्यवहार में लाना",
+        "steps": ["योग: उपयोग (application)", "संयोग: मेल",
+                  "प्रयोग: देना, प्रयुक्त करना",
                   "जो जानता है, वह भिषग्वर"],
     },
 }
