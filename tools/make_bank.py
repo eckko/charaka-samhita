@@ -204,22 +204,22 @@ def build(units, ch=1):
         if unit["type"] == "verse":
             verse_lines[-1] += f" ॥ {digits} ॥"
         blocks = [
-            {"label": "संदर्भ",
+            {"key": "ref", "label": "संदर्भ",
              "text": (f"चरकसंहिता · सूत्रस्थान · अध्याय {chd} · {kind} {digits}। "
                       "पाठ: SARIT (एक ही स्रोत)। हिन्दी और English: "
                       "AI-रचित, AI-समीक्षित; विद्वान् से जाँच शेष।")},
-            {"label": "श्लोक" if kind == "श्लोक" else "मूल पाठ",
+            {"key": "verse", "label": "श्लोक" if kind == "श्लोक" else "मूल पाठ",
              "study": True, "lines": verse_lines},
-            {"label": "पद-विच्छेद", "study": True, "words": chip_rows(rows)},
-            {"label": "हिन्दी", "study": True, "text": unit["hindi"]},
-            {"label": "English", "study": True,
+            {"key": "words", "label": "पद-विच्छेद", "study": True, "words": chip_rows(rows)},
+            {"key": "hindi", "label": "हिन्दी", "study": True, "text": unit["hindi"]},
+            {"key": "english", "label": "English", "study": True,
              "text": fold(unit["english"])},
-            {"label": "व्याख्या", "study": True,
+            {"key": "explain", "label": "व्याख्या", "study": True,
              "text": authored["explain_hi"]},
-            {"label": "स्मरण-सहायक", "study": True,
+            {"key": "aids", "label": "स्मरण-सहायक", "study": True,
              "aids": aid_items(n, unit, ch)},
         ]
-        blocks.append({"label": "पाठ-टिप्पणी", "text": NOTES_HI[n]})
+        blocks.append({"key": "note", "label": "पाठ-टिप्पणी", "text": NOTES_HI[n]})
         concept = {
             "id": cid, "unit": unit_name, "unitTitle": unit_title,
             "section": section,
@@ -262,7 +262,7 @@ def main():
                     "how Āyurveda came down from Brahmā to the sages, the "
                     "drugs and gruels of the five cleansing treatments, "
                     "the pastes applied to the skin, and the fifty groups of ten drugs."),
-        "genre": "चरकसंहिता",
+        "genre": "चरकसंहिता", "scrollButtons": True,
         "unitSummaries": {
             "Chapter 1": (
                 "How Āyurveda passed from Brahmā to Indra, why the sages "
