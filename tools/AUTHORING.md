@@ -141,3 +141,21 @@ verse you are unsure about.
   stems <=25 words with a single "?"; no "listed in verses X-Y" claims unless checked; do not add
   etymologies or interpretations not in the data; say "my own picture" for pegs; keep claims about the
   edition's typos tied to the data's text_flags.
+
+
+---
+# CHAPTER 3 (Āragvadhīya, Su. 3) differences — these override the above, and the Chapter 2 notes apply with these changes
+- Data: /home/claude/charaka-samhita/data/sutrasthana3_verses.json (30 units, keys "1".."30"). Your file is
+  `ch3_batch_NN.py` in tools/; concept ids are su3-NNN; picture file names start with "ch3-"; sections are
+  RANGES_3 in tools/sections.py. Self-check: `BATCHES=ch3_batch_NN PARTIAL=1 python3 make_bank.py ../data /tmp/chk/c3NN.json`
+  then the validator, then `python3 make_aid_images.py /tmp/chk/img3NN`; delete tools/__pycache__.
+- Metre: these verses are Upajāti (22 syllables per printed line, two pādas of 11), not anuṣṭubh. The generator adds
+  no automatic metre aid here. Do NOT write a "metre" aid and do not say 8+8 anywhere.
+- Subject: the chapter lists drugs for medicinal powder-pastes (pradeha/lepa) for skin disease, vāta, headache, etc.,
+  and verse 30 says 32 such pradehas. Ch.2 rules on drug claims apply fully: no identification of a plant beyond the
+  data glosses, no effect or dosage claim beyond the verse, no question on a plant's identity or on contested
+  construals (the data notes mark many). Good question types: which condition a drug list serves, which verse's
+  list is for which purpose, sandhi and compound splits (long drug compounds), case/number (dual -ए/-औ forms such as
+  haridre, śatāhve), the pradeha frame sentences, and transfer on that frame. Many verses are lists that continue
+  from the previous unit; say so and keep each question within the unit.
+- Verse 16 refers to the drugs of verse 15 and verse 6 closes the list begun in verse 3: state such links on the card.
