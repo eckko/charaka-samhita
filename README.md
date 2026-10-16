@@ -6,20 +6,20 @@ card has the Devanagari text, a tap-to-open word split with grammar, Hindi,
 English, an explanation, a block of memory aids (13 kinds: chain, first
 letters, यदा–तदा pairs, sandhi rule, who/to whom/why, word families,
 diagram, metre, rhythm chunks, picture words, sound-alikes, look-alike
-pairs, story), a text note, and a hand-written six-question ladder (1,062
+pairs, story), a text note, and a hand-written six-question ladder (1,416
 questions in all). Settings has a "Sanskrit cards" section where each kind
 and each part of the card can be shown or hidden, and the verse font chosen (all on at first; saved with the book settings and synced to your account when signed in). Hindi, English and all
 memory aids are AI-written and AI-reviewed (two independent review passes);
 a scholar's check is still pending.
 
 **This repo is a book shell.** `index.html` loads all quiz code from tag
-`2.2.0` of `eckko/recall-quiz-site-template` on jsDelivr (move to another
+`2.2.1` of `eckko/recall-quiz-site-template` on jsDelivr (move to another
 tag with `python3 tools/set_template_tag.py TAG`; the tag must exist). The
 book sets its own start theme (Parchment & Teal) in `index.html`.
 
 | Path | What it is |
 |---|---|
-| `index.html` | Loader: favicon, the book's start-up choices, template tag 2.2.0 |
+| `index.html` | Loader: favicon, the book's start-up choices, template tag 2.2.1 |
 | `tools/set_template_tag.py` | Moves `index.html` to another exact template tag |
 | `questions.json` | The bank for all four chapters (book id `caraka-sutra`), generated from `data/` |
 | `data/sutrasthana1_verses.json`, `sutrasthana2_verses.json` | Source data: verse text, word split, Hindi, English, flags, notes |
@@ -29,6 +29,8 @@ book sets its own start theme (Parchment & Teal) in `index.html`.
 | `tools/ch4_batch_02.py` … `ch4_batch_04.py` | The same for Su. 4 (units 1 to 29; prose units 1 to 22, anuṣṭubh verses 23 to 29); its sections are `RANGES_4`. Long prose lines are cut into rows of at most 30 word chips |
 | `tools/ch3_batch_02.py` … `ch3_batch_04.py` | The same for Su. 3 (units 1 to 30, Upajāti metre so no metre aid); its sections are `RANGES_3` in `tools/sections.py` |
 | `tools/batch_02.py` … `batch_14.py` | The same for Su. 1 units 11 to 140, in batches of about ten; `tools/sections.py` holds the section of every unit; `tools/AUTHORING.md` is the writing guide |
+| `docs/HANDOFF.md`, `docs/DATA-CONTEXT.md`, `docs/review-queue.md` | How to continue; the data description to give other AI agents; units needing a look |
+| `tools/pipeline/`, `data/sarit_unit_counts.json` | Briefs and scripts for drafting and reviewing new chapters; unit counts of all SARIT chapters |
 | `tools/gram_hi.py` | Hindi grammar labels for the word chips |
 | `tools/ch1_aids.py`, `tools/metre.py` | Hand-written memory aids; the metre cut (8+8 akṣaras) is computed |
 | `tools/make_aid_images.py`, `images/aids/` | The small pictures (drawn as SVG) used by the picture words and diagram aids |
