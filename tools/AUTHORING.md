@@ -159,3 +159,32 @@ verse you are unsure about.
   haridre, śatāhve), the pradeha frame sentences, and transfer on that frame. Many verses are lists that continue
   from the previous unit; say so and keep each question within the unit.
 - Verse 16 refers to the drugs of verse 15 and verse 6 closes the list begun in verse 3: state such links on the card.
+
+
+---
+# CHAPTER 4 (Ṣaḍvirecanaśatāśritīya, Su. 4) differences — these override the above; Chapter 2 and 3 notes apply with these changes
+- Data: /home/claude/charaka-samhita/data/sutrasthana4_verses.json (29 units, keys "1".."29"). Your file is
+  `ch4_batch_NN.py` in tools/; concept ids are su4-NNN; picture file names start with "ch4-"; sections are RANGES_4 in
+  tools/sections.py. Self-check: `BATCHES=ch4_batch_NN PARTIAL=1 python3 make_bank.py ../data /tmp/chk/c4NN.json`, then the
+  validator, then `python3 make_aid_images.py /tmp/chk/img4NN`; delete tools/__pycache__.
+- Units 1-22 are PROSE (no metre); units 23-29 are anuṣṭubh verses (the generator adds the metre aid automatically; never write a
+  "metre" aid). Unit 23 carries the lead-in "tatra ślokāḥ". Prose units have no "who/whom" frame; use chain/diagram/chunks/contrast/
+  letters/anchors/sandhi kinds as fits.
+- Subject: the chapter says there are 600 purgative formulas, their six sources (kṣīra, mūla, tvak, patra, puṣpa, phala), the
+  five kinds of kaṣāya "source", the five preparations (svarasa, kalka, śṛta, śīta, phāṇṭa — the text says "five" but lists
+  six names incl. kaṣāya; say so on the card, do not resolve it), the 50 mahākaṣāya classes of ten drugs each (units 8-18), the
+  exchange where Agniveśa objects that the 500 do not fill up and Ātreya replies (21-22), and a verse summary (23-29).
+- Drug-name lists: the data's `notes` list the ten names of every group as split by the draft and checked by a second reviewer.
+  RULES: (1) no identification of any plant, no effect, no dose beyond what the Sanskrit says; (2) the name of a class
+  (jīvanīya, bṛṃhaṇīya ...) is a LABEL given by the text: gloss literally as the data does; (3) good questions use the STRUCTURE:
+  how many drugs a group has ("daśemāni"), which class a list belongs to by its closing label, how many classes in a section (unit 8:
+  6,4,6,4,7,3,5,5,5,5 = 50), order of classes, sandhi/compound splits of printed tokens, the frame sentence "daśemāni X bhavanti",
+  and transfer on that frame; (4) you MAY ask whether a drug name is in a group only for names that the data prints as a clean
+  separate token or whose split carries no flag/doubt in `notes`, never for names marked doubtful (list of doubtful units:
+  9, 10, 11, 12, 13, 14, 15, 17, 18 have boundary doubts; read each unit's `notes`/`text_flags`); (5) never build a question
+  on a contested number: unit 4's "133" is inferred (ask only what the unit says in words: the total 600, the number of
+  sources), unit 17 group 3 has eleven names as printed, unit 15 group 2 is 11 as split, unit 7 says five but lists six;
+  (6) a list continues across units 9-18: state "this is classes X-Y of 50" on the card and keep each question within the unit;
+  (7) typos flagged in text_flags (e.g. 'rśoghraḥ for 'rśoghnaḥ) go in NOTES_HI as flags, never as questions.
+- Pictures: list-heavy units may have a chain/table/split image (e.g. the 50 classes by size of section in unit 8: a table),
+  at most ~1 picture per 3 units; text in pictures must equal the aid text and be Devanagari.

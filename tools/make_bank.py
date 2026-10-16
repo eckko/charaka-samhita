@@ -33,6 +33,8 @@ CHAPTERS = {
         "A": {}, "N": {}, "AI": {}, "IM": {}},
     3: {"title": "आरग्वधीय", "glob": "ch3_batch_*.py",
         "A": {}, "N": {}, "AI": {}, "IM": {}},
+    4: {"title": "षड्विरेचनशताश्रितीय", "glob": "ch4_batch_*.py",
+        "A": {}, "N": {}, "AI": {}, "IM": {}},
 }
 
 
@@ -244,10 +246,10 @@ def main():
         "id": "caraka-sutra", "book": "चरकसंहिता — सूत्रस्थान",
         "labels": {"unit": "Chapter", "units": "chapters", "topic": "Verse",
                    "whole": "Whole chapter"},
-        "summary": ("The Charaka Samhita, Sūtrasthāna chapters 1 to 3: "
+        "summary": ("The Charaka Samhita, Sūtrasthāna chapters 1 to 4: "
                     "how Āyurveda came down from Brahmā to the sages, the "
                     "drugs and gruels of the five cleansing treatments, "
-                    "and the pastes applied to the skin."),
+                    "the pastes applied to the skin, and the fifty groups of ten drugs."),
         "genre": "चरकसंहिता",
         "unitSummaries": {
             "Chapter 1": (
@@ -258,7 +260,10 @@ def main():
                 "gruels, and the physician who can use them."),
             "Chapter 3": (
                 "The thirty-two medicinal pastes (pradeha) and the "
-                "conditions of the skin and body they are used for.")},
+                "conditions of the skin and body they are used for."),
+            "Chapter 4": (
+                "The six hundred purgative formulas, the five kinds of "
+                "preparation, and the fifty groups of ten drugs each.")},
         "concepts": concepts, "questions": questions}
     json.dump(bank, open(target, "w", encoding="utf8"), ensure_ascii=False,
               indent=1)
