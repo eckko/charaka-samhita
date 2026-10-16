@@ -16,7 +16,7 @@ AUTHORED["1"] = {
                "promises an exposition; it lists no drug and gives no "
                "teaching yet. That the name comes from the first drug of the "
                "chapter is the data's note, not something this sentence says."),
-    "explain_hi": ("यह अध्याय का आरम्भ-वाक्य है; सूत्रस्थान के अध्याय इसी साँचे में खुलते हैं। "
+    "explain_hi": ("यह अध्याय का आरम्भ-वाक्य है, एक मानक साँचा (डेटा की टिप्पणी)। "
                    "‘अथ’ का अर्थ ‘अब’ और ‘अतः’ का अर्थ ‘इसलिए’ है; दोनों मिलकर ‘अथातः’ बनते हैं "
                    "और छपे पाठ में विसर्ग ‘आरग्वधीयम्’ से पहले लुप्त होकर ‘अथात आरग्वधीयम्…’ दिखता है। "
                    "‘आरग्वधीयम्’ अध्याय का नाम है (‘आरग्वध से सम्बन्धित’), और ‘व्याख्यास्यामः’ का अर्थ है "
@@ -222,7 +222,7 @@ AUTHORED["3"] = {
               "Verse 3 is a bare list of two drug groups; the verbs and the uses come later.",
               "Verse 3: two drug groups, no verb, no use, no dose."),
         mcq("transfer", 5,
-            "A made-up line lists लते शुष्के (लता = creeper, a feminine word in -आ). By the pattern of हरिद्रे, how many creepers?",
+            "A made-up line lists लते शुष्के as subjects, nominative case (लता = creeper, feminine in -आ). By the pattern of हरिद्रे, how many creepers?",
             ("Two (a dual)", "-आ nouns form a feminine nominative dual in -ए, as हरिद्रा gives हरिद्रे."),
             [("One", "The singular would be लता."),
              ("Many", "The plural would be लताः."),
@@ -303,8 +303,8 @@ AUTHORED["4"] = {
               [("वत्सकसप्तपर्णौ", "Right: it is in the second line."),
                ("कुष्ठम्", "Right: कुष्ठं is in the second line."),
                ("लशुनः", "Right: लशुनः is in the first line."),
-               ("करवीरकत्वक्", "That is the last item of verse 3."),
-               ("मनःशिलाले", "That is in verse 5.")],
+               ("करवीरकत्वक्", "Not in verse 4; it is the last item of verse 3 (also in verse 10)."),
+               ("मनःशिलाले", "Not in verse 4; it is in verse 5 (also in verse 10).")],
               [0, 1, 2],
               "The first three are in verse 4; the last two belong to verses 3 and 5.",
               "Know which list each name belongs to: verse 3, 4 or 5."),
@@ -313,7 +313,7 @@ AUTHORED["4"] = {
             ("A son and a pupil, a pair", "The ending -औ marks two members, as in वत्सक and सप्तपर्ण."),
             [("A single person who is both son and pupil", "A dual pair names two members, not one person."),
              ("Many sons and pupils", "The plural would end in -आः."),
-             ("A son of a pupil", "That would be a genitive compound, which the ending -औ does not make.")],
+             ("A son of a pupil", "-औ marks two, so a singular 'a son of a pupil' does not fit.")],
             "In a pair of masculine -अ words, the dual ends in -औ: पुत्र + शिष्य → पुत्रशिष्यौ.",
             "Dvandva of two masculine -अ stems, nominative dual: -औ.",
             teaches="Reading -औ at the end of a joined pair as 'the two, A and B' gives the list sense."),
@@ -321,7 +321,7 @@ AUTHORED["4"] = {
 }
 
 NOTES_HI["4"] = ("संधियाँ जाँची: ग्रन्थिः + च → ग्रन्थिश्च (विसर्ग + च → श्); भौर्जः + लशुनः → भौर्जो लशुनः, सलोमशः + गुग्गुलु… → सलोमशो गुग्गुलु…, "
-                 "फणिज्झकः + वत्सक… → फणिज्झको वत्सक… (अः + घोष → ओ); सुमनः + प्रवालाः में विसर्ग प म से पहले बना रहता है। "
+                 "फणिज्झकः + वत्सक… → फणिज्झको वत्सक… (अः + घोष → ओ); सुमनः + प्रवालाः में विसर्ग प से पहले बना रहता है। "
                  "डेटा के अनुसार संदिग्ध: ‘सलोमशः’ को स + लोमश पढ़ा गया है, पर वह ‘रोमवाला’ विशेषण भी हो सकता है; ‘गुग्गुलुकृष्णगन्धे’ को द्विवचन द्वन्द्व पढ़ा गया है, "
                  "लिंग (नपुंसक या स्त्री) अनिश्चित। ‘पीलूनि’ नपुंसक बहुवचन है। कोई पाठभेद या पाठ-दोष नहीं दिया गया।")
 
@@ -334,14 +334,14 @@ AIDS["4"] = {
          "items": ["फणिज्झको", "वत्सकसप्तपर्णौ", "पीलूनि", "कुष्ठं", "सुमनःप्रवालाः"]}]},
     "sandhi": "विसर्ग + च → श्च: ग्रन्थिः + च → ग्रन्थिश्च। अः + घोष → ओ: भौर्जः + लशुनः → भौर्जो लशुनः; फणिज्झकः + वत्सक… → फणिज्झको वत्सक…। सुमनः + प्रवालाः: विसर्ग बना रहता है।",
     "contrast": "वत्सक (एक) ↔ वत्सकसप्तपर्णौ (वत्सक और सप्तपर्ण, दो): अन्त का -औ द्विवचन।",
-    "anchors": "-औ / -े = द्विवचन के संकेत (वत्सकसप्तपर्णौ, गुग्गुलुकृष्णगन्धे) · पीलूनि = नपुंसक बहुवचन · सुमनःप्रवालाः = सुमनस् + कोंपलें।",
+    "anchors": "वत्सकसप्तपर्णौ, गुग्गुलुकृष्णगन्धे में अन्त का -औ / -ए द्विवचन है (इन दोनों शब्दों में) · पीलूनि = नपुंसक बहुवचन · सुमनःप्रवालाः = सुमनस् + कोंपलें।",
     "chunks": "ग्रन्थिश्च भौर्जो लशुनः | शिरीषः सलोमशो गुग्गुलुकृष्णगन्धे ‖ फणिज्झको वत्सकसप्तपर्णौ | पीलूनि कुष्ठं सुमनःप्रवालाः।",
 }
 
 # ---------------------------------------------------------------- unit 5
 AUTHORED["5"] = {
     "title": "वचा हरेणुस्त्रिवृता निकुम्भः",
-    "question": "How does verse 5 close the third group of drugs, and how is its long final compound built?",
+    "question": "How does verse 5 close the drug list begun in verse 3, and how is its long final compound built?",
     "rule": ("Verse 5 finishes the three drug verses (3 to 5) with no verb. "
              "Its last word काशीसलोध्रार्जुनमुस्तसर्जाः is a long compound "
              "of drug names, and गृहधूम is literally 'house-smoke'."),
@@ -354,7 +354,7 @@ AUTHORED["5"] = {
                    "और अन्त में एक लम्बा समास ‘काशीसलोध्रार्जुनमुस्तसर्जाः’ (काशीस, लोध्र, अर्जुन, मुस्त, सर्ज)। "
                    "‘गृहधूम’ का शाब्दिक अर्थ ‘घर का धुआँ’ है; डेटा इसे कालिख के अर्थ में लेता है। "
                    "‘हरेणुस्त्रिवृता’ में विसर्ग त से पहले स् बन जाता है।"),
-    "hook": "श्लोक ५: तीसरा समूह पूरा; लम्बा समास = पाँच नाम; हरेणुः + त्रिवृता → हरेणुस्त्रिवृता।",
+    "hook": "श्लोक ५: सूची का तीसरा श्लोक, सूची पूरी; लम्बा समास = पाँच नाम; हरेणुः + त्रिवृता → हरेणुस्त्रिवृता।",
     "core": False,
     "questions": [
         mcq("pretest", 0,
@@ -473,13 +473,13 @@ AUTHORED["6"] = {
               "गोपित्तपीताः → पुनरेव पिष्टाः → सिद्धाः → सर्षपतैलयुक्ताः → भिषजा प्रयोज्याः.",
               role="apply"),
         mcq("transfer", 5,
-            "A made-up line reads तिलतैलयुक्ताश्चूर्णाः प्रयोज्याः (तिल sesame, तैल oil). What does it say?",
+            "A made-up line reads तिलतैलयुक्तानि चूर्णानि प्रयोज्यानि (तिल sesame, तैल oil). What does it say?",
             ("Powders combined with sesame oil are to be applied", "-युक्ताः means 'combined with' and प्रयोज्याः 'to be applied', as in verse 6."),
             [("Powders free of sesame oil are to be applied", "-युक्ताः means 'combined with', not 'free of'."),
              ("Sesame oil is to be ground from powders", "The line combines powders with oil; it does not make oil from powders."),
              ("Powders must not be applied with sesame oil", "प्रयोज्याः is a gerundive 'to be applied', not a prohibition.")],
-            "The frame is X-तैलयुक्ताः चूर्णाः प्रयोज्याः: 'powders combined with X-oil are to be applied'. This is a grammar drill, not a medical statement.",
-            "X-तैलयुक्ताः + प्रयोज्याः = combined with X-oil, to be applied.",
+            "The frame is X-तैलयुक्तानि चूर्णानि प्रयोज्यानि: 'powders combined with X-oil are to be applied'. This is a grammar drill, not a medical statement.",
+            "X-तैलयुक्तानि + प्रयोज्यानि = combined with X-oil, to be applied.",
             teaches="Once the frame is clear, you can read 'combined with … oil, to be applied' in any similar line."),
     ],
 }
@@ -688,8 +688,8 @@ AUTHORED["9"] = {
                "gives no amount, no rubbing time and no further method. "
                "कोठ is kept as a name for a rash of raised wheals. कण्डूः is "
                "singular with a plural verb because the subject is a list."),
-    "explain_hi": ("यह श्लोक श्लोक ८ के चूर्णों के प्रयोग की विधि बताता है। पहले शरीर पर तेल लगाया जाए (तैलाक्तम्), "
-                   "फिर मट्ठे (तक्र) में पीसे हुए उन चूर्णों से उद्वर्तन, यानी रगड़ने, का प्रयत्न किया जाए (‘यतेत’, विधिलिङ्)। "
+    "explain_hi": ("यह श्लोक श्लोक ८ के चूर्णों के प्रयोग की विधि बताता है। पहले तेल से लिप्त (तेल लगे) शरीर को (तैलाक्तम्), "
+                   "मट्ठे (तक्र) में पीसे हुए उन चूर्णों से उद्वर्तन, यानी रगड़ने, का प्रयत्न किया जाए (‘यतेत’, विधिलिङ्)। "
                    "उससे इस (रोगी) की खुजली, कोठ-सहित फुंसियाँ, कुष्ठ और सूजन शान्त हो जाते हैं (‘शमं व्रजन्ति’)। "
                    "‘तैः’ पीछे के चूर्णों की ओर संकेत करता है। ‘कण्डूः’ एकवचन है पर क्रिया बहुवचन, क्योंकि कर्ता एक सूची है।"),
     "hook": "तैल लगा शरीर → मट्ठे में पिसे चूर्णों से उद्वर्तन → खुजली, फुंसियाँ, कुष्ठ, सूजन शान्त।",
@@ -733,17 +733,17 @@ AUTHORED["9"] = {
               "Know which list each trouble belongs to: verse 7 or verse 9."),
         mcq("transfer", 5,
             "A made-up phrase is घृताक्तं पात्रम् (घृत ghee, पात्र vessel). By the pattern of तैलाक्तम्, what is it?",
-            ("A vessel smeared with ghee", "-आक्त means 'smeared with', as तैलाक्तम् is 'smeared with oil'."),
-            [("A vessel filled with ghee", "आक्त means smeared, not filled."),
-             ("A vessel free of ghee", "आक्त does not mean 'free of'."),
+            ("A vessel smeared with ghee", "-अक्त means 'smeared with', as तैलाक्तम् (तैल + अक्तम्) is 'smeared with oil'."),
+            [("A vessel filled with ghee", "अक्त means smeared, not filled."),
+             ("A vessel free of ghee", "अक्त does not mean 'free of'."),
              ("Ghee made for a vessel", "The phrase describes the vessel, not what the ghee is for.")],
-            "X-आक्तम् reads 'smeared with X'. This is a grammar drill, not a medical statement.",
-            "X + आक्त → X-आक्त = smeared with X (अ + आ → आ).",
-            teaches="Once -आक्त is clear, you can read any 'smeared with X' phrase like तैलाक्तम्."),
+            "X + अक्तम् reads 'smeared with X'. This is a grammar drill, not a medical statement.",
+            "घृत + अक्तम् → घृताक्तम्; X-अक्त = smeared with X (अ + अ → आ).",
+            teaches="Once -अक्त is clear, you can read any 'smeared with X' phrase like तैलाक्तम्."),
     ],
 }
 
-NOTES_HI["9"] = ("संधियाँ जाँची: तैः + तक्रपिष्टैः → तैस्तक्रपिष्टैः (विसर्ग + त → स्); तैल + आक्तम् → तैलाक्तम् (अ + आ → आ); "
+NOTES_HI["9"] = ("संधियाँ जाँची: तैः + तक्रपिष्टैः → तैस्तक्रपिष्टैः (विसर्ग + त → स्); तैल + अक्तम् → तैलाक्तम् (अ + अ → आ); "
                  "तैलाक्तम् + उद्वर्तयितुम् → तैलाक्तमुद्वर्तयितुम् (म् अगले स्वर से सटा); तेन + अस्य → तेनास्य (अ + अ → आ); शोफाः + च → शोफाश्च (विसर्ग + च → श्)। "
                  "डेटा की टिप्पणी: ‘तैः’ पिछले चूर्णों (कम से कम श्लोक ८) की ओर संकेत करता है; ‘अस्य’ रोगी का ‘इसका’ है; ‘कोठ’ को नाम के रूप में रखा गया है; "
                  "‘कण्डूः’ एकवचन और क्रिया बहुवचन, क्योंकि कर्ता सूची है। कोई पाठभेद या पाठ-दोष नहीं दिया गया।")
@@ -757,8 +757,8 @@ AIDS["9"] = {
          "items": ["तैस्तक्रपिष्टैः", "प्रथमं", "शरीरं", "तैलाक्तमुद्वर्तयितुं", "यतेत"]},
         {"label": "दूसरी पंक्ति",
          "items": ["तेनास्यकण्डूः", "पिडकाः", "सकोठाः", "कुष्ठानि", "शोफाश्च", "शमं", "व्रजन्ति"]}]},
-    "sandhi": "विसर्ग + त → स्त: तैः + तक्र… → तैस्तक्र…। अ + आ → आ: तैल + आक्तम् → तैलाक्तम्। विसर्ग + च → श्च: शोफाः + च → शोफाश्च। अ + अ → आ: तेन + अस्य → तेनास्य।",
-    "anchors": "तक्रपिष्टैः = तक्र (मट्ठा) + पिष्टैः (पिसे हुए) · तैलाक्तम् = तैल + आक्त (तेल से लिपटा) · सकोठाः = स- (साथ) + कोठाः · शमं व्रजन्ति = शान्ति को पहुँचते हैं।",
+    "sandhi": "विसर्ग + त → स्त: तैः + तक्र… → तैस्तक्र…। अ + अ → आ: तैल + अक्तम् → तैलाक्तम्। विसर्ग + च → श्च: शोफाः + च → शोफाश्च। अ + अ → आ: तेन + अस्य → तेनास्य।",
+    "anchors": "तक्रपिष्टैः = तक्र (मट्ठा) + पिष्टैः (पिसे हुए) · तैलाक्तम् = तैल + अक्त (तेल से लिपटा) · सकोठाः = स- (साथ) + कोठाः · शमं व्रजन्ति = शान्ति को पहुँचते हैं।",
     "chunks": "तैस्तक्रपिष्टैः प्रथमं शरीरं | तैलाक्तमुद्वर्तयितुं यतेत ‖ तेनास्यकण्डूः पिडकाः सकोठाः | कुष्ठानि शोफाश्च शमं व्रजन्ति।",
 }
 
@@ -801,7 +801,7 @@ AUTHORED["10"] = {
         fill(2, "In सर्जरसः the second part, meaning resin or sap, is ____ (type it in Devanagari).",
              ["रसः", "रस", "रसं", "रसम्"],
              "सर्जरसः = सर्ज + रसः, 'the resin or sap of sarja'.",
-             "सर्जरसः names a part of the sarja tree; the second member रस is the sap or resin.",
+             "सर्जरसः names a part of the sarja plant; the second member रस is the sap or resin.",
              "सर्ज + रस = sap of sarja."),
         mcq("discriminate", 3, "Why is the printed form सर्जरसो विडङ्गम् and not सर्जरसः विडङ्गम्?",
             ("अः before a voiced consonant (here व) becomes ओ", "The visarga after अ turns into ओ before a voiced sound."),

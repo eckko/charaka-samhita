@@ -153,7 +153,7 @@ AUTHORED["12"] = {
             ("Tuttha should be taken with lodhra",
              "सलोध्रम् = स ('with') + लोध्रम्, just as समनःशिलम् is 'with manaḥśilā'."),
             [("Tuttha should be taken without lodhra", "स- means with, not without."),
-             ("Lodhra should be taken with tuttha", "The phrase has तुत्थं as the item and सलोध्रम् as 'with lodhra'; the order of the two is the other way round."),
+             ("Tuttha should be taken in place of lodhra", "सलोध्रम् means with lodhra, not instead of it."),
              ("Tuttha is lodhra", "The phrase joins two drugs; it does not say they are the same.")],
             "स + लोध्रम् gives सलोध्रम् (अ-ending stem, no sandhi change): 'with lodhra'.",
             "सX = with X, so 'A सX स्यात्' = 'A should be with X'.",
