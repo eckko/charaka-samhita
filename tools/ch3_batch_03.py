@@ -153,7 +153,7 @@ AUTHORED["12"] = {
             ("Tuttha should be taken with lodhra",
              "सलोध्रम् = स ('with') + लोध्रम्, just as समनःशिलम् is 'with manaḥśilā'."),
             [("Tuttha should be taken without lodhra", "स- means with, not without."),
-             ("Lodhra should be taken with tuttha as a second drug, and not tuttha itself", "तुत्थं is the item that is 'with lodhra'."),
+             ("Lodhra should be taken with tuttha", "The phrase has तुत्थं as the item and सलोध्रम् as 'with lodhra'; the order of the two is the other way round."),
              ("Tuttha is lodhra", "The phrase joins two drugs; it does not say they are the same.")],
             "स + लोध्रम् gives सलोध्रम् (अ-ending stem, no sandhi change): 'with lodhra'.",
             "सX = with X, so 'A सX स्यात्' = 'A should be with X'.",
@@ -362,7 +362,7 @@ AUTHORED["15"] = {
                "kuṣṭha'. 'karañja with eḍagaja' could also be 'eḍagaja and karañja'. "
                "साध्यानि may also mean 'to be cooked', and whether tuṣodaka is plain "
                "husk-water or fermented is not said."),
-    "explain_hi": ("इस श्लोक में छह-सात औषधों के चूर्ण गिनाए गए हैं: मनःशिला; कुष्ठ-सहित कुटज की छाल; "
+    "explain_hi": ("इस श्लोक में कई औषधों के चूर्ण गिनाए गए हैं: मनःशिला; कुष्ठ-सहित कुटज की छाल; "
                    "लोमश और एडगज के साथ करञ्ज; ग्रन्थि और भौर्ज; और करवीर की जड़। अन्त में बताया है "
                    "कि इनके चूर्ण ‘तुषोदकेन’ यानी भूसी के जल से ‘साध्यानि’ (तैयार किए जाने "
                    "योग्य) हैं। पहली पंक्ति के पञ्चमी रूप (कुटजात्, सकुष्ठात्) असामान्य हैं और "
@@ -663,7 +663,7 @@ AUTHORED["18"] = {
                ("The verse gives the dose of each item", "No quantity is named.")],
               [0, 1, 2],
               "The first line and the start of the second give the items; the end of the second line gives the warmth and the purpose.",
-              "Verse 18: twelve-ish items, warm, for vāta sufferers; no dose."),
+              "Verse 18: a list of ingredients, warm, for vāta sufferers; no dose."),
         mcq("transfer", 5,
             "A made-up phrase reads कुष्ठामयिनां प्रदेहः. Following वातामयिनाम्, for whom is it?",
             ("Those afflicted with kuṣṭha (the disease)",
