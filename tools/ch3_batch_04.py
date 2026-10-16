@@ -49,7 +49,7 @@ AUTHORED["21"] = {
         fill(2, "The word for 'ghee' in the first word of line 2 is ____ (type it in Devanagari).",
              ["घृतं", "घृतम्"],
              "Line 2 opens with घृतं, the ghee.",
-             "घृतम् is neuter accusative singular, like the other names of the list: it is one of the things the pradeha is made with.",
+             "घृतम् is neuter accusative singular, one of the things the pradeha is made with.",
              "घृतम् = ghee, one of the listed items."),
         mcq("discriminate", 3, "Which is the right split of सितोपलां?",
             ("सित + उपलां: अ + उ joins as ओ",
@@ -90,7 +90,7 @@ AUTHORED["21"] = {
 # --------------------------------------------------------------- unit 22
 AUTHORED["22"] = {
     "title": "रास्ना गुडूची मधुकं बले द्वे",
-    "question": "What pain does the pradeha of verse 22 drive out, and with what is the ghee prepared?",
+    "question": "What pain does the pradeha of verse 22 drive out, and which drugs and fats does it list?",
     "rule": ("रास्ना … रक्तानिलार्तिं प्रणुदेत् प्रदेहः = The pradeha of rāsnā, guḍūcī, "
              "madhuka, the two balās, with jīvaka and ṛṣabhaka, milk and cooked "
              "ghee joined with madhuśeṣa would drive out the pain of blood and Vāta."),
@@ -218,13 +218,12 @@ AUTHORED["23"] = {
             "अ + उ → ओ: नत + उत्पल → नतोत्पल."),
         multi("apply", 4,
               "Which items does the second half name for the head-pain pradeha?",
-              [("नत", "Right: नतोत्पलं begins with nata."),
-               ("उत्पल", "Right: नतोत्पलं ends with utpala."),
+              [("नतोत्पलं (read as nata + utpala)", "Right: the card reads it as the pair nata and utpala."),
                ("चन्दन", "Right: it is joined with candana."),
                ("कुष्ठ", "Right: it is joined with kuṣṭha."),
                ("गोधूमचूर्ण", "Wheat flour belongs to the first half."),
                ("छगलीपयः", "Goat's milk belongs to the first half.")],
-              [0, 1, 2, 3],
+              [0, 1, 2],
               "The second half names nata, utpala, candana and kuṣṭha (with ghee). Wheat flour and goat's milk are in the first half.",
               "First half: Vāta with blood; second half: head pain with nata, utpala, candana, kuṣṭha."),
         mcq("transfer", 5,
@@ -280,8 +279,8 @@ AUTHORED["24"] = {
                ["कमलोत्पले", "kamala and utpala"], ["प्रदेहः", "pradeha"]],
               "These words give the condition, the ghee, a pair of drugs and the preparation.",
               "शिरोरुजायाम् = in head pain; सघृतः = with ghee; कमलोत्पले = kamala and utpala; प्रदेहः = pradeha."),
-        fill(2, "कमलोत्पले ends in -ए and joins kamala and utpala. The number of items it names is ____ (type a digit).",
-             ["2", "२", "two", "Two", "दो"],
+        fill(2, "कमलोत्पले ends in -ए. This ending shows the ____ number (singular, dual or plural).",
+             ["dual", "Dual", "द्विवचन"],
              "The dual ending -ए on a neuter word means two.",
              "On neuter words in -अ, the dual nominative ends in -ए. कमलोत्पले joins two names, कमल and उत्पल.",
              "Neuter -अ word + dual -ए = two items."),
@@ -306,7 +305,7 @@ AUTHORED["24"] = {
             "The instrumental -ऐः / -कैः means 'with'; the pāda gives more ingredients.",
             "Instrumental plural = 'with these'."),
         mcq("transfer", 5,
-            "प्रदेहो लोहैः shows प्रदेहः + लोहैः. By the same sandhi, how is प्रदेहः + मृदुः (मृदु = soft) written?",
+            "In verse 24, प्रदेहः is printed प्रदेहो before a voiced letter. By the same sandhi, how is प्रदेहः + मृदुः (मृदु = soft) written?",
             ("प्रदेहो मृदुः",
              "After अ, a visarga before a voiced consonant becomes ओ."),
             [("प्रदेहर्मृदुः",
@@ -315,9 +314,9 @@ AUTHORED["24"] = {
               "The visarga after अ does not become आ."),
              ("प्रदेहः मृदुः",
               "Before a voiced consonant the visarga after अ is changed to ओ.")],
-            "The same rule gives प्रदेहो लोहैः in verse 24 and प्रदेहो मृदुः here.",
+            "The same rule gives प्रदेहो in verse 24 and प्रदेहो मृदुः here.",
             "अः + voiced consonant → ओ (after अ).",
-            teaches="A word ending in -अः followed by a voiced consonant turns into -ओ, as in प्रदेहो लोहैः."),
+            teaches="A word ending in -अः followed by a voiced consonant turns into -ओ, as in प्रदेहो in verse 24."),
     ],
 }
 
@@ -450,10 +449,10 @@ AUTHORED["26"] = {
              "Both are masculine nominative singular: the pradeha comes with ghee."),
             [("चन्दनानि",
               "चन्दनानि is neuter plural, so it does not match."),
-             ("लोध्रम्",
-              "लोध्रम् is neuter singular, so it does not match."),
-             ("प्रपौण्डरीकाणि",
-              "प्रपौण्डरीकाणि is neuter plural, so it does not match.")],
+             ("प्रियङ्गुकालेयकचन्दनानि",
+              "This compound is neuter plural, so it does not match."),
+             ("स्यात्",
+              "स्यात् is a verb, not a describing word.")],
             "A describing word copies the gender, number and case of its noun: सघृतः goes with प्रदेहः.",
             "Describing word and noun agree in gender, number and case."),
         mcq("apply", 4,
@@ -504,7 +503,7 @@ AUTHORED["27"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0,
-            "Verse 27 ends निर्वापणः स्यात्. Which effect do you expect it to name?",
+            "Verse 27 contains निर्वापणः, the word also found in verse 26. Which effect does it name?",
             ("Cooling, quenching",
              "निर्वापण = cooling, quenching."),
             [("Warming, like कोष्ण in verse 25",
@@ -634,9 +633,9 @@ AUTHORED["28"] = {
               "The line is a statement."),
              ("The physician",
               "No physician is named.")],
-            "Doer in -ः (प्रदेहः, लेपः), the thing acted on in -म् (विषम्, ज्वरम्).",
-            "Thing acted on ends in -म्; doer ends in -ः.",
-            teaches="With निहन्यात्, the word ending in -म् is what is destroyed and the word in -ः is what destroys it."),
+            "Masculine nominative -ः names the doer (प्रदेहः, लेपः); neuter accusative -म् names the thing acted on (विषम्, ज्वरम्).",
+            "Accusative names what is destroyed; nominative names what destroys.",
+            teaches="With निहन्यात्, the accusative (-म् on neuter -अ nouns, as विषम्) names what is destroyed; the nominative (-ः on masculine -अ nouns, as प्रदेहः, लेपः) names what destroys."),
     ],
 }
 
@@ -649,9 +648,9 @@ AUTHORED["29"] = {
              "pradeha of patra, ambu, lodhra, abhaya and candana removes body "
              "smell."),
     "limits": ("The first half can also be read as 'removes sweat-related skin "
-               "defects'. Lodhra appears in both halves. पत्र, अम्बु, हेम and अभय "
+               "defects'. Lodhra appears in both halves. अम्बु and हेम "
                "have more than one possible sense, and the verse does not choose."),
-    "explain_hi": ("इस श्लोक में दो आधे हैं और दो अलग क्रियाएँ। पहला आधा: शिरीष, लामज्जक, हेम "
+    "explain_hi": ("इस श्लोक में दो आधे हैं और दो अलग प्रयोग-विधियाँ (प्रघर्ष और प्रदेह)। पहला आधा: शिरीष, लामज्जक, हेम "
                    "और लोध्र से ‘प्रघर्ष’ (रगड़ना) त्वचा के दोष और पसीने को हरता है। "
                    "दूसरा आधा: पत्र, अम्बु, लोध्र, अभया और चन्दन का ‘प्रदेह’ शरीर की "
                    "दुर्गन्ध हरता है। ‘हरः’ का अर्थ ‘हरने वाला’ है और वह समास के अन्त "
@@ -739,17 +738,17 @@ AUTHORED["30"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0,
-            "Verse 30 sums up the chapter. How many pradehas does it say Ātreya declared?",
-            ("Thirty-two",
-             "द्वात्रिंशतम् = thirty-two."),
-            [("Twelve",
-              "द्वात्रिंशतम् is thirty-two, not twelve."),
-             ("Twenty-four",
-              "द्वात्रिंशतम् is thirty-two, not twenty-four."),
-             ("Sixty-four",
-              "द्वात्रिंशतम् is thirty-two, not sixty-four.")],
-            "The verse says द्वात्रिंशतं चूर्णप्रदेहान्: thirty-two powder pradehas.",
-            "द्वात्रिंशतम् = thirty-two."),
+            "Verse 30 sums up the chapter. Who is said to have declared the pradehas?",
+            ("Ātreya, the son of Atri (आत्रिजः)",
+             "इहात्रिजः = इह + आत्रिजः; आत्रिजः is the son of Atri, Ātreya, who said (उवाच) them."),
+            [("A physician of a later age, not named in the verse",
+              "The verse names the speaker: आत्रिजः."),
+             ("The pupil who asks the questions",
+              "No pupil is named in this verse."),
+             ("The world (जगत्)",
+              "जगतः is the world, for whose benefit they are declared, not the speaker.")],
+            "आत्रिजः is the subject of उवाच: Ātreya declared the pradehas.",
+            "आत्रिजः (nominative) + उवाच = Ātreya said."),
         match(1, "Match each word of verse 30 to its meaning.",
               [["इह", "here"], ["उवाच", "said, declared"],
                ["जगतः", "of the world"], ["हितार्थम्", "for the benefit"]],
@@ -808,8 +807,7 @@ NOTES_HI = {
     "22": ("पाठ-संशय नहीं है। ‘मधुशेष’ का अर्थ अनिश्चित है (शाब्दिक: मधु का बचा हुआ भाग); इसे शाब्दिक रखा "
            "गया है। ‘सिद्धम्’ से यह नहीं पता चलता कि घृत किसके साथ पकाया जाए। ‘रक्तानिलार्तिम्’ = "
            "रक्त + अनिल + आर्ति (अ + अ → आ, अ + आ → आ); ‘रक्त और वात की पीड़ा’ या ‘रक्त और वात से "
-           "पीड़ा’ दोनों पढ़ा जा सकता है। ध्यान दें: शब्द-सूची में ‘आर्तिम्’ का रूप ‘अर्तिम्’ छपा "
-           "लगता है। ‘पयश्च’ = पयः + च (विसर्ग + च → श्च); ‘सर्षभकं’ = स + ऋषभकं (अ + ऋ → अर्)।"),
+           "पीड़ा’ दोनों पढ़ा जा सकता है। ‘पयश्च’ = पयः + च (विसर्ग + च → श्च); ‘सर्षभकं’ = स + ऋषभकं (अ + ऋ → अर्)।"),
     "23": ("पाठ-संशय नहीं है। ‘नत’ विशेषण (‘झुका’) भी हो सकता है, पर औषध-सूची में इसे नाम माना गया। "
            "‘नतोत्पलं’ को नत + उत्पल (द्वन्द्व) पढ़ा गया है; दोनों मिलकर एक नाम भी हो सकते हैं। "
            "‘प्रदेहो गोधूमचूर्णं’ में प्रदेहः + गोधूम… (अः + घोष → ओ)। दोनों आधों में क्रिया "
@@ -841,8 +839,7 @@ NOTES_HI = {
     "29": ("पाठ-संशय नहीं है। ‘त्वग्दोषसंस्वेदहरः’ को ‘त्वचा के दोष और पसीने का हरने वाला’ पढ़ा गया; "
            "‘पसीने से हुए त्वचा-दोष को हरने वाला’ भी सम्भव है। ‘लोध्रैस्त्वग्…’ = लोध्रैः + त्वक्… "
            "(विसर्ग + त → स्त); ‘त्वग्दोष’ में क् → ग्। ‘पत्राम्बुलोध्राभयचन्दनानि’ में अ + अ → आ दो बार। "
-           "पत्र (पत्ता), अम्बु (जल या इस नाम का द्रव्य), हेम (सोना या पौधा), अभया (व्यवहार में हरीतकी) "
-           "के अर्थ श्लोक से तय नहीं होते। ‘लोध्र’ दोनों आधों में है।"),
+           "अम्बु और हेम के अर्थ श्लोक से तय नहीं होते। ‘लोध्र’ दोनों आधों में है।"),
     "30": ("पाठ-संशय नहीं है। ‘सिद्धतमान्’ (द्वितीया बहुवचन) दूसरी पंक्ति के ‘चूर्णप्रदेहान्’ से अन्वित है। "
            "‘द्वात्रिंशतम्’ द्वितीया एकवचन संख्या-वाचक है जो बहुवचन संज्ञा के साथ समानाधिकरण में "
            "आया है। ‘सिद्धमहर्षिपूज्यः’: सिद्धों और महर्षियों से पूज्य (द्वन्द्व), या ‘सिद्ध महर्षियों "
@@ -883,7 +880,7 @@ AIDS = {
         "diagram": {"groups": [
             _g("पंक्ति १", "प्रपौण्डरीकं सुरदारु कुष्ठं यष्ट्याह्वमेला कमलोत्पले च"),
             _g("पंक्ति २", "शिरोरुजायां सघृतः प्रदेहो लोहैरकापद्मकचोरकैश्च")]},
-        "sandhi": "इ + आ → या: यष्टि + आह्वम् → यष्ट्याह्वम् · अ + उ → ओ: कमल + उत्पले → कमलोत्पले · अः + घोष → ओ: प्रदेहः + लोहैः → प्रदेहो लोहैः · अ + ए → ऐ: लोह + एरका → लोहैरका · विसर्ग + च → श्च: चोरकैः + च → चोरकैश्च।",
+        "sandhi": "इ + आ → या: यष्टि + आह्वम् → यष्ट्याह्वम् · अ + उ → ओ: कमल + उत्पले → कमलोत्पले · अः + घोष → ओ: प्रदेहः + लोहैरका… → प्रदेहो लोहैरका… · अ + ए → ऐ: लोह + एरका → लोहैरका · विसर्ग + च → श्च: चोरकैः + च → चोरकैश्च।",
         "chunks": "प्रपौण्डरीकं सुरदारु कुष्ठं | यष्ट्याह्वमेला कमलोत्पले च ‖ शिरोरुजायां सघृतः प्रदेहो | लोहैरकापद्मकचोरकैश्च।",
     },
     "25": {
@@ -892,7 +889,7 @@ AIDS = {
             _g("पंक्ति १", "रास्ना हरिद्रे नलदं शताह्वे द्वे देवदारूणि सितोपला च"),
             _g("पंक्ति २", "जीवन्तिमूलं सघृतं सतैलमालेपनं पार्श्वरुजासु कोष्णम्")]},
         "sandhi": "क + उष्णम् → कोष्णम् (अ + उ → ओ) · सतैलम् + आलेपनम् → सतैलमालेपनम् (म् + आ जुड़कर मा) · सित + उपला → सितोपला (अ + उ → ओ)।",
-        "chunks": "रास्ना हरिद्रे नलदं शताह्वे | द्वे देवदारूणि सितोपला च ‖ जीवन्तिमूलं सघृतं सतैलमा- | लेपनं पार्श्वरुजासु कोष्णम्।",
+        "chunks": "रास्ना हरिद्रे नलदं शताह्वे | द्वे देवदारूणि सितोपला च ‖ जीवन्तिमूलं सघृतं | सतैलमालेपनं पार्श्वरुजासु कोष्णम्।",
     },
     "26": {
         "frame": "फल: निर्वापण (शीतल करने वाला) · रूप: घृत सहित प्रदेह · सूची: शैवाल, पद्म, उत्पल, वेत्र, तुङ्ग, प्रपौण्डरीक, मृणाल, लोध्र, प्रियङ्गु, कालेयक, चन्दन। कोई रोग नहीं।",
@@ -900,7 +897,7 @@ AIDS = {
             _g("पंक्ति १ (एक लम्बा शब्द)", "शैवालपद्मोत्पलवेत्रतुङ्गप्रपौण्डरीकाण्यमृणाललोध्रम्"),
             _g("पंक्ति २", "प्रियङ्गुकालेयकचन्दनानि निर्वापणः स्यात् सघृतः प्रदेहः")]},
         "sandhi": "अ + उ → ओ: पद्म + उत्पल → पद्मोत्पल · पाठ-संकेत: ‘प्रपौण्डरीकाण्यमृणाल’ में अतिरिक्त ‘अ’; सामान्य रूप ‘प्रपौण्डरीकाणि मृणाल…’ होता · बाकी शब्द अलग छपे हैं।",
-        "chunks": "शैवाल | पद्म | उत्पल | वेत्र | तुङ्ग | प्रपौण्डरीक | मृणाल | लोध्र ‖ प्रियङ्गु कालेयक चन्दन | निर्वापणः स्यात् सघृतः प्रदेहः (पहला शब्द इन भागों में बँटा है)।",
+        "chunks": "शैवाल | पद्म | उत्पल | वेत्र | तुङ्ग | प्रपौण्डरीक | मृणाल | लोध्र ‖ प्रियङ्गु कालेयक चन्दन | निर्वापणः स्यात् सघृतः प्रदेहः (पहला शब्द इन भागों में बँटा है; छपे शब्द में पद्मोत्पल और प्रपौण्डरीकाण्य… हैं)।",
     },
     "27": {
         "frame": "फल: निर्वापण (शीतल करने वाला) · रूप: प्रदेह (अनकहा) · सूची: सितालता, वेतस, पद्मक, यष्टि-नामक, ऐन्द्री, नलिन, दूर्वा, यवास-कुश-काश की जड़, जल, एरका।",
