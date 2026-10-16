@@ -43,10 +43,12 @@ RANGES_2 = [
     (34, 36, "सारांश और वैद्य"),
 ]
 
+RANGES_3 = []  # filled in once the chapter is read
+
 
 def section_of(n, ch=1):
     x = float(n)
-    for lo, hi, title in (RANGES if ch == 1 else RANGES_2):
+    for lo, hi, title in {1: RANGES, 2: RANGES_2, 3: RANGES_3}[ch]:
         if lo <= x <= hi:
             return title
     raise KeyError(n)

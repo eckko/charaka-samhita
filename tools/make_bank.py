@@ -31,6 +31,8 @@ CHAPTERS = {
         "A": AUTHORED, "N": NOTES_HI, "AI": AIDS, "IM": IMAGES},
     2: {"title": "अपामार्गतण्डुलीय", "glob": "ch2_batch_*.py",
         "A": {}, "N": {}, "AI": {}, "IM": {}},
+    3: {"title": "आरग्वधीय", "glob": "ch3_batch_*.py",
+        "A": {}, "N": {}, "AI": {}, "IM": {}},
 }
 
 
@@ -231,8 +233,10 @@ def main():
     load_batches()
     concepts, questions = [], []
     for ch in CHAPTERS:
-        units = json.load(open(source / f"sutrasthana{ch}_verses.json",
-                               encoding="utf8"))
+        data = source / f"sutrasthana{ch}_verses.json"
+        if not data.exists():
+            continue  # chapter not added yet
+        units = json.load(open(data, encoding="utf8"))
         c, q = build(units, ch)
         concepts += c
         questions += q
@@ -240,9 +244,10 @@ def main():
         "id": "caraka-sutra", "book": "चरकसंहिता — सूत्रस्थान",
         "labels": {"unit": "Chapter", "units": "chapters", "topic": "Verse",
                    "whole": "Whole chapter"},
-        "summary": ("The Charaka Samhita, Sūtrasthāna chapters 1 and 2: "
-                    "how Āyurveda came down from Brahmā to the sages, then "
-                    "the drugs and gruels of the five cleansing treatments."),
+        "summary": ("The Charaka Samhita, Sūtrasthāna chapters 1 to 3: "
+                    "how Āyurveda came down from Brahmā to the sages, the "
+                    "drugs and gruels of the five cleansing treatments, "
+                    "and the pastes applied to the skin."),
         "genre": "चरकसंहिता",
         "unitSummaries": {
             "Chapter 1": (
@@ -250,7 +255,10 @@ def main():
                 "gathered on the Himālaya, and who they were."),
             "Chapter 2": (
                 "The drug groups for the five treatments, the twenty-eight "
-                "gruels, and the physician who can use them.")},
+                "gruels, and the physician who can use them."),
+            "Chapter 3": (
+                "The thirty-two medicinal pastes (pradeha) and the "
+                "conditions of the skin and body they are used for.")},
         "concepts": concepts, "questions": questions}
     json.dump(bank, open(target, "w", encoding="utf8"), ensure_ascii=False,
               indent=1)
