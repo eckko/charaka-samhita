@@ -125,7 +125,19 @@ def chip_gram(word, form):
     return text
 
 
+def split_long(rows, most=30):
+    """The template allows at most 30 word chips per row: cut longer rows
+    (long prose lines) into near-equal rows."""
+    out = []
+    for row in rows:
+        k = -(-len(row) // most)
+        size = -(-len(row) // k)
+        out += [row[i:i + size] for i in range(0, len(row), size)]
+    return out
+
+
 def chip_rows(rows):
+    rows = split_long(rows)
     return [[{"w": word_form(w["w"]), "gloss": fold(w["gloss"]),
               "gram": chip_gram(w, word_form(w["w"]))} for w in row]
             for row in rows]
