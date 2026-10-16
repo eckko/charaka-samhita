@@ -236,7 +236,7 @@ AUTHORED["13"] = {
               "Line 1 gives the first preparation and its liquid; line 2 gives the second and its liquid.",
               "Verse 13: two preparations, kapittha juice and cow's urine; no disease."),
         mcq("transfer", 5,
-            "A made-up phrase reads लोध्रं तक्रपिष्टं च लेपः. Following गोमूत्रपिष्टम्, what does it say about the lodhra?",
+            "A made-up phrase reads लोध्रं तक्रपिष्टं च लेपः (तक्र = buttermilk). Following गोमूत्रपिष्टम्, what does it say about the lodhra?",
             ("It is ground in buttermilk",
              "तक्रपिष्टम् = ground (पिष्ट) in buttermilk (तक्र), like गोमूत्रपिष्टम् with cow's urine."),
             [("It is mixed with buttermilk after cooking", "पिष्ट means ground, not cooked."),
@@ -261,7 +261,7 @@ AIDS["13"] = {
         {"label": "दूसरी पंक्ति",
          "items": ["करञ्जबीजैडगजं", "सकुष्ठं", "गोमूत्रपिष्टं", "च", "परः", "प्रदेहः"]}]},
     "sandhi": "अ + अ → आ: रस + अञ्जनम् → रसाञ्जनम्। अ + ए → ऐ: करञ्जबीज + एडगजम् → करञ्जबीजैडगजम्।",
-    "pegs": "मेरा बनाया चित्र: एक कटोरे में कैथ का रस और काला सुरमा-सी लेई (पहली), दूसरे कटोरे में गाय के मूत्र में पिसी बीजों की लुगदी (दूसरी)। केवल याद के लिए।",
+    "pegs": "मेरा बनाया चित्र: एक कटोरे में कैथ के रस में मिली लेई (पहली), दूसरे कटोरे में गाय के मूत्र में पिसी बीजों की लुगदी (दूसरी)। केवल याद के लिए।",
     "chunks": "रसाञ्जनं सप्रपुनाडबीजं | युक्तं कपित्थस्य रसेन लेपः ‖ करञ्जबीजैडगजं सकुष्ठं | गोमूत्रपिष्टं च परः प्रदेहः।",
 }
 
@@ -275,11 +275,11 @@ AUTHORED["14"] = {
     "limits": ("The identity of hayamāraka ('horse-killer') is left to commentators. "
                "समध्याम् is read as 'with its middle (inner) part' but could mean something "
                "else. Taken as one lepa of all items. No disease and no quantity is named."),
-    "explain_hi": ("यहाँ सामग्री द्वितीया विभक्ति में है: ‘उभे हरिद्रे’ (दोनों हल्दियाँ), कुटज का बीज, "
+    "explain_hi": ("यहाँ सामग्री द्वितीया विभक्ति में है: ‘उभे हरिद्रे’ (दोनों हरिद्राएँ), कुटज का बीज, "
                    "करञ्ज का बीज, सुमनस् की कोंपलें, और हयमारक की छाल ‘समध्याम्’ यानी उसके मध्य "
                    "भाग सहित। क्रिया ‘विदध्यात्’ है, ‘बनाना चाहिए’, और कर्म ‘लेपम्’ है, जो "
                    "‘तिलक्षारयुतम्’ यानी तिल के क्षार से युक्त हो। ‘हरिद्रे’ में -ए द्विवचन है: दो "
-                   "हल्दियाँ, और ‘उभे’ भी उसी का विशेषण है। हयमारक की पहचान टीकाकारों पर छोड़ी गई है।"),
+                   "हरिद्राएँ, और ‘उभे’ भी उसी का विशेषण है। हयमारक की पहचान टीकाकारों पर छोड़ी गई है।"),
     "hook": "उभे हरिद्रे + कुटज/करञ्ज बीज + सुमनस् कोंपल + हयमारक छाल → तिलक्षार-युक्त लेप ‘विदध्यात्’।",
     "core": True,
     "questions": [
@@ -382,13 +382,13 @@ AUTHORED["15"] = {
             "Verse 15: powders prepared with tuṣodaka."),
         order(1, "Put these four items in the order they stand in verse 15.",
               ["सलोमशः", "ग्रन्थिश्च", "भौर्जः", "करवीरमूलं"],
-              "सलोमशः stands at the end of line 1; line 2 then runs ग्रन्थिश्च, भौर्जः, करवीरमूलं.",
+              "सलोमशः stands in line 1 (after सकुष्ठात्); line 2 then runs ग्रन्थिश्च, भौर्जः, करवीरमूलं.",
               "सलोमशः → ग्रन्थिश्च → भौर्जः → करवीरमूलं."),
-        fill(2, "Joined together, तुष + उदकेन is written ____ (type it in Devanagari).",
-             ["तुषोदकेन"],
-             "अ + उ gives ओ: तुष + उदकेन → तुषोदकेन.",
-             "When अ meets उ, they merge into ओ. So 'husk' + 'with water' becomes the single word तुषोदकेन.",
-             "अ + उ → ओ: तुष + उदकेन → तुषोदकेन."),
+        fill(2, "The word in line 2 meaning 'to be prepared' is ____ (type it in Devanagari).",
+             ["साध्यानि"],
+             "It stands in line 2, second word from the end.",
+             "साध्यानि is a gerundive, neuter plural, agreeing with चूर्णानि: 'to be prepared'.",
+             "साध्यानि = to be prepared (gerundive of √साध्)."),
         mcq("discriminate", 3, "Which is the right split of तुषोदकेन?",
             ("तुष + उदकेन",
              "अ + उ → ओ, so तुष + उदकेन is written तुषोदकेन."),
@@ -419,8 +419,8 @@ AUTHORED["15"] = {
     ],
 }
 
-NOTES_HI["15"] = ("संधियाँ जाँची: तुष + उदकेन → तुषोदकेन (अ + उ → ओ); ग्रन्थिः + च → ग्रन्थिश्च (विसर्ग + च → श्); सः + एडगजः → "
-                  "सैडगजः (स + एडगजः, अ + ए → ऐ)। पाठभेद या पाठ-दोष कोई नहीं दिया गया। टिप्पणी के अनुसार पहली पंक्ति के पञ्चमी रूप (कुटजात्, सकुष्ठात्) असामान्य हैं; "
+NOTES_HI["15"] = ("संधियाँ जाँची: तुष + उदकेन → तुषोदकेन (अ + उ → ओ); ग्रन्थिः + च → ग्रन्थिश्च (विसर्ग + च → श्); स + एडगजः → "
+                  "सैडगजः (अ + ए → ऐ)। पाठभेद या पाठ-दोष कोई नहीं दिया गया। टिप्पणी के अनुसार पहली पंक्ति के पञ्चमी रूप (कुटजात्, सकुष्ठात्) असामान्य हैं; "
                   "‘सैडगजः करञ्जः’ का अर्थ ‘एडगज सहित करञ्ज’ या ‘एडगज और करञ्ज’ दोनों हो सकता है। ‘साध्यानि’ का अर्थ ‘तैयार करने योग्य’ या ‘पकाने योग्य’ भी हो सकता है; "
                   "‘तुषोदक’ सादा भूसी-जल है या किण्वित, यह यहाँ नहीं कहा।")
 
@@ -447,10 +447,10 @@ AUTHORED["16"] = {
                "liquid is made is not said. कर्षोद्धृतानि has no noun here; it is read with "
                "the powders of verse 15. The edition spells निसूदन, possibly for निषूदन. "
                "Darvī is kept as a name."),
-    "explain_hi": ("यह श्लोक श्लोक १५ के चूर्णों का उपयोग बताता है: ‘कर्षोद्धृतानि’ नपुंसक बहुवचन है और इस "
+    "explain_hi": ("संदर्भ के अनुसार यह श्लोक श्लोक १५ के चूर्णों का उपयोग बताता है: ‘कर्षोद्धृतानि’ नपुंसक बहुवचन है और इस "
                    "श्लोक में उसका कोई संज्ञा-शब्द नहीं है, इसलिए वह पिछले श्लोक के ‘चूर्णानि’ से जुड़ता है। "
                    "तरल है ‘पलाशनिर्दाहरस’ (पलाश के जले अवशेष का रस), ‘आढकसंमित’ यानी आढक की माप का। "
-                   "विद्वान् इस लेप को ‘दर्वीप्रलेप’ कहते हैं (प्रवदन्ति), और इसे ‘कुष्ठनिसूदन’, यानी कुष्ठ के नाश के "
+                   "लोग (वे) इस लेप को ‘दर्वीप्रलेप’ कहते हैं (प्रवदन्ति), और इसे ‘कुष्ठनिसूदन’, यानी कुष्ठ के नाश के "
                    "लिए श्रेष्ठ (परम्) बताते हैं। कर्ष और आढक माप हैं; श्लोक में कोई संख्या नहीं दी गई।"),
     "hook": "श्लोक १५ के चूर्ण + पलाश-निर्दाह-रस = ‘दर्वीप्रलेप’, कुष्ठनाश के लिए श्रेष्ठ।",
     "core": True,
@@ -563,7 +563,7 @@ AUTHORED["17"] = {
         mcq("discriminate", 3, "पिष्ट्वा ends in -त्वा. What does the form show?",
             ("Having ground, an action done before the main verb",
              "√पिष् has no prefix here, so the absolutive is -त्वा: 'having ground'."),
-            [("One should grind, a command", "A command would be an optative such as पिष्यात्; the verse's command is उद्वर्तयेत्."),
+            [("One should grind, a command", "A command would be an optative like उद्वर्तयेत्; पिष्ट्वा is a different form."),
              ("The ground leaves, a noun", "A noun would not end in -त्वा."),
              ("Is being ground, a passive", "-त्वा does not make a passive.")],
             "पिष्ट्वा is the absolutive of √पिष् (abs. in the data): 'having ground'. The main verb comes later.",
