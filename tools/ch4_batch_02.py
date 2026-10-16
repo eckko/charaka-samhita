@@ -247,7 +247,7 @@ AIDS["3"] = {
                    "पञ्चाशन्महाकषायाः", "पञ्च कषायशतानि", "इति संग्रहः"]}]},
     "pegs": "मेरा बनाया स्मरण-सूत्र (वाक्य का दावा नहीं): विरेचनशतानि छह सौ · आश्रय छह · योनि पाँच · कल्पन पाँच प्रकार · महाकषाय पचास · कषायशतानि पाँच सौ — ‘छह सौ, छह; पाँच, पाँच; पचास, पाँच सौ’।",
     "sandhi": "त् + म → न्म: पञ्चाशत् + महाकषायाः → पञ्चाशन्महाकषायाः। ट् + घोष → ड्: षट् + विरेचन… → षड् विरेचन…।",
-    "anchors": "संग्रहः = संक्षिप्त सूची · विरेचनशतानि = विरेचनों के सैकड़े (छह सौ) · योनयः = स्रोत · महाकषायाः = बड़े कषाय (वर्ग)।",
+    "anchors": "संग्रहः = संक्षिप्त सूची · विरेचनशतानि = विरेचनों के सैकड़े (छह सौ) · योनयः = स्रोत · महाकषायाः = बड़े कषाय।",
     "chunks": "इह खलु षड् विरेचनशतानि भवन्ति | षड् विरेचनाश्रयाः | पञ्च कषाययोनयः | पञ्चविधं कषायकल्पनं | पञ्चाशन्महाकषायाः | पञ्च कषायशतानि | इति संग्रहः।",
 }
 
@@ -258,9 +258,10 @@ AUTHORED["4"] = {
     "rule": ("Unit 4 takes up 'six hundred purgatives' again, promises the detail in the "
              "Kalpa-upaniṣad, and lists drugs with the number of formulations each yields, "
              "ending इति षड्विरेचनशतानि."),
-    "limits": ("Names and numbers only: no use, no effect, no dose, no plant identification. The data says "
-               "the fruits' 133 and the 110 for śyāmā and trivṛt are inferred from the total 600; no "
-               "question rests on either. Which section the Kalpa-upaniṣad is, is not said."),
+    "limits": ("Names and numbers only: no use, no dose, no plant identification. The data says "
+               "the fruits' 133 is chosen by the 600 check, and 110 for śyāmā and trivṛt is read as "
+               "a hundred plus ten; no question rests on either. The edition "
+               "prints it in parentheses."),
     "explain_hi": ("यह इकाई ‘छह सौ विरेचन’ वाली बात को फिर उठाती है: यहाँ संक्षेप में गिनाकर विस्तार से ‘कल्पोपनिषद्’ में समझाने का वचन है। "
                    "फिर कई औषधियों के साथ उनके योगों की संख्या दी गई है: जीमूतक में उनतालीस, इक्ष्वाकु में पैंतालीस, धामार्गव साठ प्रकार का, "
                    "कुटज अठारह प्रकार से योग को प्राप्त होता है, चतुरङ्गुल बारह प्रकार से, लोध्र सोलह योगों से युक्त, महावृक्ष बीस योगों से युक्त, "
@@ -333,7 +334,7 @@ NOTES_HI["4"] = ("संधियाँ जाँची: संग्रहे�
 AIDS["4"] = {
     "frame": "क्या: ‘छह सौ’ का संक्षिप्त उदाहरण और विस्तार का वचन · औषधि → संख्या · अन्त: इति षड्विरेचनशतानि · उपयोग/मात्रा नहीं।",
     "sandhi": "अ + उ → ओ: संग्रहेण + उदाहृत्य → संग्रहेणोदाहृत्य। विसर्ग + त → स्त और उ → व्: कुटजः + तु + अष्टादशधा → कुटजस्त्वष्टादशधा। अः + घोष → ओ: चतुरङ्गुलः + द्वादशधा → चतुरङ्गुलो द्वादशधा। त् + ज → ज्ज: एकोनचत्वारिंशत् + जीमूतकेषु → एकोनचत्वारिंशज्जीमूतकेषु।",
-    "anchors": "-धा = ‘-गुना / इतने प्रकार’: षष्टिधा = साठ प्रकार, अष्टादशधा = अठारह प्रकार, द्वादशधा = बारह प्रकार · योगमेति = योग को प्राप्त होता है · योगयुक्तः = योगों से युक्त · कल्पोपनिषदि = ‘कल्प-उपनिषद्’ में (सप्तमी)।",
+    "anchors": "पञ्चदश = पन्द्रह (पञ्च + दश) · -धा = ‘-गुना / इतने प्रकार’: षष्टिधा = साठ प्रकार, अष्टादशधा = अठारह प्रकार, द्वादशधा = बारह प्रकार · योगमेति = योग को प्राप्त होता है · योगयुक्तः = योगों से युक्त · कल्पोपनिषदि = ‘कल्प-उपनिषद्’ में (सप्तमी)।",
     "chunks": "षड् विरेचनशतानि इति यदुक्तं | तदिह संग्रहेणोदाहृत्य | विस्तरेण कल्पोपनिषदि व्याख्यास्यामः ‖ … ‖ इति षड्विरेचनशतानि।",
 }
 
@@ -357,7 +358,7 @@ AUTHORED["5"] = {
             "What does unit 5 name?",
             ("The six supports of purgation: milk, root, bark, leaf, flower and fruit",
              "The sentence expands 'six supports' into six names."),
-            [("The five tastes of kaṣāya", "The tastes come in unit 6, not here."),
+            [("The five sources of kaṣāya", "Those come in unit 6, not here."),
              ("The five preparations of kaṣāya", "The preparations come in unit 7."),
              ("The fifty classes of drugs", "The classes are named from unit 8.")],
             "The supports counted in unit 3 are named here.",
@@ -487,7 +488,7 @@ AUTHORED["6"] = {
     ],
 }
 
-NOTES_HI["6"] = ("संधियाँ जाँची: कषाययोनयः + इति → कषाययोनय इति (अः के बाद भिन्न स्वर से पहले विसर्ग लुप्त, हिअटस बना रहता है); "
+NOTES_HI["6"] = ("संधियाँ जाँची: कषाययोनयः + इति → कषाययोनय इति (अः के बाद भिन्न स्वर से पहले विसर्ग लुप्त, विवृत्ति (हायटस) बनी रहती है); "
                  "मधुरकषायः + अम्लकषायः → मधुरकषायो ऽम्लकषायः (अः + अ → ओ और अ का लोप ऽ); कटुकषायः + तिक्तकषायः → कटुकषायस्तिक्तकषायः (विसर्ग + त → स्त); "
                  "कषायकषायः + च → कषायकषायश्च (विसर्ग + च → श्च); च + इति → चेति (अ + इ → ए)। "
                  "डेटा की टिप्पणी: ‘कषायकषाय’ के दोनों खण्ड पाठ में समझाए नहीं गए, टीकाकारों में मतभेद है; ‘मधुरकषाय’ आदि को कर्मधारय (मधुर कषाय) पढ़ा गया है, "
@@ -507,7 +508,7 @@ AIDS["6"] = {
 # ---------------------------------------------------------------- unit 7
 AUTHORED["7"] = {
     "title": "पञ्चविधं कषायकल्पनम्",
-    "question": "What does unit 7 list under 'fivefold', and what do you notice about the count?",
+    "question": "What preparation names does unit 7 list?",
     "rule": ("पञ्चविधं कषायकल्पनमिति तद्यथा — स्वरसः, कल्कः, शृतः, शीतः, फाण्टः, कषायः: "
              "the heading says fivefold, yet six names follow."),
     "limits": ("The text says 'five' but prints six names, and the data does not resolve this: the "
@@ -521,18 +522,19 @@ AUTHORED["7"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0,
-            "The heading of unit 7 says पञ्चविधम्, 'fivefold'. How many names does the list after तद्यथा actually print?",
-            ("Six names", "स्वरसः, कल्कः, शृतः, शीतः, फाण्टः and कषायः make six."),
-            [("Five names, matching the heading", "The list prints a sixth name, कषायः, after the five."),
-             ("Four names", "Four would leave out two of the printed names."),
-             ("Ten names", "Ten is the size of the drug groups in later units, not of this list.")],
-            "The list after तद्यथा prints six names although the heading says fivefold.",
-            "Unit 7: a 'fivefold' heading with six printed names."),
+            "What does unit 7 list after तद्यथा?",
+            ("Names of kinds of kaṣāya preparation: expressed juice, paste, boiled, cold and hot infusion and more",
+             "The names after तद्यथा are the preparations, glossed juice, paste, boiled, cold and hot infusion."),
+            [("The six supports of purgation", "The supports are named in unit 5."),
+             ("The ten drugs of a class", "Drug groups of ten begin in unit 9."),
+             ("The doses of each preparation", "No dose is given in the unit.")],
+            "After तद्यथा the unit names the preparations of kaṣāya.",
+            "Unit 7 names the preparations of kaṣāya."),
         order(1, "Put the names of unit 7 in the order they are printed.",
               ["स्वरसः", "कल्कः", "शृतः", "शीतः", "फाण्टः", "कषायः"],
               "The list runs स्वरसः, कल्कः, शृतः, शीतः, फाण्टः, कषायः.",
               "The printed order: स्वरस, कल्क, शृत, शीत, फाण्ट, कषाय."),
-        fill(2, "The sixth and last name printed after तद्यथा is the plain word ____ (type it in Devanagari).",
+        fill(2, "The name that closes the list, right before इति, is the plain word ____ (type it in Devanagari).",
              ["कषायः", "कषाय"],
              "The list ends with कषाय, then इति.",
              "The last item is the plain word कषाय, the same word that heads the whole topic.",
@@ -545,34 +547,28 @@ AUTHORED["7"] = {
             "The glosses follow the standard meanings: शीत cold, फाण्ट hot.",
             "शीत = cold infusion; फाण्ट = hot infusion."),
         multi("apply", 4, "Which of these statements about unit 7 are right?",
-              [("The heading says पञ्चविधम्, fivefold",
-                "Right: that is the heading."),
-               ("Six names are printed after तद्यथा",
-                "Right: from स्वरसः to कषायः."),
-               ("The unit does not say which of the six is the extra one",
-                "Right: the data says the mismatch is left unresolved."),
-               ("The unit states that कषाय is a later insertion",
-                "No such statement is made."),
-               ("The unit gives how long each preparation is boiled",
-                "No method and no time is given.")],
+              [("शीतः is glossed 'cold infusion'", "Right: that is the data's gloss."),
+               ("फाण्टः is glossed 'hot infusion'", "Right: that is the data's gloss."),
+               ("स्वरसः is glossed 'expressed juice'", "Right: that is the data's gloss."),
+               ("The unit gives how long each preparation is boiled", "No method and no time is given."),
+               ("The unit gives the dose of each preparation", "No dose is given.")],
               [0, 1, 2],
-              "The first three are what the unit shows; the last two are not in it.",
-              "Report a count mismatch as it stands; do not resolve it."),
+              "The first three are glosses on the card; no time or dose is in the unit.",
+              "Unit 7 names the preparations; it gives no method or dose."),
         mcq("transfer", 5,
-            "A made-up line says चतुर्विधं भोजनम्, then prints five names. How should a careful reader treat it, as unit 7 is treated?",
-            ("Note that the heading says four and five names are printed, without choosing which is extra",
-             "The data treats unit 7 the same way: it records the mismatch and does not resolve it."),
-            [("Drop the last name so the count fits", "Nothing in the text allows dropping a printed name."),
-             ("Change the heading to five without comment", "That would silently alter the text."),
-             ("Treat all five names as one name", "Five printed names are five names.")],
-            "Unit 7 prints six names under a heading of five and the mismatch is left standing.",
-            "Record a count mismatch plainly; do not guess a fix.",
-            teaches="When a heading's count and its list disagree, say so on the card and leave the text as printed."),
+            "By the same rule as तत् + यथा → तद्यथा, how are तत् and भवति joined?",
+            ("तद्भवति", "A final त् becomes द् before the voiced भ, as in तद्यथा."),
+            [("तत्भवति", "The त् does not stay before a voiced sound."),
+             ("तन्भवति", "न् is for a following nasal; भ is not a nasal."),
+             ("तभवति", "The consonant is not dropped.")],
+            "Final त् + voiced consonant → द् + that consonant, the same as in तद्यथा.",
+            "त् + voiced consonant → द्.",
+            teaches="You can predict how a final त् is printed before any voiced sound."),
     ],
 }
 
 NOTES_HI["7"] = ("संधियाँ जाँची: कषायकल्पनम् + इति → कषायकल्पनमिति (म् + इ सटा); तत् + यथा → तद्यथा (त् → द् घोष य से पहले); "
-                 "फाण्टः, कषायः आदि के बाद अल्पविराम है और अन्तिम ‘कषाय’ के बाद ‘इति’ आता है। "
+                 "स्वरसः से फाण्टः तक हर नाम के बाद अल्पविराम है; अन्तिम ‘कषाय इति’ में कषायः + इति → कषाय इति (अः के बाद भिन्न स्वर से पहले विसर्ग लुप्त)। "
                  "डेटा की टिप्पणी: शीर्षक ‘पञ्चविधम्’ के नीचे छह नाम छपे हैं (स्वरस, कल्क, शृत, शीत, फाण्ट, कषाय); यह गिनती का विरोध पाठ में ही है, "
                  "इसे सुलझाया नहीं गया — अन्तिम ‘कषाय’ सामान्य शब्द भी हो सकता है और अलग प्रकार भी। पहले पाँच के अर्थ सामान्य अर्थों के अनुसार दिए गए हैं। "
                  "कोई पाठभेद या पाठ-दोष नहीं दिया गया।")
@@ -604,7 +600,7 @@ AUTHORED["8"] = {
                    "समूहों में वर्ग-नामों की संख्या क्रम से छह, चार, छह, चार, सात, तीन, पाँच, पाँच, पाँच, पाँच है, जिनका योग पचास बैठता है। "
                    "पहला समूह जीवनीय से दीपनीय तक, दूसरा बल्य से हृद्य तक, और पाँचवाँ (सात वर्गों का) स्नेहोपग से शिरोविरेचनोपग तक चलता है। "
                    "इन नामों को डेटा शाब्दिक अर्थ में लेता है (जैसे ‘जीवनीय’ = जीवन देने वाला); इस इकाई में कोई औषधि-नाम नहीं है, औषधियाँ अगली इकाइयों में आएँगी। "
-                   "अन्त में कहा गया है कि ये पचास बड़े कषायों के लक्षण और उदाहरण के लिए गिनाए गए हैं।"),
+                   "अन्त में कहा गया है कि ये पचास अन्य बड़े कषायों के भी लक्षण और उदाहरण के रूप में समझाए गए हैं।"),
     "hook": "६ · ४ · ६ · ४ · ७ · ३ · ५ · ५ · ५ · ५ = ५० वर्ग; हर समूह ‘इति … कषायवर्गः’ से बन्द।",
     "core": True,
     "questions": [
@@ -655,9 +651,9 @@ AUTHORED["8"] = {
     ],
 }
 
-NOTES_HI["8"] = ("संधियाँ जाँची: जीवनीयः + बृंहणीयः → जीवनीयो बृंहणीयः (अः + घोष → ओ); तृप्तिघ्नः + अर्शोघ्नः → तृप्तिघ्नो ऽर्शोघ्नः (अः + अ → ओ, अ का लोप ऽ); "
+NOTES_HI["8"] = ("संधियाँ जाँची: जीवनीयः + बृंहणीयः → जीवनीयो बृंहणीयः (अः + घोष → ओ); तृप्तिघ्नः + अर्शोघ्नः → तृप्तिघ्नो ऽर्शोघ्नः (अः + अ → ओ, अ का लोप ऽ; छपा रूप: ऽर्शोघ्रः); "
                  "स्नेह + उपगः → स्नेहोपगः (अ + उ → ओ); पञ्चाशत् + महाकषायाः → पञ्चाशन्महाकषायाः (त् → न् म से पहले); "
-                 "कषायाः + इति → कषाया इति (आः के बाद स्वर से पहले विसर्ग लुप्त; छपा रूप ‘कषायाऽ’)। "
+                 "कषायाः + इति → कषाया इति (आः के बाद स्वर से पहले विसर्ग लुप्त; छपा रूप ‘कषायाऽ’ में ऽ संस्करण का समापन-उद्धरण चिह्न है, अवग्रह नहीं)। "
                  "पाठ-दोष (text_flags): ‘ऽर्शोघ्रः’ छपा है, वह ‘ऽर्शोघ्नः’ (अर्शस् + घ्न, ‘अर्श को दूर करने वाला’) होना चाहिए; ‘घ्र’ सम्भवतः ‘घ्न’ की भूल है "
                  "(देवनागरी प्रति में भी यही रूप है, इसलिए संस्करण में हो सकता है); इसे भूल मानकर चिह्नित किया है, किसी प्रश्न में नहीं रखा। "
                  "डेटा की टिप्पणी: समूहों के आकार छपे अनुसार ६+४+६+४+७+३+५+५+५+५ = ५० हैं, जो ‘पञ्चाशत्’ से मेल खाता है; हृद्य का अर्थ ‘मनोहर’ भी हो सकता है, कण्ठ्य का ‘कण्ठ/स्वर के लिए हितकर’, विरजनीय और स्थापन का सटीक अर्थ शब्दों से तय नहीं होता। "
@@ -665,10 +661,10 @@ NOTES_HI["8"] = ("संधियाँ जाँची: जीवनीयः +
 
 AIDS["8"] = {
     "frame": "क्या: पचास महाकषाय के वर्गों के नाम, दस समूहों में · हर समूह अन्त में ‘इति … कषायवर्गः’ · औषधि-नाम नहीं।",
-    "contrast": "समूहों के आकार क्रम से: छह (जीवनीय) · चार (बल्य) · छह (तृप्तिघ्न) · चार (स्तन्यजनन) · सात (स्नेहोपग, सबसे बड़ा) · तीन (छर्दिनिग्रहण, सबसे छोटा) · पाँच · पाँच · पाँच · पाँच = पचास।",
+    "contrast": "समूहों के आकार क्रम से: छह (जीवनीय) · चार (बल्य) · छह (तृप्तिघ्न) · चार (स्तन्यजनन) · सात (स्नेहोपग, सबसे बड़ा) · तीन (छर्दिनिग्रहण, सबसे छोटा) · पाँच (पुरीषसंग्रहणीय) · पाँच (कासहर) · पाँच (दाहप्रशमन) · पाँच (शोणितस्थापन) = पचास।",
     "sandhi": "अः + घोष → ओ: जीवनीयः + बृंहणीयः → जीवनीयो बृंहणीयः। अ + उ → ओ: स्नेह + उपगः → स्नेहोपगः। त् + म → न्म: पञ्चाशत् + महाकषायाः → पञ्चाशन्महाकषायाः।",
     "anchors": "त्रिकः = तीन का समूह · चतुष्कः = चार का · पञ्चकः = पाँच का · षट्कः = छह का · सप्तकः = सात का · वर्ग = श्रेणी · जीवनीय = जीवन देने वाला · बृंहणीय = पुष्टि बढ़ाने वाला (शाब्दिक, डेटा के अनुसार)।",
-    "chunks": "जीवनीयो … दीपनीय इति षट्कः | बल्यो … हृद्य इति चतुष्कः | तृप्तिघ्नो … विषघ्न इति षट्कः | स्तन्यजननः … शुक्रशोधन इति चतुष्कः | स्नेहोपगः … शिरोविरेचनोपग इति सप्तकः | छर्दिनिग्रहणः … हिक्कानिग्रहण इति त्रिकः | पुरीषसंग्रहणीयः … मूत्रविरेचनीय इति पञ्चकः | कासहरः … श्रमहर इति पञ्चकः | दाहप्रशमनः … शूलप्रशमन इति पञ्चकः | शोणितस्थापनः … वयःस्थापन इति पञ्चकः।",
+    "chunks": "जीवनीयो … दीपनीय इति षट्कः | बल्यो … हृद्य इति चतुष्कः | तृप्तिघ्नो … विषघ्न इति षट्कः | स्तन्यजननः … शुक्रशोधन इति चतुष्कः | स्नेहोपगः … शिरोविरेचनोपग इति सप्तकः | छर्दिनिग्रहणस्तृष्णानिग्रहणो … हिक्कानिग्रहण इति त्रिकः | पुरीषसंग्रहणीयः … मूत्रविरेचनीय इति पञ्चकः | कासहरः … श्रमहर इति पञ्चकः | दाहप्रशमनः … शूलप्रशमन इति पञ्चकः | शोणितस्थापनो … वयःस्थापन इति पञ्चकः।",
 }
 
 # ---------------------------------------------------------------- unit 9
@@ -679,11 +675,10 @@ AUTHORED["9"] = {
              "(these ten are the X). The six X are जीवनीय, बृंहणीय, लेखनीय, भेदनीय, सन्धानीय, दीपनीय; the "
              "unit closes इति षट्कः कषायवर्गः."),
     "limits": ("Names only: no plant identified, no use, no dose. The names are printed run together; "
-               "their boundaries, made by a draft and a reviewer, are doubtful in places (भल्लातकास्थि "
-               "and हिङ्गुनिर्यासाः each taken as one; वाठ्यायनी flagged). Part of a list across units 9-18."),
+               "some boundaries are doubtful (भल्लातकास्थि, हिङ्गुनिर्यासाः each taken as one; वाठ्यायनी flagged). Part of a list across units 9-18. The edition prints it in parentheses (possibly interpolated)."),
     "explain_hi": ("यह इकाई ‘पचास महाकषाय’ की सूची का आरम्भ है: वर्ग १ से ६ (कुल पचास में)। हर वर्ग में दस नाम गिनाकर ‘इति दशेमानि … भवन्ति’ कहा गया है, "
                    "यानी ‘ये दस … हैं’। छह वर्गों के नाम क्रम से जीवनीय, बृंहणीय, लेखनीय, भेदनीय, सन्धानीय और दीपनीय हैं (इकाई ८ में इनके नाम पहले आ चुके हैं), "
-                   "और अन्त में ‘इति षट्कः कषायवर्गः’ आता है। कुछ नाम एक से अधिक वर्ग की सूचियों में छपे हैं, जैसे काकोली और क्षीरकाकोली जीवनीय और बृंहणीय दोनों में, "
+                   "और अन्त में ‘इति षट्कः कषायवर्गः’ आता है। कुछ नाम एक से अधिक वर्ग की सूचियों में छपे हैं, जैसे (छपे शब्द-विभाजन के अनुसार) काकोली और क्षीरकाकोली जीवनीय और बृंहणीय दोनों में, "
                    "चित्रक और चिरबिल्व लेखनीय और भेदनीय दोनों में। यहाँ केवल नाम हैं: किसी पौधे की पहचान, उपयोग या मात्रा नहीं।"),
     "hook": "वर्ग १–६: दस-दस नाम, ‘दशेमानि X भवन्ति’; अन्त: षट्कः कषायवर्गः।",
     "core": False,
@@ -720,8 +715,8 @@ AUTHORED["9"] = {
             "Each list ends with its class label between दशेमानि and भवन्ति.",
             "The class label stands between दशेमानि and भवन्ति."),
         mcq("transfer", 5,
-            "A made-up line is अ आ इ ई उ ऊ ए ऐ ओ औ इति दशेमानि स्वराणि भवन्ति. Which word is the class label?",
-            ("स्वराणि", "It stands between दशेमानि and भवन्ति, as जीवनीयानि does in unit 9."),
+            "A made-up line is अ आ इ ई उ ऊ ए ऐ ओ औ इति दशेमानि अक्षराणि भवन्ति. Which word is the class label?",
+            ("अक्षराणि", "It stands between दशेमानि and भवन्ति, as जीवनीयानि does in unit 9."),
             [("दशेमानि", "That is the count, 'these ten'."),
              ("भवन्ति", "That is the verb, 'are'."),
              ("इति", "That closes the list of items.")],
@@ -733,7 +728,7 @@ AUTHORED["9"] = {
 
 NOTES_HI["9"] = ("संधियाँ जाँची: दश + इमानि → दशेमानि (अ + इ → ए); जीवक + ऋषभकौ → जीवकर्षभकौ (अ + ऋ → अर्); मधुकम् + इति → मधुकमिति (म् सटा); "
                  "अर्क + उरुबुक → अर्कोरुबुक (अ + उ → ओ); पयस्या + ऋष्यगन्धा → पयस्यर्ष्यगन्धा (आ + ऋ → अर्)। "
-                 "पाठ-दोष/वैकल्पिक पाठ (text_flags): ‘वाठ्यायनी’ सम्भवतः ‘वाट्यायनी’ है (दोनों देवनागरी प्रति में ठ है); दस की गिनती दोनों में बैठती है। "
+                 "पाठ-दोष/वैकल्पिक पाठ (text_flags): ‘वाठ्यायनी’ सम्भवतः ‘वाट्यायनी’ है (देवनागरी प्रति में भी ‘ठ’ है); दस की गिनती दोनों में बैठती है। "
                  "सीमाओं के सन्देह (डेटा की टिप्पणी): ‘भल्लातकास्थि’ और ‘हिङ्गुनिर्यासाः’ को एक-एक नाम माना गया है; दूसरी तरह तोड़ने पर बारह होते; "
                  "‘अर्कोरुबुकाग्निमुखी’ में उरुबुक की दीर्घता सन्धि में छिप सकती है। पाठ-स्थिति: संस्करण में यह अंश कोष्ठक में छपा है (प्रक्षिप्त या वैकल्पिक हो सकता है); स्रोत में एक भटका ‘&’ था जिसे हटाया गया; "
                  "सूचियों के बाद १–६ की गिनती के संख्या-चिह्न हटाए गए (वे पचास समूहों को गिनते हैं)।")
@@ -742,7 +737,7 @@ AIDS["9"] = {
     "frame": "क्या: वर्ग १–६ (पचास में से) · हर वर्ग: दस नाम + ‘दशेमानि X भवन्ति’ · अन्त: षट्कः कषायवर्गः · केवल नाम।",
     "chain": {"steps": ["जीवनीयानि", "बृंहणीयानि", "लेखनीयानि", "भेदनीयानि", "सन्धानीयानि", "दीपनीयानि"]},
     "sandhi": "अ + इ → ए: दश + इमानि → दशेमानि। अ + ऋ → अर्: जीवक + ऋषभकौ → जीवकर्षभकौ। अ + उ → ओ: अर्क + उरुबुक → अर्कोरुबुक।",
-    "anchors": "दशेमानि = दश (दस) + इमानि (ये): ‘ये दस’ · काकोली और क्षीरकाकोली दोनों जीवनीय और बृंहणीय सूचियों में छपे हैं · चित्रक और चिरबिल्व लेखनीय और भेदनीय दोनों में।",
+    "anchors": "दशेमानि = दश (दस) + इमानि (ये): ‘ये दस’ · (छपे शब्द-विभाजन के अनुसार) काकोली और क्षीरकाकोली दोनों जीवनीय और बृंहणीय सूचियों में छपे हैं · चित्रक और चिरबिल्व लेखनीय और भेदनीय दोनों में।",
     "chunks": "… इति दशेमानि जीवनीयानि भवन्ति | … दशेमानि बृंहणीयानि भवन्ति | … दशेमानि लेखनीयानि भवन्ति | … दशेमानि भेदनीयानि भवन्ति | … दशेमानि सन्धानीयानि भवन्ति | … दशेमानि दीपनीयानि भवन्ति ‖ इति षट्कः कषायवर्गः।",
 }
 
@@ -754,11 +749,11 @@ AUTHORED["10"] = {
              "by 'दशेमानि X भवन्ति'. The unit closes इति चतुष्कः कषायवर्गः, a group of four."),
     "limits": ("Names only: no plant identified, no use, no dose. The class labels are glossed "
                "literally by the data; hṛdya can also mean 'pleasing'. पयस्यासितालता can be read "
-               "with सिता or असिता; no question rests on it. The unit continues unit 9."),
+               "with सिता or असिता; no question rests on it. The unit continues unit 9. The edition prints it in parentheses (possibly interpolated)."),
     "explain_hi": ("यह इकाई इकाई ९ की सूची को आगे बढ़ाती है: वर्ग ७ से १० (कुल पचास में)। चार वर्ग हैं: बल्य, वर्ण्य, कण्ठ्य और हृद्य, "
-                   "जिन्हें डेटा शाब्दिक रूप में ‘बल देने वाले’, ‘वर्ण सुधारने वाले’, ‘कण्ठ के लिए हितकर’ और ‘हृदय के लिए हितकर’ लेता है। "
+                   "जिन्हें इस इकाई के अनुवाद में ‘बल देने वाले’, ‘वर्ण सुधारने वाले’, ‘कण्ठ के लिए हितकर’ और ‘हृदय के लिए हितकर’ लेता है। "
                    "हर वर्ग में दस नाम हैं और अन्त में ‘दशेमानि X भवन्ति’ आता है; पूरी इकाई ‘इति चतुष्कः कषायवर्गः’ (चार का समूह) पर समाप्त होती है, जैसा इकाई ८ में बताया गया था। "
-                   "कुछ नाम कई सूचियों में छपे हैं, जैसे मधुक वर्ण्य और कण्ठ्य दोनों में। यहाँ केवल नाम हैं: कोई पहचान, उपयोग या मात्रा नहीं।"),
+                   "कुछ नाम कई सूचियों में छपे हैं, जैसे मधुक और सारिवा वर्ण्य और कण्ठ्य दोनों में। यहाँ केवल नाम हैं: कोई पहचान, उपयोग या मात्रा नहीं।"),
     "hook": "वर्ग ७–१०: बल्य · वर्ण्य · कण्ठ्य · हृद्य; अन्त: चतुष्कः कषायवर्गः।",
     "core": False,
     "questions": [
@@ -771,7 +766,7 @@ AUTHORED["10"] = {
              ("The speaker line of unit 2; it ends आह", "Unit 2 only names Ātreya as speaker.")],
             "Unit 10 continues the class lists of unit 9 and closes with the group-of-four label.",
             "Unit 10: classes 7 to 10, closing label चतुष्कः."),
-        match(1, "Match each class label to the data's literal gloss.",
+        match(1, "Match each class label to the data's gloss in unit 10.",
               [["बल्यानि", "strength-giving"], ["वर्ण्यानि", "complexion-improving"],
                ["कण्ठ्यानि", "good for the throat"], ["हृद्यानि", "good for the heart"]],
               "The data renders the four class labels literally.",
@@ -781,7 +776,7 @@ AUTHORED["10"] = {
              "The closing words are इति चतुष्कः कषायवर्गः.",
              "The count word चतुष्कः (four) closes the group, as षट्कः (six) did in unit 9.",
              "इति + count word + कषायवर्गः closes a group of classes."),
-        mcq("discriminate", 3, "Which name is printed in both the वर्ण्य list and the कण्ठ्य list of unit 10?",
+        mcq("discriminate", 3, "Which of these names is printed in both the वर्ण्य list and the कण्ठ्य list of unit 10?",
             ("मधुक", "It stands among the वर्ण्य names and again among the कण्ठ्य names."),
             [("चन्दन", "It is printed in the वर्ण्य list only."),
              ("द्राक्षा", "It is printed in the कण्ठ्य list only."),
@@ -796,8 +791,8 @@ AUTHORED["10"] = {
             "The label stands between दशेमानि and भवन्ति at the end of each list.",
             "The class label stands between दशेमानि and भवन्ति."),
         mcq("transfer", 5,
-            "A made-up text closes three lists with इति त्रिकः वर्गः. By the pattern of चतुष्कः, what does that say?",
-            ("The three lists form one group of three", "त्रिकः means a group of three, as चतुष्कः means a group of four."),
+            "A made-up text closes a section with इति त्रिकः वर्गः. By the pattern of चतुष्कः, what does that say?",
+            ("The section is one group of three lists (classes)", "त्रिकः means a group of three, as चतुष्कः means a group of four."),
             [("Each list holds three names", "The count word counts the lists in the group, not the names in one list."),
              ("The lists hold thirty names in all", "The word gives no total of names."),
              ("The text has three groups", "One closing label closes one group.")],
@@ -818,29 +813,29 @@ AIDS["10"] = {
     "frame": "क्या: वर्ग ७–१० (पचास में से, इकाई ९ की सूची जारी) · हर वर्ग दस नाम + ‘दशेमानि X भवन्ति’ · अन्त: चतुष्कः कषायवर्गः · केवल नाम।",
     "chain": {"steps": ["बल्यानि", "वर्ण्यानि", "कण्ठ्यानि", "हृद्यानि"]},
     "sandhi": "ई + स्वर → य्: ऐन्द्री + ऋषभी → ऐन्द्र्यृषभी। आ + ऋ → अर्: अतिरसा + ऋष्यप्रोक्ता → अतिरसर्ष्यप्रोक्ता। आ + इ → ए: सारिवा + इक्षुमूल → सारिवेक्षुमूल। अ + आ → आ: आम्र + आम्रातक → आम्राम्रातक।",
-    "anchors": "बल्य = बल देने वाला · वर्ण्य = वर्ण सुधारने वाला · कण्ठ्य = कण्ठ के लिए हितकर · हृद्य = हृदय के लिए हितकर (डेटा के शाब्दिक रूप) · मधुक वर्ण्य और कण्ठ्य दोनों सूचियों में छपा है · चतुष्कः = चार का समूह।",
+    "anchors": "बल्य = बल देने वाला · वर्ण्य = वर्ण सुधारने वाला · कण्ठ्य = कण्ठ के लिए हितकर · हृद्य = हृदय के लिए हितकर (इस इकाई के अनुवाद में) · मधुक और सारिवा वर्ण्य और कण्ठ्य दोनों सूचियों में छपे हैं · चतुष्कः = चार का समूह।",
     "chunks": "… इति दशेमानि बल्यानि भवन्ति | … दशेमानि वर्ण्यानि भवन्ति | … दशेमानि कण्ठ्यानि भवन्ति | … दशेमानि हृद्यानि भवन्ति ‖ इति चतुष्कः कषायवर्गः।",
 }
 
 IMAGE_SPECS = {
-    ("3", "pegs"): {
+    ("3", "diagram"): {
         "file": "ch4-count-3.svg",
         "alt": "A table of the six counts in the summary of unit 3: six hundred purgatives, six supports of purgation, five sources of kaṣāya, fivefold preparation, fifty great kaṣāyas, five hundred kaṣāyas",
         "type": "table",
         "title": "इकाई ३: संग्रह की गिनती",
         "heads": ["विषय", "संख्या"],
-        "rows": [["विरेचनशतानि", "छह सौ"], ["विरेचनाश्रयाः", "छह"], ["कषाययोनयः", "पाँच"],
-                 ["कषायकल्पनम्", "पाँच प्रकार"], ["महाकषायाः", "पचास"], ["कषायशतानि", "पाँच सौ"]],
+        "rows": [["षड् विरेचनशतानि", "छह सौ"], ["षड् विरेचनाश्रयाः", "छह"], ["पञ्च कषाययोनयः", "पाँच"],
+                 ["पञ्चविधं कषायकल्पनं", "पाँच प्रकार"], ["पञ्चाशन्महाकषायाः", "पचास"], ["पञ्च कषायशतानि", "पाँच सौ"]],
     },
     ("8", "contrast"): {
         "file": "ch4-groups-8.svg",
         "alt": "A table of the ten groups of class names in unit 8 with their sizes: six, four, six, four, seven, three, five, five, five, five, adding up to fifty",
         "type": "table",
-        "title": "इकाई ८: दस समूहों के आकार",
+        "title": "इकाई ८: दस समूहों के आकार (कुल = पचास)",
         "heads": ["समूह (पहला वर्ग)", "वर्ग"],
         "rows": [["१ जीवनीय", "छह"], ["२ बल्य", "चार"], ["३ तृप्तिघ्न", "छह"], ["४ स्तन्यजनन", "चार"],
                  ["५ स्नेहोपग", "सात"], ["६ छर्दिनिग्रहण", "तीन"], ["७ पुरीषसंग्रहणीय", "पाँच"],
-                 ["८ कासहर", "पाँच"], ["९ दाहप्रशमन", "पाँच"], ["१० शोणितस्थापन", "पाँच = कुल पचास"]],
+                 ["८ कासहर", "पाँच"], ["९ दाहप्रशमन", "पाँच"], ["१० शोणितस्थापन", "पाँच"]],
     },
     ("9", "chain"): {
         "file": "ch4-classes-9.svg",
