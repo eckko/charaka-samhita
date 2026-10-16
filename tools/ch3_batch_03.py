@@ -14,7 +14,7 @@ AUTHORED["11"] = {
     "limits": ("The verse does not say which powders are meant; the nearest groups are in "
                "the verses just before it. It gives no dose and no method beyond dusting. "
                "The disease names are kept as in the data, not identified further."),
-    "explain_hi": ("यह श्लोक पिछले श्लोकों के चूर्णों का प्रयोग बताता है, पर यहाँ यह नहीं लिखा कि "
+    "explain_hi": ("यह श्लोक सम्भवतः पिछले श्लोकों (नज़दीकी: श्लोक १०) के चूर्णों का प्रयोग बताता है, पर यहाँ यह नहीं लिखा कि "
                    "‘एतानि’ यानी ये कौन-से चूर्ण हैं। शरीर पहले तेल से चुपड़ा हो "
                    "(तैलाक्तगात्रस्य), और चूर्ण ‘अवचूर्णन’ के लिए, यानी ऊपर से छिड़कने के लिए, "
                    "लगाए जाएँ। परिणाम में चार नाम गिनाए गए हैं: खुजली-सहित दद्रु, किटिभ, पामा और "
@@ -572,7 +572,7 @@ AUTHORED["17"] = {
               [("The leaves of caturaṅgula are ground with buttermilk", "Right: पर्णानि पिष्ट्वा चतुरङ्गुलस्य तक्रेण."),
                ("The leaves of kākamācī come next (अथ)", "Right: पर्णान्यथ काकमाच्याः."),
                ("The man's body is anointed with oil", "Right: तैलाक्तगात्रस्य नरस्य."),
-               ("Caturaṅgula is the same tree as āragvadha", "The verse does not identify the names; that is tradition, not stated here."),
+               ("The verse says what plant caturaṅgula is", "None of the three names is identified in the verse."),
                ("It is stated how the aśvahana leaves are used", "Only 'also with aśvahana leaves' is said; no method.")],
               [0, 1, 2],
               "Line 1 gives the grinding; line 2 gives the condition of the body, the rubbing and the extra leaves.",
@@ -582,7 +582,7 @@ AUTHORED["17"] = {
             ("लोध्रच्छदैः",
              "A short vowel before छ takes च्: as in अश्वहनच्छदैः."),
             [("लोध्रछदैः", "After a short vowel the छ is not left single; च् is added."),
-             ("लोध्रश्छदैः", "श् is added before च, not here; the added letter is च्."),
+             ("लोध्रश्छदैः", "No श् comes between a short vowel and छ; the added letter is च्."),
              ("लोध्रत्छदैः", "The added letter is च्, not त्.")],
             "अश्वहन ends in a short अ; before छदैः, a च् is added: अश्वहन + छदैः → अश्वहनच्छदैः. So लोध्र + छदैः → लोध्रच्छदैः. This is a grammar drill.",
             "Short vowel + छ → च्छ.",
@@ -603,7 +603,7 @@ AIDS["17"] = {
         "तेल-चुपड़े शरीर के कुष्ठ पर उद्वर्तन",
         "अश्वहन के पत्तों से भी (च)"]},
     "sandhi": "इ → य्: पर्णानि + अथ → पर्णान्यथ; कुष्ठानि + उद्वर्तयेत् → कुष्ठान्युद्वर्तयेत्। ह्रस्व स्वर + छ → च्छ: अश्वहन + छदैः → अश्वहनच्छदैः।",
-    "anchors": "उद्वर्तयेत् ← उद् + √वृत् (प्रेरणार्थक): ‘मलना, उबटन करना’ · पिष्ट्वा ← √पिष् (पीसना) · चतुरङ्गुल = चतुर् + अङ्गुल (नाम; श्लोक पहचान नहीं देता)।",
+    "anchors": "उद्वर्तयेत् ← उद् + √वृत् (प्रेरणार्थक): ‘मलना, उबटन करना’ · पिष्ट्वा ← √पिष् (पीसना) · चतुरङ्गुल: नाम, श्लोक पहचान नहीं देता।",
     "contrast": "पिष्ट्वा (पीसकर: पहले की क्रिया, -त्वा) ↔ उद्वर्तयेत् (मुख्य क्रिया: ‘मले’, विधिलिङ्)।",
 }
 
@@ -729,8 +729,8 @@ AUTHORED["19"] = {
                ["गन्धौषधैः", "with fragrant drugs"]],
               "These four words in the plural instrumental describe what the pradehas are made with.",
               "उष्णैः = with warm; चतुर्भिः = with four; दशमूलमिश्रैः = mixed with daśamūla; गन्धौषधैः = with fragrant drugs."),
-        fill(2, "The compound ending line 2, which means destroying Vāta, is ____ (type it in Devanagari).",
-             ["अनिलहः"],
+        fill(2, "The word before प्रदेहः in line 2, meaning destroying Vāta, is ____ (type it in Devanagari).",
+             ["अनिलहः", "अनिलह", "चानिलहः"],
              "Line 2 ends ... गन्धौषधैश्चानिलहः प्रदेहः.",
              "अनिल means wind (here Vāta) and -हः means destroying; the whole describes the pradeha.",
              "X-हः = that which destroys X."),
