@@ -1,0 +1,791 @@
+from ch1_authored import mcq, match, order, fill, multi
+
+AUTHORED = {}
+
+# ---------------------------------------------------------------- unit 120
+AUTHORED["120"] = {
+    "title": "ओषधीर्नामरूपाभ्यां जानते",
+    "question": "Who knows the medicinal plants by name and form, according to this verse?",
+    "rule": ("Goatherds, shepherds, cowherds and other forest-dwellers know the "
+             "plants by name and form (नामरूपाभ्याम्). The verse sets up a "
+             "contrast that the next verses complete."),
+    "limits": ("The verse only says these people know name and form; it does "
+               "not yet say whether that is enough. वने may go with the "
+               "goatherds alone or with the whole list."),
+    "explain_hi": ("यहाँ से औषधि-ज्ञान का विषय शुरू होता है। श्लोक कहता है कि वन में "
+                   "बकरी चराने वाले, भेड़ चराने वाले, ग्वाले और दूसरे वनवासी औषधियों को "
+                   "‘नाम और रूप’ से जानते ही हैं। ‘नामरूपाभ्याम्’ में -आभ्याम् "
+                   "तृतीया द्विवचन है: दो चीज़ों (नाम, रूप) से। यह पहली बात है; "
+                   "‘इतना काफ़ी नहीं’ वाली बात अगले श्लोकों में आती है।"),
+    "hook": "बकरी–भेड़–गाय चराने वाले + वनवासी → औषधि को जानते हैं नाम और रूप से।",
+    "core": False,
+    "questions": [
+        mcq("pretest", 0,
+            "In ओषधीर्नामरूपाभ्यां जानते …, who is said to know the plants by name and form?",
+            ("Goatherds, shepherds, cowherds and other forest-dwellers",
+             "अजपाः, अविपाः, गोपाः and वनवासिनः are the knowers named."),
+            [("Only the physicians of the council",
+              "No physician is named in this verse."),
+             ("Only Indra and the Aśvins",
+              "The gods of the earlier chain do not appear here."),
+             ("Only the sages gathered on the Himalayan slope",
+              "The sages of verses 8-10 are not the subject here.")],
+            "The knowers are the forest folk: goatherds, shepherds, cowherds and other forest-dwellers.",
+            "Forest herders and dwellers know the plants by name and form."),
+        match(1, "Match each word of the verse to its meaning.",
+              [["अजपाः", "goatherds"], ["अविपाः", "shepherds"],
+               ["गोपाः", "cowherds"], ["वनवासिनः", "forest-dwellers"]],
+              "These four words name the people in the verse.",
+              "अजपाः = goatherds; अविपाः = shepherds; गोपाः = cowherds; वनवासिनः = forest-dwellers."),
+        fill(2, "The verse says the plants are known by name and by ____ (type the Devanagari word for 'form').",
+             ["रूप", "रूपम्", "रूपं"],
+             "The pair is नाम (name) and रूप (form).",
+             "नामरूपाभ्याम् is a pair-compound (नाम + रूप) with the ending -आभ्याम्, 'by' two things: by name and form.",
+             "नामरूपाभ्याम् = by name and form (two things)."),
+        mcq("discriminate", 3, "Which is the right split of ओषधीर्नामरूपाभ्याम्?",
+            ("ओषधीः + नामरूपाभ्याम्",
+             "After ई, a visarga before a voiced letter like न becomes र्, so ओषधीः + नाम… is written ओषधीर्नाम…."),
+            [("ओषधी + र्नामरूपाभ्याम्", "र्नामरूपाभ्याम् is not a word."),
+             ("ओषधि + नामरूपाभ्याम्", "The plants are in the plural, ओषधीः, ending in a visarga that turns to र्."),
+             ("ओषधीः + रूपाभ्याम्", "This would drop नाम, which the verse does name.")],
+            "ओषधीर्नामरूपाभ्याम् = ओषधीः ('the plants') + नामरूपाभ्याम् ('by name and form').",
+            "ओषधीर्नाम… = ओषधीः + नाम…."),
+        multi("apply", 4, "Which people does the verse itself name as knowing plants by name and form?",
+              [("अजपाः (goatherds)", "Right: named in the first line."),
+               ("अविपाः (shepherds)", "Right: named in the second line."),
+               ("गोपाः (cowherds)", "Right: named in the second line."),
+               ("भिषजः (physicians)", "Physicians are not named in this verse."),
+               ("राजानः (kings)", "Kings are not named in this verse.")],
+              [0, 1, 2],
+              "Three herder-groups are named, plus 'other forest-dwellers' in general.",
+              "अजपाः, अविपाः, गोपाः (and other वनवासिनः) are the named knowers."),
+        mcq("transfer", 5,
+            "A new line reads वर्णगन्धाभ्यां जानाति (वर्ण = colour, गन्ध = smell). By what is the thing known?",
+            ("By colour and smell, two things",
+             "-आभ्याम् on a pair of items means 'by' both, as in नामरूपाभ्याम्."),
+            [("By colour alone", "The ending covers both items, not only the first."),
+             ("By smell alone", "The ending covers both items, not only the second."),
+             ("By colour, smell and a third thing", "-आभ्याम् is the dual: two items, not three.")],
+            "The same ending gives 'by two things' in any such pair.",
+            "X-Y-आभ्याम् = by X and Y.",
+            teaches="A pair-compound in -आभ्याम् names two means; you can read it even when the words are new."),
+    ],
+}
+
+# ---------------------------------------------------------------- unit 121
+AUTHORED["121"] = {
+    "title": "न नामज्ञानमात्रेण",
+    "question": "Why is knowing only the name, or only the form, of a plant not enough?",
+    "rule": ("न नामज्ञानमात्रेण रूपज्ञानेन वा … कश्चिद् वेदितुम् अर्हति = no one can "
+             "know the highest attainment (full understanding) of the plants by "
+             "mere knowledge of names, or of form."),
+    "limits": ("परां प्राप्तिम् is literally 'the highest attainment'; the "
+               "next verse shows it means full practical understanding. This "
+               "verse does not yet say what is needed."),
+    "explain_hi": ("यह श्लोक पिछले श्लोक का उत्तर है। वनवासी नाम और रूप जानते हैं, पर "
+                   "केवल नाम के ज्ञान से या केवल रूप के ज्ञान से कोई औषधियों की ‘परा "
+                   "प्राप्ति’, यानी पूर्ण समझ, नहीं पा सकता। ‘मात्र’ का अर्थ ‘केवल, "
+                   "सिर्फ़’ है: नाम जानना बुरा नहीं, पर अकेला काफ़ी नहीं। ‘पर क्या चाहिए?’ "
+                   "इसका उत्तर अगले श्लोक में है।"),
+    "hook": "नाम अकेला नहीं, रूप अकेला नहीं → ‘परा प्राप्ति’ (पूर्ण समझ) नहीं।",
+    "core": True,
+    "questions": [
+        mcq("pretest", 0,
+            "What does न नामज्ञानमात्रेण रूपज्ञानेन वा … deny?",
+            ("That knowing only names, or only form, gives full knowledge of plants",
+             "The verse says full understanding cannot come by names alone or by form alone."),
+            [("That plants have names at all", "The verse takes names for granted; it says names are not enough."),
+             ("That anyone can know plants", "It denies only that names or form alone are enough, not all knowledge."),
+             ("That forest people know any plants", "The previous verse says they do know them; this verse says that is not the whole.")],
+            "The verse denies that names alone or form alone give full understanding of plants.",
+            "Name-knowledge alone or form-knowledge alone ≠ full understanding."),
+        match(1, "Match each word of the verse to its meaning.",
+              [["नामज्ञान", "knowledge of names"], ["रूपज्ञान", "knowledge of form"],
+               ["ओषधीनाम्", "of medicinal plants"], ["परां प्राप्तिम्", "the highest attainment"]],
+              "These words carry the denial: what cannot be reached, and by what.",
+              "नामज्ञान = knowing names; रूपज्ञान = knowing form; ओषधीनाम् = of the plants; परां प्राप्तिम् = the highest attainment."),
+        fill(2, "The word meaning 'only' in नामज्ञानमात्रेण is ____ (type the Devanagari word, without the ending).",
+             ["मात्र", "मात्रेण", "मात्रम्"],
+             "मात्र at the end of a compound means 'only, merely'.",
+             "नामज्ञानमात्रेण = नाम-ज्ञान-मात्र + -एण: 'by the mere knowledge of names'. मात्र at the end of a compound limits the sense to just that.",
+             "X-मात्र = only X, merely X."),
+        mcq("discriminate", 3, "Which is the right split of कश्चिद्वेदितुमर्हति?",
+            ("कश्चित् + वेदितुम् + अर्हति",
+             "त् before a voiced letter (व) becomes द्, and म् joins the vowel अ of अर्हति."),
+            [("कश्चिद् + वेदितु + मर्हति", "मर्हति is not a word; the म् belongs to वेदितुम्."),
+             ("कः + चिद्वेदितुम् + अर्हति", "चिद्वेदितुम् is not a word; कश्चित् is one word, 'anyone'."),
+             ("कश्चित् + वेदितुम् + मर्हति", "There is no word मर्हति; the verb is अर्हति.")],
+            "कश्चिद्वेदितुमर्हति = कश्चित् ('anyone') + वेदितुम् ('to know') + अर्हति ('is able').",
+            "कश्चिद्वेदितुमर्हति = कश्चित् + वेदितुम् + अर्हति."),
+        multi("apply", 4, "Which statements agree with this verse?",
+              [("Knowing only the names of plants does not give their full understanding",
+                "Right: नामज्ञानमात्रेण is denied as enough."),
+               ("Knowing only the form of plants does not give their full understanding",
+                "Right: रूपज्ञानेन वा is denied as enough."),
+               ("Knowing names of plants is worthless",
+                "The verse says names are not enough by themselves, not that they are worthless."),
+               ("Anyone who knows the form of a plant fully understands it",
+                "This is exactly what the verse denies.")],
+              [0, 1],
+              "The verse limits name-knowledge and form-knowledge; it does not condemn them.",
+              "Names alone and form alone are not enough; neither is called worthless."),
+        mcq("transfer", 5,
+            "A new line reads न वर्णज्ञानमात्रेण कश्चिद्वेदितुमर्हति (वर्ण = colour). What does it say?",
+            ("No one can know it by knowing only its colour",
+             "न … मात्रेण … कश्चित् … अर्हति is the same denial as in this verse."),
+            [("Everyone can know it by colour", "न makes the sentence a denial."),
+             ("Only a few can know it by colour", "कश्चित् with न means 'no one', not 'few'."),
+             ("It can be known by colour alone", "मात्रेण with न says colour alone is not enough.")],
+            "The pattern 'न … -मात्रेण … कश्चित् … अर्हति' says 'no one can … by mere …'.",
+            "न X-मात्रेण कश्चित् अर्हति = no one can by mere X.",
+            teaches="You can read the denial 'no one can … by mere X' for any X, using न, -मात्रेण and कश्चित्."),
+    ],
+}
+
+# ---------------------------------------------------------------- unit 122
+AUTHORED["122"] = {
+    "title": "योगवित्त्वप्यरूपज्ञः",
+    "question": "Who is called a knower of the plants' true nature, even without knowing their form?",
+    "rule": ("योगवित् (one who knows the application) is called तत्त्ववित्, a "
+             "knower of true nature, even if अरूपज्ञः; किं पुनः = how much more "
+             "the physician who knows the plants in every way."),
+    "limits": ("तासाम् refers to the plants and may go with both योगवित् and "
+               "तत्त्ववित्. The verse does not say that form is useless; it "
+               "says application-knowledge earns the title even without form."),
+    "explain_hi": ("पिछले श्लोक का उत्तर यहाँ खुलता है: जो औषधि का ‘योग’, यानी प्रयोग, "
+                   "जानता है, वह रूप न जानते हुए भी ‘तत्त्ववित्’ (औषधि के असली स्वरूप का "
+                   "जानकार) कहा जाता है। ‘तु’ यहाँ ‘किन्तु’ के अर्थ में है। फिर ‘किं पुनः’ "
+                   "(तब क्या कहना) जोड़कर कहा गया है कि जो वैद्य औषधियों को ‘सर्वथा’ यानी हर "
+                   "प्रकार से जानता है, उसकी महिमा तो और भी अधिक है।"),
+    "hook": "प्रयोग जाने (योगवित्) → रूप न जाने तब भी तत्त्ववित्; सर्वथा जाने → किं पुनः!",
+    "core": False,
+    "questions": [
+        mcq("pretest", 0,
+            "In योगवित्त्वप्यरूपज्ञस्तासां तत्त्वविदुच्यते, who is called तत्त्ववित्?",
+            ("The one who knows the application (योग), even without knowing the form",
+             "योगवित् is the one called तत्त्ववित्, even if अरूपज्ञः."),
+            [("The one who knows only the names", "Names are not mentioned in this verse."),
+             ("The one who knows only the form", "The verse speaks of one who does not know the form."),
+             ("The one who has seen the plants in the forest", "Nothing in the verse speaks of seeing plants in the forest.")],
+            "The knower of application (योगवित्) is called a knower of the true nature, even if he does not know the form.",
+            "योगवित् = तत्त्ववित्, even if अरूपज्ञः."),
+        match(1, "Match each word of the verse to its meaning.",
+              [["योगवित्", "knower of application"], ["अरूपज्ञः", "not knowing the form"],
+               ["तत्त्ववित्", "knower of the true nature"], ["भिषक्", "physician"]],
+              "These four words carry the ranking in the verse.",
+              "योगवित् = knower of application; अरूपज्ञः = not knowing the form; तत्त्ववित् = knower of the true nature; भिषक् = physician."),
+        fill(2, "The word meaning 'in every way' is ____ (type it in Devanagari).",
+             ["सर्वथा"],
+             "सर्वथा closes the second line: in every way.",
+             "-था makes a word of manner: यथा (as), तथा (so), सर्वथा (in every way).",
+             "सर्वथा = in every way."),
+        mcq("discriminate", 3, "Which is the right split of योगवित्त्वप्यरूपज्ञः?",
+            ("योगवित् + तु + अपि + अरूपज्ञः",
+             "तु + अपि gives त्वपि, and इ + अ gives य (अपि + अरूप → अप्यरूप), so अरूपज्ञः keeps its negative अ."),
+            [("योगवित् + तु + अपि + रूपज्ञः", "That would lose the negative अ and say 'knowing the form', the opposite of the verse."),
+             ("योग + वित्त्वपि + अरूपज्ञः", "वित्त्वपि is not a word; योगवित् is one word."),
+             ("योगवित् + त्वपि + रूपज्ञः", "त्वपि is not a word, and this also loses the negative अ.")],
+            "योगवित्त्वप्यरूपज्ञः = योगवित् ('knower of application') + तु ('but') + अपि ('even') + अरूपज्ञः ('not knowing the form').",
+            "योगवित्त्वप्यरूपज्ञः = योगवित् + तु + अपि + अरूपज्ञः."),
+        mcq("apply", 4,
+            "A village healer cannot describe how a certain plant looks, but knows well how to use it. What does the verse call such a person?",
+            ("A knower of its true nature (तत्त्ववित्)",
+             "योगवित्, even अरूपज्ञः, is called तत्त्ववित्."),
+            [("Someone who knows nothing of the plant", "The verse rates knowledge of application highly."),
+             ("A knower of the form only", "He does not know the form."),
+             ("A knower of the names only", "The verse does not speak of names here.")],
+            "Knowing the application is enough for the title तत्त्ववित्, even without the form.",
+            "योग known, रूप unknown → still तत्त्ववित्."),
+        mcq("transfer", 5,
+            "A teacher says: 'Even a beginner who knows a herb's use is respected; किं पुनः one who knows it fully.' What does किं पुनः do?",
+            ("It means 'how much more', pointing to a stronger case",
+             "किं पुनः in this verse adds a still stronger case: the physician who knows the plants in every way."),
+            [("It asks a plain question about the beginner", "It does not ask for an answer; it adds a stronger case."),
+             ("It means 'therefore'", "'Therefore' is तस्मात्, not किं पुनः."),
+             ("It cancels what was said before", "It strengthens, it does not cancel.")],
+            "किं पुनः = 'how much more': first a case, then a stronger one.",
+            "A, किं पुनः B = if A, how much more B.",
+            teaches="किं पुनः lifts the reader from a modest case to a greater one, as the verse moves from योगवित् to the physician who knows everything."),
+    ],
+}
+
+# ---------------------------------------------------------------- unit 123
+AUTHORED["123"] = {
+    "title": "योगमासां तु यो विद्यात्",
+    "question": "Who is to be known as the best of physicians?",
+    "rule": ("यः आसां योगं देशकालोपपादितं विद्यात् पुरुषं पुरुषं वीक्ष्य, सः "
+             "भिषगुत्तमः ज्ञेयः = who, examining each person, knows the plants' "
+             "application suited to place and time, is the best physician."),
+    "limits": ("The verse names three things to weigh (person, place, time) "
+               "but does not list what to look for in a person or in a place."),
+    "explain_hi": ("यह शिखर-श्लोक है: श्रेष्ठ वैद्य वह है जो इन औषधियों का ‘योग’ "
+                   "जानता है, पर ‘देश और काल के अनुसार’ और ‘हर पुरुष को देखकर’। "
+                   "‘पुरुषं पुरुषम्’ की दुहराई का अर्थ है ‘प्रत्येक व्यक्ति को अलग-अलग’। "
+                   "‘वीक्ष्य’ का अर्थ ‘देखकर, परखकर’ है। यानी एक ही दवा सब पर, सब "
+                   "जगह और सब समय एक-सी नहीं चलती; यह परख जिसके पास है वही ‘भिषगुत्तम’ है।"),
+    "hook": "योग + देश + काल + हर पुरुष की परख = भिषगुत्तम।",
+    "core": True,
+    "questions": [
+        mcq("pretest", 0,
+            "According to योगमासां तु यो विद्यात् …, who is the best of physicians?",
+            ("One who, examining each person, knows the application suited to place and time",
+             "That is the knower described by यो विद्यात् … पुरुषं पुरुषं वीक्ष्य."),
+            [("One who knows only the names of the plants", "The previous verses showed names are not enough."),
+             ("One who gives the same medicine to everyone", "The verse says to examine each person."),
+             ("One who has seen the plants in the forest", "Seeing plants is not the test in this verse.")],
+            "The best physician examines each person and knows the application as suited to place and time.",
+            "भिषगुत्तमः = knows योग suited to देश and काल, after examining each person."),
+        match(1, "Match each word of the verse to its meaning.",
+              [["योगम्", "application"], ["पुरुषं पुरुषम्", "each person"],
+               ["वीक्ष्य", "having examined"], ["भिषगुत्तमः", "best of physicians"]],
+              "These words carry the whole test of the best physician.",
+              "योगम् = application; पुरुषं पुरुषम् = each person; वीक्ष्य = having examined; भिषगुत्तमः = best of physicians."),
+        fill(2, "The word meaning 'having examined' is ____ (type it in Devanagari).",
+             ["वीक्ष्य"],
+             "वीक्ष्य is 'having examined', from वि + √ईक्ष्.",
+             "The root has a prefix (वि), so the 'having done' ending is -य, not -त्वा: वि + ईक्ष् → वीक्ष्य.",
+             "Prefix + root + -य = 'having …'."),
+        mcq("discriminate", 3, "Which is the right split of विद्याद्देशकालोपपादितम्?",
+            ("विद्यात् + देशकाल + उपपादितम्",
+             "त् before the voiced द् becomes द्, and अ + उ gives ओ (काल + उपपादितम् → कालोपपादितम्)."),
+            [("विद्या + द्देशकालोपपादितम्", "द्देशकालोपपादितम् is not a word."),
+             ("विद्यात् + देशकालो + पपादितम्", "पपादितम् is not a word; the word is उपपादितम्."),
+             ("विद्यत् + देशकाल + उपपादितम्", "The verb form is विद्यात्, the 'would know' form.")],
+            "विद्याद्देशकालोपपादितम् = विद्यात् ('he would know') + देशकाल ('place and time') + उपपादितम् ('adapted').",
+            "विद्याद्देशकालोपपादितम् = विद्यात् + देशकाल + उपपादितम्."),
+        multi("apply", 4, "Which does the best physician take into account, according to this verse?",
+              [("The individual person", "Right: पुरुषं पुरुषं वीक्ष्य."),
+               ("The place", "Right: देश."),
+               ("The time", "Right: काल."),
+               ("The patient's family name", "Not mentioned in the verse."),
+               ("The price of the herbs", "Not mentioned in the verse.")],
+              [0, 1, 2],
+              "The verse names three things to fit the application to: person, place, time.",
+              "योग is fitted to the person, the place (देश) and the time (काल)."),
+        mcq("transfer", 5,
+            "A new line reads गृहं गृहं गच्छति. By the pattern of पुरुषं पुरुषम्, what does it mean?",
+            ("He goes to each house in turn",
+             "Saying a word twice, as in पुरुषं पुरुषम्, spreads it over each one: each house."),
+            [("He goes to one house twice", "The repetition spreads over many, not one place."),
+             ("He goes to a very large house", "Repetition here does not mean 'large'."),
+             ("He goes to no house", "Nothing in the pattern gives a denial.")],
+            "A word repeated, as in पुरुषं पुरुषम्, can mean 'each one in turn'.",
+            "X X = each X in turn.",
+            teaches="Repeating a noun can mean 'each one, one by one'; use this to read similar phrases."),
+    ],
+}
+
+# ---------------------------------------------------------------- unit 124
+AUTHORED["124"] = {
+    "title": "यथा विषं यथा शस्त्रम्",
+    "question": "To what is an unknown medicine compared, and to what a well-known one?",
+    "rule": ("An unknown medicine is like poison, a weapon, fire, a thunderbolt "
+             "(यथा … तथा); a well-known one is like amṛta, the nectar of "
+             "immortality."),
+    "limits": ("विज्ञातममृतं यथा needs औषधम् supplied as its subject. The "
+               "verse gives comparisons; it does not say how to come to know "
+               "a medicine (next verse)."),
+    "explain_hi": ("औषधि कितनी दोधारी है, इसे चार उपमाओं से कहा गया है: विष, शस्त्र, अग्नि "
+                   "और अशनि (वज्र)। ‘यथा … तथा’ का अर्थ है ‘जैसे … वैसे’: जैसे ये चारों, "
+                   "वैसे अविज्ञात औषध। दूसरी पंक्ति में पलड़ा पलटता है: वही औषध ‘विज्ञात’ "
+                   "(अच्छी तरह जानी हुई) हो तो अमृत जैसी। ‘अ-’ लगने से ‘विज्ञात’ का उलटा "
+                   "‘अविज्ञात’ बन जाता है।"),
+    "hook": "अविज्ञात औषध = विष · शस्त्र · अग्नि · वज्र; विज्ञात औषध = अमृत।",
+    "core": False,
+    "questions": [
+        mcq("pretest", 0,
+            "In this verse, to what is a medicine that is not known compared?",
+            ("Poison, a weapon, fire and a thunderbolt",
+             "यथा विषं यथा शस्त्रं यथा ऽग्निरशनिर्यथा gives these four."),
+            [("Nectar (amṛta) and water",
+              "Nectar is the comparison for the well-known medicine, in the second line."),
+             ("A friend and a teacher", "No such comparison appears in the verse."),
+             ("A forest herb and a root", "These are plants, not comparisons in this verse.")],
+            "The unknown medicine is compared with four dangers: poison, weapon, fire, thunderbolt.",
+            "अविज्ञात औषध = विष, शस्त्र, अग्नि, अशनि."),
+        match(1, "Match each word of the verse to its meaning.",
+              [["विषम्", "poison"], ["शस्त्रम्", "weapon"],
+               ["अग्निः", "fire"], ["अशनिः", "thunderbolt"]],
+              "These four are the dangers of the unknown medicine.",
+              "विषम् = poison; शस्त्रम् = weapon; अग्निः = fire; अशनिः = thunderbolt."),
+        fill(2, "The word meaning 'not (properly) known' is ____ (type it in Devanagari).",
+             ["अविज्ञातम्", "अविज्ञातं", "अविज्ञात"],
+             "अविज्ञातम् is the unknown medicine; विज्ञातम् is the known one.",
+             "अ- in front of a word gives its opposite: अविज्ञात (not known) against विज्ञात (known). The second half of the verse turns on this pair.",
+             "अ + विज्ञात = अविज्ञात, the opposite."),
+        mcq("discriminate", 3, "Which is the right split of तथौषधमविज्ञातम्?",
+            ("तथा + औषधम् + अविज्ञातम्",
+             "आ + औ joins as औ (तथा + औषधम् → तथौषधम्), and अविज्ञातम् keeps its negative अ."),
+            [("तथा + औषधम् + विज्ञातम्", "That would be written तथौषधं विज्ञातम्, and would mean 'known'."),
+             ("तथ + औषधम् + अविज्ञातम्", "The word is तथा ('so'), which loses its final आ in the join."),
+             ("तथा + उषधम् + अविज्ञातम्", "उषधम् is not a word; it is औषधम्.")],
+            "तथौषधमविज्ञातम् = तथा ('so') + औषधम् ('medicine') + अविज्ञातम् ('not known').",
+            "तथौषधमविज्ञातम् = तथा + औषधम् + अविज्ञातम्."),
+        multi("apply", 4, "Which statements fit this verse?",
+              [("A medicine that is not known is compared to poison", "Right: यथा विषं … तथौषधमविज्ञातम्."),
+               ("A medicine that is well known is compared to nectar", "Right: विज्ञातममृतं यथा."),
+               ("A medicine that is well known is compared to fire", "Fire is a comparison for the unknown medicine."),
+               ("A medicine that is not known is compared to nectar", "Nectar is for the well-known medicine.")],
+              [0, 1],
+              "The two lines are a pair: not known → dangers; well known → nectar.",
+              "अविज्ञात ↔ विष etc.; विज्ञात ↔ अमृत."),
+        mcq("transfer", 5,
+            "A new line reads यथा विषं तथा यन्त्रमविज्ञातम् (यन्त्र = machine). What does it say?",
+            ("A machine that is not known is like poison",
+             "यथा X तथा Y = as X, so Y; अविज्ञातम् means 'not known'."),
+            [("A machine that is well known is like poison", "अ- makes it 'not known', the opposite."),
+             ("Poison is like a well-known machine", "The line compares the machine to poison, and says 'not known'."),
+             ("A machine that is not known is like nectar", "The comparison named is poison, not nectar.")],
+            "'यथा X तथा Y' compares Y with X, and अ- reverses 'known' into 'not known'.",
+            "यथा X तथा Y(अ-ज्ञात) = an unknown Y is like X.",
+            teaches="You can read a new यथा … तथा comparison, and tell known from not known by the negative अ-."),
+    ],
+}
+
+# ---------------------------------------------------------------- unit 125
+AUTHORED["125"] = {
+    "title": "औषधं ह्यनभिज्ञातम्",
+    "question": "In what two ways does a medicine lead to harm?",
+    "rule": ("A medicine leads to harm (अनर्थाय) if it is not known by the "
+             "three, name, form and qualities (guṇa), or if, though known, it "
+             "is wrongly applied (दुर्युक्तम्)."),
+    "limits": ("गुण here is read as the drug's properties. The verse gives two "
+               "causes of harm; it does not list what the qualities are."),
+    "explain_hi": ("पिछले श्लोक की उपमा का कारण यहाँ है। औषध अनर्थ का कारण बनती है जब "
+                   "(१) वह नाम, रूप और गुण, इन तीनों से जानी न गई हो; या (२) जानी हुई होकर भी "
+                   "‘दुर्युक्त’, यानी ग़लत ढंग से प्रयुक्त हो। इस तरह श्लोक १२१ के नाम और "
+                   "रूप में ‘गुण’ जुड़ता है, और जानने के साथ ठीक प्रयोग भी ज़रूरी बताया गया "
+                   "है। ‘दुः/दुर्’ उपसर्ग का अर्थ ‘बुरा, ग़लत’ है।"),
+    "hook": "हानि के दो रास्ते: नाम–रूप–गुण से अज्ञात, या ज्ञात होकर भी दुर्युक्त।",
+    "core": False,
+    "questions": [
+        mcq("pretest", 0,
+            "By which three must a medicine be known, according to नामरूपगुणैस्त्रिभिः?",
+            ("Name, form and qualities",
+             "नाम, रूप and गुण are the three."),
+            [("Name, price and season", "Price and season are not named."),
+             ("Form, dose and place", "Dose and place are not among the three."),
+             ("Name, form and application", "Application (योग) is the second condition, not the third of the three.")],
+            "The three are नाम (name), रूप (form) and गुण (qualities).",
+            "The three: नाम, रूप, गुण."),
+        order(1, "Put the three in the order the verse gives them.",
+              ["नाम", "रूप", "गुण"],
+              "नामरूपगुणैः lists name, form and qualities in this order.",
+              "नाम → रूप → गुण."),
+        fill(2, "The word meaning 'wrongly applied' is ____ (type it in Devanagari).",
+             ["दुर्युक्तम्", "दुर्युक्तं", "दुर्युक्त"],
+             "दुर्युक्तम् is the second cause of harm.",
+             "दुर् is a prefix meaning 'bad, wrong'; दुर्युक्त is 'badly or wrongly applied', formed from the same root √युज् (to join, apply) as युक्त.",
+             "दुर् + युक्त = wrongly applied."),
+        mcq("discriminate", 3, "Which is the right split of ह्यनभिज्ञातम्?",
+            ("हि + अनभिज्ञातम्",
+             "इ + अ joins as य, so हि + अनभिज्ञातम् is written ह्यनभिज्ञातम्, 'for … not known'."),
+            [("हि + अभिज्ञातम्", "That would be written ह्यभिज्ञातम् and would lose the negative."),
+             ("ह्य + नभिज्ञातम्", "नभिज्ञातम् is not a word."),
+             ("ह + यनभिज्ञातम्", "यनभिज्ञातम् is not a word.")],
+            "ह्यनभिज्ञातम् = हि ('for') + अनभिज्ञातम् ('not known').",
+            "ह्यनभिज्ञातम् = हि + अनभिज्ञातम्."),
+        multi("apply", 4, "According to this verse, when does a medicine lead to harm?",
+              [("When it is not known by name, form and qualities", "Right: ह्यनभिज्ञातं … त्रिभिः."),
+               ("When it is known but wrongly applied", "Right: विज्ञातं चापि दुर्युक्तम्."),
+               ("When it is known by all three and rightly applied", "The verse names no harm for that case."),
+               ("When it is costly", "Cost is not mentioned in the verse.")],
+              [0, 1],
+              "The verse gives two cases of harm: unknown, and known but wrongly applied.",
+              "Harm comes from अज्ञान or from दुर्योग."),
+        mcq("transfer", 5,
+            "By the pattern of दुर्युक्तम् ('wrongly applied'), what does दुर्भाषितम् mean?",
+            ("Badly (wrongly) spoken",
+             "दुर् + a past participle gives 'badly done': भाषित is 'spoken'."),
+            [("Well spoken", "दुर् gives the opposite of 'well'."),
+             ("Not spoken at all", "दुर् means 'badly', not 'not at all'."),
+             ("Spoken twice", "The prefix gives no sense of number.")],
+            "दुर् + past participle = 'wrongly, badly done'.",
+            "दुर् + participle = badly done.",
+            teaches="The prefix दुर् turns a participle into 'badly …' and helps you read new words like दुर्भाषितम्."),
+    ],
+}
+
+# ---------------------------------------------------------------- unit 126
+AUTHORED["126"] = {
+    "title": "योगादपि विषं तीक्ष्णम्",
+    "question": "How can a poison become a medicine, and a medicine a poison?",
+    "rule": ("योगात् (through proper application) even a potent poison may become "
+             "an excellent medicine; दुर्युक्तं (wrongly applied) a medicine "
+             "becomes a potent poison."),
+    "limits": ("The verse states the two turns in general terms; it names no "
+               "particular poison or medicine and no dose. तीक्ष्णम् in line 1 "
+               "can go with विषम् or with भेषजम्."),
+    "explain_hi": ("यह श्लोक योग की शक्ति को दोनों दिशाओं में दिखाता है। पहली पंक्ति: "
+                   "ठीक प्रयोग से तीक्ष्ण विष भी उत्तम भेषज बन सकता है। दूसरी पंक्ति: "
+                   "भेषज भी ग़लत प्रयोग (दुर्युक्त) से तीक्ष्ण विष बन जाता है। दोनों "
+                   "पंक्तियाँ एक-दूसरे का दर्पण हैं: विष → भेषज और भेषज → विष। निर्णायक "
+                   "चीज़ पदार्थ का नाम नहीं, उसका प्रयोग है।"),
+    "hook": "योग से विष → भेषज; दुर्योग से भेषज → विष। फ़ैसला प्रयोग का।",
+    "core": True,
+    "questions": [
+        mcq("pretest", 0,
+            "According to योगादपि विषं तीक्ष्णम् …, what can happen to a poison through proper application?",
+            ("It may become an excellent medicine",
+             "उत्तमं भेषजं भवेत् says it can become an excellent medicine."),
+            [("It always remains poison", "The verse says proper application can change this."),
+             ("It becomes a deadlier poison", "That is what happens to a wrongly applied medicine."),
+             ("It becomes useless", "The verse says it becomes an excellent medicine.")],
+            "Through proper application a poison may become an excellent medicine.",
+            "योगात् poison → medicine."),
+        match(1, "Match each word of the verse to its meaning.",
+              [["योगात्", "through (proper) application"], ["विषम्", "poison"],
+               ["भेषजम्", "medicine"], ["संपद्यते", "becomes"]],
+              "These words carry the two turns of the verse.",
+              "योगात् = through application; विषम् = poison; भेषजम् = medicine; संपद्यते = becomes."),
+        fill(2, "In the second line a wrongly applied medicine becomes ____ (type the Devanagari word for 'poison').",
+             ["विषम्", "विषं", "विष"],
+             "The second line ends with विषम्.",
+             "The two lines mirror each other: line 1 turns विषम् into भेषजम्, line 2 turns भेषजम् into विषम्.",
+             "Line 1: poison → medicine; line 2: medicine → poison."),
+        mcq("discriminate", 3, "Which pairing of the two lines is right?",
+            ("Line 1: poison becomes medicine by proper application. Line 2: medicine becomes poison by wrong application",
+             "योगात् … भेषजं भवेत् is line 1; दुर्युक्तं … विषम् is line 2."),
+            [("Line 1: medicine becomes poison. Line 2: poison becomes medicine", "The two turns are in the opposite order."),
+             ("Both lines: medicine becomes poison", "Line 1 turns poison into medicine."),
+             ("Both lines: poison becomes medicine", "Line 2 turns medicine into poison.")],
+            "Line 1 turns poison into medicine through योग; line 2 turns medicine into poison through दुर्योग.",
+            "L1: विष → भेषज (योगात्); L2: भेषज → विष (दुर्युक्त)."),
+        mcq("apply", 4,
+            "One physician uses a strong herb well and the patient recovers; another uses it wrongly and harms him. What does this show?",
+            ("The result depends on how it is applied, not only on the substance",
+             "योगात् and दुर्युक्तम् make the application decide."),
+            [("A strong herb is always harmful", "The verse says proper use can make even poison a medicine."),
+             ("The herb changes its name between the two", "Names are not at issue in this verse."),
+             ("Only the form of the herb matters", "Form is not the point of this verse.")],
+            "The same substance can heal or harm depending on its application.",
+            "Result = substance + योग."),
+        mcq("transfer", 5,
+            "A teacher says: 'Fire cooks food when used well and burns the house when used badly.' Which idea of the verse does this repeat?",
+            ("The same thing helps or harms according to how it is applied",
+             "This is the योग / दुर्योग idea, shown with fire instead of medicine."),
+            [("Fire is always harmful", "The teacher says fire cooks food when used well."),
+             ("Fire is a kind of medicine", "The example is about fire in use, not medicine."),
+             ("Fire should never be used", "The idea is proper use, not avoidance.")],
+            "Proper use turns a dangerous thing into a help; wrong use does the opposite.",
+            "Same thing, two uses: योग helps, दुर्योग harms.",
+            teaches="The turn from poison to medicine and back is a general lesson about application; you can apply it to other things."),
+    ],
+}
+
+# ---------------------------------------------------------------- unit 127
+AUTHORED["127"] = {
+    "title": "तस्मान्न भिषजा युक्तम्",
+    "question": "From which kind of physician should a wise person not take medicine?",
+    "rule": ("तस्मात् (therefore) a wise person who desires life and health "
+             "should not accept any medicine administered by a physician devoid "
+             "of yukti, rational planning of treatment."),
+    "limits": ("The verse does not define yukti; here it is taken as reasoned "
+               "planning, as the notes say. It is advice to the patient, not "
+               "a rule for judging a physician's character."),
+    "explain_hi": ("‘तस्मात्’ (इसलिए) पिछले श्लोकों का निष्कर्ष है: जब औषध प्रयोग से "
+                   "अमृत भी हो सकती है और विष भी, तब ‘जीवन और आरोग्य चाहने वाला बुद्धिमान "
+                   "व्यक्ति’ (धीमता) ऐसे वैद्य की औषध न ले जो ‘युक्तिबाह्य’ है, यानी जिसके "
+                   "प्रयोग में सोची-समझी योजना (युक्ति) नहीं है। ‘भिषजा’ देने वाला है, "
+                   "‘धीमता’ लेने वाला; दोनों तृतीया एकवचन हैं। ‘न … किंचिदादेयम्’ का भाव "
+                   "है ‘कुछ भी ग्रहण न किया जाए’।"),
+    "hook": "इसलिए: जीवन-आरोग्य चाहने वाला बुद्धिमान युक्ति-रहित वैद्य की कोई औषध न ले।",
+    "core": False,
+    "questions": [
+        mcq("pretest", 0,
+            "Who is told not to accept medicine, and from whom, in तस्मान्न भिषजा युक्तम् …?",
+            ("A wise person who desires life and health, from a physician devoid of yukti",
+             "धीमता … जीवितारोग्यकाङ्क्षिणा is the one told; युक्तिबाह्येन भिषजा is the giver."),
+            [("A physician, from a wise patient", "The physician is the giver, not the one told."),
+             ("A king, from a sage", "Neither a king nor a sage appears in the verse."),
+             ("A sick person, from any physician at all", "The verse limits this to a physician devoid of yukti.")],
+            "The wise person who wants life and health should not accept medicine from a physician devoid of yukti.",
+            "Wise patient ← no medicine from a युक्तिबाह्य physician."),
+        match(1, "Match each word of the verse to its meaning.",
+              [["युक्तिबाह्येन", "devoid of rational planning (yukti)"], ["धीमता", "by a wise person"],
+               ["जीवितारोग्यकाङ्क्षिणा", "by one desiring life and health"], ["भेषजम्", "medicine"]],
+              "These words say who is advised and what is refused.",
+              "युक्तिबाह्येन = devoid of yukti; धीमता = by a wise person; जीवितारोग्यकाङ्क्षिणा = by one desiring life and health; भेषजम् = medicine."),
+        fill(2, "The word meaning 'therefore' is ____ (type it in Devanagari).",
+             ["तस्मात्", "तस्मान्"],
+             "तस्मात् opens the verse and draws the conclusion.",
+             "तस्मात् is the -आत् form of तद् ('that'): 'from that', so 'for that reason'. It also appears in verse 5 (तस्माच्छक्रम्); here it draws a conclusion from verses 124-126.",
+             "तस्मात् = therefore."),
+        mcq("discriminate", 3,
+            "Both भिषजा and धीमता end in -आ. Which reading is right?",
+            ("भिषजा = by the physician who gives; धीमता = by the wise person who should not accept",
+             "युक्तं is 'administered' by the physician; आदेयम् 'to be accepted' goes with the wise person (धीमता)."),
+            [("भिषजा = by the wise person; धीमता = by the physician", "The two roles are swapped."),
+             ("Both mean 'by the physician'", "धीमता means 'by the wise person'."),
+             ("Both mean 'by the wise person'", "भिषजा means 'by the physician'.")],
+            "Two instrumentals: the physician gives (भिषजा), the wise person should not accept (धीमता).",
+            "भिषजा = by the physician; धीमता = by the wise person."),
+        mcq("apply", 4,
+            "A person gives medicine at random, with no reasoned plan for the illness. What should a wise person who wants health do?",
+            ("Not accept any medicine from him",
+             "युक्तिबाह्येन … न … किंचिदादेयम्: no medicine at all from such a physician."),
+            [("Accept it, because he is a physician", "The verse refuses medicine from a physician devoid of yukti."),
+             ("Accept it, but only a little", "किंचित् here means 'any at all', so even a little is refused."),
+             ("Accept it, if it is cheap", "Cost is not mentioned.")],
+            "A physician with no reasoned plan is युक्तिबाह्य; the wise take nothing from him.",
+            "युक्तिबाह्य physician → accept nothing."),
+        mcq("transfer", 5,
+            "By the pattern of युक्तिबाह्य (outside yukti), what does शास्त्रबाह्य mean (शास्त्र = the authoritative treatise)?",
+            ("Outside the śāstra, not following its rules",
+             "X-बाह्य means 'outside X' or 'devoid of X'."),
+            [("Inside the śāstra", "बाह्य means 'outside', not 'inside'."),
+             ("Teaching the śāstra", "बाह्य gives no sense of teaching."),
+             ("The author of the śāstra", "बाह्य does not name a person.")],
+            "X-बाह्य = outside X, devoid of X.",
+            "X-बाह्य = devoid of X.",
+            teaches="बाह्य at the end of a compound means 'outside or without', as in युक्तिबाह्य; use it to read new words."),
+    ],
+}
+
+# ---------------------------------------------------------------- unit 128
+AUTHORED["128"] = {
+    "title": "कुर्यान्निपतितो मूर्ध्नि",
+    "question": "Why is a medicine from an ignorant person said to be worse than Indra's thunderbolt?",
+    "rule": ("Indra's thunderbolt falling on the head might leave something "
+             "remaining (सशेषम्), but a medicine prescribed by an ignorant person "
+             "would not leave the patient with anything remaining."),
+    "limits": ("सशेषम् is read as 'leaving life remaining'; the verse does not "
+               "say literally that every such medicine kills. अज्ञमतम् is "
+               "'prescribed (approved) by an ignorant one'."),
+    "explain_hi": ("यह श्लोक पिछली चेतावनी को तीखा बनाता है। इन्द्र (वासव) का वज्र सिर पर "
+                   "गिरे तो भी ‘सशेष’, यानी कुछ बचा हुआ (जीवित), छोड़ सकता है; पर अज्ञ का "
+                   "बताया औषध रोगी को ‘सशेष’ नहीं छोड़ता। मतलब: अज्ञानी की दवा वज्र से भी "
+                   "भयानक है। ‘सशेष’ = स + शेष, यानी ‘शेष के साथ’; ‘अज्ञमतम्’ = अज्ञ का "
+                   "मत/बताया हुआ।"),
+    "hook": "वज्र सिर पर गिरे तो कुछ शेष; अज्ञ की औषध → कुछ भी शेष नहीं।",
+    "core": False,
+    "questions": [
+        mcq("pretest", 0,
+            "In this verse, which is the worse for the patient?",
+            ("A medicine prescribed by an ignorant person",
+             "It is said not to leave the patient with anything remaining."),
+            [("Indra's thunderbolt falling on the head", "The verse says it might leave something remaining."),
+             ("A medicine prescribed by a physician who knows yukti", "No such medicine is spoken of here."),
+             ("A poison taken by chance", "No chance poison is mentioned in the verse.")],
+            "The verse says the thunderbolt might leave something, but an ignorant person's medicine would leave nothing.",
+            "अज्ञमतम् औषधम् is worse than वासवाशनिः."),
+        match(1, "Match each word of the verse to its meaning.",
+              [["वासवाशनिः", "Indra's thunderbolt"], ["मूर्ध्नि", "on the head"],
+               ["आतुरम्", "the patient"], ["अज्ञमतम्", "prescribed by an ignorant one"]],
+              "These words set the thunderbolt against the ignorant person's medicine.",
+              "वासवाशनिः = Indra's thunderbolt; मूर्ध्नि = on the head; आतुरम् = the patient; अज्ञमतम् = prescribed by an ignorant one."),
+        fill(2, "वासवाशनिः means the thunderbolt of वासव, that is, of ____ (type the god's name in Devanagari).",
+             ["इन्द्र", "इन्द्रः", "शक्र", "शक्रः"],
+             "वासव is a name of Indra.",
+             "वासव-अशनिः joins two words: 'of Vāsava' and 'thunderbolt'. Vāsava is Indra, the god Bharadvāja approached in verse 3.",
+             "वासव = Indra; वासवाशनिः = Indra's thunderbolt."),
+        mcq("discriminate", 3, "Which is the right split of कुर्यान्नत्वज्ञमतमौषधम्?",
+            ("कुर्यात् + न + तु + अज्ञमतम् + औषधम्",
+             "त् + न joins as न्न, and तु + अ gives त्व (तु + अज्ञ → त्वज्ञ)."),
+            [("कुर्यात् + न + तु + ज्ञमतम् + औषधम्", "That would lose the negative अ and make him 'knowing'."),
+             ("कुर्या + न्नत्व + अज्ञमतम् + औषधम्", "न्नत्व is not a word."),
+             ("कुर्यात् + न + त्वज्ञमतम् + औषधम्", "त्वज्ञमतम् is not a word; तु and अज्ञ… are separate words.")],
+            "कुर्यान्नत्वज्ञमतमौषधम् = कुर्यात् ('would make') + न ('not') + तु ('but') + अज्ञमतम् + औषधम्.",
+            "कुर्यान्नत्वज्ञमतमौषधम् = कुर्यात् + न + तु + अज्ञमतम् + औषधम्."),
+        multi("apply", 4, "Which statements agree with the verse?",
+              [("A thunderbolt on the head might leave one with something remaining", "Right: सशेषं वासवाशनिः."),
+               ("A medicine prescribed by an ignorant person would leave the patient with nothing remaining", "Right: सशेषमातुरं कुर्यान्न …."),
+               ("A thunderbolt on the head never leaves anything remaining", "The verse says it might."),
+               ("An ignorant person's medicine is milder than a thunderbolt", "The verse says the opposite.")],
+              [0, 1],
+              "The verse puts the thunderbolt, which might spare something, against the ignorant person's medicine, which would not.",
+              "वज्र: possibly सशेष; अज्ञ की औषध: not सशेष."),
+        mcq("transfer", 5,
+            "By the pattern of सशेषम् (with a remainder), what does सफलः (as in सफलो वृक्षः) mean?",
+            ("With fruit, fruitful",
+             "स- at the start of such a word means 'with': स + फल = with fruit."),
+            [("Without fruit", "सशेषम् is 'with a remainder', not 'without'."),
+             ("Only fruit", "स- gives 'with', not 'only'."),
+             ("A seller of fruit", "The pattern gives 'having', not a profession.")],
+            "स- + noun = 'having, with that noun'.",
+            "सX = with X.",
+            teaches="स- joined to a noun means 'with it'; you can read words like सफल the same way."),
+    ],
+}
+
+# ---------------------------------------------------------------- unit 129
+AUTHORED["129"] = {
+    "title": "दुःखिताय शयानाय",
+    "question": "Whom does the verse describe, and why is the sentence not finished?",
+    "rule": ("यः … प्रयच्छति = he who, thinking himself wise, gives a medicine "
+             "without knowing it to a suffering, bedridden, trusting patient. "
+             "The sentence continues in the next verse."),
+    "limits": ("The verse only describes the giver and the patient; what "
+               "follows for the giver is stated in verse 130. अविज्ञाय is a "
+               "negated absolutive, irregular in form but usual in this text."),
+    "explain_hi": ("यह श्लोक एक अधूरा वाक्य है, जिसका उत्तर श्लोक १३० में आता है। यहाँ ‘यः’ "
+                   "(जो) वाला वाक्यांश उस व्यक्ति का है जो अपने को बुद्धिमान मानता है "
+                   "(प्राज्ञमानी) और औषध को बिना जाने (अविज्ञाय) देता है। लेने वाला रोगी "
+                   "तीन विशेषणों से दिखाया गया है: दुःखित, शयान (बिस्तर पर पड़ा) और "
+                   "श्रद्दधान (भरोसा रखने वाला)। इसलिए इस कार्ड के प्रश्न केवल इसी "
+                   "अंश पर हैं।"),
+    "hook": "जो खुद को बुद्धिमान माने, बिना जाने दवा दे — दुखी, पड़े, भरोसा करने वाले रोगी को …",
+    "core": False,
+    "questions": [
+        mcq("pretest", 0,
+            "Verse 129 describes a giver of medicine with 'यः'. How does the sentence end in this verse?",
+            ("It does not end here; the main statement about him comes in the next verse",
+             "The यः clause waits for its तस्य in verse 130."),
+            [("It ends by praising the giver", "No praise appears; the sentence is unfinished."),
+             ("It ends by saying what the medicine cures", "No cure is mentioned; the clause only describes the giver and the patient."),
+             ("It ends by naming the patient", "The patient is described, not named.")],
+            "This is a relative clause (यः …) whose main statement is in verse 130.",
+            "यः … प्रयच्छति is completed in verse 130."),
+        match(1, "Match each word of the verse to its meaning.",
+              [["दुःखिताय", "to the suffering"], ["शयानाय", "to the bedridden"],
+               ["श्रद्दधानाय", "to the trusting"], ["रोगिणे", "to the sick person"]],
+              "These four describe the patient.",
+              "दुःखिताय = to the suffering; शयानाय = to the bedridden; श्रद्दधानाय = to the trusting; रोगिणे = to the sick person."),
+        fill(2, "The word meaning 'without knowing' is ____ (type it in Devanagari).",
+             ["अविज्ञाय"],
+             "अविज्ञाय means 'without knowing (having not known)'.",
+             "It ends in -य, like वीक्ष्य in verse 123: the 'having done' ending after a prefix (वि). Here it is negated with अ-, an irregular but usual form in this text.",
+             "अविज्ञाय = without knowing."),
+        mcq("discriminate", 3, "What does the compound प्राज्ञमानी mean?",
+            ("Thinking himself wise",
+             "प्राज्ञ ('wise') + -मानी ('thinking himself') describes the giver."),
+            [("Truly wise", "-मानी means 'thinking himself', not 'being'."),
+             ("Honoured by the wise", "The compound has no sense of being honoured."),
+             ("Teacher of the wise", "The compound has no sense of teaching.")],
+            "प्राज्ञमानी = प्राज्ञ + मानी: one who considers himself wise (and so need not be).",
+            "प्राज्ञमानी = thinking himself wise."),
+        multi("apply", 4, "Which describe the patient in this verse?",
+              [("दुःखित (suffering)", "Right: दुःखिताय."),
+               ("शयान (bedridden)", "Right: शयानाय."),
+               ("श्रद्दधान (trusting)", "Right: श्रद्दधानाय."),
+               ("धनवान् (rich)", "Wealth is not mentioned."),
+               ("प्राज्ञमानी (thinking himself wise)", "This describes the giver, not the patient.")],
+              [0, 1, 2],
+              "The patient is suffering, bedridden and trusting; 'thinking himself wise' describes the giver.",
+              "Patient: दुःखित, शयान, श्रद्दधान; giver: प्राज्ञमानी."),
+        mcq("transfer", 5,
+            "A verse begins यो ऽविद्वान् चिकित्सति … and stops. Following verse 129, what should you expect?",
+            ("A following verse that finishes the sentence (for example with तस्य, 'of him')",
+             "A यः clause waits for its main statement, as in verses 129 and 130."),
+            [("Nothing; the sentence is complete", "A यः clause alone has no main statement."),
+             ("A new topic unrelated to the clause", "The clause is completed, not dropped."),
+             ("The end of the chapter", "The clause shows only that the sentence goes on.")],
+            "A relative clause (यः …) is finished by a main clause, which may come in the next verse.",
+            "यः … → तस्य … completes the sentence.",
+            teaches="When a verse has a यः clause with no main statement, look to the next verse for the answer (तस्य …)."),
+    ],
+}
+
+NOTES_HI = {
+    "120": "‘वने’ को केवल ‘अजपाः’ के साथ भी पढ़ा जा सकता है और पूरी सूची के साथ भी। जाँचे गए जोड़: ओषधीः + नाम° → ओषधीर्नाम° (घोष से पहले विसर्ग → र्); हि + अजपाः → ह्यजपाः (इ + अ → य); अजपाः + वने → अजपा वने (आ के बाद विसर्ग घोष से पहले लुप्त); अविपाः + च + एव → अविपाश्चैव (विसर्ग + च → श्; अ + ए → ऐ)। पाठभेद डेटा में नहीं हैं।",
+    "121": "‘परां प्राप्तिम्’ का शाब्दिक अर्थ ‘परम प्राप्ति’ है; इसे ‘पूर्ण, व्यावहारिक समझ’ माना गया है (श्लोक १२२ देखें)। ‘पुनः’ को ‘फिर/दूसरी ओर’ पढ़ा जा सकता है। जाँचे गए जोड़: कश्चित् + वेदितुम् → कश्चिद्वेदितुम् (त् → द् घोष व् से पहले); वेदितुम् + अर्हति → वेदितुमर्हति। पाठभेद डेटा में नहीं हैं।",
+    "122": "‘तासाम्’ स्त्रीलिंग है और ओषधियों को बताता है; इसे ‘योगवित्’ और ‘तत्त्ववित्’ दोनों के साथ जोड़ा जा सकता है। जाँचे गए जोड़: योगवित् + तु + अपि + अरूपज्ञः → योगवित्त्वप्यरूपज्ञः (तु + अपि → त्वपि; इ + अ → य); अरूपज्ञः + तासाम् → अरूपज्ञस्तासाम् (विसर्ग + त → स्); पुनः + यः → पुनर्यो; विजानीयात् + ओषधीः → विजानीयादोषधीः। ‘किं पुनः’ = ‘तब क्या कहना’।",
+    "123": "‘पुरुषं पुरुषम्’ वीप्सा (दुहराव) है: ‘प्रत्येक व्यक्ति’। ‘उपपादितम्’ (उप + √पद् का णिजन्त क्त) = ‘ठीक बैठाया हुआ, अनुकूल किया हुआ’। जाँचे गए जोड़: योगम् + आसाम् → योगमासाम्; विद्यात् + देश° → विद्याद्देश°; काल + उपपादितम् → कालोपपादितम् (अ + उ → ओ); भिषक् + उत्तमः → भिषगुत्तमः। ‘स’ यहाँ ‘सः’ का विसर्ग-रहित रूप है। पाठभेद डेटा में नहीं हैं।",
+    "124": "मूल में ‘यथा ऽग्निः’ छपा है: दीर्घ ‘आ’ के बाद अवग्रह; मानक रूप ‘यथाग्निः’ होता, खोला हुआ पाठ यथा + अग्निः है। ‘विज्ञातममृतं यथा’ में ‘औषधम्’ को कर्ता के रूप में जोड़ना पड़ता है। जाँचे गए जोड़: तथा + औषधम् → तथौषधम् (आ + औ → औ); औषधम् + अविज्ञातम् → औषधमविज्ञातम्; विज्ञातम् + अमृतम् → विज्ञातममृतम्।",
+    "125": "‘गुण’ यहाँ द्रव्य के गुण-धर्म के अर्थ में है। जाँचे गए जोड़: हि + अनभिज्ञातम् → ह्यनभिज्ञातम् (इ + अ → य); नामरूपगुणैः + त्रिभिः → नामरूपगुणैस्त्रिभिः (विसर्ग + त → स्); च + अपि → चापि; दुर्युक्तम् + अनर्थाय → दुर्युक्तमनर्थाय; अनर्थाय + उपपद्यते → अनर्थायोपपद्यते (अ + उ → ओ)। पाठभेद डेटा में नहीं हैं।",
+    "126": "‘तीक्ष्णम्’ को पहली पंक्ति में ‘विषम्’ के साथ (स्वाभाविक समानान्तर) या ‘भेषजम्’ के साथ भी पढ़ा जा सकता है। जाँचे गए जोड़: योगात् + अपि → योगादपि (त् → द् स्वर से पहले); तीक्ष्णम् + उत्तमम् → तीक्ष्णमुत्तमम्; भेषजम् + च + अपि → भेषजं चापि। पाठभेद डेटा में नहीं हैं।",
+    "127": "‘युक्तिबाह्य’ = जो युक्ति (सोची-समझी चिकित्सा-योजना) से बाहर है; ‘युक्तम्’ = ‘दिया गया/प्रयुक्त’। ‘न … किंचिदादेयम्’ में ‘न’ पूरे निषेध को लगता है: ‘कुछ भी ग्रहण न किया जाए’। जाँचे गए जोड़: तस्मात् + न → तस्मान्न (त् + न → न्न); किंचित् + आदेयम् → किंचिदादेयम्; जीवित + आरोग्य° → जीवितारोग्य° (अ + आ → आ)। पाठभेद डेटा में नहीं हैं।",
+    "128": "‘वासव’ = इन्द्र (डेटा-नोट)। ‘सशेषम्’ पहली पंक्ति में सम्भवतः ‘जिस पर वज्र गिरा’ उस व्यक्ति के लिए है, जिसका कर्म शब्दों में नहीं दिया गया। जाँचे गए जोड़: कुर्यात् + निपतितः → कुर्यान्निपतितः; निपतितः + मूर्ध्नि → निपतितो मूर्ध्नि; वासव + अशनिः → वासवाशनिः; कुर्यात् + न + तु + अज्ञमतम् + औषधम् → कुर्यान्नत्वज्ञमतमौषधम् (त् + न → न्न; तु + अ → त्व)। पाठभेद डेटा में नहीं हैं।",
+    "129": "यह श्लोक श्लोक १३० से जुड़ा एक ही वाक्य है: ‘यः … प्रयच्छति’ का उत्तर ‘तस्य …’ में आता है। ‘अविज्ञाय’ नञ्-युक्त ल्यबन्त है, जो व्याकरण की दृष्टि से अनियमित है पर इस पाठ में सामान्य है। जाँचे गए जोड़: यः + भेषजम् → यो भेषजम्; भेषजम् + अविज्ञाय → भेषजमविज्ञाय। पाठभेद डेटा में नहीं हैं।",
+}
+
+AIDS = {
+    "120": {
+        "frame": "कौन: बकरी, भेड़, गाय चराने वाले और अन्य वनवासी · क्या जानते हैं: औषधियाँ · कैसे: नाम और रूप से।",
+        "diagram": {"groups": [
+            {"label": "पहली पंक्ति",
+             "items": ["ओषधीर्नामरूपाभ्यां", "जानते", "ह्यजपा", "वने"]},
+            {"label": "दूसरी पंक्ति",
+             "items": ["अविपाश्चैव", "गोपाश्च", "ये चान्ये", "वनवासिनः"]}]},
+        "anchors": "अजपाः, अविपाः, गोपाः: तीनों के अन्त में -पाः (रखवाली/पालन करने वाला): अज (बकरी) + पा, अवि (भेड़) + पा, गो (गाय) + पा।",
+        "sandhi": "ई के बाद विसर्ग → र् (घोष से पहले): ओषधीः + नाम° → ओषधीर्नाम° · इ + अ → य: हि + अजपाः → ह्यजपाः · विसर्ग + च → श्: अविपाः + च → अविपाश्च · अ + ए → ऐ: च + एव → चैव।",
+        "chunks": "ओषधीर्नामरूपाभ्यां | जानते ह्यजपा वने ‖ अविपाश्चैव गोपाश्च | ये चान्ये वनवासिनः।",
+    },
+    "121": {
+        "frame": "क्या नहीं: नाम-ज्ञान अकेला, या रूप-ज्ञान अकेला · क्या पाना है: ओषधियों की परा प्राप्ति (पूर्ण समझ) · कौन नहीं पाता: कोई भी।",
+        "anchors": "-मात्र = केवल, सिर्फ़ (नामज्ञानमात्रेण = सिर्फ़ नाम जानने से) · प्राप्ति ← प्र + √आप् (पाना) · अर्हति = समर्थ/योग्य है।",
+        "sandhi": "त् → द् (घोष व् से पहले): कश्चित् + वेदितुम् → कश्चिद्वेदितुम् · म् + स्वर: वेदितुम् + अर्हति → वेदितुमर्हति।",
+        "chunks": "न नामज्ञानमात्रेण | रूपज्ञानेन वा पुनः ‖ ओषधीनां परां प्राप्तिं | कश्चिद्वेदितुमर्हति।",
+    },
+    "122": {
+        "frame": "कौन: योगवित् (प्रयोग का जानकार) · क्या कहलाता है: तत्त्ववित् · चाहे रूप न जाने · और बढ़कर: सर्वथा जानने वाला भिषक्।",
+        "story": "वैद्य के पास दवा का रूप पता नहीं, पर प्रयोग पता है → वह असली स्वरूप का जानकार कहलाता है। फिर कहा गया: जो हर प्रकार से जानता हो, उसके लिए तो कहना ही क्या।",
+        "anchors": "योगवित् = योग + वित् (जानने वाला) · तत्त्ववित् = तत्त्व + वित् · अरूपज्ञः = अ + रूप + ज्ञ (रूप न जानने वाला)।",
+        "sandhi": "तु + अपि → त्वपि; इ + अ → य: योगवित् + तु + अपि + अरूपज्ञः → योगवित्त्वप्यरूपज्ञः · विसर्ग + त → स्: अरूपज्ञः + तासाम् → अरूपज्ञस्तासाम् · पुनः → पुनर् (घोष य से पहले); यः → यो (घोष व से पहले): पुनर्यो विजानीयात्।",
+        "chunks": "योगवित्त्वप्यरूपज्ञः | तासां तत्त्वविदुच्यते ‖ किं पुनर्यो विजानीयात् | ओषधीः सर्वथा भिषक्।",
+    },
+    "123": {
+        "frame": "कौन: भिषगुत्तम · क्या जानता है: औषधियों का योग · कैसे: देश-काल के अनुसार · किस आधार पर: हर पुरुष को देखकर।",
+        "chain": {"steps": ["हर पुरुष को देखो (वीक्ष्य)", "देश को देखो", "काल को देखो",
+                            "औषधि का योग तय करो", "ऐसा जानने वाला = भिषगुत्तम"]},
+        # (मेरा क्रम, श्लोक का क्रम नहीं)
+        "anchors": "उत्तम = सर्वश्रेष्ठ (भिषक् + उत्तम = वैद्यों में श्रेष्ठ) · देशकालोपपादितम् = देश और काल के अनुकूल किया हुआ · वीक्ष्य ← वि + √ईक्ष् (देखना)।",
+        "sandhi": "म् + आ: योगम् + आसाम् → योगमासाम् · त् → द् (घोष द् से पहले): विद्यात् + देश° → विद्याद्देश° · अ + उ → ओ: काल + उपपादितम् → कालोपपादितम् · क् → ग् (स्वर से पहले): भिषक् + उत्तमः → भिषगुत्तमः।",
+        "chunks": "योगमासां तु यो विद्यात् | देशकालोपपादितम् ‖ पुरुषं पुरुषं वीक्ष्य | स ज्ञेयो भिषगुत्तमः।",
+    },
+    "124": {
+        "seesaw": "अविज्ञात औषध: विष, शस्त्र, अग्नि, अशनि (वज्र) ↔ विज्ञात औषध: अमृत। एक ही औषध, पलड़े के दो सिरे।",
+        "pegs": "मेरा बनाया चित्र: तराजू के एक पलड़े पर साँप का विष, तलवार, आग और वज्र; दूसरे पलड़े पर अमृत का कलश।",
+        "sandhi": "आ + औ → औ: तथा + औषधम् → तथौषधम् · म् + अ: औषधम् + अविज्ञातम् → औषधमविज्ञातम् · विज्ञातम् + अमृतम् → विज्ञातममृतम् · ‘ऽ’ = अवग्रह (यथा + अग्निः)।",
+        "contrast": "अविज्ञातम् (अ- लगकर: न जाना हुआ) ↔ विज्ञातम् (भली-भाँति जाना हुआ): पूरा श्लोक इसी जोड़ी पर घूमता है।",
+        "chunks": "यथा विषं यथा शस्त्रं | यथा ऽग्निरशनिर्यथा ‖ तथौषधमविज्ञातं | विज्ञातममृतं यथा।",
+    },
+    "125": {
+        "chain": {"steps": ["नाम", "रूप", "गुण", "इन तीनों से जानो", "फिर भी दुर्युक्त न हो"]},
+        "anchors": "दुः/दुर् उपसर्ग = बुरा, ग़लत (दुर्युक्त, दुर्मति) · अनर्थ = अन् + अर्थ (अन्- = नहीं; हानि, बेकार का नुकसान) · अभिज्ञात = जाना-पहचाना।",
+        "sandhi": "इ + अ → य: हि + अनभिज्ञातम् → ह्यनभिज्ञातम् · विसर्ग + त → स्: नामरूपगुणैः + त्रिभिः → नामरूपगुणैस्त्रिभिः · म् + अ: दुर्युक्तम् + अनर्थाय → दुर्युक्तमनर्थाय · अ + उ → ओ: अनर्थाय + उपपद्यते → अनर्थायोपपद्यते।",
+        "contrast": "अनभिज्ञातम् (नाम-रूप-गुण से नहीं जाना) ↔ विज्ञातं चापि दुर्युक्तम् (जाना हुआ पर ग़लत प्रयोग): अनर्थ के दो अलग रास्ते।",
+        "chunks": "औषधं ह्यनभिज्ञातं | नामरूपगुणैस्त्रिभिः ‖ विज्ञातं चापि दुर्युक्तम् | अनर्थायोपपद्यते।",
+    },
+    "126": {
+        "seesaw": "योगात् (उचित प्रयोग): तीक्ष्ण विष → उत्तम भेषज ↔ दुर्युक्त (गलत प्रयोग): भेषज → तीक्ष्ण विष।",
+        "story": "एक ही जड़ी: (मेरी कल्पना) ठीक प्रयोग से → दवा; ग़लत प्रयोग से → वही ज़हर। नाम वही, नतीजा उलटा, क्योंकि फ़र्क़ योग का है।",
+        "anchors": "योग = प्रयोग, लगाने का ढंग · तीक्ष्ण = तेज़, उग्र · संपद्यते = बन जाता है (सम् + √पद्)।",
+        "sandhi": "त् → द् (स्वर से पहले): योगात् + अपि → योगादपि · म् + उ: तीक्ष्णम् + उत्तमम् → तीक्ष्णमुत्तमम् · म् + च, च + अपि: भेषजम् + च + अपि → भेषजं चापि।",
+        "chunks": "योगादपि विषं तीक्ष्णम् | उत्तमं भेषजं भवेत् ‖ भेषजं चापि दुर्युक्तं | तीक्ष्णं संपद्यते विषम्।",
+    },
+    "127": {
+        "frame": "कौन: जीवन-आरोग्य चाहने वाला बुद्धिमान · क्या न ले: कोई भी औषध · किससे: युक्ति-रहित वैद्य से · क्यों: तस्मात् (श्लोक १२४-१२६ के कारण)।",
+        "anchors": "बाह्य = बाहर का (युक्तिबाह्य = युक्ति से बाहर) · धीमान् = धी + मत् (बुद्धि वाला) · काङ्क्षिणा ← √काङ्क्ष् (चाहना)।",
+        "sandhi": "त् + न → न्न: तस्मात् + न → तस्मान्न · त् → द् (स्वर से पहले): किंचित् + आदेयम् → किंचिदादेयम् · अ + आ → आ: जीवित + आरोग्य° → जीवितारोग्य°।",
+        "contrast": "भिषजा (वैद्य द्वारा, देने वाला) ↔ धीमता (बुद्धिमान द्वारा, लेने/न लेने वाला): दोनों तृतीया एकवचन, भूमिकाएँ अलग।",
+        "chunks": "तस्मान्न भिषजा युक्तं | युक्तिबाह्येन भेषजम् ‖ धीमता किंचिदादेयं | जीवितारोग्यकाङ्क्षिणा।",
+    },
+    "128": {
+        "seesaw": "वासवाशनिः (सिर पर गिरे तो भी सशेष, कुछ बचे) ↔ अज्ञमतम् औषधम् (रोगी को सशेष नहीं छोड़ती)।",
+        "pegs": "मेरा बनाया चित्र: सिर पर गिरता वज्र, फिर भी साँस चलती हुई; और दूसरी ओर एक अनजान हाथ की पुड़िया, जिसके बाद कुछ नहीं बचा।",
+        "anchors": "वासव = इन्द्र · अशनि = वज्र · सशेष = स + शेष (शेष के साथ) · अज्ञमतम् = अज्ञ का बताया (मत)।",
+        "sandhi": "त् + न → न्न: कुर्यात् + निपतितः → कुर्यान्निपतितः · अः + म → ओ: निपतितः + मूर्ध्नि → निपतितो मूर्ध्नि · तु + अ → त्व: न + तु + अज्ञमतम् → नत्वज्ञमतम्।",
+        "chunks": "कुर्यान्निपतितो मूर्ध्नि | सशेषं वासवाशनिः ‖ सशेषमातुरं कुर्यात् | न त्वज्ञमतमौषधम्।",
+    },
+    "129": {
+        "frame": "कौन देता है: प्राज्ञमानी (खुद को बुद्धिमान मानने वाला) · क्या: भेषज, बिना जाने · किसे: दुःखित, शयान, श्रद्दधान रोगी को · आगे: परिणाम श्लोक १३० में।",
+        "diagram": {"groups": [
+            {"label": "पहली पंक्ति",
+             "items": ["दुःखिताय", "शयानाय", "श्रद्दधानाय", "रोगिणे"]},
+            {"label": "दूसरी पंक्ति",
+             "items": ["यो", "भेषजमविज्ञाय", "प्राज्ञमानी", "प्रयच्छति"]}]},
+        "contrast": "प्राज्ञमानी (खुद को बुद्धिमान मानने वाला) ≠ प्राज्ञ (सचमुच बुद्धिमान)। ‘-मानी’ = अपने को वैसा समझने वाला।",
+        "sandhi": "अः → ओ (घोष से पहले): यः + भेषजम् → यो भेषजम् · म् + अ: भेषजम् + अविज्ञाय → भेषजमविज्ञाय।",
+        "chunks": "दुःखिताय शयानाय | श्रद्दधानाय रोगिणे ‖ यो भेषजमविज्ञाय | प्राज्ञमानी प्रयच्छति …।",
+    },
+}
+
+IMAGE_SPECS = {
+    ("124", "seesaw"): {
+        "file": "seesaw-124.svg",
+        "alt": "A two-column picture: a medicine that is not known is like four dangers (poison, weapon, fire, thunderbolt); a medicine that is well known is like one thing, nectar",
+        "type": "split",
+        "title": "औषध: अविज्ञात ↔ विज्ञात",
+        "cols": [["अविज्ञात औषध", ["विष", "शस्त्र", "अग्नि", "अशनि (वज्र)"]],
+                 ["विज्ञात औषध", ["अमृत"]]],
+    },
+    ("126", "seesaw"): {
+        "file": "seesaw-126.svg",
+        "alt": "A two-column picture: with proper application a potent poison becomes an excellent medicine; with wrong application a medicine becomes a potent poison",
+        "type": "split",
+        "title": "योग बनाम दुर्योग",
+        "cols": [["योगात् (उचित प्रयोग)", ["तीक्ष्ण विष", "↓", "उत्तम भेषज"]],
+                 ["दुर्युक्त (गलत प्रयोग)", ["भेषज", "↓", "तीक्ष्ण विष"]]],
+    },
+}

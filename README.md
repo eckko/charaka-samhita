@@ -1,82 +1,41 @@
-# Recall Quiz book shell
+# Charaka Samhita: Sutrasthana, chapters 1 to 4 (test build)
 
-The smallest possible site for one book. It holds only the book's own
-files; all the quiz code (screens, themes, spaced repetition, sync) is
-loaded from a tagged copy of
-[`eckko/recall-quiz-site-template`](https://github.com/eckko/recall-quiz-site-template)
-on jsDelivr. Use this repository as the starting point for each new book.
+A test of the verse-study quiz, finished for **Su. 1 (Dirghanjivitiya, 141 units), Su. 2
+(Apamargatanduliya, 36 units) Su. 3 (Aragvadhiya, 30 units) and Su. 4 (Shadvirecanashatashritiya, 29 units)**: the opening prose lines and every verse (66.1 included). Each
+card has the Devanagari text, a tap-to-open word split with grammar, Hindi,
+English, an explanation, a block of memory aids (13 kinds: chain, first
+letters, यदा–तदा pairs, sandhi rule, who/to whom/why, word families,
+diagram, metre, rhythm chunks, picture words, sound-alikes, look-alike
+pairs, story), a text note, and a hand-written six-question ladder (1,062
+questions in all). Settings has a "Sanskrit cards" section where each kind
+and each part of the card can be shown or hidden, and the verse font chosen (all on at first; saved with the book settings and synced to your account when signed in). Hindi, English and all
+memory aids are AI-written and AI-reviewed (two independent review passes);
+a scholar's check is still pending.
 
-## What is in it
+**This repo is a book shell.** `index.html` loads all quiz code from tag
+`2.2.0` of `eckko/recall-quiz-site-template` on jsDelivr (move to another
+tag with `python3 tools/set_template_tag.py TAG`; the tag must exist). The
+book sets its own start theme (Parchment & Teal) in `index.html`.
 
 | Path | What it is |
 |---|---|
-| `index.html` | A tiny loader: shows the favicon and loads the quiz from the template on the CDN |
-| `questions.json` | The question bank. This is a **sample** (2 ideas, 13 questions); replace it |
-| `images/favicon.png` | The browser-tab icon (replace with the book's) |
-| `media/` | The book's pictures, encrypted (`media/<id>.enc`). The sample holds one figure and one cover |
-| `book-structure/` | The chapter map the bank is built from (sample) |
-| `tools/set_template_tag.py` | Moves the book to another template tag |
+| `index.html` | Loader: favicon, the book's start-up choices, template tag 2.2.0 |
+| `tools/set_template_tag.py` | Moves `index.html` to another exact template tag |
+| `questions.json` | The bank for all four chapters (book id `caraka-sutra`), generated from `data/` |
+| `data/sutrasthana1_verses.json`, `sutrasthana2_verses.json` | Source data: verse text, word split, Hindi, English, flags, notes |
+| `tools/make_bank.py` | Builds `questions.json` (all four chapters) from the data plus the hand-written content (needs `indic_transliteration`) |
+| `tools/ch1_authored.py` | Hand-written explanations, hooks, notes and questions for units 1 to 10 (shared helpers) |
+| `tools/ch2_batch_02.py` … `ch2_batch_05.py` | The same for Su. 2 (units 1 to 36); its sections are `RANGES_2` in `tools/sections.py` |
+| `tools/ch4_batch_02.py` … `ch4_batch_04.py` | The same for Su. 4 (units 1 to 29; prose units 1 to 22, anuṣṭubh verses 23 to 29); its sections are `RANGES_4`. Long prose lines are cut into rows of at most 30 word chips |
+| `tools/ch3_batch_02.py` … `ch3_batch_04.py` | The same for Su. 3 (units 1 to 30, Upajāti metre so no metre aid); its sections are `RANGES_3` in `tools/sections.py` |
+| `tools/batch_02.py` … `batch_14.py` | The same for Su. 1 units 11 to 140, in batches of about ten; `tools/sections.py` holds the section of every unit; `tools/AUTHORING.md` is the writing guide |
+| `tools/gram_hi.py` | Hindi grammar labels for the word chips |
+| `tools/ch1_aids.py`, `tools/metre.py` | Hand-written memory aids; the metre cut (8+8 akṣaras) is computed |
+| `tools/make_aid_images.py`, `images/aids/` | The small pictures (drawn as SVG) used by the picture words and diagram aids |
 
-Nothing else belongs here: no `css/`, `js/`, `htrab/`, `themes/` or
-`vendor/` folders. If the book uses extra banks (`?bank=banks/name.json`),
-add a `banks/` folder; it is read from this site too.
+Sanskrit text: SARIT edition of the Carakasamhita (single witness, CC BY-SA 3.0).
+Hindi and English are AI-drafted and AI-reviewed, not yet checked by a person.
+Rebuild: `python3 tools/make_bank.py data questions.json`.
+Sync is the template's (sign in from Settings); the Sanskrit-card choices sync too.
 
-## Start a new book
-
-1. On GitHub, press **Use this template → Create a new repository**
-   (or copy these files into a new repository).
-2. Replace `questions.json` with the book's bank, `images/favicon.png`
-   with its icon, and `book-structure/` with its chapter map. Build the
-   bank with the `quiz-htrab` skill, or by hand following the template's
-   `ai-context/` notes. Keep every question's `id` stable once readers
-   have progress.
-3. Put the book's pictures in `media/` (see below), or delete `media/` and
-   the `cover` and `media` entries in `questions.json` if there are none.
-4. Turn on Pages: **Settings → Pages → Deploy from a branch**, branch
-   `main`, folder `/ (root)`. The site is at
-   `https://<user>.github.io/<repository>/`.
-5. If you use Google sign-in sync, its settings are in the template's
-   `js/sync/sync-config.js` and apply to every book. Nothing to do here.
-
-## Pictures (`media/`)
-
-A picture is stored as `media/<id>.enc` (12-byte nonce plus AES-GCM data)
-and opens only with the book key, so the book's figures are not freely
-downloadable from the repository. Write them with the template's tool
-(run it in a checkout of the template):
-
-```
-python3 tools/encrypt_media.py KEYFILE sample/fig-clock figure.png --out ../my-book/media
-```
-
-`KEYFILE` is the word `placeholder` for a public stand-in key (files are
-then hidden but not secret, and can be re-keyed later with
-`tools/reencrypt_media.py`) or a file holding the book key. Without a key
-the quiz shows each picture's `alt` text instead. The sample files here use
-the placeholder key. Details: the template's `ai-context/data-formats.md`.
-
-## Choose the template version
-
-`index.html` names one exact template tag (for example `2.1.0`). A tag
-never changes, so the site never changes under you. To move to a newer
-template:
-
-```
-python3 tools/set_template_tag.py 2.2.0
-```
-
-then commit `index.html`. Never point it at a branch such as `main`: a
-branch changes under the site and the CDN caches it for a long time.
-
-## Try it on your computer
-
-Run `python3 -m http.server` in this folder and open
-<http://localhost:8000/>. It needs an internet connection, because the
-code comes from the CDN.
-
-## Limits
-
-- The page needs the CDN. If jsDelivr is unreachable the quiz shows
-  "The quiz could not be loaded" instead.
-- Pages written for template tags before 2.1.0 cannot be used: they have no
-  `js/boot.js`.
+To run it: serve the folder with any static server, or turn on GitHub Pages for this branch.

@@ -1,17 +1,24 @@
 <!doctype html>
 <!--
-  Made by tools/make_book_index.py (recall-quiz-site-template). This page
-  only shows the favicon and starts js/boot.js, which loads the quiz page
-  and every css/ and js/ file from the CDN at tag 2.1.0.
-  To move this book to another template tag, run the tool again with that
-  tag (or use tools/set_template_tag.py). questions.json, images/ and
-  media/ stay here.
+  Charaka Samhita Sutrasthana: a book shell for the Recall Quiz template.
+  This page only shows the favicon, gives the book's own start-up choices
+  and starts js/boot.js, which loads the quiz page and every css/ and js/
+  file from the CDN at tag 2.2.0.
+  To move this book to another template tag, run
+  `python3 tools/set_template_tag.py TAG`. questions.json and images/
+  stay here.
 -->
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <link rel="icon" href="images/favicon.png" type="image/png">
-  <script src="https://cdn.jsdelivr.net/gh/eckko/recall-quiz-site-template@2.1.0/js/boot.js"></script>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Charaka Samhita Sutrasthana</title>
+  <link rel="icon" href="images/favicon.ico" sizes="any">
+  <link rel="icon" href="images/favicon-32.png" type="image/png" sizes="32x32">
+  <link rel="icon" href="images/favicon.png" type="image/png" sizes="192x192">
+  <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+  <script>window.RecallQuizBookDefaults={"theme":{"id":"parchment-verse"},"homeLayout":{"stand":"open","customStart":"closed"}};</script>
+  <script src="https://cdn.jsdelivr.net/gh/eckko/recall-quiz-site-template@2.2.1/js/boot.js"></script>
 </head>
 <body></body>
 </html>
