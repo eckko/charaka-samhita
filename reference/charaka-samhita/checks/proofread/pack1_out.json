@@ -1,0 +1,422 @@
+[
+ {
+  "id": "01.11.P6",
+  "kind": "stray",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Quotation marks enclose a quoted verse in prose; fine."
+ },
+ {
+  "id": "01.11.P7",
+  "kind": "stray",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Closing quotation mark of the quoted verse; fine."
+ },
+ {
+  "id": "01.11.P11",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "तत्रातिप्रभावतां दृश्यानाम् अतिमात्रं दर्शनम् अतियोगः, सर्वशोऽदर्शनम् अयोगः, अतिश्लिष्टातिविप्रकृष्टरौद्रभैरवाद्भुतद्विष्टबीभत्सनविकृतवित्रासनादिरूपदर्शनं मिथ्यायोगः; तथातिमात्रस्तनितपटहोत्क्रुष्टादीनां शब्दानाम् अतिमात्रं श्रवणम् अतियोगः, सर्वशोऽश्रवणम् अयोगः, परुषेष्टविनाशोपघातप्रधर्षणभीषणादिशब्दश्रवणं मिथ्यायोगः; तथातितीक्ष्णोग्राभिष्यन्दिनां गन्धानाम् अतिमात्रं घ्राणमतियोगः, सर्वशोऽघ्राणमयोगः, पूतिद्विष्टामेध्यक्लिन्नविषपवनकुणपगन्धादिघ्राणं मिथ्यायोगः; तथा रसानाम् अत्यादानम् अतियोगः, सर्वशोऽनादानम् अयोगः, मिथ्यायोगो राशिवर्ज्येष्व् आहारविधिविशेषायतनेषूपदेक्ष्यते; तथातिशीतोष्णानां स्पृश्यानां स्नानाभ्यङ्गोत्सादनादीनां चात्युपसेवनम् अतियोगः, सर्वशोऽनुपसेवनम् अयोगः, स्नानादीनां शीतोष्णादीनां च स्पृश्यानाम् अनानुपूर्व्योपसेवनं विषमस्थानाभिघाताशुचिभूतसंस्पर्शादयश् चेति मिथ्यायोगः ॥",
+  "why": "Stray compound-split dots (joined with sandhi); also वर्ज्योष्व् is not a form, locative plural is वर्ज्येषु."
+ },
+ {
+  "id": "01.18.7-2",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "उष्णतीक्ष्णकटुकक्षारलवणाम्लाजीर्णभोजनैरग्न्यातपप्रतापैश्च पित्तं प्रकुपितं त्वङ्मांसशोणितान्यभिभूय शोथं जनयति स क्षिप्रोत्थानप्रशमो भवति कृष्णपीतनीलताम्रावभास उष्णो मृदुः कपिलताम्ररोमा उष्यते दूयते धूप्यते ऊष्मायते स्विद्यते क्लिद्यते न च स्पर्शमुष्णं च सुषूयत इति पित्तशोथः ;",
+  "why": "अभिह्बूय is a typo for अभिभूय (as in neighbouring lines); 'ंर्दुः' is a broken मृदुः."
+ },
+ {
+  "id": "01.30.12a",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "तत्फला बहुधा वा ताः फलन्तीव महाफलाः ।",
+  "why": "Stray '(आ.ति।' markup inside the verse; without it both pādas have 8 aksharas."
+ },
+ {
+  "id": "06.01.P14",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "",
+  "why": "Editor's footnote/note (variant reading or commentator remark) typed into the line; not root text, delete the line."
+ },
+ {
+  "id": "06.01.P24",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "(इति नागबलारसायनम्।)",
+  "why": "Editor's note about Gangadhara's reading typed in; keep only the colophon."
+ },
+ {
+  "id": "06.01.P35",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "",
+  "why": "Editor's footnote/note (variant reading or commentator remark) typed into the line; not root text, delete the line."
+ },
+ {
+  "id": "06.01.P46",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "",
+  "why": "Editor's footnote/note (variant reading or commentator remark) typed into the line; not root text, delete the line."
+ },
+ {
+  "id": "06.03.13c",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "",
+  "why": "Editor's footnote/note (variant reading or commentator remark) typed into the line; not root text, delete the line."
+ },
+ {
+  "id": "06.03.66c",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "",
+  "why": "Editor's footnote/note (variant reading or commentator remark) typed into the line; not root text, delete the line."
+ },
+ {
+  "id": "06.03.135c",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "",
+  "why": "Editor's footnote/note (variant reading or commentator remark) typed into the line; not root text, delete the line."
+ },
+ {
+  "id": "06.03.188c",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "",
+  "why": "Editor's English remark ('in Chakrapanidatta's commentary') transliterated into Devanagari; not root text, delete the line."
+ },
+ {
+  "id": "06.03.261c",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "",
+  "why": "Editor's footnote/note (variant reading or commentator remark) typed into the line; not root text, delete the line."
+ },
+ {
+  "id": "06.03.281c",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "",
+  "why": "Editor's footnote/note (variant reading or commentator remark) typed into the line; not root text, delete the line."
+ },
+ {
+  "id": "06.03.290c",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "",
+  "why": "Editor's footnote/note (variant reading or commentator remark) typed into the line; not root text, delete the line."
+ },
+ {
+  "id": "06.03.303c",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "",
+  "why": "Editor's footnote/note (variant reading or commentator remark) typed into the line; not root text, delete the line."
+ },
+ {
+  "id": "06.04.19c",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "",
+  "why": "Editor's footnote/note (variant reading or commentator remark) typed into the line; not root text, delete the line."
+ },
+ {
+  "id": "06.04.52c",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "",
+  "why": "Editor's footnote/note (variant reading or commentator remark) typed into the line; not root text, delete the line."
+ },
+ {
+  "id": "06.04.77c",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "",
+  "why": "Editor's footnote/note (variant reading or commentator remark) typed into the line; not root text, delete the line."
+ },
+ {
+  "id": "06.05.43c",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "",
+  "why": "Editor's footnote/note (variant reading or commentator remark) typed into the line; not root text, delete the line."
+ },
+ {
+  "id": "06.05.114c",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "",
+  "why": "Editor's footnote/note (variant reading or commentator remark) typed into the line; not root text, delete the line."
+ },
+ {
+  "id": "06.05.139c",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "",
+  "why": "Editor's footnote/note (variant reading or commentator remark) typed into the line; not root text, delete the line."
+ },
+ {
+  "id": "06.05.168c",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "",
+  "why": "Editor's footnote/note (variant reading or commentator remark) typed into the line; not root text, delete the line."
+ },
+ {
+  "id": "06.06.44c",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "इति मध्वासवः।",
+  "why": "Footnote 'अयं’ इति पा-.' typed into the line; keep only the colophon."
+ },
+ {
+  "id": "06.07.113c",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "",
+  "why": "Editor's footnote/note (variant reading or commentator remark) typed into the line; not root text, delete the line."
+ },
+ {
+  "id": "06.24.40b",
+  "kind": "stray",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Quotation marks around the defined term ‘मद’; fine."
+ },
+ {
+  "id": "06.24.44a",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "मुहुः स्मृतिर्मुहुर्मोहोऽव्यक्ता सज्जति वाङ्मुहुः।",
+  "why": "'( ‘अ)' is a mangled avagraha; मोहोऽव्यक्ता gives 8+8 aksharas."
+ },
+ {
+  "id": "02.02.3",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "पित्तं यथाभूतं लोहितपित्तमिति संज्ञां लभते, तद् व्याख्यास्यामः॥",
+  "why": "Stray '*' editorial marker; remove."
+ },
+ {
+  "id": "02.03.7",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "स प्रकुपितो वायुर्महास्रोतोऽनुप्रविश्य रौक्ष्यात् कठिनीभूतमाप्लुत्य पिण्डितोऽवस्थानं करोति हृदि बस्तौ पार्श्वयोर्नाभ्यां वा; स शूलमुपजनयति ग्रन्थींश्चानेकविधान्, पिण्डितश्चावतिष्ठते, स पिण्डितत्वाद् ‘गुल्म’ इत्यभिधीयते; स मुहुराधमति, मुहुरल्पत्वमापद्यते; अनियतविपुलाणुवेदनश्च भवति चलत्वाद्वायोः, मुहुः पिपीलिकासंप्रचार इवाङ्गेषु, तोदभेदस्फुरणायामसङ्कोचसुप्तिहर्षप्रलयोदयबहुलः; तदातुरः सूच्येव शङ्कुनेव चाभिसंविद्धमात्मानं मन्यते, अपि च दिवसान्ते ज्वर्यते, शुष्यति चास्यास्यम्, उच्छ्वासश्चोपरुध्यते, हृष्यन्ति चास्य रोमाणि वेदनायाः प्रादुर्भावे; प्लीहाटोपान्त्रकूजनाविपाकोदावर्ताङ्गमर्दमन्याशिरःशङ्खशूलब्रध्नरोगाश्चैनमुपद्रवन्ति; कृष्णारुणपरुषत्वङ्नखनयनवदनमूत्रपुरीषश्च भवति, निदानोक्तानि चास्य नोपशेरते, विपरीतानि चोपशेरत इति वातगुल्मः॥",
+  "why": "Quotes around ‘गुल्म’ are fine, but अवियतवुपुल is a typo for अनियतविपुल (irregular pain 'चलत्वाद्वायोः')."
+ },
+ {
+  "id": "02.05.5",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "इह वातादिषु त्रिषु प्रकुपितेषु त्वगादींश्चतुरः प्रदूषयत्सु वातेऽधिकतरे कपालकुष्ठमभिनिर्वर्तते, पित्ते त्वौदुम्बरं, श्लेष्मणि मण्डलकुष्ठं, वातपित्तयोरृष्यजिह्वं, पित्तश्लेष्मणोः पुण्डरीकं, श्लेष्ममारुतयोः सिध्मकुष्ठं, सर्वदोषाभिवृद्धौ काकणकमभिनिर्वर्तते; एवमेष सप्तविधः कुष्ठविशेषो भवति।",
+  "why": "'+ ' is a broken avagraha: वातेऽधिकतरे."
+ },
+ {
+  "id": "03.03.5",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "एवंवादिनं भगवन्तमात्रेयमग्निवेश उवाच---उद्धृतानि खलु भगवन्! भैषज्यानि, सम्यग्विहितानि, सम्यगवचारितानि च; अपि तु खलु जनपदोद्ध्वंसनमेकेनैव व्याधिना युगपदसमानप्रकृत्याहारदेहबलसात्म्यसत्त्ववयसां मनुष्याणां कस्माद्भवतीति॥",
+  "why": "Stray '*' editorial marker; remove."
+ },
+ {
+  "id": "03.03.7-2",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "उदकं तु खल्वत्यर्थविकृतगन्धवर्णरसस्पर्शं क्लेदबहुलमपक्रान्तजलचरविहङ्गमुपक्षीणजलेशयमप्रीतिकरमपगतगुणं विद्यात्;",
+  "why": "Stray '-*' marker inside the compound; join."
+ },
+ {
+  "id": "03.03.7-3",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "देशं पुनः प्रकृतिविकृतवर्णगन्धरसस्पर्शं क्लेदबहुलमुपसृष्टं सरीसृपव्यालमशकशलभमक्षिकामूषकोलूकश्माशानिकशकुनिजम्बूकादिभिस्तृणोलूपोपवनवन्तं प्रतानादिबहुलमपूर्ववदवपतितशुष्कनष्टशस्यं धूम्रपवनं प्रध्मातपतत्रिगणमुद्भ्रान्तव्यथितविविधमृगपक्षिसङ्घमुत्सृष्टमष्टधर्मसत्यलज्जाचारशीलगुणजनपदं शश्वत्क्षुभितोदीर्णसलिलाशयं प्रततोल्कापातनिर्घातभूमिकम्पमतिभयारावरूपं रूक्षताम्रारुणसिताभ्रजालसंवृतार्कचन्द्रतारकमभीक्ष्णं ससंभ्रमोद्वेगमिव सत्रासरुदितमिव सतमस्कमिव गुह्यकाचरितमिवाक्रन्दितशब्दबहुलं चाहितं विद्यात्;",
+  "why": "Stray '*' editorial marker; remove."
+ },
+ {
+  "id": "03.03.10b",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "विद्याद्दुष्परिहार्यत्वाद्गरीयस्तरमर्थवित्॥",
+  "why": "Stray '*' editorial marker; remove."
+ },
+ {
+  "id": "03.03.P6",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "ये लुप्तधर्माणो धर्मादपेतास्ते गुरुवृद्धसिद्धर्षिपूज्यानवमत्याहितान्याचरन्ति; ततस्ताः प्रजा गुर्वादिभिरभिशप्ता भस्मतामुपयान्ति प्रागेवानेकपुरुषकुलविनाशाय, नियतप्रत्ययोपलम्भादनियताश्चापरे॥",
+  "why": "Stray '*' editorial marker; remove."
+ },
+ {
+  "id": "03.03.P8",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "तेषामुदारसत्त्वगुणकर्मणामचिन्त्यरसवीर्यविपाकप्रभावगुणसमुदितानि प्रादुर्बभूवुः शस्यानि सर्वगुणसमुदितत्वात् पृथिव्यादीनां कृतयुगस्यादौ।",
+  "why": "Stray '-*' marker; join with sandhi."
+ },
+ {
+  "id": "03.03.P16",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "न चानभ्यस्ताकालमरणभयनिवारकाणामकालमरणभयमागच्छेत् प्राणिनां, व्यर्थाश्चारम्भकथाप्रयोगबुद्धयः स्युर्महर्षीणां रसायनाधिकारे, नापीन्द्रो नियतायुषं शत्रुं वज्रेणाभिहन्यात्, नाश्विनावार्तं भेषजेनोपपादयेतां, न महर्षयो यथेष्टमायुस्तपसा प्राप्नुयुः, न च विदितवेदितव्या महर्षयः ससुरेशाः सम्यक् पश्येयुरुपदिशेयुराचरेयुर्वा।",
+  "why": "Stray '*'; also optative of उप-दिश् is उपदिशेयुः (cf. पश्येयुः, आचरेयुः)."
+ },
+ {
+  "id": "03.03.P17",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "अपि च सर्वचक्षुषामेतत् परं यदैन्द्रं चक्षुः, इदं चाप्यस्माकं तेन प्रत्यक्षं; यथा---पुरुषसहस्राणामुत्थायोत्थायाहवं कुर्वतामकुर्वतां चातुल्यायुष्ट्वं, तथा जातमात्राणामप्रतीकारात् प्रतीकाराच्च, अविषविषप्राशिनां चाप्यतुल्यायुष्ट्वमेव, न च तुल्यो योगक्षेम उदपानघटानां चित्रघटानां चोत्सीदतां; तस्माद्धितोपचारमूलं जीवितम्, अतो विपर्ययान्मृत्युः।",
+  "why": "Stray '*' and '^' markers; join उत्थायोत्थायाहवं."
+ },
+ {
+  "id": "03.03.P18",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "अपि च देशकालात्मगुणविपरीतानां कर्मणामाहारविकाराणां च क्रमोपयोगः सम्यक्, त्यागः सर्वस्य चातियोगायोगमिथ्यायोगानां, सर्वातियोगसंधारणम्, असंधारणमुदीर्णानां च गतिमतां, साहसानां च वर्जनम्, आरोग्यानुवृत्तौ हेतुमुपलभामहे सम्यगुपदिशामः सम्यक् पश्यामश्चेति॥",
+  "why": "Stray '*'; आरिग्य is a typo for आरोग्य, and the locative आरोग्यानुवृत्तौ is needed with हेतुमुपलभामहे."
+ },
+ {
+  "id": "03.03.P20",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "ज्वरो ह्यामाशयसमुत्थः, प्रायो भेषजानि चामाशयसमुत्थानां विकाराणां पाचनवमनापतर्पणसमर्थानि भवन्ति; पाचनार्थं च पानीयमुष्णं, तस्मादेतज्ज्वरितेभ्यः प्रयच्छन्ति भिषजो भूयिष्ठम्।",
+  "why": "Stray '*' editorial marker; remove."
+ },
+ {
+  "id": "03.03.44",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "तत्र लङ्घनमल्पबलदोषाणां, लङ्घनेन ह्यग्निमारुतवृद्ध्या वातातपपरीतमिवाल्पमुदकमल्पो दोषः प्रशोषमापद्यते; लङ्घनपाचने तु मध्यबलदोषाणां, लङ्घनपाचनाभ्यां हि सूर्यसंतापमारुताभ्यां पांशुभस्मावकिरणैरिव चानतिबहूदकं मध्यबलो दोषः प्रशोषमापद्यते; बहुदोषाणां पुनर्दोषावसेचनमेव कार्यं, न ह्यभिन्ने केदारसेतौ पल्वलाप्रसेकोऽस्ति, तद्वद्दोषावसेचनम्॥",
+  "why": "Stray '-*' and '*' markers; join लङ्घनमल्पबलदोषाणां."
+ },
+ {
+  "id": "03.03.P22",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "तद्यथा---अनपवादप्रतीकारस्याधनस्यापरिचारकस्य वैद्यमानिनश्चण्डस्यासूयकस्य तीव्राधर्मारुचेरतिक्षीणबलमांसशोणितस्यासाध्यरोगोपहतस्य मुमूर्षुलिङ्गान्वितस्य चेति।",
+  "why": "Stray '*' editorial marker; remove."
+ },
+ {
+  "id": "03.04.P3",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "अप्रमाणं पुनर्मत्तोन्मत्तमूर्खरक्तदुष्टवचनमिति; प्रत्यक्षं तु खलु तद्यत् स्वयमिन्द्रियैर्मनसा चोपलभ्यते।",
+  "why": "Stray '-*' markers; join."
+ },
+ {
+  "id": "03.04.5",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "त्रिविधेन खल्वनेन ज्ञानसमुदायेन पूर्वं परीक्ष्य रोगं सर्वथा सर्वमथोत्तरकालमध्यवसानमदोषं भवति, न हि ज्ञानावयवेन कृत्स्ने ज्ञेये ज्ञानमुत्पद्यते।",
+  "why": "Stray '*' editorial marker; remove."
+ },
+ {
+  "id": "03.04.7",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "प्रत्यक्षतस्तु खलु रोगतत्त्वं बुभुत्सुः सर्वैरिन्द्रियैः सर्वानिन्द्रियार्थानातुरशरीरगतान् परीक्षेत, अन्यत्र रसज्ञानात्; तद्यथा---अन्त्रकूजनं, सन्धिस्फुटनमङ्गुलीपर्वणां च, स्वरविशेषांश्च, ये चान्येऽपि केचिच्छरीरोपगताः शब्दाः स्युस्ताञ्छ्रोत्रेण परीक्षेत; वर्णसंस्थानप्रमाणच्छायाः, शरीरप्रकृतिविकारौ, चक्षुर्वैषयिकाणि यानि चान्यान्यनुक्तानि तानि चक्षुषा परीक्षेत; रसं तु खल्वातुरशरीरगतमिन्द्रियवैषयिकमप्यनुमानादवगच्छेत्, न ह्यस्य प्रत्यक्षेण ग्रहणमुपपद्यते, तस्मादातुरपरिप्रश्नेनैवातुरमुखरसं विद्यात्, यूकापसर्पणेन त्वस्य शरीरवैरस्यं, मक्षिकोपसर्पणेन शरीरमाधुर्यं, लोहितपित्तसंदेहे तु किं धारिलोहितं लोहितपित्तं वेति श्वकाकभक्षणाद्धारिलोहितमभक्षणाल्लोहितपित्तमित्यनुमातव्यम्, एवमन्यानप्यातुरशरीरगतान् रसाननुमिमीत; गन्धांस्तु खलु सर्वशरीरगतानातुरस्य प्रकृतिवैकारिकान् घ्राणेन परीक्षेत; स्पर्शं च पाणिना प्रकृतिविकृतियुक्तम्।",
+  "why": "Stray '*' and editor's '(स्)' insertion; read स्युस्ताञ्छ्रोत्रेण."
+ },
+ {
+  "id": "03.04.P7",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "इति प्रत्यक्षतोऽनुमानादुपदेशतश्च परीक्षणमुक्तम्॥",
+  "why": "'+*' is a broken avagraha marker: प्रत्यक्षतोऽनुमानाद्."
+ },
+ {
+  "id": "03.04.8",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "इमे तु खल्वन्येऽप्येवमेव भूयोऽनुमानज्ञेया भवन्ति भावाः।",
+  "why": "Stray '*' editorial marker; remove."
+ },
+ {
+  "id": "03.04.P8",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "तद्यथा---अग्निं जरणशक्त्या परीक्षेत, बलं व्यायामशक्त्या, श्रोत्रादीनि शब्दाद्यर्थग्रहणेन, मनोऽर्थाव्यभिचरणेन, विज्ञानं व्यवसायेन, रजः सङ्गेन, मोहमविज्ञानेन, क्रोधमभिद्रोहेण, शोकं दैन्येन, हर्षमामोदेन, प्रीतिं तोषेण, भयं विषादेन, धर्मविषादेन, वीर्यमुत्थानेन, अवस्थानमविभ्रमेण, श्रद्धामभिप्रायेण, मेधां ग्रहणेन, संज्ञां नामग्रहणेन, स्मृतिं स्मरणेन, ह्रियमपत्रपणेन, शीलमनुशीलनेन, द्वेषं प्रतिषेधेन, उपधिमनुबन्धेन, धृतिमलौल्येन, वश्यतां विधेयतया, वयोभक्तिसात्म्यव्याधिसमुत्थानानि कालदेशोपशयवेदनाविशेषेण, गूढलिङ्गं व्याधिमुपशयानुपशयाभ्यां, दोषप्रमाणविशेषमपचारविशेषेण, आयुषः क्षयमरिष्टैः, उपस्थितश्रेयस्त्वं कल्याणाभिनिवेशेन, अमलं सत्त्वमविकारेण, ग्रहण्यास्तु मृदुदारुणत्वं स्वप्नदर्शनमभिप्रायं द्विष्टेष्टसुखदुःखानि चातुरपरिप्रश्नेनैव विद्यादिति॥",
+  "why": "Stray '*' markers. (धर्मविषादेन breaks the 'Xम् Y-एन' pattern, possibly धैर्यमविषादेन; not changed.)"
+ },
+ {
+  "id": "03.04.12a",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "ज्ञानबुद्धिप्रदीपेन यो नाविशति तत्त्ववित्।",
+  "why": "Stray '*' editorial marker; remove."
+ },
+ {
+  "id": "03.05.P3",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "न त्वेतदेवं, यस्य हि स्रोतांसि, यच्च वहन्ति, यच्चावहन्ति, यत्र चावस्थितानि, सर्वं तदन्यत्तेभ्यः।",
+  "why": "Stray '*' editorial marker; remove."
+ },
+ {
+  "id": "03.05.P12",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "मेदोवहानां स्रोतसां वृक्कौ मूलं वपावहनं च।",
+  "why": "Stray '*'; मिदो is a typo for मेदो (cf. मेदो मूलं in next line)."
+ },
+ {
+  "id": "03.05.P17",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "मूत्रवहानां स्रोतसां बस्तिर्मूलं वङ्क्षणौ च, प्रदुष्टानां तु खल्वेषामिदं विशेषविज्ञानं भवति; तद्यथा---अतिसृष्टमतिबद्धं प्रकुपितमल्पाल्पमभीक्ष्णं वा बहलं सशूलं मूत्रयन्तं दृष्ट्वा मूत्रवहान्यस्य स्रोतांसि प्रदुष्टानीति विद्यात्।",
+  "why": "Stray '*' editorial marker; remove."
+ },
+ {
+  "id": "03.05.P18",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "पुरीषवहानां स्रोतसां पक्वाशयो मूलं स्थूलगुदं च, प्रदुष्टानां तु खल्वेषामिदं विशेषविज्ञानं भवति; तद्यथा---कृच्छ्रेणाल्पाल्पं सशब्दशूलमतिद्रवमतिग्रथितमतिबहु चोपविशन्तं दृष्ट्वा पुरीषवहान्यस्य स्रोतांसि प्रदुष्टानीति विद्यात्।",
+  "why": "Stray '*' editorial marker; remove."
+ },
+ {
+  "id": "03.05.20b",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "मूत्रवाहीनि दुष्यन्ति क्षीणस्याभिक्षतस्य च॥",
+  "why": "Stray '*' editorial marker; remove."
+ },
+ {
+  "id": "03.05.22a",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "व्यायामादतिसंतापाच्छीतोष्णाक्रमसेवनात्।",
+  "why": "Stray '*' editorial marker; remove."
+ },
+ {
+  "id": "03.06.P2",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "एकत्वं तावदेकमेव रोगानीकं,दुःखसामान्यात्; बहुत्वं तु दश रोगानीकानि प्रभावभेदादिना भवन्ति; बहुत्वमपि संख्येयं स्यादसंख्येयं वा।तत्र संख्येयं तावद्यथोक्तमष्टोदरीये,अपरिसंख्येयं पुनर्यथा---महारोगाध्याये रुग्वर्णसमुत्थानादीनामसंख्येयत्वात्॥",
+  "why": "Stray '*' editorial marker; remove."
+ },
+ {
+  "id": "03.06.P4",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "समानायामपि खलु भेदप्रकृतौ प्रकृतानुप्रयोगान्तरमपेक्ष्यम्।",
+  "why": "Stray '*' editorial marker; remove."
+ },
+ {
+  "id": "03.06.9",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "नियतस्त्वनुबन्धो रजस्तमसोः परस्परं, न ह्यरजस्कं तमः प्रवर्तते॥",
+  "why": "Stray '*' editorial marker; remove."
+ },
+ {
+  "id": "03.06.P14",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "अनुबन्ध्यलक्षणसमन्वितास्तत्र यदि दोषा भवन्ति तत्त्रिकं सन्निपातमाचक्षते, द्वयं वा संसर्गम्।",
+  "why": "Stray '*' editorial marker; remove."
+ }
+]
