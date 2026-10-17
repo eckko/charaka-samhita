@@ -1,0 +1,20 @@
+[
+ {"id": "03.02.17a", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Correct verse half-line."},
+ {"id": "03.03.18a", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Correct verse half-line."},
+ {"id": "04.01.147b", "kind": "sample", "verdict": "error", "suggest": "स्मृत्वा स्वभावं भावानां स्मरन् दुःखात् प्रमुच्यते॥", "why": "Second half of the verse is missing its closing double danda (neighbouring a-lines end with ।)."},
+ {"id": "04.05.3", "kind": "sample", "verdict": "error", "suggest": "‘पुरुषोऽयं लोकसंमितः’इत्युवाच भगवान् पुनर्वसुरात्रेयः।", "why": "संनितः is not a word; the next line (as much in the world, so much in man) needs लोकसंमितः, म typed as न."},
+ {"id": "04.05.16a", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Correct verse half-line."},
+ {"id": "04.08.40", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Prose reads correctly (मा प्रवाहिष्ठाः injunctive, आवी labour pains)."},
+ {"id": "04.08.43", "kind": "sample", "verdict": "error", "suggest": "अथास्य ताल्वोष्ठकण्ठजिह्वाप्रमार्जनमारभेताङ्गुल्या सुपरिलिखितनखया सुप्रक्षालितोपधानकार्पासपिचुमत्या।", "why": "Stray '?' with a doubled स inside the compound; कार्पासपिचु as in the next line."},
+ {"id": "05.01.26a", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Standard heading."},
+ {"id": "05.02.16b", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Correct verse half-line."},
+ {"id": "05.07.8a", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Correct verse half-line."},
+ {"id": "05.11.15a", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Correct verse half-line."},
+ {"id": "07.05.2", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Standard formula."},
+ {"id": "07.06.13c", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Correct count line."},
+ {"id": "07.07.49a", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Correct verse half-line."},
+ {"id": "07.08.16b", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Correct verse half-line."},
+ {"id": "07.11.13a", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Correct verse half-line."},
+ {"id": "07.12.72a", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Correct verse half-line."},
+ {"id": "07.12.79a", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Hyphens are the edition's compound marks; 16 aksharas, sense fine."}
+]
