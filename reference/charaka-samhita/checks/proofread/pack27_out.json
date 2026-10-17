@@ -1,0 +1,422 @@
+[
+ {
+  "id": "03.02.19a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.03.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.03.3",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.03.4",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.03.5",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "एवंवादिनं भगवन्तमात्रेयमग्निवेश उवाच---उद्धृतानि खलु भगवन्! भैषज्यानि, सम्यग्विहितानि, सम्यगवचारितानि च; अपि तु खलु जनपदोद्ध्वंसनमेकेनैव व्याधिना युगपदसमानप्रकृत्याहारदेहबलसात्म्यसत्त्ववयसां मनुष्याणां कस्माद्भवतीति॥",
+  "why": "Stray '*' editorial marker before सम्यगवचारितानि."
+ },
+ {
+  "id": "03.03.6",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "तमुवाच भगवानात्रेयः---एवमसामान्यावतामप्येभिरग्निवेश! प्रकृत्यादिभिर्भावैर्मनुष्याणां येऽन्ये भावाः सामान्यास्तद्वैगुण्यात् समानकालाः समानलिङ्गाश्च व्याधयोऽभिनिर्वर्तमाना जनपदमुद्ध्वंसयन्ति।",
+  "why": "Missing word space: येऽन्ये and भावाः run together."
+ },
+ {
+  "id": "03.03.7-1",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "तत्र वातमेवंविधमनारोग्यकरं विद्यात्; तद्यथा---यथर्तुविषममतिस्तिमितमतिचलमतिपरुषमतिशीतमत्युष्णमतिरूक्षमत्यभिष्यन्दिनमतिभैरवारावमतिप्रतिहतपरस्परगतिमतिकुण्डलिनमसात्म्यगन्धबाष्पसिकतापांशुधूमोपहतमिति;",
+  "why": "Broken conjunct: अति+अभिष्यन्दिनम् gives अत्यभिष्यन्दिनम्, not अत्य्भि-."
+ },
+ {
+  "id": "03.03.7-2",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "उदकं तु खल्वत्यर्थविकृतगन्धवर्णरसस्पर्शं क्लेदबहुलमपक्रान्तजलचरविहङ्गम्-उपक्षीणजलेशयमप्रीतिकरमपगतगुणं विद्यात्;",
+  "why": "Stray '*' editorial marker (the hyphen after विहङ्गम् is also a conversion leftover; joined form would be विहङ्गमुपक्षीण-)."
+ },
+ {
+  "id": "03.03.7-3",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "देशं पुनः प्रकृतिविकृतवर्णगन्धरसस्पर्शं क्लेदबहुलमुपसृष्टं सरीसृपव्यालमशकशलभमक्षिकामूषकोलूकश्माशानिकशकुनिजम्बूकादिभिस्तृणोलूपोपवनवन्तं प्रतानादिबहुलमपूर्ववदवपतितशुष्कनष्टशस्यं धूम्रपवनं प्रध्मातपतत्रिगणमुद्भ्रान्तव्यथितविविधमृगपक्षिसङ्घमुत्सृष्टमष्टधर्मसत्यलज्जाचारशीलगुणजनपदं शश्वत्क्षुभितोदीर्णसलिलाशयं प्रततोल्कापातनिर्घातभूमिकम्पमतिभयारावरूपं रूक्षताम्रारुणसिताभ्रजालसंवृतार्कचन्द्रतारकमभीक्ष्णं ससंभ्रमोद्वेगमिव सत्रासरुदितमिव सतमस्कमिव गुह्यकाचरितमिवाक्रन्दितशब्दबहुलं चाहितं विद्यात्;",
+  "why": "Two stray '*' editorial markers (before शश्वत् and प्रतत)."
+ },
+ {
+  "id": "03.03.7-4",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.03.7",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.03.8",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose; space before danda is harmless."
+ },
+ {
+  "id": "03.03.9a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.03.19",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.03.20",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "तमुवाच भगवानात्रेयः---सर्वेषामप्यग्निवेश! वाय्वादीनां यद्वैगुण्यमुत्पद्यते तस्य मूलमधर्मः, तन्मूलं वासत्कर्म पूर्वकृतं; तयोर्योनिः प्रज्ञापराध एव।",
+  "why": "Gen. pl. of -आदि is -आदीनां, as in the preceding line's वाय्वादीनां."
+ },
+ {
+  "id": "03.03.21",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose; only a missing space after the danda."
+ },
+ {
+  "id": "03.03.22",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.03.23",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.03.25a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.03.28",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.03.29a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.03.37",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose; वा भवतीति merely written joined."
+ },
+ {
+  "id": "03.03.38",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.03.39",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.03.40",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.03.41a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.03.42",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "एवमितरेषामपि व्याधीनां निदानविपरीतं भेषजं भवति; यथा---अपतर्पणनिमित्तानां व्याधीनां नान्तरेण पूरणमस्ति शान्तिः, तथा पूरणनिमित्तानां व्याधीनां नान्तरेणापतर्पणम्॥",
+  "why": "विदान is not a word; sense (treatment opposite to the cause, cf. शीत/उष्ण just before) needs निदान."
+ },
+ {
+  "id": "03.03.43",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.03.44",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "तत्र लङ्घनम्-अल्पबलदोषाणां, लङ्घनेन ह्यग्निमारुतवृद्ध्या वातातपपरीतमिवाल्पमुदकमल्पो दोषः प्रशोषमापद्यते; लङ्घनपाचने तु मध्यबलदोषाणां, लङ्घनपाचनाभ्यां हि सूर्यसंतापमारुताभ्यां पांशुभस्मावकिरणैरिव चानतिबहूदकं मध्यबलो दोषः प्रशोषमापद्यते; बहुदोषाणां पुनर्दोषावसेचनमेव कार्यं, न ह्यभिन्ने केदारसेतौ पल्वलाप्रसेकोऽस्ति, तद्वद्दोषावसेचनम्॥",
+  "why": "Two stray '*' editorial markers (before अल्पबल and लङ्घनपाचने)."
+ },
+ {
+  "id": "03.03.45",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.03.46a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.03.49a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.04.1",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "अथातस्त्रिविधरोगविशेषविज्ञानीयं विमानं व्याख्यास्यामः॥",
+  "why": "Missing स्य: the chapter-opening formula is व्याख्यास्यामः (cf. 03.03.1, 03.05.1, 03.06.1)."
+ },
+ {
+  "id": "03.04.3",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.04.5",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "त्रिविधेन खल्वनेन ज्ञानसमुदायेन पूर्वं परीक्ष्य रोगं सर्वथा सर्वमथोत्तरकालमध्यवसानमदोषं भवति, न हि ज्ञानावयवेन कृत्स्ने ज्ञेये ज्ञानमुत्पद्यते।",
+  "why": "Stray '*' editorial marker before सर्वम्."
+ },
+ {
+  "id": "03.04.6",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.04.7",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "प्रत्यक्षतस्तु खलु रोगतत्त्वं बुभुत्सुः सर्वैरिन्द्रियैः सर्वानिन्द्रियार्थानातुरशरीरगतान् परीक्षेत, अन्यत्र रसज्ञानात्; तद्यथा---अन्त्रकूजनं, सन्धिस्फुटनमङ्गुलीपर्वणां च, स्वरविशेषांश्च, ये चान्येऽपि केचिच्छरीरोपगताः शब्दाः स्युस्ताञ्छ्रोत्रेण परीक्षेत; वर्णसंस्थानप्रमाणच्छायाः, शरीरप्रकृतिविकारौ, चक्षुर्वैषयिकाणि यानि चान्यान्यनुक्तानि तानि चक्षुषा परीक्षेत; रसं तु खल्वातुरशरीरगतमिन्द्रियवैषयिकमप्यनुमानादवगच्छेत्, न ह्यस्य प्रत्यक्षेण ग्रहणमुपपद्यते, तस्मादातुरपरिप्रश्नेनैवातुरमुखरसं विद्यात्, यूकापसर्पणेन त्वस्य शरीरवैरस्यं, मक्षिकोपसर्पणेन शरीरमाधुर्यं, लोहितपित्तसंदेहे तु किं धारिलोहितं लोहितपित्तं वेति श्वकाकभक्षणाद्धारिलोहितमभक्षणाल्लोहितपित्तमित्यनुमातव्यम्, एवमन्यानप्यातुरशरीरगतान् रसाननुमिमीत; गन्धांस्तु खलु सर्वशरीरगतानातुरस्य प्रकृतिवैकारिकान् घ्राणेन परीक्षेत; स्पर्शं च पाणिना प्रकृतिविकृतियुक्तम्।",
+  "why": "E-text markup '(स्)' (स्युः+तान् = स्युस्तान्) and a stray '*' before वर्ण."
+ },
+ {
+  "id": "03.04.9a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.04.9b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Full anushtubh verse, 16+16 aksharas."
+ },
+ {
+  "id": "03.04.13a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.05.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.05.3",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.05.4",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "अपि चैके स्रोतसामेव समुदयं पुरुषमिच्छन्ति, सर्वगतत्वात् सर्वसरत्वाच्च दोषप्रकोपणप्रशमनानाम्।",
+  "why": "Typo: abstract noun needs -त्वात्, parallel to सर्वसरत्वात्."
+ },
+ {
+  "id": "03.05.5-6",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "",
+  "why": "'(अब्सेन्चे?)' is the e-text's note '(absence?)' transliterated, not root text; the gap itself is not filled here."
+ },
+ {
+  "id": "03.05.7",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.05.8",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.05.9",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose list of synonyms; commas without spaces are formatting only."
+ },
+ {
+  "id": "03.05.10a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.05.29a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.06.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.06.3",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.06.4",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.06.5",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.06.6",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.06.7",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.06.8",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.06.9",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "नियतस्त्वनुबन्धो रजस्तमसोः परस्परं, न ह्यरजस्कं तमः प्रवर्तते॥",
+  "why": "Stray '*' editorial marker before प्रवर्तते."
+ },
+ {
+  "id": "03.06.10",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose; bracketed (प्रायः) is the edition's own."
+ },
+ {
+  "id": "03.06.11",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ },
+ {
+  "id": "03.06.13",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading, prose or formula line; length is not metrical and the text reads correctly."
+ }
+]
