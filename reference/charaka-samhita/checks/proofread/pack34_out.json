@@ -1,0 +1,422 @@
+[
+ {
+  "id": "05.01.7-1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "05.01.7-2",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "05.01.7",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "05.01.9a",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "नीलश्यावताम्रहरितशुक्लाश्च वर्णाः शरीरस्य वैकारिका भवन्ति; यांश्चापरानुपेक्षमाणो विद्यात् प्राग्विकृतानभूत्वोत्पन्नान्।",
+  "why": "Conversion leftover hyphen in 'यांश्चापर-अनुपेक्षमाणो'; the preceding parallel line has the joined 'यांश्चापरानुपेक्षमाणो'."
+ },
+ {
+  "id": "05.01.9b",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "तत्र प्रकृतिवर्णमर्धशरीरे विकृतिवर्णमर्धशरीरे, द्वावपि वर्णौ मर्यादाविभक्तौ दृष्ट्वा; यद्येवं सव्यदक्षिणविभागेन, यद्येवं पूर्वपश्चिमविभागेन, यद्युत्तराधरविभागेन, यद्यन्तर्बहिर्विभागेन, आतुरस्यारिष्टमिति विद्यात्; एवमेव वर्णभेदो मुखेऽप्यन्यत्र वर्तमानो मरणाय भवति॥",
+  "why": "'मर्यादानिभक्तौ' is not a word; 'मर्यादाविभक्तौ' (divided by a boundary) fits the -विभागेन phrases that follow."
+ },
+ {
+  "id": "05.01.11",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "05.01.12",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "05.01.13",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "05.01.14",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "स्वराधिकारस्तु---हंसक्रौञ्चनेमिदुन्दुभिकलविङ्ककाककपोतजर्जरानुकाराः प्रकृतिस्वरा भवन्ति; यांश्चापरानुपेक्षमाणोऽपि विद्यादनूकतोऽन्यथा वापि निर्दिश्यमानांस्तज्ज्ञैः।",
+  "why": "Leftover hyphen in 'यांश्चापर-अनुपेक्षमाणो', and 'अनूकर्तो', 'विर्दिश्यमानां', 'तज्ञैः' are typos; the parallel colour passage (05.01.9) reads 'अनूकतो', 'निर्दिश्यमानां', 'तज्ज्ञैः'."
+ },
+ {
+  "id": "05.01.15",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "05.01.16",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "05.01.17a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading or connective line; short akshara count is normal."
+ },
+ {
+  "id": "05.01.26a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading or connective line; short akshara count is normal."
+ },
+ {
+  "id": "05.02.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "05.02.21a",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "",
+  "why": "Anushtubh pada is short (13 aksharas): a word seems missing in the first half, but nothing in the lines shows what it was."
+ },
+ {
+  "id": "05.02.23a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading or connective line; short akshara count is normal."
+ },
+ {
+  "id": "05.03.4",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "05.03.5",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "05.03.6",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "05.03.7a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading or connective line; short akshara count is normal."
+ },
+ {
+  "id": "05.04.15",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "05.04.27a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading or connective line; short akshara count is normal."
+ },
+ {
+  "id": "05.05.47a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading or connective line; short akshara count is normal."
+ },
+ {
+  "id": "05.06.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "05.06.25a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading or connective line; short akshara count is normal."
+ },
+ {
+  "id": "05.07.32a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading or connective line; short akshara count is normal."
+ },
+ {
+  "id": "05.08.27a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading or connective line; short akshara count is normal."
+ },
+ {
+  "id": "05.08.27b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "05.08.27c",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "05.09.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "05.09.23a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading or connective line; short akshara count is normal."
+ },
+ {
+  "id": "05.10.3a",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "सद्यस्तितिक्षतः प्राणाँल्लक्षणानि पृथक् पृथक्।",
+  "why": "'(अनुनासिक)' is a conversion marker and should be the anunasika: 'प्राणाँल्लक्षणानि'. ('तितिक्षतः' may be meant as 'तित्यक्षतः', but left unchanged.)"
+ },
+ {
+  "id": "05.10.21a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading or connective line; short akshara count is normal."
+ },
+ {
+  "id": "05.11.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "05.11.29a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading or connective line; short akshara count is normal."
+ },
+ {
+  "id": "05.12.40a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "05.12.90a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "05.12.90b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "07.01.3",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "",
+  "why": "'वमनविरेचनार्ह्तं' has an impossible conjunct (र्ह्त), and '- भेदार्थं विभागार्थं चेत्यर्थः' looks like a gloss; the intended reading cannot be fixed from these lines."
+ },
+ {
+  "id": "07.01.4",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "07.01.5",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "07.01.6",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "07.01.7",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "07.01.8",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "07.01.9",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "07.01.10",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "07.01.11",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "07.01.12",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "07.01.13",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "07.01.14",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "07.01.15",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "07.01.16",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "फलपिप्पलीनां द्वौ द्वौ भागौ कोविदारादिकषायेण त्रिःसप्तकृत्वः स्रावयेत्, तेन रसेन तृतीयं भागं पिष्ट्वा मात्रां हरीतकीभिर्बिभीतकैरामलैर्वा तुल्यां वर्तयेत्, तासामेकां द्वे वा पूर्वोक्तानां कषायाणामन्यतमस्याञ्जलिमात्रेण विमृद्य बलवच्छ्लेष्मप्रसेकग्रन्थिज्वरोदरारुचिषु पाययेदिति समानं पूर्वेण॥",
+  "why": "'कोचिदार' is a typo for 'कोविदार', the plant named first in the decoction list of 07.01.14 ('पूर्वोक्तानां कषायाणाम्')."
+ },
+ {
+  "id": "07.01.17",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "07.01.18",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "07.01.19",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "07.01.20",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "07.01.21",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "07.01.22",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "07.01.23",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose or regular verse with no visible typing error; unusual akshara count is expected."
+ },
+ {
+  "id": "07.01.24",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "फलपिप्पलीस्वरसकषायपरिभावितानि तिलशालितण्डुलपिष्टानि तत्कषायोपसर्जनानि शष्कुलीकल्पेन वा शाष्कुल्यः, पूपकल्पेन वा पूपाः, इति समानं पूर्वेण॥",
+  "why": "'तत्क्षायोपसर्जनानि' is missing a letter; it should be 'तत्कषायोपसर्जनानि', matching 'कषाय' earlier in the line and 'फलादिकषायोपसर्जनाः' in 07.01.21."
+ }
+]
