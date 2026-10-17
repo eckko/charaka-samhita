@@ -1,0 +1,422 @@
+[
+ {
+  "id": "02.01.30",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.01.31",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.01.33",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose list of prodromal signs; अश्र्वागमनं is regular sandhi, only a missing space after 'अरतिः,'."
+ },
+ {
+  "id": "02.01.34",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.01.35",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.01.36",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.01.37",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.01.38a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.01.42a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.02.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Chapter opening formula; reads correctly (only the closing ॥ is absent)."
+ },
+ {
+  "id": "02.02.4",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "",
+  "why": "Prose; '(खडयूष)' in parentheses with a space inside a compound may be an editorial insertion or the edition's own bracket; cannot tell from the lines given."
+ },
+ {
+  "id": "02.02.5",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.02.6",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "तस्येमानि पूर्वरूपाणि भवन्ति; तद्यथा---अनन्नाभिलाषः, भुक्तस्य विदाहः, शुक्ताम्लगन्धरस उद्गारः, छर्देरभीक्ष्णमागमनं, छर्दितस्य बीभत्सता, स्वरभेदो, गात्राणां सदनं, परिदाहः, मुखाद्धूमागम इव, लोहलोहितमत्स्यामगन्धित्वमिव चास्यस्य, रक्तहरितहारिद्रत्वमङ्गावयवशकृन्मूत्रस्वेदलालासिङ्गाणकास्यकर्णमलपिडकोलिकापिडकानाम्, अङ्गवेदना, लोहितनीलपीतश्यावानामर्चिष्मतां च रूपाणां स्वप्ने दर्शनमभीक्ष्णमिति (लोहितपित्तपूर्वरूपाणि भवन्ति)॥",
+  "why": "Prose list; hyphen inside the compound 'कर्णमल-पिडको...' looks like a print line-break leftover, but may be the edition's."
+ },
+ {
+  "id": "02.02.7",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.02.9",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "तत्र यदूर्ध्वभागं तत् साध्यं, विरेचनोपक्रमणीयत्वाद्बह्वौषधत्वाच्च; यदधोभागं तद्याप्यं, वमनोपक्रमणीयत्वादल्पौषधत्वाच्च; यदुभयभागं तदसाध्यं, वमनविरेचनायोगित्वादनौषधत्वाच्चेति॥",
+  "why": "Triad sādhya/yāpya/asādhya: 'तद्यथाप्यं' has a stray था; read तद्याप्यं."
+ },
+ {
+  "id": "02.02.10",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "रक्तपित्तप्रकोपस्तु खलु पुरा दक्षयज्ञोद्ध्वंसे रुद्रकोपामर्षाग्निना प्राणिनां परिगतशरीरप्राणानामभवज्ज्वरमनु॥",
+  "why": "'प्रणानाम्' is not a word; prāṇa needs the long ā (cf. प्राणिनां in the line)."
+ },
+ {
+  "id": "02.02.11",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.02.12a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.02.28a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.03.3",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.03.4",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.03.5",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.03.6",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "यदा पुरुषो वातलो विशेषेण ज्वरवमनविरेचनातीसाराणामन्यतमेन दर्शनेन कर्शितो वातलमाहारमाहरति, शीतं वा विशेषेणातिमात्रम्, अस्नेहपूर्वे वा वमनविरेचने पिबति, अनुदीर्णां वा छर्दिमुदीरयति, उदीर्णान् वातमूत्रपुरीषवेगान्निरुणद्धि, अत्यशितो वा पिबति नवोदकमतिमात्रम्, अतिसंक्षोभिणा वा यानेन याति, अतिव्यवायव्यायाममद्यशोकरुचिर्वा, अभिघातमृच्छति वा, विषमासनशयनस्थानचङ्क्रमणसेवी वा भवति, अन्यद्वा किंचिदेवंविधं विषममतिमात्रं व्यायामजातमारभते, तस्यापचाराद्वातः प्रकोपमापद्यते॥",
+  "why": "'उदीर्णन्' should be accusative plural उदीर्णान् (with वेगान्); posture compound needs आसन: विषमासनशयन."
+ },
+ {
+  "id": "02.03.7",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "स प्रकुपितो वायुर्महास्रोतोऽनुप्रविश्य रौक्ष्यात् कठिनीभूतमाप्लुत्य पिण्डितोऽवस्थानं करोति हृदि बस्तौ पार्श्वयोर्नाभ्यां वा; स शूलमुपजनयति ग्रन्थींश्चानेकविधान्, पिण्डितश्चावतिष्ठते, स पिण्डितत्वाद् ‘गुल्म’ इत्यभिधीयते; स मुहुराधमति, मुहुरल्पत्वमापद्यते; अनियतविपुलाणुवेदनश्च भवति चलत्वाद्वायोः, मुहुः पिपीलिकासंप्रचार इवाङ्गेषु, तोदभेदस्फुरणायामसङ्कोचसुप्तिहर्षप्रलयोदयबहुलः; तदातुरः सूच्येव शङ्कुनेव चाभिसंविद्धमात्मानं मन्यते, अपि च दिवसान्ते ज्वर्यते, शुष्यति चास्यास्यम्, उच्छ्वासश्चोपरुध्यते, हृष्यन्ति चास्य रोमाणि वेदनायाः प्रादुर्भावे; प्लीहाटोपान्त्रकूजनाविपाकोदावर्ताङ्गमर्दमन्याशिरःशङ्खशूलब्रध्नरोगाश्चैनमुपद्रवन्ति; कृष्णारुणपरुषत्वङ्नखनयनवदनमूत्रपुरीषश्च भवति, निदानोक्तानि चास्य नोपशेरते, विपरीतानि चोपशेरत इति वातगुल्मः॥",
+  "why": "'अवियतवुपुल' is garbled: वुपुल for विपुल, and अवियत for अनियत (irregular pain, explained by चलत्वाद्वायोः)."
+ },
+ {
+  "id": "02.03.8",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.03.9",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.03.10",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "तैरेव तु कर्शनैः कर्शितस्यात्यशनादतिस्निग्धगुरुमधुरशीताशनात् पिष्टेक्षुक्षीरतिलमाषगुडविकृतिसेवनान्मन्दकमद्यातिपानाद्धरितकातिप्रणयनादानूपौदकग्राम्यमांसातिभक्षणात् संधारणादबुभुक्षस्य चातिप्रगाढमुदपानात् संक्षोभणाद्वा शरीरस्य श्लेष्मा सह मारुतेन प्रकोपमापद्यते॥",
+  "why": "'प्रणनयात्' is a transposition of प्रणयनात् (use, consumption)."
+ },
+ {
+  "id": "02.03.11",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "तं प्रकुपितं मारुत आमाशयैकदेशे संवर्त्य तानेव वेदनाप्रकारानुपजनयति य उक्ता वातगुल्मे; श्लेष्मा त्वस्य शीतज्वरारोचकाविपाकाङ्गमर्दहर्षहृद्रोगच्छर्दिनिद्रालस्यस्तैमित्यगौरवशिरोभितापानुपजनयति, अपि च गुल्मस्य स्थैर्यगौरवकाठिन्यावगाढसुप्तताः, तथा कासश्वासप्रतिश्यायान् राजयक्ष्माणं चातिप्रवृद्धः, श्वैत्यं त्वङ्नखनयनवदनमूत्रपुरीषेषूपजनयति, निदानोक्तानि चास्य नोपशेरते, विपरीतानि चोपशेरत इति श्लेष्मगुल्मः॥",
+  "why": "Symptom list needs अरोचक (anorexia); compound sandhi gives शीतज्वरारोचक, 'रोचक' makes no sense."
+ },
+ {
+  "id": "02.03.12",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "त्रिदोषहेतुलिङ्गसन्निपाते तु सान्निपातिकं गुल्ममुपदिशन्ति कुशलाः।",
+  "why": "Broken letters: त्रिडोष/देतु for त्रिदोष/हेतु (cause and signs of the three doshas)."
+ },
+ {
+  "id": "02.03.13",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.03.14",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.03.15",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "एषां तु खलु पञ्चानां गुल्मानां प्रागभिनिर्वृत्तेरिमानि पूर्वरूपाणि भवन्ति; तद्यथा---अनन्नाभिलषणम्, अरोचकाविपाकौ, अग्निवैषम्यं, विदाहो भुक्तस्य, पाककाले चायुक्त्या छर्द्युद्गारौ, वातमूत्रपुरीषवेगानां चाप्रादुर्भावः, प्रादुर्भूतानां चाप्रवृत्तिरीषदागमनं वा, वातशूलाटोपान्त्रकूजनापरिहर्षणातिवृत्तपुरीषताः, अबुभुक्षा, दौर्बल्यं, सौहित्यस्य चासहत्वमिति॥",
+  "why": "'अभिनिएवृत्ति' is an impossible sequence; read अभिनिर्वृत्तेः."
+ },
+ {
+  "id": "02.03.16",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.03.17a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.03.18a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.04.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.04.3",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.04.4",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.04.5",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "तत्रेमे त्रयो निदानादिविशेषाः श्लेष्मनिमित्तानां प्रमेहाणामाश्वभिनिर्वृत्तिकरा भवन्ति; तद्यथा---हायनकयवकचीनकोद्दालकनैषधेत्कटमुकुन्दकमहाव्रीहिप्रमोदकसुगन्धकानां नवानामतिवेलमतिप्रमाणेन चोपयोगः, तथा सर्पिष्मतां नवहरेणुमाषसूप्यानां, ग्राम्यानूपौदकानां च मांसानां, शाकतिलपललपिष्टान्नपायसकृशराविलेपीक्षुविकाराणां, क्षीरनवमद्यमन्दकदधिद्रवमधुरतरुणप्रायाणां चोपयोगः, मृजाव्यायामवर्जनं, स्वप्नशयनासनप्रसङ्गः, यश्च कश्चिद्विधिरन्योऽपि श्लेष्ममेदोमूत्रसंजननः, स सर्वो निदानविशेषः॥",
+  "why": "Legume list: हरेणु (pea) with माष; 'हरेशु' is not a word."
+ },
+ {
+  "id": "02.04.7",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.04.8",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.04.9",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.04.10",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.04.11",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "ते दश प्रमेहाः साध्याः; समानगुणमेदःस्थानकत्वात्, कफस्य प्राधान्यात्, समक्रियत्वाच्च॥",
+  "why": "'मेहः' cannot form an s-stem compound; meant मेदः (cf. संसृष्टदोषमेदःस्थानत्वात् in 02.04.27)."
+ },
+ {
+  "id": "02.04.12",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.04.24",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.04.25",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.04.26",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.04.27",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.04.28",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.04.35",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.04.36",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.04.37",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "स प्रकुपितस्तथाविधे शरीरे विसर्पन् यदा वसामादाय मूत्रवहानि स्रोतांसि प्रतिपद्यते तदा वसामेहमभिनिर्वर्तयति; यदा पुनर्मज्जानं मूत्रबस्तावाकर्षति तदा मज्जमेहमभिनिर्वर्तयति; यदा तु लसीकां मूत्राशयेऽभिवहन्मूत्रमनुबन्धं च्योतयति लसीकातिबहुत्वाद्विक्षेपणाच्च वायोः खल्वस्यातिमूत्रप्रवृत्तिसङ्गं करोति, तदा स मत्त इव गजः क्षरत्यजस्रं मूत्रमवेगं, तं हस्तिमेहिनमाचक्षते; ओजः पुनर्मधुरस्वभावं, तद् यदा रौक्ष्याद्वायुः कषायत्वेनाभिसंसृज्य मूत्राशयेऽभिवहति तदा मधुमेहं करोति॥",
+  "why": "'बगुत्व' is a typo for बहुत्व; 'औजः' is a wrong vowel for ओजः."
+ },
+ {
+  "id": "02.04.38",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.04.39",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.04.40",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.04.47",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "त्रयस्तु खलु दोषाः प्रकुपिताः प्रमेहानभिनिर्वर्तयिष्यन्त इमानि पूर्वरूपाणि दर्शयन्ति; तद्यथा---जटिलीभावं केशेषु, माधुर्यमास्यस्य, करपादयोः सुप्ततादाहौ, मुखतालुकण्ठशोषं, पिपासाम्, आलस्यं, मलं काये, कायच्छिद्रेषूपदेहं, परिदाहं सुप्ततां चाङ्गेषु, षट्पदपिपीलिकाभिश्च शरीरमूत्राभिसरणं, मूत्रे च मूत्रदोषान्, विस्रं शरीरगन्धं, निद्रां, तन्द्रां च सर्वकालमिति॥",
+  "why": "All listed signs are accusative objects of दर्शयन्ति (निद्रां, ...); तन्द्रा needs anusvara."
+ },
+ {
+  "id": "02.04.48",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.04.49",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose sentence or heading; no fixed metre, text reads correctly."
+ },
+ {
+  "id": "02.04.50",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Heading 'भवन्ति चात्र---' joined to an anushtubh pada; text itself is correct."
+ }
+]
