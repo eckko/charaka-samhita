@@ -1,0 +1,422 @@
+[
+ {
+  "id": "03.06.9",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "नियतस्त्वनुबन्धो रजस्तमसोः परस्परं, न ह्यरजस्कं तमः प्रवर्तते॥",
+  "why": "Stray '*' editorial marker before प्रवर्तते."
+ },
+ {
+  "id": "03.07.P22",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "04.03.13",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "05.07.7b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "01.06.23a",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "तस्माद्वसन्ते कर्माणि वमनादीनि कारयेत् ।",
+  "why": "कारेयेत् is a typo for the causative optative कारयेत्."
+ },
+ {
+  "id": "01.13.74b",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "सर्वं ह्यनुरजेद्देहं हत्वा संज्ञां च मारयेत्॥",
+  "why": "The absolutive of हन् is हत्वा; हन्त्वा is not a form (मारयेत् itself is fine)."
+ },
+ {
+  "id": "01.25.44a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "06.25.102b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "08.03.P1",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "इत्यग्निवेशकृते तन्त्रे चरकप्रतिसंस्कृतेऽप्राप्ते दृढबलसंपूरिते सिद्धिस्थाने बस्तिसूत्रीयसिद्धिर्नाम तृतीयोऽध्यायः॥",
+  "why": "Broken anusvara/virama sequence in the standard colophon word दृढबलसंपूरिते."
+ },
+ {
+  "id": "06.05.168b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "06.01.P30",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "06.12.55a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "06.15.223a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "01.27.293b",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "विदाहि च विशेषेण सर्वदोषप्रकोपणम्॥",
+  "why": "च for व typo: विशेषेण."
+ },
+ {
+  "id": "02.06.10",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "विषमाशनं शोषस्यायतनमिति यदुक्तं, तदनुव्याख्यास्यामः---यदा पुरुषः पानाशनभक्ष्यलेह्योपयोगान् प्रकृतिकरणसंयोगराशिदेशकालोपयोगसंस्थोपशयविषमानासेवते, तदा तस्य तेभ्यो वातपित्तश्लेष्माणो वैषम्यमापद्यन्ते; ते विषमाः शरीरमनुसृत्य यदा स्रोतसामयनमुखानि प्रतिवार्यावतिष्ठन्ते तदा जन्तुर्यद्यदाहारजातमाहरति तत्तदस्य मूत्रपुरीषमेवोपजायते भूयिष्ठं नान्यस्तथा शरीरधातुः; स पुरीषोपष्टम्भाद्वर्तयति, तस्माच्छुष्यतो विशेषेण पुरीषमनुरक्ष्यं तथान्येषामतिकृशदुर्बलानां; तस्यानाप्यायमानस्य विषमाशनोपचिता दोषाः पृथक् पृथगुपद्रवैर्युञ्जन्तो भूयः शरीरमुपशोषयन्ति।",
+  "why": "विशेषण should be विशेषेण, and उपद्रवैयुञ्जन्तो lacks the र् of the instrumental (उपद्रवैर्युञ्जन्तो)."
+ },
+ {
+  "id": "01.26.71b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "01.26.105b",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "विरुद्धाशनजान् रोगान् प्रतिहन्ति विरेचनम् ।",
+  "why": "Context lists purificatory measures (वमनं शमनं...); विवेचनम् is a typo for विरेचनम्."
+ },
+ {
+  "id": "01.27.143a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "06.26.25a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "06.08.38b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "06.30.116a",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "शमयित्वा तमन्यस्य कुर्याद्दोषस्य भेषजम्।",
+  "why": "म for भ typo: भेषजम्."
+ },
+ {
+  "id": "01.08.19",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "नानृतं ब्रूयात्, नान्यस्वमाददीत, नान्यस्त्रियमभिलषेन्नान्यश्रियं, न वैरं रोचयेत्, न कुर्यात् पापं, न पापेऽपि पापी स्यात्, नान्यदोषान् ब्रूयात्, नान्यरहस्यमागमयेन्, नाधार्मिकैर्न नरेन्द्रद्विष्टैः सहासीत नोन्मत्तैर्न पतितैर्न भ्रूणहन्तृभिर्न क्षुद्रैर्न दुष्टैः, न दुष्टयानान्यारोहेत, न जानुसमं कठिनमासनमध्यासीत, नानास्तीर्णमनुपहितमविशालमसमं वा शयनं प्रपद्येत, न गिरिविषममस्तकेष्वनुचरेत्, न द्रुममारोहेत्, न जलोग्रवेगमवगाहेत, न कुलच्छायामुपासीत, नाग्न्युत्पातमभितश्चरेत्, नोच्चैर्हसेत्, न शब्दवन्तं मारुतं मुञ्चेत्, नानावृतमुखो जृम्भां क्षवथुं हास्यं वा प्रवर्तयेत्, न नासिकां कुष्णीयात्, न दन्तान् विघट्टयेत्, न नखान् वादयेत्, नास्थीन्यभिहन्यात्, न भूमिं विलिखेत्, न छिन्द्यात्तृणं, न लोष्टं मृद्नीयात्, न विगुणमङ्गैश्चेष्टेत, ज्योतींष्यनिष्टममेध्यमशस्तं च नाभिवीक्षेत, न हुंकुर्याच्छवं, न चैत्यध्वजगुरुपूज्याशस्तच्छायामाक्रामेत्, न क्षपास्वमरसदनचैत्यचत्वरचतुष्पथोपवनश्मशानाघातनान्यासेवेत, नैकः शून्यगृहं न चाटवीमनुप्रविशेत्, न पापवृत्तान् स्त्रीमित्रभृत्यान् भजेत, नोत्तमैर्विरुध्येत, नावरानुपासीत, न जिह्मं रोचयेत्, नानार्यमाश्रयेत्, न भयमुत्पादयेत्, न साहसातिस्वप्नप्रजागरस्नानपानाशनान्यासेवेत, नोर्ध्वजानुश्चिरं तिष्ठेत्, न व्यालानुपसर्पेन्न दंष्ट्रिणो न विषाणिनः, पुरोवातातपावश्यायातिप्रवाताञ्जह्यात्, कलिं नारभेत, नासुनिभृतोऽग्निमुपासीत नोच्छिष्टः, नाधः कृत्वा प्रतापयेत्, नाविगतक्लमो नानाप्लुतवदनो न नग्न उपस्पृशेत्, न स्नानशाट्या स्पृशेदुत्तमाङ्गं, न केशाग्राण्यभिहन्यात्, नोपस्पृश्य ते एव वाससी बिभृयात्, नास्पृष्ट्वा रत्नाज्यपूज्यमङ्गलसुमनसोऽभिनिष्क्रामेत्, न पूज्यमङ्गलान्यपसव्यं गच्छेन्नेतराण्यनुदक्षिणम् ॥",
+  "why": "प्रतापयेत् is fine, but the line has typos: मृद्गीयात् for मृद्नीयात्, चत्युष्पथ for चतुष्पथ, नोच्छैर् for नोच्चैर्."
+ },
+ {
+  "id": "06.15.118a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "06.24.128b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "06.12.11a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "08.03.4a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "03.02.15b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "01.27.P1",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "तत् स्वभावादुदकं क्लेदयति, लवणं विष्यन्दयति, क्षारः पाचयति, मधु संदधाति, सर्पिः स्नेहयति, क्षीरं जीवयति, मांसं बृंहयति, रसः प्रीणयति, सुरा जर्जरीकरोति, शीधुरवधमति, द्राक्षासवो दीपयति, फाणितमाचिनोति, दधि शोफं जनयति, पिण्याकशाकं ग्लपयति, प्रभूतान्तर्मलो माषसूपः, दृष्टिशुक्रघ्नः क्षारः, प्रायः पित्तलमम्लमन्यत्र दाडिमामलकात्, प्रायः श्लेष्मलं मधुरमन्यत्र मधुनः पुराणाच्च शालिषष्टिकयवगोधूमात्, प्रायस्तिक्तं वातलमवृष्यं चान्यत्र वेगाग्रामृतापटोलपत्रात्, प्रायः कटुकं वातलमवृष्यं चान्यत्र पिप्पलीविश्वभेषजात्॥",
+  "why": "जीवयति is fine; but उदक्तं should be उदकं and प्रायस्तिकं should be प्रायस्तिक्तं (तिक्तं, parallel to कटुकं/अम्लम्)."
+ },
+ {
+  "id": "06.13.77b",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "समीक्ष्य कारयेद्बाहौ वामे वा व्यधयेत् सिराम्॥",
+  "why": "वाने makes no sense; the spleen is left-sided, so वामे (left) arm; व्यधयेत् is fine."
+ },
+ {
+  "id": "06.23.82b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "06.30.189b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "01.12.10",
+  "kind": "typo?",
+  "verdict": "unsure",
+  "suggest": "सहसा प्रकुपितमतिप्रयतः",
+  "why": "असहसा is not a usual word here; possibly सहसा, but the negated sense cannot be ruled out from the context."
+ },
+ {
+  "id": "01.18.14a",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "यस्य शस्त्रकुशच्छिन्नाच्छोणितं न प्रवर्तते ।",
+  "why": "Missing र्: प्रवर्तते."
+ },
+ {
+  "id": "06.11.11b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "06.13.36a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "01.08.21",
+  "kind": "typo?",
+  "verdict": "unsure",
+  "suggest": "मङ्गलक्रियासु",
+  "why": "जनवति (locative of जनवत्, a crowded place) is correct; but मङ्गलाक्रियासु with long ā looks odd, possibly मङ्गलक्रियासु."
+ },
+ {
+  "id": "02.08.15b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "03.08.80",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "04.08.P55",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "03.08.P14",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "तथाविधेन सह कथयन् विस्रब्धः कथयेत्, पृच्छेदपि च विस्रब्धः, पृच्छते चास्मै विस्रब्धाय विशदमर्थं ब्रूयात्, न च निग्रहभयादुद्विजेत, निगृह्य चैनं न हृष्येत्, न च परेषु विकत्थेत, न च मोहादेकान्तग्राही स्यात्, न चाविदितमर्थमनुवर्णयेत्, सम्यक् चानुनयेनानुनयेत्, तत्र चावहितः स्यात्।",
+  "why": "Stray '*' editorial marker."
+ },
+ {
+  "id": "06.21.42",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "तत्र वातपित्तश्लेष्मनिमित्ता विसर्पास्त्रयः साध्या भवन्ति; अग्निकर्दमाख्यौ पुनरनुपसृष्टे मर्मणि अनुपगते वा सिरास्नायुमांसक्लेदे साधारणक्रियाभिरुभावेवाभ्यस्यमानौ प्रशान्तिमापद्येयाताम्, अनादरोपक्रान्तः पुनस्तयोरन्यतरो हन्याद्देहमाश्वेवाशीविषवत्; तथा ग्रन्थिविसर्पमजातोपद्रवमारभेत चिकित्सितुम्, उपद्रवोपद्रुतं त्वेनं परिहरेत्; सन्निपातजं तु सर्वधात्वनुसारित्वादाशुकारित्वाद्विरुद्धोपक्रमत्वाच्चासाध्यं विद्यात्॥",
+  "why": "चिकित्सितुम् is a correct infinitive, but उभाअवेव is a conversion leftover for उभावेव and साध्याभवन्ति needs a space."
+ },
+ {
+  "id": "06.04.103b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "06.06.15b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "06.18.67a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "08.07.47b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "03.01.24",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "03.08.82",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "स यदुत्तरं ब्रूयात्तत् समीक्ष्योत्तरं वाच्यं स्याद्यथोक्तं च प्रतिवचनविधिमवेक्ष्य; सम्यक् यदि तु ब्रूयान्न चैनं मोहयितुमिच्छेत्, प्राप्तं तु वचनकालं मन्येत, काममस्मै ब्रूयादाप्तमेव निखिलेन॥",
+  "why": "Stray '*' editorial marker."
+ },
+ {
+  "id": "05.08.7b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "01.13.56b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "01.14.46",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "अथ जेन्ताकं चिकीर्षुर्भूमिं परीक्षेत --- तत्र पूर्वस्यां दिश्युत्तरस्यां वा गुणवति प्रशस्ते भूमिभागे कृष्णमधुरमृत्तिके सुवर्णमृत्तिके वा परीवापपुष्करिण्यादीनां जलाशयानामन्यतमस्य कूले दक्षिणे पश्चिमे वा सूपतीर्थे समसुविभक्तभूमिभागे सप्ताष्टौ वारत्नीरुपक्रम्योदकात् प्राङ्मुखमुदङ्मुखं वाभिमुखतीर्थं कूटागारं कारयेत्, उत्सेधविस्तारतः परमरत्नीः षोडश, समन्तात् सुवृत्तं मृत्कर्मसंपन्नमनेकवातायनम्; अस्य कूटागारस्यान्तः समन्ततो भित्तिमरत्निविस्तारोत्सेधां पिण्डिकां कारयेदाकपाटात्, मध्ये चास्य कूटागारस्य चतुष्किष्कुमात्रं पुरुषप्रमाणं मृन्मयं कन्दुसंस्थानं बहुसूक्ष्मच्छिद्रमङ्गारकोष्ठकस्तम्भं सपिधानं कारयेत्; तं च खादिराणामाश्वकर्णादीनां वा काष्ठानां पूरयित्वा प्रदीपयेत्; स यदा जानीयात् साधु दग्धानि काष्ठानि गतधूमान्यवतप्तं च केवलमग्निना तदग्निगृहं स्वेदयोग्येन चोष्मणा युक्तमिति, तत्रैनं पुरुषं वातहराभ्यक्तगात्रं वस्त्रावच्छन्नं प्रवेशयंश्चैनमनुशिष्यात् --- सौम्य! प्रविश कल्याणायारोग्याय चेति, प्रविश्य चैनां पिण्डिकामधिरुह्य पार्श्वापरपार्श्वाभ्यां यथासुखं शयीथाः, न च त्वया स्वेदमूर्च्छापरीतेनापि सता पिण्डिकैषा विमोक्तव्याप्राणोच्छ्वासात्, भ्रश्यमानो ह्यतः पिण्डिकावकाशाद्द्वारमनधिगच्छन् स्वेदमूर्च्छापरीततया सद्यः प्राणाञ्जह्याः, तस्मात् पिण्डिकामेनां न कथं चन मुञ्चेथाः; त्वं यदा जानीयाः --- विगताभिष्यन्दमात्मानं सम्यक्प्रस्रुतस्वेदपिच्छं सर्वस्रोतोविमुक्तं लघूभूतमपगतविबन्धस्तम्भसुप्तिवेदनागौरवमिति, ततस्तां पिण्डिकामनुसरन् द्वारं प्रपद्येथाः, निष्क्रम्य च न सहसा चक्षुषोः परिपालनार्थं शीतोदकमुपस्पृशेथाः, अपगतसन्तापक्लमस्तु मुहूर्तात् सुखोष्णेन वारिणा यथान्यायं परिषिक्तोऽश्नीयाः; इति जेन्ताकस्वेदः॥",
+  "why": "प्रदीपयेत् is fine, but कृटागारस्ःयान्तः, पिण्डिवका and शौम्य are typos for कूटागारस्यान्तः, पिण्डिका, सौम्य."
+ },
+ {
+  "id": "06.13.68b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "01.27.325",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "06.21.39",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "स्थिरगुरुकठिनमधुरशीतस्निग्धान्नपानाभिष्यन्दिसेविनामव्यायामादिसेविनामप्रतिकर्मशीलानां श्लेष्मा वायुश्च प्रकोपमापद्यते, तावुभौ दुष्टप्रवृद्धावतिबलौ प्रदूष्य दूष्यान् विसर्पाय कल्पेते; तत्र वायुः श्लेष्मणा विबद्धमार्गस्तमेव श्लेष्माणमनेकधा भिन्दन् क्रमेण ग्रन्थिमालां कृच्छ्रपाकसाध्यां कफाशये संजनयति, उत्सन्नरक्तस्य वा प्रदूष्य रक्तं सिरास्नायुमांसत्वगाश्रितं ग्रन्थीनां मालां कुरुते तीव्ररुजानां स्थूलानामणूनां वा दीर्घवृत्तरक्तानां, तदुपतापाज्ज्वरातिसारकासहिक्काश्वासशोषप्रमोहवैवर्ण्यारोचकाविपाकप्रसेकच्छर्दिर्मूर्च्छाङ्गभङ्गनिद्रारतिसदनाद्याः प्रादुर्भवन्त्युपद्रवाः; स एतैरुपद्रुतः सर्वकर्मणां विषयमतिपतितो विवर्जनीयो भवतीति ग्रन्थिविसर्पः॥",
+  "why": "संजनयति is fine, but मूर्च्छङ्ग lacks the ā of मूर्च्छा (मूर्च्छाङ्गभङ्ग)."
+ },
+ {
+  "id": "01.06.22b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "01.28.44a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "06.04.99a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "01.26.99c",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Valid word (prefixed/compound or correct form) fitting the sense; no typing error seen."
+ },
+ {
+  "id": "02.02.9",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "तत्र यदूर्ध्वभागं तत् साध्यं, विरेचनोपक्रमणीयत्वाद्बह्वौषधत्वाच्च; यदधोभागं तद्याप्यं, वमनोपक्रमणीयत्वादल्पौषधत्वाच्च; यदुभयभागं तदसाध्यं, वमनविरेचनायोगित्वादनौषधत्वाच्चेति॥",
+  "why": "The triad is साध्यं / याप्यं / असाध्यं; तद्यथाप्यं is a typo for तद्याप्यं."
+ },
+ {
+  "id": "06.04.77c",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "",
+  "why": "Editor's footnote (commentary note about Yogindranath Sen's reading) typed into the line; not root text, should be removed."
+ },
+ {
+  "id": "01.12.P2",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "यानि तु खलु वायोः कुपिताकुपितस्य शरीराशरीरचरस्य शरीरेषु चरतः कर्माणि बहिःशरीरेभ्यो वा भवन्ति, तेषामवयवान् प्रत्यक्षानुमानोपदेशैः साधयित्वा नमस्कृत्य वायवे यथाशक्ति प्रवक्ष्यामः वायुस्तन्त्रयन्त्रधरः, प्राणोदानसमानव्यानापानात्मा, प्रवर्तकश्चेष्टानामुच्चावचानां, नियन्ता प्रणेता च मनसः, सर्वेन्द्रियाणामुद्योजकः, सर्वेन्द्रियार्थानामभिवोढा, सर्वशरीरधातुव्यूहकरः, सन्धानकरः शरीरस्य, प्रवर्तको वाचः, प्रकृतिः स्पर्शशब्दयोः, श्रोत्रस्पर्शनयोर्मूलं, हर्षोत्साहयोर्योनिः, समीरणोऽग्नेः, दोषसंशोषणः, क्षेप्ता बहिर्मलानां, स्थूलाणुस्रोतसां भेत्ता, कर्ता गर्भाकृतीनाम्, आयुषोऽनुवृत्तिप्रत्ययभूतो भवत्यकुपितः ।",
+  "why": "प्रवर्तको is fine, but अनुव्रृत्ति has a broken conjunct: अनुवृत्ति."
+ }
+]
