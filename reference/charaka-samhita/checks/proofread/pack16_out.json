@@ -1,0 +1,422 @@
+[
+ {
+  "id": "06.17.151a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.18.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.18.11a",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "",
+  "why": "Anushtubh pada has 14 aksharas and 'स्वरोभेद' is odd (expected स्वरभेद); something may be missing but no clear fix."
+ },
+ {
+  "id": "06.18.46c",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.18.114a",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "",
+  "why": "Anushtubh pada has only 14 aksharas; a word may be missing, no visible fix."
+ },
+ {
+  "id": "06.18.191a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.19.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.19.3",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.19.4",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "अथ भगवान् पुनर्वसुरात्रेयस्तदग्निवेशवचनमनुनिशम्योवाच --- श्रूयतामग्निवेश! सर्वमेतदखिलेन व्याख्यायमानम्।",
+  "why": "'वाख्यायमानम्' is a typo for 'व्याख्यायमानम्'."
+ },
+ {
+  "id": "06.19.5",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "अथावरकालं वातलस्य वातातपव्यायामातिमात्रिनिषेविणो रूक्षाल्पप्रमिताशिनस्तीक्ष्णमद्यव्यवायनित्यस्योदावर्तयतश्च वेगान् वायुः प्रकोपमापद्यते, पक्ता चोपहन्यते; स वायुः कुपितोऽग्नावुपहते मूत्रस्वेदौ पुरीषाशयमुपहृत्य, ताभ्यां पुरीषं द्रवीकृत्य, अतीसाराय प्रकल्पते।",
+  "why": "'अतिमात्रि' should be 'अतिमात्र' (as in the next line), and the stray ';' splits subject from verb."
+ },
+ {
+  "id": "06.19.6",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.19.7",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "श्लेष्मलस्य तु गुरुमधुरशीतस्निग्धोपसेविनः संपूरकस्याचिन्तयतो दिवास्वप्नपरस्यालसस्य श्लेष्मा प्रकोपमापद्यते।",
+  "why": "Missing space: 'श्लेष्मा प्रकोपमापद्यते', parallel to 'पित्तं प्रकोपमापद्यते'."
+ },
+ {
+  "id": "06.19.8",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "अतिशीतस्निग्धरूक्षोष्णगुरुखरकठिनविषमविरुद्धासात्म्यभोजनादभोजनात् कालातीतभोजनाद् यत्किंचिदभ्यवहरणात् प्रदुष्टमद्यपानीयपानादतिमद्यपानादसंशोधनात् प्रतिकर्मणां विषमगमनादनुपचाराज्ज्वलनादित्यपवनसलिलातिसेवनादस्वप्नादतिस्वप्नाद्वेगविधाराणादृतुविपर्ययादयथाबलमारम्भाद्भयशोकचित्तोद्वेगातियोगात् कृमिशोषज्वरार्शोविकारातिकर्षणाद्वा व्यापन्नाग्नेस्त्रयो दोषाः प्रकुपिता भूय एवाग्निमुपहत्य पक्वाशयमनुप्रविश्यातीसारं सर्वदोषलिङ्गं जनयन्ति॥",
+  "why": "'विधाराणाद्' is a typo for 'विधारणाद्'."
+ },
+ {
+  "id": "06.19.9",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.19.10",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.19.43c",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.19.50",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.19.123a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.20.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.20.48a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.20.48b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.21.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.21.30",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.21.32",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "तस्य रूपाणि---ज्वरस्तृष्णा मूर्च्छा मोहश्छर्दिररोचकोऽङ्गभेदः स्वेदोऽतिमात्रमन्तर्दाहः प्रलापः शिरोरुक् चक्षुषोराकुलत्वमस्वप्नमरतिर्भ्रमः शीतवातवारितर्षोऽतिमात्रं हरितहारिद्रनेत्रमूत्रवर्चस्त्वं हरितहारिद्ररूपदर्शनं च, यस्मिंश्चावकाशे विसर्पोऽनुसर्पति सोऽवकाशस्ताम्रहरितहारिद्रनीलकृष्णरक्तानां वर्णानामन्यतमं पुष्यति, सोत्सेधैश्चातिमात्रं दाहसंभेदनपरीतैः स्फोटकैरुपचीयते तुल्यवर्णास्रावैश्चिरपाकैश्च, निदानोक्तानि चास्य नोपशेरते विपरीतानि चोपशेरत इति पित्तविसर्पः॥",
+  "why": "'चोपशेरति इति' should be 'चोपशेरत इति', as in the parallel vata and kapha paragraphs."
+ },
+ {
+  "id": "06.21.34",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.21.36",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "तदुपतापादातुरः सर्वशरीरमङ्गारैरिवाकीर्यमाणं मन्यते, छर्द्यतीसारमूर्च्छादाहमोहज्वरतमकारोचकास्थिसंधिभेदतृष्णाविपाकाङ्गभेदादिभिश्चाभिभूयते, यं यं चावकाशं विसर्पोऽनुसर्पति सोऽवकाशः शान्ताङ्गारप्रकाशोऽतिरक्तो वा भवति, अग्निदग्धप्रकारैश्च स्फोटैरुपचीयते, स शीघ्रगत्वादाश्वेव मर्मानुसारी भवति, मर्मणि चोपतप्ते पवनोऽतिबलो भिनत्त्यङ्गान्यतिमात्रं प्रमोहयति संज्ञां, हिक्काश्वासौ जनयति, नाशयति निद्रां, स नष्टनिद्रः प्रमूढसंज्ञो व्यथितचेता न क्वचन सुखमुपलभते, अरतिपरीतः स्थानादासनाच्छय्यां क्रान्तुमिच्छति, क्लिष्टभूयिष्ठश्चाशु निद्रां भजति, दुर्बलो दुःखप्रबोधश्च भवति; तमेवंविधमग्निविसर्पपरीतमचिकित्स्यं विद्यात्॥",
+  "why": "'भूयिष्ट' is a typo for 'भूयिष्ठ'."
+ },
+ {
+  "id": "06.21.38",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "तद्विकाराः---शीतज्वरः शिरोगुरुत्वं दाहः स्तैमित्यमङ्गावसदनं निद्रा तन्द्रा मोहोऽन्नद्वेषः प्रलापोऽग्निनाशो दौर्बल्यमस्थिभेदो मूर्च्छा पिपासा स्रोतसां प्रलेपो जाड्यमिन्द्रियाणां प्रायोपवेशनमङ्गविक्षेपोऽङ्गमर्दोऽरतिरौत्सुक्यं चोपजायते, प्रायश्चामाशये विसर्पत्यलसक एकदेशग्राही च, यस्मिंश्चावकाशे विसर्पो विसर्पति सोऽवकाशो रक्तपीतपाण्डुपिडकावकीर्ण इव मेचकाभः कालो मलिनः स्निग्धो बहूष्मा गुरुः स्तिमितवेदनः श्वयथुमान् गम्भीरपाको निरास्रावः शीघ्रक्लेदः स्विन्नक्लिन्नपूतिमांसत्वक् क्रमेणाल्परुक् परामृष्टोऽवदीर्यते कर्दम इवावपीडितोऽन्तरं प्रयच्छत्युपक्लिन्नपूतिमांसत्यागी सिरास्नायुसंदर्शी कुणपगन्धी च भवति संज्ञास्मृतिहन्ता च; तं कर्दमविसर्पपरीतमचिकित्स्यं विद्यात्॥",
+  "why": "'स्निधो' should be 'स्निग्धो' and 'केअमेण' (broken conversion) should be 'क्रमेण'."
+ },
+ {
+  "id": "06.21.39",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "स्थिरगुरुकठिनमधुरशीतस्निग्धान्नपानाभिष्यन्दिसेविनामव्यायामादिसेविनामप्रतिकर्मशीलानां श्लेष्मा वायुश्च प्रकोपमापद्यते, तावुभौ दुष्टप्रवृद्धावतिबलौ प्रदूष्य दूष्यान् विसर्पाय कल्पेते; तत्र वायुः श्लेष्मणा विबद्धमार्गस्तमेव श्लेष्माणमनेकधा भिन्दन् क्रमेण ग्रन्थिमालां कृच्छ्रपाकसाध्यां कफाशये संजनयति, उत्सन्नरक्तस्य वा प्रदूष्य रक्तं सिरास्नायुमांसत्वगाश्रितं ग्रन्थीनां मालां कुरुते तीव्ररुजानां स्थूलानामणूनां वा दीर्घवृत्तरक्तानां, तदुपतापाज्ज्वरातिसारकासहिक्काश्वासशोषप्रमोहवैवर्ण्यारोचकाविपाकप्रसेकच्छर्दिर्मूर्च्छाङ्गभङ्गनिद्रारतिसदनाद्याः प्रादुर्भवन्त्युपद्रवाः; स एतैरुपद्रुतः सर्वकर्मणां विषयमतिपतितो विवर्जनीयो भवतीति ग्रन्थिविसर्पः॥",
+  "why": "'मूर्च्छङ्ग' lacks the long ā: 'मूर्च्छाङ्ग'."
+ },
+ {
+  "id": "06.21.40",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.21.41",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.21.42",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "तत्र वातपित्तश्लेष्मनिमित्ता विसर्पास्त्रयः साध्या भवन्ति; अग्निकर्दमाख्यौ पुनरनुपसृष्टे मर्मणि अनुपगते वा सिरास्नायुमांसक्लेदे साधारणक्रियाभिरुभाअवेवाभ्यस्यमानौ प्रशान्तिमापद्येयाताम्, अनादरोपक्रान्तः पुनस्तयोरन्यतरो हन्याद्देहमाश्वेवाशीविषवत्; तथा ग्रन्थिविसर्पमजातोपद्रवमारभेत चिकित्सितुम्, उपद्रवोपद्रुतं त्वेनं परिहरेत्; सन्निपातजं तु सर्वधात्वनुसारित्वादाशुकारित्वाद्विरुद्धोपक्रमत्वाच्चासाध्यं विद्यात्॥",
+  "why": "'उभाअवेवा' is a broken conversion of 'उभावेवा'; 'साध्याभवन्ति' needs a space."
+ },
+ {
+  "id": "06.21.43",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.21.82b",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "(पृथगेते प्रदेहाश्च हिता ज्ञेया विसर्पिणाम्।) प्रपौण्डरीकं मधुकं बला शालूकमुत्पलम्॥",
+  "why": "'पृह्तगेते' is a garbled 'पृथगेते' (IAST th mistyped as ht)."
+ },
+ {
+  "id": "06.21.144a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.22.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.22.3a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.22.4a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.22.4b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.22.5a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.22.6a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.22.6b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.22.7a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.22.8a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.22.9a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.22.10a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.22.11a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.22.12",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.22.13a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.22.15a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.22.16a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.22.18a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.22.19a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.22.21a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.22.22a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.22.23a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.22.24a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.22.24b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.22.25a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.22.26b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ },
+ {
+  "id": "06.22.27a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose, heading, colophon or regular verse line; no typing error seen."
+ }
+]
