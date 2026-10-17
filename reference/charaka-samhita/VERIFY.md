@@ -8,3 +8,10 @@ Dated log of the verification stage (skill verify-vedic-book-reference). Appende
 - tools/*.py = the extraction tools written for this book; reference/tools/check_extraction.py = checker. Not book text.
 - text/p03.md was reported "binary-or-unknown-encoding" by inventory.py: false alarm. The file is valid UTF-8 (checked); the tool decodes only the first 200,000 bytes and cuts a multi-byte character in half. Not changed.
 - Second edition: not available. Translations: none exist yet.
+
+## 2026-10-18 completeness and checks
+- structure_check.py: no flags (8 sthānas, 120 chapters, 19,540 lines). check_extraction.py: 0 errors, 0 warnings (ID_RE widened for dotted verse numbers, see FORMAT.md §6).
+- word_check.py run (checks/word_check.md, stray.tsv 168, typos.tsv 90, metre.tsv 1806). Second edition: not available, skipped.
+- Hyphen/bracket characters inside Sanskrit lines were left as the source has them.
+- proofread_pack.py: 37 packs, one agent each, 2,178 items answered; 568 proposals; sample error rate 13/114 = 11.4%. Summary in ISSUES.md. Memory-sourced suggestions and neighbouring-line typos are noted there as unverified.
+- text/ unchanged. Nothing is called "verified" beyond these checks.
