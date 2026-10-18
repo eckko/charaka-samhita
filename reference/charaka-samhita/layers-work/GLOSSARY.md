@@ -35,3 +35,6 @@ Draft status: AI drafts, not read by a person.
 - añjana = collyrium (अञ्जन); sauvīrāñjana, rasāñjana kept; āścyotana = eye-drops (आश्च्योतन); varti = wick (वर्ति); dhūmapāna = smoking (धूमपान)
 - smoking kinds: prāyogikī = regular, snaihikī = unctuous, mūrdhavirecana = head-evacuating (prāyogikī/snaihikī agree with varti, feminine)
 - mātrā = measure (मात्रा); guru/laghu = heavy/light (गुरु/लघु); svasthavṛtta = regimen of the healthy (स्वस्थवृत्त); nāvana = nasal therapy (नावन)
+- tvak/tvac (plant bark) = bark (छाल), not त्वचा; payas/kṣīra in Hindi = दूध, never पय (chagalīpayas = बकरी का दूध)
+- pradeha = plaster (प्रदेह); lepa = paste (लेप); ālepana = ointment (आलेपन); udvartana = rubbing (उद्वर्तन); avacūrṇana = dusting (अवचूर्णन); pragharṣa = rubbing; nirvāpaṇa = cooling (निर्वापण)
+- sitopalā = sugar candy (सितोपला); śirorujā = headache (शिरोरुजा); karṣa, āḍhaka kept as measures (values in notes only)

@@ -1,0 +1,88 @@
+[
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "आरग्वध, एडगज सहित करञ्ज, वासा, गुडूची, मदन, दोनों हरिद्रा; श्र्याह्व, सुराह्व, खदिर और धव, निम्ब, विडङ्ग, करवीरक की त्वचा;",
+  "new": "आरग्वध, एडगज सहित करञ्ज, वासा, गुडूची, मदन, दोनों हरिद्रा; श्र्याह्व, सुराह्व, खदिर और धव, निम्ब, विडङ्ग, करवीरक की छाल;",
+  "why": "reviewer (error): tvak/tvac here is plant bark; Hindi त्वचा means (human) skin. Earlier chapters (ch01.01) render it छाल."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "कुष्ठ, अमृतासङ्ग, कटङ्कटेरी, कासीस, कम्पिल्लक, मुस्त और लोध्र; सौगन्धिक, सर्जरस, विडङ्ग, मनःशिला और आल, करवीरक की त्वचा —",
+  "new": "कुष्ठ, अमृतासङ्ग, कटङ्कटेरी, कासीस, कम्पिल्लक, मुस्त और लोध्र; सौगन्धिक, सर्जरस, विडङ्ग, मनःशिला और आल, करवीरक की छाल —",
+  "why": "reviewer (error): tvak/tvac here is plant bark; Hindi त्वचा means (human) skin. Earlier chapters (ch01.01) render it छाल."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "मनःशिला और आल, मरिच, तैल और अर्क का पय — यह कुष्ठ को हरने वाला प्रदेह है; तुत्थ, विडङ्ग, मरिच, कुष्ठ और लोध्र, मनःशिला सहित, भी वैसा ही हो।",
+  "new": "मनःशिला और आल, मरिच, तैल और अर्क का दूध — यह कुष्ठ को हरने वाला प्रदेह है; तुत्थ, विडङ्ग, मरिच, कुष्ठ और लोध्र, मनःशिला सहित, भी वैसा ही हो।",
+  "why": "reviewer (error): Glossary: kṣīra/payas = milk, or latex from a plant, Hindi दूध; पय is not normal Hindi (ch01.01 uses अर्क का दूध, बकरी का दूध)."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "मनःशिला और आल, मरिच, तैल और अर्क का दूध — यह कुष्ठ को हरने वाला प्रदेह है; तुत्थ, विडङ्ग, मरिच, कुष्ठ और लोध्र, मनःशिला सहित, भी वैसा ही हो।",
+  "new": "मनःशिला और आल, मरिच, तैल और अर्क का दूध — यह कुष्ठ को हरने वाला प्रदेह है; तुत्थ, विडङ्ग, मरिच, कुष्ठ और लोध्र, मनःशिला सहित, भी वैसा ही होगा।",
+  "why": "reviewer (minor): syāt here is a prescriptive/potential 'would be (likewise a plaster)'; Hindi 'हो' reads as a wish. English has 'would likewise be so'."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "दोनों हरिद्रा, कुटज का बीज, करञ्ज का बीज, सुमना के प्रवाल और मध्य भाग सहित हयमारक की त्वचा — इनका तिलक्षार से युक्त लेप बनाए।",
+  "new": "दोनों हरिद्रा, कुटज का बीज, करञ्ज का बीज, सुमना के प्रवाल और मध्य भाग सहित हयमारक की छाल — इनका तिलक्षार से युक्त लेप बनाए।",
+  "why": "reviewer (error): tvak/tvac here is plant bark; Hindi त्वचा means (human) skin. Earlier chapters (ch01.01) render it छाल."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "मनःशिला, कुष्ठ सहित कुटज की त्वचा, लोमश और एडगज सहित करञ्ज, और भूर्ज की ग्रन्थि, करवीर-मूल — इनके चूर्ण तुषोदक से सिद्ध करने चाहिए,",
+  "new": "मनःशिला, कुष्ठ सहित कुटज की छाल, लोमश और एडगज सहित करञ्ज, और भूर्ज की ग्रन्थि, करवीर-मूल — इनके चूर्ण तुषोदक से सिद्ध करने चाहिए,",
+  "why": "reviewer (error): tvak/tvac here is plant bark; Hindi त्वचा means (human) skin. Earlier chapters (ch01.01) render it छाल."
+ },
+ {
+  "n": "16",
+  "field": "word.gram",
+  "word": "darvī-pralepam",
+  "old": "m. acc. sg. upapada tat-puruṣa",
+  "new": "m. acc. sg. tat-puruṣa (qualifies lepam)",
+  "why": "reviewer (minor): pralepa is a ghañ action noun (pra-√lip), not an upapada formation; darvīpralepam is a tat-puruṣa '(a paste) coating the ladle', qualifying lepam."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "रास्ना, गुडूची, मधुक, दोनों बला, जीवक और ऋषभक सहित, और पय; तथा सिद्ध किया हुआ, मधुशेष से युक्त घृत — यह प्रदेह रक्त और वात की पीड़ा को दूर करे।",
+  "new": "रास्ना, गुडूची, मधुक, दोनों बला, जीवक और ऋषभक सहित, और दूध; तथा सिद्ध किया हुआ, मधुशेष से युक्त घृत — यह प्रदेह रक्त और वात की पीड़ा को दूर करे।",
+  "why": "reviewer (error): Glossary: kṣīra/payas = milk, or latex from a plant, Hindi दूध; पय is not normal Hindi (ch01.01 uses अर्क का दूध, बकरी का दूध)."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "रक्त सहित वात में घृत सहित गोधूम-चूर्ण और छगली का पय प्रदेह है; चन्दन और कुष्ठ से युक्त, घृत सहित नत और उत्पल शिरोरुजा में प्रदेह है।",
+  "new": "रक्त सहित वात में घृत सहित गोधूम-चूर्ण और बकरी का दूध प्रदेह है; चन्दन और कुष्ठ से युक्त, घृत सहित नत और उत्पल शिरोरुजा में प्रदेह है।",
+  "why": "reviewer (error): Glossary: kṣīra/payas = milk, or latex from a plant, Hindi दूध; पय is not normal Hindi (ch01.01 uses अर्क का दूध, बकरी का दूध)."
+ },
+ {
+  "n": "24",
+  "field": "word.gram",
+  "word": "loha-erakā-padmaka-corakaiḥ",
+  "old": "n. inst. pl. dvandva",
+  "new": "m. inst. pl. dvandva",
+  "why": "reviewer (error): An itaretara dvandva takes the gender of its last member; coraka is masculine (corakaḥ), so the compound is m. inst. pl., not n. (the form -aiḥ is the same)."
+ },
+ {
+  "n": "30",
+  "field": "notes",
+  "old": "Line a 'tatra ślokaḥ' (singular: one verse follows) is the lead-in of the closing summary; it is kept as a line of this unit as the edition groups it. ātrijaḥ 'born of Atri' is an epithet (it refers to Ātreya); the translation keeps the epithet. siddha-maharṣi- may also be read 'perfected great sages' (karmadhāraya). The thirty-two are the formulations of this chapter as counted by the text.",
+  "new": "Line a 'tatra ślokaḥ' (singular: one verse follows) is the lead-in of the closing summary; it is kept as a line of this unit as the edition groups it. atrijaḥ 'born of Atri' is an epithet (it refers to Ātreya); the translation keeps the epithet. siddha-maharṣi- may also be read 'perfected great sages' (karmadhāraya). The thirty-two are the formulations of this chapter as counted by the text.",
+  "why": "reviewer (minor): The split gives atri-jaḥ (iha + atrijaḥ); the note writes ātrijaḥ. Both sandhi to ihātrijaḥ, but the note should match the split (atrija = born of Atri)."
+ },
+ {
+  "n": "P1",
+  "field": "english",
+  "old": "Thus, in the Ślokasthāna of the treatise composed by Agniveśa and redacted by Caraka, the third chapter, named Āragvadhīya.",
+  "new": "Thus, in the Śloka section (Ślokasthāna) of the treatise composed by Agniveśa and redacted by Caraka, the third chapter, named Āragvadhīya.",
+  "why": "reviewer (minor): Glossary sthāna = section; the ch01.02 colophon reads 'in the Śloka section (Ślokasthāna)'. Keep chapters consistent."
+ }
+]

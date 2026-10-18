@@ -1,0 +1,480 @@
+{
+ "units": [
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "In regular (prāyogika) use and in the unctuous (snaihika) one should drink one round",
+     "problem": "'prayoge,' (comma printed) completes 36b ('paraṃ dvikālapāyī syād ahnaḥ kāleṣu buddhimān / prayoge' = at most twice a day in regular smoking); 'tu' then contrasts snaihika (once) with vairecana (three or four times). The draft joins prayoge to snaihike under 'ekam', contradicting its own GROUPING note and 36b.",
+     "fix": "in regular (prāyogika) smoking. But in the unctuous (snaihika) one should drink once, and the evacuative (vairecana) smoke three or four times. Cleansing of the heart, throat and senses, lightness of the head, calming —",
+     "severity": "error",
+     "patch": {
+      "n": "37",
+      "op": "set",
+      "field": "english",
+      "value": "in regular (prāyogika) smoking. But in the unctuous (snaihika) one should drink once, and the evacuative (vairecana) smoke three or four times. Cleansing of the heart, throat and senses, lightness of the head, calming —"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "प्रायोगिक प्रयोग में और स्नैहिक में तो एक बार",
+     "problem": "same error as English (prayoge joined to snaihike by an added और); 'प्रायोगिक प्रयोग' is also redundant",
+     "fix": "प्रायोगिक धूमपान में। किन्तु स्नैहिक में एक बार, और वैरेचनिक धूम को तीन या चार बार पिए। हृदय, कण्ठ और इन्द्रियों की शुद्धि, सिर का हल्कापन, शमन —",
+     "severity": "error",
+     "patch": {
+      "n": "37",
+      "op": "set",
+      "field": "hindi",
+      "value": "प्रायोगिक धूमपान में। किन्तु स्नैहिक में एक बार, और वैरेचनिक धूम को तीन या चार बार पिए। हृदय, कण्ठ और इन्द्रियों की शुद्धि, सिर का हल्कापन, शमन —"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "ekam",
+     "problem": "with tricatuḥ (three or four times) 'ekam' is adverbial 'once', not 'one (round)'",
+     "fix": "once",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "word",
+      "match_w": "ekam",
+      "field": "gloss",
+      "value": "once"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "ekam",
+     "problem": "adverbial accusative",
+     "fix": "n. acc. sg. (adverbial)",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "word",
+      "match_w": "ekam",
+      "field": "gram",
+      "value": "n. acc. sg. (adverbial)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "'prayoge' = the regular (prāyogika) smoking",
+     "problem": "note should state that prayoge belongs with 36b",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "append_note",
+      "text": "Review: 'prayoge,' (with the printed comma) completes 36b: in regular smoking one drinks at most at two times of the day; 'tu' then contrasts snaihika (once) and vairecana (three or four times)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "nasal medication (nāvana)",
+     "problem": "GLOSSARY: nāvana = nasal therapy",
+     "fix": "nasal therapy (nāvana)",
+     "severity": "error",
+     "patch": {
+      "n": "39",
+      "op": "replace",
+      "field": "english",
+      "old": "nasal medication (nāvana)",
+      "new": "nasal therapy (nāvana)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "nāvana-añjana-tarpaṇam",
+     "problem": "GLOSSARY: nāvana = nasal therapy",
+     "fix": "nasal therapy, collyrium and tarpaṇa",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "word",
+      "match_w": "nāvana-añjana-tarpaṇam",
+      "field": "gloss",
+      "value": "nasal therapy, collyrium and tarpaṇa"
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "But next, from here, I shall declare",
+     "problem": "'paraṃ ... ataḥ' is one idea ('hereafter'); 'next, from here' doubles it",
+     "fix": "But hereafter I shall declare",
+     "severity": "minor",
+     "patch": {
+      "n": "41",
+      "op": "replace",
+      "field": "english",
+      "old": "But next, from here, I shall declare",
+      "new": "But hereafter I shall declare"
+     }
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "trikoṣāphalitam",
+     "problem": "the split also allows tri-koṣa + āphalitam (ā-phalita, 'fitted, joined'); only aphalita is offered",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "50",
+      "op": "append_note",
+      "text": "Review: 'trikoṣāphalitam' can equally be split tri-koṣa + āphalitam (a + ā = ā); neither sense is certain."
+     }
+    }
+   ]
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "53",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "54",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "56",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "57",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "58",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "moreover his hair or beard would not become",
+     "problem": "'vā punaḥ' = 'or again', not 'moreover'; 'moreover' adds emphasis",
+     "fix": "nor again would his hair or beard become",
+     "severity": "minor",
+     "patch": {
+      "n": "58",
+      "op": "replace",
+      "field": "english",
+      "old": "moreover his hair or beard would not become",
+      "new": "nor again would his hair or beard become"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "rendered 'moreover'",
+     "problem": "follow English fix",
+     "fix": "'punaḥ' (again) is rendered 'again'.",
+     "severity": "minor",
+     "patch": {
+      "n": "58",
+      "op": "replace",
+      "field": "notes",
+      "old": "'punaḥ' (again, moreover) is rendered 'moreover'.",
+      "new": "'punaḥ' (again) is rendered 'again'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "59",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "60",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "61",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "nourished by nasal medication (nāvana)",
+     "problem": "GLOSSARY: nāvana = nasal therapy",
+     "fix": "nourished by nasal therapy (nāvana)",
+     "severity": "error",
+     "patch": {
+      "n": "61",
+      "op": "replace",
+      "field": "english",
+      "old": "nourished by nasal medication (nāvana)",
+      "new": "nourished by nasal therapy (nāvana)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "nāvana-prīṇitāḥ",
+     "problem": "GLOSSARY: nāvana = nasal therapy",
+     "fix": "nourished by nasal therapy",
+     "severity": "minor",
+     "patch": {
+      "n": "61",
+      "op": "word",
+      "match_w": "nāvana-prīṇitāḥ",
+      "field": "gloss",
+      "value": "nourished by nasal therapy"
+     }
+    }
+   ]
+  },
+  {
+   "n": "62",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "63",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dārvī-tvak",
+     "problem": "'dārvītvaṅmadhukaṃ' is one compound (k > ṅ is compound-internal sandhi); 'dārvī-tvak' has no case ending, so 'f. acc. sg.' is wrong (acc. would be tvacam)",
+     "fix": "compound member (stem; dvandva dārvītvak-madhukam, n. acc. sg.)",
+     "severity": "error",
+     "patch": {
+      "n": "63",
+      "op": "word",
+      "match_w": "dārvī-tvak",
+      "field": "gram",
+      "value": "compound member (stem; dvandva dārvītvak-madhukam, n. acc. sg.)"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "madhukam",
+     "problem": "last member of the same compound",
+     "fix": "n. acc. sg. (last member of dvandva dārvītvak-madhukam)",
+     "severity": "minor",
+     "patch": {
+      "n": "63",
+      "op": "word",
+      "match_w": "madhukam",
+      "field": "gram",
+      "value": "n. acc. sg. (last member of dvandva dārvītvak-madhukam)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "64",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tvak",
+     "problem": "'tvaṅmustaṃ' is one compound; 'tvak' here is a stem, not 'f. acc. sg.' (acc. = tvacam)",
+     "fix": "compound member (stem; dvandva tvak-mustam, n. acc. sg.)",
+     "severity": "error",
+     "patch": {
+      "n": "64",
+      "op": "word",
+      "match_w": "tvak",
+      "field": "gram",
+      "value": "compound member (stem; dvandva tvak-mustam, n. acc. sg.)"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "mustam",
+     "problem": "last member of the same compound",
+     "fix": "n. acc. sg. (last member of dvandva tvak-mustam)",
+     "severity": "minor",
+     "patch": {
+      "n": "64",
+      "op": "word",
+      "match_w": "mustam",
+      "field": "gram",
+      "value": "n. acc. sg. (last member of dvandva tvak-mustam)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "65",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "66",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "67",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sama-aṃśam",
+     "problem": "as an adjective (bahuvrīhi) it agrees with payaḥ (n.); as adverb it is ind.; 'm. acc. sg.' fits neither",
+     "fix": "n. acc. sg. (bahuvrīhi, with payaḥ)",
+     "severity": "minor",
+     "patch": {
+      "n": "67",
+      "op": "word",
+      "match_w": "sama-aṃśam",
+      "field": "gram",
+      "value": "n. acc. sg. (bahuvrīhi, with payaḥ)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "68",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "69",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "70",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "71",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "72",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "73",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "और दन्तविशोधन उसे",
+     "problem": "'और' is not in the Sanskrit",
+     "fix": "दन्तविशोधन उसे",
+     "severity": "minor",
+     "patch": {
+      "n": "73",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और दन्तविशोधन उसे",
+      "new": "दन्तविशोधन उसे"
+     }
+    }
+   ]
+  },
+  {
+   "n": "74",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "danta-pavane",
+     "problem": "loc. sg.; gloss says plural",
+     "fix": "for the tooth-stick",
+     "severity": "minor",
+     "patch": {
+      "n": "74",
+      "op": "word",
+      "match_w": "danta-pavane",
+      "field": "gloss",
+      "value": "for the tooth-stick"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "6 errors, 14 minor across 11 of 38 units. Main error: unit 37 joins 'prayoge' (which completes 36b, twice a day for regular smoking) to the snaihika rule. Glossary breach: nāvana rendered 'nasal medication' (39, 61). Grammar: compound-member stems dārvī-tvak (63) and tvak (64) labelled f. acc. sg. Text flags (vairecye, tatreṣṭaṃ, pittānugo, abhihate, vyāghrī, etat) checked and sound; syllable counts verified. Half-verse-offset GROUPING is consistent with chunk 1 and 3; no regrouping suggested. Unreviewed AI review, not read by a person."
+}

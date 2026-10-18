@@ -1,0 +1,4521 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athāta",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now",
+        "gram": "ind."
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "therefore, hence",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "āragvadhīyamadhyāyaṃ",
+      "words": [
+       {
+        "w": "āragvadhīyam",
+        "gloss": "named Āragvadhīya",
+        "gram": "m. acc. sg. adj. (taddhita -īya)"
+       },
+       {
+        "w": "adhyāyam",
+        "gloss": "chapter",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyāsyāmaḥ",
+      "words": [
+       {
+        "w": "vyākhyāsyāmaḥ",
+        "gloss": "we shall expound",
+        "gram": "1 pl. fut. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब इसके बाद हम 'आरग्वधीय' नामक अध्याय की व्याख्या करेंगे।",
+  "english": "Now, therefore, we shall expound the chapter called \"Āragvadhīya\".",
+  "text_flags": [],
+  "notes": "Prose opening formula, not a verse (the unit is typed as \"verse\"). athāta = athāto with the visarga of ataḥ dropped before ā. āragvadhīya is a taddhita name formed from the chapter's first word, āragvadha.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.03.1"
+  ],
+  "lines_deva": [
+   "अथात आरग्वधीयमध्यायं व्याख्यास्यामः"
+  ],
+  "lines_iast": [
+   "athāta āragvadhīyamadhyāyaṃ vyākhyāsyāmaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ha",
+      "words": [
+       {
+        "w": "ha",
+        "gloss": "indeed",
+        "gram": "ind. (particle)"
+       }
+      ]
+     },
+     {
+      "src": "smāha",
+      "words": [
+       {
+        "w": "sma",
+        "gloss": "(marks past)",
+        "gram": "ind."
+       },
+       {
+        "w": "āha",
+        "gloss": "said",
+        "gram": "3 sg. pf. √ah"
+       }
+      ]
+     },
+     {
+      "src": "bhagavānātreyaḥ",
+      "words": [
+       {
+        "w": "bhagavān",
+        "gloss": "the venerable",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ātreyaḥ",
+        "gloss": "Ātreya",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ऐसा भगवान् आत्रेय ने कहा था।",
+  "english": "Thus spoke the venerable Ātreya.",
+  "text_flags": [],
+  "notes": "Prose formula, not a verse. sma with āha gives a past sense.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.03.2"
+  ],
+  "lines_deva": [
+   "इति ह स्माह भगवानात्रेयः"
+  ],
+  "lines_iast": [
+   "iti ha smāha bhagavānātreyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āragvadhaḥ",
+      "words": [
+       {
+        "w": "āragvadhaḥ",
+        "gloss": "āragvadha (a plant)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saiḍagajaḥ",
+      "words": [
+       {
+        "w": "sa-eḍagajaḥ",
+        "gloss": "with eḍagaja",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "karañjo",
+      "words": [
+       {
+        "w": "karañjaḥ",
+        "gloss": "karañja (a tree)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāsā",
+      "words": [
+       {
+        "w": "vāsā",
+        "gloss": "vāsā (a shrub)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "guḍūcī",
+      "words": [
+       {
+        "w": "guḍūcī",
+        "gloss": "guḍūcī (a creeper)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madanaṃ",
+      "words": [
+       {
+        "w": "madanam",
+        "gloss": "madana (a plant)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "haridre",
+      "words": [
+       {
+        "w": "haridre",
+        "gloss": "the two haridrās",
+        "gram": "f. nom. du."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śryāhvaḥ",
+      "words": [
+       {
+        "w": "śrī-āhvaḥ",
+        "gloss": "śryāhva (named after Śrī)",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "surāhvaḥ",
+      "words": [
+       {
+        "w": "sura-āhvaḥ",
+        "gloss": "surāhva (named after the gods)",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "khadiro",
+      "words": [
+       {
+        "w": "khadiraḥ",
+        "gloss": "khadira (a tree)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhavaśca",
+      "words": [
+       {
+        "w": "dhavaḥ",
+        "gloss": "dhava (a tree)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nimbo",
+      "words": [
+       {
+        "w": "nimbaḥ",
+        "gloss": "nimba (a tree)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viḍaṅgaṃ",
+      "words": [
+       {
+        "w": "viḍaṅgam",
+        "gloss": "viḍaṅga (a plant)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "karavīrakatvak",
+      "words": [
+       {
+        "w": "karavīraka-tvak",
+        "gloss": "bark of karavīraka",
+        "gram": "f. nom. sg. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आरग्वध, एडगज सहित करञ्ज, वासा, गुडूची, मदन, दोनों हरिद्रा; श्र्याह्व, सुराह्व, खदिर और धव, निम्ब, विडङ्ग, करवीरक की छाल;",
+  "english": "Āragvadha, karañja with eḍagaja, vāsā, guḍūcī, madana, the two haridrās; śryāhva, surāhva, khadira and dhava, nimba, viḍaṅga, the bark of karavīraka;",
+  "text_flags": [],
+  "notes": "List continues to unit 5; unit 6 says these are six formulations set out in half-verses: line a = formulation 1, line b = formulation 2. saiḍagajaḥ (sa-eḍagajaḥ) may qualify āragvadhaḥ before it or karañjaḥ after it; word order is kept. The two haridrās are taken as haridrā and dāruharidrā (standard, by commentators). śryāhva 'named after Śrī' = śrīveṣṭaka, pine resin (probable); surāhva 'named after the gods' = devadāru (standard). Identifications: āragvadha = Cassia fistula (standard); eḍagaja = Cassia tora (standard); karañja = Pongamia pinnata (standard); vāsā = Adhatoda vasica (standard); guḍūcī = Tinospora cordifolia (standard); madana = Randia dumetorum (standard); haridrā = Curcuma longa, dāruharidrā = Berberis aristata (standard); devadāru = Cedrus deodara (standard); khadira = Acacia catechu (standard); dhava = Anogeissus latifolia (standard); nimba = Azadirachta indica (standard); viḍaṅga = Embelia ribes (standard); karavīraka = Nerium indicum (standard).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.03.3a",
+   "01.03.3b"
+  ],
+  "lines_deva": [
+   "आरग्वधः सैडगजः करञ्जो वासा गुडूची मदनं हरिद्रे",
+   "श्र्याह्वः सुराह्वः खदिरो धवश्च निम्बो विडङ्गं करवीरकत्वक्"
+  ],
+  "lines_iast": [
+   "āragvadhaḥ saiḍagajaḥ karañjo vāsā guḍūcī madanaṃ haridre",
+   "śryāhvaḥ surāhvaḥ khadiro dhavaśca nimbo viḍaṅgaṃ karavīrakatvak"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "granthiśca",
+      "words": [
+       {
+        "w": "granthiḥ",
+        "gloss": "knot, node",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhaurjo",
+      "words": [
+       {
+        "w": "bhaurjaḥ",
+        "gloss": "of bhūrja",
+        "gram": "m. nom. sg. adj. (taddhita)"
+       }
+      ]
+     },
+     {
+      "src": "laśunaḥ",
+      "words": [
+       {
+        "w": "laśunaḥ",
+        "gloss": "laśuna",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śirīṣaḥ",
+      "words": [
+       {
+        "w": "śirīṣaḥ",
+        "gloss": "śirīṣa (a tree)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "salomaśo",
+      "words": [
+       {
+        "w": "sa-lomaśaḥ",
+        "gloss": "with lomaśa",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "guggulukṛṣṇagandhe",
+      "words": [
+       {
+        "w": "guggulu-kṛṣṇagandhe",
+        "gloss": "guggulu and kṛṣṇagandhā",
+        "gram": "f. nom. du. dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "phaṇijjhako",
+      "words": [
+       {
+        "w": "phaṇijjhakaḥ",
+        "gloss": "phaṇijjhaka (a herb)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vatsakasaptaparṇau",
+      "words": [
+       {
+        "w": "vatsaka-saptaparṇau",
+        "gloss": "vatsaka and saptaparṇa",
+        "gram": "m. nom. du. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "pīlūni",
+      "words": [
+       {
+        "w": "pīlūni",
+        "gloss": "pīlu",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kuṣṭhaṃ",
+      "words": [
+       {
+        "w": "kuṣṭham",
+        "gloss": "kuṣṭha (the drug)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sumanaḥpravālāḥ",
+      "words": [
+       {
+        "w": "sumanaḥ-pravālāḥ",
+        "gloss": "young shoots of sumanas",
+        "gram": "m. nom. pl. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "भूर्ज की ग्रन्थि, लशुन, लोमश सहित शिरीष, गुग्गुलु और कृष्णगन्धा; फणिज्झक, वत्सक और सप्तपर्ण, पीलु, कुष्ठ और सुमना के प्रवाल;",
+  "english": "the knot of bhūrja, laśuna, śirīṣa with lomaśa, guggulu and kṛṣṇagandhā; phaṇijjhaka, vatsaka and saptaparṇa, pīlu, kuṣṭha and the young shoots of sumanas;",
+  "text_flags": [],
+  "notes": "Formulations 3 (line a) and 4 (line b). granthiḥ bhaurjaḥ = the knot (node) of bhūrja, birch, Betula utilis (standard). salomaśaḥ may attach to śirīṣa before it or to guggulu after it; lomaśa is disputed (some take it as a form of kāsīsa, others as a plant). pīlūni (neuter plural) probably means pīlu fruits. kuṣṭha here is the drug, not the disease. Identifications: laśuna = garlic, Allium sativum (standard); śirīṣa = Albizia lebbeck (standard); guggulu = Commiphora mukul resin (standard); kṛṣṇagandhā = śobhāñjana, Moringa oleifera (standard, by commentators); phaṇijjhaka = a basil, Ocimum sp. (probable); vatsaka = kuṭaja, Holarrhena antidysenterica (standard); saptaparṇa = Alstonia scholaris (standard); pīlu = Salvadora persica (standard); kuṣṭha = Saussurea lappa (standard); sumanas = jātī, Jasminum grandiflorum (probable).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.03.4a",
+   "01.03.4b"
+  ],
+  "lines_deva": [
+   "ग्रन्थिश्च भौर्जो लशुनः शिरीषः सलोमशो गुग्गुलुकृष्णगन्धे",
+   "फणिज्झको वत्सकसप्तपर्णौ पीलूनि कुष्ठं सुमनःप्रवालाः"
+  ],
+  "lines_iast": [
+   "granthiśca bhaurjo laśunaḥ śirīṣaḥ salomaśo guggulukṛṣṇagandhe",
+   "phaṇijjhako vatsakasaptaparṇau pīlūni kuṣṭhaṃ sumanaḥpravālāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vacā",
+      "words": [
+       {
+        "w": "vacā",
+        "gloss": "vacā (a rhizome)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hareṇustrivṛtā",
+      "words": [
+       {
+        "w": "hareṇuḥ",
+        "gloss": "hareṇu",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "trivṛtā",
+        "gloss": "trivṛt (a creeper)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nikumbho",
+      "words": [
+       {
+        "w": "nikumbhaḥ",
+        "gloss": "nikumbha (a shrub)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhallātakaṃ",
+      "words": [
+       {
+        "w": "bhallātakam",
+        "gloss": "bhallātaka (marking nut)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gairikamañjanaṃ",
+      "words": [
+       {
+        "w": "gairikam",
+        "gloss": "red ochre (gairika)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "añjanam",
+        "gloss": "añjana (collyrium mineral)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "manaḥśilāle",
+      "words": [
+       {
+        "w": "manaḥśilā-āle",
+        "gloss": "manaḥśilā and āla",
+        "gram": "n. nom. du. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "gṛhadhūma",
+      "words": [
+       {
+        "w": "gṛha-dhūmaḥ",
+        "gloss": "house soot",
+        "gram": "m. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "elā",
+      "words": [
+       {
+        "w": "elā",
+        "gloss": "elā (cardamom)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāśīsalodhrārjunamustasarjāḥ",
+      "words": [
+       {
+        "w": "kāśīsa-lodhra-arjuna-musta-sarjāḥ",
+        "gloss": "kāśīsa, lodhra, arjuna, musta and sarja",
+        "gram": "m. nom. pl. dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वचा, हरेणु, त्रिवृता, निकुम्भ, भल्लातक, गैरिक और अञ्जन; मनःशिला और आल, गृहधूम, एला, काशीस, लोध्र, अर्जुन, मुस्त और सर्ज —",
+  "english": "vacā, hareṇu, trivṛt, nikumbha, bhallātaka, red ochre (gairika) and añjana; manaḥśilā and āla, house soot (gṛhadhūma), elā, kāśīsa, lodhra, arjuna, musta and sarja —",
+  "text_flags": [],
+  "notes": "Formulations 5 (line a) and 6 (line b). gṛhadhūma: visarga of gṛhadhūmaḥ dropped before e (regular). kāśīsa is spelled with ś here and kāsīsa in unit 10 (both spellings occur). Identifications: vacā = Acorus calamus (standard); hareṇu = reṇukā, seeds of Vitex agnus-castus (disputed); trivṛt = Operculina turpethum (standard); nikumbha = dantī, Baliospermum montanum (standard); bhallātaka = Semecarpus anacardium (standard); añjana = srotoñjana, stibnite or galena (disputed); manaḥśilā = realgar, āla = haritāla, orpiment (standard); elā = Elettaria cardamomum (standard); kāśīsa = green vitriol, ferrous sulphate (standard); lodhra = Symplocos racemosa (standard); arjuna = Terminalia arjuna (standard); musta = Cyperus rotundus (standard); sarja = Vateria indica (probable).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.03.5a",
+   "01.03.5b"
+  ],
+  "lines_deva": [
+   "वचा हरेणुस्त्रिवृता निकुम्भो भल्लातकं गैरिकमञ्जनं च",
+   "मनःशिलाले गृहधूम एला काशीसलोध्रार्जुनमुस्तसर्जाः"
+  ],
+  "lines_iast": [
+   "vacā hareṇustrivṛtā nikumbho bhallātakaṃ gairikamañjanaṃ ca",
+   "manaḥśilāle gṛhadhūma elā kāśīsalodhrārjunamustasarjāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ityardharūpairvihitāḥ",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "ardha-rūpaiḥ",
+        "gloss": "in half(-verse) forms",
+        "gram": "n. inst. pl. tat-puruṣa"
+       },
+       {
+        "w": "vihitāḥ",
+        "gloss": "set out, prescribed",
+        "gram": "m. nom. pl. ppp. vi-√dhā"
+       }
+      ]
+     },
+     {
+      "src": "ṣaḍete",
+      "words": [
+       {
+        "w": "ṣaṭ",
+        "gloss": "six",
+        "gram": "nom. pl."
+       },
+       {
+        "w": "ete",
+        "gloss": "these",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "gopittapītāḥ",
+      "words": [
+       {
+        "w": "go-pitta-pītāḥ",
+        "gloss": "soaked in cow's bile",
+        "gram": "m. nom. pl. tat-puruṣa, ppp. √pā"
+       }
+      ]
+     },
+     {
+      "src": "punareva",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "just, indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "piṣṭāḥ",
+      "words": [
+       {
+        "w": "piṣṭāḥ",
+        "gloss": "ground",
+        "gram": "m. nom. pl. ppp. √piṣ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "siddhāḥ",
+      "words": [
+       {
+        "w": "siddhāḥ",
+        "gloss": "proven, effective",
+        "gram": "m. nom. pl. ppp. √sidh"
+       }
+      ]
+     },
+     {
+      "src": "paraṃ",
+      "words": [
+       {
+        "w": "param",
+        "gloss": "supremely",
+        "gram": "adv."
+       }
+      ]
+     },
+     {
+      "src": "sarṣapatailayuktāścūrṇapradehā",
+      "words": [
+       {
+        "w": "sarṣapa-taila-yuktāḥ",
+        "gloss": "mixed with mustard oil",
+        "gram": "m. nom. pl. tat-puruṣa"
+       },
+       {
+        "w": "cūrṇa-pradehāḥ",
+        "gloss": "powder-plasters",
+        "gram": "m. nom. pl. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhiṣajā",
+      "words": [
+       {
+        "w": "bhiṣajā",
+        "gloss": "by the physician",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "prayojyāḥ",
+      "words": [
+       {
+        "w": "prayojyāḥ",
+        "gloss": "to be applied",
+        "gram": "m. nom. pl. ger. pra-√yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार आधे-आधे रूप में बताए गए ये छह चूर्ण-प्रदेह, गोपित्त पिलाकर फिर से पीसे गए और सर्षप-तैल से युक्त, परम सिद्ध हैं; वैद्य को इनका प्रयोग करना चाहिए।",
+  "english": "These six powder-plasters (cūrṇa-pradeha), thus set out in half-forms, soaked in cow's bile and ground again, mixed with mustard oil, are supremely proven; they are to be applied by the physician.",
+  "text_flags": [],
+  "notes": "ardharūpaiḥ is taken as 'each in the form of a half-verse': lines 3a, 3b, 4a, 4b, 5a, 5b give the six formulations. gopittapītāḥ literally 'having drunk cow's bile', i.e. impregnated with it. siddhāḥ could also mean 'prepared'; 'proven' fits param.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.03.6a",
+   "01.03.6b"
+  ],
+  "lines_deva": [
+   "इत्यर्धरूपैर्विहिताः षडेते गोपित्तपीताः पुनरेव पिष्टाः",
+   "सिद्धाः परं सर्षपतैलयुक्ताश्चूर्णप्रदेहा भिषजा प्रयोज्याः"
+  ],
+  "lines_iast": [
+   "ityardharūpairvihitāḥ ṣaḍete gopittapītāḥ punareva piṣṭāḥ",
+   "siddhāḥ paraṃ sarṣapatailayuktāścūrṇapradehā bhiṣajā prayojyāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kuṣṭhāni",
+      "words": [
+       {
+        "w": "kuṣṭhāni",
+        "gloss": "kuṣṭha (skin diseases)",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṛcchrāṇi",
+      "words": [
+       {
+        "w": "kṛcchrāṇi",
+        "gloss": "difficult (to cure)",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "navaṃ",
+      "words": [
+       {
+        "w": "navam",
+        "gloss": "recent",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kilāsaṃ",
+      "words": [
+       {
+        "w": "kilāsam",
+        "gloss": "kilāsa (white patches)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sureśaluptaṃ",
+      "words": [
+       {
+        "w": "sureśa-luptam",
+        "gloss": "sureśalupta (hair-loss disease)",
+        "gram": "n. acc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kiṭibhaṃ",
+      "words": [
+       {
+        "w": "kiṭibham",
+        "gloss": "kiṭibha (a skin disease)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sadadru",
+      "words": [
+       {
+        "w": "sa-dadru",
+        "gloss": "with dadru",
+        "gram": "n. acc. sg. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bhagandarārśāṃsyapacīṃ",
+      "words": [
+       {
+        "w": "bhagandara-arśāṃsi",
+        "gloss": "bhagandara and arśas",
+        "gram": "n. acc. pl. dvandva"
+       },
+       {
+        "w": "apacīm",
+        "gloss": "apacī (a glandular swelling)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sapāmāṃ",
+      "words": [
+       {
+        "w": "sa-pāmām",
+        "gloss": "with pāmā",
+        "gram": "f. acc. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "hanyuḥ",
+      "words": [
+       {
+        "w": "hanyuḥ",
+        "gloss": "would destroy",
+        "gram": "3 pl. opt. √han"
+       }
+      ]
+     },
+     {
+      "src": "prayuktāstvacirānnarāṇām",
+      "words": [
+       {
+        "w": "prayuktāḥ",
+        "gloss": "when applied",
+        "gram": "m. nom. pl. ppp. pra-√yuj"
+       },
+       {
+        "w": "tu",
+        "gloss": "and, indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "acirāt",
+        "gloss": "quickly",
+        "gram": "ind."
+       },
+       {
+        "w": "narāṇām",
+        "gloss": "of men",
+        "gram": "m. gen. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्रयुक्त किए जाने पर ये मनुष्यों के कृच्छ्र कुष्ठों, नए किलास, सुरेशलुप्त, दद्रु सहित किटिभ, भगन्दर और अर्श, तथा पामा सहित अपची को शीघ्र नष्ट कर देंगे।",
+  "english": "When applied, they would quickly destroy in men the difficult kuṣṭhas (skin diseases), recent kilāsa, sureśalupta, kiṭibha with dadru, bhagandara and arśas, and apacī with pāmā.",
+  "text_flags": [],
+  "notes": "sureśa 'lord of the gods' (Indra): sureśalupta is a synonym of indralupta; the epithet is kept in the translation. Disease equivalents: kuṣṭha = a class of chronic skin diseases including leprosy (standard); kilāsa = leucoderma, vitiligo (standard); indralupta = alopecia (areata) (standard); kiṭibha = a rough scaly skin disease, possibly psoriasis (probable); dadru = ringworm, tinea (standard); bhagandara = fistula-in-ano (standard); arśas = haemorrhoids (standard); apacī = chronic lymphadenitis of the neck, scrofula (probable); pāmā = scabies or eczema (probable). tu is left untranslated as a connective.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.03.7a",
+   "01.03.7b"
+  ],
+  "lines_deva": [
+   "कुष्ठानि कृच्छ्राणि नवं किलासं सुरेशलुप्तं किटिभं सदद्रु",
+   "भगन्दरार्शांस्यपचीं सपामां हन्युः प्रयुक्तास्त्वचिरान्नराणाम्"
+  ],
+  "lines_iast": [
+   "kuṣṭhāni kṛcchrāṇi navaṃ kilāsaṃ sureśaluptaṃ kiṭibhaṃ sadadru",
+   "bhagandarārśāṃsyapacīṃ sapāmāṃ hanyuḥ prayuktāstvacirānnarāṇām"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kuṣṭhaṃ",
+      "words": [
+       {
+        "w": "kuṣṭham",
+        "gloss": "kuṣṭha (the drug)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "haridre",
+      "words": [
+       {
+        "w": "haridre",
+        "gloss": "the two haridrās",
+        "gram": "f. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "surasaṃ",
+      "words": [
+       {
+        "w": "surasam",
+        "gloss": "surasa (a basil)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "paṭolaṃ",
+      "words": [
+       {
+        "w": "paṭolam",
+        "gloss": "paṭola (a gourd)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nimbāśvagandhe",
+      "words": [
+       {
+        "w": "nimba-aśvagandhe",
+        "gloss": "nimba and aśvagandhā",
+        "gram": "f. acc. du. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "suradāruśigrū",
+      "words": [
+       {
+        "w": "suradāru-śigrū",
+        "gloss": "suradāru and śigru",
+        "gram": "m. acc. du. dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sasarṣapaṃ",
+      "words": [
+       {
+        "w": "sa-sarṣapam",
+        "gloss": "with sarṣapa (mustard)",
+        "gram": "n. acc. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "tumburudhānyavanyaṃ",
+      "words": [
+       {
+        "w": "tumburu-dhānya-vanyam",
+        "gloss": "tumburu, dhānya and vanya",
+        "gram": "n. acc. sg. samāhāra-dvandva"
+       }
+      ]
+     },
+     {
+      "src": "caṇḍāṃ",
+      "words": [
+       {
+        "w": "caṇḍām",
+        "gloss": "caṇḍā (a drug)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cūrṇāni",
+      "words": [
+       {
+        "w": "cūrṇāni",
+        "gloss": "powders",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "samāni",
+      "words": [
+       {
+        "w": "samāni",
+        "gloss": "equal (in quantity)",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kuryāt",
+      "words": [
+       {
+        "w": "kuryāt",
+        "gloss": "one should make",
+        "gram": "3 sg. opt. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कुष्ठ, दोनों हरिद्रा, सुरस, पटोल, निम्ब और अश्वगन्धा, सुरदारु और शिग्रु, सर्षप सहित तुम्बुरु, धान्य और वन्य, तथा चण्डा — इनके समान भाग वाले चूर्ण बनाए;",
+  "english": "One should make powders, in equal parts, of kuṣṭha, the two haridrās, surasa, paṭola, nimba and aśvagandhā, suradāru and śigru, tumburu, dhānya and vanya with sarṣapa, and caṇḍā;",
+  "text_flags": [],
+  "notes": "The sentence continues into unit 9. samāni 'equal' is taken as equal quantities of each drug. sasarṣapam grammatically qualifies the compound tumburudhānyavanyam. Identifications: surasa = tulasī, Ocimum sanctum (standard); paṭola = Trichosanthes dioica (standard); aśvagandhā = Withania somnifera (standard); suradāru = devadāru, Cedrus deodara (standard); śigru = Moringa oleifera (standard); sarṣapa = mustard, Brassica sp. (standard); tumburu = Zanthoxylum alatum (standard); dhānya = coriander, Coriandrum sativum (standard); vanya = kaivarta-mustaka, a sedge (disputed); caṇḍā = coraka, Angelica glauca (disputed).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.03.8a",
+   "01.03.8b"
+  ],
+  "lines_deva": [
+   "कुष्ठं हरिद्रे सुरसं पटोलं निम्बाश्वगन्धे सुरदारुशिग्रू",
+   "ससर्षपं तुम्बुरुधान्यवन्यं चण्डां च चूर्णानि समानि कुर्यात्"
+  ],
+  "lines_iast": [
+   "kuṣṭhaṃ haridre surasaṃ paṭolaṃ nimbāśvagandhe suradāruśigrū",
+   "sasarṣapaṃ tumburudhānyavanyaṃ caṇḍāṃ ca cūrṇāni samāni kuryāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "taistakrapiṣṭaiḥ",
+      "words": [
+       {
+        "w": "taiḥ",
+        "gloss": "with them",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "takra-piṣṭaiḥ",
+        "gloss": "ground with buttermilk",
+        "gram": "n. inst. pl. tat-puruṣa, ppp. √piṣ"
+       }
+      ]
+     },
+     {
+      "src": "prathamaṃ",
+      "words": [
+       {
+        "w": "prathamam",
+        "gloss": "first",
+        "gram": "adv."
+       }
+      ]
+     },
+     {
+      "src": "śarīraṃ",
+      "words": [
+       {
+        "w": "śarīram",
+        "gloss": "body",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tailāktamudvartayituṃ",
+      "words": [
+       {
+        "w": "taila-aktam",
+        "gloss": "anointed with oil",
+        "gram": "n. acc. sg. tat-puruṣa, ppp. √añj"
+       },
+       {
+        "w": "udvartayitum",
+        "gloss": "to rub (with powder)",
+        "gram": "inf. caus. ud-√vṛt"
+       }
+      ]
+     },
+     {
+      "src": "yateta",
+      "words": [
+       {
+        "w": "yateta",
+        "gloss": "one should strive",
+        "gram": "3 sg. opt. ātm. √yat"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tenāsyakaṇḍūḥ",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by that",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "kaṇḍūḥ",
+        "gloss": "itching",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "piḍakāḥ",
+      "words": [
+       {
+        "w": "piḍakāḥ",
+        "gloss": "eruptions, pimples",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sakoṭhāḥ",
+      "words": [
+       {
+        "w": "sa-koṭhāḥ",
+        "gloss": "with koṭha (rashes)",
+        "gram": "f. nom. pl. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "kuṣṭhāni",
+      "words": [
+       {
+        "w": "kuṣṭhāni",
+        "gloss": "kuṣṭha (skin diseases)",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śophāśca",
+      "words": [
+       {
+        "w": "śophāḥ",
+        "gloss": "swellings",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śamaṃ",
+      "words": [
+       {
+        "w": "śamam",
+        "gloss": "to subsidence",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vrajanti",
+      "words": [
+       {
+        "w": "vrajanti",
+        "gloss": "go",
+        "gram": "3 pl. pres. √vraj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उन तक्र में पिसे चूर्णों से पहले तैल लगे शरीर का उद्वर्तन करने का यत्न करे; उससे इसकी कण्डू, कोठ सहित पिडकाएँ, कुष्ठ और शोफ शान्त हो जाते हैं।",
+  "english": "With these, ground in buttermilk (takra), one should first try to rub (udvartana) the body anointed with oil; by that his itching (kaṇḍū), eruptions (piḍakā) with koṭha, kuṣṭhas and swellings (śopha) subside.",
+  "text_flags": [],
+  "notes": "taiḥ refers to the powders of unit 8. tenāsya is read tena + asya ('by that, his'); tena + āsya ('itching of the face') is grammatically possible but less natural. kaṇḍūḥ is nom. sg.; the plural verb vrajanti covers all subjects. koṭha = urticarial rash (probable).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.03.9a",
+   "01.03.9b"
+  ],
+  "lines_deva": [
+   "तैस्तक्रपिष्टैः प्रथमं शरीरं तैलाक्तमुद्वर्तयितुं यतेत",
+   "तेनास्यकण्डूः पिडकाः सकोठाः कुष्ठानि शोफाश्च शमं व्रजन्ति"
+  ],
+  "lines_iast": [
+   "taistakrapiṣṭaiḥ prathamaṃ śarīraṃ tailāktamudvartayituṃ yateta",
+   "tenāsyakaṇḍūḥ piḍakāḥ sakoṭhāḥ kuṣṭhāni śophāśca śamaṃ vrajanti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kuṣṭhāmṛtāsaṅgakaṭaṅkaṭerīkāsīsakampillakamustalodhrāḥ",
+      "words": [
+       {
+        "w": "kuṣṭha-amṛtāsaṅga-kaṭaṅkaṭerī-kāsīsa-kampillaka-musta-lodhrāḥ",
+        "gloss": "kuṣṭha, amṛtāsaṅga, kaṭaṅkaṭerī, kāsīsa, kampillaka, musta and lodhra",
+        "gram": "m. nom. pl. dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "saugandhikaṃ",
+      "words": [
+       {
+        "w": "saugandhikam",
+        "gloss": "saugandhika",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarjaraso",
+      "words": [
+       {
+        "w": "sarja-rasaḥ",
+        "gloss": "resin of sarja",
+        "gram": "m. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "viḍaṅgaṃ",
+      "words": [
+       {
+        "w": "viḍaṅgam",
+        "gloss": "viḍaṅga",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "manaḥśilāle",
+      "words": [
+       {
+        "w": "manaḥśilā-āle",
+        "gloss": "manaḥśilā and āla",
+        "gram": "n. nom. du. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "karavīrakatvak",
+      "words": [
+       {
+        "w": "karavīraka-tvak",
+        "gloss": "bark of karavīraka",
+        "gram": "f. nom. sg. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कुष्ठ, अमृतासङ्ग, कटङ्कटेरी, कासीस, कम्पिल्लक, मुस्त और लोध्र; सौगन्धिक, सर्जरस, विडङ्ग, मनःशिला और आल, करवीरक की छाल —",
+  "english": "Kuṣṭha, amṛtāsaṅga, kaṭaṅkaṭerī, kāsīsa, kampillaka, musta and lodhra; saugandhika, the resin of sarja, viḍaṅga, manaḥśilā and āla, the bark of karavīraka —",
+  "text_flags": [],
+  "notes": "List of ingredients; the sentence continues into unit 11. Identifications: amṛtāsaṅga = tuttha, copper sulphate (probable, by commentators); kaṭaṅkaṭerī = dāruharidrā, Berberis aristata (standard, by commentators); kāsīsa = green vitriol (standard); kampillaka = Mallotus philippensis (standard); saugandhika = gandhaka, sulphur (probable; the word can also mean a fragrant water lily); sarjarasa = resin of Vateria indica (probable).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.03.10a",
+   "01.03.10b"
+  ],
+  "lines_deva": [
+   "कुष्ठामृतासङ्गकटङ्कटेरीकासीसकम्पिल्लकमुस्तलोध्राः",
+   "सौगन्धिकं सर्जरसो विडङ्गं मनःशिलाले करवीरकत्वक्"
+  ],
+  "lines_iast": [
+   "kuṣṭhāmṛtāsaṅgakaṭaṅkaṭerīkāsīsakampillakamustalodhrāḥ",
+   "saugandhikaṃ sarjaraso viḍaṅgaṃ manaḥśilāle karavīrakatvak"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tailāktagātrasya",
+      "words": [
+       {
+        "w": "taila-akta-gātrasya",
+        "gloss": "of one whose limbs are oiled",
+        "gram": "m. gen. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "kṛtāni",
+      "words": [
+       {
+        "w": "kṛtāni",
+        "gloss": "prepared",
+        "gram": "n. acc. pl. ppp. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "cūrṇānyetāni",
+      "words": [
+       {
+        "w": "cūrṇāni",
+        "gloss": "powders",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "etāni",
+        "gloss": "these",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "dadyādavacūrṇanārtham",
+      "words": [
+       {
+        "w": "dadyāt",
+        "gloss": "one should apply",
+        "gram": "3 sg. opt. √dā"
+       },
+       {
+        "w": "avacūrṇana-artham",
+        "gloss": "for dusting",
+        "gram": "ind. (-artham)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dadrūḥ",
+      "words": [
+       {
+        "w": "dadrūḥ",
+        "gloss": "dadru",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sakaṇḍūḥ",
+      "words": [
+       {
+        "w": "sa-kaṇḍūḥ",
+        "gloss": "with itching",
+        "gram": "f. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "kiṭibhāni",
+      "words": [
+       {
+        "w": "kiṭibhāni",
+        "gloss": "kiṭibha",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pāmā",
+      "words": [
+       {
+        "w": "pāmā",
+        "gloss": "pāmā",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vicarcikā",
+      "words": [
+       {
+        "w": "vicarcikā",
+        "gloss": "vicarcikā",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "caiva",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tathaiti",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "eti",
+        "gloss": "goes",
+        "gram": "3 sg. pres. √i"
+       }
+      ]
+     },
+     {
+      "src": "śāntim",
+      "words": [
+       {
+        "w": "śāntim",
+        "gloss": "to subsidence",
+        "gram": "f. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तैल लगे अंगों वाले व्यक्ति पर अवचूर्णन के लिए ये बनाए हुए चूर्ण डाले; इस प्रकार कण्डू सहित दद्रु, किटिभ, पामा और विचर्चिका भी शान्त हो जाते हैं।",
+  "english": "These prepared powders should be applied for dusting (avacūrṇana) to one whose limbs are anointed with oil; thus dadru with itching, kiṭibha, pāmā and vicarcikā also come to subsidence.",
+  "text_flags": [],
+  "notes": "dadyāt literally 'should give'. eti is singular with several subjects. vicarcikā = an eczema (probable); dadru, kiṭibha, pāmā: see unit 7 notes.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.03.11a",
+   "01.03.11b"
+  ],
+  "lines_deva": [
+   "तैलाक्तगात्रस्य कृतानि चूर्णान्येतानि दद्यादवचूर्णनार्थम्",
+   "दद्रूः सकण्डूः किटिभानि पामा विचर्चिका चैव तथैति शान्तिम्"
+  ],
+  "lines_iast": [
+   "tailāktagātrasya kṛtāni cūrṇānyetāni dadyādavacūrṇanārtham",
+   "dadrūḥ sakaṇḍūḥ kiṭibhāni pāmā vicarcikā caiva tathaiti śāntim"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "manaḥśilāle",
+      "words": [
+       {
+        "w": "manaḥśilā-āle",
+        "gloss": "manaḥśilā and āla",
+        "gram": "n. nom. du. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "maricāni",
+      "words": [
+       {
+        "w": "maricāni",
+        "gloss": "marica (pepper)",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tailamārkaṃ",
+      "words": [
+       {
+        "w": "tailam",
+        "gloss": "oil",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ārkam",
+        "gloss": "of arka",
+        "gram": "n. nom. sg. adj. (taddhita)"
+       }
+      ]
+     },
+     {
+      "src": "payaḥ",
+      "words": [
+       {
+        "w": "payaḥ",
+        "gloss": "milk, latex",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kuṣṭhaharaḥ",
+      "words": [
+       {
+        "w": "kuṣṭha-haraḥ",
+        "gloss": "removing kuṣṭha",
+        "gram": "m. nom. sg. upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pradehaḥ",
+      "words": [
+       {
+        "w": "pradehaḥ",
+        "gloss": "plaster",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tutthaṃ",
+      "words": [
+       {
+        "w": "tuttham",
+        "gloss": "tuttha",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viḍaṅgaṃ",
+      "words": [
+       {
+        "w": "viḍaṅgam",
+        "gloss": "viḍaṅga",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "maricāni",
+      "words": [
+       {
+        "w": "maricāni",
+        "gloss": "marica (pepper)",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kuṣṭhaṃ",
+      "words": [
+       {
+        "w": "kuṣṭham",
+        "gloss": "kuṣṭha (the drug)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "lodhraṃ",
+      "words": [
+       {
+        "w": "lodhram",
+        "gloss": "lodhra",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tadvat",
+      "words": [
+       {
+        "w": "tadvat",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "samanaḥśilaṃ",
+      "words": [
+       {
+        "w": "sa-manaḥśilam",
+        "gloss": "with manaḥśilā",
+        "gram": "n. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "syāt",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √as"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मनःशिला और आल, मरिच, तैल और अर्क का दूध — यह कुष्ठ को हरने वाला प्रदेह है; तुत्थ, विडङ्ग, मरिच, कुष्ठ और लोध्र, मनःशिला सहित, भी वैसा ही होगा।",
+  "english": "Manaḥśilā and āla, marica, oil and the latex (payas) of arka are a plaster that removes kuṣṭha; tuttha, viḍaṅga, marica, kuṣṭha and lodhra, with manaḥśilā, would likewise be so.",
+  "text_flags": [],
+  "notes": "ārkaṃ payaḥ: the milky latex of arka, Calotropis procera/gigantea (standard). tuttha = copper sulphate (standard). marica = black pepper, Piper nigrum (standard).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.03.12a",
+   "01.03.12b"
+  ],
+  "lines_deva": [
+   "मनःशिलाले मरिचानि तैलमार्कं पयः कुष्ठहरः प्रदेहः",
+   "तुत्थं विडङ्गं मरिचानि कुष्ठं लोध्रं च तद्वत् समनःशिलं स्यात्"
+  ],
+  "lines_iast": [
+   "manaḥśilāle maricāni tailamārkaṃ payaḥ kuṣṭhaharaḥ pradehaḥ",
+   "tutthaṃ viḍaṅgaṃ maricāni kuṣṭhaṃ lodhraṃ ca tadvat samanaḥśilaṃ syāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rasāñjanaṃ",
+      "words": [
+       {
+        "w": "rasāñjanam",
+        "gloss": "rasāñjana",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saprapunāḍabījaṃ",
+      "words": [
+       {
+        "w": "sa-prapunāḍa-bījam",
+        "gloss": "with prapunāḍa seeds",
+        "gram": "n. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "yuktaṃ",
+      "words": [
+       {
+        "w": "yuktam",
+        "gloss": "mixed",
+        "gram": "n. nom. sg. ppp. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "kapitthasya",
+      "words": [
+       {
+        "w": "kapitthasya",
+        "gloss": "of kapittha",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "rasena",
+      "words": [
+       {
+        "w": "rasena",
+        "gloss": "with the juice",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "lepaḥ",
+      "words": [
+       {
+        "w": "lepaḥ",
+        "gloss": "paste",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "karañjabījaiḍagajaṃ",
+      "words": [
+       {
+        "w": "karañja-bīja-eḍagajam",
+        "gloss": "karañja seed and eḍagaja",
+        "gram": "n. nom. sg. samāhāra-dvandva"
+       }
+      ]
+     },
+     {
+      "src": "sakuṣṭhaṃ",
+      "words": [
+       {
+        "w": "sa-kuṣṭham",
+        "gloss": "with kuṣṭha",
+        "gram": "n. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "gomūtrapiṣṭaṃ",
+      "words": [
+       {
+        "w": "go-mūtra-piṣṭam",
+        "gloss": "ground in cow's urine",
+        "gram": "n. nom. sg. tat-puruṣa, ppp. √piṣ"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paraḥ",
+      "words": [
+       {
+        "w": "paraḥ",
+        "gloss": "excellent",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pradehaḥ",
+      "words": [
+       {
+        "w": "pradehaḥ",
+        "gloss": "plaster",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्रपुनाड के बीजों सहित रसाञ्जन, कपित्थ के रस से युक्त, लेप है; और कुष्ठ सहित करञ्ज-बीज और एडगज, गोमूत्र में पिसे हुए, उत्तम प्रदेह है।",
+  "english": "Rasāñjana with prapunāḍa seeds, mixed with the juice of kapittha, is a paste (lepa); and karañja seed and eḍagaja with kuṣṭha, ground in cow's urine, is an excellent plaster (pradeha).",
+  "text_flags": [],
+  "notes": "prapunāḍa is the usual prapunnāḍa (= eḍagaja); the short form with one n is required by the metre (upendravajrā), so it is not flagged. Identifications: rasāñjana = extract of dāruharidrā (standard); prapunnāḍa = Cassia tora (standard); kapittha = Feronia limonia (standard).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.03.13a",
+   "01.03.13b"
+  ],
+  "lines_deva": [
+   "रसाञ्जनं सप्रपुनाडबीजं युक्तं कपित्थस्य रसेन लेपः",
+   "करञ्जबीजैडगजं सकुष्ठं गोमूत्रपिष्टं च परः प्रदेहः"
+  ],
+  "lines_iast": [
+   "rasāñjanaṃ saprapunāḍabījaṃ yuktaṃ kapitthasya rasena lepaḥ",
+   "karañjabījaiḍagajaṃ sakuṣṭhaṃ gomūtrapiṣṭaṃ ca paraḥ pradehaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ubhe",
+      "words": [
+       {
+        "w": "ubhe",
+        "gloss": "both",
+        "gram": "f. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "haridre",
+      "words": [
+       {
+        "w": "haridre",
+        "gloss": "the two haridrās",
+        "gram": "f. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "kuṭajasya",
+      "words": [
+       {
+        "w": "kuṭajasya",
+        "gloss": "of kuṭaja",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bījaṃ",
+      "words": [
+       {
+        "w": "bījam",
+        "gloss": "seed",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "karañjabījaṃ",
+      "words": [
+       {
+        "w": "karañja-bījam",
+        "gloss": "karañja seed",
+        "gram": "n. acc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sumanaḥpravālān",
+      "words": [
+       {
+        "w": "sumanaḥ-pravālān",
+        "gloss": "young shoots of sumanas",
+        "gram": "m. acc. pl. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tvacaṃ",
+      "words": [
+       {
+        "w": "tvacam",
+        "gloss": "bark",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "samadhyāṃ",
+      "words": [
+       {
+        "w": "sa-madhyām",
+        "gloss": "with its middle part",
+        "gram": "f. acc. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "hayamārakasya",
+      "words": [
+       {
+        "w": "hayamārakasya",
+        "gloss": "of hayamāraka",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "lepaṃ",
+      "words": [
+       {
+        "w": "lepam",
+        "gloss": "paste",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tilakṣārayutaṃ",
+      "words": [
+       {
+        "w": "tila-kṣāra-yutam",
+        "gloss": "mixed with sesame alkali",
+        "gram": "m. acc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vidadhyāt",
+      "words": [
+       {
+        "w": "vidadhyāt",
+        "gloss": "one should make",
+        "gram": "3 sg. opt. vi-√dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों हरिद्रा, कुटज का बीज, करञ्ज का बीज, सुमना के प्रवाल और मध्य भाग सहित हयमारक की छाल — इनका तिलक्षार से युक्त लेप बनाए।",
+  "english": "One should make a paste (lepa) of both haridrās, the seed of kuṭaja, karañja seed, the young shoots of sumanas and the bark of hayamāraka with its middle part, mixed with sesame alkali (tila-kṣāra).",
+  "text_flags": [],
+  "notes": "samadhyām 'with the middle (part)' is unclear: the inner part of the bark or the pith (medium). hayamāraka 'horse-killer' = karavīra, Nerium indicum (standard). kuṭaja seed = indrayava (standard). tilakṣāra = alkali made from burnt sesame plants (standard).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.03.14a",
+   "01.03.14b"
+  ],
+  "lines_deva": [
+   "उभे हरिद्रे कुटजस्य बीजं करञ्जबीजं सुमनःप्रवालान्",
+   "त्वचं समध्यां हयमारकस्य लेपं तिलक्षारयुतं विदध्यात्"
+  ],
+  "lines_iast": [
+   "ubhe haridre kuṭajasya bījaṃ karañjabījaṃ sumanaḥpravālān",
+   "tvacaṃ samadhyāṃ hayamārakasya lepaṃ tilakṣārayutaṃ vidadhyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "manaḥśilā",
+      "words": [
+       {
+        "w": "manaḥśilā",
+        "gloss": "manaḥśilā",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvak",
+      "words": [
+       {
+        "w": "tvak",
+        "gloss": "bark",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kuṭajāt",
+      "words": [
+       {
+        "w": "kuṭajāt",
+        "gloss": "from kuṭaja",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "sakuṣṭhāt",
+      "words": [
+       {
+        "w": "sa-kuṣṭhāt",
+        "gloss": "with kuṣṭha",
+        "gram": "m. abl. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "salomaśaḥ",
+      "words": [
+       {
+        "w": "sa-lomaśaḥ",
+        "gloss": "with lomaśa",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "saiḍagajaḥ",
+      "words": [
+       {
+        "w": "sa-eḍagajaḥ",
+        "gloss": "with eḍagaja",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "karañjaḥ",
+      "words": [
+       {
+        "w": "karañjaḥ",
+        "gloss": "karañja",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "granthiśca",
+      "words": [
+       {
+        "w": "granthiḥ",
+        "gloss": "knot, node",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhaurjaḥ",
+      "words": [
+       {
+        "w": "bhaurjaḥ",
+        "gloss": "of bhūrja",
+        "gram": "m. nom. sg. adj. (taddhita)"
+       }
+      ]
+     },
+     {
+      "src": "karavīramūlaṃ",
+      "words": [
+       {
+        "w": "karavīra-mūlam",
+        "gloss": "root of karavīra",
+        "gram": "n. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "cūrṇāni",
+      "words": [
+       {
+        "w": "cūrṇāni",
+        "gloss": "powders",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sādhyāni",
+      "words": [
+       {
+        "w": "sādhyāni",
+        "gloss": "to be prepared",
+        "gram": "n. nom. pl. ger. caus. √sidh"
+       }
+      ]
+     },
+     {
+      "src": "tuṣodakena",
+      "words": [
+       {
+        "w": "tuṣa-udakena",
+        "gloss": "with tuṣodaka",
+        "gram": "n. inst. sg. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मनःशिला, कुष्ठ सहित कुटज की छाल, लोमश और एडगज सहित करञ्ज, और भूर्ज की ग्रन्थि, करवीर-मूल — इनके चूर्ण तुषोदक से सिद्ध करने चाहिए,",
+  "english": "Manaḥśilā, the bark of kuṭaja with kuṣṭha, karañja with lomaśa and eḍagaja, the knot of bhūrja, and the root of karavīra: these powders are to be prepared with tuṣodaka,",
+  "text_flags": [],
+  "notes": "The sentence continues into unit 16. sakuṣṭhāt agrees in the ablative with kuṭajāt; read 'bark from kuṭaja, together with kuṣṭha'. tuṣodaka = a sour fermented liquid made from husked grain such as barley (standard). lomaśa: see unit 4 notes.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.03.15a",
+   "01.03.15b"
+  ],
+  "lines_deva": [
+   "मनःशिला त्वक् कुटजात् सकुष्ठात् सलोमशः सैडगजः करञ्जः",
+   "ग्रन्थिश्च भौर्जः करवीरमूलं चूर्णानि साध्यानि तुषोदकेन"
+  ],
+  "lines_iast": [
+   "manaḥśilā tvak kuṭajāt sakuṣṭhāt salomaśaḥ saiḍagajaḥ karañjaḥ",
+   "granthiśca bhaurjaḥ karavīramūlaṃ cūrṇāni sādhyāni tuṣodakena"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "palāśanirdāharasena",
+      "words": [
+       {
+        "w": "palāśa-nirdāha-rasena",
+        "gloss": "with the liquid of burnt palāśa",
+        "gram": "m. inst. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "cāpi",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "karṣoddhṛtānyāḍhakasaṃmitena",
+      "words": [
+       {
+        "w": "karṣa-uddhṛtāni",
+        "gloss": "taken a karṣa each",
+        "gram": "n. nom. pl. tat-puruṣa, ppp. ud-√hṛ"
+       },
+       {
+        "w": "āḍhaka-saṃmitena",
+        "gloss": "measuring an āḍhaka",
+        "gram": "m. inst. sg. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "darvīpralepaṃ",
+      "words": [
+       {
+        "w": "darvī-pralepam",
+        "gloss": "smearing the ladle",
+        "gram": "m. acc. sg. tat-puruṣa (qualifies lepam)"
+       }
+      ]
+     },
+     {
+      "src": "pravadanti",
+      "words": [
+       {
+        "w": "pravadanti",
+        "gloss": "they declare",
+        "gram": "3 pl. pres. pra-√vad"
+       }
+      ]
+     },
+     {
+      "src": "lepametaṃ",
+      "words": [
+       {
+        "w": "lepam",
+        "gloss": "paste",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "etam",
+        "gloss": "this",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "paraṃ",
+      "words": [
+       {
+        "w": "param",
+        "gloss": "supreme",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kuṣṭhanisūdanāya",
+      "words": [
+       {
+        "w": "kuṣṭha-nisūdanāya",
+        "gloss": "for destroying kuṣṭha",
+        "gram": "n. dat. sg. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और एक आढक मात्रा वाले पलाश-निर्दाह-रस से भी, एक-एक कर्ष लेकर; इस दर्वीप्रलेप लेप को कुष्ठ के नाश के लिए उत्तम कहते हैं।",
+  "english": "and also with the liquid of burnt palāśa measuring one āḍhaka, taken a karṣa each; this paste, smearing the ladle (darvī-pralepa), they declare supreme for destroying kuṣṭha.",
+  "text_flags": [],
+  "notes": "Continues unit 15: the powders, one karṣa of each, are cooked in tuṣodaka and an āḍhaka of palāśa liquid until the paste coats the ladle. palāśanirdāharasa: the liquid from burnt palāśa (Butea monosperma, standard), taken by commentators as alkaline water from its ash (probable). karṣa and āḍhaka are measures (a karṣa is commonly reckoned about 12 g; an āḍhaka about 3 kg or litres; standard reckonings vary).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.03.16a",
+   "01.03.16b"
+  ],
+  "lines_deva": [
+   "पलाशनिर्दाहरसेन चापि कर्षोद्धृतान्याढकसंमितेन",
+   "दर्वीप्रलेपं प्रवदन्ति लेपमेतं परं कुष्ठनिसूदनाय"
+  ],
+  "lines_iast": [
+   "palāśanirdāharasena cāpi karṣoddhṛtānyāḍhakasaṃmitena",
+   "darvīpralepaṃ pravadanti lepametaṃ paraṃ kuṣṭhanisūdanāya"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "parṇāni",
+      "words": [
+       {
+        "w": "parṇāni",
+        "gloss": "leaves",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "piṣṭvā",
+      "words": [
+       {
+        "w": "piṣṭvā",
+        "gloss": "having ground",
+        "gram": "abs. √piṣ"
+       }
+      ]
+     },
+     {
+      "src": "caturaṅgulasya",
+      "words": [
+       {
+        "w": "caturaṅgulasya",
+        "gloss": "of caturaṅgula",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "takreṇa",
+      "words": [
+       {
+        "w": "takreṇa",
+        "gloss": "with buttermilk",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "parṇānyatha",
+      "words": [
+       {
+        "w": "parṇāni",
+        "gloss": "leaves",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "atha",
+        "gloss": "then, also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kākamācyāḥ",
+      "words": [
+       {
+        "w": "kākamācyāḥ",
+        "gloss": "of kākamācī",
+        "gram": "f. gen. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tailāktagātrasya",
+      "words": [
+       {
+        "w": "taila-akta-gātrasya",
+        "gloss": "whose limbs are oiled",
+        "gram": "m. gen. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "narasya",
+      "words": [
+       {
+        "w": "narasya",
+        "gloss": "of a man",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "kuṣṭhānyudvartayedaśvahanacchadaiśca",
+      "words": [
+       {
+        "w": "kuṣṭhāni",
+        "gloss": "kuṣṭhas",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "udvartayet",
+        "gloss": "one should rub",
+        "gram": "3 sg. opt. caus. ud-√vṛt"
+       },
+       {
+        "w": "aśvahana-chadaiḥ",
+        "gloss": "with leaves of aśvahana",
+        "gram": "m. inst. pl. tat-puruṣa"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चतुरङ्गुल के पत्तों को, फिर काकमाची के पत्तों को, तक्र के साथ पीसकर, तथा अश्वहन के पत्तों से भी, तैल लगे अंगों वाले मनुष्य के कुष्ठों का उद्वर्तन करे।",
+  "english": "Having ground the leaves of caturaṅgula with buttermilk, then the leaves of kākamācī, and with the leaves of aśvahana, one should rub (udvartana) the kuṣṭhas of a man whose limbs are anointed with oil.",
+  "text_flags": [],
+  "notes": "takreṇa may go with both sets of leaves. Identifications: caturaṅgula = āragvadha, Cassia fistula (standard, by commentators); kākamācī = Solanum nigrum (standard); aśvahana 'horse-killer' = karavīra, Nerium indicum (standard). The single printed token kuṣṭhānyudvartayedaśvahanacchadaiśca is split into its four words.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.03.17a",
+   "01.03.17b"
+  ],
+  "lines_deva": [
+   "पर्णानि पिष्ट्वा चतुरङ्गुलस्य तक्रेण पर्णान्यथ काकमाच्याः",
+   "तैलाक्तगात्रस्य नरस्य कुष्ठान्युद्वर्तयेदश्वहनच्छदैश्च"
+  ],
+  "lines_iast": [
+   "parṇāni piṣṭvā caturaṅgulasya takreṇa parṇānyatha kākamācyāḥ",
+   "tailāktagātrasya narasya kuṣṭhānyudvartayedaśvahanacchadaiśca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kolaṃ",
+      "words": [
+       {
+        "w": "kolam",
+        "gloss": "kola (jujube)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kulatthāḥ",
+      "words": [
+       {
+        "w": "kulatthāḥ",
+        "gloss": "kulattha (horse gram)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "suradārurāsnāmāṣātasītailaphāni",
+      "words": [
+       {
+        "w": "suradāru-rāsnā-māṣa-atasī-tailaphalāni",
+        "gloss": "suradāru, rāsnā, māṣa, atasī and oil-seeds",
+        "gram": "n. nom. pl. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "kuṣṭham",
+      "words": [
+       {
+        "w": "kuṣṭham",
+        "gloss": "kuṣṭha (the drug)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vacā",
+      "words": [
+       {
+        "w": "vacā",
+        "gloss": "vacā",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śatāhvā",
+      "words": [
+       {
+        "w": "śatāhvā",
+        "gloss": "śatāhvā",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yavacūrṇamamlamuṣṇāni",
+      "words": [
+       {
+        "w": "yava-cūrṇam",
+        "gloss": "barley flour",
+        "gram": "n. nom. sg. tat-puruṣa"
+       },
+       {
+        "w": "amlam",
+        "gloss": "sour (amla)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "uṣṇāni",
+        "gloss": "warm",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vātāmayināṃ",
+      "words": [
+       {
+        "w": "vāta-āmayinām",
+        "gloss": "of those with Vāta diseases",
+        "gram": "m. gen. pl. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pradehaḥ",
+      "words": [
+       {
+        "w": "pradehaḥ",
+        "gloss": "plaster",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कोल, कुलत्थ, सुरदारु, रास्ना, माष, अतसी और तैलफल, कुष्ठ, वचा, शताह्वा, यव-चूर्ण और अम्ल — उष्ण रूप में ये वात-रोगियों के लिए प्रदेह हैं।",
+  "english": "Kola, kulattha, suradāru, rāsnā, māṣa, atasī and oil-seeds, kuṣṭha, vacā, śatāhvā, barley flour and amla (sour): warm, these are a plaster for those suffering from Vāta diseases.",
+  "text_flags": [
+   {
+    "src": "suradārurāsnāmāṣātasītailaphāni",
+    "suggest": "suradārurāsnāmāṣātasītailaphalāni",
+    "why": "The line has 21 syllables; with tailaphalāni pāda b of line a (māṣātasītailaphalāni kuṣṭham) has 11 syllables and fits indravajrā exactly; 'tailapha' is not a word. The Devanagari (तैलफानि) has the same omission of ला. Typing error."
+   }
+  ],
+  "notes": "tailaphala = oil-yielding seeds such as tila and sarṣapa (probable). amla is taken as a sour liquid such as kāñjika (probable). Identifications: kola = Ziziphus jujuba (standard); kulattha = Dolichos biflorus (standard); rāsnā = Pluchea lanceolata (disputed; also Alpinia galanga); māṣa = black gram, Vigna mungo (standard); atasī = linseed, Linum usitatissimum (standard); śatāhvā = dill, Anethum sowa (standard).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.03.18a",
+   "01.03.18b"
+  ],
+  "lines_deva": [
+   "कोलं कुलत्थाः सुरदारुरास्नामाषातसीतैलफानि कुष्ठम्",
+   "वचा शताह्वा यवचूर्णमम्लमुष्णानि वातामयिनां प्रदेहः"
+  ],
+  "lines_iast": [
+   "kolaṃ kulatthāḥ suradārurāsnāmāṣātasītailaphāni kuṣṭham",
+   "vacā śatāhvā yavacūrṇamamlamuṣṇāni vātāmayināṃ pradehaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ānūpamatsyāmiṣavesavārairuṣṇaiḥ",
+      "words": [
+       {
+        "w": "ānūpa-matsya-āmiṣa-vesavāraiḥ",
+        "gloss": "with vesavāra of marsh fish and flesh",
+        "gram": "m. inst. pl. tat-puruṣa"
+       },
+       {
+        "w": "uṣṇaiḥ",
+        "gloss": "warm",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "pradehaḥ",
+      "words": [
+       {
+        "w": "pradehaḥ",
+        "gloss": "plaster",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pavanāpahaḥ",
+      "words": [
+       {
+        "w": "pavana-apahaḥ",
+        "gloss": "removing Vāta (pavana)",
+        "gram": "m. nom. sg. upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "syāt",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √as"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "snehaiścaturbhirdaśamūlamiśrairgandhauṣadhaiścānilahaḥ",
+      "words": [
+       {
+        "w": "snehaiḥ",
+        "gloss": "with fats (sneha)",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "caturbhiḥ",
+        "gloss": "four",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "daśamūla-miśraiḥ",
+        "gloss": "mixed with daśamūla",
+        "gram": "m. inst. pl. tat-puruṣa"
+       },
+       {
+        "w": "gandha-auṣadhaiḥ",
+        "gloss": "with fragrant drugs",
+        "gram": "n. inst. pl. karmadhāraya"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anila-haḥ",
+        "gloss": "destroying Vāta (anila)",
+        "gram": "m. nom. sg. upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pradehaḥ",
+      "words": [
+       {
+        "w": "pradehaḥ",
+        "gloss": "plaster",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आनूप मत्स्य और मांस के उष्ण वेसवारों से प्रदेह वात को दूर करने वाला होता है; दशमूल मिले चार स्नेहों से और गन्ध-औषधों से प्रदेह वात को नष्ट करने वाला होता है।",
+  "english": "A plaster with warm vesavāra of marsh (ānūpa) fish and flesh would remove Vāta (pavana); a plaster with the four fats (sneha) mixed with daśamūla, and with fragrant drugs, destroys Vāta (anila).",
+  "text_flags": [],
+  "notes": "vesavāra = boneless meat minced, steamed and spiced (standard). ānūpa is read as qualifying both fish and flesh. The four snehas = ghee, oil, muscle-fat (vasā) and marrow (majjā) (standard). daśamūla = the group of ten roots (standard). In the Hindi both pavana and anila are rendered वात per the glossary.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.03.19a",
+   "01.03.19b"
+  ],
+  "lines_deva": [
+   "आनूपमत्स्यामिषवेसवारैरुष्णैः प्रदेहः पवनापहः स्यात्",
+   "स्नेहैश्चतुर्भिर्दशमूलमिश्रैर्गन्धौषधैश्चानिलहः प्रदेहः"
+  ],
+  "lines_iast": [
+   "ānūpamatsyāmiṣavesavārairuṣṇaiḥ pradehaḥ pavanāpahaḥ syāt",
+   "snehaiścaturbhirdaśamūlamiśrairgandhauṣadhaiścānilahaḥ pradehaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "takreṇa",
+      "words": [
+       {
+        "w": "takreṇa",
+        "gloss": "with buttermilk",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "yuktaṃ",
+      "words": [
+       {
+        "w": "yuktam",
+        "gloss": "mixed",
+        "gram": "n. nom. sg. ppp. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "yavacūrṇamuṣṇaṃ",
+      "words": [
+       {
+        "w": "yava-cūrṇam",
+        "gloss": "barley flour",
+        "gram": "n. nom. sg. tat-puruṣa"
+       },
+       {
+        "w": "uṣṇam",
+        "gloss": "warm",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sakṣāramartiṃ",
+      "words": [
+       {
+        "w": "sa-kṣāram",
+        "gloss": "with alkali",
+        "gram": "n. nom. sg. bahuvrīhi"
+       },
+       {
+        "w": "artim",
+        "gloss": "pain",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jaṭhare",
+      "words": [
+       {
+        "w": "jaṭhare",
+        "gloss": "in the abdomen",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nihanyāt",
+      "words": [
+       {
+        "w": "nihanyāt",
+        "gloss": "would destroy",
+        "gram": "3 sg. opt. ni-√han"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kuṣṭhaṃ",
+      "words": [
+       {
+        "w": "kuṣṭham",
+        "gloss": "kuṣṭha (the drug)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śatāhvāṃ",
+      "words": [
+       {
+        "w": "śatāhvām",
+        "gloss": "śatāhvā",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "savacāṃ",
+      "words": [
+       {
+        "w": "sa-vacām",
+        "gloss": "with vacā",
+        "gram": "f. acc. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "yavānāṃ",
+      "words": [
+       {
+        "w": "yavānām",
+        "gloss": "of barley",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "cūrṇaṃ",
+      "words": [
+       {
+        "w": "cūrṇam",
+        "gloss": "powder, flour",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "satailāmlamuśanti",
+      "words": [
+       {
+        "w": "sa-taila-amlam",
+        "gloss": "with oil and sour (amla)",
+        "gram": "n. acc. sg. bahuvrīhi"
+       },
+       {
+        "w": "uśanti",
+        "gloss": "they recommend",
+        "gram": "3 pl. pres. √vaś"
+       }
+      ]
+     },
+     {
+      "src": "vāte",
+      "words": [
+       {
+        "w": "vāte",
+        "gloss": "in Vāta",
+        "gram": "m. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तक्र से युक्त, क्षार सहित उष्ण यव-चूर्ण जठर की पीड़ा को नष्ट करे; वचा सहित कुष्ठ और शताह्वा, तथा यवों का चूर्ण, तैल और अम्ल सहित, वात में बताते हैं।",
+  "english": "Warm barley flour mixed with buttermilk, with alkali (kṣāra), would destroy pain in the abdomen; kuṣṭha and śatāhvā with vacā, and the flour of barley, with oil and amla (sour), they recommend in Vāta.",
+  "text_flags": [],
+  "notes": "savacām agrees with śatāhvām. yavānām is gen. pl. of yava (barley); reading it as yavānī (ajowan) would need a different form. uśanti (√vaś 'wish') is used in the sense 'recommend'. The application form (plaster) is implied by context.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.03.20a",
+   "01.03.20b"
+  ],
+  "lines_deva": [
+   "तक्रेण युक्तं यवचूर्णमुष्णं सक्षारमर्तिं जठरे निहन्यात्",
+   "कुष्ठं शताह्वां सवचां यवानां चूर्णं सतैलाम्लमुशन्ति वाते"
+  ],
+  "lines_iast": [
+   "takreṇa yuktaṃ yavacūrṇamuṣṇaṃ sakṣāramartiṃ jaṭhare nihanyāt",
+   "kuṣṭhaṃ śatāhvāṃ savacāṃ yavānāṃ cūrṇaṃ satailāmlamuśanti vāte"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ubhe",
+      "words": [
+       {
+        "w": "ubhe",
+        "gloss": "both",
+        "gram": "f. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "śatāhve",
+      "words": [
+       {
+        "w": "śatāhve",
+        "gloss": "the two śatāhvās",
+        "gram": "f. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "madhukaṃ",
+      "words": [
+       {
+        "w": "madhukam",
+        "gloss": "madhuka",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhūkaṃ",
+      "words": [
+       {
+        "w": "madhūkam",
+        "gloss": "madhūka",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "balāṃ",
+      "words": [
+       {
+        "w": "balām",
+        "gloss": "balā",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "priyālaṃ",
+      "words": [
+       {
+        "w": "priyālam",
+        "gloss": "priyāla",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaśerukaṃ",
+      "words": [
+       {
+        "w": "kaśerukam",
+        "gloss": "kaśeruka",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ghṛtaṃ",
+      "words": [
+       {
+        "w": "ghṛtam",
+        "gloss": "ghee",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidārīṃ",
+      "words": [
+       {
+        "w": "vidārīm",
+        "gloss": "vidārī",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sitopalāṃ",
+      "words": [
+       {
+        "w": "sitopalām",
+        "gloss": "sugar candy (sitopalā)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kuryāt",
+      "words": [
+       {
+        "w": "kuryāt",
+        "gloss": "one should make",
+        "gram": "3 sg. opt. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "pradehaṃ",
+      "words": [
+       {
+        "w": "pradeham",
+        "gloss": "plaster",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pavane",
+      "words": [
+       {
+        "w": "pavane",
+        "gloss": "in Vāta (pavana)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarakte",
+      "words": [
+       {
+        "w": "sa-rakte",
+        "gloss": "with blood (rakta)",
+        "gram": "m. loc. sg. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों शताह्वा, मधुक, मधूक, बला, प्रियाल और कशेरुक, घृत, विदारी और सितोपला — इनका प्रदेह रक्त सहित वात में करे।",
+  "english": "In Vāta (pavana) with blood (rakta), one should make a plaster of both śatāhvās, madhuka, madhūka, balā, priyāla and kaśeruka, ghee, vidārī and sugar candy (sitopalā).",
+  "text_flags": [],
+  "notes": "pavane sarakte = Vāta combined with rakta, i.e. vātarakta, often equated with gout (probable). The two śatāhvās are taken as śatāhvā and miśreyā (disputed). Identifications: madhuka = liquorice, Glycyrrhiza glabra (standard); madhūka = Madhuca indica (standard); balā = Sida cordifolia (standard); priyāla = Buchanania lanzan (standard); kaśeruka = Scirpus grossus (probable); vidārī = Pueraria tuberosa (probable).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.03.21a",
+   "01.03.21b"
+  ],
+  "lines_deva": [
+   "उभे शताह्वे मधुकं मधूकं बलां प्रियालं च कशेरुकं च",
+   "घृतं विदारीं च सितोपलां च कुर्यात् प्रदेहं पवने सरक्ते"
+  ],
+  "lines_iast": [
+   "ubhe śatāhve madhukaṃ madhūkaṃ balāṃ priyālaṃ ca kaśerukaṃ ca",
+   "ghṛtaṃ vidārīṃ ca sitopalāṃ ca kuryāt pradehaṃ pavane sarakte"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rāsnā",
+      "words": [
+       {
+        "w": "rāsnā",
+        "gloss": "rāsnā",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "guḍūcī",
+      "words": [
+       {
+        "w": "guḍūcī",
+        "gloss": "guḍūcī",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhukaṃ",
+      "words": [
+       {
+        "w": "madhukam",
+        "gloss": "madhuka",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bale",
+      "words": [
+       {
+        "w": "bale",
+        "gloss": "the two balās",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "dve",
+      "words": [
+       {
+        "w": "dve",
+        "gloss": "two",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "sajīvakaṃ",
+      "words": [
+       {
+        "w": "sa-jīvakam",
+        "gloss": "with jīvaka",
+        "gram": "n. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sarṣabhakaṃ",
+      "words": [
+       {
+        "w": "sa-ṛṣabhakam",
+        "gloss": "with ṛṣabhaka",
+        "gram": "n. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "payaśca",
+      "words": [
+       {
+        "w": "payaḥ",
+        "gloss": "milk",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ghṛtaṃ",
+      "words": [
+       {
+        "w": "ghṛtam",
+        "gloss": "ghee",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "siddhaṃ",
+      "words": [
+       {
+        "w": "siddham",
+        "gloss": "cooked, prepared",
+        "gram": "n. nom. sg. ppp. √sidh"
+       }
+      ]
+     },
+     {
+      "src": "madhuśeṣayuktaṃ",
+      "words": [
+       {
+        "w": "madhuśeṣa-yuktam",
+        "gloss": "mixed with beeswax",
+        "gram": "n. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "raktānilārtiṃ",
+      "words": [
+       {
+        "w": "rakta-anila-artim",
+        "gloss": "pain of rakta and Vāta (anila)",
+        "gram": "f. acc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "praṇudet",
+      "words": [
+       {
+        "w": "praṇudet",
+        "gloss": "would dispel",
+        "gram": "3 sg. opt. pra-√nud"
+       }
+      ]
+     },
+     {
+      "src": "pradehaḥ",
+      "words": [
+       {
+        "w": "pradehaḥ",
+        "gloss": "plaster",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रास्ना, गुडूची, मधुक, दोनों बला, जीवक और ऋषभक सहित, और दूध; तथा सिद्ध किया हुआ, मधुशेष से युक्त घृत — यह प्रदेह रक्त और वात की पीड़ा को दूर करे।",
+  "english": "Rāsnā, guḍūcī, madhuka, the two balās, with jīvaka and ṛṣabhaka, and milk; and ghee, cooked (siddha) and mixed with beeswax (madhuśeṣa): as a plaster it would dispel the pain of rakta and Vāta (anila).",
+  "text_flags": [],
+  "notes": "siddham probably means the ghee is cooked with the listed drugs and milk (commentators), but the text only says 'cooked'. sarṣabhakam = sa + ṛṣabhakam. The two balās = balā and atibalā (probable). jīvaka and ṛṣabhaka are drugs of the aṣṭavarga group, unidentified with certainty (disputed). madhuśeṣa 'remainder of honey' = beeswax (standard).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.03.22a",
+   "01.03.22b"
+  ],
+  "lines_deva": [
+   "रास्ना गुडूची मधुकं बले द्वे सजीवकं सर्षभकं पयश्च",
+   "घृतं च सिद्धं मधुशेषयुक्तं रक्तानिलार्तिं प्रणुदेत् प्रदेहः"
+  ],
+  "lines_iast": [
+   "rāsnā guḍūcī madhukaṃ bale dve sajīvakaṃ sarṣabhakaṃ payaśca",
+   "ghṛtaṃ ca siddhaṃ madhuśeṣayuktaṃ raktānilārtiṃ praṇudet pradehaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vāte",
+      "words": [
+       {
+        "w": "vāte",
+        "gloss": "in Vāta",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarakte",
+      "words": [
+       {
+        "w": "sa-rakte",
+        "gloss": "with blood (rakta)",
+        "gram": "m. loc. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "saghṛtaṃ",
+      "words": [
+       {
+        "w": "sa-ghṛtam",
+        "gloss": "with ghee",
+        "gram": "n. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "pradeho",
+      "words": [
+       {
+        "w": "pradehaḥ",
+        "gloss": "plaster",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "godhūmacūrṇaṃ",
+      "words": [
+       {
+        "w": "godhūma-cūrṇam",
+        "gloss": "wheat flour",
+        "gram": "n. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "chagalīpayaśca",
+      "words": [
+       {
+        "w": "chagalī-payaḥ",
+        "gloss": "goat's milk",
+        "gram": "n. nom. sg. tat-puruṣa"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "natotpalaṃ",
+      "words": [
+       {
+        "w": "nata-utpalam",
+        "gloss": "nata and utpala",
+        "gram": "n. nom. sg. samāhāra-dvandva"
+       }
+      ]
+     },
+     {
+      "src": "candanakuṣṭhayuktaṃ",
+      "words": [
+       {
+        "w": "candana-kuṣṭha-yuktam",
+        "gloss": "mixed with candana and kuṣṭha",
+        "gram": "n. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "śirorujāyāṃ",
+      "words": [
+       {
+        "w": "śiro-rujāyām",
+        "gloss": "in headache",
+        "gram": "f. loc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "saghṛtaṃ",
+      "words": [
+       {
+        "w": "sa-ghṛtam",
+        "gloss": "with ghee",
+        "gram": "n. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "pradehaḥ",
+      "words": [
+       {
+        "w": "pradehaḥ",
+        "gloss": "plaster",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रक्त सहित वात में घृत सहित गोधूम-चूर्ण और बकरी का दूध प्रदेह है; चन्दन और कुष्ठ से युक्त, घृत सहित नत और उत्पल शिरोरुजा में प्रदेह है।",
+  "english": "In Vāta with rakta, wheat flour and goat's milk with ghee is a plaster; nata and utpala, mixed with candana and kuṣṭha, with ghee, is a plaster in headache.",
+  "text_flags": [],
+  "notes": "Identifications: nata = tagara, Valeriana wallichii (standard); utpala = blue water lily, Nymphaea stellata (standard); candana = sandalwood, Santalum album (standard).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.03.23a",
+   "01.03.23b"
+  ],
+  "lines_deva": [
+   "वाते सरक्ते सघृतं प्रदेहो गोधूमचूर्णं छगलीपयश्च",
+   "नतोत्पलं चन्दनकुष्ठयुक्तं शिरोरुजायां सघृतं प्रदेहः"
+  ],
+  "lines_iast": [
+   "vāte sarakte saghṛtaṃ pradeho godhūmacūrṇaṃ chagalīpayaśca",
+   "natotpalaṃ candanakuṣṭhayuktaṃ śirorujāyāṃ saghṛtaṃ pradehaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prapauṇḍarīkaṃ",
+      "words": [
+       {
+        "w": "prapauṇḍarīkam",
+        "gloss": "prapauṇḍarīka",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "suradāru",
+      "words": [
+       {
+        "w": "suradāru",
+        "gloss": "suradāru",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kuṣṭhaṃ",
+      "words": [
+       {
+        "w": "kuṣṭham",
+        "gloss": "kuṣṭha (the drug)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaṣṭyāhvamelā",
+      "words": [
+       {
+        "w": "yaṣṭi-āhvam",
+        "gloss": "yaṣṭyāhva (named yaṣṭi)",
+        "gram": "n. nom. sg. bahuvrīhi"
+       },
+       {
+        "w": "elā",
+        "gloss": "elā",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kamalotpale",
+      "words": [
+       {
+        "w": "kamala-utpale",
+        "gloss": "kamala and utpala",
+        "gram": "n. nom. du. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śirorujāyāṃ",
+      "words": [
+       {
+        "w": "śiro-rujāyām",
+        "gloss": "in headache",
+        "gram": "f. loc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "saghṛtaḥ",
+      "words": [
+       {
+        "w": "sa-ghṛtaḥ",
+        "gloss": "with ghee",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "pradeho",
+      "words": [
+       {
+        "w": "pradehaḥ",
+        "gloss": "plaster",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "lohairakāpadmakacorakaiśca",
+      "words": [
+       {
+        "w": "loha-erakā-padmaka-corakaiḥ",
+        "gloss": "with loha, erakā, padmaka and coraka",
+        "gram": "m. inst. pl. dvandva"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्रपौण्डरीक, सुरदारु, कुष्ठ, यष्ट्याह्व, एला, कमल और उत्पल, तथा लोह, एरका, पद्मक और चोरक के साथ — घृत सहित प्रदेह शिरोरुजा में है।",
+  "english": "Prapauṇḍarīka, suradāru, kuṣṭha, yaṣṭyāhva, elā, kamala and utpala, and with loha, erakā, padmaka and coraka: a plaster with ghee in headache.",
+  "text_flags": [],
+  "notes": "loha in this list of plant drugs is taken by commentators as aguru (probable), not metal; the word is kept as loha. Identifications: prapauṇḍarīka = a lotus-like drug (disputed); yaṣṭyāhva = yaṣṭimadhu, liquorice (standard); kamala = Nelumbo nucifera (standard); erakā = Typha elephantina (probable); padmaka = Prunus cerasoides (standard); coraka = Angelica glauca (probable).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.03.24a",
+   "01.03.24b"
+  ],
+  "lines_deva": [
+   "प्रपौण्डरीकं सुरदारु कुष्ठं यष्ट्याह्वमेला कमलोत्पले च",
+   "शिरोरुजायां सघृतः प्रदेहो लोहैरकापद्मकचोरकैश्च"
+  ],
+  "lines_iast": [
+   "prapauṇḍarīkaṃ suradāru kuṣṭhaṃ yaṣṭyāhvamelā kamalotpale ca",
+   "śirorujāyāṃ saghṛtaḥ pradeho lohairakāpadmakacorakaiśca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rāsnā",
+      "words": [
+       {
+        "w": "rāsnā",
+        "gloss": "rāsnā",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "haridre",
+      "words": [
+       {
+        "w": "haridre",
+        "gloss": "the two haridrās",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "naladaṃ",
+      "words": [
+       {
+        "w": "naladam",
+        "gloss": "nalada",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śatāhve",
+      "words": [
+       {
+        "w": "śatāhve",
+        "gloss": "śatāhvās",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "dve",
+      "words": [
+       {
+        "w": "dve",
+        "gloss": "two",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "devadārūṇi",
+      "words": [
+       {
+        "w": "devadārūṇi",
+        "gloss": "devadāru",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sitopalā",
+      "words": [
+       {
+        "w": "sitopalā",
+        "gloss": "sugar candy (sitopalā)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "jīvantimūlaṃ",
+      "words": [
+       {
+        "w": "jīvanti-mūlam",
+        "gloss": "root of jīvantī",
+        "gram": "n. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "saghṛtaṃ",
+      "words": [
+       {
+        "w": "sa-ghṛtam",
+        "gloss": "with ghee",
+        "gram": "n. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "satailamālepanaṃ",
+      "words": [
+       {
+        "w": "sa-tailam",
+        "gloss": "with oil",
+        "gram": "n. nom. sg. bahuvrīhi"
+       },
+       {
+        "w": "ālepanam",
+        "gloss": "ointment",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pārśvarujāsu",
+      "words": [
+       {
+        "w": "pārśva-rujāsu",
+        "gloss": "in pains of the sides",
+        "gram": "f. loc. pl. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "koṣṇam",
+      "words": [
+       {
+        "w": "koṣṇam",
+        "gloss": "lukewarm",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रास्ना, दोनों हरिद्रा, नलद, दोनों शताह्वा, देवदारु, सितोपला और जीवन्ती-मूल — घृत और तैल सहित, कुछ गरम आलेपन पार्श्वरुजा में है।",
+  "english": "Rāsnā, the two haridrās, nalada, the two śatāhvās, devadāru, sitopalā and the root of jīvantī, with ghee and with oil, lukewarm, is an ointment (ālepana) in pains of the sides.",
+  "text_flags": [],
+  "notes": "dve (f. du.) is read with śatāhve (f. du.) before it; it cannot agree with devadārūṇi (n. pl.), though it opens the second quarter of the verse. Some read 'dve devadārūṇi' as two kinds of devadāru; the number mismatch makes this less likely. jīvanti- is the compound form of jīvantī. Identifications: nalada = jaṭāmāṃsī, Nardostachys jatamansi (standard); jīvantī = Leptadenia reticulata (probable).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.03.25a",
+   "01.03.25b"
+  ],
+  "lines_deva": [
+   "रास्ना हरिद्रे नलदं शताह्वे द्वे देवदारूणि सितोपला च",
+   "जीवन्तिमूलं सघृतं सतैलमालेपनं पार्श्वरुजासु कोष्णम्"
+  ],
+  "lines_iast": [
+   "rāsnā haridre naladaṃ śatāhve dve devadārūṇi sitopalā ca",
+   "jīvantimūlaṃ saghṛtaṃ satailamālepanaṃ pārśvarujāsu koṣṇam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śaivālapadmotpalavetratuṅgaprapauṇḍarīkāṇyamṛṇālalodhram",
+      "words": [
+       {
+        "w": "śaivāla-padma-utpala-vetra-tuṅga-prapauṇḍarīkāṇi",
+        "gloss": "śaivāla, padma, utpala, vetra, tuṅga and prapauṇḍarīka",
+        "gram": "n. nom. pl. dvandva"
+       },
+       {
+        "w": "amṛṇāla-lodhram",
+        "gloss": "amṛṇāla and lodhra",
+        "gram": "n. nom. sg. samāhāra-dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "priyaṅgukāleyakacandanāni",
+      "words": [
+       {
+        "w": "priyaṅgu-kāleyaka-candanāni",
+        "gloss": "priyaṅgu, kāleyaka and candana",
+        "gram": "n. nom. pl. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "nirvāpaṇaḥ",
+      "words": [
+       {
+        "w": "nirvāpaṇaḥ",
+        "gloss": "cooling",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "syāt",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √as"
+       }
+      ]
+     },
+     {
+      "src": "saghṛtaḥ",
+      "words": [
+       {
+        "w": "sa-ghṛtaḥ",
+        "gloss": "with ghee",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "pradehaḥ",
+      "words": [
+       {
+        "w": "pradehaḥ",
+        "gloss": "plaster",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शैवाल, पद्म, उत्पल, वेत्र, तुङ्ग, प्रपौण्डरीक, अमृणाल और लोध्र, प्रियङ्गु, कालेयक और चन्दन — घृत सहित यह प्रदेह निर्वापण करने वाला होता है।",
+  "english": "Śaivāla, padma, utpala, vetra, tuṅga, prapauṇḍarīka, amṛṇāla and lodhra, priyaṅgu, kāleyaka and candana: with ghee, the plaster would be cooling (nirvāpaṇa).",
+  "text_flags": [],
+  "notes": "nirvāpaṇa 'extinguishing', i.e. cooling, relieving burning (standard sense). Identifications: śaivāla = an aquatic weed, Vallisneria spiralis (probable); padma = lotus, Nelumbo nucifera (standard); vetra = Calamus rotang (standard); tuṅga = punnāga, Calophyllum inophyllum (probable); amṛṇāla = uśīra, vetiver, Vetiveria zizanioides (standard, by commentators); priyaṅgu = Callicarpa macrophylla (standard); kāleyaka = a yellow fragrant wood (disputed).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.03.26a",
+   "01.03.26b"
+  ],
+  "lines_deva": [
+   "शैवालपद्मोत्पलवेत्रतुङ्गप्रपौण्डरीकाण्यमृणाललोध्रम्",
+   "प्रियङ्गुकालेयकचन्दनानि निर्वापणः स्यात् सघृतः प्रदेहः"
+  ],
+  "lines_iast": [
+   "śaivālapadmotpalavetratuṅgaprapauṇḍarīkāṇyamṛṇālalodhram",
+   "priyaṅgukāleyakacandanāni nirvāpaṇaḥ syāt saghṛtaḥ pradehaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sitālatāvetasapadmakāni",
+      "words": [
+       {
+        "w": "sitā-latā-vetasa-padmakāni",
+        "gloss": "sitā, latā, vetasa and padmaka",
+        "gram": "n. nom. pl. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "yaṣṭyāhvamaindrī",
+      "words": [
+       {
+        "w": "yaṣṭi-āhvam",
+        "gloss": "yaṣṭyāhva",
+        "gram": "n. nom. sg. bahuvrīhi"
+       },
+       {
+        "w": "aindrī",
+        "gloss": "aindrī",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nalināni",
+      "words": [
+       {
+        "w": "nalināni",
+        "gloss": "nalina lotuses",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dūrvā",
+      "words": [
+       {
+        "w": "dūrvā",
+        "gloss": "dūrvā grass",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yavāsamūlaṃ",
+      "words": [
+       {
+        "w": "yavāsa-mūlam",
+        "gloss": "root of yavāsa",
+        "gram": "n. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kuśakāśayośca",
+      "words": [
+       {
+        "w": "kuśa-kāśayoḥ",
+        "gloss": "of kuśa and kāśa",
+        "gram": "m. gen. du. dvandva"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nirvāpaṇaḥ",
+      "words": [
+       {
+        "w": "nirvāpaṇaḥ",
+        "gloss": "cooling",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "syājjalamerakā",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √as"
+       },
+       {
+        "w": "jalam",
+        "gloss": "jala",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "erakā",
+        "gloss": "erakā",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सिता, लता, वेतस और पद्मक, यष्ट्याह्व, ऐन्द्री, नलिन, दूर्वा, यवास-मूल और कुश तथा काश का मूल, जल और एरका — यह निर्वापण करने वाला होता है।",
+  "english": "Sitā, latā, vetasa and padmaka, yaṣṭyāhva, aindrī, nalinas, dūrvā, the root of yavāsa and of kuśa and kāśa, jala and erakā: this would be cooling (nirvāpaṇa).",
+  "text_flags": [],
+  "notes": "sitālatā can also be one name ('white creeper', e.g. white dūrvā); the split sitā (sugar) + latā (priyaṅgu or mañjiṣṭhā) is disputed. jala may be water or the drug hrībera (Pavonia odorata) (probable for the drug sense); kept as jala. nirvāpaṇaḥ (m.) implies pradehaḥ from unit 26; 'this' in the translation stands for it. Identifications: vetasa = Salix caprea or Calamus (disputed); aindrī = indravāruṇī or brāhmī (disputed); dūrvā = Cynodon dactylon (standard); yavāsa = Alhagi camelorum (probable); kuśa = Desmostachya bipinnata (standard); kāśa = Saccharum spontaneum (standard).",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "01.03.27a",
+   "01.03.27b"
+  ],
+  "lines_deva": [
+   "सितालतावेतसपद्मकानि यष्ट्याह्वमैन्द्री नलिनानि दूर्वा",
+   "यवासमूलं कुशकाशयोश्च निर्वापणः स्याज्जलमेरका च"
+  ],
+  "lines_iast": [
+   "sitālatāvetasapadmakāni yaṣṭyāhvamaindrī nalināni dūrvā",
+   "yavāsamūlaṃ kuśakāśayośca nirvāpaṇaḥ syājjalamerakā ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śaileyamelāguruṇī",
+      "words": [
+       {
+        "w": "śaileyam",
+        "gloss": "śaileya",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "elā-aguruṇī",
+        "gloss": "elā and aguru",
+        "gram": "n. nom. du. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "sakuṣṭhe",
+      "words": [
+       {
+        "w": "sa-kuṣṭhe",
+        "gloss": "with kuṣṭha",
+        "gram": "n. nom. du. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "caṇḍā",
+      "words": [
+       {
+        "w": "caṇḍā",
+        "gloss": "caṇḍā",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nataṃ",
+      "words": [
+       {
+        "w": "natam",
+        "gloss": "nata",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvak",
+      "words": [
+       {
+        "w": "tvak",
+        "gloss": "tvak (bark)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "suradāru",
+      "words": [
+       {
+        "w": "suradāru",
+        "gloss": "suradāru",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rāsnā",
+      "words": [
+       {
+        "w": "rāsnā",
+        "gloss": "rāsnā",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śītaṃ",
+      "words": [
+       {
+        "w": "śītam",
+        "gloss": "cold",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nihanyādacirāt",
+      "words": [
+       {
+        "w": "nihanyāt",
+        "gloss": "would destroy",
+        "gram": "3 sg. opt. ni-√han"
+       },
+       {
+        "w": "acirāt",
+        "gloss": "quickly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pradeho",
+      "words": [
+       {
+        "w": "pradehaḥ",
+        "gloss": "plaster",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viṣaṃ",
+      "words": [
+       {
+        "w": "viṣam",
+        "gloss": "poison",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śirīṣastu",
+      "words": [
+       {
+        "w": "śirīṣaḥ",
+        "gloss": "śirīṣa",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "but, and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sasindhuvāraḥ",
+      "words": [
+       {
+        "w": "sa-sindhuvāraḥ",
+        "gloss": "with sindhuvāra",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शैलेय, कुष्ठ सहित एला और अगुरु, चण्डा, नत, त्वक्, सुरदारु और रास्ना — यह प्रदेह शीत को शीघ्र नष्ट करे; और सिन्धुवार सहित शिरीष विष को।",
+  "english": "Śaileya, elā and aguru with kuṣṭha, caṇḍā, nata, tvak, suradāru and rāsnā: as a plaster it would quickly destroy cold; and śirīṣa with sindhuvāra, poison.",
+  "text_flags": [],
+  "notes": "śītam: the sensation or condition of cold. In line b nihanyāt and pradehaḥ are understood again with śirīṣa. tvak in drug lists = cinnamon bark, Cinnamomum zeylanicum (standard). Identifications: śaileya = a lichen, Parmelia perlata (probable); aguru = Aquilaria agallocha (standard); sindhuvāra = Vitex negundo (standard); caṇḍā: see unit 8.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.03.28a",
+   "01.03.28b"
+  ],
+  "lines_deva": [
+   "शैलेयमेलागुरुणी सकुष्ठे चण्डा नतं त्वक् सुरदारु रास्ना",
+   "शीतं निहन्यादचिरात् प्रदेहो विषं शिरीषस्तु ससिन्धुवारः"
+  ],
+  "lines_iast": [
+   "śaileyamelāguruṇī sakuṣṭhe caṇḍā nataṃ tvak suradāru rāsnā",
+   "śītaṃ nihanyādacirāt pradeho viṣaṃ śirīṣastu sasindhuvāraḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śirīṣalāmajjakahemalodhraistvagdoṣasaṃsvedaharaḥ",
+      "words": [
+       {
+        "w": "śirīṣa-lāmajjaka-hema-lodhraiḥ",
+        "gloss": "with śirīṣa, lāmajjaka, hema and lodhra",
+        "gram": "n. inst. pl. dvandva"
+       },
+       {
+        "w": "tvak-doṣa-saṃsveda-haraḥ",
+        "gloss": "removing skin disorders and profuse sweat",
+        "gram": "m. nom. sg. upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pragharṣaḥ",
+      "words": [
+       {
+        "w": "pragharṣaḥ",
+        "gloss": "rubbing",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "patrāmbulodhrābhayacandanāni",
+      "words": [
+       {
+        "w": "patra-ambu-lodhra-abhaya-candanāni",
+        "gloss": "patra, ambu, lodhra, abhaya and candana",
+        "gram": "n. nom. pl. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "śarīradaurgandhyaharaḥ",
+      "words": [
+       {
+        "w": "śarīra-daurgandhya-haraḥ",
+        "gloss": "removing bad body odour",
+        "gram": "m. nom. sg. upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pradehaḥ",
+      "words": [
+       {
+        "w": "pradehaḥ",
+        "gloss": "plaster",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शिरीष, लामज्जक, हेम और लोध्र से प्रघर्ष त्वग्दोष और संस्वेद को हरने वाला है; पत्र, अम्बु, लोध्र, अभय और चन्दन — यह प्रदेह शरीर की दुर्गन्ध को हरने वाला है।",
+  "english": "Rubbing (pragharṣa) with śirīṣa, lāmajjaka, hema and lodhra removes skin disorders (tvag-doṣa) and profuse sweating (saṃsveda); patra, ambu, lodhra, abhaya and candana are a plaster that removes bad odour of the body.",
+  "text_flags": [],
+  "notes": "abhaya in the compound may stand for abhayā (harītakī, Terminalia chebula) or for uśīra (some commentators) (disputed). Identifications: lāmajjaka = a fragrant grass related to uśīra (probable); hema = nāgakeśara (disputed); patra = tejapatra, Cinnamomum tamala (probable); ambu = hrībera, Pavonia odorata (probable).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.03.29a",
+   "01.03.29b"
+  ],
+  "lines_deva": [
+   "शिरीषलामज्जकहेमलोध्रैस्त्वग्दोषसंस्वेदहरः प्रघर्षः",
+   "पत्राम्बुलोध्राभयचन्दनानि शरीरदौर्गन्ध्यहरः प्रदेहः"
+  ],
+  "lines_iast": [
+   "śirīṣalāmajjakahemalodhraistvagdoṣasaṃsvedaharaḥ pragharṣaḥ",
+   "patrāmbulodhrābhayacandanāni śarīradaurgandhyaharaḥ pradehaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ślokaḥ",
+      "words": [
+       {
+        "w": "ślokaḥ",
+        "gloss": "verse",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "---",
+      "words": [
+       {
+        "w": "---",
+        "gloss": "dash",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ihātrijaḥ",
+      "words": [
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       },
+       {
+        "w": "atri-jaḥ",
+        "gloss": "the son of Atri",
+        "gram": "m. nom. sg. upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "siddhatamānuvāca",
+      "words": [
+       {
+        "w": "siddhatamān",
+        "gloss": "most proven",
+        "gram": "m. acc. pl. superl."
+       },
+       {
+        "w": "uvāca",
+        "gloss": "taught, spoke",
+        "gram": "3 sg. pf. √vac"
+       }
+      ]
+     },
+     {
+      "src": "dvātriṃśataṃ",
+      "words": [
+       {
+        "w": "dvātriṃśatam",
+        "gloss": "thirty-two",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "siddhamaharṣipūjyaḥ",
+      "words": [
+       {
+        "w": "siddha-maharṣi-pūjyaḥ",
+        "gloss": "revered by siddhas and great sages",
+        "gram": "m. nom. sg. tat-puruṣa (dvandva + ger.)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "cūrṇapradehān",
+      "words": [
+       {
+        "w": "cūrṇa-pradehān",
+        "gloss": "powder-plasters",
+        "gram": "m. acc. pl. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vividhāmayaghnānāragvadhīye",
+      "words": [
+       {
+        "w": "vividha-āmaya-ghnān",
+        "gloss": "destroying various diseases",
+        "gram": "m. acc. pl. upapada tat-puruṣa"
+       },
+       {
+        "w": "āragvadhīye",
+        "gloss": "in the Āragvadhīya",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jagato",
+      "words": [
+       {
+        "w": "jagataḥ",
+        "gloss": "of the world",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "hitārtham",
+      "words": [
+       {
+        "w": "hita-artham",
+        "gloss": "for the welfare",
+        "gram": "ind. (-artham)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यहाँ श्लोक है — यहाँ आरग्वधीय में सिद्धों और महर्षियों द्वारा पूज्य अत्रि-पुत्र ने जगत् के हित के लिए विविध रोगों को नष्ट करने वाले बत्तीस अत्यन्त सिद्ध चूर्ण-प्रदेह कहे।",
+  "english": "Here is a verse: here, in the Āragvadhīya, the son of Atri, revered by siddhas and great sages, taught, for the welfare of the world, thirty-two most proven powder-plasters (cūrṇa-pradeha) that destroy various diseases.",
+  "text_flags": [],
+  "notes": "Line a 'tatra ślokaḥ' (singular: one verse follows) is the lead-in of the closing summary; it is kept as a line of this unit as the edition groups it. atrijaḥ 'born of Atri' is an epithet (it refers to Ātreya); the translation keeps the epithet. siddha-maharṣi- may also be read 'perfected great sages' (karmadhāraya). The thirty-two are the formulations of this chapter as counted by the text.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.03.30a",
+   "01.03.30b",
+   "01.03.30c"
+  ],
+  "lines_deva": [
+   "तत्र श्लोकः ---",
+   "इहात्रिजः सिद्धतमानुवाच द्वात्रिंशतं सिद्धमहर्षिपूज्यः",
+   "चूर्णप्रदेहान् विविधामयघ्नानारग्वधीये जगतो हितार्थम्"
+  ],
+  "lines_iast": [
+   "tatra ślokaḥ ---",
+   "ihātrijaḥ siddhatamānuvāca dvātriṃśataṃ siddhamaharṣipūjyaḥ",
+   "cūrṇapradehān vividhāmayaghnānāragvadhīye jagato hitārtham"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "P1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ityagniveśakṛte",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "agniveśa-kṛte",
+        "gloss": "composed by Agniveśa",
+        "gram": "n. loc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tantre",
+      "words": [
+       {
+        "w": "tantre",
+        "gloss": "in the treatise",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "carakapratisaṃskṛte",
+      "words": [
+       {
+        "w": "caraka-pratisaṃskṛte",
+        "gloss": "redacted by Caraka",
+        "gram": "n. loc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ślokasthāne",
+      "words": [
+       {
+        "w": "śloka-sthāne",
+        "gloss": "in the Śloka section",
+        "gram": "n. loc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "āragvadhīyo",
+      "words": [
+       {
+        "w": "āragvadhīyaḥ",
+        "gloss": "Āragvadhīya (title)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāma",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "named",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tṛtīyo'dhyāyaḥ",
+      "words": [
+       {
+        "w": "tṛtīyaḥ",
+        "gloss": "third",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "adhyāyaḥ",
+        "gloss": "chapter",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार अग्निवेश द्वारा रचित और चरक द्वारा प्रतिसंस्कृत तन्त्र के श्लोकस्थान में आरग्वधीय नामक तीसरा अध्याय।",
+  "english": "Thus, in the Śloka section (Ślokasthāna) of the treatise composed by Agniveśa and redacted by Caraka, the third chapter, named Āragvadhīya.",
+  "text_flags": [],
+  "notes": "Chapter colophon; the Sanskrit has no verb and the translation keeps it verbless. Ślokasthāna is another name of the Sūtrasthāna (the chapter 1 colophon reads sūtrasthāne); not flagged. ślokasthāne āragvadhīyo is printed without sandhi, as often in colophons.",
+  "confidence": "high",
+  "type": "prose",
+  "line_ids": [
+   "01.03.P1"
+  ],
+  "lines_deva": [
+   "इत्यग्निवेशकृते तन्त्रे चरकप्रतिसंस्कृते श्लोकस्थाने आरग्वधीयो नाम तृतीयोऽध्यायः"
+  ],
+  "lines_iast": [
+   "ityagniveśakṛte tantre carakapratisaṃskṛte ślokasthāne āragvadhīyo nāma tṛtīyo'dhyāyaḥ"
+  ],
+  "uncertain": []
+ }
+]
