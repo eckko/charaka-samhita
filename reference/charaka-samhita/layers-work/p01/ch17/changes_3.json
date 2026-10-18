@@ -1,0 +1,87 @@
+[
+ {
+  "n": "86",
+  "field": "hindi",
+  "old": "कठोर, शिराओं के जाल वाली, चिकने स्राव वाली, बड़े आशय वाली, पीड़ा और चुभन से भरी और सूक्ष्म छिद्रों वाली जालिनी है।",
+  "new": "जकड़ी हुई, शिराओं के जाल वाली, चिकने स्राव वाली, बड़े आशय वाली, पीड़ा और चुभन से भरी और सूक्ष्म छिद्रों वाली जालिनी है।",
+  "why": "reviewer (minor): stabdhā is \"stiff\" (as the English has); कठोर means \"hard\" and is used for kaṭhina in unit 109."
+ },
+ {
+  "n": "90",
+  "field": "hindi",
+  "old": "विद्रधि को दो प्रकार की कहते हैं: बाह्य और आभ्यन्तर। बाह्य विद्रधि त्वचा, स्नायु और मांस से उत्पन्न, कण्डरा जैसी आकृति वाली और अत्यधिक पीड़ा वाली होती है।",
+  "new": "विद्रधि को दो प्रकार की कहते हैं: बाह्य और आभ्यन्तर। बाह्य विद्रधि त्वचा, स्नायु और मांस से उत्पन्न, कण्डरा के समान और अत्यधिक पीड़ा वाली होती है।",
+  "why": "reviewer (minor): Hindi adds \"आकृति\" (shape); the note itself says the point of comparison is not stated, and the English says only \"resembles\"."
+ },
+ {
+  "n": "91",
+  "field": "hindi",
+  "old": "ठण्डे अन्न, विदाही, उष्ण, रूक्ष और सूखे पदार्थों के अति भोजन से; विरुद्ध, अजीर्ण में, दूषित, विषम और असात्म्य भोजन से;",
+  "new": "ठण्डे अन्न, विदाही, उष्ण, रूक्ष और सूखे पदार्थों के अति भोजन से; विरुद्ध, अजीर्ण, दूषित, विषम और असात्म्य भोजन से;",
+  "why": "reviewer (minor): \"अजीर्ण में\" imports the interpretation \"eating during indigestion\" (only an alternative in the notes); the English has \"undigested\"."
+ },
+ {
+  "n": "96",
+  "field": "word.gram",
+  "word": "vyadha-cheda-bhrama-ānāha-śabda-sphuraṇa-sarpaṇaiḥ",
+  "old": "m. inst. pl., dvandva",
+  "new": "n. inst. pl., dvandva",
+  "why": "reviewer (minor): An itaretara dvandva takes the gender of its last member; sarpaṇa is neuter, so the form is n. inst. pl., not m."
+ },
+ {
+  "n": "97",
+  "field": "hindi",
+  "old": "और जम्भाई, उत्क्लेश, अरुचि, जकड़न और शीतलता से श्लैष्मिक को जानते हैं। और सभी विद्रधियों में बड़ा शूल उत्पन्न होता है।",
+  "new": "और जम्हाई, उत्क्लेश, अरुचि, जकड़न और शीतलता से श्लैष्मिक को जानते हैं। और सभी विद्रधियों में बड़ा शूल उत्पन्न होता है।",
+  "why": "reviewer (minor): Non-standard Hindi spelling; standard is जम्हाई."
+ },
+ {
+  "n": "P1",
+  "field": "english",
+  "old": "Therefore one should treat a recently arisen vidradhī, which is like a weapon, a snake, lightning and fire, quickly with unctuous substances (sneha) and purgation (virecana), and in every way as for gulma.",
+  "new": "Therefore one should treat a recently arisen vidradhī, which is like a weapon, a snake, lightning and fire, right away with unctuous substances (sneha) and purgation (virecana), and in every way as for gulma.",
+  "why": "reviewer (minor): eva (emphatic) is dropped; āśu eva = \"quickly indeed, right away\"."
+ },
+ {
+  "n": "P1",
+  "field": "hindi",
+  "old": "इसलिए शस्त्र, सर्प, बिजली और अग्नि के समान, अभी-अभी उत्पन्न हुई विद्रधि का स्नेह और विरेचन से शीघ्र उपचार करे, और सब प्रकार से गुल्म के समान।",
+  "new": "इसलिए शस्त्र, सर्प, बिजली और अग्नि के समान, अभी-अभी उत्पन्न हुई विद्रधि का स्नेह और विरेचन से शीघ्र ही उपचार करे, और सब प्रकार से गुल्म के समान।",
+  "why": "reviewer (minor): eva dropped; ही renders the emphatic eva."
+ },
+ {
+  "n": "105",
+  "field": "notes",
+  "old": "",
+  "new": "prabhūtaśleṣmamedasaḥ may also be a feminine nominative plural bahuvrīhi agreeing with tāḥ (\"having abundant Kapha and fat\"), as in unit 104.",
+  "why": "reviewer (minor): Same ambiguity as duṣṭamedasaḥ in unit 104 (m. gen. sg. or f. nom. pl. bahuvrīhi agreeing with tāḥ); note it for consistency."
+ },
+ {
+  "n": "106",
+  "field": "english",
+  "old": "But sarṣapī, alajī, vinatā and vidradhī, which are curable and Pitta-predominant, arise in one with little fat.",
+  "new": "Those that are sarṣapī, alajī, vinatā and vidradhī are curable and Pitta-predominant; they, however, arise in one with little fat.",
+  "why": "reviewer (minor): English puts sādhyāḥ pittolbaṇāḥ inside the relative clause while the Hindi makes them the predicate of tāḥ; the correlative tāḥ tu (left unrendered in the English) favours the Hindi reading. Make the two agree."
+ },
+ {
+  "n": "110",
+  "field": "hindi",
+  "old": "उन्हें मारुत आदि के अपने-अपने हेतुओं और लक्षणों से जानकर, उपद्रव दिखाई देने से पहले, उनका कथन करे और शीघ्र उपचार करे।",
+  "new": "उन्हें अपने-अपने हेतुओं और लक्षणों से मारुत आदि की जानकर, उपद्रव दिखाई देने से पहले, उनका कथन करे और शीघ्र उपचार करे।",
+  "why": "reviewer (minor): Hindi reads mārutādīnām with hetulakṣaṇaiḥ (\"by the causes and signs of Vāta etc.\"), while the English and the note take it as \"them as belonging to Vāta and the others\". Make the Hindi follow the reading the note chose."
+ },
+ {
+  "n": "113",
+  "field": "english",
+  "old": "And another threefold one is in the koṣṭha (the inner body), the śākhās (the branches) and the vital points, bones and joints. Thus the threefold course of the doṣas has been stated by distinction of kind.",
+  "new": "And another threefold one is in the trunk (koṣṭha), the periphery (śākhā) and the vital points, bones and joints. Thus the threefold course of the doṣas has been stated by distinction of kind.",
+  "why": "reviewer (minor): GLOSSARY fixes koṣṭha (as a site of disease, Sū 11) = trunk and śākhā = periphery; \"inner body\"/\"branches\" break consistency."
+ },
+ {
+  "n": "116",
+  "field": "hindi",
+  "old": "मनुष्यों का पाक केवल उष्मा रूपी पित्त से होता है, और वह पित्त कुपित होकर बहुत से विकार उत्पन्न करता है।",
+  "new": "मनुष्यों का पाक केवल ऊष्मा रूपी पित्त से होता है, और वह पित्त कुपित होकर बहुत से विकार उत्पन्न करता है।",
+  "why": "reviewer (minor): Misspelt: ūṣman is ऊष्मा (long ऊ)."
+ }
+]

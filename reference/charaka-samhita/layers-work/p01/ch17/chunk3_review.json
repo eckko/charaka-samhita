@@ -1,0 +1,388 @@
+{
+ "units": [
+  {
+   "n": "84",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "85",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "86",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "stabdhā",
+     "problem": "stabdhā is \"stiff\" (as the English has); कठोर means \"hard\" and is used for kaṭhina in unit 109.",
+     "fix": "जकड़ी हुई, शिराओं",
+     "severity": "minor",
+     "patch": {
+      "n": "86",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कठोर, शिराओं",
+      "new": "जकड़ी हुई, शिराओं"
+     }
+    }
+   ]
+  },
+  {
+   "n": "87",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "88",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "89",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "90",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "kaṇḍarābhā",
+     "problem": "Hindi adds \"आकृति\" (shape); the note itself says the point of comparison is not stated, and the English says only \"resembles\".",
+     "fix": "कण्डरा के समान",
+     "severity": "minor",
+     "patch": {
+      "n": "90",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कण्डरा जैसी आकृति वाली",
+      "new": "कण्डरा के समान"
+     }
+    }
+   ]
+  },
+  {
+   "n": "91",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ajīrṇa",
+     "problem": "\"अजीर्ण में\" imports the interpretation \"eating during indigestion\" (only an alternative in the notes); the English has \"undigested\".",
+     "fix": "अजीर्ण,",
+     "severity": "minor",
+     "patch": {
+      "n": "91",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अजीर्ण में,",
+      "new": "अजीर्ण,"
+     }
+    }
+   ]
+  },
+  {
+   "n": "92",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "93",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "94",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "95",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "96",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "vyadha-cheda-bhrama-ānāha-śabda-sphuraṇa-sarpaṇaiḥ",
+     "problem": "An itaretara dvandva takes the gender of its last member; sarpaṇa is neuter, so the form is n. inst. pl., not m.",
+     "fix": "n. inst. pl., dvandva",
+     "severity": "minor",
+     "patch": {
+      "n": "96",
+      "op": "word",
+      "match_w": "vyadha-cheda-bhrama-ānāha-śabda-sphuraṇa-sarpaṇaiḥ",
+      "field": "gram",
+      "value": "n. inst. pl., dvandva"
+     }
+    }
+   ]
+  },
+  {
+   "n": "97",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "jṛmbhā",
+     "problem": "Non-standard Hindi spelling; standard is जम्हाई.",
+     "fix": "जम्हाई",
+     "severity": "minor",
+     "patch": {
+      "n": "97",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जम्भाई",
+      "new": "जम्हाई"
+     }
+    }
+   ]
+  },
+  {
+   "n": "98",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "99",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "100",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "101",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "units 101, 102, 103",
+     "problem": "MANUAL: these three units are prose (no metre; single long lines) but the input types them as \"verse\". The draft handles them correctly as prose and says so in notes; the type should be corrected at the unit-build stage (units.json / chunk input), which a reviewer may not edit.",
+     "fix": "Set type to \"prose\" for 01.17.101, 01.17.102, 01.17.103 in the unit build.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "102",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "103",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "āśv eva",
+     "problem": "eva (emphatic) is dropped; āśu eva = \"quickly indeed, right away\".",
+     "fix": "right away with unctuous",
+     "severity": "minor",
+     "patch": {
+      "n": "P1",
+      "op": "replace",
+      "field": "english",
+      "old": "quickly with unctuous",
+      "new": "right away with unctuous"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "āśv eva",
+     "problem": "eva dropped; ही renders the emphatic eva.",
+     "fix": "शीघ्र ही उपचार करे",
+     "severity": "minor",
+     "patch": {
+      "n": "P1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शीघ्र उपचार करे",
+      "new": "शीघ्र ही उपचार करे"
+     }
+    }
+   ]
+  },
+  {
+   "n": "104",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "105",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "prabhūtaśleṣmamedasaḥ",
+     "problem": "Same ambiguity as duṣṭamedasaḥ in unit 104 (m. gen. sg. or f. nom. pl. bahuvrīhi agreeing with tāḥ); note it for consistency.",
+     "fix": "prabhūtaśleṣmamedasaḥ may also be a feminine nominative plural bahuvrīhi agreeing with tāḥ (\"having abundant Kapha and fat\"), as in unit 104.",
+     "severity": "minor",
+     "patch": {
+      "n": "105",
+      "op": "append_note",
+      "text": "prabhūtaśleṣmamedasaḥ may also be a feminine nominative plural bahuvrīhi agreeing with tāḥ (\"having abundant Kapha and fat\"), as in unit 104."
+     }
+    }
+   ]
+  },
+  {
+   "n": "106",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "whole",
+     "problem": "English puts sādhyāḥ pittolbaṇāḥ inside the relative clause while the Hindi makes them the predicate of tāḥ; the correlative tāḥ tu (left unrendered in the English) favours the Hindi reading. Make the two agree.",
+     "fix": "Those that are sarṣapī, alajī, vinatā and vidradhī are curable and Pitta-predominant; they, however, arise in one with little fat.",
+     "severity": "minor",
+     "patch": {
+      "n": "106",
+      "op": "set",
+      "field": "english",
+      "value": "Those that are sarṣapī, alajī, vinatā and vidradhī are curable and Pitta-predominant; they, however, arise in one with little fat."
+     }
+    }
+   ]
+  },
+  {
+   "n": "107",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "108",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "109",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "110",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "mārutādīnām",
+     "problem": "Hindi reads mārutādīnām with hetulakṣaṇaiḥ (\"by the causes and signs of Vāta etc.\"), while the English and the note take it as \"them as belonging to Vāta and the others\". Make the Hindi follow the reading the note chose.",
+     "fix": "उन्हें अपने-अपने हेतुओं और लक्षणों से मारुत आदि की जानकर, उपद्रव दिखाई देने से पहले, उनका कथन करे और शीघ्र उपचार करे।",
+     "severity": "minor",
+     "patch": {
+      "n": "110",
+      "op": "set",
+      "field": "hindi",
+      "value": "उन्हें अपने-अपने हेतुओं और लक्षणों से मारुत आदि की जानकर, उपद्रव दिखाई देने से पहले, उनका कथन करे और शीघ्र उपचार करे।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "111",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "112",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "113",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "koṣṭha, śākhā",
+     "problem": "GLOSSARY fixes koṣṭha (as a site of disease, Sū 11) = trunk and śākhā = periphery; \"inner body\"/\"branches\" break consistency.",
+     "fix": "the trunk (koṣṭha), the periphery (śākhā)",
+     "severity": "minor",
+     "patch": {
+      "n": "113",
+      "op": "replace",
+      "field": "english",
+      "old": "the koṣṭha (the inner body), the śākhās (the branches)",
+      "new": "the trunk (koṣṭha), the periphery (śākhā)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "114",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "115",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "116",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ūṣmaṇaḥ",
+     "problem": "Misspelt: ūṣman is ऊष्मा (long ऊ).",
+     "fix": "ऊष्मा",
+     "severity": "minor",
+     "patch": {
+      "n": "116",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उष्मा",
+      "new": "ऊष्मा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "117",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "118",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "119",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "120",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "121",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P2",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "40 units reviewed; 13 issues (0 error, 13 minor), 12 with machine patches, 1 MANUAL (units 101-103 typed verse, are prose: fix at unit build). Judged and accepted: unit 98 vyamlatā->vyamlatāṃ flag (possible; yātā needs an accusative goal, metre neutral); unit 107 a->sa flag (correlative of yasya, 8 syllables kept, Devanagari prints अ); unit 121 line 2 has 14 syllables (counted: jñā-nā-rthaṃ bhi-ṣa-jā | pra-jā-nāṃ ca hi-tai-ṣi-ṇā), correctly left unrestored; unit 116 ūṣmaṇaḥ as ablative in apposition with the genitive alternative noted is sound (only the Hindi spelling fixed); unit 113 three sites koṣṭha / śākhā / marma-asthi-sandhi is a sound reading of trividhā (English terms aligned to GLOSSARY); kloman kept in Sanskrit with only 'identification disputed' (no modern identification), complies with POLICY; tila/māṣa/kulattha identifications are plant identifications tagged 'standard' in notes only, allowed by POLICY. No notes cite commentators, other editions or memory; unit 120's note on māna is supported by unit 6 (doṣamānavikalpajā). No regrouping suggested. Checker: 0 errors, 1 warning (unit 107 'a'->'saḥ', expected from the flag)."
+}

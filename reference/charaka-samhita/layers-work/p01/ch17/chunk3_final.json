@@ -1,0 +1,5213 @@
+[
+ {
+  "n": "84",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "antonnatā",
+      "words": [
+       {
+        "w": "anta-unnatā",
+        "gloss": "raised at the edges",
+        "gram": "f. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "madhyanimnā",
+      "words": [
+       {
+        "w": "madhya-nimnā",
+        "gloss": "depressed in the middle",
+        "gram": "f. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "śyāvā",
+      "words": [
+       {
+        "w": "śyāvā",
+        "gloss": "dusky",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kledaruganvitā",
+      "words": [
+       {
+        "w": "kleda-ruj-anvitā",
+        "gloss": "accompanied by moisture and pain",
+        "gram": "f. nom. sg., tat-puruṣa (dvandva first member)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śarāvikā",
+      "words": [
+       {
+        "w": "śarāvikā",
+        "gloss": "śarāvikā (name of the eruption)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "syāt",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √as"
+       }
+      ]
+     },
+     {
+      "src": "piḍakā",
+      "words": [
+       {
+        "w": "piḍakā",
+        "gloss": "eruption",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śarāvākṛtisaṃsthitā",
+      "words": [
+       {
+        "w": "śarāva-ākṛti-saṃsthitā",
+        "gloss": "having the shape of a shallow dish",
+        "gram": "f. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो पिडका किनारों पर उठी हुई, बीच में धँसी हुई, श्याव वर्ण की, क्लेद और पीड़ा से युक्त और शराव के आकार में स्थित हो, वह शराविका होती है।",
+  "english": "An eruption (piḍakā) that is raised at the edges, depressed in the middle, dusky, accompanied by moisture and pain, and shaped like a shallow dish (śarāva) would be śarāvikā.",
+  "text_flags": [],
+  "notes": "ruganvitā = ruj + anvitā (j becomes g before a vowel). śarāva is a shallow earthen dish; the name śarāvikā is derived from it.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.17.84a",
+   "01.17.84b"
+  ],
+  "lines_deva": [
+   "अन्तोन्नता मध्यनिम्ना श्यावा क्लेदरुगन्विता",
+   "शराविका स्यात् पिडका शरावाकृतिसंस्थिता"
+  ],
+  "lines_iast": [
+   "antonnatā madhyanimnā śyāvā kledaruganvitā",
+   "śarāvikā syāt piḍakā śarāvākṛtisaṃsthitā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "85",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "avagāḍhārtinistodā",
+      "words": [
+       {
+        "w": "avagāḍha-arti-nistodā",
+        "gloss": "with deep pain and pricking",
+        "gram": "f. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "mahāvāstuparigrahā",
+      "words": [
+       {
+        "w": "mahā-vāstu-parigrahā",
+        "gloss": "occupying a large site",
+        "gram": "f. nom. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ślakṣṇā",
+      "words": [
+       {
+        "w": "ślakṣṇā",
+        "gloss": "smooth",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kacchapapṛṣṭhābhā",
+      "words": [
+       {
+        "w": "kacchapa-pṛṣṭha-ābhā",
+        "gloss": "resembling a tortoise's back",
+        "gram": "f. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "piḍakā",
+      "words": [
+       {
+        "w": "piḍakā",
+        "gloss": "eruption",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kacchapī",
+      "words": [
+       {
+        "w": "kacchapī",
+        "gloss": "kacchapī (name of the eruption)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "matā",
+      "words": [
+       {
+        "w": "matā",
+        "gloss": "is considered",
+        "gram": "f. nom. sg., ppp. √man"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गहरी पीड़ा और चुभन वाली, बड़े स्थान को घेरने वाली, चिकनी, कछुए की पीठ जैसी पिडका कच्छपी मानी गई है।",
+  "english": "An eruption with deep pain and pricking, occupying a large site, smooth, resembling the back of a tortoise, is considered kacchapī.",
+  "text_flags": [],
+  "notes": "kacchapī here is the eruption called kacchapikā in the list of unit 83 and in unit 105. avagāḍha may also be read as \"deep-seated\" qualifying the eruption itself; the compound is taken as \"deep pain and pricking\".",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.17.85a",
+   "01.17.85b"
+  ],
+  "lines_deva": [
+   "अवगाढार्तिनिस्तोदा महावास्तुपरिग्रहा",
+   "श्लक्ष्णा कच्छपपृष्ठाभा पिडका कच्छपी मता"
+  ],
+  "lines_iast": [
+   "avagāḍhārtinistodā mahāvāstuparigrahā",
+   "ślakṣṇā kacchapapṛṣṭhābhā piḍakā kacchapī matā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "86",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "stabdhā",
+      "words": [
+       {
+        "w": "stabdhā",
+        "gloss": "stiff",
+        "gram": "f. nom. sg., ppp. √stambh"
+       }
+      ]
+     },
+     {
+      "src": "sirājālavatī",
+      "words": [
+       {
+        "w": "sirā-jāla-vatī",
+        "gloss": "having a network of vessels",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "snigdhāsrāvā",
+      "words": [
+       {
+        "w": "snigdha-āsrāvā",
+        "gloss": "with an unctuous discharge",
+        "gram": "f. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "mahāśayā",
+      "words": [
+       {
+        "w": "mahā-āśayā",
+        "gloss": "with a large base",
+        "gram": "f. nom. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "rujānistodabahulā",
+      "words": [
+       {
+        "w": "rujā-nistoda-bahulā",
+        "gloss": "abounding in pain and pricking",
+        "gram": "f. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sūkṣmacchidrā",
+      "words": [
+       {
+        "w": "sūkṣma-chidrā",
+        "gloss": "with fine openings",
+        "gram": "f. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jālinī",
+      "words": [
+       {
+        "w": "jālinī",
+        "gloss": "jālinī (name of the eruption)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जकड़ी हुई, शिराओं के जाल वाली, चिकने स्राव वाली, बड़े आशय वाली, पीड़ा और चुभन से भरी और सूक्ष्म छिद्रों वाली जालिनी है।",
+  "english": "Stiff, with a network of vessels, with an unctuous discharge, with a large base, abounding in pain and pricking, and with fine openings, is jālinī.",
+  "text_flags": [],
+  "notes": "The word piḍakā is not repeated in this verse; the subject is jālinī. mahāśayā: āśaya \"seat, base\"; it may also mean \"deep-seated\".",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.17.86a",
+   "01.17.86b"
+  ],
+  "lines_deva": [
+   "स्तब्धा सिराजालवती स्निग्धास्रावा महाशया",
+   "रुजानिस्तोदबहुला सूक्ष्मच्छिद्रा च जालिनी"
+  ],
+  "lines_iast": [
+   "stabdhā sirājālavatī snigdhāsrāvā mahāśayā",
+   "rujānistodabahulā sūkṣmacchidrā ca jālinī"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "87",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "piḍakā",
+      "words": [
+       {
+        "w": "piḍakā",
+        "gloss": "eruption",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nātimahatīkṣiprapākā",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "ati-mahatī",
+        "gloss": "very large",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "kṣipra-pākā",
+        "gloss": "quickly suppurating",
+        "gram": "f. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "mahārujā",
+      "words": [
+       {
+        "w": "mahā-rujā",
+        "gloss": "very painful",
+        "gram": "f. nom. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sarṣapī",
+      "words": [
+       {
+        "w": "sarṣapī",
+        "gloss": "sarṣapī (name of the eruption)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarṣapābhābhiḥ",
+      "words": [
+       {
+        "w": "sarṣapa-ābhābhiḥ",
+        "gloss": "resembling mustard seeds",
+        "gram": "f. inst. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "piḍakābhiścitā",
+      "words": [
+       {
+        "w": "piḍakābhiḥ",
+        "gloss": "with eruptions",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "citā",
+        "gloss": "covered",
+        "gram": "f. nom. sg., ppp. √ci"
+       }
+      ]
+     },
+     {
+      "src": "bhavet",
+      "words": [
+       {
+        "w": "bhavet",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो पिडका बहुत बड़ी न हो, शीघ्र पकने वाली और अत्यधिक पीड़ा वाली हो, तथा सरसों जैसी पिडकाओं से व्याप्त हो, वह सर्षपी होती है।",
+  "english": "An eruption that is not very large, quickly suppurating and very painful, covered with eruptions resembling mustard seeds (sarṣapa), would be sarṣapī.",
+  "text_flags": [],
+  "notes": "The printed token nātimahatīkṣiprapākā runs together two words (nātimahatī and kṣiprapākā); the split keeps both in this one token. sarṣapa = mustard seed (standard).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.17.87a",
+   "01.17.87b"
+  ],
+  "lines_deva": [
+   "पिडका नातिमहतीक्षिप्रपाका महारुजा",
+   "सर्षपी सर्षपाभाभिः पिडकाभिश्चिता भवेत्"
+  ],
+  "lines_iast": [
+   "piḍakā nātimahatīkṣiprapākā mahārujā",
+   "sarṣapī sarṣapābhābhiḥ piḍakābhiścitā bhavet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "88",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dahati",
+      "words": [
+       {
+        "w": "dahati",
+        "gloss": "burns",
+        "gram": "3 sg. pres. √dah"
+       }
+      ]
+     },
+     {
+      "src": "tvacamutthāne",
+      "words": [
+       {
+        "w": "tvacam",
+        "gloss": "the skin",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "utthāne",
+        "gloss": "at its arising",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tṛṣṇāmohajvarapradā",
+      "words": [
+       {
+        "w": "tṛṣṇā-moha-jvara-pradā",
+        "gloss": "causing thirst, confusion and fever",
+        "gram": "f. nom. sg., upapada tat-puruṣa (dvandva first member)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "visarpatyaniśaṃ",
+      "words": [
+       {
+        "w": "visarpati",
+        "gloss": "spreads",
+        "gram": "3 sg. pres. vi-√sṛp"
+       },
+       {
+        "w": "aniśam",
+        "gloss": "incessantly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "duḥkhāddahatyagnirivālajī",
+      "words": [
+       {
+        "w": "duḥkhāt",
+        "gloss": "painfully",
+        "gram": "n. abl. sg. (adverbial)"
+       },
+       {
+        "w": "dahati",
+        "gloss": "burns",
+        "gram": "3 sg. pres. √dah"
+       },
+       {
+        "w": "agniḥ",
+        "gloss": "fire",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       },
+       {
+        "w": "alajī",
+        "gloss": "alajī (name of the eruption)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अलजी उत्पन्न होने पर त्वचा को जलाती है, तृष्णा, मोह और ज्वर उत्पन्न करती है, निरन्तर फैलती है और अग्नि की तरह कष्टपूर्वक जलाती है।",
+  "english": "Alajī burns the skin at its arising, causes thirst, confusion (moha) and fever, spreads incessantly, and burns painfully like fire.",
+  "text_flags": [],
+  "notes": "duḥkhāt is taken adverbially (\"painfully\"); it may also mean \"with distress\" to the patient. moha may also be rendered \"fainting\".",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.17.88a",
+   "01.17.88b"
+  ],
+  "lines_deva": [
+   "दहति त्वचमुत्थाने तृष्णामोहज्वरप्रदा",
+   "विसर्पत्यनिशं दुःखाद्दहत्यग्निरिवालजी"
+  ],
+  "lines_iast": [
+   "dahati tvacamutthāne tṛṣṇāmohajvarapradā",
+   "visarpatyaniśaṃ duḥkhāddahatyagnirivālajī"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "89",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "avagāḍharujākledā",
+      "words": [
+       {
+        "w": "avagāḍha-rujā-kledā",
+        "gloss": "with deep pain and moisture",
+        "gram": "f. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "pṛṣṭhe",
+      "words": [
+       {
+        "w": "pṛṣṭhe",
+        "gloss": "on the back",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāpyudare'pi",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       },
+       {
+        "w": "udare",
+        "gloss": "on the abdomen",
+        "gram": "n. loc. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mahatī",
+      "words": [
+       {
+        "w": "mahatī",
+        "gloss": "large",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vinatā",
+      "words": [
+       {
+        "w": "vinatā",
+        "gloss": "bent down, depressed",
+        "gram": "f. nom. sg., ppp. vi-√nam"
+       }
+      ]
+     },
+     {
+      "src": "nīlā",
+      "words": [
+       {
+        "w": "nīlā",
+        "gloss": "bluish",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "piḍakā",
+      "words": [
+       {
+        "w": "piḍakā",
+        "gloss": "eruption",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vinatā",
+      "words": [
+       {
+        "w": "vinatā",
+        "gloss": "vinatā (name of the eruption)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "matā",
+      "words": [
+       {
+        "w": "matā",
+        "gloss": "is considered",
+        "gram": "f. nom. sg., ppp. √man"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पीठ पर या उदर पर होने वाली, गहरी पीड़ा और क्लेद वाली, बड़ी, धँसी हुई और नीली पिडका विनता मानी गई है।",
+  "english": "An eruption on the back or on the abdomen, with deep pain and moisture, large, depressed and bluish, is considered vinatā.",
+  "text_flags": [],
+  "notes": "The first vinatā is the participle \"bent down, depressed\"; the second is the name of the eruption, which plays on it.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.17.89a",
+   "01.17.89b"
+  ],
+  "lines_deva": [
+   "अवगाढरुजाक्लेदा पृष्ठे वाप्युदरेऽपि वा",
+   "महती विनता नीला पिडका विनता मता"
+  ],
+  "lines_iast": [
+   "avagāḍharujākledā pṛṣṭhe vāpyudare'pi vā",
+   "mahatī vinatā nīlā piḍakā vinatā matā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "90",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vidradhiṃ",
+      "words": [
+       {
+        "w": "vidradhim",
+        "gloss": "vidradhi (abscess)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvividhāmāhurbāhyāmābhyantarīṃ",
+      "words": [
+       {
+        "w": "dvividhām",
+        "gloss": "of two kinds",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "āhuḥ",
+        "gloss": "they declare",
+        "gram": "3 pl. pf. √ah"
+       },
+       {
+        "w": "bāhyām",
+        "gloss": "external",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "ābhyantarīm",
+        "gloss": "internal",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "and also",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bāhyā",
+      "words": [
+       {
+        "w": "bāhyā",
+        "gloss": "the external one",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvaksnāyumāṃsotthā",
+      "words": [
+       {
+        "w": "tvak-snāyu-māṃsa-utthā",
+        "gloss": "arising from skin, sinew and flesh",
+        "gram": "f. nom. sg., tat-puruṣa (dvandva first member)"
+       }
+      ]
+     },
+     {
+      "src": "kaṇḍarābhā",
+      "words": [
+       {
+        "w": "kaṇḍarā-ābhā",
+        "gloss": "resembling a kaṇḍarā (tendon)",
+        "gram": "f. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "mahārujā",
+      "words": [
+       {
+        "w": "mahā-rujā",
+        "gloss": "very painful",
+        "gram": "f. nom. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विद्रधि को दो प्रकार की कहते हैं: बाह्य और आभ्यन्तर। बाह्य विद्रधि त्वचा, स्नायु और मांस से उत्पन्न, कण्डरा के समान और अत्यधिक पीड़ा वाली होती है।",
+  "english": "They declare vidradhi (abscess) to be of two kinds, external and internal. The external one arises from skin, sinew and flesh, resembles a kaṇḍarā (tendon) and is very painful.",
+  "text_flags": [],
+  "notes": "kaṇḍarābhā \"resembling a kaṇḍarā\" is taken as describing its shape; the exact point of comparison is not stated. Units 91 to 95 describe the internal vidradhi.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.17.90a",
+   "01.17.90b"
+  ],
+  "lines_deva": [
+   "विद्रधिं द्विविधामाहुर्बाह्यामाभ्यन्तरीं तथा",
+   "बाह्या त्वक्स्नायुमांसोत्था कण्डराभा महारुजा"
+  ],
+  "lines_iast": [
+   "vidradhiṃ dvividhāmāhurbāhyāmābhyantarīṃ tathā",
+   "bāhyā tvaksnāyumāṃsotthā kaṇḍarābhā mahārujā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "91",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śītakānnavidāhyuṣṇarūkṣaśuṣkātibhojanāt",
+      "words": [
+       {
+        "w": "śītaka-anna-vidāhi-uṣṇa-rūkṣa-śuṣka-ati-bhojanāt",
+        "gloss": "from excessive eating of cold food and of burning, hot, dry and dried things",
+        "gram": "n. abl. sg., tat-puruṣa (dvandva first members)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "viruddhājīrṇasaṃkliṣṭaviṣamāsātmyabhojanāt",
+      "words": [
+       {
+        "w": "viruddha-ajīrṇa-saṃkliṣṭa-viṣama-asātmya-bhojanāt",
+        "gloss": "from eating incompatible, undigested, spoiled, irregular and unsuitable food",
+        "gram": "n. abl. sg., tat-puruṣa (dvandva first members)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ठण्डे अन्न, विदाही, उष्ण, रूक्ष और सूखे पदार्थों के अति भोजन से; विरुद्ध, अजीर्ण, दूषित, विषम और असात्म्य भोजन से;",
+  "english": "From excessive eating of cold food and of burning (vidāhin), hot, dry and dried things; from eating incompatible, undigested, spoiled, irregular and unsuitable food;",
+  "text_flags": [],
+  "notes": "The sentence runs from unit 91 to unit 93. ati- in the first line may qualify all the preceding items (\"excessive eating of ...\") or stand as a separate item \"overeating\". ajīrṇa may mean eating while the previous meal is undigested. śītaka is taken as \"cold\"; it may also mean \"stale\".",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.17.91a",
+   "01.17.91b"
+  ],
+  "lines_deva": [
+   "शीतकान्नविदाह्युष्णरूक्षशुष्कातिभोजनात्",
+   "विरुद्धाजीर्णसंक्लिष्टविषमासात्म्यभोजनात्"
+  ],
+  "lines_iast": [
+   "śītakānnavidāhyuṣṇarūkṣaśuṣkātibhojanāt",
+   "viruddhājīrṇasaṃkliṣṭaviṣamāsātmyabhojanāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "92",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vyāpannabahumadyatvādvegasaṃdhāraṇācchramāt",
+      "words": [
+       {
+        "w": "vyāpanna-bahu-madya-tvāt",
+        "gloss": "from spoiled wine and much wine",
+        "gram": "n. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "vega-saṃdhāraṇāt",
+        "gloss": "from suppression of urges",
+        "gram": "n. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "śramāt",
+        "gloss": "from fatigue",
+        "gram": "m. abl. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "jihmavyāyāmaśayanādatibhārādhvamaithunāt",
+      "words": [
+       {
+        "w": "jihma-vyāyāma-śayanāt",
+        "gloss": "from crooked exercise and lying",
+        "gram": "n. abl. sg., karmadhāraya (dvandva second members)"
+       },
+       {
+        "w": "ati-bhāra-adhva-maithunāt",
+        "gloss": "from excessive load, walking and sexual intercourse",
+        "gram": "n. abl. sg., tat-puruṣa (dvandva second members)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बिगड़े हुए और अधिक मद्य के सेवन से, वेगों को रोकने से, श्रम से, टेढ़े ढंग के व्यायाम और शयन से, अति भार, मार्ग-गमन और मैथुन से,",
+  "english": "from spoiled wine (madya) and much wine, from suppression of urges (vega), from fatigue, from crooked exercise and lying, and from excess of loads, walking and sexual intercourse,",
+  "text_flags": [],
+  "notes": "vyāpannabahumadyatva is literally \"the state of (having) spoiled and much wine\". jihma \"crooked\" is taken with both exercise and lying (improper postures). ati is taken with load, walking and sexual intercourse.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.17.92a",
+   "01.17.92b"
+  ],
+  "lines_deva": [
+   "व्यापन्नबहुमद्यत्वाद्वेगसंधारणाच्छ्रमात्",
+   "जिह्मव्यायामशयनादतिभाराध्वमैथुनात्"
+  ],
+  "lines_iast": [
+   "vyāpannabahumadyatvādvegasaṃdhāraṇācchramāt",
+   "jihmavyāyāmaśayanādatibhārādhvamaithunāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "93",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "antaḥśarīre",
+      "words": [
+       {
+        "w": "antaḥ-śarīre",
+        "gloss": "inside the body",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "māṃsāsṛgāviśanti",
+      "words": [
+       {
+        "w": "māṃsa-asṛk",
+        "gloss": "flesh and blood",
+        "gram": "n. acc. sg., samāhāra dvandva"
+       },
+       {
+        "w": "āviśanti",
+        "gloss": "enter",
+        "gram": "3 pl. pres. ā-√viś"
+       }
+      ]
+     },
+     {
+      "src": "yadā",
+      "words": [
+       {
+        "w": "yadā",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "malāḥ",
+      "words": [
+       {
+        "w": "malāḥ",
+        "gloss": "the wastes (mala)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tadā",
+      "words": [
+       {
+        "w": "tadā",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃjāyate",
+      "words": [
+       {
+        "w": "saṃjāyate",
+        "gloss": "arises",
+        "gram": "3 sg. pres. mid. sam-√jan"
+       }
+      ]
+     },
+     {
+      "src": "granthirgambhīrasthaḥ",
+      "words": [
+       {
+        "w": "granthiḥ",
+        "gloss": "swelling (granthi)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "gambhīra-sthaḥ",
+        "gloss": "deep-seated",
+        "gram": "m. nom. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sudāruṇaḥ",
+      "words": [
+       {
+        "w": "su-dāruṇaḥ",
+        "gloss": "very harsh",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब मल शरीर के भीतर मांस और रक्त में प्रवेश करते हैं, तब गहराई में स्थित, अत्यन्त दारुण ग्रन्थि उत्पन्न होती है,",
+  "english": "when the wastes (mala) enter the flesh and blood inside the body, then a deep-seated, very harsh swelling (granthi) arises,",
+  "text_flags": [],
+  "notes": "malāḥ is rendered by the fixed rendering \"wastes (mala)\"; in this context the word refers to the vitiated substances that enter flesh and blood. The sentence continues into unit 94.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.17.93a",
+   "01.17.93b"
+  ],
+  "lines_deva": [
+   "अन्तःशरीरे मांसासृगाविशन्ति यदा मलाः",
+   "तदा संजायते ग्रन्थिर्गम्भीरस्थः सुदारुणः"
+  ],
+  "lines_iast": [
+   "antaḥśarīre māṃsāsṛgāviśanti yadā malāḥ",
+   "tadā saṃjāyate granthirgambhīrasthaḥ sudāruṇaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "94",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "hṛdaye",
+      "words": [
+       {
+        "w": "hṛdaye",
+        "gloss": "in the heart",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "klomni",
+      "words": [
+       {
+        "w": "klomni",
+        "gloss": "in the kloman",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yakṛti",
+      "words": [
+       {
+        "w": "yakṛti",
+        "gloss": "in the liver",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "plīhni",
+      "words": [
+       {
+        "w": "plīhni",
+        "gloss": "in the spleen",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kukṣau",
+      "words": [
+       {
+        "w": "kukṣau",
+        "gloss": "in the kukṣi (abdomen)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vṛkkayoḥ",
+      "words": [
+       {
+        "w": "vṛkkayoḥ",
+        "gloss": "in the two kidneys",
+        "gram": "m. loc. du."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "nābhyāṃ",
+      "words": [
+       {
+        "w": "nābhyām",
+        "gloss": "in the navel",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaṃkṣaṇayorvāpi",
+      "words": [
+       {
+        "w": "vaṃkṣaṇayoḥ",
+        "gloss": "in the two groins",
+        "gram": "m. loc. du."
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bastau",
+      "words": [
+       {
+        "w": "bastau",
+        "gloss": "in the bladder (basti)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tīvravedanaḥ",
+      "words": [
+       {
+        "w": "tīvra-vedanaḥ",
+        "gloss": "with intense pain",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हृदय, क्लोम, यकृत्, प्लीहा, कुक्षि और दोनों वृक्कों में, नाभि में, या दोनों वंक्षणों में, अथवा बस्ति में, तीव्र वेदना वाली।",
+  "english": "in the heart, the kloman, the liver, the spleen, the kukṣi (abdomen) and the two kidneys, in the navel, or in the two groins, or in the bladder (basti), with intense pain.",
+  "text_flags": [],
+  "notes": "tīvravedanaḥ agrees with granthiḥ of unit 93. kloman is kept in Sanskrit; its identification is disputed.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.17.94a",
+   "01.17.94b"
+  ],
+  "lines_deva": [
+   "हृदये क्लोम्नि यकृति प्लीह्नि कुक्षौ च वृक्कयोः",
+   "नाभ्यां वंक्षणयोर्वापि बस्तौ वा तीव्रवेदनः"
+  ],
+  "lines_iast": [
+   "hṛdaye klomni yakṛti plīhni kukṣau ca vṛkkayoḥ",
+   "nābhyāṃ vaṃkṣaṇayorvāpi bastau vā tīvravedanaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "95",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "duṣṭaraktātimātratvāt",
+      "words": [
+       {
+        "w": "duṣṭa-rakta-atimātra-tvāt",
+        "gloss": "because of the excess of vitiated blood",
+        "gram": "n. abl. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "it",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vai",
+      "words": [
+       {
+        "w": "vai",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śīghraṃ",
+      "words": [
+       {
+        "w": "śīghram",
+        "gloss": "quickly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vidahyate",
+      "words": [
+       {
+        "w": "vidahyate",
+        "gloss": "becomes burnt (inflamed)",
+        "gram": "3 sg. pres. pass. vi-√dah"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tataḥ",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śīghravidāhitvādvidradhītyabhidhīyate",
+      "words": [
+       {
+        "w": "śīghra-vidāhi-tvāt",
+        "gloss": "because of quickly burning",
+        "gram": "n. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "vidradhī",
+        "gloss": "vidradhī",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (quotation)",
+        "gram": "ind."
+       },
+       {
+        "w": "abhidhīyate",
+        "gloss": "is called",
+        "gram": "3 sg. pres. pass. abhi-√dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दूषित रक्त की अधिकता के कारण वह वस्तुतः शीघ्र विदग्ध होती है; इसलिए शीघ्र विदग्ध होने के कारण उसे विद्रधि कहा जाता है।",
+  "english": "Because of the excess of vitiated blood it is indeed quickly burnt (vidahyate); therefore, because it burns quickly, it is called vidradhī.",
+  "text_flags": [],
+  "notes": "The verse explains the name vidradhī from vi-√dah \"to burn, become inflamed\". saḥ (masculine) refers to granthiḥ of unit 93, while vidradhī is feminine.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.17.95a",
+   "01.17.95b"
+  ],
+  "lines_deva": [
+   "दुष्टरक्तातिमात्रत्वात् स वै शीघ्रं विदह्यते",
+   "ततः शीघ्रविदाहित्वाद्विद्रधीत्यभिधीयते"
+  ],
+  "lines_iast": [
+   "duṣṭaraktātimātratvāt sa vai śīghraṃ vidahyate",
+   "tataḥ śīghravidāhitvādvidradhītyabhidhīyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "96",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vyadhacchedabhramānāhaśabdasphuraṇasarpaṇaiḥ",
+      "words": [
+       {
+        "w": "vyadha-cheda-bhrama-ānāha-śabda-sphuraṇa-sarpaṇaiḥ",
+        "gloss": "by piercing, cutting, giddiness, distension, sound, throbbing and creeping",
+        "gram": "n. inst. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vātikīṃ,",
+      "words": [
+       {
+        "w": "vātikīm",
+        "gloss": "the Vāta type",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "paittikīṃ",
+      "words": [
+       {
+        "w": "paittikīm",
+        "gloss": "the Pitta type",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tṛṣṇādāhamohamadajvaraiḥ",
+      "words": [
+       {
+        "w": "tṛṣṇā-dāha-moha-mada-jvaraiḥ",
+        "gloss": "by thirst, burning, confusion, intoxication and fever",
+        "gram": "m. inst. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वेधने, काटने, भ्रम, आनाह, शब्द, फड़कन और रेंगने से वातिक विद्रधि को, तृष्णा, दाह, मोह, मद और ज्वर से पैत्तिक को,",
+  "english": "By piercing, cutting, giddiness, distension (ānāha), sound, throbbing and creeping, the Vāta type; by thirst, burning, confusion (moha), intoxication (mada) and fever, the Pitta type;",
+  "text_flags": [],
+  "notes": "The verb viduḥ \"they know\" is in unit 97 and governs vātikīm, paittikīm and ślaiṣmikīm. bhrama may also mean \"a whirling sensation\" here.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.17.96a",
+   "01.17.96b"
+  ],
+  "lines_deva": [
+   "व्यधच्छेदभ्रमानाहशब्दस्फुरणसर्पणैः",
+   "वातिकीं, पैत्तिकीं तृष्णादाहमोहमदज्वरैः"
+  ],
+  "lines_iast": [
+   "vyadhacchedabhramānāhaśabdasphuraṇasarpaṇaiḥ",
+   "vātikīṃ, paittikīṃ tṛṣṇādāhamohamadajvaraiḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "97",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "jṛmbhotkleśārucistambhaśītakaiḥ",
+      "words": [
+       {
+        "w": "jṛmbhā-utkleśa-aruci-stambha-śītakaiḥ",
+        "gloss": "by yawning, nausea, loss of taste, stiffness and coldness",
+        "gram": "m. inst. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "ślaiṣmikīṃ",
+      "words": [
+       {
+        "w": "ślaiṣmikīm",
+        "gloss": "the Kapha type",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "viduḥ",
+      "words": [
+       {
+        "w": "viduḥ",
+        "gloss": "they know",
+        "gram": "3 pl. pf. √vid"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sarvāsu",
+      "words": [
+       {
+        "w": "sarvāsu",
+        "gloss": "in all",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mahacchūlaṃ",
+      "words": [
+       {
+        "w": "mahat-śūlam",
+        "gloss": "great pain",
+        "gram": "n. nom. sg., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "vidradhīṣūpajāyate",
+      "words": [
+       {
+        "w": "vidradhīṣu",
+        "gloss": "vidradhīs",
+        "gram": "f. loc. pl."
+       },
+       {
+        "w": "upajāyate",
+        "gloss": "arises",
+        "gram": "3 sg. pres. mid. upa-√jan"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और जम्हाई, उत्क्लेश, अरुचि, जकड़न और शीतलता से श्लैष्मिक को जानते हैं। और सभी विद्रधियों में बड़ा शूल उत्पन्न होता है।",
+  "english": "and by yawning, nausea (utkleśa), loss of taste (aruci), stiffness and coldness they know the Kapha type. And in all vidradhīs great pain (śūla) arises.",
+  "text_flags": [],
+  "notes": "śītaka is taken as \"coldness, feeling cold\".",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.17.97a",
+   "01.17.97b"
+  ],
+  "lines_deva": [
+   "जृम्भोत्क्लेशारुचिस्तम्भशीतकैः श्लैष्मिकीं विदुः",
+   "सर्वासु च महच्छूलं विद्रधीषूपजायते"
+  ],
+  "lines_iast": [
+   "jṛmbhotkleśārucistambhaśītakaiḥ ślaiṣmikīṃ viduḥ",
+   "sarvāsu ca mahacchūlaṃ vidradhīṣūpajāyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "98",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śastrāstrairbhidyata",
+      "words": [
+       {
+        "w": "śastra-astraiḥ",
+        "gloss": "by weapons and missiles",
+        "gram": "n. inst. pl., dvandva"
+       },
+       {
+        "w": "bhidyate",
+        "gloss": "is split",
+        "gram": "3 sg. pres. pass. √bhid"
+       }
+      ]
+     },
+     {
+      "src": "iva",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "colmukairiva",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ulmukaiḥ",
+        "gloss": "by firebrands",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dahyate",
+      "words": [
+       {
+        "w": "dahyate",
+        "gloss": "is burnt",
+        "gram": "3 sg. pres. pass. √dah"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vidradhī",
+      "words": [
+       {
+        "w": "vidradhī",
+        "gloss": "vidradhī",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyamlatā",
+      "words": [
+       {
+        "w": "vyamlatām",
+        "gloss": "souring",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yātā",
+      "words": [
+       {
+        "w": "yātā",
+        "gloss": "having reached",
+        "gram": "f. nom. sg., ppp. √yā"
+       }
+      ]
+     },
+     {
+      "src": "vṛścikairiva",
+      "words": [
+       {
+        "w": "vṛścikaiḥ",
+        "gloss": "by scorpions",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "daśyate",
+      "words": [
+       {
+        "w": "daśyate",
+        "gloss": "is stung",
+        "gram": "3 sg. pres. pass. √daṃś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "खट्टेपन की अवस्था को प्राप्त विद्रधि मानो शस्त्रों और अस्त्रों से भेदी जाती है, मानो जलती लकड़ियों से जलाई जाती है, और मानो बिच्छुओं से डसी जाती है।",
+  "english": "A vidradhī that has reached souring (vyamlatā) is as if split by weapons and missiles, as if burnt by firebrands, and as if stung by scorpions.",
+  "text_flags": [
+   {
+    "src": "vyamlatā",
+    "suggest": "vyamlatāṃ",
+    "why": "possible: yātā (\"having gone to\") needs an accusative of the state reached; the nominative vyamlatā gives no construction. The metre (8 syllables) is the same either way."
+   }
+  ],
+  "notes": "vidradhī is taken as the subject of all three passive verbs; the first line may also describe what the patient feels. vyamlatā (from vi-amla \"turned sour\") is the souring stage of the swelling.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.17.98a",
+   "01.17.98b"
+  ],
+  "lines_deva": [
+   "शस्त्रास्त्रैर्भिद्यत इव चोल्मुकैरिव दह्यते",
+   "विद्रधी व्यम्लता याता वृश्चिकैरिव दश्यते"
+  ],
+  "lines_iast": [
+   "śastrāstrairbhidyata iva colmukairiva dahyate",
+   "vidradhī vyamlatā yātā vṛścikairiva daśyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "99",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tanu",
+      "words": [
+       {
+        "w": "tanu",
+        "gloss": "thin",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rūkṣāruṇaṃ",
+      "words": [
+       {
+        "w": "rūkṣa-aruṇam",
+        "gloss": "rough and reddish",
+        "gram": "n. acc. sg., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "śyāvaṃ",
+      "words": [
+       {
+        "w": "śyāvam",
+        "gloss": "dusky",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "phenilaṃ",
+      "words": [
+       {
+        "w": "phenilam",
+        "gloss": "frothy",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vātavidradhī",
+      "words": [
+       {
+        "w": "vāta-vidradhī",
+        "gloss": "the Vāta vidradhī",
+        "gram": "f. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tilamāṣakulatthodasannibhaṃ",
+      "words": [
+       {
+        "w": "tila-māṣa-kulattha-uda-sannibham",
+        "gloss": "resembling the water of tila, māṣa and kulattha",
+        "gram": "n. acc. sg., tat-puruṣa (dvandva first members)"
+       }
+      ]
+     },
+     {
+      "src": "pittavidradhī",
+      "words": [
+       {
+        "w": "pitta-vidradhī",
+        "gloss": "the Pitta vidradhī",
+        "gram": "f. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वातविद्रधि पतला, रूक्ष, अरुण, श्याव और झागदार (स्राव बहाती है); पित्तविद्रधि तिल, माष और कुलत्थ के जल जैसा,",
+  "english": "The Vāta vidradhī (discharges) a thin, rough, reddish, dusky and frothy (fluid); the Pitta vidradhī, one resembling the water of tila, māṣa and kulattha;",
+  "text_flags": [],
+  "notes": "The verb sravati is in unit 100 and is understood here; the neuter accusatives describe the discharge. uda = udaka \"water\" in compounds. tila = sesame (standard); māṣa = black gram (standard); kulattha = horse gram (standard).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.17.99a",
+   "01.17.99b"
+  ],
+  "lines_deva": [
+   "तनु रूक्षारुणं श्यावं फेनिलं वातविद्रधी",
+   "तिलमाषकुलत्थोदसन्निभं पित्तविद्रधी"
+  ],
+  "lines_iast": [
+   "tanu rūkṣāruṇaṃ śyāvaṃ phenilaṃ vātavidradhī",
+   "tilamāṣakulatthodasannibhaṃ pittavidradhī"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "100",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ślaiṣmikī",
+      "words": [
+       {
+        "w": "ślaiṣmikī",
+        "gloss": "the Kapha type",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sravati",
+      "words": [
+       {
+        "w": "sravati",
+        "gloss": "discharges",
+        "gram": "3 sg. pres. √sru"
+       }
+      ]
+     },
+     {
+      "src": "śvetaṃ",
+      "words": [
+       {
+        "w": "śvetam",
+        "gloss": "white",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "picchilaṃ",
+      "words": [
+       {
+        "w": "picchilam",
+        "gloss": "slimy",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bahalaṃ",
+      "words": [
+       {
+        "w": "bahalam",
+        "gloss": "thick",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bahu",
+      "words": [
+       {
+        "w": "bahu",
+        "gloss": "copiously",
+        "gram": "n. acc. sg. (adverbial)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "lakṣaṇaṃ",
+      "words": [
+       {
+        "w": "lakṣaṇam",
+        "gloss": "sign",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvamevaitadbhajate",
+      "words": [
+       {
+        "w": "sarvam",
+        "gloss": "all",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "just, indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "etat",
+        "gloss": "this",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "bhajate",
+        "gloss": "takes on",
+        "gram": "3 sg. pres. mid. √bhaj"
+       }
+      ]
+     },
+     {
+      "src": "sānnipātikī",
+      "words": [
+       {
+        "w": "sānnipātikī",
+        "gloss": "the one from all doṣas combined",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "श्लैष्मिक विद्रधि सफेद, पिच्छिल, गाढ़ा और बहुत स्राव बहाती है; सान्निपातिक विद्रधि ये सभी लक्षण धारण करती है।",
+  "english": "The Kapha type discharges a white, slimy, thick fluid, copiously; the sānnipātikī (from all the doṣas combined) takes on all these signs.",
+  "text_flags": [],
+  "notes": "lakṣaṇam is singular in form but collective (\"all this set of signs\").",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.17.100a",
+   "01.17.100b"
+  ],
+  "lines_deva": [
+   "श्लैष्मिकी स्रवति श्वेतं पिच्छिलं बहलं बहु",
+   "लक्षणं सर्वमेवैतद्भजते सान्निपातिकी"
+  ],
+  "lines_iast": [
+   "ślaiṣmikī sravati śvetaṃ picchilaṃ bahalaṃ bahu",
+   "lakṣaṇaṃ sarvamevaitadbhajate sānnipātikī"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "101",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athāsāṃ",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now",
+        "gram": "ind."
+       },
+       {
+        "w": "āsām",
+        "gloss": "of these",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "vidradhīnāṃ",
+      "words": [
+       {
+        "w": "vidradhīnām",
+        "gloss": "of the vidradhīs",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "sādhyāsādhyatvaviśeṣajñānārthaṃ",
+      "words": [
+       {
+        "w": "sādhya-asādhya-tva-viśeṣa-jñāna-artham",
+        "gloss": "for knowing the distinction of curability and incurability",
+        "gram": "ind. (n. acc. sg.), tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sthānakṛtaṃ",
+      "words": [
+       {
+        "w": "sthāna-kṛtam",
+        "gloss": "caused by location",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "liṅgaviśeṣamupadekṣyāmaḥ",
+      "words": [
+       {
+        "w": "liṅga-viśeṣam",
+        "gloss": "distinction of signs",
+        "gram": "m. acc. sg., tat-puruṣa"
+       },
+       {
+        "w": "upadekṣyāmaḥ",
+        "gloss": "we shall teach",
+        "gram": "1 pl. fut. upa-√diś"
+       }
+      ]
+     },
+     {
+      "src": "---",
+      "words": [
+       {
+        "w": "---",
+        "gloss": "(dash)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pradhānamarmajāyāṃ",
+      "words": [
+       {
+        "w": "pradhāna-marma-jāyām",
+        "gloss": "arising in the chief vital point",
+        "gram": "f. loc. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vidradhyāṃ",
+      "words": [
+       {
+        "w": "vidradhyām",
+        "gloss": "in a vidradhī",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hṛdghaṭṭanatamakapramohakāsaśvāsāḥ,",
+      "words": [
+       {
+        "w": "hṛt-ghaṭṭana-tamaka-pramoha-kāsa-śvāsāḥ",
+        "gloss": "jolting of the heart, tamaka, stupor, cough and dyspnoea",
+        "gram": "m. nom. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "klomajāyāṃ",
+      "words": [
+       {
+        "w": "kloma-jāyām",
+        "gloss": "in one arising in the kloman",
+        "gram": "f. loc. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pipāsāmukhaśoṣagalagrahāḥ,",
+      "words": [
+       {
+        "w": "pipāsā-mukha-śoṣa-gala-grahāḥ",
+        "gloss": "thirst, dryness of the mouth and catching of the throat",
+        "gram": "m. nom. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "yakṛjjāyāṃ",
+      "words": [
+       {
+        "w": "yakṛt-jāyām",
+        "gloss": "in one arising in the liver",
+        "gram": "f. loc. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "śvāsaḥ,",
+      "words": [
+       {
+        "w": "śvāsaḥ",
+        "gloss": "dyspnoea",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "plīhajāyāmucchvāsoparodhaḥ,",
+      "words": [
+       {
+        "w": "plīha-jāyām",
+        "gloss": "in one arising in the spleen",
+        "gram": "f. loc. sg., upapada tat-puruṣa"
+       },
+       {
+        "w": "ucchvāsa-uparodhaḥ",
+        "gloss": "obstruction of breathing",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kukṣijāyāṃ",
+      "words": [
+       {
+        "w": "kukṣi-jāyām",
+        "gloss": "in one arising in the kukṣi",
+        "gram": "f. loc. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kukṣipārśvāntarāṃsaśūlaṃ,",
+      "words": [
+       {
+        "w": "kukṣi-pārśva-antara-aṃsa-śūlam",
+        "gloss": "pain in the kukṣi, sides and between the shoulders",
+        "gram": "n. nom. sg., tat-puruṣa (dvandva first members)"
+       }
+      ]
+     },
+     {
+      "src": "vṛkkajāyāṃ",
+      "words": [
+       {
+        "w": "vṛkka-jāyām",
+        "gloss": "in one arising in the kidney",
+        "gram": "f. loc. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pṛṣṭhakaṭigrahaḥ,",
+      "words": [
+       {
+        "w": "pṛṣṭha-kaṭi-grahaḥ",
+        "gloss": "stiffness of back and waist",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "nābhijāyāṃ",
+      "words": [
+       {
+        "w": "nābhi-jāyām",
+        "gloss": "in one arising in the navel",
+        "gram": "f. loc. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "hikkā,",
+      "words": [
+       {
+        "w": "hikkā",
+        "gloss": "hiccup",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaṃkṣaṇajāyāṃ",
+      "words": [
+       {
+        "w": "vaṃkṣaṇa-jāyām",
+        "gloss": "in one arising in the groin",
+        "gram": "f. loc. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sakthisādaḥ,",
+      "words": [
+       {
+        "w": "sakthi-sādaḥ",
+        "gloss": "weakness of the thighs",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bastijāyāṃ",
+      "words": [
+       {
+        "w": "basti-jāyām",
+        "gloss": "in one arising in the bladder",
+        "gram": "f. loc. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kṛcchrapūtimūtravarcastvaṃ",
+      "words": [
+       {
+        "w": "kṛcchra-pūti-mūtra-varcas-tvam",
+        "gloss": "difficult and foul-smelling urine and faeces",
+        "gram": "n. nom. sg., tat-puruṣa (dvandva members)"
+       }
+      ]
+     },
+     {
+      "src": "ceti",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "(end of list)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब इन विद्रधियों की साध्यता और असाध्यता के भेद को जानने के लिए हम स्थान के कारण होने वाले लक्षणों के भेद का उपदेश करेंगे। वहाँ प्रधान मर्म में उत्पन्न विद्रधि में हृदय में धक्का-सा लगना, तमक, प्रमोह, कास और श्वास होते हैं; क्लोम में उत्पन्न में प्यास, मुख का सूखना और गले का जकड़ना; यकृत् में उत्पन्न में श्वास; प्लीहा में उत्पन्न में उच्छ्वास का रुकना; कुक्षि में उत्पन्न में कुक्षि, पार्श्व और कन्धों के बीच शूल; वृक्क में उत्पन्न में पीठ और कमर की जकड़न; नाभि में उत्पन्न में हिक्का; वंक्षण में उत्पन्न में जाँघों की शिथिलता; और बस्ति में उत्पन्न में कष्ट से और दुर्गन्धयुक्त मूत्र और मल का होना।",
+  "english": "Now, for knowing the distinction between the curability and incurability of these vidradhīs, we shall teach the distinction of signs caused by location. There, in a vidradhī arising in the chief vital point (marma): jolting of the heart, tamaka, stupor (pramoha), cough and dyspnoea; in one arising in the kloman: thirst, dryness of the mouth and catching of the throat; in one arising in the liver: dyspnoea; in one arising in the spleen: obstruction of breathing; in one arising in the kukṣi: pain in the kukṣi, the sides and between the shoulders; in one arising in the kidney: stiffness of the back and waist; in one arising in the navel: hiccup; in one arising in the groin: weakness of the thighs; and in one arising in the bladder: difficult and foul-smelling urine and faeces.",
+  "text_flags": [],
+  "notes": "A prose passage although it is numbered as a verse unit. The chief vital point (pradhāna marma) is listed where unit 94 has hṛdaya (heart); its symptoms begin with the heart. tamaka is kept in Sanskrit. The token \"---\" is the printed dash.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.17.101"
+  ],
+  "lines_deva": [
+   "अथासां विद्रधीनां साध्यासाध्यत्वविशेषज्ञानार्थं स्थानकृतं लिङ्गविशेषमुपदेक्ष्यामः --- तत्र प्रधानमर्मजायां विद्रध्यां हृद्घट्टनतमकप्रमोहकासश्वासाः, क्लोमजायां पिपासामुखशोषगलग्रहाः, यकृज्जायां श्वासः, प्लीहजायामुच्छ्वासोपरोधः, कुक्षिजायां कुक्षिपार्श्वान्तरांसशूलं, वृक्कजायां पृष्ठकटिग्रहः, नाभिजायां हिक्का, वंक्षणजायां सक्थिसादः, बस्तिजायां कृच्छ्रपूतिमूत्रवर्चस्त्वं चेति"
+  ],
+  "lines_iast": [
+   "athāsāṃ vidradhīnāṃ sādhyāsādhyatvaviśeṣajñānārthaṃ sthānakṛtaṃ liṅgaviśeṣamupadekṣyāmaḥ --- tatra pradhānamarmajāyāṃ vidradhyāṃ hṛdghaṭṭanatamakapramohakāsaśvāsāḥ, klomajāyāṃ pipāsāmukhaśoṣagalagrahāḥ, yakṛjjāyāṃ śvāsaḥ, plīhajāyāmucchvāsoparodhaḥ, kukṣijāyāṃ kukṣipārśvāntarāṃsaśūlaṃ, vṛkkajāyāṃ pṛṣṭhakaṭigrahaḥ, nābhijāyāṃ hikkā, vaṃkṣaṇajāyāṃ sakthisādaḥ, bastijāyāṃ kṛcchrapūtimūtravarcastvaṃ ceti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "102",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pakvaprabhinnāsūrdhvajāsu",
+      "words": [
+       {
+        "w": "pakva-prabhinnāsu",
+        "gloss": "when ripened and burst",
+        "gram": "f. loc. pl., dvandva"
+       },
+       {
+        "w": "ūrdhva-jāsu",
+        "gloss": "in those arising above",
+        "gram": "f. loc. pl., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "mukhāt",
+      "words": [
+       {
+        "w": "mukhāt",
+        "gloss": "from the mouth",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "srāvaḥ",
+      "words": [
+       {
+        "w": "srāvaḥ",
+        "gloss": "discharge",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sravati,",
+      "words": [
+       {
+        "w": "sravati",
+        "gloss": "flows",
+        "gram": "3 sg. pres. √sru"
+       }
+      ]
+     },
+     {
+      "src": "adhojāsu",
+      "words": [
+       {
+        "w": "adhaḥ-jāsu",
+        "gloss": "in those arising below",
+        "gram": "f. loc. pl., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "gudāt,",
+      "words": [
+       {
+        "w": "gudāt",
+        "gloss": "from the anus",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "ubhayatastu",
+      "words": [
+       {
+        "w": "ubhayataḥ",
+        "gloss": "from both",
+        "gram": "ind."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nābhijāsu",
+      "words": [
+       {
+        "w": "nābhi-jāsu",
+        "gloss": "in those arising in the navel",
+        "gram": "f. loc. pl., upapada tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पककर फूट जाने पर ऊपर उत्पन्न होने वाली विद्रधियों में स्राव मुख से बहता है, नीचे उत्पन्न होने वालियों में गुदा से, और नाभि में उत्पन्न होने वालियों में दोनों ओर से।",
+  "english": "When they have ripened and burst, in those arising above the discharge flows from the mouth, in those arising below from the anus, but in those arising in the navel from both.",
+  "text_flags": [],
+  "notes": "Prose numbered as a verse unit.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.17.102"
+  ],
+  "lines_deva": [
+   "पक्वप्रभिन्नासूर्ध्वजासु मुखात् स्रावः स्रवति, अधोजासु गुदात्, उभयतस्तु नाभिजासु"
+  ],
+  "lines_iast": [
+   "pakvaprabhinnāsūrdhvajāsu mukhāt srāvaḥ sravati, adhojāsu gudāt, ubhayatastu nābhijāsu"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "103",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āsāṃ",
+      "words": [
+       {
+        "w": "āsām",
+        "gloss": "of these",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "hṛnnābhibastijāḥ",
+      "words": [
+       {
+        "w": "hṛt-nābhi-basti-jāḥ",
+        "gloss": "arising in heart, navel and bladder",
+        "gram": "f. nom. pl., upapada tat-puruṣa (dvandva first members)"
+       }
+      ]
+     },
+     {
+      "src": "paripakvāḥ",
+      "words": [
+       {
+        "w": "paripakvāḥ",
+        "gloss": "fully ripened",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sānnipātikī",
+      "words": [
+       {
+        "w": "sānnipātikī",
+        "gloss": "the one from all doṣas combined",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "maraṇāya;",
+      "words": [
+       {
+        "w": "maraṇāya",
+        "gloss": "for death",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "śeṣāḥ",
+      "words": [
+       {
+        "w": "śeṣāḥ",
+        "gloss": "the rest",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kuśalamāśupratikāriṇaṃ",
+      "words": [
+       {
+        "w": "kuśalam",
+        "gloss": "skilful",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āśu-pratikāriṇam",
+        "gloss": "treating quickly",
+        "gram": "m. acc. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "cikitsakamāsādyopaśāmyanti",
+      "words": [
+       {
+        "w": "cikitsakam",
+        "gloss": "physician",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āsādya",
+        "gloss": "having reached",
+        "gram": "abs. ā-√sad (caus.)"
+       },
+       {
+        "w": "upaśāmyanti",
+        "gloss": "subside",
+        "gram": "3 pl. pres. upa-√śam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इनमें से हृदय, नाभि और बस्ति में उत्पन्न होने वाली, पूरी तरह पक जाने पर, और सान्निपातिक विद्रधि मृत्यु के लिए होती हैं; शेष तो कुशल और शीघ्र उपचार करने वाले चिकित्सक को पाकर शान्त हो जाती हैं।",
+  "english": "Of these, those arising in the heart, navel and bladder when fully ripened, and the sānnipātikī one, are for death; the rest, however, subside on reaching a skilful physician who treats quickly.",
+  "text_flags": [],
+  "notes": "Prose numbered as a verse unit. paripakvāḥ may be read with the first group only (as rendered) or as applying also to the sānnipātikī one.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.17.103"
+  ],
+  "lines_deva": [
+   "आसां हृन्नाभिबस्तिजाः परिपक्वाः सान्निपातिकी च मरणाय; शेषाः पुनः कुशलमाशुप्रतिकारिणं चिकित्सकमासाद्योपशाम्यन्ति"
+  ],
+  "lines_iast": [
+   "āsāṃ hṛnnābhibastijāḥ paripakvāḥ sānnipātikī ca maraṇāya; śeṣāḥ punaḥ kuśalamāśupratikāriṇaṃ cikitsakamāsādyopaśāmyanti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "P1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmādacirotthitāṃ",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind. (abl.)"
+       },
+       {
+        "w": "acira-utthitām",
+        "gloss": "recently arisen",
+        "gram": "f. acc. sg., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "vidradhīṃ",
+      "words": [
+       {
+        "w": "vidradhīm",
+        "gloss": "vidradhī",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śastrasarpavidyudagnitulyāṃ",
+      "words": [
+       {
+        "w": "śastra-sarpa-vidyut-agni-tulyām",
+        "gloss": "like a weapon, a snake, lightning and fire",
+        "gram": "f. acc. sg., tat-puruṣa (dvandva first members)"
+       }
+      ]
+     },
+     {
+      "src": "snehavirecanairāśvevopakramet",
+      "words": [
+       {
+        "w": "sneha-virecanaiḥ",
+        "gloss": "with unctuous substances and purgation",
+        "gram": "n. inst. pl., dvandva"
+       },
+       {
+        "w": "āśu",
+        "gloss": "quickly",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "just, indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "upakramet",
+        "gloss": "one should treat",
+        "gram": "3 sg. opt. upa-√kram"
+       }
+      ]
+     },
+     {
+      "src": "sarvaśo",
+      "words": [
+       {
+        "w": "sarvaśaḥ",
+        "gloss": "in every way",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gulmavacceti",
+      "words": [
+       {
+        "w": "gulma-vat",
+        "gloss": "as for gulma",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "(end of statement)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए शस्त्र, सर्प, बिजली और अग्नि के समान, अभी-अभी उत्पन्न हुई विद्रधि का स्नेह और विरेचन से शीघ्र ही उपचार करे, और सब प्रकार से गुल्म के समान।",
+  "english": "Therefore one should treat a recently arisen vidradhī, which is like a weapon, a snake, lightning and fire, right away with unctuous substances (sneha) and purgation (virecana), and in every way as for gulma.",
+  "text_flags": [],
+  "notes": "gulmavat \"like gulma\": the vidradhī is to be treated in every way as gulma is treated.",
+  "confidence": "high",
+  "type": "prose",
+  "line_ids": [
+   "01.17.P1"
+  ],
+  "lines_deva": [
+   "तस्मादचिरोत्थितां विद्रधीं शस्त्रसर्पविद्युदग्नितुल्यां स्नेहविरेचनैराश्वेवोपक्रमेत् सर्वशो गुल्मवच्चेति"
+  ],
+  "lines_iast": [
+   "tasmādacirotthitāṃ vidradhīṃ śastrasarpavidyudagnitulyāṃ snehavirecanairāśvevopakramet sarvaśo gulmavacceti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "104",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhavanti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "there are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "cātra",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "atra",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vinā",
+      "words": [
+       {
+        "w": "vinā",
+        "gloss": "without",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pramehamapyetā",
+      "words": [
+       {
+        "w": "prameham",
+        "gloss": "prameha",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       },
+       {
+        "w": "etāḥ",
+        "gloss": "these",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "jāyante",
+      "words": [
+       {
+        "w": "jāyante",
+        "gloss": "arise",
+        "gram": "3 pl. pres. mid. √jan"
+       }
+      ]
+     },
+     {
+      "src": "duṣṭamedasaḥ",
+      "words": [
+       {
+        "w": "duṣṭa-medasaḥ",
+        "gloss": "of one whose fat (medas) is vitiated",
+        "gram": "m. gen. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tāvaccaitā",
+      "words": [
+       {
+        "w": "tāvat",
+        "gloss": "so long",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "etāḥ",
+        "gloss": "these",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "lakṣyante",
+      "words": [
+       {
+        "w": "lakṣyante",
+        "gloss": "are noticed",
+        "gram": "3 pl. pres. pass. √lakṣ"
+       }
+      ]
+     },
+     {
+      "src": "yāvadvāstuparigrahaḥ",
+      "words": [
+       {
+        "w": "yāvat",
+        "gloss": "as long as, until",
+        "gram": "ind."
+       },
+       {
+        "w": "vāstu-parigrahaḥ",
+        "gloss": "occupation of a site",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और यहाँ हैं: ये पिडकाएँ प्रमेह के बिना भी दूषित मेद वाले व्यक्ति में उत्पन्न होती हैं, और जब तक स्थान का ग्रहण न हो, तब तक ये दिखाई नहीं देतीं।",
+  "english": "And here there are: These arise even without prameha in one whose fat (medas) is vitiated, and they are not noticed until there is occupation of a site.",
+  "text_flags": [],
+  "notes": "duṣṭamedasaḥ may also be a feminine nominative plural bahuvrīhi agreeing with etāḥ (\"having vitiated fat\"). The construction tāvat ... na ... yāvat is rendered \"not ... until\"; vāstuparigraha refers to the eruptions taking up a site, as in unit 85.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.17.104a",
+   "01.17.104b",
+   "01.17.104c"
+  ],
+  "lines_deva": [
+   "भवन्ति चात्र",
+   "विना प्रमेहमप्येता जायन्ते दुष्टमेदसः",
+   "तावच्चैता न लक्ष्यन्ते यावद्वास्तुपरिग्रहः"
+  ],
+  "lines_iast": [
+   "bhavanti cātra",
+   "vinā pramehamapyetā jāyante duṣṭamedasaḥ",
+   "tāvaccaitā na lakṣyante yāvadvāstuparigrahaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "105",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śarāvikā",
+      "words": [
+       {
+        "w": "śarāvikā",
+        "gloss": "śarāvikā",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kacchapikā",
+      "words": [
+       {
+        "w": "kacchapikā",
+        "gloss": "kacchapikā",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jālinī",
+      "words": [
+       {
+        "w": "jālinī",
+        "gloss": "jālinī",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ceti",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "(end of list)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "duḥsahāḥ",
+      "words": [
+       {
+        "w": "duḥsahāḥ",
+        "gloss": "hard to bear",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "jāyante",
+      "words": [
+       {
+        "w": "jāyante",
+        "gloss": "arise",
+        "gram": "3 pl. pres. mid. √jan"
+       }
+      ]
+     },
+     {
+      "src": "tā",
+      "words": [
+       {
+        "w": "tāḥ",
+        "gloss": "they",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hyatibalāḥ",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       },
+       {
+        "w": "ati-balāḥ",
+        "gloss": "very strong",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "prabhūtaśleṣmamedasaḥ",
+      "words": [
+       {
+        "w": "prabhūta-śleṣma-medasaḥ",
+        "gloss": "of one with abundant Kapha and fat",
+        "gram": "m. gen. sg., bahuvrīhi (dvandva second members)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शराविका, कच्छपिका और जालिनी दुःसह हैं, क्योंकि वे प्रचुर श्लेष्मा और मेद वाले व्यक्ति में अत्यन्त बलवान होकर उत्पन्न होती हैं।",
+  "english": "Śarāvikā, kacchapikā and jālinī are hard to bear, for they arise very strong in one with abundant Kapha (śleṣman) and fat.",
+  "text_flags": [],
+  "notes": "prabhūtaśleṣmamedasaḥ may also be a feminine nominative plural bahuvrīhi agreeing with tāḥ (\"having abundant Kapha and fat\"), as in unit 104.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.17.105a",
+   "01.17.105b"
+  ],
+  "lines_deva": [
+   "शराविका कच्छपिका जालिनी चेति दुःसहाः",
+   "जायन्ते ता ह्यतिबलाः प्रभूतश्लेष्ममेदसः"
+  ],
+  "lines_iast": [
+   "śarāvikā kacchapikā jālinī ceti duḥsahāḥ",
+   "jāyante tā hyatibalāḥ prabhūtaśleṣmamedasaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "106",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sarṣapī",
+      "words": [
+       {
+        "w": "sarṣapī",
+        "gloss": "sarṣapī",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "cālajī",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "alajī",
+        "gloss": "alajī",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "caiva",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "just, indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vinatā",
+      "words": [
+       {
+        "w": "vinatā",
+        "gloss": "vinatā",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidradhī",
+      "words": [
+       {
+        "w": "vidradhī",
+        "gloss": "vidradhī",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yāḥ",
+      "words": [
+       {
+        "w": "yāḥ",
+        "gloss": "which",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sādhyāḥ",
+      "words": [
+       {
+        "w": "sādhyāḥ",
+        "gloss": "curable",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pittolbaṇāstāstu",
+      "words": [
+       {
+        "w": "pitta-ulbaṇāḥ",
+        "gloss": "Pitta-predominant",
+        "gram": "f. nom. pl., bahuvrīhi"
+       },
+       {
+        "w": "tāḥ",
+        "gloss": "they",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃbhavantyalpamedasaḥ",
+      "words": [
+       {
+        "w": "saṃbhavanti",
+        "gloss": "arise",
+        "gram": "3 pl. pres. sam-√bhū"
+       },
+       {
+        "w": "alpa-medasaḥ",
+        "gloss": "of one with little fat",
+        "gram": "m. gen. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और जो सर्षपी, अलजी, विनता और विद्रधि हैं, वे साध्य और पित्त की प्रबलता वाली हैं; वे अल्प मेद वाले व्यक्ति में उत्पन्न होती हैं।",
+  "english": "Those that are sarṣapī, alajī, vinatā and vidradhī are curable and Pitta-predominant; they, however, arise in one with little fat.",
+  "text_flags": [],
+  "notes": "sādhyāḥ and pittolbaṇāḥ may be read either inside the relative clause (as in the English) or as the predicate of tāḥ.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.17.106a",
+   "01.17.106b"
+  ],
+  "lines_deva": [
+   "सर्षपी चालजी चैव विनता विद्रधी च याः",
+   "साध्याः पित्तोल्बणास्तास्तु संभवन्त्यल्पमेदसः"
+  ],
+  "lines_iast": [
+   "sarṣapī cālajī caiva vinatā vidradhī ca yāḥ",
+   "sādhyāḥ pittolbaṇāstāstu saṃbhavantyalpamedasaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "107",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "marmasvaṃse",
+      "words": [
+       {
+        "w": "marmasu",
+        "gloss": "in the vital points",
+        "gram": "n. loc. pl."
+       },
+       {
+        "w": "aṃse",
+        "gloss": "in the shoulder",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gude",
+      "words": [
+       {
+        "w": "gude",
+        "gloss": "in the anus",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāṇyoḥ",
+      "words": [
+       {
+        "w": "pāṇyoḥ",
+        "gloss": "in the hands",
+        "gram": "m. loc. du."
+       }
+      ]
+     },
+     {
+      "src": "stane",
+      "words": [
+       {
+        "w": "stane",
+        "gloss": "in the breast",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sandhiṣu",
+      "words": [
+       {
+        "w": "sandhiṣu",
+        "gloss": "in the joints",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "pādayoḥ",
+      "words": [
+       {
+        "w": "pādayoḥ",
+        "gloss": "in the feet",
+        "gram": "m. loc. du."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "jāyante",
+      "words": [
+       {
+        "w": "jāyante",
+        "gloss": "arise",
+        "gram": "3 pl. pres. mid. √jan"
+       }
+      ]
+     },
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "piḍakāḥ",
+      "words": [
+       {
+        "w": "piḍakāḥ",
+        "gloss": "eruptions",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "a",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pramehī",
+      "words": [
+       {
+        "w": "pramehī",
+        "gloss": "prameha patient",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jīvati",
+      "words": [
+       {
+        "w": "jīvati",
+        "gloss": "lives",
+        "gram": "3 sg. pres. √jīv"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके मर्मों में, कन्धे में, गुदा में, हाथों में, स्तन में, सन्धियों में और पैरों में पिडकाएँ उत्पन्न होती हैं, वह प्रमेही जीवित नहीं रहता।",
+  "english": "The prameha patient in whom eruptions arise in the vital points (marma), the shoulder, the anus, the hands, the breast, the joints and the feet does not live.",
+  "text_flags": [
+   {
+    "src": "a",
+    "suggest": "sa",
+    "why": "the lone \"a\" is not a word; the relative yasya needs the correlative saḥ (sa) with pramehī, and \"sa\" keeps the 8 syllables of the pāda. The Devanagari line also prints अ."
+   }
+  ],
+  "notes": "",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.17.107a",
+   "01.17.107b"
+  ],
+  "lines_deva": [
+   "मर्मस्वंसे गुदे पाण्योः स्तने सन्धिषु पादयोः",
+   "जायन्ते यस्य पिडकाः अ प्रमेही न जीवति"
+  ],
+  "lines_iast": [
+   "marmasvaṃse gude pāṇyoḥ stane sandhiṣu pādayoḥ",
+   "jāyante yasya piḍakāḥ a pramehī na jīvati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "108",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tathānyāḥ",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       },
+       {
+        "w": "anyāḥ",
+        "gloss": "other",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "piḍakāḥ",
+      "words": [
+       {
+        "w": "piḍakāḥ",
+        "gloss": "eruptions",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "santi",
+      "words": [
+       {
+        "w": "santi",
+        "gloss": "there are",
+        "gram": "3 pl. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "raktapītāsitāruṇāḥ",
+      "words": [
+       {
+        "w": "rakta-pīta-asita-aruṇāḥ",
+        "gloss": "red, yellow, black and reddish",
+        "gram": "f. nom. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pāṇḍurāḥ",
+      "words": [
+       {
+        "w": "pāṇḍurāḥ",
+        "gloss": "whitish",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pāṇḍuvarṇāśca",
+      "words": [
+       {
+        "w": "pāṇḍu-varṇāḥ",
+        "gloss": "pale-coloured",
+        "gram": "f. nom. pl., bahuvrīhi"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhasmābhā",
+      "words": [
+       {
+        "w": "bhasma-ābhāḥ",
+        "gloss": "ash-like",
+        "gram": "f. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "mecakaprabhāḥ",
+      "words": [
+       {
+        "w": "mecaka-prabhāḥ",
+        "gloss": "with a dark-blue lustre",
+        "gram": "f. nom. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसी प्रकार अन्य पिडकाएँ हैं: लाल, पीली, काली, अरुण, पाण्डुर, पाण्डु वर्ण की, राख जैसी और गहरी नीली आभा वाली।",
+  "english": "Likewise there are other eruptions: red, yellow, black, reddish, whitish, pale-coloured, ash-like, and with a dark-blue lustre.",
+  "text_flags": [],
+  "notes": "bhasmābhā stands for bhasmābhāḥ (visarga dropped after ā before a voiced sound). The colour words are read as a list of different eruptions; the sentence continues into unit 109.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.17.108a",
+   "01.17.108b"
+  ],
+  "lines_deva": [
+   "तथान्याः पिडकाः सन्ति रक्तपीतासितारुणाः",
+   "पाण्डुराः पाण्डुवर्णाश्च भस्माभा मेचकप्रभाः"
+  ],
+  "lines_iast": [
+   "tathānyāḥ piḍakāḥ santi raktapītāsitāruṇāḥ",
+   "pāṇḍurāḥ pāṇḍuvarṇāśca bhasmābhā mecakaprabhāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "109",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mṛdvyaśca",
+      "words": [
+       {
+        "w": "mṛdvyaḥ",
+        "gloss": "soft",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaṭhināścānyāḥ",
+      "words": [
+       {
+        "w": "kaṭhināḥ",
+        "gloss": "hard",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anyāḥ",
+        "gloss": "others",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sthūlāḥ",
+      "words": [
+       {
+        "w": "sthūlāḥ",
+        "gloss": "large",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sūkṣmāstathāparāḥ",
+      "words": [
+       {
+        "w": "sūkṣmāḥ",
+        "gloss": "small",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       },
+       {
+        "w": "aparāḥ",
+        "gloss": "others",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mandavegā",
+      "words": [
+       {
+        "w": "manda-vegāḥ",
+        "gloss": "slow in course",
+        "gram": "f. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "mahāvegāḥ",
+      "words": [
+       {
+        "w": "mahā-vegāḥ",
+        "gloss": "rapid in course",
+        "gram": "f. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "svalpaśūlā",
+      "words": [
+       {
+        "w": "su-alpa-śūlāḥ",
+        "gloss": "with very little pain",
+        "gram": "f. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "mahārujaḥ",
+      "words": [
+       {
+        "w": "mahā-rujaḥ",
+        "gloss": "with great pain",
+        "gram": "f. nom. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कुछ कोमल हैं और अन्य कठोर, कुछ बड़ी और इसी प्रकार अन्य छोटी, कुछ मन्द वेग वाली, कुछ तीव्र वेग वाली, कुछ बहुत थोड़े शूल वाली और कुछ अत्यधिक पीड़ा वाली।",
+  "english": "some soft and others hard, some large and likewise others small, some slow in course, some rapid in course, some with very little pain, some with great pain.",
+  "text_flags": [],
+  "notes": "vega here means the force or speed of the eruption, not an urge. mandavegā and svalpaśūlā stand for -vegāḥ and -śūlāḥ (visarga dropped after ā before a voiced sound). \"some\" in the translation renders the contrast anyāḥ / aparāḥ.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.17.109a",
+   "01.17.109b"
+  ],
+  "lines_deva": [
+   "मृद्व्यश्च कठिनाश्चान्याः स्थूलाः सूक्ष्मास्तथापराः",
+   "मन्दवेगा महावेगाः स्वल्पशूला महारुजः"
+  ],
+  "lines_iast": [
+   "mṛdvyaśca kaṭhināścānyāḥ sthūlāḥ sūkṣmāstathāparāḥ",
+   "mandavegā mahāvegāḥ svalpaśūlā mahārujaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "110",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tā",
+      "words": [
+       {
+        "w": "tāḥ",
+        "gloss": "them",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "buddhvā",
+      "words": [
+       {
+        "w": "buddhvā",
+        "gloss": "having recognised",
+        "gram": "abs. √budh"
+       }
+      ]
+     },
+     {
+      "src": "mārutādīnāṃ",
+      "words": [
+       {
+        "w": "māruta-ādīnām",
+        "gloss": "of Vāta and the others",
+        "gram": "m. gen. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "yathāsvairhetulakṣaṇaiḥ",
+      "words": [
+       {
+        "w": "yathāsvaiḥ",
+        "gloss": "by their respective",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "hetu-lakṣaṇaiḥ",
+        "gloss": "causes and signs",
+        "gram": "n. inst. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "brūyādupacareccāśu",
+      "words": [
+       {
+        "w": "brūyāt",
+        "gloss": "should declare",
+        "gram": "3 sg. opt. √brū"
+       },
+       {
+        "w": "upacaret",
+        "gloss": "should treat",
+        "gram": "3 sg. opt. upa-√car"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "āśu",
+        "gloss": "quickly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prāgupadravadarśanāt",
+      "words": [
+       {
+        "w": "prāk",
+        "gloss": "before",
+        "gram": "ind."
+       },
+       {
+        "w": "upadrava-darśanāt",
+        "gloss": "the appearance of complications",
+        "gram": "n. abl. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उन्हें अपने-अपने हेतुओं और लक्षणों से मारुत आदि की जानकर, उपद्रव दिखाई देने से पहले, उनका कथन करे और शीघ्र उपचार करे।",
+  "english": "Having recognised them as of Vāta (māruta) and the others by their respective causes and signs, one should declare them and treat them quickly, before complications (upadrava) appear.",
+  "text_flags": [],
+  "notes": "mārutādīnām (genitive) is taken as \"belonging to Vāta and the others\"; it may also be read with hetulakṣaṇaiḥ (\"by the respective causes and signs of Vāta and the others\").",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.17.110a",
+   "01.17.110b"
+  ],
+  "lines_deva": [
+   "ता बुद्ध्वा मारुतादीनां यथास्वैर्हेतुलक्षणैः",
+   "ब्रूयादुपचरेच्चाशु प्रागुपद्रवदर्शनात्"
+  ],
+  "lines_iast": [
+   "tā buddhvā mārutādīnāṃ yathāsvairhetulakṣaṇaiḥ",
+   "brūyādupacareccāśu prāgupadravadarśanāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "111",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tṛṭśvāsamāṃsasaṃkothamohahikkāmadajvarāḥ",
+      "words": [
+       {
+        "w": "tṛṭ-śvāsa-māṃsa-saṃkotha-moha-hikkā-mada-jvarāḥ",
+        "gloss": "thirst, dyspnoea, putrefaction of flesh, confusion, hiccup, intoxication and fever",
+        "gram": "m. nom. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vīsarpamarmasaṃrodhāḥ",
+      "words": [
+       {
+        "w": "vīsarpa-marma-saṃrodhāḥ",
+        "gloss": "vīsarpa and obstruction of the vital points",
+        "gram": "m. nom. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "piḍakānāmupadravāḥ",
+      "words": [
+       {
+        "w": "piḍakānām",
+        "gloss": "of the eruptions",
+        "gram": "f. gen. pl."
+       },
+       {
+        "w": "upadravāḥ",
+        "gloss": "complications",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तृष्णा, श्वास, मांस का सड़ना, मोह, हिक्का, मद, ज्वर, वीसर्प और मर्मों का अवरोध पिडकाओं के उपद्रव हैं।",
+  "english": "Thirst, dyspnoea, putrefaction of the flesh, confusion (moha), hiccup, intoxication (mada), fever, vīsarpa and obstruction of the vital points (marma) are the complications (upadrava) of the eruptions.",
+  "text_flags": [],
+  "notes": "tṛṭ = tṛṣ \"thirst\" in compound form. marmasaṃrodha may also be \"obstruction at the vital points\".",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.17.111a",
+   "01.17.111b"
+  ],
+  "lines_deva": [
+   "तृट्श्वासमांससंकोथमोहहिक्कामदज्वराः",
+   "वीसर्पमर्मसंरोधाः पिडकानामुपद्रवाः"
+  ],
+  "lines_iast": [
+   "tṛṭśvāsamāṃsasaṃkothamohahikkāmadajvarāḥ",
+   "vīsarpamarmasaṃrodhāḥ piḍakānāmupadravāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "112",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṣayaḥ",
+      "words": [
+       {
+        "w": "kṣayaḥ",
+        "gloss": "diminution",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthānaṃ",
+      "words": [
+       {
+        "w": "sthānam",
+        "gloss": "stability",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vṛddhiśca",
+      "words": [
+       {
+        "w": "vṛddhiḥ",
+        "gloss": "increase",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "doṣāṇāṃ",
+      "words": [
+       {
+        "w": "doṣāṇām",
+        "gloss": "of the doṣas",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "trividhā",
+      "words": [
+       {
+        "w": "trividhā",
+        "gloss": "threefold",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gatiḥ",
+      "words": [
+       {
+        "w": "gatiḥ",
+        "gloss": "course",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ūrdhvaṃ",
+      "words": [
+       {
+        "w": "ūrdhvam",
+        "gloss": "upward",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cādhaśca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "adhaḥ",
+        "gloss": "downward",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tiryakca",
+      "words": [
+       {
+        "w": "tiryak",
+        "gloss": "sideways",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vijñeyā",
+      "words": [
+       {
+        "w": "vijñeyā",
+        "gloss": "to be known",
+        "gram": "f. nom. sg., gerundive (kṛtya) vi-√jñā"
+       }
+      ]
+     },
+     {
+      "src": "trividhāparā",
+      "words": [
+       {
+        "w": "trividhā",
+        "gloss": "threefold",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "aparā",
+        "gloss": "another",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्षय, स्थान और वृद्धि, यह दोषों की तीन प्रकार की गति है; ऊपर, नीचे और तिरछी, यह दूसरी तीन प्रकार की गति जाननी चाहिए।",
+  "english": "Diminution (kṣaya), stability (sthāna) and increase (vṛddhi) are the threefold course (gati) of the doṣas; upward, downward and sideways is to be known as another threefold one.",
+  "text_flags": [],
+  "notes": "sthāna here is the steady (normal) state between diminution and increase.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.17.112a",
+   "01.17.112b"
+  ],
+  "lines_deva": [
+   "क्षयः स्थानं च वृद्धिश्च दोषाणां त्रिविधा गतिः",
+   "ऊर्ध्वं चाधश्च तिर्यक्च विज्ञेया त्रिविधापरा"
+  ],
+  "lines_iast": [
+   "kṣayaḥ sthānaṃ ca vṛddhiśca doṣāṇāṃ trividhā gatiḥ",
+   "ūrdhvaṃ cādhaśca tiryakca vijñeyā trividhāparā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "113",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "trividhā",
+      "words": [
+       {
+        "w": "trividhā",
+        "gloss": "threefold",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "cāparā",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "aparā",
+        "gloss": "another",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "koṣṭhaśākhāmarmāsthisandhiṣu",
+      "words": [
+       {
+        "w": "koṣṭha-śākhā-marma-asthi-sandhiṣu",
+        "gloss": "in the koṣṭha, the śākhās, and the vital points, bones and joints",
+        "gram": "m. loc. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ityuktā",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "uktā",
+        "gloss": "stated",
+        "gram": "f. nom. sg., ppp. √vac"
+       }
+      ]
+     },
+     {
+      "src": "vidhibhedena",
+      "words": [
+       {
+        "w": "vidhi-bhedena",
+        "gloss": "by distinction of kind",
+        "gram": "m. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "doṣāṇāṃ",
+      "words": [
+       {
+        "w": "doṣāṇām",
+        "gloss": "of the doṣas",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "trividhā",
+      "words": [
+       {
+        "w": "trividhā",
+        "gloss": "threefold",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gatiḥ",
+      "words": [
+       {
+        "w": "gatiḥ",
+        "gloss": "course",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और एक अन्य तीन प्रकार की गति कोष्ठ, शाखाओं तथा मर्म, अस्थि और सन्धियों में है। इस प्रकार विधि के भेद से दोषों की तीन प्रकार की गति कही गई।",
+  "english": "And another threefold one is in the trunk (koṣṭha), the periphery (śākhā) and the vital points, bones and joints. Thus the threefold course of the doṣas has been stated by distinction of kind.",
+  "text_flags": [],
+  "notes": "The three sites are read as koṣṭha, śākhā, and marma-asthi-sandhi (vital points, bones and joints) taken together, which gives the three of trividhā.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.17.113a",
+   "01.17.113b"
+  ],
+  "lines_deva": [
+   "त्रिविधा चापरा कोष्ठशाखामर्मास्थिसन्धिषु",
+   "इत्युक्ता विधिभेदेन दोषाणां त्रिविधा गतिः"
+  ],
+  "lines_iast": [
+   "trividhā cāparā koṣṭhaśākhāmarmāsthisandhiṣu",
+   "ityuktā vidhibhedena doṣāṇāṃ trividhā gatiḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "114",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "cayaprakopapraśamāḥ",
+      "words": [
+       {
+        "w": "caya-prakopa-praśamāḥ",
+        "gloss": "accumulation, aggravation and pacification",
+        "gram": "m. nom. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "pittādīnāṃ",
+      "words": [
+       {
+        "w": "pitta-ādīnām",
+        "gloss": "of Pitta and the others",
+        "gram": "m. gen. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "yathākramam",
+      "words": [
+       {
+        "w": "yathākramam",
+        "gloss": "in order",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bhavantyekaikaśaḥṣaṭsu",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "occur",
+        "gram": "3 pl. pres. √bhū"
+       },
+       {
+        "w": "ekaikaśaḥ",
+        "gloss": "one by one",
+        "gram": "ind."
+       },
+       {
+        "w": "ṣaṭsu",
+        "gloss": "in the six",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kāleṣvabhrāgamādiṣu",
+      "words": [
+       {
+        "w": "kāleṣu",
+        "gloss": "seasons",
+        "gram": "m. loc. pl."
+       },
+       {
+        "w": "abhra-āgama-ādiṣu",
+        "gloss": "beginning with the coming of clouds",
+        "gram": "m. loc. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पित्त आदि के चय, प्रकोप और प्रशम क्रम से, एक-एक करके, मेघों के आगमन से आरम्भ होने वाले छह कालों में होते हैं।",
+  "english": "The accumulation, aggravation and pacification of Pitta and the others occur in order, one by one, in the six seasons beginning with the coming of the clouds.",
+  "text_flags": [],
+  "notes": "The token ekaikaśaḥṣaṭsu runs two words together without a space; the split keeps both in this one token.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.17.114a",
+   "01.17.114b"
+  ],
+  "lines_deva": [
+   "चयप्रकोपप्रशमाः पित्तादीनां यथाक्रमम्",
+   "भवन्त्येकैकशःषट्सु कालेष्वभ्रागमादिषु"
+  ],
+  "lines_iast": [
+   "cayaprakopapraśamāḥ pittādīnāṃ yathākramam",
+   "bhavantyekaikaśaḥṣaṭsu kāleṣvabhrāgamādiṣu"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "115",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gatiḥ",
+      "words": [
+       {
+        "w": "gatiḥ",
+        "gloss": "course",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kālakṛtā",
+      "words": [
+       {
+        "w": "kāla-kṛtā",
+        "gloss": "made by time",
+        "gram": "f. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "caiṣā",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eṣā",
+        "gloss": "this",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "cayādyā",
+      "words": [
+       {
+        "w": "caya-ādyā",
+        "gloss": "beginning with accumulation",
+        "gram": "f. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "punarucyate",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again",
+        "gram": "ind."
+       },
+       {
+        "w": "ucyate",
+        "gloss": "is called",
+        "gram": "3 sg. pres. pass. √vac"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "gatiśca",
+      "words": [
+       {
+        "w": "gatiḥ",
+        "gloss": "course",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dvividhā",
+      "words": [
+       {
+        "w": "dvividhā",
+        "gloss": "twofold",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dṛṣṭā",
+      "words": [
+       {
+        "w": "dṛṣṭā",
+        "gloss": "is seen",
+        "gram": "f. nom. sg., ppp. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "prākṛtī",
+      "words": [
+       {
+        "w": "prākṛtī",
+        "gloss": "natural",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaikṛtī",
+      "words": [
+       {
+        "w": "vaikṛtī",
+        "gloss": "morbid",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yā",
+        "gloss": "which",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और चय से आरम्भ होने वाली यह गति फिर कालकृत कही जाती है। और गति दो प्रकार की देखी गई है: जो प्राकृत है और जो वैकृत है।",
+  "english": "And this course beginning with accumulation is further called the time-made (course). And the course is seen to be twofold: that which is natural (prākṛtī) and that which is morbid (vaikṛtī).",
+  "text_flags": [],
+  "notes": "punaḥ is rendered \"further\"; it may also mean \"again\".",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.17.115a",
+   "01.17.115b"
+  ],
+  "lines_deva": [
+   "गतिः कालकृता चैषा चयाद्या पुनरुच्यते",
+   "गतिश्च द्विविधा दृष्टा प्राकृती वैकृती च या"
+  ],
+  "lines_iast": [
+   "gatiḥ kālakṛtā caiṣā cayādyā punarucyate",
+   "gatiśca dvividhā dṛṣṭā prākṛtī vaikṛtī ca yā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "116",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pittādevoṣmaṇaḥ",
+      "words": [
+       {
+        "w": "pittāt",
+        "gloss": "from Pitta",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "alone",
+        "gram": "ind."
+       },
+       {
+        "w": "ūṣmaṇaḥ",
+        "gloss": "heat",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "paktirnarāṇāmupajāyate",
+      "words": [
+       {
+        "w": "paktiḥ",
+        "gloss": "digestion",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "narāṇām",
+        "gloss": "of men",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "upajāyate",
+        "gloss": "arises",
+        "gram": "3 sg. pres. mid. upa-√jan"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tacca",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pittaṃ",
+      "words": [
+       {
+        "w": "pittam",
+        "gloss": "Pitta",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakupitaṃ",
+      "words": [
+       {
+        "w": "prakupitam",
+        "gloss": "aggravated",
+        "gram": "n. nom. sg., ppp. pra-√kup"
+       }
+      ]
+     },
+     {
+      "src": "vikārān",
+      "words": [
+       {
+        "w": "vikārān",
+        "gloss": "disorders",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kurute",
+      "words": [
+       {
+        "w": "kurute",
+        "gloss": "produces",
+        "gram": "3 sg. pres. mid. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "bahūn",
+      "words": [
+       {
+        "w": "bahūn",
+        "gloss": "many",
+        "gram": "m. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मनुष्यों का पाक केवल ऊष्मा रूपी पित्त से होता है, और वह पित्त कुपित होकर बहुत से विकार उत्पन्न करता है।",
+  "english": "Digestion (pakti) in men arises from Pitta alone, the heat (ūṣman); and that Pitta, when aggravated, produces many disorders (vikāra).",
+  "text_flags": [],
+  "notes": "ūṣmaṇaḥ is taken as ablative in apposition to pittāt (\"from Pitta, the heat\"); it may also be genitive (\"the digestion of heat\"). eva is restrictive and is rendered \"alone\".",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.17.116a",
+   "01.17.116b"
+  ],
+  "lines_deva": [
+   "पित्तादेवोष्मणः पक्तिर्नराणामुपजायते",
+   "तच्च पित्तं प्रकुपितं विकारान् कुरुते बहून्"
+  ],
+  "lines_iast": [
+   "pittādevoṣmaṇaḥ paktirnarāṇāmupajāyate",
+   "tacca pittaṃ prakupitaṃ vikārān kurute bahūn"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "117",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prākṛtastu",
+      "words": [
+       {
+        "w": "prākṛtaḥ",
+        "gloss": "in its normal state",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "balaṃ",
+      "words": [
+       {
+        "w": "balam",
+        "gloss": "strength",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śleṣmā",
+      "words": [
+       {
+        "w": "śleṣmā",
+        "gloss": "Kapha",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vikṛto",
+      "words": [
+       {
+        "w": "vikṛtaḥ",
+        "gloss": "disordered",
+        "gram": "m. nom. sg., ppp. vi-√kṛ"
+       }
+      ]
+     },
+     {
+      "src": "mala",
+      "words": [
+       {
+        "w": "malaḥ",
+        "gloss": "waste",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ucyate",
+      "words": [
+       {
+        "w": "ucyate",
+        "gloss": "is called",
+        "gram": "3 sg. pres. pass. √vac"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "it",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "caivaujaḥ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "the same",
+        "gram": "ind."
+       },
+       {
+        "w": "ojaḥ",
+        "gloss": "ojas",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "smṛtaḥ",
+      "words": [
+       {
+        "w": "smṛtaḥ",
+        "gloss": "is regarded as",
+        "gram": "m. nom. sg., ppp. √smṛ"
+       }
+      ]
+     },
+     {
+      "src": "kāye",
+      "words": [
+       {
+        "w": "kāye",
+        "gloss": "in the body",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "it",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pāpmopadiśyate",
+      "words": [
+       {
+        "w": "pāpmā",
+        "gloss": "evil",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "upadiśyate",
+        "gloss": "is designated",
+        "gram": "3 sg. pres. pass. upa-√diś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्राकृत अवस्था में श्लेष्मा बल है और विकृत होने पर मल कहा जाता है; वही शरीर में ओज माना गया है और वह पाप्मा कहा जाता है।",
+  "english": "But Kapha (śleṣman) in its normal state is strength, and when disordered is called waste (mala); that same (Kapha) is regarded as ojas (vital essence) in the body, and it is designated as evil (pāpman).",
+  "text_flags": [],
+  "notes": "mala stands for malaḥ (visarga dropped before u). ojas is glossed \"vital essence\" at first use in this chunk.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.17.117a",
+   "01.17.117b"
+  ],
+  "lines_deva": [
+   "प्राकृतस्तु बलं श्लेष्मा विकृतो मल उच्यते",
+   "स चैवौजः स्मृतः काये स च पाप्मोपदिश्यते"
+  ],
+  "lines_iast": [
+   "prākṛtastu balaṃ śleṣmā vikṛto mala ucyate",
+   "sa caivaujaḥ smṛtaḥ kāye sa ca pāpmopadiśyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "118",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sarvā",
+      "words": [
+       {
+        "w": "sarvā",
+        "gloss": "all",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ceṣṭā",
+      "words": [
+       {
+        "w": "ceṣṭā",
+        "gloss": "movement",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vātena",
+      "words": [
+       {
+        "w": "vātena",
+        "gloss": "by Vāta",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "it",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāṇaḥ",
+      "words": [
+       {
+        "w": "prāṇaḥ",
+        "gloss": "life-breath",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāṇināṃ",
+      "words": [
+       {
+        "w": "prāṇinām",
+        "gloss": "of living beings",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "smṛtaḥ",
+      "words": [
+       {
+        "w": "smṛtaḥ",
+        "gloss": "is regarded as",
+        "gram": "m. nom. sg., ppp. √smṛ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tenaiva",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by it",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "just, indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rogā",
+      "words": [
+       {
+        "w": "rogāḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "jāyante",
+      "words": [
+       {
+        "w": "jāyante",
+        "gloss": "arise",
+        "gram": "3 pl. pres. mid. √jan"
+       }
+      ]
+     },
+     {
+      "src": "tena",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by it",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "caivoparudhyate",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "just, indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "uparudhyate",
+        "gloss": "is obstructed",
+        "gram": "3 sg. pres. pass. upa-√rudh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि सारी चेष्टा वात से होती है, वह प्राणियों का प्राण माना गया है; उसी से रोग उत्पन्न होते हैं और उसी से अवरोध होता है।",
+  "english": "For all movement is by Vāta; it is regarded as the life-breath (prāṇa) of living beings. By that same (Vāta) diseases arise, and by it there is obstruction.",
+  "text_flags": [],
+  "notes": "The subject of uparudhyate is not stated; it may be life (prāṇa) or the person. The impersonal rendering \"there is obstruction\" keeps that open.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.17.118a",
+   "01.17.118b"
+  ],
+  "lines_deva": [
+   "सर्वा हि चेष्टा वातेन स प्राणः प्राणिनां स्मृतः",
+   "तेनैव रोगा जायन्ते तेन चैवोपरुध्यते"
+  ],
+  "lines_iast": [
+   "sarvā hi ceṣṭā vātena sa prāṇaḥ prāṇināṃ smṛtaḥ",
+   "tenaiva rogā jāyante tena caivoparudhyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "119",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nityaṃ",
+      "words": [
+       {
+        "w": "nityam",
+        "gloss": "always",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sannihitāmitraṃ",
+      "words": [
+       {
+        "w": "sannihita-amitram",
+        "gloss": "with enemies near at hand",
+        "gram": "m. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "samīkṣyātmānamātmavān",
+      "words": [
+       {
+        "w": "samīkṣya",
+        "gloss": "having regarded",
+        "gram": "abs. sam-√īkṣ"
+       },
+       {
+        "w": "ātmānam",
+        "gloss": "oneself",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ātmavān",
+        "gloss": "the self-controlled one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "nityaṃ",
+      "words": [
+       {
+        "w": "nityam",
+        "gloss": "always",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yuktaḥ",
+      "words": [
+       {
+        "w": "yuktaḥ",
+        "gloss": "attentive",
+        "gram": "m. nom. sg., ppp. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "paricaredicchannāyuranitvaram",
+      "words": [
+       {
+        "w": "paricaret",
+        "gloss": "should attend (to himself)",
+        "gram": "3 sg. opt. pari-√car"
+       },
+       {
+        "w": "icchan",
+        "gloss": "wishing",
+        "gram": "m. nom. sg., pres. part. √iṣ"
+       },
+       {
+        "w": "āyuḥ",
+        "gloss": "life",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "anitvaram",
+        "gloss": "lasting",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अपने आप को सदा निकट स्थित शत्रुओं वाला देखकर, अनश्वर आयु चाहने वाला आत्मवान् व्यक्ति सदा सावधान रहकर अपनी देखभाल करे।",
+  "english": "Regarding himself as one whose enemies are always near at hand, the self-controlled man, wishing for a lasting life, should always attend to himself with care.",
+  "text_flags": [],
+  "notes": "paricaret has no stated object; \"himself\" is taken from ātmānam. anitvaram literally \"not transient\".",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.17.119a",
+   "01.17.119b"
+  ],
+  "lines_deva": [
+   "नित्यं सन्निहितामित्रं समीक्ष्यात्मानमात्मवान्",
+   "नित्यं युक्तः परिचरेदिच्छन्नायुरनित्वरम्"
+  ],
+  "lines_iast": [
+   "nityaṃ sannihitāmitraṃ samīkṣyātmānamātmavān",
+   "nityaṃ yuktaḥ paricaredicchannāyuranitvaram"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "120",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ślokau",
+      "words": [
+       {
+        "w": "ślokau",
+        "gloss": "two verses",
+        "gram": "m. nom. du."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śirorogāḥ",
+      "words": [
+       {
+        "w": "śiraḥ-rogāḥ",
+        "gloss": "diseases of the head",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sahṛdrogā",
+      "words": [
+       {
+        "w": "sa-hṛt-rogāḥ",
+        "gloss": "together with heart diseases",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "rogā",
+      "words": [
+       {
+        "w": "rogāḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mānavikalpajāḥ",
+      "words": [
+       {
+        "w": "māna-vikalpa-jāḥ",
+        "gloss": "born of gradations of measure",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kṣayāḥ",
+      "words": [
+       {
+        "w": "kṣayāḥ",
+        "gloss": "diminutions",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sapiḍakāścoktā",
+      "words": [
+       {
+        "w": "sa-piḍakāḥ",
+        "gloss": "together with the eruptions",
+        "gram": "m. nom. pl., bahuvrīhi"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "uktāḥ",
+        "gloss": "have been stated",
+        "gram": "m. nom. pl., ppp. √vac"
+       }
+      ]
+     },
+     {
+      "src": "doṣāṇāṃ",
+      "words": [
+       {
+        "w": "doṣāṇām",
+        "gloss": "of the doṣas",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "gatireva",
+      "words": [
+       {
+        "w": "gatiḥ",
+        "gloss": "course",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "just, indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यहाँ दो श्लोक: हृदय रोगों के साथ सिर के रोग, मान के विकल्प से उत्पन्न होने वाले रोग, पिडकाओं के साथ क्षय, और दोषों की गति कही गई हैं,",
+  "english": "Here, the two verses: The diseases of the head together with heart diseases, the diseases born of gradations of measure, the diminutions (kṣaya) together with the eruptions, and the course of the doṣas have been stated",
+  "text_flags": [],
+  "notes": "The summary sentence continues into unit 121, which gives the agent and the chapter. māna \"measure\" refers to the gradations of the doṣas described earlier in the chapter.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.17.120a",
+   "01.17.120b",
+   "01.17.120c"
+  ],
+  "lines_deva": [
+   "तत्र श्लोकौ",
+   "शिरोरोगाः सहृद्रोगा रोगा मानविकल्पजाः",
+   "क्षयाः सपिडकाश्चोक्ता दोषाणां गतिरेव च"
+  ],
+  "lines_iast": [
+   "tatra ślokau",
+   "śirorogāḥ sahṛdrogā rogā mānavikalpajāḥ",
+   "kṣayāḥ sapiḍakāścoktā doṣāṇāṃ gatireva ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "121",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kiyantaḥśirasīye'sminnadhyāye",
+      "words": [
+       {
+        "w": "kiyantaḥśirasīye",
+        "gloss": "in the Kiyantaḥśirasīya",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "asmin",
+        "gloss": "this",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "adhyāye",
+        "gloss": "chapter",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tattvadarśinā",
+      "words": [
+       {
+        "w": "tattva-darśinā",
+        "gloss": "by one who sees the truth",
+        "gram": "m. inst. sg., upapada tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "jñānārthaṃ",
+      "words": [
+       {
+        "w": "jñāna-artham",
+        "gloss": "for the sake of knowledge",
+        "gram": "ind. (n. acc. sg.), tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhiṣajā",
+      "words": [
+       {
+        "w": "bhiṣajā",
+        "gloss": "by the physician",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "prajānāṃ",
+      "words": [
+       {
+        "w": "prajānām",
+        "gloss": "of the people",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hitaiṣiṇā",
+      "words": [
+       {
+        "w": "hita-eṣiṇā",
+        "gloss": "desiring the welfare",
+        "gram": "m. inst. sg., upapada tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस कियन्तःशिरसीय अध्याय में, तत्त्वदर्शी और प्रजाओं के हित की इच्छा रखने वाले चिकित्सक द्वारा, ज्ञान के लिए।",
+  "english": "in this Kiyantaḥśirasīya chapter, for the sake of knowledge, by the physician who sees the truth and desires the welfare of the people.",
+  "text_flags": [],
+  "notes": "The second line has 14 syllables where the metre expects 16; two syllables may be missing. The printed text is kept and nothing is restored. The placement of ca is taken as joining tattvadarśinā and hitaiṣiṇā.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.17.121a",
+   "01.17.121b"
+  ],
+  "lines_deva": [
+   "कियन्तःशिरसीयेऽस्मिन्नध्याये तत्त्वदर्शिना",
+   "ज्ञानार्थं भिषजा प्रजानां च हितैषिणा"
+  ],
+  "lines_iast": [
+   "kiyantaḥśirasīye'sminnadhyāye tattvadarśinā",
+   "jñānārthaṃ bhiṣajā prajānāṃ ca hitaiṣiṇā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "P2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ityagniveśakṛte",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus (closing marker)",
+        "gram": "ind."
+       },
+       {
+        "w": "agniveśa-kṛte",
+        "gloss": "composed by Agniveśa",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tantre",
+      "words": [
+       {
+        "w": "tantre",
+        "gloss": "in the treatise",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "carakapratisaṃskṛte",
+      "words": [
+       {
+        "w": "caraka-pratisaṃskṛte",
+        "gloss": "redacted by Caraka",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ślokasthāne",
+      "words": [
+       {
+        "w": "śloka-sthāne",
+        "gloss": "in the Śloka section (Ślokasthāna)",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kiyantaḥśirasīyo",
+      "words": [
+       {
+        "w": "kiyantaḥśirasīyaḥ",
+        "gloss": "Kiyantaḥśirasīya",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāma",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "named",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saptadaśo'dhyāyaḥ",
+      "words": [
+       {
+        "w": "saptadaśaḥ",
+        "gloss": "seventeenth",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "adhyāyaḥ",
+        "gloss": "chapter",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार अग्निवेश द्वारा रचित, चरक द्वारा प्रतिसंस्कृत तन्त्र के श्लोकस्थान में कियन्तःशिरसीय नामक सत्रहवाँ अध्याय।",
+  "english": "Thus, in the treatise composed by Agniveśa and redacted by Caraka, in the Śloka section (Ślokasthāna), the seventeenth chapter named Kiyantaḥśirasīya.",
+  "text_flags": [],
+  "notes": "Chapter colophon; the Sanskrit has no verb and the translation keeps it verbless.",
+  "confidence": "high",
+  "type": "prose",
+  "line_ids": [
+   "01.17.P2"
+  ],
+  "lines_deva": [
+   "इत्यग्निवेशकृते तन्त्रे चरकप्रतिसंस्कृते श्लोकस्थाने कियन्तःशिरसीयो नाम सप्तदशोऽध्यायः"
+  ],
+  "lines_iast": [
+   "ityagniveśakṛte tantre carakapratisaṃskṛte ślokasthāne kiyantaḥśirasīyo nāma saptadaśo'dhyāyaḥ"
+  ],
+  "uncertain": []
+ }
+]

@@ -1,0 +1,694 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "Agniveśa's question begins here",
+     "problem": "The note names the questioner Agniveśa, a name not in the input (unit 5 prints Hutāśaveśa). Glossary rule (Vahniveśa precedent): name as printed, no identification unless the input gives it.",
+     "fix": "The question begins here and runs to unit 4; the questioner is named Hutāśaveśa in unit 5. māna-vikalpa ('variation in measure') refers to the doṣas being in different degrees; the answer is in units 6 and 41-42.",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "set",
+      "field": "notes",
+      "value": "The question begins here and runs to unit 4; the questioner is named Hutāśaveśa in unit 5. māna-vikalpa ('variation in measure') refers to the doṣas being in different degrees; the answer is in units 6 and 41-42."
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "the name is a synonym form of Agniveśa",
+     "problem": "Identification of Hutāśaveśa with Agniveśa rests on outside knowledge, not the input; glossary: names as printed, no identification unless the input gives it (cf. vahniveśa rule).",
+     "fix": "Hutāśaveśa (hutāśa 'fire') is kept as printed, as the name of the questioner of units 3-4.",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "set",
+      "field": "notes",
+      "value": "Hutāśaveśa (hutāśa 'fire') is kept as printed, as the name of the questioner of units 3-4."
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "eva",
+     "problem": "Glossary: eva = emphatic particle ('just, indeed'); 'likewise' is not its sense.",
+     "fix": "just, indeed",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "eva",
+      "field": "gloss",
+      "value": "just, indeed"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "ati is printed as a separate word",
+     "problem": "The note reads ati only with śītāmbusevanāt, but ati is sandhi-joined to ādānād and can equally qualify it ('excessive taking of heavy, sour and green food'); unit 17 of the draft reads a line-final ati with what precedes. Alternative should be stated.",
+     "fix": "Append: ati may also be read with the preceding ādānāt ('from excessive taking of heavy, sour and green food').",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "append_note",
+      "text": "ati may also be read with the preceding ādānāt ('from excessive taking of heavy, sour and green food')."
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "pratiśyā (nasal catarrh)",
+     "problem": "'nasal catarrh' is a modern disease identification from memory, not in the input; glossary POLICY forbids modern disease identifications unless the input gives them.",
+     "fix": "ardhāvabhedaka and pratiśyā are kept as Sanskrit disease names.",
+     "severity": "error",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "notes",
+      "old": "pratiśyā (nasal catarrh) are kept",
+      "new": "pratiśyā are kept"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "excessive emaciation",
+     "problem": "Glossary: karśana = reducing; atikarśana is 'excessive reducing' (thinning), not the state 'emaciation'.",
+     "fix": "from (carrying) loads, from travel and from excessive reducing,",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "english",
+      "old": "from excessive emaciation",
+      "new": "from excessive reducing"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तब उसके वात से बड़ा शूल",
+     "problem": "Hindi attaches tasya to vāta ('from his Vāta'), while the English and gloss ('for him') attach it to the arising of pain; make the two agree.",
+     "fix": "तब उसको वात से बड़ा शूल",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तब उसके वात से बड़ा शूल",
+      "new": "तब उसको वात से बड़ा शूल"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "svanataḥ",
+     "problem": "svanataḥ cannot be a present participle agreeing with śrotre (n. du.): the neuter nominative dual of svanat is svanatī. svanataḥ is svana + -tas, an indeclinable 'with/from sound'.",
+     "fix": "gloss 'with sound', gram 'ind. (svana + -tas)'",
+     "severity": "error",
+     "patch": {
+      "n": "20",
+      "op": "word",
+      "match_w": "svanataḥ",
+      "field": "gram",
+      "value": "ind. (svana + -tas)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "svanataḥ",
+     "problem": "Gloss follows the wrong participle analysis.",
+     "fix": "with sound",
+     "severity": "error",
+     "patch": {
+      "n": "20",
+      "op": "word",
+      "match_w": "svanataḥ",
+      "field": "gloss",
+      "value": "with sound"
+     }
+    },
+    {
+     "field": "english",
+     "where": "The two ears are struck, ringing;",
+     "problem": "Translation rests on the wrong participle reading.",
+     "fix": "The two ears are struck with sound;",
+     "severity": "error",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "english",
+      "old": "The two ears are struck, ringing;",
+      "new": "The two ears are struck with sound;"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "दोनों कान, ध्वनि करते हुए, आहत होते हैं;",
+     "problem": "Same participle error in Hindi.",
+     "fix": "दोनों कान ध्वनि से आहत होते हैं;",
+     "severity": "error",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दोनों कान, ध्वनि करते हुए, आहत होते हैं;",
+      "new": "दोनों कान ध्वनि से आहत होते हैं;"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "svanataḥ as a present participle agreeing with śrotre",
+     "problem": "Note repeats the wrong analysis.",
+     "fix": "vadhyete is read as passive of √vadh 'strike'; svanataḥ is read as svana + -tas 'with sound' (a participle agreeing with the neuter dual śrotre would be svanatī).",
+     "severity": "error",
+     "patch": {
+      "n": "20",
+      "op": "set",
+      "field": "notes",
+      "value": "vadhyete is read as passive of √vadh 'strike'; svanataḥ is read as svana + -tas 'with sound' (a participle agreeing with the neuter dual śrotre would be svanatī)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "putrefaction (kleda)",
+     "problem": "kleda (√klid 'be wet') is moistening / excess moisture, not putrefaction; 'putrefaction' adds the sense of pūti, which is a separate word in the same line.",
+     "fix": "excess moisture (kleda)",
+     "severity": "error",
+     "patch": {
+      "n": "27",
+      "op": "replace",
+      "field": "english",
+      "old": "putrefaction (kleda)",
+      "new": "excess moisture (kleda)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kledaḥ",
+     "problem": "Same: kleda = excess moisture.",
+     "fix": "excess moisture (kleda)",
+     "severity": "error",
+     "patch": {
+      "n": "27",
+      "op": "word",
+      "match_w": "kledaḥ",
+      "field": "gloss",
+      "value": "excess moisture (kleda)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "from the putrefaction in the head",
+     "problem": "saṃkleda = excess moisture (as kleda in unit 27), not putrefaction.",
+     "fix": "from the excess moisture (saṃkleda) in the head",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "english",
+      "old": "from the putrefaction in the head",
+      "new": "from the excess moisture (saṃkleda) in the head"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "saṃkledāt",
+     "problem": "Same.",
+     "fix": "from excess moisture",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "word",
+      "match_w": "saṃkledāt",
+      "field": "gloss",
+      "value": "from excess moisture"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "कृमि उत्पन्न होकर ऐसा शिरोरोग",
+     "problem": "'उत्पन्न होकर' (having arisen) is not in the Sanskrit; krimayaḥ janayanti only says the worms produce the disease.",
+     "fix": "कृमि ऐसा शिरोरोग",
+     "severity": "error",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कृमि उत्पन्न होकर ऐसा शिरोरोग",
+      "new": "कृमि ऐसा शिरोरोग"
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "and by the sight of worms",
+     "problem": "As placed, 'and by the sight of worms' reads as a further cause of distress; in the Sanskrit krimīṇāṃ darśanena ca is a second means of knowing (with vidyāt).",
+     "fix": "One should know (the person) distressed by piercing and cutting pain, itching, swelling and misery as afflicted with worm disease, and (know it) also by the sight of worms.",
+     "severity": "error",
+     "patch": {
+      "n": "29",
+      "op": "set",
+      "field": "english",
+      "value": "One should know (the person) distressed by piercing and cutting pain, itching, swelling and misery as afflicted with worm disease, and (know it) also by the sight of worms."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वेधने और काटने जैसी पीड़ा",
+     "problem": "'जैसी' (like) adds a comparison not in vyadha-cheda-rujā.",
+     "fix": "वेधने और काटने की पीड़ा",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वेधने और काटने जैसी पीड़ा",
+      "new": "वेधने और काटने की पीड़ा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "cramping (veṣṭana)",
+     "problem": "veṣṭana (√veṣṭ 'wrap') is a binding/constricting sensation; 'cramping' narrows it.",
+     "fix": "constriction (veṣṭana)",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "english",
+      "old": "cramping (veṣṭana)",
+      "new": "constriction (veṣṭana)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "alkaline (kṣāra)",
+     "problem": "Glossary: kṣāra = alkali (unit 22 has 'alkali (kṣāra)').",
+     "fix": "alkali (kṣāra)",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "english",
+      "old": "alkaline (kṣāra)",
+      "new": "alkali (kṣāra)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "(Heart disease causing distress and curable with difficulty has been declared by the great sages.)",
+     "problem": "kaṣṭadaḥ and kaṣṭasādhyaḥ are predicates of hṛdrogaḥ with ukto; 'has been declared' reads as if the disease's existence is declared.",
+     "fix": "(Heart disease is declared by the great sages to be distressing and curable with difficulty.)",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "replace",
+      "field": "english",
+      "old": "(Heart disease causing distress and curable with difficulty has been declared by the great sages.)",
+      "new": "(Heart disease is declared by the great sages to be distressing and curable with difficulty.)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "36c + 37a form one half-verse pair",
+     "problem": "Wording: two half-verse lines form one verse; 'half-verse pair' and 'completes the half-verse 36a' are confused. Grouping itself is sensible and kept.",
+     "fix": "'... completes the sense of 36a ...' and '... so 36c + 37a form one verse (two half-verse lines).'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उसके (हृदय में) ग्रन्थि",
+     "problem": "'(हृदय में)' is an interpretive insertion not in the line (the English rightly has none); glossary: Hindi brackets only for an understood word.",
+     "fix": "उसको ग्रन्थि",
+     "severity": "error",
+     "patch": {
+      "n": "37",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसके (हृदय में) ग्रन्थि",
+      "new": "उसको ग्रन्थि"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "rasa is the nutrient fluid (dhātu)",
+     "problem": "Doctrinal identification from outside the input; glossary keeps rasa as rasa.",
+     "fix": "Continues the sentence of unit 36c. marma here is read as the heart as a vital point (the topic of units 36-40). rasa is kept as rasa.",
+     "severity": "error",
+     "patch": {
+      "n": "37",
+      "op": "set",
+      "field": "notes",
+      "value": "Continues the sentence of unit 36c. marma here is read as the heart as a vital point (the topic of units 36-40). rasa is kept as rasa."
+     }
+    },
+    {
+     "field": "english",
+     "where": "his rasa undergoes putrefaction.",
+     "problem": "saṃkleda = excess moisture, not putrefaction (see unit 27).",
+     "fix": "his rasa undergoes saṃkleda (excess moisture).",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "replace",
+      "field": "english",
+      "old": "his rasa undergoes putrefaction.",
+      "new": "his rasa undergoes saṃkleda (excess moisture)."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "saṃkledam",
+     "problem": "Same.",
+     "fix": "excess moisture",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "word",
+      "match_w": "saṃkledam",
+      "field": "gloss",
+      "value": "excess moisture"
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "From the putrefaction, worms arise",
+     "problem": "Same as unit 27.",
+     "fix": "From the excess moisture (saṃkleda), worms arise",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "replace",
+      "field": "english",
+      "old": "From the putrefaction, worms arise",
+      "new": "From the excess moisture (saṃkleda), worms arise"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "saṃkledāt",
+     "problem": "Same.",
+     "fix": "from the excess moisture",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "word",
+      "match_w": "saṃkledāt",
+      "field": "gloss",
+      "value": "from the excess moisture"
+     }
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "śastrairjātakaṇḍūṃ -> jātakaṇḍuṃ",
+     "problem": "Remove this flag: its grammar is wrong. A neuter u-stem has accusative singular without -m (madhu, not madhum), so a regular neuter bahuvrīhi agreeing with hṛdayam would be jātakaṇḍu, not jātakaṇḍuṃ; the suggested form is no more regular than the printed one. Nothing in the chunk supports it.",
+     "fix": "Delete the text_flags entry; keep the printed form in words and explain in notes.",
+     "severity": "error",
+     "patch": {
+      "n": "39",
+      "op": "append_note",
+      "text": "jātakaṇḍūṃ is kept as printed; agreeing with hṛdayam it is irregular (a regular neuter bahuvrīhi would be jātakaṇḍu, accusative without -m)."
+     }
+    },
+    {
+     "field": "split",
+     "where": "jāta-kaṇḍum",
+     "problem": "The split word applies the rejected correction and is itself not a regular neuter accusative; keep the printed form.",
+     "fix": "w 'jāta-kaṇḍūm', gram 'acc. sg., bahuvrīhi agreeing with hṛdayam (irregular form)'",
+     "severity": "error",
+     "patch": {
+      "n": "39",
+      "op": "word",
+      "match_w": "jāta-kaṇḍum",
+      "field": "w",
+      "value": "jāta-kaṇḍūm"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "jāta-kaṇḍum",
+     "problem": "Label after the split fix.",
+     "fix": "acc. sg., bahuvrīhi agreeing with hṛdayam (irregular form)",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "word",
+      "match_w": "jāta-kaṇḍūm",
+      "field": "gram",
+      "value": "acc. sg., bahuvrīhi agreeing with hṛdayam (irregular form)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "This explains the count",
+     "problem": "Units 41-42 give 13 + 25 = 38, not the 62 of unit 6; the count is only begun here.",
+     "fix": "This begins the count",
+     "severity": "minor",
+     "patch": {
+      "n": "41",
+      "op": "replace",
+      "field": "notes",
+      "old": "This explains the count",
+      "new": "This begins the count"
+     }
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "संसर्ग (दो दोषों के मेल) में",
+     "problem": "Bracketed gloss of a Sanskrit term in Hindi; glossary: Hindi brackets only for an understood word, never a gloss.",
+     "fix": "संसर्ग में",
+     "severity": "error",
+     "patch": {
+      "n": "42",
+      "op": "replace",
+      "field": "hindi",
+      "old": "संसर्ग (दो दोषों के मेल) में",
+      "new": "संसर्ग में"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "17 errors, 17 minor in 19 units. Main errors: svanataḥ analysed as a participle (unit 20, must be svana+-tas); kleda/saṃkleda rendered 'putrefaction' (unit 27, minor repeats in 28/37/38); memory-based identifications in notes (Agniveśa for Hutāśaveśa in 3 and 5, pratiśyā = nasal catarrh in 13, rasa = dhātu in 37); the unit 39 text_flag (jātakaṇḍuṃ) rests on wrong grammar and should be removed; unsupported Hindi additions (28 'उत्पन्न होकर', 37 '(हृदय में)', 42 bracket gloss); misattached clause in 29 English. Text flags: 12 in all; 11 have evidence in the chunk or grammar and are kept (4 cānaga, 6 ḍrṣṭāḥ, 10 vāṣpa (weak: vāṣpa is a valid spelling, the suggestion rests on unit 17), 23 suṣūyate (conjectural, rightly 'possible' with low confidence), 23 dahyate, 24 ślṣmā, 25 mandarūjaṃ, 28 jāta, 33 kāraṇam, 35 kaphahdroge, 36 kaṣṭadaḥkaṣṭasādhya); 39 removed. No regrouping suggested beyond the drafter's GROUPING note on 36/37, which is sound (wording fix only). Unreviewed AI draft; not read by a person."
+}

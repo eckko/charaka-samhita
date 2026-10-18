@@ -1,0 +1,242 @@
+[
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "Agniveśa's question begins here and runs to unit 4. māna-vikalpa ('variation in measure') refers to the doṣas being in different degrees; the answer is in units 6 and 41-42.",
+  "new": "The question begins here and runs to unit 4; the questioner is named Hutāśaveśa in unit 5. māna-vikalpa ('variation in measure') refers to the doṣas being in different degrees; the answer is in units 6 and 41-42.",
+  "why": "reviewer (error): The note names the questioner Agniveśa, a name not in the input (unit 5 prints Hutāśaveśa). Glossary rule (Vahniveśa precedent): name as printed, no identification unless the input gives it."
+ },
+ {
+  "n": "5",
+  "field": "notes",
+  "old": "Hutāśaveśa: hutāśa means 'fire' (agni), so the name is a synonym form of Agniveśa, the questioner of units 3-4; the English keeps the printed form.",
+  "new": "Hutāśaveśa (hutāśa 'fire') is kept as printed, as the name of the questioner of units 3-4.",
+  "why": "reviewer (error): Identification of Hutāśaveśa with Agniveśa rests on outside knowledge, not the input; glossary: names as printed, no identification unless the input gives it (cf. vahniveśa rule)."
+ },
+ {
+  "n": "6",
+  "field": "word.gloss",
+  "word": "eva",
+  "old": "likewise, just",
+  "new": "just, indeed",
+  "why": "reviewer (minor): Glossary: eva = emphatic particle ('just, indeed'); 'likewise' is not its sense."
+ },
+ {
+  "n": "9",
+  "field": "notes",
+  "old": "ati is printed as a separate word before śītāmbusevanāt; it is read with it ('very cold water' or 'excessive use of cold water'). harita 'green' is read as green herbs or vegetables. gandhād asātmyād āghrātāt: 'from an unsuitable smell (that is) smelled'.",
+  "new": "ati is printed as a separate word before śītāmbusevanāt; it is read with it ('very cold water' or 'excessive use of cold water'). harita 'green' is read as green herbs or vegetables. gandhād asātmyād āghrātāt: 'from an unsuitable smell (that is) smelled'. ati may also be read with the preceding ādānāt ('from excessive taking of heavy, sour and green food').",
+  "why": "reviewer (minor): The note reads ati only with śītāmbusevanāt, but ati is sandhi-joined to ādānād and can equally qualify it ('excessive taking of heavy, sour and green food'); unit 17 of the draft reads a line-final ati with what precedes. Alternative should be stated."
+ },
+ {
+  "n": "13",
+  "field": "notes",
+  "old": "The list continues into unit 14. ardhāvabhedaka and pratiśyā (nasal catarrh) are kept as Sanskrit disease names.",
+  "new": "The list continues into unit 14. ardhāvabhedaka and pratiśyā are kept as Sanskrit disease names.",
+  "why": "reviewer (error): 'nasal catarrh' is a modern disease identification from memory, not in the input; glossary POLICY forbids modern disease identifications unless the input gives them."
+ },
+ {
+  "n": "17",
+  "field": "english",
+  "old": "from fasting, from injury, from purgation and emesis in excess, from tears, grief, fear and fright, from (carrying) loads, from travel and from excessive emaciation,",
+  "new": "from fasting, from injury, from purgation and emesis in excess, from tears, grief, fear and fright, from (carrying) loads, from travel and from excessive reducing,",
+  "why": "reviewer (minor): Glossary: karśana = reducing; atikarśana is 'excessive reducing' (thinning), not the state 'emaciation'."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "बढ़ी हुई वायु सिर में स्थित सिराओं में प्रवेश करके कुपित होती है; तब उसके वात से बड़ा शूल उत्पन्न होता है।",
+  "new": "बढ़ी हुई वायु सिर में स्थित सिराओं में प्रवेश करके कुपित होती है; तब उसको वात से बड़ा शूल उत्पन्न होता है।",
+  "why": "reviewer (minor): Hindi attaches tasya to vāta ('from his Vāta'), while the English and gloss ('for him') attach it to the arising of pain; make the two agree."
+ },
+ {
+  "n": "20",
+  "field": "word.gram",
+  "word": "svanataḥ",
+  "old": "n. nom. du. pres. part. √svan",
+  "new": "ind. (svana + -tas)",
+  "why": "reviewer (error): svanataḥ cannot be a present participle agreeing with śrotre (n. du.): the neuter nominative dual of svanat is svanatī. svanataḥ is svana + -tas, an indeclinable 'with/from sound'."
+ },
+ {
+  "n": "20",
+  "field": "word.gloss",
+  "word": "svanataḥ",
+  "old": "sounding, ringing",
+  "new": "with sound",
+  "why": "reviewer (error): Gloss follows the wrong participle analysis."
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "The two ears are struck, ringing; the two eyes are as if pulled out; the whole head as if whirls and is as if loosened from its joints.",
+  "new": "The two ears are struck with sound; the two eyes are as if pulled out; the whole head as if whirls and is as if loosened from its joints.",
+  "why": "reviewer (error): Translation rests on the wrong participle reading."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "दोनों कान, ध्वनि करते हुए, आहत होते हैं; दोनों आँखें मानो बाहर खींची जाती हैं; पूरा सिर मानो घूमता है और मानो जोड़ों से छूट जाता है।",
+  "new": "दोनों कान ध्वनि से आहत होते हैं; दोनों आँखें मानो बाहर खींची जाती हैं; पूरा सिर मानो घूमता है और मानो जोड़ों से छूट जाता है।",
+  "why": "reviewer (error): Same participle error in Hindi."
+ },
+ {
+  "n": "20",
+  "field": "notes",
+  "old": "vadhyete is read as passive of √vadh 'strike'; svanataḥ as a present participle agreeing with śrotre ('ringing').",
+  "new": "vadhyete is read as passive of √vadh 'strike'; svanataḥ is read as svana + -tas 'with sound' (a participle agreeing with the neuter dual śrotre would be svanatī).",
+  "why": "reviewer (error): Note repeats the wrong analysis."
+ },
+ {
+  "n": "27",
+  "field": "english",
+  "old": "From eating sesame, milk and jaggery (guḍa), (eating) while undigested, and putrid and mixed food, putrefaction (kleda) of the blood, Kapha and flesh arises in one abounding in doṣas.",
+  "new": "From eating sesame, milk and jaggery (guḍa), (eating) while undigested, and putrid and mixed food, excess moisture (kleda) of the blood, Kapha and flesh arises in one abounding in doṣas.",
+  "why": "reviewer (error): kleda (√klid 'be wet') is moistening / excess moisture, not putrefaction; 'putrefaction' adds the sense of pūti, which is a separate word in the same line."
+ },
+ {
+  "n": "27",
+  "field": "word.gloss",
+  "word": "kledaḥ",
+  "old": "putrefaction (kleda)",
+  "new": "excess moisture (kleda)",
+  "why": "reviewer (error): Same: kleda = excess moisture."
+ },
+ {
+  "n": "28",
+  "field": "english",
+  "old": "Then, from the putrefaction in the head, worms of the evil-doer produce a head disease in which repulsive signs have arisen.",
+  "new": "Then, from the excess moisture (saṃkleda) in the head, worms of the evil-doer produce a head disease in which repulsive signs have arisen.",
+  "why": "reviewer (minor): saṃkleda = excess moisture (as kleda in unit 27), not putrefaction."
+ },
+ {
+  "n": "28",
+  "field": "word.gloss",
+  "word": "saṃkledāt",
+  "old": "from putrefaction",
+  "new": "from excess moisture",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "तब सिर में क्लेद से उस पापकर्मी के कृमि उत्पन्न होकर ऐसा शिरोरोग उत्पन्न करते हैं जिसमें घृणित लक्षण उत्पन्न हो चुके हों।",
+  "new": "तब सिर में क्लेद से उस पापकर्मी के कृमि ऐसा शिरोरोग उत्पन्न करते हैं जिसमें घृणित लक्षण उत्पन्न हो चुके हों।",
+  "why": "reviewer (error): 'उत्पन्न होकर' (having arisen) is not in the Sanskrit; krimayaḥ janayanti only says the worms produce the disease."
+ },
+ {
+  "n": "29",
+  "field": "english",
+  "old": "One should know as afflicted with worm disease (the person) distressed by piercing and cutting pain, itching, swelling and misery, and by the sight of worms.",
+  "new": "One should know (the person) distressed by piercing and cutting pain, itching, swelling and misery as afflicted with worm disease, and (know it) also by the sight of worms.",
+  "why": "reviewer (error): As placed, 'and by the sight of worms' reads as a further cause of distress; in the Sanskrit krimīṇāṃ darśanena ca is a second means of knowing (with vidyāt)."
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "वेधने और काटने जैसी पीड़ा, खुजली, सूजन और दुर्गति से दुःखी व्यक्ति को, और कृमियों के दिखने से, कृमिरोग से पीड़ित जानना चाहिए।",
+  "new": "वेधने और काटने की पीड़ा, खुजली, सूजन और दुर्गति से दुःखी व्यक्ति को, और कृमियों के दिखने से, कृमिरोग से पीड़ित जानना चाहिए।",
+  "why": "reviewer (minor): 'जैसी' (like) adds a comparison not in vyadha-cheda-rujā."
+ },
+ {
+  "n": "31",
+  "field": "english",
+  "old": "Trembling, cramping (veṣṭana), stiffness, stupor, emptiness and fear: these are the symptoms in the heart of one afflicted by Vāta; and when (food) is digested, extreme pain.",
+  "new": "Trembling, constriction (veṣṭana), stiffness, stupor, emptiness and fear: these are the symptoms in the heart of one afflicted by Vāta; and when (food) is digested, extreme pain.",
+  "why": "reviewer (minor): veṣṭana (√veṣṭ 'wrap') is a binding/constricting sensation; 'cramping' narrows it."
+ },
+ {
+  "n": "32",
+  "field": "english",
+  "old": "By hot, sour, salty, alkaline (kṣāra) and pungent food and eating while undigested, and by wine, anger and sun, Pitta is quickly aggravated in the heart.",
+  "new": "By hot, sour, salty, alkali (kṣāra) and pungent food and eating while undigested, and by wine, anger and sun, Pitta is quickly aggravated in the heart.",
+  "why": "reviewer (minor): Glossary: kṣāra = alkali (unit 22 has 'alkali (kṣāra)')."
+ },
+ {
+  "n": "36",
+  "field": "english",
+  "old": "From the combination of causes and signs (heart disease) is called sānnipātika (of the three doṣas combined). (Heart disease causing distress and curable with difficulty has been declared by the great sages.) But in heart disease born of the three doṣas, the wicked person who indulges in",
+  "new": "From the combination of causes and signs (heart disease) is called sānnipātika (of the three doṣas combined). (Heart disease is declared by the great sages to be distressing and curable with difficulty.) But in heart disease born of the three doṣas, the wicked person who indulges in",
+  "why": "reviewer (minor): kaṣṭadaḥ and kaṣṭasādhyaḥ are predicates of hṛdrogaḥ with ukto; 'has been declared' reads as if the disease's existence is declared."
+ },
+ {
+  "n": "37",
+  "field": "hindi",
+  "old": "तिल, दूध, गुड़ आदि का, उसके (हृदय में) ग्रन्थि उत्पन्न हो जाती है, और मर्म के एक भाग में उसका रस क्लेद को प्राप्त होता है।",
+  "new": "तिल, दूध, गुड़ आदि का, उसको ग्रन्थि उत्पन्न हो जाती है, और मर्म के एक भाग में उसका रस क्लेद को प्राप्त होता है।",
+  "why": "reviewer (error): '(हृदय में)' is an interpretive insertion not in the line (the English rightly has none); glossary: Hindi brackets only for an understood word."
+ },
+ {
+  "n": "37",
+  "field": "notes",
+  "old": "Continues the sentence of unit 36c. marma here is the heart as a vital point (the topic of units 36-40). rasa is the nutrient fluid (dhātu), kept as rasa.",
+  "new": "Continues the sentence of unit 36c. marma here is read as the heart as a vital point (the topic of units 36-40). rasa is kept as rasa.",
+  "why": "reviewer (error): Doctrinal identification from outside the input; glossary keeps rasa as rasa."
+ },
+ {
+  "n": "37",
+  "field": "english",
+  "old": "sesame, milk, jaggery and the like, a knot (granthi) arises in him; and in one part of the vital point (marma) his rasa undergoes putrefaction.",
+  "new": "sesame, milk, jaggery and the like, a knot (granthi) arises in him; and in one part of the vital point (marma) his rasa undergoes saṃkleda (excess moisture).",
+  "why": "reviewer (minor): saṃkleda = excess moisture, not putrefaction (see unit 27)."
+ },
+ {
+  "n": "37",
+  "field": "word.gloss",
+  "word": "saṃkledam",
+  "old": "putrefaction",
+  "new": "excess moisture",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "38",
+  "field": "english",
+  "old": "From the putrefaction, worms arise in him whose self is afflicted; born in one part of the vital point, they creep about and devour.",
+  "new": "From the excess moisture (saṃkleda), worms arise in him whose self is afflicted; born in one part of the vital point, they creep about and devour.",
+  "why": "reviewer (minor): Same as unit 27."
+ },
+ {
+  "n": "38",
+  "field": "word.gloss",
+  "word": "saṃkledāt",
+  "old": "from the putrefaction",
+  "new": "from the excess moisture",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "39",
+  "field": "notes",
+  "old": "",
+  "new": "jātakaṇḍūṃ is kept as printed; agreeing with hṛdayam it is irregular (a regular neuter bahuvrīhi would be jātakaṇḍu, accusative without -m).",
+  "why": "reviewer (error): Remove this flag: its grammar is wrong. A neuter u-stem has accusative singular without -m (madhu, not madhum), so a regular neuter bahuvrīhi agreeing with hṛdayam would be jātakaṇḍu, not jātakaṇḍuṃ; the suggested form is no more regular than the printed one. Nothing in the chunk supports it."
+ },
+ {
+  "n": "39",
+  "field": "word.w",
+  "word": "jāta-kaṇḍum",
+  "old": "jāta-kaṇḍum",
+  "new": "jāta-kaṇḍūm",
+  "why": "reviewer (error): The split word applies the rejected correction and is itself not a regular neuter accusative; keep the printed form."
+ },
+ {
+  "n": "39",
+  "field": "word.gram",
+  "word": "jāta-kaṇḍūm",
+  "old": "n. acc. sg., bahuvrīhi",
+  "new": "acc. sg., bahuvrīhi agreeing with hṛdayam (irregular form)",
+  "why": "reviewer (minor): Label after the split fix."
+ },
+ {
+  "n": "41",
+  "field": "notes",
+  "old": "ulbaṇa = predominant. 6 + 6 + 1 = 13. This explains the count of disorders by variation in the measure of the doṣas (units 3 and 6); the counting continues in unit 42.",
+  "new": "ulbaṇa = predominant. 6 + 6 + 1 = 13. This begins the count of disorders by variation in the measure of the doṣas (units 3 and 6); the counting continues in unit 42.",
+  "why": "reviewer (minor): Units 41-42 give 13 + 25 = 38, not the 62 of unit 6; the count is only begun here."
+ },
+ {
+  "n": "42",
+  "field": "hindi",
+  "old": "संसर्ग (दो दोषों के मेल) में नौ: उनमें से छः एक की वृद्धि से, और तीन सम दोषों से; और उन बढ़े हुए दोषों से अलग-अलग तीन; (इस प्रकार) पच्चीस व्याधियाँ हैं।",
+  "new": "संसर्ग में नौ: उनमें से छः एक की वृद्धि से, और तीन सम दोषों से; और उन बढ़े हुए दोषों से अलग-अलग तीन; (इस प्रकार) पच्चीस व्याधियाँ हैं।",
+  "why": "reviewer (error): Bracketed gloss of a Sanskrit term in Hindi; glossary: Hindi brackets only for an understood word, never a gloss."
+ }
+]
