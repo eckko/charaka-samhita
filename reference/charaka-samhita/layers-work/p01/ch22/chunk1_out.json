@@ -1,0 +1,5175 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athāto",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now",
+        "gram": "ind."
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "laṅghanabṛṃhaṇīyamadhyāyaṃ",
+      "words": [
+       {
+        "w": "laṅghanabṛṃhaṇīyam",
+        "gloss": "named 'on lightening and nourishing' (title)",
+        "gram": "m. acc. sg., derived title word"
+       },
+       {
+        "w": "adhyāyam",
+        "gloss": "chapter",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyāsyāmaḥ",
+      "words": [
+       {
+        "w": "vyākhyāsyāmaḥ",
+        "gloss": "we shall expound",
+        "gram": "1 pl. fut. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब इसलिए हम लङ्घनबृंहणीय नामक अध्याय की व्याख्या करेंगे।",
+  "english": "Now, therefore, we shall expound the chapter named Laṅghanabṛṃhaṇīya (on lightening and nourishing).",
+  "text_flags": [],
+  "notes": "Prose opening formula, typed as a verse unit in the input. The title word is formed from laṅghana and bṛṃhaṇa with the suffix -īya and is not split into members.",
+  "confidence": "high"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ha",
+      "words": [
+       {
+        "w": "ha",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "smāha",
+      "words": [
+       {
+        "w": "sma",
+        "gloss": "(marks past)",
+        "gram": "ind."
+       },
+       {
+        "w": "āha",
+        "gloss": "said",
+        "gram": "3 sg. pf. √ah"
+       }
+      ]
+     },
+     {
+      "src": "bhagavānātreyaḥ",
+      "words": [
+       {
+        "w": "bhagavān",
+        "gloss": "the venerable",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ātreyaḥ",
+        "gloss": "Ātreya (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ऐसा भगवान् आत्रेय ने कहा था।",
+  "english": "Thus indeed spoke the venerable Ātreya.",
+  "text_flags": [],
+  "notes": "Prose formula, typed as a verse unit in the input.",
+  "confidence": "high"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tapaḥsvādhyāyaniratānātreyaḥ",
+      "words": [
+       {
+        "w": "tapas-svādhyāya-niratān",
+        "gloss": "devoted to austerity and self-study",
+        "gram": "m. acc. pl., tat-puruṣa (dvandva first members)"
+       },
+       {
+        "w": "ātreyaḥ",
+        "gloss": "Ātreya (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śiṣyasattamān",
+      "words": [
+       {
+        "w": "śiṣya-sattamān",
+        "gloss": "the best of disciples",
+        "gram": "m. acc. pl., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ṣaḍagniveśapramukhānuktavān",
+      "words": [
+       {
+        "w": "ṣaṭ",
+        "gloss": "six",
+        "gram": "num. acc."
+       },
+       {
+        "w": "agniveśa-pramukhān",
+        "gloss": "headed by Agniveśa",
+        "gram": "m. acc. pl., bahuvrīhi"
+       },
+       {
+        "w": "uktavān",
+        "gloss": "spoke",
+        "gram": "m. nom. sg., past act. part. √vac"
+       }
+      ]
+     },
+     {
+      "src": "paricodayam",
+      "words": [
+       {
+        "w": "paricodayan",
+        "gloss": "urging (them) on",
+        "gram": "m. nom. sg., pres. part. caus. pari-√cud"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तप और स्वाध्याय में निरत, अग्निवेश-प्रमुख छह श्रेष्ठ शिष्यों को प्रेरित करते हुए आत्रेय ने कहा —",
+  "english": "Urging them on, Ātreya spoke to his six best disciples, headed by Agniveśa, who were devoted to austerity and self-study:",
+  "text_flags": [
+   {
+    "src": "paricodayam",
+    "suggest": "paricodayan",
+    "why": "possible typo: the word must agree with ātreyaḥ uktavān as masc. nom. sg. present participle (paricodayan); an accusative paricodayam has nothing to agree with, and nothing at the end of the line causes n to become m."
+   }
+  ],
+  "notes": "The words spoken follow in unit 4. uktavān (past active participle) is used as a finite verb 'spoke'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "laṅghanaṃ",
+      "words": [
+       {
+        "w": "laṅghanam",
+        "gloss": "lightening",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bṛṃhaṇaṃ",
+      "words": [
+       {
+        "w": "bṛṃhaṇam",
+        "gloss": "nourishing",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāle",
+      "words": [
+       {
+        "w": "kāle",
+        "gloss": "at the proper time",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rūkṣaṇaṃ",
+      "words": [
+       {
+        "w": "rūkṣaṇam",
+        "gloss": "drying",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "snehanaṃ",
+      "words": [
+       {
+        "w": "snehanam",
+        "gloss": "oleation",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "svedanaṃ",
+      "words": [
+       {
+        "w": "svedanam",
+        "gloss": "sweating",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "stambhanaṃ",
+      "words": [
+       {
+        "w": "stambhanam",
+        "gloss": "checking",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "caiva",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jānīte",
+      "words": [
+       {
+        "w": "jānīte",
+        "gloss": "knows",
+        "gram": "3 sg. pres. ātm. √jñā"
+       }
+      ]
+     },
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vai",
+      "words": [
+       {
+        "w": "vai",
+        "gloss": "truly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhiṣak",
+      "words": [
+       {
+        "w": "bhiṣak",
+        "gloss": "physician",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो समय पर लङ्घन, बृंहण, रूक्षण, स्नेहन तथा स्वेदन और स्तम्भन को जानता है, वह सचमुच वैद्य है।",
+  "english": "He who knows lightening (laṅghana), nourishing (bṛṃhaṇa), drying (rūkṣaṇa), oleation (snehana), and also sweating (svedana) and checking (stambhana), at the proper time, he truly is a physician.",
+  "text_flags": [],
+  "notes": "kāle 'at the proper time' may go with knowing the measures (knowing them for the right time) or with their use; the literal order is kept. stambhana is rendered 'checking' (making firm, arresting).",
+  "confidence": "high"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tamuktavantamātreyamagniveśa",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "uktavantam",
+        "gloss": "who had spoken",
+        "gram": "m. acc. sg., past act. part. √vac"
+       },
+       {
+        "w": "ātreyam",
+        "gloss": "Ātreya (name)",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "agniveśaḥ",
+        "gloss": "Agniveśa (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "uvāca",
+      "words": [
+       {
+        "w": "uvāca",
+        "gloss": "said",
+        "gram": "3 sg. pf. √vac"
+       }
+      ]
+     },
+     {
+      "src": "ha",
+      "words": [
+       {
+        "w": "ha",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार कह चुके उन आत्रेय से अग्निवेश ने कहा —",
+  "english": "To Ātreya, who had spoken thus, Agniveśa said:",
+  "text_flags": [],
+  "notes": "agniveśa uvāca: the visarga of agniveśaḥ is dropped before the vowel u.",
+  "confidence": "high"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhagavaṃllaṅghanaṃ",
+      "words": [
+       {
+        "w": "bhagavan",
+        "gloss": "O venerable one",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "laṅghanam",
+        "gloss": "lightening",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kiṃsvillaṅghanīyāśca",
+      "words": [
+       {
+        "w": "kiṃsvit",
+        "gloss": "what then",
+        "gram": "ind. (interrogative)"
+       },
+       {
+        "w": "laṅghanīyāḥ",
+        "gloss": "those to be lightened",
+        "gram": "gerundive (kṛtya) √laṅgh, m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kīdṛśāḥ",
+      "words": [
+       {
+        "w": "kīdṛśāḥ",
+        "gloss": "of what kind",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bṛṃhaṇaṃ",
+      "words": [
+       {
+        "w": "bṛṃhaṇam",
+        "gloss": "nourishing",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bṛṃhaṇīyāśca",
+      "words": [
+       {
+        "w": "bṛṃhaṇīyāḥ",
+        "gloss": "those to be nourished",
+        "gram": "gerundive (kṛtya) √bṛṃh, m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rūkṣaṇīyāśca",
+      "words": [
+       {
+        "w": "rūkṣaṇīyāḥ",
+        "gloss": "those to be dried",
+        "gram": "gerundive (kṛtya) √rūkṣ, m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rūkṣaṇam",
+      "words": [
+       {
+        "w": "rūkṣaṇam",
+        "gloss": "drying",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे भगवन्, लङ्घन क्या है और लङ्घन के योग्य कैसे होते हैं? बृंहण और बृंहण के योग्य, तथा रूक्षण के योग्य और रूक्षण (क्या हैं)?",
+  "english": "O venerable one, what is lightening, and of what kind are those to be lightened? (What are) nourishing and those to be nourished, those to be dried and drying?",
+  "text_flags": [],
+  "notes": "bhagavaṃl laṅghanam: final n of bhagavan becomes nasalised l before l. The question continues in units 7 and 8.",
+  "confidence": "high"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ke",
+      "words": [
+       {
+        "w": "ke",
+        "gloss": "which",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "snehāḥ",
+      "words": [
+       {
+        "w": "snehāḥ",
+        "gloss": "unctuous substances",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "snehanīyāśca",
+      "words": [
+       {
+        "w": "snehanīyāḥ",
+        "gloss": "those to be oleated",
+        "gram": "gerundive (kṛtya) √snih, m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svedāḥ",
+      "words": [
+       {
+        "w": "svedāḥ",
+        "gloss": "sweating procedures",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "svedyāśca",
+      "words": [
+       {
+        "w": "svedyāḥ",
+        "gloss": "those to be sweated",
+        "gram": "gerundive (kṛtya) √svid (caus.), m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ke",
+      "words": [
+       {
+        "w": "ke",
+        "gloss": "which",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "matāḥ",
+      "words": [
+       {
+        "w": "matāḥ",
+        "gloss": "are considered",
+        "gram": "m. nom. pl., ppp. √man"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "stambhanaṃ",
+      "words": [
+       {
+        "w": "stambhanam",
+        "gloss": "checking",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "stambhanīyāśca",
+      "words": [
+       {
+        "w": "stambhanīyāḥ",
+        "gloss": "those to be checked",
+        "gram": "gerundive (kṛtya) √stambh, m. acc. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vaktumarhasi",
+      "words": [
+       {
+        "w": "vaktum",
+        "gloss": "to tell",
+        "gram": "inf. √vac"
+       },
+       {
+        "w": "arhasi",
+        "gloss": "you should",
+        "gram": "2 sg. pres. √arh"
+       }
+      ]
+     },
+     {
+      "src": "tadguro!",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "guro",
+        "gloss": "O teacher",
+        "gram": "m. voc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कौन-से स्नेह हैं और कौन स्नेहन के योग्य हैं, कौन-से स्वेद और कौन स्वेदन के योग्य माने गए हैं, स्तम्भन और स्तम्भन के योग्य — यह आप बताएँ, हे गुरो!",
+  "english": "Which are the unctuous substances and who are those to be oleated; which are considered the sweating procedures and who are those to be sweated; checking and those to be checked — that you should tell, O teacher!",
+  "text_flags": [],
+  "notes": "In the second line stambhanam and stambhanīyāḥ are taken as objects of vaktum together with tat; stambhanīyāḥ could also be nominative like the first line. svedya may be from the causative (svedayati).",
+  "confidence": "high"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "laṅghanaprabhṛtīnāṃ",
+      "words": [
+       {
+        "w": "laṅghana-prabhṛtīnām",
+        "gloss": "beginning with lightening",
+        "gram": "n. gen. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣaṇṇāmeṣāṃ",
+      "words": [
+       {
+        "w": "ṣaṇṇām",
+        "gloss": "of the six",
+        "gram": "num. gen. pl."
+       },
+       {
+        "w": "eṣām",
+        "gloss": "of these",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "samāsataḥ",
+      "words": [
+       {
+        "w": "samāsataḥ",
+        "gloss": "in brief",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kṛtākṛtātivṛttānāṃ",
+      "words": [
+       {
+        "w": "kṛta-akṛta-ativṛttānām",
+        "gloss": "done, not done and overdone",
+        "gram": "n. gen. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "lakṣaṇaṃ",
+      "words": [
+       {
+        "w": "lakṣaṇam",
+        "gloss": "sign",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaktumarhasi",
+      "words": [
+       {
+        "w": "vaktum",
+        "gloss": "to tell",
+        "gram": "inf. √vac"
+       },
+       {
+        "w": "arhasi",
+        "gloss": "you should",
+        "gram": "2 sg. pres. √arh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और लङ्घन आदि इन छहों के ठीक किए गए, न किए गए और अति किए गए होने का लक्षण संक्षेप में आप बताएँ।",
+  "english": "And you should tell in brief the sign of these six, beginning with lightening, when done, not done and overdone.",
+  "text_flags": [],
+  "notes": "kṛta 'done' is understood as properly done, in contrast with akṛta and ativṛtta.",
+  "confidence": "high"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tadagniveśasya",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "agniveśasya",
+        "gloss": "of Agniveśa",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaco",
+      "words": [
+       {
+        "w": "vacaḥ",
+        "gloss": "words",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "niśamya",
+      "words": [
+       {
+        "w": "niśamya",
+        "gloss": "having heard",
+        "gram": "abs. ni-√śam"
+       }
+      ]
+     },
+     {
+      "src": "gururabravīt",
+      "words": [
+       {
+        "w": "guruḥ",
+        "gloss": "the teacher",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "abravīt",
+        "gloss": "said",
+        "gram": "3 sg. impf. √brū"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yat",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "whatever",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kiñcillāghavakaraṃ",
+      "words": [
+       {
+        "w": "kiñcit",
+        "gloss": "anything",
+        "gram": "ind."
+       },
+       {
+        "w": "lāghava-karam",
+        "gloss": "producing lightness",
+        "gram": "n. nom. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "dehe",
+      "words": [
+       {
+        "w": "dehe",
+        "gloss": "in the body",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tallaṅghanaṃ",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "laṅghanam",
+        "gloss": "lightening",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "smṛtam",
+      "words": [
+       {
+        "w": "smṛtam",
+        "gloss": "is known as",
+        "gram": "n. nom. sg., ppp. √smṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अग्निवेश के उस वचन को सुनकर गुरु ने कहा — जो कुछ शरीर में लघुता उत्पन्न करता है, वह लङ्घन माना गया है।",
+  "english": "Having heard those words of Agniveśa, the teacher said: Whatever produces lightness in the body is known as lightening (laṅghana).",
+  "text_flags": [],
+  "notes": "kiñcil lāghava-: final t of kiñcit becomes l before l.",
+  "confidence": "high"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bṛhattvaṃ",
+      "words": [
+       {
+        "w": "bṛhattvam",
+        "gloss": "largeness",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaccharīrasya",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "śarīrasya",
+        "gloss": "of the body",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "janayettacca",
+      "words": [
+       {
+        "w": "janayet",
+        "gloss": "would produce",
+        "gram": "3 sg. opt. caus. √jan"
+       },
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bṛṃhaṇam",
+      "words": [
+       {
+        "w": "bṛṃhaṇam",
+        "gloss": "nourishing",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "raukṣyaṃ",
+      "words": [
+       {
+        "w": "raukṣyam",
+        "gloss": "dryness",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kharatvaṃ",
+      "words": [
+       {
+        "w": "kharatvam",
+        "gloss": "roughness",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaiśadyaṃ",
+      "words": [
+       {
+        "w": "vaiśadyam",
+        "gloss": "non-sliminess",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yat",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kuryāttaddhi",
+      "words": [
+       {
+        "w": "kuryāt",
+        "gloss": "would cause",
+        "gram": "3 sg. opt. √kṛ"
+       },
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "hi",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rūkṣaṇam",
+      "words": [
+       {
+        "w": "rūkṣaṇam",
+        "gloss": "drying",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और जो शरीर की बृहत्ता उत्पन्न करे, वह बृंहण है; जो रूक्षता, खरता और विशदता करे, वह रूक्षण है।",
+  "english": "And that which would produce largeness of the body is nourishing (bṛṃhaṇa); that which would cause dryness, roughness and non-sliminess is indeed drying (rūkṣaṇa).",
+  "text_flags": [],
+  "notes": "yaccharīrasya = yat śarīrasya (t + ś becomes cch). vaiśadya is the abstract noun of viśada 'non-slimy'.",
+  "confidence": "high"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "snehanaṃ",
+      "words": [
+       {
+        "w": "snehanam",
+        "gloss": "oleation",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "snehaviṣyandamārdavakledakārakam",
+      "words": [
+       {
+        "w": "sneha-viṣyanda-mārdava-kleda-kārakam",
+        "gloss": "producing unctuousness, liquefaction, softness and moisture",
+        "gram": "n. nom. sg., tat-puruṣa (dvandva first members)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "stambhagauravaśītaghnaṃ",
+      "words": [
+       {
+        "w": "stambha-gaurava-śīta-ghnam",
+        "gloss": "removing stiffness, heaviness and cold",
+        "gram": "n. nom. sg., upapada tat-puruṣa (dvandva first members)"
+       }
+      ]
+     },
+     {
+      "src": "svedanaṃ",
+      "words": [
+       {
+        "w": "svedanam",
+        "gloss": "sweating",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "svedakārakam",
+      "words": [
+       {
+        "w": "sveda-kārakam",
+        "gloss": "producing sweat",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्नेहन वह है जो स्नेह, विष्यन्द, मृदुता और क्लेद उत्पन्न करे; स्वेदन वह है जो स्तम्भ, गुरुता और शीत को नष्ट करे और स्वेद उत्पन्न करे।",
+  "english": "Oleation (snehana) is what produces unctuousness, liquefaction (viṣyanda), softness and moisture; sweating (svedana) is what removes stiffness, heaviness and cold and produces sweat.",
+  "text_flags": [],
+  "notes": "viṣyanda literally 'flowing, oozing'; rendered 'liquefaction'.",
+  "confidence": "high"
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "stambhanaṃ",
+      "words": [
+       {
+        "w": "stambhanam",
+        "gloss": "checking",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "stambhayati",
+      "words": [
+       {
+        "w": "stambhayati",
+        "gloss": "arrests",
+        "gram": "3 sg. pres. caus. √stambh"
+       }
+      ]
+     },
+     {
+      "src": "yadgatimantaṃ",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "gatimantam",
+        "gloss": "what is moving",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "calaṃ",
+      "words": [
+       {
+        "w": "calam",
+        "gloss": "mobile",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhruvam",
+      "words": [
+       {
+        "w": "dhruvam",
+        "gloss": "certainly",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "laghūṣṇatīkṣṇaviśadaṃ",
+      "words": [
+       {
+        "w": "laghu-uṣṇa-tīkṣṇa-viśadam",
+        "gloss": "light, hot, sharp and non-slimy",
+        "gram": "n. nom. sg., dvandva (of adjectives)"
+       }
+      ]
+     },
+     {
+      "src": "rūkṣaṃ",
+      "words": [
+       {
+        "w": "rūkṣam",
+        "gloss": "dry",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sūkṣmaṃ",
+      "words": [
+       {
+        "w": "sūkṣmam",
+        "gloss": "subtle",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kharaṃ",
+      "words": [
+       {
+        "w": "kharam",
+        "gloss": "rough",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saram",
+      "words": [
+       {
+        "w": "saram",
+        "gloss": "flowing",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्तम्भन वह है जो गतिशील और चल को निश्चित रूप से रोक दे। जो द्रव्य लघु, उष्ण, तीक्ष्ण, विशद, रूक्ष, सूक्ष्म, खर, सर",
+  "english": "Checking (stambhana) is that which certainly arrests what is moving and mobile. A substance that is light (laghu), hot, sharp, non-slimy, dry, subtle, rough, flowing (sara),",
+  "text_flags": [],
+  "notes": "gatimantam and calam are masculine accusative with no noun expressed; rendered 'what is moving and mobile'. dhruvam is taken as the adverb 'certainly'; it could instead be predicative ('makes the moving, mobile thing firm'). The second line begins the description of lightening substances, which ends in unit 13. GROUPING: the sense runs across the edition's verse numbers: 12b + 13a (lightening substance), 13b + 14a (nourishing), 14b + 15a (drying), 15b + 15c (oleating); the edition's numbering is kept.",
+  "confidence": "medium"
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kaṭhinaṃ",
+      "words": [
+       {
+        "w": "kaṭhinam",
+        "gloss": "hard",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "caiva",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yaddravyaṃ",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "dravyam",
+        "gloss": "substance",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāyastallaṅghanaṃ",
+      "words": [
+       {
+        "w": "prāyaḥ",
+        "gloss": "generally",
+        "gram": "ind."
+       },
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "laṅghanam",
+        "gloss": "lightening",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "smṛtam",
+      "words": [
+       {
+        "w": "smṛtam",
+        "gloss": "is known as",
+        "gram": "n. nom. sg., ppp. √smṛ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "guru",
+      "words": [
+       {
+        "w": "guru",
+        "gloss": "heavy",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śītaṃ",
+      "words": [
+       {
+        "w": "śītam",
+        "gloss": "cold",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mṛdu",
+      "words": [
+       {
+        "w": "mṛdu",
+        "gloss": "soft",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "snigdhaṃ",
+      "words": [
+       {
+        "w": "snigdham",
+        "gloss": "unctuous",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bahalaṃ",
+      "words": [
+       {
+        "w": "bahalam",
+        "gloss": "thick",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthūlapicchilam",
+      "words": [
+       {
+        "w": "sthūla-picchilam",
+        "gloss": "gross and slimy",
+        "gram": "n. nom. sg., dvandva (of adjectives)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और कठिन हो, वह द्रव्य प्रायः लङ्घन माना गया है। जो द्रव्य गुरु, शीत, मृदु, स्निग्ध, बहल, स्थूल, पिच्छिल,",
+  "english": "and hard, is generally known as lightening. A substance that is heavy (guru), cold, soft, unctuous, thick, gross, slimy,",
+  "text_flags": [],
+  "notes": "The first line completes the list begun in unit 12; the second line begins the description of nourishing substances, which ends in unit 14. See the GROUPING note at unit 12.",
+  "confidence": "medium"
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prāyo",
+      "words": [
+       {
+        "w": "prāyaḥ",
+        "gloss": "mostly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mandaṃ",
+      "words": [
+       {
+        "w": "mandam",
+        "gloss": "slow",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthiraṃ",
+      "words": [
+       {
+        "w": "sthiram",
+        "gloss": "stable",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ślakṣṇaṃ",
+      "words": [
+       {
+        "w": "ślakṣṇam",
+        "gloss": "smooth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dravyaṃ",
+      "words": [
+       {
+        "w": "dravyam",
+        "gloss": "substance",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bṛṃhaṇamucyate",
+      "words": [
+       {
+        "w": "bṛṃhaṇam",
+        "gloss": "nourishing",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ucyate",
+        "gloss": "is called",
+        "gram": "3 sg. pres. pass. √vac"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "rūkṣaṃ",
+      "words": [
+       {
+        "w": "rūkṣam",
+        "gloss": "dry",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "laghu",
+      "words": [
+       {
+        "w": "laghu",
+        "gloss": "light",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kharaṃ",
+      "words": [
+       {
+        "w": "kharam",
+        "gloss": "rough",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tīkṣṇamuṣṇaṃ",
+      "words": [
+       {
+        "w": "tīkṣṇam",
+        "gloss": "sharp",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "uṣṇam",
+        "gloss": "hot",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthiramapicchilam",
+      "words": [
+       {
+        "w": "sthiram",
+        "gloss": "stable",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "a-picchilam",
+        "gloss": "non-slimy",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्रायः मन्द, स्थिर और श्लक्ष्ण हो, वह द्रव्य बृंहण कहलाता है। जो द्रव्य रूक्ष, लघु, खर, तीक्ष्ण, उष्ण, स्थिर, अपिच्छिल",
+  "english": "mostly slow, stable and smooth — such a substance is called nourishing. A substance that is dry, light, rough, sharp, hot, stable, non-slimy,",
+  "text_flags": [],
+  "notes": "prāyaḥ 'mostly' may qualify the whole list or only the following words; it is placed as in the Sanskrit. The second line begins the description of drying substances, which ends in unit 15. See the GROUPING note at unit 12.",
+  "confidence": "medium"
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prāyaśaḥ",
+      "words": [
+       {
+        "w": "prāyaśaḥ",
+        "gloss": "mostly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaṭhinaṃ",
+      "words": [
+       {
+        "w": "kaṭhinam",
+        "gloss": "hard",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "caiva",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yaddravyaṃ",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "dravyam",
+        "gloss": "substance",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "taddhi",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "hi",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rūkṣaṇam",
+      "words": [
+       {
+        "w": "rūkṣaṇam",
+        "gloss": "drying",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dravaṃ",
+      "words": [
+       {
+        "w": "dravam",
+        "gloss": "liquid",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sūkṣmaṃ",
+      "words": [
+       {
+        "w": "sūkṣmam",
+        "gloss": "subtle",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saraṃ",
+      "words": [
+       {
+        "w": "saram",
+        "gloss": "flowing",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "snigdhaṃ",
+      "words": [
+       {
+        "w": "snigdham",
+        "gloss": "unctuous",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "picchilaṃ",
+      "words": [
+       {
+        "w": "picchilam",
+        "gloss": "slimy",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "guru",
+      "words": [
+       {
+        "w": "guru",
+        "gloss": "heavy",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śītalam",
+      "words": [
+       {
+        "w": "śītalam",
+        "gloss": "cold",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "prāyo",
+      "words": [
+       {
+        "w": "prāyaḥ",
+        "gloss": "mostly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mandaṃ",
+      "words": [
+       {
+        "w": "mandam",
+        "gloss": "slow",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mṛdu",
+      "words": [
+       {
+        "w": "mṛdu",
+        "gloss": "soft",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yaddravyaṃ",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "dravyam",
+        "gloss": "substance",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tatsnehanaṃ",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "snehanam",
+        "gloss": "oleating",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "matam",
+      "words": [
+       {
+        "w": "matam",
+        "gloss": "is considered",
+        "gram": "n. nom. sg., ppp. √man"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और प्रायः कठिन हो, वह द्रव्य रूक्षण है। जो द्रव्य द्रव, सूक्ष्म, सर, स्निग्ध, पिच्छिल, गुरु, शीतल, प्रायः मन्द और मृदु हो, वह स्नेहन माना गया है।",
+  "english": "and mostly hard — that substance is indeed drying. A substance that is liquid, subtle, flowing, unctuous, slimy, heavy, cold, mostly slow and soft is considered oleating (snehana).",
+  "text_flags": [],
+  "notes": "The first line completes the list begun in unit 14; lines b and c form one sentence. See the GROUPING note at unit 12.",
+  "confidence": "medium"
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "uṣṇaṃ",
+      "words": [
+       {
+        "w": "uṣṇam",
+        "gloss": "hot",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tīkṣṇaṃ",
+      "words": [
+       {
+        "w": "tīkṣṇam",
+        "gloss": "sharp",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saraṃ",
+      "words": [
+       {
+        "w": "saram",
+        "gloss": "flowing",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "snigdhaṃ",
+      "words": [
+       {
+        "w": "snigdham",
+        "gloss": "unctuous",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rūkṣaṃ",
+      "words": [
+       {
+        "w": "rūkṣam",
+        "gloss": "dry",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sūkṣmaṃ",
+      "words": [
+       {
+        "w": "sūkṣmam",
+        "gloss": "subtle",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dravaṃ",
+      "words": [
+       {
+        "w": "dravam",
+        "gloss": "liquid",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthiram",
+      "words": [
+       {
+        "w": "sthiram",
+        "gloss": "stable",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dravyaṃ",
+      "words": [
+       {
+        "w": "dravyam",
+        "gloss": "substance",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "guru",
+      "words": [
+       {
+        "w": "guru",
+        "gloss": "heavy",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yat",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāyastaddhi",
+      "words": [
+       {
+        "w": "prāyaḥ",
+        "gloss": "mostly",
+        "gram": "ind."
+       },
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "hi",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svedanamucyate",
+      "words": [
+       {
+        "w": "svedanam",
+        "gloss": "sweating",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ucyate",
+        "gloss": "is called",
+        "gram": "3 sg. pres. pass. √vac"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो द्रव्य प्रायः उष्ण, तीक्ष्ण, सर, स्निग्ध, रूक्ष, सूक्ष्म, द्रव, स्थिर और गुरु हो, वह स्वेदन कहलाता है।",
+  "english": "A substance that is mostly hot, sharp, flowing, unctuous, dry, subtle, liquid, stable and heavy is indeed called sweating (svedana).",
+  "text_flags": [],
+  "notes": "The list as printed contains both snigdha 'unctuous' and rūkṣa 'dry' (and both sara 'flowing' and sthira 'stable'); prāyaḥ 'mostly' suggests that not every quality is needed in every sweating substance.",
+  "confidence": "high"
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śītaṃ",
+      "words": [
+       {
+        "w": "śītam",
+        "gloss": "cold",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mandaṃ",
+      "words": [
+       {
+        "w": "mandam",
+        "gloss": "slow",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mṛdu",
+      "words": [
+       {
+        "w": "mṛdu",
+        "gloss": "soft",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ślakṣṇaṃ",
+      "words": [
+       {
+        "w": "ślakṣṇam",
+        "gloss": "smooth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rūkṣaṃ",
+      "words": [
+       {
+        "w": "rūkṣam",
+        "gloss": "dry",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sūkṣmaṃ",
+      "words": [
+       {
+        "w": "sūkṣmam",
+        "gloss": "subtle",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dravaṃ",
+      "words": [
+       {
+        "w": "dravam",
+        "gloss": "liquid",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthiram",
+      "words": [
+       {
+        "w": "sthiram",
+        "gloss": "stable",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yaddravyaṃ",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "dravyam",
+        "gloss": "substance",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "laghu",
+      "words": [
+       {
+        "w": "laghu",
+        "gloss": "light",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "coddiṣṭaṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "uddiṣṭam",
+        "gloss": "described",
+        "gram": "n. nom. sg., ppp. ud-√diś"
+       }
+      ]
+     },
+     {
+      "src": "prāyastat",
+      "words": [
+       {
+        "w": "prāyaḥ",
+        "gloss": "generally",
+        "gram": "ind."
+       },
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "stambhanaṃ",
+      "words": [
+       {
+        "w": "stambhanam",
+        "gloss": "checking",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "smṛtam",
+      "words": [
+       {
+        "w": "smṛtam",
+        "gloss": "is known as",
+        "gram": "n. nom. sg., ppp. √smṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो द्रव्य शीत, मन्द, मृदु, श्लक्ष्ण, रूक्ष, सूक्ष्म, द्रव, स्थिर और लघु बताया गया है, वह प्रायः स्तम्भन माना गया है।",
+  "english": "A substance described as cold, slow, soft, smooth, dry, subtle, liquid, stable and light is generally known as checking (stambhana).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "catuṣprakārā",
+      "words": [
+       {
+        "w": "catuḥ-prakārā",
+        "gloss": "of four kinds",
+        "gram": "f. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "saṃśuddhiḥ",
+      "words": [
+       {
+        "w": "saṃśuddhiḥ",
+        "gloss": "purification",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pipāsā",
+      "words": [
+       {
+        "w": "pipāsā",
+        "gloss": "thirst",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mārutātapau",
+      "words": [
+       {
+        "w": "māruta-ātapau",
+        "gloss": "wind and sun",
+        "gram": "m. nom. du., dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pācanānyupavāsaśca",
+      "words": [
+       {
+        "w": "pācanāni",
+        "gloss": "digestives",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "upavāsaḥ",
+        "gloss": "fasting",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vyāyāmaśceti",
+      "words": [
+       {
+        "w": "vyāyāmaḥ",
+        "gloss": "exercise",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "laṅghanam",
+      "words": [
+       {
+        "w": "laṅghanam",
+        "gloss": "lightening",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चार प्रकार की संशुद्धि, पिपासा, वायु और धूप, पाचन, उपवास और व्यायाम — यह लङ्घन है।",
+  "english": "Purification of four kinds, thirst, wind and sun, digestives (pācana), fasting and exercise — this is lightening.",
+  "text_flags": [],
+  "notes": "The four kinds of purification are not listed in this unit. pipāsā 'thirst' here means enduring thirst; unit 22 speaks of pipāsānigraha, suppression of thirst. māruta here is the physical wind (exposure to wind), as in unit 23.",
+  "confidence": "high"
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prabhūtaśleṣmapittāsramalāḥ",
+      "words": [
+       {
+        "w": "prabhūta-śleṣma-pitta-asra-malāḥ",
+        "gloss": "having abundant Kapha, Pitta, blood and waste",
+        "gram": "m. nom. pl., bahuvrīhi (dvandva members)"
+       }
+      ]
+     },
+     {
+      "src": "saṃsṛṣṭamārutāḥ",
+      "words": [
+       {
+        "w": "saṃsṛṣṭa-mārutāḥ",
+        "gloss": "whose Vāta is combined (with them)",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bṛhaccharīrā",
+      "words": [
+       {
+        "w": "bṛhat-śarīrāḥ",
+        "gloss": "large-bodied",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "balino",
+      "words": [
+       {
+        "w": "balinaḥ",
+        "gloss": "strong",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "laṅghanīyā",
+      "words": [
+       {
+        "w": "laṅghanīyāḥ",
+        "gloss": "to be lightened",
+        "gram": "gerundive (kṛtya) √laṅgh, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "viśuddhibhiḥ",
+      "words": [
+       {
+        "w": "viśuddhibhiḥ",
+        "gloss": "by purifications",
+        "gram": "f. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिनमें श्लेष्मा, पित्त, रक्त और मल बहुत बढ़े हुए हों, जिनका मारुत उनसे संसृष्ट हो, जो बड़े शरीर वाले और बलवान् हों, वे विशुद्धियों द्वारा लङ्घन के योग्य हैं।",
+  "english": "Those who have abundant Kapha (śleṣman), Pitta, blood and waste, whose Vāta (māruta) is combined (with these), who are large-bodied and strong, are to be lightened by purifications.",
+  "text_flags": [],
+  "notes": "saṃsṛṣṭa-māruta 'whose Vāta is combined' (with the other doṣas named) is the most literal reading. asra = blood.",
+  "confidence": "high"
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yeṣāṃ",
+      "words": [
+       {
+        "w": "yeṣām",
+        "gloss": "of whom",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "madhyabalā",
+      "words": [
+       {
+        "w": "madhya-balāḥ",
+        "gloss": "of medium strength",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "rogāḥ",
+      "words": [
+       {
+        "w": "rogāḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kaphapittasamutthitāḥ",
+      "words": [
+       {
+        "w": "kapha-pitta-samutthitāḥ",
+        "gloss": "arisen from Kapha and Pitta",
+        "gram": "m. nom. pl., tat-puruṣa (dvandva first member)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vamyatīsārahṛdrogavisūcyalasakajvarāḥ",
+      "words": [
+       {
+        "w": "vami-atīsāra-hṛdroga-visūcī-alasaka-jvarāḥ",
+        "gloss": "vomiting, diarrhoea, heart disease, visūcī, alasaka and fever",
+        "gram": "m. nom. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिनके कफ और पित्त से उत्पन्न रोग मध्य बल वाले हों — वमि, अतीसार, हृद्रोग, विसूची, अलसक, ज्वर,",
+  "english": "Those whose diseases arisen from Kapha and Pitta are of medium strength — vomiting, diarrhoea (atīsāra), heart disease, visūcī, alasaka, fever,",
+  "text_flags": [],
+  "notes": "The sentence continues into unit 21. atīsāra is printed with long ī (also in unit 33); it is the same word as atisāra and the metre is correct, so no flag. visūcī and alasaka are kept as Sanskrit names.",
+  "confidence": "high"
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vibandhagauravodgārahṛllāsārocakādayaḥ",
+      "words": [
+       {
+        "w": "vibandha-gaurava-udgāra-hṛllāsa-arocaka-ādayaḥ",
+        "gloss": "obstruction, heaviness, belching, nausea, loss of taste and the like",
+        "gram": "m. nom. pl., bahuvrīhi (dvandva members)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pācanaistān",
+      "words": [
+       {
+        "w": "pācanaiḥ",
+        "gloss": "with digestives",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "tān",
+        "gloss": "them",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhiṣak",
+      "words": [
+       {
+        "w": "bhiṣak",
+        "gloss": "physician",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prājñaḥ",
+      "words": [
+       {
+        "w": "prājñaḥ",
+        "gloss": "wise",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāyeṇādāvupācaret",
+      "words": [
+       {
+        "w": "prāyeṇa",
+        "gloss": "generally",
+        "gram": "ind."
+       },
+       {
+        "w": "ādau",
+        "gloss": "at first",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "upācaret",
+        "gloss": "should treat",
+        "gram": "3 sg. opt. upa-ā-√car"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विबन्ध, गौरव, उद्गार, हृल्लास, अरोचक आदि — उनकी चिकित्सा बुद्धिमान् वैद्य प्रायः आरम्भ में पाचनों से करे।",
+  "english": "obstruction (vibandha), heaviness, belching, nausea (hṛllāsa), loss of taste (arocaka) and the like — them the wise physician should generally treat at first with digestives (pācana).",
+  "text_flags": [],
+  "notes": "Continues unit 20. tān 'them' may refer to the patients (yeṣām) or to the diseases (rogāḥ, masculine); both fit.",
+  "confidence": "high"
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "eta",
+      "words": [
+       {
+        "w": "ete",
+        "gloss": "these",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "very",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yathoddiṣṭā",
+      "words": [
+       {
+        "w": "yathā-uddiṣṭāḥ",
+        "gloss": "as described",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "yeṣāmalpabalā",
+      "words": [
+       {
+        "w": "yeṣām",
+        "gloss": "of whom",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "alpa-balāḥ",
+        "gloss": "of slight strength",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "gadāḥ",
+      "words": [
+       {
+        "w": "gadāḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pipāsānigrahaisteṣāmupavāsaiśca",
+      "words": [
+       {
+        "w": "pipāsā-nigrahaiḥ",
+        "gloss": "by suppression of thirst",
+        "gram": "m. inst. pl., tat-puruṣa"
+       },
+       {
+        "w": "teṣām",
+        "gloss": "of them",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "upavāsaiḥ",
+        "gloss": "by fasts",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tāñjayet",
+      "words": [
+       {
+        "w": "tān",
+        "gloss": "them",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "jayet",
+        "gloss": "should overcome",
+        "gram": "3 sg. opt. √ji"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिनके ये ही बताए गए रोग अल्प बल वाले हों, उनके उन रोगों को पिपासा को रोकने और उपवासों से जीते।",
+  "english": "Those in whom these very diseases, as described, are of slight strength — their diseases one should overcome by suppression of thirst and by fasts.",
+  "text_flags": [],
+  "notes": "eta eva = ete eva (final e becomes a before a vowel). teṣām 'of them' (the patients) with tān 'them' (the diseases).",
+  "confidence": "high"
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rogāñjayenmadhyabalān",
+      "words": [
+       {
+        "w": "rogān",
+        "gloss": "diseases",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "jayet",
+        "gloss": "should overcome",
+        "gram": "3 sg. opt. √ji"
+       },
+       {
+        "w": "madhya-balān",
+        "gloss": "of medium strength",
+        "gram": "m. acc. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vyāyāmātapamārutaiḥ",
+      "words": [
+       {
+        "w": "vyāyāma-ātapa-mārutaiḥ",
+        "gloss": "by exercise, sun and wind",
+        "gram": "m. inst. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "balināṃ",
+      "words": [
+       {
+        "w": "balinām",
+        "gloss": "of the strong",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "kiṃ",
+      "words": [
+       {
+        "w": "kim",
+        "gloss": "what",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "punaryeṣāṃ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "then",
+        "gram": "ind."
+       },
+       {
+        "w": "yeṣām",
+        "gloss": "of whom",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "rogāṇāmavaraṃ",
+      "words": [
+       {
+        "w": "rogāṇām",
+        "gloss": "of the diseases",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "avaram",
+        "gloss": "low",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "balam",
+      "words": [
+       {
+        "w": "balam",
+        "gloss": "strength",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मध्य बल वाले रोगों को व्यायाम, धूप और वायु से जीते; तो फिर उन बलवानों के विषय में क्या कहना, जिनके रोगों का बल अल्प हो।",
+  "english": "One should overcome diseases of medium strength by exercise, sun and wind; what then (need be said) of the strong whose diseases are of low strength?",
+  "text_flags": [],
+  "notes": "kiṃ punaḥ 'what then (of)': the measures apply all the more to strong patients whose diseases are weak. The unit does not say in which patients the diseases of medium strength are found.",
+  "confidence": "medium"
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tvagdoṣiṇāṃ",
+      "words": [
+       {
+        "w": "tvak-doṣiṇām",
+        "gloss": "of those with skin disorders",
+        "gram": "m. gen. pl., tat-puruṣa (+ -in)"
+       }
+      ]
+     },
+     {
+      "src": "pramīḍhānāṃ",
+      "words": [
+       {
+        "w": "pramīḍhānām",
+        "gloss": "of those who have urinated much",
+        "gram": "m. gen. pl., ppp. pra-√mih"
+       }
+      ]
+     },
+     {
+      "src": "snigdhābhiṣyandibṛṃhiṇām",
+      "words": [
+       {
+        "w": "snigdha-abhiṣyandi-bṛṃhiṇām",
+        "gloss": "of those taking unctuous, channel-clogging and nourishing (things)",
+        "gram": "m. gen. pl., dvandva + -in (possessive)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śiśire",
+      "words": [
+       {
+        "w": "śiśire",
+        "gloss": "in Śiśira",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "laṅghanaṃ",
+      "words": [
+       {
+        "w": "laṅghanam",
+        "gloss": "lightening",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śastamapi",
+      "words": [
+       {
+        "w": "śastam",
+        "gloss": "is commended",
+        "gram": "n. nom. sg., ppp. √śaṃs"
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātavikāriṇām",
+      "words": [
+       {
+        "w": "vāta-vikāriṇām",
+        "gloss": "of those with Vāta disorders",
+        "gram": "m. gen. pl., tat-puruṣa (+ -in)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "त्वचा के दोष वालों, प्रमीढों, स्निग्ध, अभिष्यन्दी और बृंहण द्रव्य लेने वालों के लिए, और वात-विकार वालों के लिए भी, शिशिर में लङ्घन प्रशस्त है।",
+  "english": "For those with skin disorders, those who have urinated much (pramīḍha), those taking unctuous, channel-clogging (abhiṣyandin) and nourishing (things), lightening is commended in Śiśira — even for those with Vāta disorders.",
+  "text_flags": [],
+  "notes": "snigdha-abhiṣyandi-bṛṃhiṇām is a possessive -in form over the whole compound; it may also be read 'of those fattened by unctuous and channel-clogging (food)'. The noun 'things/food' is understood. Śiśira is the late-winter season. api 'even' goes with vātavikāriṇām.",
+  "confidence": "medium"
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "adigdhaviddhamakliṣṭaṃ",
+      "words": [
+       {
+        "w": "a-digdha-viddham",
+        "gloss": "shot (with a weapon) not smeared",
+        "gram": "n. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "a-kliṣṭam",
+        "gloss": "not exhausted",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vayasthaṃ",
+      "words": [
+       {
+        "w": "vayas-stham",
+        "gloss": "of the right age",
+        "gram": "n. nom. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sātmyacāriṇām",
+      "words": [
+       {
+        "w": "sātmya-cāriṇām",
+        "gloss": "moving in their suitable (habitat)",
+        "gram": "m. gen. pl., upapada tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mṛgamatsyavihaṅgānāṃ",
+      "words": [
+       {
+        "w": "mṛga-matsya-vihaṅgānām",
+        "gloss": "of wild animals, fish and birds",
+        "gram": "m. gen. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "māṃsaṃ",
+      "words": [
+       {
+        "w": "māṃsam",
+        "gloss": "meat",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bṛṃhaṇamucyate",
+      "words": [
+       {
+        "w": "bṛṃhaṇam",
+        "gloss": "nourishing",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ucyate",
+        "gloss": "is called",
+        "gram": "3 sg. pres. pass. √vac"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बिना लेप लगे शस्त्र से बींधे गए, अक्लिष्ट, उचित आयु वाले, सात्म्य स्थान में विचरने वाले मृगों, मछलियों और पक्षियों का मांस बृंहण कहलाता है।",
+  "english": "The meat of wild animals (mṛga), fish and birds that move in their suitable (habitat) — shot with a weapon that is not smeared, not exhausted, and of the right age — is called nourishing.",
+  "text_flags": [],
+  "notes": "digdha 'smeared' is said of a weapon smeared with poison; the translation keeps the literal 'not smeared'. vayastha literally 'standing in (proper) age'. sātmya-cārin literally 'moving in what is suitable'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṣīṇāḥ",
+      "words": [
+       {
+        "w": "kṣīṇāḥ",
+        "gloss": "the depleted",
+        "gram": "m. nom. pl., ppp. √kṣi"
+       }
+      ]
+     },
+     {
+      "src": "kṣatāḥ",
+      "words": [
+       {
+        "w": "kṣatāḥ",
+        "gloss": "the injured",
+        "gram": "m. nom. pl., ppp. √kṣaṇ"
+       }
+      ]
+     },
+     {
+      "src": "kṛśā",
+      "words": [
+       {
+        "w": "kṛśāḥ",
+        "gloss": "the emaciated",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vṛddhā",
+      "words": [
+       {
+        "w": "vṛddhāḥ",
+        "gloss": "the old",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "durbalā",
+      "words": [
+       {
+        "w": "durbalāḥ",
+        "gloss": "the weak",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "nityamadhvagāḥ",
+      "words": [
+       {
+        "w": "nityam",
+        "gloss": "constantly",
+        "gram": "ind."
+       },
+       {
+        "w": "adhvagāḥ",
+        "gloss": "travellers",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "strīmadyanityā",
+      "words": [
+       {
+        "w": "strī-madya-nityāḥ",
+        "gloss": "constantly given to women and wine",
+        "gram": "m. nom. pl., tat-puruṣa (dvandva first member)"
+       }
+      ]
+     },
+     {
+      "src": "grīṣme",
+      "words": [
+       {
+        "w": "grīṣme",
+        "gloss": "in Grīṣma",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bṛṃhaṇīyā",
+      "words": [
+       {
+        "w": "bṛṃhaṇīyāḥ",
+        "gloss": "to be nourished",
+        "gram": "gerundive (kṛtya) √bṛṃh, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "narāḥ",
+      "words": [
+       {
+        "w": "narāḥ",
+        "gloss": "men",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "smṛtāḥ",
+      "words": [
+       {
+        "w": "smṛtāḥ",
+        "gloss": "are known",
+        "gram": "m. nom. pl., ppp. √smṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्षीण, क्षत, कृश, वृद्ध, दुर्बल, नित्य मार्ग चलने वाले, नित्य स्त्री और मद्य में आसक्त मनुष्य, तथा ग्रीष्म में, बृंहण के योग्य माने गए हैं।",
+  "english": "The depleted, the injured, the emaciated, the old, the weak, those constantly travelling, and those constantly given to women and wine are known as men to be nourished, and (so) in Grīṣma.",
+  "text_flags": [],
+  "notes": "grīṣme ca 'and in Grīṣma' (the hot season): nourishing is also indicated in that season. madya = wine (intoxicating drink).",
+  "confidence": "medium"
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śoṣārśograhaṇīdoṣairvyādhibhiḥ",
+      "words": [
+       {
+        "w": "śoṣa-arśas-grahaṇī-doṣaiḥ",
+        "gloss": "śoṣa, arśas and grahaṇī disorder",
+        "gram": "m. inst. pl., dvandva (grahaṇī-doṣa tat-puruṣa)"
+       },
+       {
+        "w": "vyādhibhiḥ",
+        "gloss": "by diseases",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "karśitāśca",
+      "words": [
+       {
+        "w": "karśitāḥ",
+        "gloss": "emaciated",
+        "gram": "m. nom. pl., ppp. caus. √kṛś"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "teṣāṃ",
+      "words": [
+       {
+        "w": "teṣām",
+        "gloss": "for them",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "kravyādamāṃsānāṃ",
+      "words": [
+       {
+        "w": "kravyāda-māṃsānām",
+        "gloss": "of the flesh of carnivores",
+        "gram": "n. gen. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bṛṃhaṇā",
+      "words": [
+       {
+        "w": "bṛṃhaṇāḥ",
+        "gloss": "nourishing",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "laghavo",
+      "words": [
+       {
+        "w": "laghavaḥ",
+        "gloss": "light",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "rasāḥ",
+      "words": [
+       {
+        "w": "rasāḥ",
+        "gloss": "meat-juices",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और जो शोष, अर्श और ग्रहणी-दोष रूपी व्याधियों से कृश हो गए हैं, उनके लिए मांसाहारी प्राणियों के मांस के लघु रस बृंहण हैं।",
+  "english": "And for those who are emaciated by the diseases śoṣa (wasting), arśas and grahaṇī disorder, light juices of the flesh of carnivorous animals are nourishing.",
+  "text_flags": [],
+  "notes": "rasa here is meat-juice (māṃsarasa), not taste. śoṣa, arśas and grahaṇī are kept as Sanskrit names. kravyāda 'flesh-eater'.",
+  "confidence": "high"
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "snānamutsādanaṃ",
+      "words": [
+       {
+        "w": "snānam",
+        "gloss": "bathing",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "utsādanam",
+        "gloss": "rubbing with unguents",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "svapno",
+      "words": [
+       {
+        "w": "svapnaḥ",
+        "gloss": "sleep",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhurāḥ",
+      "words": [
+       {
+        "w": "madhurāḥ",
+        "gloss": "sweet",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "snehabastayaḥ",
+      "words": [
+       {
+        "w": "sneha-bastayaḥ",
+        "gloss": "unctuous enemas",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śarkarākṣīrasarpīṃṣi",
+      "words": [
+       {
+        "w": "śarkarā-kṣīra-sarpīṃṣi",
+        "gloss": "sugar, milk and ghee",
+        "gram": "n. nom. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "sarveṣāṃ",
+      "words": [
+       {
+        "w": "sarveṣām",
+        "gloss": "for all",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "buddhi",
+      "words": [
+       {
+        "w": "viddhi",
+        "gloss": "know",
+        "gram": "2 sg. impv. √vid"
+       }
+      ]
+     },
+     {
+      "src": "bṛṃhaṇam",
+      "words": [
+       {
+        "w": "bṛṃhaṇam",
+        "gloss": "nourishing",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्नान, उत्सादन, निद्रा, मधुर स्नेह-बस्तियाँ, शर्करा, दूध और घी — इन्हें सबके लिए बृंहण जानो।",
+  "english": "Bathing, rubbing with unguents (utsādana), sleep, sweet unctuous enemas, sugar, milk and ghee — know (these) as nourishing for all.",
+  "text_flags": [
+   {
+    "src": "buddhi",
+    "suggest": "viddhi",
+    "why": "possible typo: buddhi is a bare stem with no case ending and no role in the sentence, which has no verb; viddhi 'know' (2 sg. impv. √vid) fits the syntax and keeps the metre; b/v and u/i are easily confused in print."
+   }
+  ],
+  "notes": "Translated with the suggested viddhi. Taken as printed, buddhi 'intellect' would give no clear sentence; a reading 'nourishing the intellect' would need a compound buddhibṛṃhaṇam or a case form, which the print does not show.",
+  "confidence": "medium"
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kaṭutiktakaṣāyāṇāṃ",
+      "words": [
+       {
+        "w": "kaṭu-tikta-kaṣāyāṇām",
+        "gloss": "of pungent, bitter and astringent (things)",
+        "gram": "m. gen. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "sevanaṃ",
+      "words": [
+       {
+        "w": "sevanam",
+        "gloss": "use",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "strīṣvasaṃyamaḥ",
+      "words": [
+       {
+        "w": "strīṣu",
+        "gloss": "with women",
+        "gram": "f. loc. pl."
+       },
+       {
+        "w": "a-saṃyamaḥ",
+        "gloss": "lack of restraint",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "khalipiṇyākatakrāṇāṃ",
+      "words": [
+       {
+        "w": "khali-piṇyāka-takrāṇām",
+        "gloss": "of khali, oil-cake and buttermilk",
+        "gram": "n. gen. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "madhvādīnāṃ",
+      "words": [
+       {
+        "w": "madhu-ādīnām",
+        "gloss": "of honey and the like",
+        "gram": "n. gen. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rūkṣaṇam",
+      "words": [
+       {
+        "w": "rūkṣaṇam",
+        "gloss": "drying",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कटु, तिक्त और कषाय रसों का सेवन, स्त्रियों के प्रति असंयम, तथा खली, पिण्याक, तक्र और मधु आदि का सेवन रूक्षण है।",
+  "english": "Use of pungent, bitter and astringent (tastes), lack of restraint with women, and (use) of khali, oil-cake (piṇyāka), buttermilk, honey and the like is drying.",
+  "text_flags": [],
+  "notes": "sevanam governs both genitive groups. khali and piṇyāka are both commonly used for oil-cake; the chunk does not state how they differ, so khali is kept as Sanskrit.",
+  "confidence": "medium"
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "abhiṣyaṇṇā",
+      "words": [
+       {
+        "w": "abhiṣyaṇṇāḥ",
+        "gloss": "clogged (with fluid)",
+        "gram": "m. nom. pl., ppp. abhi-√syand"
+       }
+      ]
+     },
+     {
+      "src": "mahādoṣā",
+      "words": [
+       {
+        "w": "mahā-doṣāḥ",
+        "gloss": "great doṣas",
+        "gram": "m. nom. pl., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "marmasthā",
+      "words": [
+       {
+        "w": "marma-sthāḥ",
+        "gloss": "located in vital points",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vyādhayaśca",
+      "words": [
+       {
+        "w": "vyādhayaḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "which",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ūrustambhaprabhṛtayo",
+      "words": [
+       {
+        "w": "ūrustambha-prabhṛtayaḥ",
+        "gloss": "beginning with ūrustambha",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "rūkṣaṇīyā",
+      "words": [
+       {
+        "w": "rūkṣaṇīyāḥ",
+        "gloss": "to be dried",
+        "gram": "gerundive (kṛtya) √rūkṣ, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "nidarśitāḥ",
+      "words": [
+       {
+        "w": "nidarśitāḥ",
+        "gloss": "are indicated",
+        "gram": "m. nom. pl., ppp. caus. ni-√dṛś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अभिष्यण्ण महान् दोष, और जो मर्म में स्थित ऊरुस्तम्भ आदि व्याधियाँ हैं, वे रूक्षण के योग्य बताई गई हैं।",
+  "english": "Great doṣas that are clogged (abhiṣyaṇṇa), and those diseases located in the vital points, beginning with ūrustambha (stiffness of the thighs), are indicated as to be dried.",
+  "text_flags": [],
+  "notes": "mahādoṣāḥ may also be a bahuvrīhi 'persons with great doṣas', with abhiṣyaṇṇāḥ describing those persons. ūrustambha is kept as a Sanskrit disease name, glossed literally. abhiṣyaṇṇa is printed with ṇṇ, a normal spelling of this participle.",
+  "confidence": "medium"
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "snehāḥ",
+      "words": [
+       {
+        "w": "snehāḥ",
+        "gloss": "unctuous substances",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "snehayitavyāśca",
+      "words": [
+       {
+        "w": "snehayitavyāḥ",
+        "gloss": "to be oleated",
+        "gram": "gerundive (kṛtya) caus. √snih, m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svedāḥ",
+      "words": [
+       {
+        "w": "svedāḥ",
+        "gloss": "sweating procedures",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "svedyāśca",
+      "words": [
+       {
+        "w": "svedyāḥ",
+        "gloss": "to be sweated",
+        "gram": "gerundive (kṛtya) √svid (caus.), m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "narāḥ",
+      "words": [
+       {
+        "w": "narāḥ",
+        "gloss": "men",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "snehādhyāye",
+      "words": [
+       {
+        "w": "sneha-adhyāye",
+        "gloss": "in the chapter on unctuous substances",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "mayoktāste",
+      "words": [
+       {
+        "w": "mayā",
+        "gloss": "by me",
+        "gram": "inst. sg. pron."
+       },
+       {
+        "w": "uktāḥ",
+        "gloss": "stated",
+        "gram": "m. nom. pl., ppp. √vac"
+       },
+       {
+        "w": "te",
+        "gloss": "they",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "svedākhye",
+      "words": [
+       {
+        "w": "sveda-ākhye",
+        "gloss": "in the (chapter) named on sweating",
+        "gram": "m. loc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "savistaram",
+      "words": [
+       {
+        "w": "sa-vistaram",
+        "gloss": "in detail",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्नेह और जो मनुष्य स्नेहन के योग्य हैं, स्वेद और जो स्वेदन के योग्य हैं — उन्हें मैंने स्नेह-अध्याय में और स्वेद नामक अध्याय में विस्तार से कह दिया है।",
+  "english": "The unctuous substances and the men to be oleated, the sweating procedures and the men to be sweated — these have been stated by me in detail in the chapter on unctuous substances and in the one named for sweating.",
+  "text_flags": [],
+  "notes": "The two chapters are named only as 'the sneha chapter' and 'the one named sveda'.",
+  "confidence": "high"
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dravaṃ",
+      "words": [
+       {
+        "w": "dravam",
+        "gloss": "liquid",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tanvasaraṃ",
+      "words": [
+       {
+        "w": "tanu",
+        "gloss": "thin",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "a-saram",
+        "gloss": "non-flowing",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāvacchītīkaraṇamauṣadham",
+      "words": [
+       {
+        "w": "yāvat",
+        "gloss": "whatever",
+        "gram": "ind."
+       },
+       {
+        "w": "śītīkaraṇam",
+        "gloss": "cooling",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "auṣadham",
+        "gloss": "medicine",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "svādu",
+      "words": [
+       {
+        "w": "svādu",
+        "gloss": "sweet",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tiktaṃ",
+      "words": [
+       {
+        "w": "tiktam",
+        "gloss": "bitter",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaṣāyaṃ",
+      "words": [
+       {
+        "w": "kaṣāyam",
+        "gloss": "astringent",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "stambhanaṃ",
+      "words": [
+       {
+        "w": "stambhanam",
+        "gloss": "checking",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvameva",
+      "words": [
+       {
+        "w": "sarvam",
+        "gloss": "all",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tat",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो औषध द्रव, तनु, असर, शीतल करने वाली, मधुर, तिक्त और कषाय हो, वह सब स्तम्भन है।",
+  "english": "Whatever medicine is liquid, thin, non-flowing, cooling, sweet, bitter and astringent — all that indeed is checking.",
+  "text_flags": [],
+  "notes": "yāvat 'as much as, whatever'. śītīkaraṇa 'making cold' (cvi formation).",
+  "confidence": "high"
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pittakṣārāgnidagdhā",
+      "words": [
+       {
+        "w": "pitta-kṣāra-agni-dagdhāḥ",
+        "gloss": "burnt by Pitta, alkali or fire",
+        "gram": "m. nom. pl., tat-puruṣa (dvandva first members)"
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vamyatīsārapīḍitāḥ",
+      "words": [
+       {
+        "w": "vami-atīsāra-pīḍitāḥ",
+        "gloss": "afflicted with vomiting and diarrhoea",
+        "gram": "m. nom. pl., tat-puruṣa (dvandva first member)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "viṣasvedātiyogārtāḥ",
+      "words": [
+       {
+        "w": "viṣa-sveda-atiyoga-ārtāḥ",
+        "gloss": "suffering from poison or excessive sweating",
+        "gram": "m. nom. pl., tat-puruṣa (dvandva first members)"
+       }
+      ]
+     },
+     {
+      "src": "stambhanīyā",
+      "words": [
+       {
+        "w": "stambhanīyāḥ",
+        "gloss": "to be checked",
+        "gram": "gerundive (kṛtya) √stambh, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "nidarśitāḥ",
+      "words": [
+       {
+        "w": "nidarśitāḥ",
+        "gloss": "are indicated",
+        "gram": "m. nom. pl., ppp. caus. ni-√dṛś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो पित्त, क्षार या अग्नि से दग्ध हैं, जो वमि और अतीसार से पीड़ित हैं, जो विष से या स्वेद के अतियोग से आर्त हैं, वे स्तम्भन के योग्य बताए गए हैं।",
+  "english": "Those burnt by Pitta, alkali or fire, those afflicted with vomiting and diarrhoea, and those suffering from poison or from excessive sweating are indicated as to be checked.",
+  "text_flags": [],
+  "notes": "viṣa-sveda-atiyoga may also be read 'excessive (use of) poison and of sweating', with atiyoga governing both. kṣāra = alkali.",
+  "confidence": "high"
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vātamūtrapurīṣāṇāṃ",
+      "words": [
+       {
+        "w": "vāta-mūtra-purīṣāṇām",
+        "gloss": "of wind, urine and faeces",
+        "gram": "n. gen. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "visarge",
+      "words": [
+       {
+        "w": "visarge",
+        "gloss": "on release",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gātralāghave",
+      "words": [
+       {
+        "w": "gātra-lāghave",
+        "gloss": "on lightness of the limbs",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "hṛdayodgārakaṇṭhāsyaśuddhau",
+      "words": [
+       {
+        "w": "hṛdaya-udgāra-kaṇṭha-āsya-śuddhau",
+        "gloss": "on cleanness of heart, belching, throat and mouth",
+        "gram": "f. loc. sg., tat-puruṣa (dvandva first members)"
+       }
+      ]
+     },
+     {
+      "src": "tandrāklame",
+      "words": [
+       {
+        "w": "tandrā-klame",
+        "gloss": "drowsiness and exhaustion",
+        "gram": "n. loc. sg., samāhāra dvandva"
+       }
+      ]
+     },
+     {
+      "src": "gate",
+      "words": [
+       {
+        "w": "gate",
+        "gloss": "having gone",
+        "gram": "n. loc. sg., ppp. √gam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वायु, मूत्र और पुरीष के निकल जाने पर, अंगों में लघुता होने पर, हृदय, उद्गार, कण्ठ और मुख की शुद्धि होने पर, तन्द्रा और क्लम के चले जाने पर,",
+  "english": "When there is release of wind, urine and faeces, lightness of the limbs, cleanness of the heart, belching, throat and mouth, when drowsiness and exhaustion have gone,",
+  "text_flags": [],
+  "notes": "vāta here is the wind released from the body. The sentence continues into unit 35 (locative absolutes ending in kṛtaṃ laṅghanam ādeśyam). 'Cleanness of belching' means clean (pure) eructation.",
+  "confidence": "high"
+ },
+ {
+  "n": "35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "svede",
+      "words": [
+       {
+        "w": "svede",
+        "gloss": "sweat",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jāte",
+      "words": [
+       {
+        "w": "jāte",
+        "gloss": "having arisen",
+        "gram": "m. loc. sg., ppp. √jan"
+       }
+      ]
+     },
+     {
+      "src": "rucau",
+      "words": [
+       {
+        "w": "rucau",
+        "gloss": "relish",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "caiva",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṣutpipāsāsahodaye",
+      "words": [
+       {
+        "w": "kṣudh-pipāsā-saha-udaye",
+        "gloss": "on the joint arising of hunger and thirst",
+        "gram": "m. loc. sg., tat-puruṣa (dvandva first member)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kṛtaṃ",
+      "words": [
+       {
+        "w": "kṛtam",
+        "gloss": "done",
+        "gram": "n. nom. sg., ppp. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "laṅghanamādeśyaṃ",
+      "words": [
+       {
+        "w": "laṅghanam",
+        "gloss": "lightening",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ādeśyam",
+        "gloss": "to be declared",
+        "gram": "gerundive (kṛtya) ā-√diś, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nirvyathe",
+      "words": [
+       {
+        "w": "nirvyathe",
+        "gloss": "free from distress",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cāntarātmani",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "antarātmani",
+        "gloss": "the inner self",
+        "gram": "m. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्वेद आने पर, रुचि होने पर, भूख और प्यास के साथ-साथ उदय होने पर, और अन्तरात्मा के व्यथा-रहित होने पर लङ्घन को ठीक किया गया बताना चाहिए।",
+  "english": "when sweat has arisen, and relish (for food), when hunger and thirst arise together, and when the inner self is free from distress, lightening should be declared (properly) done.",
+  "text_flags": [],
+  "notes": "Continues unit 34. ruci 'relish, taste for food'; 'for food' is understood. kṛtam means properly done, as in unit 8.",
+  "confidence": "high"
+ },
+ {
+  "n": "36",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "parvabhedo'ṅgamardaśca",
+      "words": [
+       {
+        "w": "parva-bhedaḥ",
+        "gloss": "breaking pain in the joints",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "aṅga-mardaḥ",
+        "gloss": "body-ache",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kāsaḥ",
+      "words": [
+       {
+        "w": "kāsaḥ",
+        "gloss": "cough",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śoṣo",
+      "words": [
+       {
+        "w": "śoṣaḥ",
+        "gloss": "dryness",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mukhasya",
+      "words": [
+       {
+        "w": "mukhasya",
+        "gloss": "of the mouth",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kṣutpraṇāśo'rucistṛṣṇā",
+      "words": [
+       {
+        "w": "kṣudh-praṇāśaḥ",
+        "gloss": "loss of hunger",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "aruciḥ",
+        "gloss": "loss of taste",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "tṛṣṇā",
+        "gloss": "thirst",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daurbalyaṃ",
+      "words": [
+       {
+        "w": "daurbalyam",
+        "gloss": "weakness",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śrotranetrayoḥ",
+      "words": [
+       {
+        "w": "śrotra-netrayoḥ",
+        "gloss": "of ears and eyes",
+        "gram": "n. gen. du., dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पर्वभेद, अङ्गमर्द, कास, मुख का शोष, भूख का नाश, अरुचि, तृष्णा, कानों और आँखों की दुर्बलता,",
+  "english": "Breaking pain in the joints, body-ache (aṅgamarda), cough, dryness of the mouth, loss of hunger, loss of taste (aruci), thirst, weakness of the ears and eyes,",
+  "text_flags": [],
+  "notes": "The list continues into unit 37, which gives the verb (bhavet) and the condition (laṅghane 'tikṛte). śoṣa here is the physical dryness of the mouth.",
+  "confidence": "high"
+ },
+ {
+  "n": "37",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "manasaḥ",
+      "words": [
+       {
+        "w": "manasaḥ",
+        "gloss": "of the mind",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃbhramo'bhīkṣṇamūrdhvavātastamo",
+      "words": [
+       {
+        "w": "saṃbhramaḥ",
+        "gloss": "confusion",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "abhīkṣṇam",
+        "gloss": "frequent",
+        "gram": "ind."
+       },
+       {
+        "w": "ūrdhva-vātaḥ",
+        "gloss": "upward wind",
+        "gram": "m. nom. sg., karmadhāraya"
+       },
+       {
+        "w": "tamaḥ",
+        "gloss": "darkness",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hṛdi",
+      "words": [
+       {
+        "w": "hṛdi",
+        "gloss": "in the heart",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dehāgnibalanāśaśca",
+      "words": [
+       {
+        "w": "deha-agni-bala-nāśaḥ",
+        "gloss": "loss of body, digestive fire and strength",
+        "gram": "m. nom. sg., tat-puruṣa (dvandva first members)"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "laṅghane'tikṛte",
+      "words": [
+       {
+        "w": "laṅghane",
+        "gloss": "lightening",
+        "gram": "n. loc. sg."
+       },
+       {
+        "w": "atikṛte",
+        "gloss": "overdone",
+        "gram": "n. loc. sg., ppp. ati-√kṛ"
+       }
+      ]
+     },
+     {
+      "src": "bhavet",
+      "words": [
+       {
+        "w": "bhavet",
+        "gloss": "would occur",
+        "gram": "3 sg. opt. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बार-बार मन का सम्भ्रम, ऊर्ध्ववात, हृदय में अन्धकार, और देह, अग्नि तथा बल का नाश — ये लङ्घन के अति किए जाने पर होते हैं।",
+  "english": "frequent confusion of the mind, upward wind (ūrdhvavāta), darkness in the heart, and loss of body, digestive fire (agni) and strength would occur when lightening is overdone.",
+  "text_flags": [],
+  "notes": "Continues unit 36. abhīkṣṇam 'frequently' is taken with saṃbhramaḥ. deha-agni-bala-nāśa may also be read 'loss of the body's fire and strength'. bhavet is singular with a list of subjects; the Hindi uses the plural.",
+  "confidence": "medium"
+ },
+ {
+  "n": "38",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "balaṃ",
+      "words": [
+       {
+        "w": "balam",
+        "gloss": "strength",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "puṣṭyupalambhaśca",
+      "words": [
+       {
+        "w": "puṣṭi-upalambhaḥ",
+        "gloss": "gaining of plumpness",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kārśyadoṣavivarjanam",
+      "words": [
+       {
+        "w": "kārśya-doṣa-vivarjanam",
+        "gloss": "freedom from the defects of emaciation",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "lakṣaṇaṃ",
+      "words": [
+       {
+        "w": "lakṣaṇam",
+        "gloss": "sign",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bṛṃhite",
+      "words": [
+       {
+        "w": "bṛṃhite",
+        "gloss": "in one nourished",
+        "gram": "m. loc. sg., ppp. √bṛṃh"
+       }
+      ]
+     },
+     {
+      "src": "sthaulyamati",
+      "words": [
+       {
+        "w": "sthaulyam",
+        "gloss": "corpulence",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ati",
+        "gloss": "excessive",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cātyarthabṛṃhite",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "atyartha-bṛṃhite",
+        "gloss": "in one excessively nourished",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बल, पुष्टि की प्राप्ति और कृशता के दोषों से मुक्ति — यह बृंहित का लक्षण है; और अत्यधिक बृंहित में अति स्थूलता होती है।",
+  "english": "Strength, gaining of plumpness and freedom from the defects of emaciation are the sign in one (properly) nourished; and excessive corpulence (sthaulya) in one excessively nourished.",
+  "text_flags": [],
+  "notes": "ati stands as a separate word after sthaulyam ('corpulence in excess'). kārśya-doṣa may also be read 'emaciation and (other) defects'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "39",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṛtātikṛtaliṅgaṃ",
+      "words": [
+       {
+        "w": "kṛta-atikṛta-liṅgam",
+        "gloss": "the sign of done and overdone",
+        "gram": "n. nom. sg., tat-puruṣa (dvandva first member)"
+       }
+      ]
+     },
+     {
+      "src": "yallaṅghite",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "laṅghite",
+        "gloss": "in one lightened",
+        "gram": "m. loc. sg., ppp. √laṅgh"
+       }
+      ]
+     },
+     {
+      "src": "taddhi",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "hi",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rūkṣite",
+      "words": [
+       {
+        "w": "rūkṣite",
+        "gloss": "in one dried",
+        "gram": "m. loc. sg., ppp. √rūkṣ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "stambhitaḥ",
+      "words": [
+       {
+        "w": "stambhitaḥ",
+        "gloss": "checked",
+        "gram": "m. nom. sg., ppp. caus. √stambh"
+       }
+      ]
+     },
+     {
+      "src": "syādbale",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √as"
+       },
+       {
+        "w": "bale",
+        "gloss": "strength",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "labdhe",
+      "words": [
+       {
+        "w": "labdhe",
+        "gloss": "gained",
+        "gram": "n. loc. sg., ppp. √labh"
+       }
+      ]
+     },
+     {
+      "src": "yathoktaiścāmayairjitaiḥ",
+      "words": [
+       {
+        "w": "yathā-uktaiḥ",
+        "gloss": "as stated",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "āmayaiḥ",
+        "gloss": "diseases",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "jitaiḥ",
+        "gloss": "overcome",
+        "gram": "m. inst. pl., ppp. √ji"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "लङ्घित में जो ठीक किए गए और अति किए गए होने का लक्षण है, वह रूक्षित में है। बल प्राप्त होने पर और बताए गए रोगों के जीत लिए जाने पर व्यक्ति स्तम्भित हुआ समझना चाहिए।",
+  "english": "The sign of (properly) done and overdone that holds in one lightened holds indeed in one dried. One would be (properly) checked when strength has been gained and the diseases stated have been overcome.",
+  "text_flags": [],
+  "notes": "bale labdhe is a locative absolute; yathoktaiś cāmayair jitaiḥ is instrumental in form but is read in the same way ('with the diseases overcome'). The diseases stated are those listed as calling for checking in unit 33.",
+  "confidence": "medium"
+ },
+ {
+  "n": "40",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śyāvatā",
+      "words": [
+       {
+        "w": "śyāvatā",
+        "gloss": "duskiness",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "stabdhagātratvamudvego",
+      "words": [
+       {
+        "w": "stabdha-gātra-tvam",
+        "gloss": "stiffness of the limbs",
+        "gram": "n. nom. sg., bahuvrīhi + -tva"
+       },
+       {
+        "w": "udvegaḥ",
+        "gloss": "agitation",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hanusaṃgrahaḥ",
+      "words": [
+       {
+        "w": "hanusaṃgrahaḥ",
+        "gloss": "hanusaṃgraha (seizing of the jaw)",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "hṛdvarconigrahaśca",
+      "words": [
+       {
+        "w": "hṛd-varcas-nigrahaḥ",
+        "gloss": "binding of the heart and of the faeces",
+        "gram": "m. nom. sg., tat-puruṣa (dvandva first member)"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "syādatistambhitalakṣaṇam",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √as"
+       },
+       {
+        "w": "atistambhita-lakṣaṇam",
+        "gloss": "the sign of one over-checked",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "श्यावता, अंगों की जकड़न, उद्वेग, हनुसंग्रह, और हृदय तथा मल का रुकना — यह अति स्तम्भित का लक्षण होता है।",
+  "english": "Duskiness, stiffness of the limbs, agitation, hanusaṃgraha, and binding of the heart and of the faeces would be the sign of one over-checked.",
+  "text_flags": [],
+  "notes": "hanusaṃgraha is kept as a Sanskrit name with a literal gloss. hṛd-varco-nigraha: one nigraha 'binding, holding back' is said of both the heart and the faeces.",
+  "confidence": "medium"
+ },
+ {
+  "n": "41",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "lakṣaṇaṃ",
+      "words": [
+       {
+        "w": "lakṣaṇam",
+        "gloss": "sign",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "cākṛtānāṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "a-kṛtānām",
+        "gloss": "of (those) not done",
+        "gram": "n. gen. pl., ppp. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "syāt",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √as"
+       }
+      ]
+     },
+     {
+      "src": "ṣaṇṇāmeṣāṃ",
+      "words": [
+       {
+        "w": "ṣaṇṇām",
+        "gloss": "of the six",
+        "gram": "num. gen. pl."
+       },
+       {
+        "w": "eṣām",
+        "gloss": "of these",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "samāsataḥ",
+      "words": [
+       {
+        "w": "samāsataḥ",
+        "gloss": "in brief",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tadauṣadhānāṃ",
+      "words": [
+       {
+        "w": "tat-auṣadhānām",
+        "gloss": "for which these are the remedies",
+        "gram": "m. gen. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "dhātūnāmaśamo",
+      "words": [
+       {
+        "w": "dhātūnām",
+        "gloss": "of the dhātus",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "a-śamaḥ",
+        "gloss": "non-subsidence",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛddhireva",
+      "words": [
+       {
+        "w": "vṛddhiḥ",
+        "gloss": "increase",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और संक्षेप में, इन छहों के न किए जाने का लक्षण है — जिन धातुओं की ये औषध हैं, उनका शान्त न होना और उनकी वृद्धि।",
+  "english": "And in brief, the sign of these six when not done would be the non-subsidence, and indeed the increase, of the dhātus for which these are the remedies.",
+  "text_flags": [],
+  "notes": "tat-auṣadha 'having these as remedies' qualifies dhātūnām. dhātu here means the bodily factors that these measures treat; the unit does not name them.",
+  "confidence": "medium"
+ },
+ {
+  "n": "42",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣaṭ",
+      "words": [
+       {
+        "w": "ṣaṭ",
+        "gloss": "six",
+        "gram": "num. nom."
+       }
+      ]
+     },
+     {
+      "src": "sarvarogāṇāṃ",
+      "words": [
+       {
+        "w": "sarva-rogāṇām",
+        "gloss": "of all diseases",
+        "gram": "m. gen. pl., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "proktāḥ",
+      "words": [
+       {
+        "w": "proktāḥ",
+        "gloss": "declared",
+        "gram": "m. nom. pl., ppp. pra-√vac"
+       }
+      ]
+     },
+     {
+      "src": "samyagupakramāḥ",
+      "words": [
+       {
+        "w": "samyak",
+        "gloss": "properly",
+        "gram": "ind."
+       },
+       {
+        "w": "upakramāḥ",
+        "gloss": "measures of treatment",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sādhyānāṃ",
+      "words": [
+       {
+        "w": "sādhyānām",
+        "gloss": "of the curable",
+        "gram": "gerundive (kṛtya) √sādh, m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "sādhane",
+      "words": [
+       {
+        "w": "sādhane",
+        "gloss": "in curing",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "siddhā",
+      "words": [
+       {
+        "w": "siddhāḥ",
+        "gloss": "effective",
+        "gram": "m. nom. pl., ppp. √sidh"
+       }
+      ]
+     },
+     {
+      "src": "mātrākālānurodhinaḥ",
+      "words": [
+       {
+        "w": "mātrā-kāla-anurodhinaḥ",
+        "gloss": "conforming to measure and time",
+        "gram": "m. nom. pl., tat-puruṣa (dvandva first member)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार सब रोगों के छह उपक्रम ठीक-ठीक कहे गए हैं, जो मात्रा और काल का अनुसरण करते हुए साध्य रोगों को साधने में सिद्ध हैं।",
+  "english": "Thus the six measures of treatment (upakrama) for all diseases have been properly declared; conforming to measure (mātrā) and time, they are effective in curing the curable.",
+  "text_flags": [],
+  "notes": "samyak 'properly' may go with proktāḥ (properly declared) or with the measures themselves.",
+  "confidence": "high"
+ },
+ {
+  "n": "43",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "there is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "cātra",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "atra",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "---",
+      "words": [
+       {
+        "w": "---",
+        "gloss": "dash (punctuation)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "doṣāṇāṃ",
+      "words": [
+       {
+        "w": "doṣāṇām",
+        "gloss": "of the doṣas",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "bahusaṃsargāt",
+      "words": [
+       {
+        "w": "bahu-saṃsargāt",
+        "gloss": "because of manifold combination",
+        "gram": "m. abl. sg., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "saṅkīryante",
+      "words": [
+       {
+        "w": "saṅkīryante",
+        "gloss": "become mixed",
+        "gram": "3 pl. pres. pass. sam-√kṝ"
+       }
+      ]
+     },
+     {
+      "src": "hyupakramāḥ",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       },
+       {
+        "w": "upakramāḥ",
+        "gloss": "measures of treatment",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ṣaṭtvaṃ",
+      "words": [
+       {
+        "w": "ṣaṭ-tvam",
+        "gloss": "the number six",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nātivartante",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "ativartante",
+        "gloss": "go beyond",
+        "gram": "3 pl. pres. ātm. ati-√vṛt"
+       }
+      ]
+     },
+     {
+      "src": "tritvaṃ",
+      "words": [
+       {
+        "w": "tri-tvam",
+        "gloss": "the number three",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vātādayo",
+      "words": [
+       {
+        "w": "vāta-ādayaḥ",
+        "gloss": "Vāta and the others",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और यहाँ यह श्लोक है — दोषों के अनेक प्रकार के संसर्ग के कारण उपक्रम मिश्रित हो जाते हैं, परन्तु वे छह की संख्या का अतिक्रमण नहीं करते, जैसे वात आदि तीन की संख्या का अतिक्रमण नहीं करते।",
+  "english": "And here there is: Because of the manifold combinations of the doṣas the measures of treatment become mixed; but they do not go beyond six, just as Vāta and the others do not go beyond three.",
+  "text_flags": [],
+  "notes": "The lead-in bhavati cātra is a line of the unit. The verb na ativartante is understood again with vātādayaḥ.",
+  "confidence": "high"
+ },
+ {
+  "n": "44",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ślokāḥ",
+      "words": [
+       {
+        "w": "ślokāḥ",
+        "gloss": "the verses",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "---",
+      "words": [
+       {
+        "w": "---",
+        "gloss": "dash (punctuation)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ityasmiṃlaṅghanādhyāye",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "asmin",
+        "gloss": "in this",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "laṅghana-adhyāye",
+        "gloss": "in the chapter on lightening",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vyākhyātāḥ",
+      "words": [
+       {
+        "w": "vyākhyātāḥ",
+        "gloss": "expounded",
+        "gram": "m. nom. pl., ppp. vi-ā-√khyā"
+       }
+      ]
+     },
+     {
+      "src": "ṣaḍupakramāḥ",
+      "words": [
+       {
+        "w": "ṣaṭ",
+        "gloss": "six",
+        "gram": "num. nom."
+       },
+       {
+        "w": "upakramāḥ",
+        "gloss": "measures of treatment",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yathāpraśnaṃ",
+      "words": [
+       {
+        "w": "yathā-praśnam",
+        "gloss": "according to the questions",
+        "gram": "ind., avyayībhāva"
+       }
+      ]
+     },
+     {
+      "src": "bhagavatā",
+      "words": [
+       {
+        "w": "bhagavatā",
+        "gloss": "by the venerable one",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "cikitsā",
+      "words": [
+       {
+        "w": "cikitsā",
+        "gloss": "treatment",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaiḥ",
+      "words": [
+       {
+        "w": "yaiḥ",
+        "gloss": "by which",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "pravartate",
+      "words": [
+       {
+        "w": "pravartate",
+        "gloss": "proceeds",
+        "gram": "3 sg. pres. ātm. pra-√vṛt"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यहाँ श्लोक हैं — इस प्रकार इस लङ्घन-अध्याय में भगवान् ने प्रश्नों के अनुसार वे छह उपक्रम समझाए हैं, जिनसे चिकित्सा प्रवृत्त होती है।",
+  "english": "Here, the verses: Thus in this chapter on lightening the venerable one has expounded, according to the questions, the six measures of treatment by which treatment proceeds.",
+  "text_flags": [],
+  "notes": "asmiṃl laṅghana-: final n of asmin becomes nasalised l before l. The summary names the chapter laṅghanādhyāya. Only one summary verse follows the plural ślokāḥ in this unit.",
+  "confidence": "high"
+ },
+ {
+  "n": "P1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ityagniveśakṛte",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus (closing marker)",
+        "gram": "ind."
+       },
+       {
+        "w": "agniveśa-kṛte",
+        "gloss": "composed by Agniveśa",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tantre",
+      "words": [
+       {
+        "w": "tantre",
+        "gloss": "in the treatise",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "carakapratisaṃskṛte",
+      "words": [
+       {
+        "w": "caraka-pratisaṃskṛte",
+        "gloss": "redacted by Caraka",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ślokasthāne",
+      "words": [
+       {
+        "w": "śloka-sthāne",
+        "gloss": "in the Śloka section (Ślokasthāna)",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "laṅghanabṛṃhaṇīyo",
+      "words": [
+       {
+        "w": "laṅghanabṛṃhaṇīyaḥ",
+        "gloss": "Laṅghanabṛṃhaṇīya",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāma",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "named",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dvāviṃśo'dhyāyaḥ",
+      "words": [
+       {
+        "w": "dvāviṃśaḥ",
+        "gloss": "twenty-second",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "adhyāyaḥ",
+        "gloss": "chapter",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार अग्निवेश द्वारा रचित, चरक द्वारा प्रतिसंस्कृत तन्त्र के श्लोकस्थान में लङ्घनबृंहणीय नामक बाईसवाँ अध्याय।",
+  "english": "Thus, in the treatise composed by Agniveśa and redacted by Caraka, in the Śloka section (Ślokasthāna), the twenty-second chapter named Laṅghanabṛṃhaṇīya.",
+  "text_flags": [],
+  "notes": "Chapter colophon; the Sanskrit has no verb and the translation keeps it verbless.",
+  "confidence": "high"
+ }
+]
