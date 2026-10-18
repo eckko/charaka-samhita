@@ -1,0 +1,4599 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athāto",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now",
+        "gram": "ind."
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yajjaḥpuruṣīyamadhyāyaṃ",
+      "words": [
+       {
+        "w": "yajjaḥpuruṣīyam",
+        "gloss": "on 'born of what is the person' (Yajjaḥpuruṣīya)",
+        "gram": "m. acc. sg., chapter name"
+       },
+       {
+        "w": "adhyāyam",
+        "gloss": "chapter",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyāsyāmaḥ",
+      "words": [
+       {
+        "w": "vyākhyāsyāmaḥ",
+        "gloss": "we shall expound",
+        "gram": "1 pl. fut. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब इसके बाद हम यज्जःपुरुषीय अध्याय की व्याख्या करेंगे।",
+  "english": "Now, therefore, we shall expound the chapter Yajjaḥpuruṣīya ('born of what is the person').",
+  "text_flags": [],
+  "notes": "Prose opening formula of the chapter; the unit is typed as a verse in the input but is a prose line. The chapter name takes up the question of unit 6 (puruṣo yajjaḥ).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.25.1"
+  ],
+  "lines_deva": [
+   "अथातो यज्जःपुरुषीयमध्यायं व्याख्यास्यामः"
+  ],
+  "lines_iast": [
+   "athāto yajjaḥpuruṣīyamadhyāyaṃ vyākhyāsyāmaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ha",
+      "words": [
+       {
+        "w": "ha",
+        "gloss": "indeed (particle)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "smāha",
+      "words": [
+       {
+        "w": "sma",
+        "gloss": "(past particle)",
+        "gram": "ind."
+       },
+       {
+        "w": "āha",
+        "gloss": "said",
+        "gram": "3 sg. pf. √ah"
+       }
+      ]
+     },
+     {
+      "src": "bhagavānātreyaḥ",
+      "words": [
+       {
+        "w": "bhagavān",
+        "gloss": "the venerable",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ātreyaḥ",
+        "gloss": "Ātreya (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ऐसा भगवान् आत्रेय ने कहा।",
+  "english": "Thus said the venerable Ātreya.",
+  "text_flags": [],
+  "notes": "Prose formula; ha and sma are particles, not rendered separately.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.25.2"
+  ],
+  "lines_deva": [
+   "इति ह स्माह भगवानात्रेयः"
+  ],
+  "lines_iast": [
+   "iti ha smāha bhagavānātreyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "purā",
+      "words": [
+       {
+        "w": "purā",
+        "gloss": "long ago",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pratyakṣadharmāṇāṃ",
+      "words": [
+       {
+        "w": "pratyakṣa-dharmāṇām",
+        "gloss": "who had perceived dharma directly",
+        "gram": "m. gen. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "bhagavantaṃ",
+      "words": [
+       {
+        "w": "bhagavantam",
+        "gloss": "the venerable",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "punaravasum",
+      "words": [
+       {
+        "w": "punarvasum",
+        "gloss": "Punarvasu (name)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sametānāṃ",
+      "words": [
+       {
+        "w": "sametānām",
+        "gloss": "assembled around",
+        "gram": "m. gen. pl., ppp. sam-√i"
+       }
+      ]
+     },
+     {
+      "src": "maharṣīṇāṃ",
+      "words": [
+       {
+        "w": "mahā-ṛṣīṇām",
+        "gloss": "of the great sages",
+        "gram": "m. gen. pl., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "prādurāsīdiyaṃ",
+      "words": [
+       {
+        "w": "prāduḥ",
+        "gloss": "manifest",
+        "gram": "ind."
+       },
+       {
+        "w": "āsīt",
+        "gloss": "became, arose",
+        "gram": "3 sg. impf. √as"
+       },
+       {
+        "w": "iyam",
+        "gloss": "this",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kathā",
+      "words": [
+       {
+        "w": "kathā",
+        "gloss": "discussion",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्राचीन काल में, धर्म का प्रत्यक्ष दर्शन करने वाले जो महर्षि भगवान् पुनर्वसु के पास एकत्र हुए थे, उनके बीच यह चर्चा उठी—",
+  "english": "Long ago, among the great sages who had perceived dharma directly and had assembled around the venerable Punarvasu, this discussion arose",
+  "text_flags": [
+   {
+    "src": "punaravasum",
+    "suggest": "punarvasum",
+    "why": "the name is printed punarvasuḥ in units 6 and 26 of this chunk; punaravasum gives 9 syllables in the pāda, punarvasum the required 8"
+   }
+  ],
+  "notes": "The sentence continues in unit 4. sametānām with the accusative bhagavantam: 'gathered around (him)'. The genitives are rendered 'among'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.25.3a",
+   "01.25.3b"
+  ],
+  "lines_deva": [
+   "पुरा प्रत्यक्षधर्माणां भगवन्तं पुनरवसुम्",
+   "समेतानां महर्षीणां प्रादुरासीदियं कथा"
+  ],
+  "lines_iast": [
+   "purā pratyakṣadharmāṇāṃ bhagavantaṃ punaravasum",
+   "sametānāṃ maharṣīṇāṃ prādurāsīdiyaṃ kathā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ātmendriyamanorthānāṃ",
+      "words": [
+       {
+        "w": "ātma-indriya-manas-arthānām",
+        "gloss": "of self, senses, mind and objects",
+        "gram": "m. gen. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "yo'yaṃ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ayam",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "puruṣasaṃjñakaḥ",
+      "words": [
+       {
+        "w": "puruṣa-saṃjñakaḥ",
+        "gloss": "called the person",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "rāśirasyāmayānāṃ",
+      "words": [
+       {
+        "w": "rāśiḥ",
+        "gloss": "aggregate",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "asya",
+        "gloss": "its",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "āmayānām",
+        "gloss": "of the diseases",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prāgutpattivinścaye",
+      "words": [
+       {
+        "w": "prāk-utpatti-viniścaye",
+        "gloss": "in determining the prior origin",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "—आत्मा, इन्द्रियों, मन और अर्थों का यह जो पुरुष नामक राशि है, उसकी और उसके रोगों की पूर्व उत्पत्ति के निर्णय के विषय में।",
+  "english": "concerning the determination of the prior origin of this aggregate of self, senses, mind and sense-objects which is called the person (puruṣa), and of its diseases.",
+  "text_flags": [
+   {
+    "src": "prāgutpattivinścaye",
+    "suggest": "prāgutpattiviniścaye",
+    "why": "vinścaye is not a word; viniścaye 'in determining' fits the sense, and the pāda then has 8 syllables instead of 7"
+   }
+  ],
+  "notes": "Continues the sentence of unit 3. manorthānām = mano'rthānām (avagraha not printed). The relative clause (yo 'yaṃ ... rāśiḥ) stands for the genitive 'of this aggregate'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.25.4a",
+   "01.25.4b"
+  ],
+  "lines_deva": [
+   "आत्मेन्द्रियमनोर्थानां योऽयं पुरुषसंज्ञकः",
+   "राशिरस्यामयानां च प्रागुत्पत्तिविन्श्चये"
+  ],
+  "lines_iast": [
+   "ātmendriyamanorthānāṃ yo'yaṃ puruṣasaṃjñakaḥ",
+   "rāśirasyāmayānāṃ ca prāgutpattivinścaye"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tadantaraṃ",
+      "words": [
+       {
+        "w": "tat-antaram",
+        "gloss": "thereupon",
+        "gram": "ind. (adv. n. acc. sg.)"
+       }
+      ]
+     },
+     {
+      "src": "kāśipatirvāmako",
+      "words": [
+       {
+        "w": "kāśi-patiḥ",
+        "gloss": "lord of Kāśi",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "vāmakaḥ",
+        "gloss": "Vāmaka (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vākyamarthavit",
+      "words": [
+       {
+        "w": "vākyam",
+        "gloss": "words",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "artha-vit",
+        "gloss": "knower of meaning",
+        "gram": "m. nom. sg., upapada"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vyājahārarṣisamitimupasṛtyābhivādya",
+      "words": [
+       {
+        "w": "vyājahāra",
+        "gloss": "uttered",
+        "gram": "3 sg. pf. vi-ā-√hṛ"
+       },
+       {
+        "w": "ṛṣi-samitim",
+        "gloss": "the assembly of sages",
+        "gram": "f. acc. sg., tat-puruṣa"
+       },
+       {
+        "w": "upasṛtya",
+        "gloss": "having approached",
+        "gram": "abs. upa-√sṛ"
+       },
+       {
+        "w": "abhivādya",
+        "gloss": "having saluted",
+        "gram": "abs. caus. abhi-√vad"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब काशी के स्वामी, अर्थ के ज्ञाता वामक ने ऋषियों की सभा के पास जाकर और अभिवादन करके यह वचन कहा—",
+  "english": "Thereupon Vāmaka, lord of Kāśi, a knower of meaning, having approached the assembly of sages and saluted it, uttered these words:",
+  "text_flags": [],
+  "notes": "tadantaram taken as an adverb, 'thereupon' (literally 'in that interval').",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.25.5a",
+   "01.25.5b"
+  ],
+  "lines_deva": [
+   "तदन्तरं काशिपतिर्वामको वाक्यमर्थवित्",
+   "व्याजहारर्षिसमितिमुपसृत्याभिवाद्य च"
+  ],
+  "lines_iast": [
+   "tadantaraṃ kāśipatirvāmako vākyamarthavit",
+   "vyājahārarṣisamitimupasṛtyābhivādya ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kinnu",
+      "words": [
+       {
+        "w": "kim",
+        "gloss": "whether",
+        "gram": "ind. (interrogative)"
+       },
+       {
+        "w": "nu",
+        "gloss": "pray",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhoḥ",
+      "words": [
+       {
+        "w": "bhoḥ",
+        "gloss": "sirs",
+        "gram": "ind. (vocative particle)"
+       }
+      ]
+     },
+     {
+      "src": "puruṣo",
+      "words": [
+       {
+        "w": "puruṣaḥ",
+        "gloss": "the person",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yajjastajjāstasyāmayāḥ",
+      "words": [
+       {
+        "w": "yat-jaḥ",
+        "gloss": "born of which",
+        "gram": "m. nom. sg., upapada"
+       },
+       {
+        "w": "tat-jāḥ",
+        "gloss": "born of that",
+        "gram": "m. nom. pl., upapada"
+       },
+       {
+        "w": "tasya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "āmayāḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "smṛtāḥ",
+      "words": [
+       {
+        "w": "smṛtāḥ",
+        "gloss": "are held",
+        "gram": "m. nom. pl., ppp. √smṛ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vetyukte",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "ukte",
+        "gloss": "when it was said",
+        "gram": "n. loc. sg., ppp. √vac"
+       }
+      ]
+     },
+     {
+      "src": "narendreṇa",
+      "words": [
+       {
+        "w": "nara-indreṇa",
+        "gloss": "by the king",
+        "gram": "m. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "provācarṣīn",
+      "words": [
+       {
+        "w": "provāca",
+        "gloss": "spoke",
+        "gram": "3 sg. pf. pra-√vac"
+       },
+       {
+        "w": "ṛṣīn",
+        "gloss": "to the sages",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "punarvasuḥ",
+      "words": [
+       {
+        "w": "punarvasuḥ",
+        "gloss": "Punarvasu (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "'हे सज्जनो, क्या पुरुष जिससे उत्पन्न होता है, उसके रोग उससे उत्पन्न माने गए हैं, या नहीं?' राजा के ऐसा कहने पर पुनर्वसु ने ऋषियों से कहा—",
+  "english": "'Sirs, are the diseases of the person held to be born of that of which the person is born, or not?' When the king had said this, Punarvasu spoke to the sages:",
+  "text_flags": [],
+  "notes": "ukte narendreṇa is a locative absolute.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.25.6a",
+   "01.25.6b"
+  ],
+  "lines_deva": [
+   "किन्नु भोः पुरुषो यज्जस्तज्जास्तस्यामयाः स्मृताः",
+   "न वेत्युक्ते नरेन्द्रेण प्रोवाचर्षीन् पुनर्वसुः"
+  ],
+  "lines_iast": [
+   "kinnu bhoḥ puruṣo yajjastajjāstasyāmayāḥ smṛtāḥ",
+   "na vetyukte narendreṇa provācarṣīn punarvasuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sarva",
+      "words": [
+       {
+        "w": "sarve",
+        "gloss": "all",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "evāmitajñānavijñānacchinnasaṃśayāḥ",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "amita-jñāna-vijñāna-chinna-saṃśayāḥ",
+        "gloss": "whose doubts are cut by boundless knowledge and specialised knowledge",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bhavantacchettumarhanti",
+      "words": [
+       {
+        "w": "bhavantaḥ",
+        "gloss": "you (sirs)",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "chettum",
+        "gloss": "to cut",
+        "gram": "inf. √chid"
+       },
+       {
+        "w": "arhanti",
+        "gloss": "are able",
+        "gram": "3 pl. pres. √arh"
+       }
+      ]
+     },
+     {
+      "src": "kāśirājasya",
+      "words": [
+       {
+        "w": "kāśi-rājasya",
+        "gloss": "of the king of Kāśi",
+        "gram": "m. gen. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "saṃśayam",
+      "words": [
+       {
+        "w": "saṃśayam",
+        "gloss": "doubt",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आप सब, जिनके संशय असीम ज्ञान और विज्ञान से कट चुके हैं, काशिराज के संशय को काटने में समर्थ हैं।",
+  "english": "All of you, whose doubts have been cut away by boundless knowledge and specialised knowledge (vijñāna), are able to cut away the doubt of the king of Kāśi.",
+  "text_flags": [
+   {
+    "src": "bhavantacchettumarhanti",
+    "suggest": "bhavantaśchettumarhanti",
+    "why": "visarga of bhavantaḥ before ch becomes ś (grammar); printed -ac- is not a possible sandhi"
+   }
+  ],
+  "notes": "sarva evā- = sarve eva (e before a vowel becomes a). bhavantac-chettum = bhavantaḥ chettum. Spoken by Punarvasu (unit 6).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.25.7a",
+   "01.25.7b"
+  ],
+  "lines_deva": [
+   "सर्व एवामितज्ञानविज्ञानच्छिन्नसंशयाः",
+   "भवन्तच्छेत्तुमर्हन्ति काशिराजस्य संशयम्"
+  ],
+  "lines_iast": [
+   "sarva evāmitajñānavijñānacchinnasaṃśayāḥ",
+   "bhavantacchettumarhanti kāśirājasya saṃśayam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pārīkṣistatparīkṣyāgre",
+      "words": [
+       {
+        "w": "pārīkṣiḥ",
+        "gloss": "Pārīkṣi (name)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "parīkṣya",
+        "gloss": "having examined",
+        "gram": "abs. pari-√īkṣ"
+       },
+       {
+        "w": "agre",
+        "gloss": "first",
+        "gram": "ind. (loc. sg.)"
+       }
+      ]
+     },
+     {
+      "src": "maudgalyo",
+      "words": [
+       {
+        "w": "maudgalyaḥ",
+        "gloss": "Maudgalya (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vākyamabravīt",
+      "words": [
+       {
+        "w": "vākyam",
+        "gloss": "words",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "abravīt",
+        "gloss": "spoke",
+        "gram": "3 sg. impf. √brū"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ātmajaḥ",
+      "words": [
+       {
+        "w": "ātma-jaḥ",
+        "gloss": "born of the self",
+        "gram": "m. nom. sg., upapada"
+       }
+      ]
+     },
+     {
+      "src": "puruṣo",
+      "words": [
+       {
+        "w": "puruṣaḥ",
+        "gloss": "the person",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rogāścātmajāḥ",
+      "words": [
+       {
+        "w": "rogāḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ātma-jāḥ",
+        "gloss": "born of the self",
+        "gram": "m. nom. pl., upapada"
+       }
+      ]
+     },
+     {
+      "src": "kāraṇaṃ",
+      "words": [
+       {
+        "w": "kāraṇam",
+        "gloss": "cause",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saḥ",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "it (the self)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पारीक्षि मौद्गल्य ने उस पर पहले विचार करके यह वचन कहा— 'पुरुष आत्मा से उत्पन्न है और रोग आत्मा से उत्पन्न हैं, क्योंकि वह (आत्मा) कारण है।'",
+  "english": "Pārīkṣi Maudgalya, having first examined it, spoke these words: 'The person is born of the self (ātman), and the diseases are born of the self; for it is the cause.'",
+  "text_flags": [],
+  "notes": "Pārīkṣi Maudgalya taken as one person (name and patronymic) because of the singular verb abravīt.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.25.8a",
+   "01.25.8b"
+  ],
+  "lines_deva": [
+   "पारीक्षिस्तत्परीक्ष्याग्रे मौद्गल्यो वाक्यमब्रवीत्",
+   "आत्मजः पुरुषो रोगाश्चात्मजाः कारणं हि सः"
+  ],
+  "lines_iast": [
+   "pārīkṣistatparīkṣyāgre maudgalyo vākyamabravīt",
+   "ātmajaḥ puruṣo rogāścātmajāḥ kāraṇaṃ hi saḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "it (the self)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "cinotyupabhuṅkte",
+      "words": [
+       {
+        "w": "cinoti",
+        "gloss": "accumulates",
+        "gram": "3 sg. pres. √ci"
+       },
+       {
+        "w": "upabhuṅkte",
+        "gloss": "experiences",
+        "gram": "3 sg. pres. mid. upa-√bhuj"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "karma",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "action",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "karmaphalāni",
+      "words": [
+       {
+        "w": "karma-phalāni",
+        "gloss": "fruits of action",
+        "gram": "n. acc. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "nahyṛte",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       },
+       {
+        "w": "ṛte",
+        "gloss": "without",
+        "gram": "ind. (+ abl.)"
+       }
+      ]
+     },
+     {
+      "src": "cetanādhātoḥ",
+      "words": [
+       {
+        "w": "cetanā-dhātoḥ",
+        "gloss": "the conscious element",
+        "gram": "m. abl. sg., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "pravṛttiḥ",
+      "words": [
+       {
+        "w": "pravṛttiḥ",
+        "gloss": "occurrence",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sukhaduḥkhayoḥ",
+      "words": [
+       {
+        "w": "sukha-duḥkhayoḥ",
+        "gloss": "of pleasure and pain",
+        "gram": "n. gen. du., dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह कर्म का संचय करता है और कर्मफलों का भोग करता है; क्योंकि चेतना-धातु के बिना सुख और दुःख की प्रवृत्ति नहीं होती।",
+  "english": "It accumulates action (karma) and experiences the fruits of action; for without the conscious element (cetanādhātu) there is no occurrence of pleasure and pain.",
+  "text_flags": [],
+  "notes": "Continues Maudgalya's view. The two verbs and two objects are taken pairwise (accumulates action, experiences its fruits).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.25.9a",
+   "01.25.9b"
+  ],
+  "lines_deva": [
+   "स चिनोत्युपभुङ्क्ते च कर्म कर्मफलानि च",
+   "नह्यृते चेतनाधातोः प्रवृत्तिः सुखदुःखयोः"
+  ],
+  "lines_iast": [
+   "sa cinotyupabhuṅkte ca karma karmaphalāni ca",
+   "nahyṛte cetanādhātoḥ pravṛttiḥ sukhaduḥkhayoḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śaralomā",
+      "words": [
+       {
+        "w": "śaralomā",
+        "gloss": "Śaraloman (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "netyāha",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not (so)",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "āha",
+        "gloss": "said",
+        "gram": "3 sg. pf. √ah"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hyātmātmānamātmanā",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       },
+       {
+        "w": "ātmā",
+        "gloss": "the self",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ātmānam",
+        "gloss": "itself",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ātmanā",
+        "gloss": "by itself",
+        "gram": "m. inst. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yojayedvyādhibhirduḥkhairduḥkhadveṣī",
+      "words": [
+       {
+        "w": "yojayet",
+        "gloss": "would join",
+        "gram": "3 sg. opt. caus. √yuj"
+       },
+       {
+        "w": "vyādhibhiḥ",
+        "gloss": "with diseases",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "duḥkhaiḥ",
+        "gloss": "sorrows",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "duḥkha-dveṣī",
+        "gloss": "hating sorrow",
+        "gram": "m. nom. sg., upapada"
+       }
+      ]
+     },
+     {
+      "src": "kadācana",
+      "words": [
+       {
+        "w": "kadācana",
+        "gloss": "ever (with na: never)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "परन्तु शरलोमा ने कहा— 'नहीं; क्योंकि दुःख से द्वेष करने वाला आत्मा स्वयं अपने को दुःखरूप व्याधियों से कभी नहीं जोड़ेगा।'",
+  "english": "But Śaraloman said 'No': for the self, which hates sorrow, would never by itself join itself with diseases, which are sorrows.",
+  "text_flags": [],
+  "notes": "duḥkhaiḥ is taken in apposition to vyādhibhiḥ ('with diseases, [that is,] sorrows').",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.25.10a",
+   "01.25.10b"
+  ],
+  "lines_deva": [
+   "शरलोमा तु नेत्याह न ह्यात्मात्मानमात्मना",
+   "योजयेद्व्याधिभिर्दुःखैर्दुःखद्वेषी कदाचन"
+  ],
+  "lines_iast": [
+   "śaralomā tu netyāha na hyātmātmānamātmanā",
+   "yojayedvyādhibhirduḥkhairduḥkhadveṣī kadācana"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rajastamobhyāṃ",
+      "words": [
+       {
+        "w": "rajas-tamobhyām",
+        "gloss": "by rajas and tamas",
+        "gram": "n. inst. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "manaḥ",
+      "words": [
+       {
+        "w": "manaḥ",
+        "gloss": "the mind",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "parītaṃ",
+      "words": [
+       {
+        "w": "parītam",
+        "gloss": "pervaded",
+        "gram": "n. nom. sg., ppp. pari-√i"
+       }
+      ]
+     },
+     {
+      "src": "sattvasaṃjñakam",
+      "words": [
+       {
+        "w": "sattva-saṃjñakam",
+        "gloss": "called sattva",
+        "gram": "n. nom. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śarīrasya",
+      "words": [
+       {
+        "w": "śarīrasya",
+        "gloss": "of the body",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "samutpattau",
+      "words": [
+       {
+        "w": "samutpattau",
+        "gloss": "in the origin",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vikārāṇāṃ",
+      "words": [
+       {
+        "w": "vikārāṇām",
+        "gloss": "of disorders",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kāraṇam",
+      "words": [
+       {
+        "w": "kāraṇam",
+        "gloss": "the cause",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु रजस् और तमस् से व्याप्त, सत्त्व नामक मन शरीर की और विकारों की उत्पत्ति में कारण है।",
+  "english": "Rather, the mind, called sattva, pervaded by rajas and tamas, is the cause in the origin of the body and of disorders.",
+  "text_flags": [],
+  "notes": "Continues Śaraloman's view (unit 10). The locative samutpattau is taken with both genitives (śarīrasya, vikārāṇām).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.25.11a",
+   "01.25.11b"
+  ],
+  "lines_deva": [
+   "रजस्तमोभ्यां तु मनः परीतं सत्त्वसंज्ञकम्",
+   "शरीरस्य समुत्पत्तौ विकाराणां च कारणम्"
+  ],
+  "lines_iast": [
+   "rajastamobhyāṃ tu manaḥ parītaṃ sattvasaṃjñakam",
+   "śarīrasya samutpattau vikārāṇāṃ ca kāraṇam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vāryovidastu",
+      "words": [
+       {
+        "w": "vāryovidaḥ",
+        "gloss": "Vāryovida (name)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "netyāha",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not (so)",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "āha",
+        "gloss": "said",
+        "gram": "3 sg. pf. √ah"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hyekaṃ",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       },
+       {
+        "w": "ekam",
+        "gloss": "alone",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāraṇaṃ",
+      "words": [
+       {
+        "w": "kāraṇam",
+        "gloss": "cause",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "manaḥ",
+      "words": [
+       {
+        "w": "manaḥ",
+        "gloss": "the mind",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "narte",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "ṛte",
+        "gloss": "without",
+        "gram": "ind. (+ abl.)"
+       }
+      ]
+     },
+     {
+      "src": "śarīrācchārīrarogā",
+      "words": [
+       {
+        "w": "śarīrāt",
+        "gloss": "the body",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "śārīra-rogāḥ",
+        "gloss": "bodily diseases",
+        "gram": "m. nom. pl., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "nor",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "manasaḥ",
+      "words": [
+       {
+        "w": "manasaḥ",
+        "gloss": "of the mind",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthitiḥ",
+      "words": [
+       {
+        "w": "sthitiḥ",
+        "gloss": "abiding",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वार्योविद ने कहा— 'नहीं; क्योंकि अकेला मन कारण नहीं है। शरीर के बिना न शारीरिक रोग होते हैं, न मन की स्थिति होती है।'",
+  "english": "But Vāryovida said 'No': for the mind alone is not the cause; without the body there are no bodily diseases, nor any abiding of the mind.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.25.12a",
+   "01.25.12b"
+  ],
+  "lines_deva": [
+   "वार्योविदस्तु नेत्याह न ह्येकं कारणं मनः",
+   "नर्ते शरीराच्छारीररोगा न मनसः स्थितिः"
+  ],
+  "lines_iast": [
+   "vāryovidastu netyāha na hyekaṃ kāraṇaṃ manaḥ",
+   "narte śarīrācchārīrarogā na manasaḥ sthitiḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rasajāni",
+      "words": [
+       {
+        "w": "rasa-jāni",
+        "gloss": "born of rasa",
+        "gram": "n. nom. pl., upapada"
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhūtāni",
+      "words": [
+       {
+        "w": "bhūtāni",
+        "gloss": "beings",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vyādhayaśca",
+      "words": [
+       {
+        "w": "vyādhayaḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pṛthagvidhāḥ",
+      "words": [
+       {
+        "w": "pṛthak-vidhāḥ",
+        "gloss": "of various kinds",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "āpo",
+      "words": [
+       {
+        "w": "āpaḥ",
+        "gloss": "waters",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rasavatyastāḥ",
+      "words": [
+       {
+        "w": "rasavatyaḥ",
+        "gloss": "possessing rasa",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "tāḥ",
+        "gloss": "those",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "smṛtā",
+      "words": [
+       {
+        "w": "smṛtāḥ",
+        "gloss": "are held",
+        "gram": "f. nom. pl., ppp. √smṛ"
+       }
+      ]
+     },
+     {
+      "src": "nirvṛittihetavaḥ",
+      "words": [
+       {
+        "w": "nirvṛtti-hetavaḥ",
+        "gloss": "causes of coming into being",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु प्राणी और नाना प्रकार की व्याधियाँ रस से उत्पन्न होते हैं; क्योंकि रस वाले वे जल उत्पत्ति के कारण माने गए हैं।",
+  "english": "Rather, beings are born of rasa, and so are diseases of various kinds; for the waters, those possessing rasa, are held to be the causes of their coming into being.",
+  "text_flags": [
+   {
+    "src": "nirvṛittihetavaḥ",
+    "suggest": "nirvṛttihetavaḥ",
+    "why": "the printed form has a stray i after ṛ (Devanagari निर्वृइत्ति), which is not a possible spelling; nirvṛtti 'coming into being' fits the sense, and the pāda then has 8 syllables instead of 9"
+   }
+  ],
+  "notes": "Continues Vāryovida's view (unit 12). rasa is left as rasa; the line does not decide between 'fluid' and 'taste'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.25.13a",
+   "01.25.13b"
+  ],
+  "lines_deva": [
+   "रसजानि तु भूतानि व्याधयश्च पृथग्विधाः",
+   "आपो हि रसवत्यस्ताः स्मृता निर्वृइत्तिहेतवः"
+  ],
+  "lines_iast": [
+   "rasajāni tu bhūtāni vyādhayaśca pṛthagvidhāḥ",
+   "āpo hi rasavatyastāḥ smṛtā nirvṛittihetavaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "hiraṇyākṣastu",
+      "words": [
+       {
+        "w": "hiraṇyākṣaḥ",
+        "gloss": "Hiraṇyākṣa (name)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "netyāha",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not (so)",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "āha",
+        "gloss": "said",
+        "gram": "3 sg. pf. √ah"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hyātmā",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       },
+       {
+        "w": "ātmā",
+        "gloss": "the self",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rasajaḥ",
+      "words": [
+       {
+        "w": "rasa-jaḥ",
+        "gloss": "born of rasa",
+        "gram": "m. nom. sg., upapada"
+       }
+      ]
+     },
+     {
+      "src": "smṛtaḥ",
+      "words": [
+       {
+        "w": "smṛtaḥ",
+        "gloss": "is held",
+        "gram": "m. nom. sg., ppp. √smṛ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "nātīndriyaṃ",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "nor",
+        "gram": "ind."
+       },
+       {
+        "w": "atīndriyam",
+        "gloss": "beyond the senses",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "manaḥ",
+      "words": [
+       {
+        "w": "manaḥ",
+        "gloss": "the mind",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "santi",
+      "words": [
+       {
+        "w": "santi",
+        "gloss": "there are",
+        "gram": "3 pl. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "rogāḥ",
+      "words": [
+       {
+        "w": "rogāḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śabdādijāstathā",
+      "words": [
+       {
+        "w": "śabda-ādi-jāḥ",
+        "gloss": "born of sound and the rest",
+        "gram": "m. nom. pl., upapada"
+       },
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हिरण्याक्ष ने कहा— 'नहीं; क्योंकि आत्मा रस से उत्पन्न नहीं माना गया है, न इन्द्रियों से परे मन; और इसी प्रकार शब्द आदि से उत्पन्न रोग होते हैं।'",
+  "english": "But Hiraṇyākṣa said 'No': for the self is not held to be born of rasa, nor is the mind, which is beyond the senses; and likewise there are diseases born of sound and the rest.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.25.14a",
+   "01.25.14b"
+  ],
+  "lines_deva": [
+   "हिरण्याक्षस्तु नेत्याह न ह्यात्मा रसजः स्मृतः",
+   "नातीन्द्रियं मनः सन्ति रोगाः शब्दादिजास्तथा"
+  ],
+  "lines_iast": [
+   "hiraṇyākṣastu netyāha na hyātmā rasajaḥ smṛtaḥ",
+   "nātīndriyaṃ manaḥ santi rogāḥ śabdādijāstathā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ṣaṭdhātujastu",
+      "words": [
+       {
+        "w": "ṣaṭ-dhātu-jaḥ",
+        "gloss": "born of six dhātus",
+        "gram": "m. nom. sg., upapada"
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "puruṣo",
+      "words": [
+       {
+        "w": "puruṣaḥ",
+        "gloss": "the person",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rogāḥ",
+      "words": [
+       {
+        "w": "rogāḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ṣaṭdhātujāstathā",
+      "words": [
+       {
+        "w": "ṣaṭ-dhātu-jāḥ",
+        "gloss": "born of six dhātus",
+        "gram": "m. nom. pl., upapada"
+       },
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "rāśiḥ",
+      "words": [
+       {
+        "w": "rāśiḥ",
+        "gloss": "aggregate",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṣaḍdhātujo",
+      "words": [
+       {
+        "w": "ṣaṭ-dhātu-jaḥ",
+        "gloss": "born of six dhātus",
+        "gram": "m. nom. sg., upapada"
+       }
+      ]
+     },
+     {
+      "src": "hyeṣa",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       },
+       {
+        "w": "eṣaḥ",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sāṃkhyairādyaiḥ",
+      "words": [
+       {
+        "w": "sāṃkhyaiḥ",
+        "gloss": "by the Sāṃkhyas",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "ādyaiḥ",
+        "gloss": "early",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "prakīrtitaḥ",
+      "words": [
+       {
+        "w": "prakīrtitaḥ",
+        "gloss": "proclaimed",
+        "gram": "m. nom. sg., ppp. pra-√kīrt"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु पुरुष छह धातुओं से उत्पन्न है, तथा रोग छह धातुओं से उत्पन्न हैं; क्योंकि प्राचीन सांख्यों ने इस राशि को छह धातुओं से उत्पन्न बताया है।",
+  "english": "Rather, the person is born of six dhātus, and the diseases likewise are born of six dhātus; for this aggregate has been proclaimed by the early Sāṃkhyas to be born of six dhātus.",
+  "text_flags": [
+   {
+    "src": "ṣaṭdhātujastu",
+    "suggest": "ṣaḍdhātujastu",
+    "why": "before the voiced dh the ṭ of ṣaṭ becomes ḍ; line 2 of the same unit prints ṣaḍdhātujo"
+   },
+   {
+    "src": "ṣaṭdhātujāstathā",
+    "suggest": "ṣaḍdhātujāstathā",
+    "why": "same sandhi error as ṣaṭdhātujastu; line 2 of the unit prints ṣaḍdhātujo"
+   }
+  ],
+  "notes": "The speaker is not named in this unit; unit 16 calls the one speaking thus Kuśika. The six dhātus are not listed in the unit.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.25.15a",
+   "01.25.15b"
+  ],
+  "lines_deva": [
+   "षट्धातुजस्तु पुरुषो रोगाः षट्धातुजास्तथा",
+   "राशिः षड्धातुजो ह्येष सांख्यैराद्यैः प्रकीर्तितः"
+  ],
+  "lines_iast": [
+   "ṣaṭdhātujastu puruṣo rogāḥ ṣaṭdhātujāstathā",
+   "rāśiḥ ṣaḍdhātujo hyeṣa sāṃkhyairādyaiḥ prakīrtitaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bruvāṇaṃ",
+      "words": [
+       {
+        "w": "bruvāṇam",
+        "gloss": "speaking",
+        "gram": "m. acc. sg., pres. part. mid. √brū"
+       }
+      ]
+     },
+     {
+      "src": "kuśikamāha",
+      "words": [
+       {
+        "w": "kuśikam",
+        "gloss": "Kuśika (name)",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āha",
+        "gloss": "said",
+        "gram": "3 sg. pf. √ah"
+       }
+      ]
+     },
+     {
+      "src": "tanneti",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kauṣikaḥ",
+      "words": [
+       {
+        "w": "kauṣikaḥ",
+        "gloss": "Kauṣika (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kasamānmātāpitṛbhyāṃ",
+      "words": [
+       {
+        "w": "kasmāt",
+        "gloss": "how",
+        "gram": "ind. (abl. sg. of kim)"
+       },
+       {
+        "w": "mātā-pitṛbhyām",
+        "gloss": "mother and father",
+        "gram": "m. abl. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vinā",
+      "words": [
+       {
+        "w": "vinā",
+        "gloss": "without",
+        "gram": "ind. (+ abl.)"
+       }
+      ]
+     },
+     {
+      "src": "ṣaḍdhātujo",
+      "words": [
+       {
+        "w": "ṣaṭ-dhātu-jaḥ",
+        "gloss": "one born of six dhātus",
+        "gram": "m. nom. sg., upapada"
+       }
+      ]
+     },
+     {
+      "src": "bhavet",
+      "words": [
+       {
+        "w": "bhavet",
+        "gloss": "could come into being",
+        "gram": "3 sg. opt. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ऐसा कहते हुए कुशिक से कौषिक ने कहा— 'वह ठीक नहीं; माता-पिता के बिना छह धातुओं से उत्पन्न (पुरुष) भला कैसे होगा?'",
+  "english": "To Kuśika, speaking thus, Kauṣika said 'That is not so: how indeed could one born of six dhātus come into being without mother and father?'",
+  "text_flags": [
+   {
+    "src": "kasamānmātāpitṛbhyāṃ",
+    "suggest": "kasmānmātāpitṛbhyāṃ",
+    "why": "kasamān is not a form; kasmāt (kasmān before m) 'how, why' fits the question, and the pāda then has 8 syllables instead of 9"
+   }
+  ],
+  "notes": "kuśikam names the speaker of the view in unit 15. hi here is taken as emphatic in a question. Name kept as printed (kauṣikaḥ); the same line names the other speaker Kuśika (kuśikam).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.25.16a",
+   "01.25.16b"
+  ],
+  "lines_deva": [
+   "तथा ब्रुवाणं कुशिकमाह तन्नेति कौषिकः",
+   "कसमान्मातापितृभ्यां हि विना षड्धातुजो भवेत्"
+  ],
+  "lines_iast": [
+   "tathā bruvāṇaṃ kuśikamāha tanneti kauṣikaḥ",
+   "kasamānmātāpitṛbhyāṃ hi vinā ṣaḍdhātujo bhavet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "puruṣaḥ",
+      "words": [
+       {
+        "w": "puruṣaḥ",
+        "gloss": "man",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "puruṣādgaurgoraśvādaśvaḥ",
+      "words": [
+       {
+        "w": "puruṣāt",
+        "gloss": "from man",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "gauḥ",
+        "gloss": "a cow",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "goḥ",
+        "gloss": "from a cow",
+        "gram": "f. abl. sg."
+       },
+       {
+        "w": "aśvāt",
+        "gloss": "from a horse",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "aśvaḥ",
+        "gloss": "a horse",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prajāyate",
+      "words": [
+       {
+        "w": "prajāyate",
+        "gloss": "is born",
+        "gram": "3 sg. pres. pra-√jan"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pitryā",
+      "words": [
+       {
+        "w": "pitryāḥ",
+        "gloss": "hereditary",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mehādayaścoktā",
+      "words": [
+       {
+        "w": "meha-ādayaḥ",
+        "gloss": "meha and the rest",
+        "gram": "m. nom. pl., bahuvrīhi"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "uktāḥ",
+        "gloss": "are spoken of",
+        "gram": "m. nom. pl., ppp. √vac"
+       }
+      ]
+     },
+     {
+      "src": "rogāstāvatra",
+      "words": [
+       {
+        "w": "rogāḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "tau",
+        "gloss": "those two",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "atra",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kāraṇam",
+      "words": [
+       {
+        "w": "kāraṇam",
+        "gloss": "the cause",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मनुष्य से मनुष्य, गाय से गाय और घोड़े से घोड़ा उत्पन्न होता है; और मेह आदि रोग पैतृक कहे गए हैं; यहाँ वे दोनों (माता-पिता) कारण हैं।",
+  "english": "Man is born from man, a cow from a cow, a horse from a horse; and diseases such as meha are spoken of as hereditary; those two (mother and father) are the cause here.",
+  "text_flags": [],
+  "notes": "Continues Kauṣika's view (unit 16). pitrya, literally 'coming from the fathers (ancestors)'. tau refers to the mother and father of unit 16. gauḥ may be m. or f.; taken as 'cow'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.25.17a",
+   "01.25.17b"
+  ],
+  "lines_deva": [
+   "पुरुषः पुरुषाद्गौर्गोरश्वादश्वः प्रजायते",
+   "पित्र्या मेहादयश्चोक्ता रोगास्तावत्र कारणम्"
+  ],
+  "lines_iast": [
+   "puruṣaḥ puruṣādgaurgoraśvādaśvaḥ prajāyate",
+   "pitryā mehādayaścoktā rogāstāvatra kāraṇam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhadrakāpyastu",
+      "words": [
+       {
+        "w": "bhadrakāpyaḥ",
+        "gloss": "Bhadrakāpya (name)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "netyāha",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not (so)",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "āha",
+        "gloss": "said",
+        "gram": "3 sg. pf. √ah"
+       }
+      ]
+     },
+     {
+      "src": "nahyandho'ndhāt",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       },
+       {
+        "w": "andhaḥ",
+        "gloss": "a blind man",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "andhāt",
+        "gloss": "from a blind man",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "prajāyate",
+      "words": [
+       {
+        "w": "prajāyate",
+        "gloss": "is born",
+        "gram": "3 sg. pres. pra-√jan"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mātāpitrorapi",
+      "words": [
+       {
+        "w": "mātā-pitroḥ",
+        "gloss": "in mother and father",
+        "gram": "m. loc. du., dvandva"
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "for you",
+        "gram": "dat./gen. sg. (enclitic of tvam)"
+       }
+      ]
+     },
+     {
+      "src": "prāgutpattirna",
+      "words": [
+       {
+        "w": "prāk-utpattiḥ",
+        "gloss": "prior origin",
+        "gram": "f. nom. sg., karmadhāraya"
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yujyate",
+      "words": [
+       {
+        "w": "yujyate",
+        "gloss": "is tenable",
+        "gram": "3 sg. pres. pass. √yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "भद्रकाप्य ने कहा— 'नहीं; क्योंकि अन्धे से अन्धा उत्पन्न नहीं होता; और तुम्हारे मत में माता-पिता में भी पूर्व उत्पत्ति युक्तिसंगत नहीं है।'",
+  "english": "But Bhadrakāpya said 'No': for a blind man is not born from a blind man; and, for you, a prior origin in the mother and father too is not tenable.",
+  "text_flags": [],
+  "notes": "te is taken as the enclitic of tvam ('for you', addressed to Kauśika); a reading as m. nom. pl. 'they' finds no plural predicate in the line. mātāpitroḥ may be genitive or locative dual. The exact point of line 2 is not fully clear from the wording.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.25.18a",
+   "01.25.18b"
+  ],
+  "lines_deva": [
+   "भद्रकाप्यस्तु नेत्याह नह्यन्धोऽन्धात् प्रजायते",
+   "मातापित्रोरपि च ते प्रागुत्पत्तिर्न युज्यते"
+  ],
+  "lines_iast": [
+   "bhadrakāpyastu netyāha nahyandho'ndhāt prajāyate",
+   "mātāpitrorapi ca te prāgutpattirna yujyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "karmajastu",
+      "words": [
+       {
+        "w": "karma-jaḥ",
+        "gloss": "born of action",
+        "gram": "m. nom. sg., upapada"
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mato",
+      "words": [
+       {
+        "w": "mataḥ",
+        "gloss": "is held",
+        "gram": "m. nom. sg., ppp. √man"
+       }
+      ]
+     },
+     {
+      "src": "jantuḥ",
+      "words": [
+       {
+        "w": "jantuḥ",
+        "gloss": "the person",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "karmajāstasya",
+      "words": [
+       {
+        "w": "karma-jāḥ",
+        "gloss": "born of action",
+        "gram": "m. nom. pl., upapada"
+       },
+       {
+        "w": "tasya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "cāmayāḥ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "āmayāḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "nahṛte",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       },
+       {
+        "w": "ṛte",
+        "gloss": "without",
+        "gram": "ind. (+ abl.)"
+       }
+      ]
+     },
+     {
+      "src": "karmaṇo",
+      "words": [
+       {
+        "w": "karmaṇaḥ",
+        "gloss": "action",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "janma",
+      "words": [
+       {
+        "w": "janma",
+        "gloss": "birth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rogāṇāṃ",
+      "words": [
+       {
+        "w": "rogāṇām",
+        "gloss": "of diseases",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "puruṣasya",
+      "words": [
+       {
+        "w": "puruṣasya",
+        "gloss": "of the person",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु प्राणी कर्म से उत्पन्न माना गया है और उसके रोग कर्म से उत्पन्न हैं; क्योंकि कर्म के बिना न रोगों का जन्म होता है, न पुरुष का।",
+  "english": "Rather, the person is held to be born of action (karma), and his diseases are born of action; for without action there is no birth of diseases or of the person.",
+  "text_flags": [
+   {
+    "src": "nahṛte",
+    "suggest": "nahyṛte",
+    "why": "the y of hi is missing: unit 9 of this chunk prints the same phrase as nahyṛte (na hi ṛte); nahṛte gives no sense"
+   }
+  ],
+  "notes": "Continues Bhadrakāpya's view (unit 18).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.25.19a",
+   "01.25.19b"
+  ],
+  "lines_deva": [
+   "कर्मजस्तु मतो जन्तुः कर्मजास्तस्य चामयाः",
+   "नहृते कर्मणो जन्म रोगाणां पुरुषस्य वा"
+  ],
+  "lines_iast": [
+   "karmajastu mato jantuḥ karmajāstasya cāmayāḥ",
+   "nahṛte karmaṇo janma rogāṇāṃ puruṣasya vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bharadvājastu",
+      "words": [
+       {
+        "w": "bharadvājaḥ",
+        "gloss": "Bharadvāja (name)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "netyāha",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not (so)",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "āha",
+        "gloss": "said",
+        "gram": "3 sg. pf. √ah"
+       }
+      ]
+     },
+     {
+      "src": "kartā",
+      "words": [
+       {
+        "w": "kartā",
+        "gloss": "the doer",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūrvaṃ",
+      "words": [
+       {
+        "w": "pūrvam",
+        "gloss": "prior",
+        "gram": "ind. (+ abl.)"
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "karmaṇaḥ",
+      "words": [
+       {
+        "w": "karmaṇaḥ",
+        "gloss": "to action",
+        "gram": "n. abl. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dṛṣtaṃ",
+      "words": [
+       {
+        "w": "dṛṣṭam",
+        "gloss": "seen",
+        "gram": "n. nom. sg., ppp. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cākṛtaṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "akṛtam",
+        "gloss": "not done",
+        "gram": "n. nom. sg., ppp. √kṛ with neg. a-"
+       }
+      ]
+     },
+     {
+      "src": "karma",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "action",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of which",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "syāt",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "could be",
+        "gram": "3 sg. opt. √as"
+       }
+      ]
+     },
+     {
+      "src": "puruṣaḥ",
+      "words": [
+       {
+        "w": "puruṣaḥ",
+        "gloss": "the person",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "phalam",
+      "words": [
+       {
+        "w": "phalam",
+        "gloss": "the fruit",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "भरद्वाज ने कहा— 'नहीं; क्योंकि कर्ता कर्म से पहले होता है; और बिना किया हुआ कोई कर्म नहीं देखा गया, जिसका फल पुरुष हो।'",
+  "english": "But Bharadvāja said 'No': for the doer comes before the action; and no action that has not been done is seen, of which the person could be the fruit.",
+  "text_flags": [
+   {
+    "src": "dṛṣtaṃ",
+    "suggest": "dṛṣṭaṃ",
+    "why": "after ṣ the dental t becomes retroflex ṭ; dṛṣtaṃ is not a possible spelling of the participle of √dṛś"
+   }
+  ],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.25.20a",
+   "01.25.20b"
+  ],
+  "lines_deva": [
+   "भरद्वाजस्तु नेत्याह कर्ता पूर्वं हि कर्मणः",
+   "दृष्तं न चाकृतं कर्म यस्य स्यात् पुरुषः फलम्"
+  ],
+  "lines_iast": [
+   "bharadvājastu netyāha kartā pūrvaṃ hi karmaṇaḥ",
+   "dṛṣtaṃ na cākṛtaṃ karma yasya syāt puruṣaḥ phalam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhāvahetuḥ",
+      "words": [
+       {
+        "w": "bhāva-hetuḥ",
+        "gloss": "cause of existence",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "svabhāvastu",
+      "words": [
+       {
+        "w": "svabhāvaḥ",
+        "gloss": "own nature",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vyādhīnāṃ",
+      "words": [
+       {
+        "w": "vyādhīnām",
+        "gloss": "of diseases",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "puruṣasya",
+      "words": [
+       {
+        "w": "puruṣasya",
+        "gloss": "of the person",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kharadravacaloṣṇatvaṃ",
+      "words": [
+       {
+        "w": "khara-drava-cala-uṣṇa-tvam",
+        "gloss": "roughness, fluidity, mobility and heat",
+        "gram": "n. nom. sg., dvandva + -tva"
+       }
+      ]
+     },
+     {
+      "src": "tejontānām",
+      "words": [
+       {
+        "w": "tejas-antānām",
+        "gloss": "of those ending with fire",
+        "gram": "m. gen. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "yathaiva",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु व्याधियों और पुरुष की सत्ता का कारण स्वभाव है, ठीक वैसे ही जैसे तेज-पर्यन्तों का खरत्व, द्रवत्व, चलत्व और उष्णत्व।",
+  "english": "Rather, own nature (svabhāva) is the cause of the existence of diseases and of the person, just as roughness, fluidity, mobility and heat are of those ending with fire (tejas).",
+  "text_flags": [],
+  "notes": "Continues Bharadvāja's view (unit 20). tejontānām = tejo'ntānām (avagraha not printed). The four qualities are set against a series 'ending with tejas' whose members the line does not name.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.25.21a",
+   "01.25.21b"
+  ],
+  "lines_deva": [
+   "भावहेतुः स्वभावस्तु व्याधीनां पुरुषस्य च",
+   "खरद्रवचलोष्णत्वं तेजोन्तानाम् यथैव हि"
+  ],
+  "lines_iast": [
+   "bhāvahetuḥ svabhāvastu vyādhīnāṃ puruṣasya ca",
+   "kharadravacaloṣṇatvaṃ tejontānām yathaiva hi"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kāṅkāyanastu",
+      "words": [
+       {
+        "w": "kāṅkāyanaḥ",
+        "gloss": "Kāṅkāyana (name)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "netyāha",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not (so)",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "āha",
+        "gloss": "said",
+        "gram": "3 sg. pf. √ah"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hyārambhaphalaṃ",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       },
+       {
+        "w": "ārambha-phalam",
+        "gloss": "fruit of undertaking",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhavet",
+      "words": [
+       {
+        "w": "bhavet",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √bhū"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bhavet",
+      "words": [
+       {
+        "w": "bhavet",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "svabhāvādbhāvānāmasiddhiḥ",
+      "words": [
+       {
+        "w": "svabhāvāt",
+        "gloss": "from own nature",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "bhāvānām",
+        "gloss": "of things",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "asiddhiḥ",
+        "gloss": "failure",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "siddhireva",
+      "words": [
+       {
+        "w": "siddhiḥ",
+        "gloss": "success",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cā",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "काङ्कायन ने कहा— 'नहीं; क्योंकि (तब) आरम्भ का फल नहीं होगा; पदार्थों की असिद्धि और सिद्धि स्वभाव से ही होगी।'",
+  "english": "But Kāṅkāyana said 'No': for (then) there would be no fruit of undertaking; the failure and the success of things would come just from their own nature.",
+  "text_flags": [
+   {
+    "src": "cā",
+    "suggest": "ca",
+    "why": "possible: cā is not a word; ca 'and' needs only the length mark changed (the printed consonant kept); vā 'or' is also possible in sense; the pāda has 8 syllables either way"
+   }
+  ],
+  "notes": "cā read as ca 'and' (minimal correction); vā 'or' would give 'failure or success'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.25.22a",
+   "01.25.22b"
+  ],
+  "lines_deva": [
+   "काङ्कायनस्तु नेत्याह न ह्यारम्भफलं भवेत्",
+   "भवेत् स्वभावाद्भावानामसिद्धिः सिद्धिरेव चा"
+  ],
+  "lines_iast": [
+   "kāṅkāyanastu netyāha na hyārambhaphalaṃ bhavet",
+   "bhavet svabhāvādbhāvānāmasiddhiḥ siddhireva cā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sraṣṭā",
+      "words": [
+       {
+        "w": "sraṣṭā",
+        "gloss": "the creator",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvamitasaṅkalpo",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "amita-saṅkalpaḥ",
+        "gloss": "of boundless resolve",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "brahmāpatyaṃ",
+      "words": [
+       {
+        "w": "brahma-apatyam",
+        "gloss": "offspring of Brahmā",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "prajāpatiḥ",
+      "words": [
+       {
+        "w": "prajāpatiḥ",
+        "gloss": "Prajāpati (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "cetanācetanasyāsya",
+      "words": [
+       {
+        "w": "cetana-acetanasya",
+        "gloss": "sentient and insentient",
+        "gram": "n. gen. sg., dvandva (adj.)"
+       },
+       {
+        "w": "asya",
+        "gloss": "of this",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "jagataḥ",
+      "words": [
+       {
+        "w": "jagataḥ",
+        "gloss": "of the world",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sukhaduḥkhayoḥ",
+      "words": [
+       {
+        "w": "sukha-duḥkhayoḥ",
+        "gloss": "of pleasure and pain",
+        "gram": "n. gen. du., dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु असीम संकल्प वाले, ब्रह्मा की सन्तान प्रजापति इस चेतन-अचेतन जगत् के सुख और दुःख के स्रष्टा हैं।",
+  "english": "Rather, Prajāpati, of boundless resolve, the offspring of Brahmā, is the creator of the pleasure and pain of this world, sentient and insentient.",
+  "text_flags": [],
+  "notes": "Continues Kāṅkāyana's view (unit 22). brahmāpatyam is a neuter noun in apposition to prajāpatiḥ ('Brahmā's offspring').",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.25.23a",
+   "01.25.23b"
+  ],
+  "lines_deva": [
+   "स्रष्टा त्वमितसङ्कल्पो ब्रह्मापत्यं प्रजापतिः",
+   "चेतनाचेतनस्यास्य जगतः सुखदुःखयोः"
+  ],
+  "lines_iast": [
+   "sraṣṭā tvamitasaṅkalpo brahmāpatyaṃ prajāpatiḥ",
+   "cetanācetanasyāsya jagataḥ sukhaduḥkhayoḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tanneti",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhikṣurātreyo",
+      "words": [
+       {
+        "w": "bhikṣuḥ",
+        "gloss": "the mendicant",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ātreyaḥ",
+        "gloss": "Ātreya (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hyapatyaṃ",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       },
+       {
+        "w": "apatyam",
+        "gloss": "offspring",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prajāpatiḥ",
+      "words": [
+       {
+        "w": "prajāpatiḥ",
+        "gloss": "Prajāpati (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "prajāhitaiṣī",
+      "words": [
+       {
+        "w": "prajā-hita-eṣī",
+        "gloss": "wishing the welfare of creatures",
+        "gram": "m. nom. sg., upapada"
+       }
+      ]
+     },
+     {
+      "src": "satataṃ",
+      "words": [
+       {
+        "w": "satatam",
+        "gloss": "always",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "duḥkhairyuṅjyādasādhuvat",
+      "words": [
+       {
+        "w": "duḥkhaiḥ",
+        "gloss": "with sorrows",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "yuñjyāt",
+        "gloss": "would yoke",
+        "gram": "3 sg. opt. √yuj"
+       },
+       {
+        "w": "asādhu-vat",
+        "gloss": "like a wicked person",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "भिक्षु आत्रेय ने कहा— 'वह ठीक नहीं; क्योंकि सदा प्रजा का हित चाहने वाले प्रजापति दुर्जन की भाँति सन्तान को दुःखों से नहीं जोड़ेंगे।'",
+  "english": "The mendicant (bhikṣu) Ātreya said 'That is not so': for Prajāpati, who always wishes the welfare of creatures, would not, like a wicked person, yoke (his) offspring with sorrows.",
+  "text_flags": [
+   {
+    "src": "duḥkhairyuṅjyādasādhuvat",
+    "suggest": "duḥkhairyuñjyādasādhuvat",
+    "why": "the nasal before j must be the palatal ñ (yuñjyāt, optative of √yuj); ṅ before j is a misprint (Devanagari युङ्ज्याद्)"
+   }
+  ],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.25.24a",
+   "01.25.24b"
+  ],
+  "lines_deva": [
+   "तन्नेति भिक्षुरात्रेयो न ह्यपत्यं प्रजापतिः",
+   "प्रजाहितैषी सततं दुःखैर्युङ्ज्यादसाधुवत्"
+  ],
+  "lines_iast": [
+   "tanneti bhikṣurātreyo na hyapatyaṃ prajāpatiḥ",
+   "prajāhitaiṣī satataṃ duḥkhairyuṅjyādasādhuvat"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kālajastveva",
+      "words": [
+       {
+        "w": "kāla-jaḥ",
+        "gloss": "born of time",
+        "gram": "m. nom. sg., upapada"
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "puruṣaḥ",
+      "words": [
+       {
+        "w": "puruṣaḥ",
+        "gloss": "the person",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kālajāstasya",
+      "words": [
+       {
+        "w": "kāla-jāḥ",
+        "gloss": "born of time",
+        "gram": "m. nom. pl., upapada"
+       },
+       {
+        "w": "tasya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "cāmayāḥ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "āmayāḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "jagat",
+      "words": [
+       {
+        "w": "jagat",
+        "gloss": "the world",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kālavaśaṃ",
+      "words": [
+       {
+        "w": "kāla-vaśam",
+        "gloss": "under the sway of time",
+        "gram": "n. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sarvaṃ",
+      "words": [
+       {
+        "w": "sarvam",
+        "gloss": "whole",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kālaḥ",
+      "words": [
+       {
+        "w": "kālaḥ",
+        "gloss": "time",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvatra",
+      "words": [
+       {
+        "w": "sarvatra",
+        "gloss": "everywhere",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kāraṇam",
+      "words": [
+       {
+        "w": "kāraṇam",
+        "gloss": "the cause",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु पुरुष काल से ही उत्पन्न है और उसके रोग काल से उत्पन्न हैं; सारा जगत् काल के वश में है; काल सर्वत्र कारण है।",
+  "english": "Rather, the person is born just of time, and his diseases are born of time; the whole world is under the sway of time; time is the cause everywhere.",
+  "text_flags": [],
+  "notes": "Continues the mendicant Ātreya's view (unit 24).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.25.25a",
+   "01.25.25b"
+  ],
+  "lines_deva": [
+   "कालजस्त्वेव पुरुषः कालजास्तस्य चामयाः",
+   "जगत् कालवशं सर्वं कालः सर्वत्र कारणम्"
+  ],
+  "lines_iast": [
+   "kālajastveva puruṣaḥ kālajāstasya cāmayāḥ",
+   "jagat kālavaśaṃ sarvaṃ kālaḥ sarvatra kāraṇam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatharsīṇāṃ",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "ṛṣīṇām",
+        "gloss": "the sages",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "vivadatāmuvācedaṃ",
+      "words": [
+       {
+        "w": "vivadatām",
+        "gloss": "disputing",
+        "gram": "m. gen. pl., pres. part. vi-√vad"
+       },
+       {
+        "w": "uvāca",
+        "gloss": "said",
+        "gram": "3 sg. pf. √vac"
+       },
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "punarvasuḥ",
+      "words": [
+       {
+        "w": "punarvasuḥ",
+        "gloss": "Punarvasu (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "maivaṃ",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "do not",
+        "gram": "ind. (prohibitive)"
+       },
+       {
+        "w": "evam",
+        "gloss": "so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vocata",
+      "words": [
+       {
+        "w": "vocata",
+        "gloss": "speak",
+        "gram": "2 pl. aor. (injunctive) √vac"
+       }
+      ]
+     },
+     {
+      "src": "tattvaṃ",
+      "words": [
+       {
+        "w": "tattvam",
+        "gloss": "the truth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "duṣprāpaṃ",
+      "words": [
+       {
+        "w": "duṣprāpam",
+        "gloss": "hard to attain",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pakṣasaṃśrayāt",
+      "words": [
+       {
+        "w": "pakṣa-saṃśrayāt",
+        "gloss": "from resorting to a side",
+        "gram": "m. abl. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ऋषियों के इस प्रकार विवाद करते रहने पर पुनर्वसु ने यह कहा— 'ऐसा मत कहो; क्योंकि पक्ष का आश्रय लेने से तत्त्व दुष्प्राप्य होता है।'",
+  "english": "As the sages were thus disputing, Punarvasu said this: 'Do not speak so; for the truth is hard to attain by resorting to a side.'",
+  "text_flags": [
+   {
+    "src": "tatharsīṇāṃ",
+    "suggest": "tatharṣīṇāṃ",
+    "why": "the genitive plural of ṛṣi has retroflex ṣ (maharṣīṇāṃ in unit 3 of this chunk); rsī is a misprint"
+   }
+  ],
+  "notes": "ṛṣīṇāṃ vivadatām is a genitive absolute.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.25.26a",
+   "01.25.26b"
+  ],
+  "lines_deva": [
+   "तथर्सीणां विवदतामुवाचेदं पुनर्वसुः",
+   "मैवं वोचत तत्त्वं हि दुष्प्रापं पक्षसंश्रयात्"
+  ],
+  "lines_iast": [
+   "tatharsīṇāṃ vivadatāmuvācedaṃ punarvasuḥ",
+   "maivaṃ vocata tattvaṃ hi duṣprāpaṃ pakṣasaṃśrayāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vādān",
+      "words": [
+       {
+        "w": "vādān",
+        "gloss": "arguments",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "saprativādān",
+      "words": [
+       {
+        "w": "sa-prativādān",
+        "gloss": "with counter-arguments",
+        "gram": "m. acc. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vadanto",
+      "words": [
+       {
+        "w": "vadantaḥ",
+        "gloss": "stating",
+        "gram": "m. nom. pl., pres. part. √vad"
+       }
+      ]
+     },
+     {
+      "src": "niścitāniva",
+      "words": [
+       {
+        "w": "niścitān",
+        "gloss": "settled",
+        "gram": "m. acc. pl., ppp. nis-√ci"
+       },
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pakṣāntaṃ",
+      "words": [
+       {
+        "w": "pakṣa-antam",
+        "gloss": "the end of their side",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "naiva",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "at all",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gacchanti",
+      "words": [
+       {
+        "w": "gacchanti",
+        "gloss": "reach",
+        "gram": "3 pl. pres. √gam"
+       }
+      ]
+     },
+     {
+      "src": "tilapīḍakavadgatau",
+      "words": [
+       {
+        "w": "tila-pīḍaka-vat",
+        "gloss": "like a sesame-presser",
+        "gram": "ind."
+       },
+       {
+        "w": "gatau",
+        "gloss": "in movement",
+        "gram": "f. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि जो वादों को प्रतिवादों सहित मानो वे निश्चित हों, ऐसे कहते हैं, वे तिल पेरने वाले की भाँति अपनी गति में पक्ष के अन्त तक बिल्कुल नहीं पहुँचते।",
+  "english": "For those who state arguments together with counter-arguments as if they were settled never reach the end of their side, like a sesame-presser in his movement.",
+  "text_flags": [],
+  "notes": "gatau 'in going, in movement' is taken with the simile: the presser keeps moving without arriving anywhere (an interpretation of the image).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.25.27a",
+   "01.25.27b"
+  ],
+  "lines_deva": [
+   "वादान् सप्रतिवादान् हि वदन्तो निश्चितानिव",
+   "पक्षान्तं नैव गच्छन्ति तिलपीडकवद्गतौ"
+  ],
+  "lines_iast": [
+   "vādān saprativādān hi vadanto niścitāniva",
+   "pakṣāntaṃ naiva gacchanti tilapīḍakavadgatau"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "muktvaivaṃ",
+      "words": [
+       {
+        "w": "muktvā",
+        "gloss": "having left aside",
+        "gram": "abs. √muc"
+       },
+       {
+        "w": "evam",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vādasaṅghaṭṭamadhyātmamanucintyatām",
+      "words": [
+       {
+        "w": "vāda-saṅghaṭṭam",
+        "gloss": "clash of arguments",
+        "gram": "m. acc. sg., tat-puruṣa"
+       },
+       {
+        "w": "adhyātmam",
+        "gloss": "the inner self",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "anucintyatām",
+        "gloss": "let be reflected on",
+        "gram": "3 sg. impv. pass. anu-√cint"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "nāvidhūte",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "avidhūte",
+        "gloss": "not shaken off",
+        "gram": "m. loc. sg., ppp. vi-√dhū with neg. a-"
+       }
+      ]
+     },
+     {
+      "src": "tamaḥskandhe",
+      "words": [
+       {
+        "w": "tamaḥ-skandhe",
+        "gloss": "the mass of darkness",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "jñeye",
+      "words": [
+       {
+        "w": "jñeye",
+        "gloss": "toward the knowable",
+        "gram": "n. loc. sg., gerundive (kṛtya) √jñā"
+       }
+      ]
+     },
+     {
+      "src": "jñānaṃ",
+      "words": [
+       {
+        "w": "jñānam",
+        "gloss": "knowledge",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pravartate",
+      "words": [
+       {
+        "w": "pravartate",
+        "gloss": "proceeds",
+        "gram": "3 sg. pres. mid. pra-√vṛt"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार वाद के संघर्ष को छोड़कर अध्यात्म का चिन्तन किया जाए; अन्धकार के समूह को दूर न किए जाने पर ज्ञेय में ज्ञान प्रवृत्त नहीं होता।",
+  "english": "Having thus left aside the clash of arguments, let the inner self (adhyātma) be reflected upon; while the mass of darkness has not been shaken off, knowledge does not proceed toward the knowable.",
+  "text_flags": [],
+  "notes": "muktvā (active absolutive) with the passive anucintyatām: the agent is the sages addressed. avidhūte tamaḥskandhe is a locative absolute.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.25.28a",
+   "01.25.28b"
+  ],
+  "lines_deva": [
+   "मुक्त्वैवं वादसङ्घट्टमध्यात्ममनुचिन्त्यताम्",
+   "नाविधूते तमःस्कन्धे ज्ञेये ज्ञानं प्रवर्तते"
+  ],
+  "lines_iast": [
+   "muktvaivaṃ vādasaṅghaṭṭamadhyātmamanucintyatām",
+   "nāvidhūte tamaḥskandhe jñeye jñānaṃ pravartate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yeṣāmeva",
+      "words": [
+       {
+        "w": "yeṣām",
+        "gloss": "of which",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "eva",
+        "gloss": "very",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhāvānāṃ",
+      "words": [
+       {
+        "w": "bhāvānām",
+        "gloss": "of things",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "saṃpat",
+      "words": [
+       {
+        "w": "saṃpat",
+        "gloss": "excellence",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃjanayennaram",
+      "words": [
+       {
+        "w": "saṃjanayet",
+        "gloss": "would produce",
+        "gram": "3 sg. opt. caus. sam-√jan"
+       },
+       {
+        "w": "naram",
+        "gloss": "a man",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "teṣāmeva",
+      "words": [
+       {
+        "w": "teṣām",
+        "gloss": "of those",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "eva",
+        "gloss": "very",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vipadvyādhīnvividhānsamudīrayet",
+      "words": [
+       {
+        "w": "vipat",
+        "gloss": "failure",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "vyādhīn",
+        "gloss": "diseases",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "vividhān",
+        "gloss": "of various kinds",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "samudīrayet",
+        "gloss": "would bring forth",
+        "gram": "3 sg. opt. caus. sam-ud-√īr"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि जिन भावों की सम्पत् मनुष्य को उत्पन्न करती है, उन्हीं की विपत् विविध व्याधियों को उत्पन्न करती है।",
+  "english": "For the failure (vipad) of the very things whose excellence (sampad) would produce a man would bring forth diseases of various kinds.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.25.29a",
+   "01.25.29b"
+  ],
+  "lines_deva": [
+   "येषामेव हि भावानां संपत् संजनयेन्नरम्",
+   "तेषामेव विपद्व्याधीन्विविधान्समुदीरयेत्"
+  ],
+  "lines_iast": [
+   "yeṣāmeva hi bhāvānāṃ saṃpat saṃjanayennaram",
+   "teṣāmeva vipadvyādhīnvividhānsamudīrayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athātreyasya",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "then",
+        "gram": "ind."
+       },
+       {
+        "w": "ātreyasya",
+        "gloss": "of Ātreya",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavagato",
+      "words": [
+       {
+        "w": "bhagavataḥ",
+        "gloss": "of the venerable",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vacanamanuniśamya",
+      "words": [
+       {
+        "w": "vacanam",
+        "gloss": "the words",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "anuniśamya",
+        "gloss": "having heard",
+        "gram": "abs. anu-ni-√śam"
+       }
+      ]
+     },
+     {
+      "src": "punareva",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vāmakaḥ",
+      "words": [
+       {
+        "w": "vāmakaḥ",
+        "gloss": "Vāmaka (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāśipatiruvāca",
+      "words": [
+       {
+        "w": "kāśi-patiḥ",
+        "gloss": "lord of Kāśi",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "uvāca",
+        "gloss": "said",
+        "gram": "3 sg. pf. √vac"
+       }
+      ]
+     },
+     {
+      "src": "bhagavantamātreyaṃ",
+      "words": [
+       {
+        "w": "bhagavantam",
+        "gloss": "to the venerable",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ātreyam",
+        "gloss": "Ātreya",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhagavan",
+      "words": [
+       {
+        "w": "bhagavan",
+        "gloss": "O venerable one",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃpannimittajasya",
+      "words": [
+       {
+        "w": "saṃpat-nimitta-jasya",
+        "gloss": "born of excellence as cause",
+        "gram": "m. gen. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "puruṣasya",
+      "words": [
+       {
+        "w": "puruṣasya",
+        "gloss": "of the person",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vipannimittajānāṃ",
+      "words": [
+       {
+        "w": "vipat-nimitta-jānām",
+        "gloss": "born of failure as cause",
+        "gram": "m. gen. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rogāṇaṃ",
+      "words": [
+       {
+        "w": "rogāṇām",
+        "gloss": "of diseases",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "kimabhivṛddhikāraṇamiti",
+      "words": [
+       {
+        "w": "kim",
+        "gloss": "what",
+        "gram": "n. nom. sg. (interrogative)"
+       },
+       {
+        "w": "abhivṛddhi-kāraṇam",
+        "gloss": "cause of growth",
+        "gram": "n. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "iti",
+        "gloss": "(end of quotation)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब भगवान् आत्रेय के वचन सुनकर काशिपति वामक ने फिर से भगवान् आत्रेय से कहा— 'भगवन्, सम्पत् रूपी निमित्त से उत्पन्न पुरुष की और विपत् रूपी निमित्त से उत्पन्न रोगों की अभिवृद्धि का कारण क्या है?'",
+  "english": "Then, having heard the words of the venerable Ātreya, Vāmaka, lord of Kāśi, again said to the venerable Ātreya: 'Venerable one, what is the cause of growth of the person, who is born of excellence (sampad) as cause, and of the diseases, which are born of failure (vipad) as cause?'",
+  "text_flags": [
+   {
+    "src": "bhavagato",
+    "suggest": "bhagavato",
+    "why": "letters transposed: the same line has bhagavantam and bhagavan; bhavagataḥ is not a form"
+   },
+   {
+    "src": "rogāṇaṃ",
+    "suggest": "rogāṇām",
+    "why": "the genitive plural needs long ā before the ending (rogāṇāṃ in unit 19 of this chunk); rogāṇaṃ is not a form"
+   }
+  ],
+  "notes": "Prose passage; typed as a verse in the input. saṃpannimittaja and vipannimittaja take up saṃpat and vipat of unit 29.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.25.30"
+  ],
+  "lines_deva": [
+   "अथात्रेयस्य भवगतो वचनमनुनिशम्य पुनरेव वामकः काशिपतिरुवाच भगवन्तमात्रेयं भगवन् संपन्निमित्तजस्य पुरुषस्य विपन्निमित्तजानां च रोगाणं किमभिवृद्धिकारणमिति"
+  ],
+  "lines_iast": [
+   "athātreyasya bhavagato vacanamanuniśamya punareva vāmakaḥ kāśipatiruvāca bhagavantamātreyaṃ bhagavan saṃpannimittajasya puruṣasya vipannimittajānāṃ ca rogāṇaṃ kimabhivṛddhikāraṇamiti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tamuvāca",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "to him",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "uvāca",
+        "gloss": "said",
+        "gram": "3 sg. pf. √vac"
+       }
+      ]
+     },
+     {
+      "src": "bhagavānātreyaḥ",
+      "words": [
+       {
+        "w": "bhagavān",
+        "gloss": "the venerable",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ātreyaḥ",
+        "gloss": "Ātreya (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hitāhāropayoga",
+      "words": [
+       {
+        "w": "hita-āhāra-upayogaḥ",
+        "gloss": "use of wholesome food",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "eka",
+      "words": [
+       {
+        "w": "ekaḥ",
+        "gloss": "alone",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "only",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "puruṣavṛddhikaro",
+      "words": [
+       {
+        "w": "puruṣa-vṛddhi-karaḥ",
+        "gloss": "causing the growth of the person",
+        "gram": "m. nom. sg., upapada"
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "ahitāhāropayogaḥ",
+      "words": [
+       {
+        "w": "ahita-āhāra-upayogaḥ",
+        "gloss": "use of unwholesome food",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "punarvyādhinimittamiti",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "on the other hand",
+        "gram": "ind."
+       },
+       {
+        "w": "vyādhi-nimittam",
+        "gloss": "cause of disease",
+        "gram": "n. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "iti",
+        "gloss": "(end of quotation)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "भगवान् आत्रेय ने उससे कहा— 'एकमात्र हितकर आहार का उपयोग ही पुरुष की वृद्धि करने वाला है; किन्तु अहितकर आहार का उपयोग व्याधि का निमित्त है।'",
+  "english": "The venerable Ātreya said to him: 'The use of wholesome food alone causes the growth of the person; the use of unwholesome food, on the other hand, is the cause of disease.'",
+  "text_flags": [],
+  "notes": "Prose passage; typed as a verse in the input. hitāhāropayoga eka: the visarga of -upayogaḥ is dropped before the vowel e (regular sandhi).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.25.31"
+  ],
+  "lines_deva": [
+   "तमुवाच भगवानात्रेयः हिताहारोपयोग एक एव पुरुषवृद्धिकरो भवति अहिताहारोपयोगः पुनर्व्याधिनिमित्तमिति"
+  ],
+  "lines_iast": [
+   "tamuvāca bhagavānātreyaḥ hitāhāropayoga eka eva puruṣavṛddhikaro bhavati ahitāhāropayogaḥ punarvyādhinimittamiti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "evaṃvādinaṃ",
+      "words": [
+       {
+        "w": "evaṃ-vādinam",
+        "gloss": "speaking thus",
+        "gram": "m. acc. sg., upapada"
+       }
+      ]
+     },
+     {
+      "src": "bhagavantamātreyamagniveśa",
+      "words": [
+       {
+        "w": "bhagavantam",
+        "gloss": "to the venerable",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ātreyam",
+        "gloss": "Ātreya",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "agniveśaḥ",
+        "gloss": "Agniveśa (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "uvāca",
+      "words": [
+       {
+        "w": "uvāca",
+        "gloss": "said",
+        "gram": "3 sg. pf. √vac"
+       }
+      ]
+     },
+     {
+      "src": "kathamiha",
+      "words": [
+       {
+        "w": "katham",
+        "gloss": "how",
+        "gram": "ind."
+       },
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhagavan",
+      "words": [
+       {
+        "w": "bhagavan",
+        "gloss": "O venerable one",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hitāhiānāmāhārajātānāṃ",
+      "words": [
+       {
+        "w": "hita-ahitānām",
+        "gloss": "wholesome and unwholesome",
+        "gram": "n. gen. pl., dvandva (adj.)"
+       },
+       {
+        "w": "āhāra-jātānām",
+        "gloss": "of the kinds of food",
+        "gram": "n. gen. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "lakṣaṇamanapavādamabhijānīmahe",
+      "words": [
+       {
+        "w": "lakṣaṇam",
+        "gloss": "characteristic",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "anapavādam",
+        "gloss": "free from exception",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "abhijānīmahe",
+        "gloss": "can we know",
+        "gram": "1 pl. pres. mid. abhi-√jñā"
+       }
+      ]
+     },
+     {
+      "src": "hitasamākhyātānāmāhārajātānāmahitasamākhyātānāṃ",
+      "words": [
+       {
+        "w": "hita-samākhyātānām",
+        "gloss": "declared wholesome",
+        "gram": "n. gen. pl., tat-puruṣa"
+       },
+       {
+        "w": "āhāra-jātānām",
+        "gloss": "of the kinds of food",
+        "gram": "n. gen. pl., tat-puruṣa"
+       },
+       {
+        "w": "ahita-samākhyātānām",
+        "gloss": "declared unwholesome",
+        "gram": "n. gen. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mātrākālakriyābhūmidehadoṣapuruṣāvasthāntareṣu",
+      "words": [
+       {
+        "w": "mātrā-kāla-kriyā-bhūmi-deha-doṣa-puruṣa-avasthā-antareṣu",
+        "gloss": "in differences of measure, time, processing, place, body, doṣa, person and condition",
+        "gram": "n. loc. pl., dvandva within tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "viparītakāritvamupalabhāmaha",
+      "words": [
+       {
+        "w": "viparīta-kāri-tvam",
+        "gloss": "contrary action",
+        "gram": "n. acc. sg., tat-puruṣa + -tva"
+       },
+       {
+        "w": "upalabhāmahe",
+        "gloss": "we observe",
+        "gram": "1 pl. pres. mid. upa-√labh"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(end of quotation)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार बोलते हुए भगवान् आत्रेय से अग्निवेश ने कहा— 'भगवन्, यहाँ हम हितकर और अहितकर आहार-प्रकारों का अपवाद-रहित लक्षण कैसे जानें? हम देखते हैं कि हितकर कहे गए और अहितकर कहे गए आहार-प्रकार मात्रा, काल, क्रिया, भूमि, देह, दोष, पुरुष और अवस्था के भेदों में विपरीत कार्य करते हैं।'",
+  "english": "To the venerable Ātreya, speaking thus, Agniveśa said: 'Venerable one, how here can we know a characteristic, free from exception, of the wholesome and unwholesome kinds of food? We observe that the kinds of food declared wholesome and those declared unwholesome act contrarily under differences of measure (mātrā), time, processing (kriyā), place (bhūmi), body, doṣa, person and condition.'",
+  "text_flags": [
+   {
+    "src": "hitāhiānāmāhārajātānāṃ",
+    "suggest": "hitāhitānāmāhārajātānāṃ",
+    "why": "the t of ahita is missing (Devanagari हिताहिआनाम्); the same line continues with hitasamākhyātānām and ahitasamākhyātānām, so the pair hita-ahita is meant"
+   }
+  ],
+  "notes": "Prose passage; typed as a verse in the input. puruṣāvasthā may be read as two members (person, condition) or as one ('states of the person'); antara is taken as 'difference'. upalabhāmaha = upalabhāmahe before iti (e becomes a before a vowel).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.25.32"
+  ],
+  "lines_deva": [
+   "एवंवादिनं भगवन्तमात्रेयमग्निवेश उवाच कथमिह भगवन् हिताहिआनामाहारजातानां लक्षणमनपवादमभिजानीमहे हितसमाख्यातानामाहारजातानामहितसमाख्यातानां च मात्राकालक्रियाभूमिदेहदोषपुरुषावस्थान्तरेषु विपरीतकारित्वमुपलभामह इति"
+  ],
+  "lines_iast": [
+   "evaṃvādinaṃ bhagavantamātreyamagniveśa uvāca kathamiha bhagavan hitāhiānāmāhārajātānāṃ lakṣaṇamanapavādamabhijānīmahe hitasamākhyātānāmāhārajātānāmahitasamākhyātānāṃ ca mātrākālakriyābhūmidehadoṣapuruṣāvasthāntareṣu viparītakāritvamupalabhāmaha iti"
+  ],
+  "uncertain": []
+ }
+]

@@ -1,0 +1,224 @@
+[
+ {
+  "n": "7",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "bhavantacchettumarhanti",
+    "suggest": "bhavantaśchettumarhanti",
+    "why": "visarga of bhavantaḥ before ch becomes ś (grammar); printed -ac- is not a possible sandhi"
+   }
+  ],
+  "why": "reviewer (minor): Missed typo: bhavantaḥ + chettum gives bhavantaś chettum; the printed c for ś is not a sandhi result. The note explains the split but no text_flag was raised."
+ },
+ {
+  "n": "15",
+  "field": "notes",
+  "old": "The speaker is not named in this unit; unit 16 calls the speaker of this view Kuśika, and the sequence of units suggests it continues Hiraṇyākṣa's reply of unit 14. The six dhātus are not listed in the unit.",
+  "new": "The speaker is not named in this unit; unit 16 calls the one speaking thus Kuśika. The six dhātus are not listed in the unit.",
+  "why": "reviewer (minor): Speaker inference from the order of units goes beyond the text and contradicts the next sentence of the note (unit 16 names Kuśika). Keep only what the text says."
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "Rather, the person is born of six dhātus, and the diseases likewise are born of six dhātus; for this aggregate born of six dhātus has been proclaimed by the early Sāṃkhyas.",
+  "new": "Rather, the person is born of six dhātus, and the diseases likewise are born of six dhātus; for this aggregate has been proclaimed by the early Sāṃkhyas to be born of six dhātus.",
+  "why": "reviewer (minor): ṣaḍdhātujaḥ is predicative with prakīrtitaḥ ('proclaimed to be born of six dhātus'); the attributive rendering loses the claim being cited."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "किन्तु पुरुष छह धातुओं से उत्पन्न है, तथा रोग छह धातुओं से उत्पन्न हैं; क्योंकि छह धातुओं से उत्पन्न इस राशि का वर्णन प्राचीन सांख्यों ने किया है।",
+  "new": "किन्तु पुरुष छह धातुओं से उत्पन्न है, तथा रोग छह धातुओं से उत्पन्न हैं; क्योंकि प्राचीन सांख्यों ने इस राशि को छह धातुओं से उत्पन्न बताया है।",
+  "why": "reviewer (minor): Same as English: predicative, not attributive."
+ },
+ {
+  "n": "16",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "kasamānmātāpitṛbhyāṃ",
+    "suggest": "kasmānmātāpitṛbhyāṃ",
+    "why": "kasamān is not a form; kasmāt (kasmān before m) 'how, why' fits the question, and the pāda then has 8 syllables instead of 9"
+   },
+   {
+    "src": "kauṣikaḥ",
+    "suggest": "kauśikaḥ",
+    "why": "possible: the same line names the other speaker kuśikam with ś, and a patronymic from Kuśika keeps the ś"
+   }
+  ],
+  "new": [
+   {
+    "src": "kasamānmātāpitṛbhyāṃ",
+    "suggest": "kasmānmātāpitṛbhyāṃ",
+    "why": "kasamān is not a form; kasmāt (kasmān before m) 'how, why' fits the question, and the pāda then has 8 syllables instead of 9"
+   }
+  ],
+  "why": "reviewer (error): Dropped: the flag rests on assuming the speaker's name is a patronymic of Kuśika (a biographical inference). Kuśika and the speaker are different persons in the line; ś/ṣ alternation in names is kept as printed (cf. kauśeya/kauṣeya in the glossary). No concrete evidence of a typo."
+ },
+ {
+  "n": "16",
+  "field": "word.gloss",
+  "word": "kauśikaḥ",
+  "old": "Kauśika (name)",
+  "new": "Kauṣika (name)",
+  "why": "reviewer (minor): Gloss follows the printed name."
+ },
+ {
+  "n": "16",
+  "field": "word.w",
+  "word": "kauśikaḥ",
+  "old": "kauśikaḥ",
+  "new": "kauṣikaḥ",
+  "why": "reviewer (error): words uses the unflagged correction kauśikaḥ; with the flag dropped, words keep the printed name."
+ },
+ {
+  "n": "16",
+  "field": "english",
+  "old": "To Kuśika, speaking thus, Kauśika said 'That is not so: how indeed could one born of six dhātus come into being without mother and father?'",
+  "new": "To Kuśika, speaking thus, Kauṣika said 'That is not so: how indeed could one born of six dhātus come into being without mother and father?'",
+  "why": "reviewer (error): Name as printed."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "ऐसा कहते हुए कुशिक से कौशिक ने कहा— 'वह ठीक नहीं; माता-पिता के बिना छह धातुओं से उत्पन्न (पुरुष) भला कैसे होगा?'",
+  "new": "ऐसा कहते हुए कुशिक से कौषिक ने कहा— 'वह ठीक नहीं; माता-पिता के बिना छह धातुओं से उत्पन्न (पुरुष) भला कैसे होगा?'",
+  "why": "reviewer (error): Name as printed."
+ },
+ {
+  "n": "16",
+  "field": "notes",
+  "old": "kuśikam names the speaker of the view in unit 15. hi here is taken as emphatic in a question.",
+  "new": "kuśikam names the speaker of the view in unit 15. hi here is taken as emphatic in a question. Name kept as printed (kauṣikaḥ); the same line names the other speaker Kuśika (kuśikam).",
+  "why": "reviewer (minor): Record the decision."
+ },
+ {
+  "n": "17",
+  "field": "notes",
+  "old": "Continues Kauśika's view (unit 16). pitrya, literally 'coming from the fathers (ancestors)'. tau refers to the mother and father of unit 16. gauḥ may be m. or f.; taken as 'cow'.",
+  "new": "Continues Kauṣika's view (unit 16). pitrya, literally 'coming from the fathers (ancestors)'. tau refers to the mother and father of unit 16. gauḥ may be m. or f.; taken as 'cow'.",
+  "why": "reviewer (minor): Name as printed."
+ },
+ {
+  "n": "18",
+  "field": "notes",
+  "old": "te is taken as the enclitic of tvam ('for you', addressed to Kauśika); it could also be read as m. nom. pl. 'they' (the diseases or the parents) used loosely as topic. mātāpitroḥ may be genitive or locative dual. The exact point of line 2 is not fully clear from the wording.",
+  "new": "te is taken as the enclitic of tvam ('for you', addressed to Kauśika); a reading as m. nom. pl. 'they' finds no plural predicate in the line. mātāpitroḥ may be genitive or locative dual. The exact point of line 2 is not fully clear from the wording.",
+  "why": "reviewer (minor): 'te' as enclitic of tvam ('for you', i.e. Kauṣika) is the reading the grammar supports and is kept. The nom.-pl. alternative has no plural predicate in the line ('used loosely as topic' is speculation)."
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "Rather, own nature (svabhāva) is the cause of the existence of diseases and of the person, just as roughness, fluidity, mobility and heat are of those (entities) ending with fire (tejas).",
+  "new": "Rather, own nature (svabhāva) is the cause of the existence of diseases and of the person, just as roughness, fluidity, mobility and heat are of those ending with fire (tejas).",
+  "why": "reviewer (minor): '(entities)' is a supplied gloss, not an understood word: 'those' already carries tejo'ntānām; the line does not say what the series consists of."
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "किन्तु व्याधियों और पुरुष की सत्ता का कारण स्वभाव है, ठीक वैसे ही जैसे तेज-पर्यन्त (पदार्थों) का खरत्व, द्रवत्व, चलत्व और उष्णत्व।",
+  "new": "किन्तु व्याधियों और पुरुष की सत्ता का कारण स्वभाव है, ठीक वैसे ही जैसे तेज-पर्यन्तों का खरत्व, द्रवत्व, चलत्व और उष्णत्व।",
+  "why": "reviewer (minor): Bracketed noun is a gloss not in the Sanskrit (glossary: Hindi brackets only for understood words). A plural substantive renders the bahuvrīhi without supplying a noun."
+ },
+ {
+  "n": "22",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "cā",
+    "suggest": "vā",
+    "why": "possible: cā is not a word; vā 'or' joins asiddhiḥ and siddhiḥ as alternatives; ca 'and' is also possible; the pāda has 8 syllables either way"
+   }
+  ],
+  "new": [
+   {
+    "src": "cā",
+    "suggest": "ca",
+    "why": "possible: cā is not a word; ca 'and' needs only the length mark changed (the printed consonant kept); vā 'or' is also possible in sense; the pāda has 8 syllables either way"
+   }
+  ],
+  "why": "reviewer (minor): The flag is right that cā is not a word, but vā changes the printed consonant while ca needs only the vowel length; the minimal correction with the printed letter is ca. Sense allows both."
+ },
+ {
+  "n": "22",
+  "field": "word.gloss",
+  "word": "vā",
+  "old": "or",
+  "new": "and",
+  "why": "reviewer (minor): Gloss for ca."
+ },
+ {
+  "n": "22",
+  "field": "word.w",
+  "word": "vā",
+  "old": "vā",
+  "new": "ca",
+  "why": "reviewer (minor): Follow the minimal correction."
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "But Kāṅkāyana said 'No': for (then) there would be no fruit of undertaking; the failure or the success of things would come just from their own nature.",
+  "new": "But Kāṅkāyana said 'No': for (then) there would be no fruit of undertaking; the failure and the success of things would come just from their own nature.",
+  "why": "reviewer (minor): Follows ca."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "काङ्कायन ने कहा— 'नहीं; क्योंकि (तब) आरम्भ का फल नहीं होगा; पदार्थों की असिद्धि या सिद्धि स्वभाव से ही होगी।'",
+  "new": "काङ्कायन ने कहा— 'नहीं; क्योंकि (तब) आरम्भ का फल नहीं होगा; पदार्थों की असिद्धि और सिद्धि स्वभाव से ही होगी।'",
+  "why": "reviewer (minor): Follows ca."
+ },
+ {
+  "n": "22",
+  "field": "notes",
+  "old": "",
+  "new": "cā read as ca 'and' (minimal correction); vā 'or' would give 'failure or success'.",
+  "why": "reviewer (minor): Record the alternative."
+ },
+ {
+  "n": "24",
+  "field": "word.gloss",
+  "word": "bhikṣuḥ",
+  "old": "Bhikṣu, the mendicant",
+  "new": "the mendicant",
+  "why": "reviewer (minor): bhikṣu is a common noun used as an epithet ('the mendicant'); gloss mixes name and epithet. Epithets stay epithets (layer notes rule 3)."
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "Bhikṣu Ātreya said 'That is not so': for Prajāpati, who always wishes the welfare of creatures, would not, like a wicked person, yoke (his) offspring with sorrows.",
+  "new": "The mendicant (bhikṣu) Ātreya said 'That is not so': for Prajāpati, who always wishes the welfare of creatures, would not, like a wicked person, yoke (his) offspring with sorrows.",
+  "why": "reviewer (minor): Epithet, not a name."
+ },
+ {
+  "n": "25",
+  "field": "notes",
+  "old": "Continues Bhikṣu Ātreya's view (unit 24).",
+  "new": "Continues the mendicant Ātreya's view (unit 24).",
+  "why": "reviewer (minor): Epithet, not a name."
+ },
+ {
+  "n": "28",
+  "field": "english",
+  "old": "Leaving aside this clash of arguments, let the inner self (adhyātma) be reflected upon; while the mass of darkness has not been shaken off, knowledge does not proceed toward the knowable.",
+  "new": "Having thus left aside the clash of arguments, let the inner self (adhyātma) be reflected upon; while the mass of darkness has not been shaken off, knowledge does not proceed toward the knowable.",
+  "why": "reviewer (minor): evam 'thus' goes with muktvā; 'this' is not in the text."
+ },
+ {
+  "n": "29",
+  "field": "english",
+  "old": "For the very things whose excellence (sampad) would produce a man, the failure (vipad) of those very things would bring forth diseases of various kinds.",
+  "new": "For the failure (vipad) of the very things whose excellence (sampad) would produce a man would bring forth diseases of various kinds.",
+  "why": "reviewer (minor): Broken construction ('For the very things whose excellence…, the failure of those very things…'): the relative clause hangs. Recast so teṣām eva vipad is the subject."
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "इस प्रकार बोलते हुए भगवान् आत्रेय से अग्निवेश ने कहा— 'भगवन्, यहाँ हम हितकर और अहितकर आहार-द्रव्यों का अपवाद-रहित लक्षण कैसे जानें? हम देखते हैं कि हितकर कहे गए और अहितकर कहे गए आहार-द्रव्य मात्रा, काल, क्रिया, भूमि, देह, दोष, पुरुष और अवस्था के भेदों में विपरीत कार्य करते हैं।'",
+  "new": "इस प्रकार बोलते हुए भगवान् आत्रेय से अग्निवेश ने कहा— 'भगवन्, यहाँ हम हितकर और अहितकर आहार-प्रकारों का अपवाद-रहित लक्षण कैसे जानें? हम देखते हैं कि हितकर कहे गए और अहितकर कहे गए आहार-प्रकार मात्रा, काल, क्रिया, भूमि, देह, दोष, पुरुष और अवस्था के भेदों में विपरीत कार्य करते हैं।'",
+  "why": "reviewer (minor): āhārajāta is rendered 'kinds of food' in English but आहार-द्रव्य ('food substances') in Hindi; make them agree (new glossary item)."
+ }
+]
