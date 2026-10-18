@@ -1,0 +1,605 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "type",
+     "problem": "MANUAL: input type is 'verse' but the unit is prose (no metre); the type in units.json/chunk input needs a human fix. Draft note already says so; no change to the draft.",
+     "fix": "(none in the draft; correct the unit type upstream)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "type",
+     "problem": "MANUAL: input type is 'verse' but the unit is prose (no metre); the type in units.json/chunk input needs a human fix. Draft note already says so; no change to the draft.",
+     "fix": "(none in the draft; correct the unit type upstream)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "type",
+     "problem": "MANUAL: input type is 'verse' but the unit is prose (no metre); the type in units.json/chunk input needs a human fix. Draft note already says so; no change to the draft.",
+     "fix": "(none in the draft; correct the unit type upstream)",
+     "severity": "minor"
+    },
+    {
+     "field": "gloss",
+     "where": "kālavat",
+     "problem": "Indeclinable -vat is the suffix of comparison ('like time'); it stands directly before anavasthita- and gives 'unceasing like time'. 'at the proper time' attached to yojayati is not supported by the word order; keep 'in due time' as the alternative in notes.",
+     "fix": "like time",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "kālavat",
+      "field": "gloss",
+      "value": "like time"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "kālavat gram",
+     "problem": "gram should show the comparative -vat and what it qualifies.",
+     "fix": "ind. (-vat of comparison), with an-avasthita",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "kālavat",
+      "field": "gram",
+      "value": "ind. (-vat of comparison), with an-avasthita"
+     }
+    },
+    {
+     "field": "english",
+     "where": "kālavat",
+     "problem": "Follow the comparative reading of kālavat.",
+     "fix": "endows the whole body, in which the transformation (pāka) of all the dhātus is unceasing like time",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "at the proper time endows the whole body, in which the transformation (pāka) of all the dhātus is unceasing",
+      "new": "endows the whole body, in which the transformation (pāka) of all the dhātus is unceasing like time"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "कालवत्",
+     "problem": "Same as the English: kālavat = like time (काल के समान).",
+     "fix": "जिसमें सभी धातुओं का पाक काल के समान निरन्तर चलता रहता है",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "समय पर, जिसमें सभी धातुओं का पाक निरन्तर होता रहता है",
+      "new": "जिसमें सभी धातुओं का पाक काल के समान निरन्तर चलता रहता है"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Note must match the new primary reading.",
+     "fix": "kālavat (indeclinable -vat of comparison) is taken with anavasthita ('unceasing like time'); it may also be read 'in due time' with vipacyamānam.",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "notes",
+      "old": "kālavat may also be taken with vipacyamānam ('being digested in due time').",
+      "new": "kālavat (indeclinable -vat of comparison) is taken with anavasthita ('unceasing like time'); it may also be read 'in due time' with vipacyamānam."
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "3 flags",
+     "problem": "Judged: -pakam -> -pākam accepted as possible (no word paka-; √pac sense, vipacyamānaṃ in the same unit); ūṇsma -> ūṣma accepted (ṇs impossible; ūṣmaṇā in the same unit); śrīram -> śarīram accepted (śarīra- in the same line). The first flag's suggest also silently contains the ūṣma correction; acceptable since the second flag covers it.",
+     "fix": "(keep all three)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "P1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "type",
+     "problem": "MANUAL: input type is 'verse' but the unit is prose (no metre); the type in units.json/chunk input needs a human fix. Draft note already says so; no change to the draft.",
+     "fix": "(none in the draft; correct the unit type upstream)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "P2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "vāta-pitta-śleṣmāṇaḥ",
+     "problem": "Judged: the glossary rule 'vāta with mūtra-purīṣa released = wind' does not apply: here vāta stands in the full triad vāta-pitta-śleṣman as products of kiṭṭa, so the doṣa names Vāta, Pitta, Kapha (śleṣman) are right. No change.",
+     "fix": "(keep)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "P3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "svaṃ",
+     "problem": "svaṃ agrees with mānam (n. acc. sg.), not masculine.",
+     "fix": "n. acc. sg.",
+     "severity": "error",
+     "patch": {
+      "n": "P4",
+      "op": "word",
+      "match_w": "svam",
+      "field": "gram",
+      "value": "n. acc. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "P5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "utasargiṇaḥ",
+     "problem": "Judged: accepted (ud-√sṛj gives utsarga/utsargin; 'utasarg-' has an impossible extra a). paryāya 'in alternation' kept literal with the 'opposite quality' sense in notes: acceptable.",
+     "fix": "(keep)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "type",
+     "problem": "MANUAL: input type is 'verse' but the unit is prose (no metre); the type in units.json/chunk input needs a human fix. Draft note already says so; no change to the draft.",
+     "fix": "(none in the draft; correct the unit type upstream)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "P8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "type",
+     "problem": "MANUAL: input type is 'verse' but the unit is prose (no metre); the type in units.json/chunk input needs a human fix. Draft note already says so; no change to the draft.",
+     "fix": "(none in the draft; correct the unit type upstream)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "type",
+     "problem": "MANUAL: input type is 'verse' but the unit is prose (no metre); the type in units.json/chunk input needs a human fix. Draft note already says so; no change to the draft.",
+     "fix": "(none in the draft; correct the unit type upstream)",
+     "severity": "minor"
+    },
+    {
+     "field": "text_flags",
+     "where": "antā -> anyā",
+     "problem": "Judged: accepted as possible. 'antā' is no word agreeing with f. rogaprakṛtayaḥ; ṛte'pi 'even apart from' requires 'other' sources; anyāḥ before r loses its visarga (anyā r-), and P12 'tāś ca rogaprakṛtayaḥ' confirms rogaprakṛtayaḥ as the head noun. tannimittāḥ 'caused by that (wholesome food)', bahuvrīhi: correct.",
+     "fix": "(keep)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "P12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "atiyogāt",
+     "problem": "The compound ends in singular m. abl. -atiyogāt, so atiyoga is the head of a tat-puruṣa whose first member is the dvandva deśa-…-pramāṇa; 'dvandva/tat-puruṣa' is a hedge, and a five-member dvandva would be plural.",
+     "fix": "m. abl. sg., tat-puruṣa (dvandva first member)",
+     "severity": "minor",
+     "patch": {
+      "n": "P15",
+      "op": "word",
+      "match_w": "deśa-kāla-saṃyoga-vīrya-pramāṇa-atiyogāt",
+      "field": "gram",
+      "value": "m. abl. sg., tat-puruṣa (dvandva first member)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "atiyogāt gloss",
+     "problem": "Gloss follows the tat-puruṣa reading.",
+     "fix": "through excess of place, time, combination, potency and quantity",
+     "severity": "minor",
+     "patch": {
+      "n": "P15",
+      "op": "word",
+      "match_w": "deśa-kāla-saṃyoga-vīrya-pramāṇa-atiyogāt",
+      "field": "gloss",
+      "value": "through excess of place, time, combination, potency and quantity"
+     }
+    },
+    {
+     "field": "english",
+     "where": "English",
+     "problem": "English attaches atiyoga only to quantity, against the compound's structure and against the draft's own Hindi (… प्रमाण के अतियोग से).",
+     "fix": "through excess (atiyoga) of place, time, combination, potency (vīrya) and quantity",
+     "severity": "error",
+     "patch": {
+      "n": "P15",
+      "op": "replace",
+      "field": "english",
+      "old": "through place, time, combination, potency (vīrya) and excess of quantity",
+      "new": "through excess (atiyoga) of place, time, combination, potency (vīrya) and quantity"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Note must match the corrected reading.",
+     "fix": "atiyoga 'excess' is the head of the compound and is taken with every member ('excess of place, time ...', as rendered); restricting it to pramāṇa alone is a possible looser reading.",
+     "severity": "minor",
+     "patch": {
+      "n": "P15",
+      "op": "replace",
+      "field": "notes",
+      "old": "atiyoga 'excess' may attach to pramāṇa alone ('excessive quantity', as rendered) or to every member ('excess of place, time ...').",
+      "new": "atiyoga 'excess' is the head of the compound and is taken with every member ('excess of place, time ...', as rendered); restricting it to pramāṇa alone is a possible looser reading."
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "apathayṃ",
+     "problem": "Judged: accepted (no such word; apathyaṃ in the same line).",
+     "fix": "(keep)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "P16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "type",
+     "problem": "MANUAL: input type is 'verse' but the unit is prose (no metre); the type in units.json/chunk input needs a human fix. Draft note already says so; no change to the draft.",
+     "fix": "(none in the draft; correct the unit type upstream)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "Hindi अब",
+     "problem": "'अब' (now) is added; no word for it in the Sanskrit and none in the English.",
+     "fix": "रक्त के दोष से उत्पन्न",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अब रक्त के दोष से उत्पन्न",
+      "new": "रक्त के दोष से उत्पन्न"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "pipplavaḥ",
+     "problem": "Gloss spells the name 'piplus' while w keeps the printed pipplavaḥ; keep the printed spelling throughout (no flag: metre cannot decide, the first syllable is heavy either way).",
+     "fix": "pipplus (name, as printed)",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "word",
+      "match_w": "pipplavaḥ",
+      "field": "gloss",
+      "value": "pipplus (name, as printed)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "English piplus",
+     "problem": "Printed spelling pipplu kept, as in w (glossary: names keep printed spelling unless the chunk shows the correction).",
+     "fix": "pipplus and tilakālakas",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "english",
+      "old": "piplus and tilakālakas",
+      "new": "pipplus and tilakālakas"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "Hindi पिप्लु",
+     "problem": "Same: printed पिप्प्लव- kept.",
+     "fix": "पिप्प्लु और तिलकालक",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पिप्लु और तिलकालक",
+      "new": "पिप्प्लु और तिलकालक"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "'elsewhere called piplu (plural piplavaḥ)' rests on memory of other passages; 'tilaka + alaka' is an unsupported division (alaka gives no disease sense). Removed.",
+     "fix": "The printed pipplavaḥ (double p) is kept; the metre does not decide (the first syllable is heavy either way), so no flag. tilakālaka is taken as one disease name ('black like sesame').",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "notes",
+      "old": "The printed pipplavaḥ (double p) is kept; the disease is elsewhere called piplu (plural piplavaḥ); the metre does not decide (the syllable is heavy either way), so no flag. tilakālaka is taken as one disease name; a division into tilaka + alaka is also conceivable.",
+      "new": "The printed pipplavaḥ (double p) is kept; the metre does not decide (the first syllable is heavy either way), so no flag. tilakālaka is taken as one disease name ('black like sesame')."
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "koṭhāsramaṇḍalam",
+     "problem": "Split as two words 'koṭha' (bare stem) + 'asra-maṇḍalam'. A bare stem is not a word: the printed token can only be one compound (two separate nominatives would give koṭho 'sra-). It is a singular dvandva of two list items, so samāhāra, neuter (glossary: singular dvandvas = samāhāra, neuter). The kṣut + tṛṣṇā rule does not apply (there both are real nominatives).",
+     "fix": "words: [{\"w\":\"koṭha-asra-maṇḍalam\",\"gloss\":\"koṭha (rash) and blood-circles (asramaṇḍala)\",\"gram\":\"n. nom. sg., samāhāra dvandva\"}]",
+     "severity": "error"
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Match the corrected split.",
+     "fix": "koṭhāsramaṇḍalam is a samāhāra dvandva (n. sg.) of two list items, koṭha and asramaṇḍala.",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "notes",
+      "old": "koṭhāsramaṇḍalam is a compound of two list items; given here as koṭha + asramaṇḍalam.",
+      "new": "koṭhāsramaṇḍalam is a samāhāra dvandva (n. sg.) of two list items, koṭha and asramaṇḍala."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "carmadalā",
+     "problem": "Gloss 'carmadala' differs from w and English carmadalā (printed f. ā-stem; a lost visarga is impossible before ś after ā here, so f. nom. sg. is right).",
+     "fix": "carmadalā (name)",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "word",
+      "match_w": "carmadalā",
+      "field": "gloss",
+      "value": "carmadalā (name)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "Hindi अब",
+     "problem": "'अब' added; no word for it in the Sanskrit or the English.",
+     "fix": "मांस के दोष से",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अब मांस के दोष से",
+      "new": "मांस के दोष से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "adhimāṃsārbudaṃ",
+     "problem": "Split as 'adhimāṃsa' (bare stem) + 'arbudam'. The printed token is one compound (two words would be adhimāṃsam arbudam); a singular dvandva of two list items = samāhāra, neuter.",
+     "fix": "words: [{\"w\":\"adhimāṃsa-arbudam\",\"gloss\":\"adhimāṃsa (excess flesh) and arbuda\",\"gram\":\"n. nom. sg., samāhāra dvandva\"}]",
+     "severity": "error"
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Match the corrected split.",
+     "fix": "adhimāṃsārbudaṃ is a samāhāra dvandva (n. sg.) of two list items, adhimāṃsa and arbuda.",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "notes",
+      "old": "adhimāṃsārbudaṃ is a compound of two list items, given as adhimāṃsa + arbudam.",
+      "new": "adhimāṃsārbudaṃ is a samāhāra dvandva (n. sg.) of two list items, adhimāṃsa and arbuda."
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "ninditāni",
+     "problem": "The neuter ninditāni cannot agree with the masculine (roga) understood in medaḥsaṃśrayān, and the chunk names no noun for it; 'conditions' is an invented referent. Keep the substantive literal, as the gloss already does (glossary: a word used as a plural substantive gets no supplied noun).",
+     "fix": "the condemned (ones)",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "english",
+      "old": "the condemned (conditions)",
+      "new": "the condemned (ones)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "निन्दित (अवस्थाएँ)",
+     "problem": "Same: no supplied noun.",
+     "fix": "जो निन्दित हैं वे, और प्रमेहों के जो पूर्वरूप हैं",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "hindi",
+      "old": "निन्दित (अवस्थाएँ) और प्रमेहों के जो पूर्वरूप हैं",
+      "new": "जो निन्दित हैं वे, और प्रमेहों के जो पूर्वरूप हैं"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Remove the note about the supplied noun.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "notes",
+      "old": "'conditions' / 'अवस्थाएँ' is supplied. ",
+      "new": ""
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Fixes: 7 error, 17 minor (plus 'Judged' and MANUAL entries with no change). Errors: unit 3 kālavat read as comparative 'like time' (gloss, English, Hindi); P4 svam gender; P15 atiyoga head of the compound (English vs Hindi mismatch); 13 koṭhāsramaṇḍalam and 14 adhimāṃsārbudaṃ split into a bare stem + word, must be one samāhāra dvandva each (no patch: needs a human/drafter edit of words). Minor: Hindi 'अब' added in 11 and 13; 12 pipplu spelling and memory-based note removed; 13 carmadalā gloss; 15 supplied 'conditions' removed; P15 gram. All 6 text_flags accepted (3 in unit 3, P7, P15, unit 7 as possible), each resting on evidence in the chunk or grammar. P2 doṣa names correct. MANUAL: units 1-8 are prose typed as verse (fix unit type upstream). No regrouping suggested; SENTENCE notes 9-15 correct. Confidence levels honest; checker 0 errors."
+}
