@@ -1,0 +1,82 @@
+[
+ {
+  "n": "6",
+  "field": "english",
+  "old": "And when this has been said, one should not think that heaviness and lightness in a substance are of no account; for light substances abound in the qualities of air (vāyu) and fire (agni), and the others abound in the qualities of earth and soma. Therefore light substances, even by their own quality, are by nature kindlers of the fire, and are said to be of little harm even when taken to satiety; heavy substances, however, are not by nature kindlers of the fire, because of dissimilarity, and hence, taken to satiety in excess, they are harmful, except with strength from exercise and of the fire. This is the measure that depends on the strength of the fire.",
+  "new": "And when this has been said, one should not think that heaviness and lightness in a substance are of no account; for light substances abound in the qualities of air (vāyu) and fire (agni), and the others abound in the qualities of earth and soma. Therefore light substances, even by their own quality, are by nature kindlers of the fire, and are said to be of little harm even when taken to satiety; heavy substances, however, are not by nature kindlers of the fire, because of dissimilarity, and hence, taken to satiety, they are excessively harmful, except where there is strength from exercise and strength of the fire. This is the measure that depends on the strength of the fire.",
+  "why": "reviewer (minor): atimātram most naturally qualifies doṣavanti ('excessively harmful'), since sauhityopayuktāni already says 'taken to satiety'; 'taken to satiety in excess' doubles the excess. 'except with strength from exercise and of the fire' is unclear English."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "ऐसा कहे जाने पर द्रव्य में गुरुता और लघुता को अकारण न माने; क्योंकि लघु द्रव्य वायु और अग्नि के गुणों की बहुलता वाले होते हैं, और अन्य द्रव्य पृथ्वी और सोम के गुणों की बहुलता वाले। इसलिए लघु द्रव्य अपने गुण से भी अग्नि को प्रदीप्त करने के स्वभाव वाले होते हैं, और सौहित्य तक सेवन किए जाने पर भी अल्प दोष वाले कहे जाते हैं; किन्तु गुरु द्रव्य असमानता के कारण अग्नि को प्रदीप्त करने के स्वभाव वाले नहीं होते, और इसलिए अतिमात्रा में सौहित्य तक सेवन किए जाने पर दोषयुक्त होते हैं, व्यायाम और अग्नि के बल के सिवा। यही वह मात्रा है जो अग्नि के बल की अपेक्षा रखती है।",
+  "new": "ऐसा कहे जाने पर द्रव्य में गुरुता और लघुता को अकारण न माने; क्योंकि लघु द्रव्य वायु और अग्नि के गुणों की बहुलता वाले होते हैं, और अन्य द्रव्य पृथ्वी और सोम के गुणों की बहुलता वाले। इसलिए लघु द्रव्य अपने गुण से भी अग्नि को प्रदीप्त करने के स्वभाव वाले होते हैं, और सौहित्य तक सेवन किए जाने पर भी अल्प दोष वाले कहे जाते हैं; किन्तु गुरु द्रव्य असमानता के कारण अग्नि को प्रदीप्त करने के स्वभाव वाले नहीं होते, और इसलिए सौहित्य तक सेवन किए जाने पर अत्यधिक दोषयुक्त होते हैं, व्यायाम और अग्नि के बल के सिवा। यही वह मात्रा है जो अग्नि के बल की अपेक्षा रखती है।",
+  "why": "reviewer (minor): Same construal as the English: atimātram goes with doṣavanti."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "और यहाँ (श्लोक) हैं — इसलिए भोजन कर चुका मनुष्य गुरु पिष्टमय पदार्थ, तण्डुल और पृथुक भी कभी न खाए; भूखा होने पर मात्रा से खाए।",
+  "new": "और यहाँ श्लोक हैं — इसलिए भोजन कर चुका मनुष्य गुरु पिष्टमय पदार्थ, तण्डुल और पृथुक भी कभी न खाए; भूखा होने पर मात्रा से खाए।",
+  "why": "reviewer (minor): Bracketed supply in the Hindi (brief: no bracketed glosses in Hindi)."
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "kṛśam",
+  "old": "of an emaciated (animal)",
+  "new": "lean, emaciated",
+  "why": "reviewer (minor): Gloss imports the commentators' 'of an emaciated (animal)' and disagrees with the English 'lean meat'; the note already gives the commentary reading."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "षष्टिक, शालि और मुद्ग, सैन्धव और आमलक, यव, आन्तरिक्ष पय, सर्पि, जांगल और मधु का अभ्यास करे।",
+  "new": "षष्टिक, शालि और मुद्ग, सैन्धव और आमलक, यव, आन्तरिक्ष जल, सर्पि, जांगल और मधु का अभ्यास करे।",
+  "why": "reviewer (minor): In Hindi पय reads as milk; the draft itself (note, English) takes payaḥ here as rain-water. The glossary rule payas = milk does not apply to āntarīkṣa payas."
+ },
+ {
+  "n": "18",
+  "field": "word.gram",
+  "word": "malinānām",
+  "old": "n. gen. pl.",
+  "new": "n. gen. pl. (metrically short for malinānām)",
+  "why": "reviewer (error): The word was silently normalised to malinānām, which does not match the printed malināṃ, and no text_flag was added (the note even says it is not flagged). Either keep the printed form in `w` or flag it; since the note argues the short form is metrical, keep it."
+ },
+ {
+  "n": "18",
+  "field": "word.w",
+  "word": "malinānām",
+  "old": "malinānām",
+  "new": "malinām",
+  "why": "reviewer (error): Second step of the same fix: set `w` to the printed form (apply after the gram patch)."
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "having made a wick with the madhuraka (sweet) drugs, one should practise the unctuous (snaihikī) smoke. Śvetā and jyotiṣmatī, haritāla, manaḥśilā,",
+  "new": "having made the unctuous (snaihikī) wick with the madhuraka (sweet) drugs, one should practise smoking. Śvetā and jyotiṣmatī, haritāla, manaḥśilā,",
+  "why": "reviewer (error): snaihikīm (f. acc. sg.) agrees with vartim (f. acc. sg.), not with dhūmam (m.): 'having made the unctuous wick'. Same pattern as prāyogikīm with vartim in 24-25. The draft attaches snaihikī to the smoke and explains the mismatch away in the note."
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "मधुरकों से वर्ति बनाकर स्नैहिकी धूम का सेवन करे। श्वेता, ज्योतिष्मती, हरिताल और मनःशिला,",
+  "new": "मधुरकों से स्नैहिकी वर्ति बनाकर धूम का सेवन करे। श्वेता, ज्योतिष्मती, हरिताल और मनःशिला,",
+  "why": "reviewer (error): Same agreement error: स्नैहिकी goes with वर्ति."
+ },
+ {
+  "n": "26",
+  "field": "notes",
+  "old": "GROUPING: 26a ends the snaihika smoking of 25b; 26b begins the list for head-evacuating smoke (mūrdhavirecana), completed at 27a. dhūmam is masculine while snaihikīm is feminine: snaihikīm agrees with an understood varti or is used loosely; sense is 'unctuous smoking'. madhuraka = the sweet group of drugs (jīvanīya etc.). Identifications: śvetā = white aparājitā, Clitoria ternatea (probable); jyotiṣmatī = Celastrus paniculatus (standard); haritāla = orpiment, arsenic trisulphide (standard); manaḥśilā = realgar, arsenic disulphide (standard).",
+  "new": "GROUPING: 26a ends the snaihika smoking of 25b; 26b begins the list for head-evacuating smoke (mūrdhavirecana), completed at 27a. dhūmam is masculine while snaihikīm is feminine: snaihikīm agrees with an understood varti or is used loosely; sense is 'unctuous smoking'. madhuraka = the sweet group of drugs (jīvanīya etc.). Identifications: śvetā = white aparājitā, Clitoria ternatea (probable); jyotiṣmatī = Celastrus paniculatus (standard); haritāla = orpiment, arsenic trisulphide (standard); manaḥśilā = realgar, arsenic disulphide (standard). Correction (review): snaihikīm agrees with vartim ('the unctuous wick'), as prāyogikīm does in 25a; the remark that it goes loosely with dhūmam is withdrawn.",
+  "why": "reviewer (minor): The note's 'used loosely' explanation is unnecessary once snaihikīm is taken with vartim."
+ },
+ {
+  "n": "36",
+  "field": "english",
+  "old": "diseases to him. But the bouts (āpāna) to be drunk should be three times three each. At most, the wise man should be one who drinks at two times, at the times of the day.",
+  "new": "diseases to him. But the bouts (āpāna) to be drunk should be three times three each. At most, the wise man should drink (smoke) at two of the times in a day.",
+  "why": "reviewer (minor): Awkward and repetitive; dvikālapāyī ... ahnaḥ kāleṣu = drinks (smoke) at two of the times in a day."
+ }
+]

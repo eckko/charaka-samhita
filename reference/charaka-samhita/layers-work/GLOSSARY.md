@@ -30,3 +30,8 @@ Draft status: AI drafts, not read by a person.
 - yavāgū = gruel (यवागू); peyā = thin gruel (पेया); takra = buttermilk (तक्र); niryūha = soup/decoction; māṃsarasa = meat-juice; pañcakarma = the five procedures (पञ्चकर्म); atisāra = diarrhoea; viṣamajvara = irregular fever; āmāśaya, pakvāśaya kept as Sanskrit
 - dīpana = stimulating digestion; pācana = digesting; grāhin/sāṃgrāhika = binding; bṛṃhaṇa = nourishing; karśana = reducing; virūkṣaṇa = drying; bhedin = breaking (purgative); vyāpad = ill effect
 - nāgara/viśva (n.) = dry ginger (Sanskrit name kept); Ślokasthāna = Śloka section (Ślokasthāna); śleṣman in Hindi = श्लेष्मा
+- vāyu as an element (with agni, pṛthvī, soma) = air (वायु), not Vāta; soma with pṛthvī = soma (सोम)
+- āntarīkṣa payas = rain-water (आन्तरिक्ष जल) — exception to payas = milk
+- añjana = collyrium (अञ्जन); sauvīrāñjana, rasāñjana kept; āścyotana = eye-drops (आश्च्योतन); varti = wick (वर्ति); dhūmapāna = smoking (धूमपान)
+- smoking kinds: prāyogikī = regular, snaihikī = unctuous, mūrdhavirecana = head-evacuating (prāyogikī/snaihikī agree with varti, feminine)
+- mātrā = measure (मात्रा); guru/laghu = heavy/light (गुरु/लघु); svasthavṛtta = regimen of the healthy (स्वस्थवृत्त); nāvana = nasal therapy (नावन)
