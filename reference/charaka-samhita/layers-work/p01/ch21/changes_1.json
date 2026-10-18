@@ -1,0 +1,235 @@
+[
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "यहाँ शरीर को लेकर आठ प्रकार के पुरुष निन्दित होते हैं; जैसे — अत्यन्त लम्बा, अत्यन्त नाटा, अत्यधिक रोमों वाला, रोमरहित, अत्यन्त काला, अत्यन्त गोरा, अत्यन्त स्थूल और अत्यन्त कृश।",
+  "new": "यहाँ शरीर को लेकर आठ पुरुष निन्दित होते हैं; जैसे — अत्यन्त लम्बा, अत्यन्त नाटा, अत्यधिक रोमों वाला, रोमरहित, अत्यन्त काला, अत्यन्त गोरा, अत्यन्त स्थूल और अत्यन्त कृश।",
+  "why": "reviewer (minor): 'प्रकार के' is not in the Sanskrit (aṣṭau puruṣāḥ = eight persons)."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "उनमें अत्यन्त स्थूल और अत्यन्त कृश में इसके अतिरिक्त और दूसरे विशेष निन्दनीय दोष होते हैं।",
+  "new": "उनमें अत्यन्त स्थूल और अत्यन्त कृश में इसके अतिरिक्त और दूसरे विशेष निन्दनीय बातें होती हैं।",
+  "why": "reviewer (minor): Hindi says दोष while the English (rightly) says 'features'; viśeṣa is not doṣa, and दोष clashes with the doṣa term."
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "nindita-viśeṣāḥ",
+  "old": "m. nom. pl., tat-puruṣa",
+  "new": "m. nom. pl., karmadhāraya",
+  "why": "reviewer (minor): 'censured particulars' is a karmadhāraya (adjective + noun), not a tat-puruṣa."
+ },
+ {
+  "n": "P1",
+  "field": "hindi",
+  "old": "अत्यन्त स्थूल पुरुष के ये आठ दोष होते हैं — आयु का ह्रास, वेग का अवरोध, मैथुन में कठिनाई, दुर्बलता, दुर्गन्ध, स्वेद से कष्ट, अत्यधिक भूख और अत्यधिक प्यास।",
+  "new": "अत्यन्त स्थूल पुरुष के ये आठ दोष होते हैं — आयु का ह्रास, गति का अवरोध, मैथुन में कठिनाई, दुर्बलता, दुर्गन्ध, स्वेद से कष्ट, अत्यधिक भूख और अत्यधिक प्यास।",
+  "why": "reviewer (minor): java = speed; वेग is the fixed Hindi for vega 'urge' (glossary) and misleads here."
+ },
+ {
+  "n": "P2",
+  "field": "hindi",
+  "old": "वह अत्यन्त स्थूलता अति-सन्तर्पण से, गुरु, मधुर, शीत और स्निग्ध पदार्थों के सेवन से, व्यायाम न करने से, मैथुन न करने से, दिन में सोने से, सदा प्रसन्न रहने से, चिन्तन न करने से और बीज के स्वभाव से उत्पन्न होती है।",
+  "new": "वह अत्यन्त स्थूलता अत्यधिक पेट भरने से, गुरु, मधुर, शीत और स्निग्ध पदार्थों के सेवन से, व्यायाम न करने से, मैथुन न करने से, दिन में सोने से, सदा प्रसन्न रहने से, चिन्तन न करने से और बीज के स्वभाव से उत्पन्न होती है।",
+  "why": "reviewer (error): atisaṃpūraṇa 'over-filling' is rendered with सन्तर्पण, which is a different term (saṃtarpaṇa, unit 20)."
+ },
+ {
+  "n": "P3",
+  "field": "hindi",
+  "old": "क्योंकि उस अत्यधिक मेद वाले पुरुष में केवल मेद बढ़ता है, दूसरी धातुएँ वैसे नहीं बढ़तीं, इसलिए उसकी आयु का ह्रास होता है; मेद की शिथिलता, सुकुमारता और भारीपन से वेग का अवरोध होता है; शुक्र की अल्पता से और मेद से मार्गों के ढके होने से मैथुन में कठिनाई होती है; धातुओं की असमानता से दुर्बलता; मेद के दोष से, मेद के स्वभाव से और स्वेद उत्पन्न करने के कारण दुर्गन्ध; मेद का श्लेष्मा से संसर्ग होने, उसके स्रवणशील होने, उसकी अधिकता, उसके भारीपन और उसके व्यायाम न सह सकने से स्वेद से कष्ट; तथा तीक्ष्ण अग्नि होने से और कोष्ठ में प्रचुर वायु होने से अत्यधिक भूख और अत्यधिक प्यास होती है।",
+  "new": "क्योंकि उस अत्यधिक मेद वाले पुरुष में केवल मेद बढ़ता है, दूसरी धातुएँ वैसे नहीं बढ़तीं, इसलिए उसकी आयु का ह्रास होता है; मेद की शिथिलता, सुकुमारता और भारीपन से गति का अवरोध होता है; शुक्र की अल्पता से और मेद से मार्गों के ढके होने से मैथुन में कठिनाई होती है; धातुओं की असमानता से दुर्बलता; मेद के दोष से, मेद के स्वभाव से और स्वेद उत्पन्न करने के कारण दुर्गन्ध; मेद का श्लेष्मा से संसर्ग होने, उसके स्रवणशील होने, उसकी अधिकता, उसके भारीपन और उसके व्यायाम न सह सकने से स्वेद से कष्ट; तथा तीक्ष्ण अग्नि होने से और कोष्ठ में प्रचुर वायु होने से अत्यधिक भूख और अत्यधिक प्यास होती है।",
+  "why": "reviewer (minor): Same as P1: java = speed, not वेग (urge)."
+ },
+ {
+  "n": "5",
+  "field": "notes",
+  "old": "The lead-in bhavanti cātra is printed as the first line of the unit. viśeṣataḥ may also go with caran 'moving especially'; either way the sense is the same.",
+  "new": "The lead-in bhavanti cātra is printed as the first line of the unit. viśeṣataḥ may go with koṣṭhe ('especially in the bowel') or with caran; either way the sense is the same.",
+  "why": "reviewer (minor): The alternative given is the reading already used in the English; the real alternative is koṣṭhe 'especially in the bowel'."
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "Therefore he digests food quickly and craves it excessively, and, when the time (of eating) is transgressed, he incurs some terrible disorders.",
+  "new": "Therefore he digests food quickly and craves it excessively, and, when the time is transgressed, he incurs some terrible disorders.",
+  "why": "reviewer (minor): '(of eating)' is an interpretation the note itself says the text does not state; keep it in the note only."
+ },
+ {
+  "n": "7",
+  "field": "text_flags.0.why",
+  "old": "possible: dahataḥ needs an accusative object; sthūlā (nom. pl. or f.) has no fitting case; a lost anusvāra gives the acc. sg. and keeps the metre",
+  "new": "possible: dahataḥ needs an accusative object and sthūlā has no fitting case; a lost final nasal gives sthūlaṃ (acc. sg., used in words) or sthūlān (acc. pl.); both keep the metre",
+  "why": "reviewer (minor): Flag is supported by grammar (dahataḥ needs an object), but the acc. pl. sthūlān (lost n, plural like vanā) is as likely as sthūlaṃ; say so."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "When fat has increased greatly, Vāta (anila) and the other doṣas suddenly produce dreadful disorders and quickly destroy life.",
+  "new": "When fat has increased greatly, Vāta (anila) and the others suddenly produce dreadful disorders and quickly destroy life.",
+  "why": "reviewer (minor): 'doṣas' is not in the Sanskrit (anilādayaḥ = anila and the rest); the note already says it is understood."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "जब मेद अत्यधिक बढ़ जाता है, तब अनिल आदि दोष सहसा ही दारुण विकार उत्पन्न करके शीघ्र जीवन को नष्ट कर देते हैं।",
+  "new": "जब मेद अत्यधिक बढ़ जाता है, तब अनिल आदि सहसा ही दारुण विकार उत्पन्न करके शीघ्र जीवन को नष्ट कर देते हैं।",
+  "why": "reviewer (minor): 'doṣas' is not in the Sanskrit (anilādayaḥ = anila and the rest); the note already says it is understood."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "Thus the defects (doṣa), causes and form of the fat person have been stated; after this, what is to be said about extreme leanness will be stated.",
+  "new": "Thus the defects (doṣa), causes and symptoms (rūpa) of the fat person have been stated; after this, what is to be said about extreme leanness will be stated.",
+  "why": "reviewer (minor): Glossary: rūpa = symptoms."
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "rūpam",
+  "old": "form (symptoms)",
+  "new": "symptoms",
+  "why": "reviewer (minor): Glossary: rūpa = symptoms."
+ },
+ {
+  "n": "17",
+  "field": "word.gram",
+  "word": "atipīḍayet",
+  "old": "3 sg. opt. caus. ati-√pīḍ",
+  "new": "3 sg. opt. ati-√pīḍ (class 10)",
+  "why": "reviewer (minor): √pīḍ is a class-10 root; pīḍayati is not a causative."
+ },
+ {
+  "n": "19",
+  "field": "notes",
+  "old": "The subject is the man of unit 18. samajaraḥ: jara from √jṝ 'digest' (cf. jarayati in unit 6); it could also mean 'ageing evenly'. samapaktā: paktṛ 'digester'.",
+  "new": "The subject is the man of unit 18. samajaraḥ: from √jṝ, whose causative jarayati 'digests' is used in unit 6; taken as even digestion; it could also come from jarā 'old age' ('ageing evenly'). samapaktā: paktṛ 'digester'.",
+  "why": "reviewer (minor): √jṝ means 'wear out, grow old'; 'digest' is its causative jarayati. Reworded; the reading samajara = even digestion is acceptable alongside 'ageing evenly'."
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "For reducing (karśana) the obese, what is heavy and non-nourishing is desired; and for nourishing (bṛṃhaṇa) the lean, what is light and nourishing.",
+  "new": "For reducing (karśana) the obese, what is heavy and non-replenishing (atarpaṇa) is desired; and for nourishing (bṛṃhaṇa) the lean, what is light and replenishing (saṃtarpaṇa).",
+  "why": "reviewer (error): saṃtarpaṇa and bṛṃhaṇa are both rendered 'nourishing' in the same sentence; keep them apart (new glossary line: atarpaṇa/saṃtarpaṇa = non-replenishing/replenishing)."
+ },
+ {
+  "n": "20",
+  "field": "word.gloss",
+  "word": "atarpaṇam",
+  "old": "non-nourishing",
+  "new": "non-replenishing",
+  "why": "reviewer (error): saṃtarpaṇa and bṛṃhaṇa are both rendered 'nourishing' in the same sentence; keep them apart (new glossary line: atarpaṇa/saṃtarpaṇa = non-replenishing/replenishing)."
+ },
+ {
+  "n": "20",
+  "field": "word.gloss",
+  "word": "saṃtarpaṇam",
+  "old": "nourishing",
+  "new": "replenishing",
+  "why": "reviewer (error): saṃtarpaṇa and bṛṃhaṇa are both rendered 'nourishing' in the same sentence; keep them apart (new glossary line: atarpaṇa/saṃtarpaṇa = non-replenishing/replenishing)."
+ },
+ {
+  "n": "22",
+  "field": "word.gram",
+  "word": "traiphalaḥ",
+  "old": "m. nom. sg.",
+  "new": "m. nom. sg., vṛddhi derivative of triphalā (adj. with prayogaḥ)",
+  "why": "reviewer (minor): traiphala is a vṛddhi derivative (adjective) of triphalā agreeing with prayogaḥ, not a plain noun."
+ },
+ {
+  "n": "22",
+  "field": "word.gloss",
+  "word": "traiphalaḥ",
+  "old": "of triphalā",
+  "new": "of triphalā (the triphalā one)",
+  "why": "reviewer (minor): traiphala is a vṛddhi derivative (adjective) of triphalā agreeing with prayogaḥ, not a plain noun."
+ },
+ {
+  "n": "22",
+  "field": "notes",
+  "old": "takrāriṣṭa may also be one item, 'an ariṣṭa made with buttermilk'; taken as two (the plural prayogāḥ allows either). mākṣika is a kind of honey; the same word also names a mineral, so the reading is not certain. Identifications: guḍūcī = Tinospora cordifolia (standard); bhadramustā = a kind of mustā, Cyperus rotundus (probable).",
+  "new": "takrāriṣṭa may also be one item, 'an ariṣṭa made with buttermilk'; taken as two (the plural prayogāḥ allows either). mākṣika is a kind of honey; the same word also names a mineral, so the reading is not certain. Identifications: guḍūcī = Tinospora cordifolia (standard); bhadramustā = Cyperus rotundus (probable).",
+  "why": "reviewer (minor): Muddled identification; keep it minimal. guḍūcī (standard) is kept; takrāriṣṭa and mākṣika notes are sound (both readings shown, no firm choice)."
+ },
+ {
+  "n": "23",
+  "field": "english",
+  "old": "viḍaṅga, dry ginger (nāgara), alkali (kṣāra), powder of black metal (kālaloha), honey (madhu), and powder of barley and āmalaka: their administration combined with honey (kṣaudra);",
+  "new": "viḍaṅga, dry ginger (nāgara), alkali (kṣāra), powder of black metal (kālaloha), honey (madhu), and powder of barley and āmalaka; administration combined with honey (kṣaudra);",
+  "why": "reviewer (minor): 'their'/'इनका' is added: the text has only 'prayogaḥ kṣaudrasaṃyutaḥ', which may go with the barley-āmalaka powder alone or the whole list."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "विडङ्ग, नागर, क्षार, काले लोह का चूर्ण, मधु, और यव तथा आमलक का चूर्ण — इनका क्षौद्र के साथ प्रयोग,",
+  "new": "विडङ्ग, नागर, क्षार, काले लोह का चूर्ण, मधु, और यव तथा आमलक का चूर्ण — क्षौद्र के साथ प्रयोग,",
+  "why": "reviewer (minor): 'their'/'इनका' is added: the text has only 'prayogaḥ kṣaudrasaṃyutaḥ', which may go with the barley-āmalaka powder alone or the whole list."
+ },
+ {
+  "n": "23",
+  "field": "notes",
+  "old": "madhu and kṣaudra both mean honey: madhu is one item of the list and kṣaudra the vehicle of the administration. Identifications: viḍaṅga = Embelia ribes (standard); āmalaka = Phyllanthus emblica (standard).",
+  "new": "madhu and kṣaudra both mean honey: madhu is one item of the list and kṣaudra the vehicle of the administration. Identifications: viḍaṅga = Embelia ribes (standard); āmalaka = Phyllanthus emblica (standard). prayogaḥ kṣaudrasaṃyutaḥ may go with the barley-āmalaka powder alone or with the whole list; the text does not say.",
+  "why": "reviewer (minor): 'their'/'इनका' is added: the text has only 'prayogaḥ kṣaudrasaṃyutaḥ', which may go with the barley-āmalaka powder alone or the whole list."
+ },
+ {
+  "n": "24",
+  "field": "notes",
+  "old": "paraḥ may mean 'excellent' or 'further'. Identifications: bilva = Aegle marmelos (standard); agnimantha = a Premna or Clerodendrum species (disputed).",
+  "new": "paraḥ may mean 'excellent' or 'further'. Identification: bilva = Aegle marmelos (standard). The reading of the last word is uncertain (see text_flags).",
+  "why": "reviewer (minor): Disputed identification of a word whose reading is itself flagged; not needed to understand the verse. Remove (POLICY: minimal)."
+ },
+ {
+  "n": "24",
+  "field": "text_flags.0.why",
+  "old": "possible: no word begins with ṣa- here; agnimantha-rasaḥ 'juice of agnimantha' gives sense and the same syllable count, so the ṣ looks like a stray letter (a lost sa- 'with' cannot be excluded)",
+  "new": "possible: ṣa- cannot begin a word here; either a stray letter (agnimantharasaḥ 'juice of agnimantha', used in words) or ṣ for s with lost length (sāgnimantharasaḥ 'with agnimantha juice', qualifying śilājatuprayogaḥ); both keep 8 syllables, so the reading is uncertain",
+  "why": "reviewer (minor): Flag kept (ṣa- cannot begin a word here: grammar evidence). But the alternative sāgnimantharasaḥ 'with agnimantha juice' (s/ṣ confusion), qualifying śilājatuprayogaḥ, is equally likely and should be stated equally; syllable count does not decide (both 8)."
+ },
+ {
+  "n": "25",
+  "field": "word.gram",
+  "word": "priyaṅguḥ",
+  "old": "m. nom. sg.",
+  "new": "nom. sg. (m. or f.)",
+  "why": "reviewer (minor): priyaṅgu as a plant/grain is usually feminine; the form -uḥ does not show gender."
+ },
+ {
+  "n": "26",
+  "field": "text_flags.0.why",
+  "old": "possible: 'jāḍhakī' is not a known word; āḍhakī (a pulse) fits the list of grains and pulses of unit 25; but the line then has 7 syllables, so the true reading is uncertain",
+  "new": "possible: 'jāḍhakī' is not a known word; āḍhakī (a pulse) fits the list of grains and pulses of unit 25 and keeps 8 syllables; the j may also be a typo for c (cāḍhakīnāṃ = ca āḍhakīnām)",
+  "why": "reviewer (error): The 'why' is wrong: āḍhakīnāṃ has 4 syllables like jāḍhakīnāṃ, so the line keeps 8 (ā-ḍha-kī-nāṃ ca bī-jā-ni). Flag kept on lexical grounds; add the c/j alternative (cāḍhakīnāṃ = ca āḍhakīnām)."
+ },
+ {
+  "n": "26",
+  "field": "notes",
+  "old": "prayojyāni also governs the grains of unit 25. Identifications: āḍhakī = pigeon pea, Cajanus cajan (standard); paṭola = Trichosanthes dioica (standard); āmalaka as in unit 23.",
+  "new": "prayojyāni also governs the grains of unit 25. āḍhakī rests on the conjecture in text_flags. Identification: paṭola = Trichosanthes dioica (standard); āmalaka as in unit 23.",
+  "why": "reviewer (minor): Identification built on a conjectural reading is shaky; remove. paṭola (standard) kept."
+ },
+ {
+  "n": "30",
+  "field": "english",
+  "old": "new grains, new wine (madya), the juices (rasa) of domestic, marsh and aquatic animals, prepared meats, curd, ghee (sarpis) and milk,",
+  "new": "new grains, new wine (madya), the meat-juices (rasa) of domestic, marsh and aquatic animals, prepared meats, curd, ghee (sarpis) and milk,",
+  "why": "reviewer (minor): rasāḥ with animal groups = meat-juices (glossary māṃsarasa; new glossary line); the note already says so but the English/Hindi say only 'juices'."
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "नया अन्न, नया मद्य, ग्राम्य, आनूप और औदक प्राणियों के रस, संस्कारित मांस, दही, घी और दूध,",
+  "new": "नया अन्न, नया मद्य, ग्राम्य, आनूप और औदक प्राणियों के मांसरस, संस्कारित मांस, दही, घी और दूध,",
+  "why": "reviewer (minor): rasāḥ with animal groups = meat-juices (glossary māṃsarasa; new glossary line); the note already says so but the English/Hindi say only 'juices'."
+ },
+ {
+  "n": "30",
+  "field": "word.gloss",
+  "word": "rasāḥ",
+  "old": "juices",
+  "new": "meat-juices",
+  "why": "reviewer (minor): rasāḥ with animal groups = meat-juices (glossary māṃsarasa; new glossary line); the note already says so but the English/Hindi say only 'juices'."
+ }
+]

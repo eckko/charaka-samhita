@@ -111,3 +111,9 @@ Draft status: AI drafts, not read by a person.
 - (review Sū 22) upakrama = measure of treatment (upakrama), Hindi उपक्रम; vaiśadya = non-sliminess (Hindi विशदता); viṣyanda = liquefaction (viṣyanda), Hindi विष्यन्द; sthaulya = corpulence (sthaulya), Hindi स्थूलता; kārśya = emaciation (कृशता); pācana (as a laṅghana measure) = digestives (pācana)
 - (review Sū 22) vāta in vāta-mūtra-purīṣa (released from the body) = wind, Hindi वायु, not Vāta; māruta/ātapa among laṅghana measures = wind and sun, Hindi मारुत/धूप (printed word kept); kṛta/akṛta/atikṛta (of a therapy) = done/not done/overdone, "properly" only as an understood word in brackets (Hindi "(ठीक)")
 - (review Sū 22) text_flags accepted: 1-22-3 paricodayam → paricodayan (agreement), 1-22-28 buddhi → viddhi (no verb; metre); khali kept Sanskrit, piṇyāka = oil-cake
+- (review Sū 21) doṣāḥ of the obese/lean (aṣṭau doṣāḥ, medasvino doṣāḥ) = defects (doṣa), Hindi दोष; not the bodily doṣas; viśeṣa (nindita-viśeṣa) = features (बातें), not दोष
+- (review Sū 21) vasti = printed spelling of basti: English enemas (basti), Hindi वस्ति (printed spelling kept)
+- (review Sū 21) kālaloharajas = powder of black metal (kālaloha), Hindi काले लोह का चूर्ण; no identification
+- (review Sū 21) atarpaṇa = non-replenishing (अतर्पण); saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; atisaṃpūraṇa = over-filling (अत्यधिक पेट भरना), not सन्तर्पण
+- (review Sū 21) rasāḥ with grāmya/ānūpa/audaka (animal groups) = meat-juices (rasa), Hindi मांसरस, 'animals' understood; grāmya = domestic
+- (review Sū 21) java = speed (गति), not वेग; javoparodha = impediment of speed; atisthūla/atikṛśa = excessively obese/excessively lean; sthaulya/kārśya = obesity/leanness; medasvin = fat person
