@@ -50,3 +50,7 @@ Draft status: AI drafts, not read by a person.
 - dākṣya = dexterity; śauca = purity (शौच); śruta = learning; upacāra = nursing care; kalpanā = preparation; sampad = excellence; vidyā = learning; vitarka = reasoning; vijñāna = specialised knowledge; smṛti = memory; tatparatā = devotion; kriyā = practice; mati = intellect; karmadṛṣṭi = observation of practice; abhyāsa = repeated practice; āśraya = support
 - hetu/liṅga/praśamana/apunarbhava = cause/sign/alleviation/non-recurrence; sādhya/śakya = curable; maitrī/kāruṇya/prīti/upekṣā = friendliness/compassion/interest/disregard; prāṇābhisara = restorer of life; bhiṣaṅmānin = one who fancies himself a physician; niyatāyus/aniyatāyus = whose life-span is fixed/not fixed
 - Hindi brackets only for an understood word, never for a gloss of a Sanskrit term
+- bastikarma = enema therapy (बस्तिकर्म); nasyakarma = nasal therapy (नस्यकर्म); malāyana = channel of waste; prajñāparādha = offence of intellect (प्रज्ञापराध); nija = endogenous (निज); āgantu = exogenous (आगन्तु)
+- vātala/pittala/śleṣmala = Vāta-/Pitta-/Kapha-predominant; svasthavṛtti = svasthavṛtta; sadvṛtta = good conduct; rasāyana = rejuvenative; vṛṣyayoga = aphrodisiac application; āpta = the reliable (आप्त); āptopadeśa = teaching of the reliable
+- dadhi = curd (दही); kāmalā, asṛkpitta kept Sanskrit (no modern equivalents in notes unless input gives them); month names (Mādhava, Nabhasya, Sahasya) kept Sanskrit; krama = sequence/gradually; atrija = the Atri-born (epithet)
+- singular dvandvas are labelled samāhāra, neuter

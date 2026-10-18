@@ -1,0 +1,78 @@
+[
+ {
+  "n": "37",
+  "field": "word.gram",
+  "word": "prakṣepa-apacaye",
+  "old": "m. loc. sg. dvandva (samāhāra)",
+  "new": "n. loc. sg. dvandva (samāhāra)",
+  "why": "reviewer (minor): A samāhāra dvandva is neuter; 'm.' contradicts the label."
+ },
+ {
+  "n": "37",
+  "field": "word.gloss",
+  "word": "tābhyām",
+  "old": "of those two",
+  "new": "by those two (in respect of them)",
+  "why": "reviewer (minor): Gloss 'of those two' gives a genitive sense, but tābhyām is inst./abl./dat. du. only, as the gram itself says."
+ },
+ {
+  "n": "43",
+  "field": "word.gram",
+  "word": "saṅga-utsargāt",
+  "old": "m. abl. sg. dvandva",
+  "new": "n. abl. sg. dvandva (samāhāra)",
+  "why": "reviewer (minor): A singular dvandva of two members is samāhāra and neuter; 'm.' is wrong."
+ },
+ {
+  "n": "46",
+  "field": "notes",
+  "old": "Mādhava, Nabhasya and Sahasya are month names (Vaiśākha, Bhādrapada and Pauṣa in the usual lists). The compounds 'X-prathama' are ambiguous: 'the month first of (i.e. before) X' or 'the first part of X'; the text does not decide, so the translation stays literal. 'caiva': eva left untranslated as a mere particle.",
+  "new": "Mādhava, Nabhasya and Sahasya are month names. The compounds 'X-prathama' are ambiguous: 'the month first of (i.e. before) X' or 'the first part of X'; the text does not decide, so the translation stays literal. 'caiva': eva left untranslated as a mere particle.",
+  "why": "reviewer (error): Month equivalences rest on outside lists from memory, not on the input; remove."
+ },
+ {
+  "n": "50",
+  "field": "word.gram",
+  "word": "upadekṣyate",
+  "old": "3 sg. fut. pass. upa-√diś",
+  "new": "3 sg. fut. mid. (passive sense) upa-√diś",
+  "why": "reviewer (minor): The form is the middle future; there is no distinct future passive. The note already says it is used passively; the label should match."
+ },
+ {
+  "n": "51",
+  "field": "english",
+  "old": "In the exogenous (āgantu) diseases of men that arise from bhūtas, poison, wind, fire, assault and the like, it is the intellect (prajñā) that errs.",
+  "new": "In the exogenous (āgantu) diseases of men that arise from bhūtas, poison, wind, fire, assault and the like, the intellect (prajñā) errs.",
+  "why": "reviewer (minor): The cleft 'it is ... that' adds emphasis not in 'prajñā teṣv aparādhyati'."
+ },
+ {
+  "n": "62",
+  "field": "notes",
+  "old": "Disease names are kept in Sanskrit. Usual modern equivalents: asṛkpitta (= raktapitta) a bleeding disorder; vīsarpa erysipelas-like spreading skin disease; kuṣṭha skin disease including leprosy; pāṇḍu anaemia; kāmalā jaundice. 'pāṇḍv-āmaya' read as 'the disease pāṇḍu'; 'āmaya' could also be taken with the whole list ('the diseases fever ...').",
+  "new": "Disease names are kept in Sanskrit. 'asṛkpitta' is the same word as raktapitta (asṛk = blood). 'pāṇḍv-āmaya' read as 'the disease pāṇḍu'; 'āmaya' could also be taken with the whole list ('the diseases fever ...').",
+  "why": "reviewer (error): Modern disease equivalents are from memory, not the input (glossary: disease names stay Sanskrit); remove them, keeping only the lexical asṛk = rakta point."
+ },
+ {
+  "n": "66",
+  "field": "word.gram",
+  "word": "tat",
+  "old": "n. nom. sg.",
+  "new": "n. acc. sg.",
+  "why": "reviewer (error): 'tat ... sarvam eva avadat': tat goes with sarvam, the object of avadat, so accusative, not nominative."
+ },
+ {
+  "n": "66",
+  "field": "word.gram",
+  "word": "na-vegān-dhāraṇe",
+  "old": "m. loc. sg. (title)",
+  "new": "n. loc. sg. (title, in apposition to adhyāye)",
+  "why": "reviewer (minor): dhāraṇa is neuter; the title stands in apposition to adhyāye rather than being masculine."
+ },
+ {
+  "n": "P1",
+  "field": "notes",
+  "old": "Colophon. The Sanskrit has no verb; the translation keeps it verbless. Ślokasthāna is the name this edition uses for the first section (also called Sūtrasthāna).",
+  "new": "Colophon. The Sanskrit has no verb; the translation keeps it verbless. Ślokasthāna is the name this edition uses for the first section.",
+  "why": "reviewer (error): The other name comes from other editions/memory, not the input; remove."
+ }
+]
