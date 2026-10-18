@@ -1,0 +1,713 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "unit type",
+     "problem": "MANUAL: prose line typed as 'verse' in the input (the draft already notes it); the type must be corrected by hand in the source/unit data, not in the layers.",
+     "fix": "(none: manual)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "unit type",
+     "problem": "MANUAL: prose line typed as 'verse' in the input (the draft already notes it); the type must be corrected by hand in the source/unit data, not in the layers.",
+     "fix": "(none: manual)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "unit type",
+     "problem": "MANUAL: prose line typed as 'verse' in the input (the draft already notes it); the type must be corrected by hand in the source/unit data, not in the layers.",
+     "fix": "(none: manual)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "unit type",
+     "problem": "MANUAL: prose line typed as 'verse' in the input (the draft already notes it); the type must be corrected by hand in the source/unit data, not in the layers.",
+     "fix": "(none: manual)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "P1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "unit type",
+     "problem": "MANUAL: prose line typed as 'verse' in the input (the draft already notes it); the type must be corrected by hand in the source/unit data, not in the layers.",
+     "fix": "(none: manual)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "cites other units outside the chunk; keep the bare possibility only",
+     "fix": "The three malas may be the three doṣas; kept literal.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "The three malas are probably the three doṣas (as in other units where malāḥ is said of the doṣas); kept literal.",
+      "new": "The three malas may be the three doṣas; kept literal.",
+      "n": "11"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "pāṭala clause",
+     "problem": "'(affecting)' is an awkward supplied verb; the word only says 'of the three doṣas' (as the note itself says); keep it literal",
+     "fix": "but pāṭala is indeed tridoṣa (of all three doṣas).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "but pāṭala is indeed (affecting) all three doṣas.",
+      "new": "but pāṭala is indeed tridoṣa (of all three doṣas).",
+      "n": "15"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "mukundo",
+     "problem": "the flag gives two alternative corrections and only asserts that the metre is unaffected; a flag needs one concrete correction and the syllable weights",
+     "fix": "[{\"src\": \"mukundo\", \"suggest\": \"mukundaḥ\", \"why\": \"possible: grammar: -aḥ becomes -o only before a voiced sound, but the next printed word begins with kṣ, so the junction is irregular; the plain ending is mukundaḥ (the slip could instead be in the next word's initial, which the chunk cannot decide). Metre does not decide: pāda a mu-kun-do/daḥ kṣiṇ-ṭi-gar-mū-ṭī = ⏑ – – – ⏑ – – – (pathyā, syllables 5-7 ⏑ – –) with either ending.\"}]",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "mukundo",
+        "suggest": "mukundaḥ",
+        "why": "possible: grammar: -aḥ becomes -o only before a voiced sound, but the next printed word begins with kṣ, so the junction is irregular; the plain ending is mukundaḥ (the slip could instead be in the next word's initial, which the chunk cannot decide). Metre does not decide: pāda a mu-kun-do/daḥ kṣiṇ-ṭi-gar-mū-ṭī = ⏑ – – – ⏑ – – – (pathyā, syllables 5-7 ⏑ – –) with either ending."
+       }
+      ],
+      "n": "18"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "kṣiṇṭi-garmūṭī",
+     "problem": "'f. nom., dvandva' is not a possible form: an itaretara dvandva of two names would be dual (-garmūṭyau); say the printed form is unexplained",
+     "fix": "f. nom., two names printed as one word; number uncertain (a dvandva of two would be dual)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kṣiṇṭi-garmūṭī",
+      "field": "gram",
+      "value": "f. nom., two names printed as one word; number uncertain (a dvandva of two would be dual)",
+      "n": "18"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "match the revised flag",
+     "fix": "the junction mukundo kṣiṇṭi is irregular (see the flag)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "the reading kṣiṇṭi is doubtful (see the flag)",
+      "new": "the junction mukundo kṣiṇṭi is irregular (see the flag)",
+      "n": "18"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ये",
+     "problem": "understood word must be in brackets (glossary: supplied words in Hindi in brackets)",
+     "fix": "— (ये) गुणों",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "— ये गुणों",
+      "new": "— (ये) गुणों",
+      "n": "18"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "bahu-vāta-śakṛt",
+     "problem": "gloss 'producing' does not match the bahuvrīhi label or the English 'with much wind and faeces'",
+     "fix": "having much wind and faeces",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "bahu-vāta-śakṛt",
+      "field": "gloss",
+      "value": "having much wind and faeces",
+      "n": "19"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "kaṣāyanuraso",
+     "problem": "flag accepted, but the metre statement names the vipulās without the syllable weights",
+     "fix": "[{\"src\": \"kaṣāyanuraso\", \"suggest\": \"kaṣāyānuraso\", \"why\": \"grammar: kaṣāya + anurasa must join as kaṣāyānurasa (a + a = ā). Metre does not decide: printed rū-kṣaḥ ka-ṣā-ya-nu-ra-so = – – ⏑ – ⏑ ⏑ ⏑ – (na-vipulā), corrected …ṣā-yā-nu-ra-so = – – ⏑ – – ⏑ ⏑ – (bha-vipulā; syllables 2-4 – ⏑ – as it requires); both are allowed.\"}]",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "kaṣāyanuraso",
+        "suggest": "kaṣāyānuraso",
+        "why": "grammar: kaṣāya + anurasa must join as kaṣāyānurasa (a + a = ā). Metre does not decide: printed rū-kṣaḥ ka-ṣā-ya-nu-ra-so = – – ⏑ – ⏑ ⏑ ⏑ – (na-vipulā), corrected …ṣā-yā-nu-ra-so = – – ⏑ – – ⏑ ⏑ – (bha-vipulā; syllables 2-4 – ⏑ – as it requires); both are allowed."
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "sandhāna-kṛt",
+     "problem": "'(broken parts)' is supplied from outside the line (the note itself says the line does not say what is joined)",
+     "fix": "uniting",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sandhāna-kṛt",
+      "field": "gloss",
+      "value": "uniting",
+      "n": "21"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "śūka-dhānyānām",
+     "problem": "śūkadhānya is labelled tat-puruṣa in units 8 and in the glossary (awned grain); 'karmadhāraya' is inconsistent",
+     "fix": "n. gen. pl., tat-puruṣa",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "śūka-dhānyānām",
+      "field": "gram",
+      "value": "n. gen. pl., tat-puruṣa",
+      "n": "22"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "bahu-malaḥ",
+     "problem": "gloss 'producing' does not match the bahuvrīhi label or the English 'has much waste'",
+     "fix": "having much waste",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "bahu-malaḥ",
+      "field": "gloss",
+      "value": "having much waste",
+      "n": "24"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tat",
+     "problem": "labelled n. nom. sg. 'it' although it cannot agree with masculine rājamāṣaḥ; as printed it can only be the indeclinable connective",
+     "fix": "ind. (connective; neuter tat cannot agree with m. rājamāṣaḥ)",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "tat",
+      "field": "gram",
+      "value": "ind. (connective; neuter tat cannot agree with m. rājamāṣaḥ)",
+      "n": "25"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "tat",
+     "problem": "match the corrected label; the English/Hindi 'it' is the understood subject and can stay",
+     "fix": "further, and (connective)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "tat",
+      "field": "gloss",
+      "value": "further, and (connective)",
+      "n": "25"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kāsa-hikkā-śvāsa-arśasām",
+     "problem": "gender missing; an itaretara dvandva takes the gender of its last member (arśas, n.)",
+     "fix": "n. gen. pl., dvandva",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kāsa-hikkā-śvāsa-arśasām",
+      "field": "gram",
+      "value": "n. gen. pl., dvandva",
+      "n": "26"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "kalāya",
+     "problem": "'probable' identification dropped (owner instruction: plain common names only, no probable ones)",
+     "fix": "kalāya kept; no identification.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "kalāya kept; it is commonly taken as a pea (probable).",
+      "new": "kalāya kept; no identification.",
+      "n": "29"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "phalam",
+     "problem": "phala with the genitive of plant names can also mean 'fruit' (the pods/seeds); the alternative is not noted",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "phalam may also be 'fruit' (of kākāṇḍa etc.); 'effect' is the reading taken.",
+      "n": "34"
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "tarakṣuḥ",
+     "problem": "tarakṣu is not a clear ordinary word for one animal; 'hyena' rests on outside knowledge; keep Sanskrit",
+     "fix": "tarakṣu",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "tarakṣuḥ",
+      "field": "gloss",
+      "value": "tarakṣu",
+      "n": "35"
+     }
+    },
+    {
+     "field": "english",
+     "where": "tarakṣu",
+     "problem": "as above",
+     "fix": "tarakṣu",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "hyena (tarakṣu)",
+      "new": "tarakṣu",
+      "n": "35"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "तरक्षु",
+     "problem": "as above",
+     "fix": "तरक्षु",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "लकड़बग्घा",
+      "new": "तरक्षु",
+      "n": "35"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "tarakṣu",
+     "problem": "record the decision",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "tarakṣu kept Sanskrit; no identification.",
+      "n": "35"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "prasaha",
+     "problem": "'(those that take food by snatching)' is a definition from outside the chunk",
+     "fix": "prasaha is glossed 'seizer', the literal sense of pra-√sah.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "prasaha is glossed 'seizer' (those that take food by snatching), the literal sense of pra-√sah.",
+      "new": "prasaha is glossed 'seizer', the literal sense of pra-√sah.",
+      "n": "37"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ये",
+     "problem": "understood word must be in brackets",
+     "fix": "इस प्रकार (ये) प्रसह",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "इस प्रकार ये प्रसह",
+      "new": "इस प्रकार (ये) प्रसह",
+      "n": "37"
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "śallaka-gaṇḍakau",
+     "problem": "'porcupine' rests on outside knowledge (the same list also has śvāvid, kept Sanskrit, which ordinary Sanskrit also uses for a porcupine); keep śallaka Sanskrit",
+     "fix": "śallaka and gaṇḍaka",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "śallaka-gaṇḍakau",
+      "field": "gloss",
+      "value": "śallaka and gaṇḍaka",
+      "n": "38"
+     }
+    },
+    {
+     "field": "english",
+     "where": "śallaka",
+     "problem": "as above",
+     "fix": "śallaka",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "porcupine (śallaka)",
+      "new": "śallaka",
+      "n": "38"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "शल्लक",
+     "problem": "as above",
+     "fix": "शल्लक",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "साही",
+      "new": "शल्लक",
+      "n": "38"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ये",
+     "problem": "understood word must be in brackets",
+     "fix": "— (ये) भूमिशय",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "— ये भूमिशय",
+      "new": "— (ये) भूमिशय",
+      "n": "38"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "names",
+     "problem": "śallaka now kept Sanskrit",
+     "fix": "set notes",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "notes",
+      "value": "SENTENCE: completes the list begun in line 2 of unit 37. bhūmiśaya, literally 'lying in the ground', is rendered 'ground-dwellers'. kūrcikā, cillaṭa, godhā, śallaka, gaṇḍaka, kadalī, śvāvid kept Sanskrit; bheka, nakula given their plain meanings; no species identification. 'ये' in the Hindi and '(these)' in the English are understood words.",
+      "n": "38"
+     }
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "khaṅgaḥ",
+     "problem": "khaṅga as printed is not a clear ordinary animal word; 'rhinoceros' and the by-form claim (khaḍga) rest on outside knowledge; keep Sanskrit",
+     "fix": "khaṅga",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "khaṅgaḥ",
+      "field": "gloss",
+      "value": "khaṅga",
+      "n": "39"
+     }
+    },
+    {
+     "field": "english",
+     "where": "khaṅga",
+     "problem": "as above",
+     "fix": "khaṅga",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "rhinoceros (khaṅga)",
+      "new": "khaṅga",
+      "n": "39"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "खङ्ग",
+     "problem": "as above",
+     "fix": "खङ्ग",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "गैंडा",
+      "new": "खङ्ग",
+      "n": "39"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ये",
+     "problem": "understood word must be in brackets",
+     "fix": "— (ये) सब",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "— ये सब",
+      "new": "— (ये) सब",
+      "n": "39"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "khaṅga",
+     "problem": "drop the by-form claim",
+     "fix": "set notes",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "notes",
+      "value": "sṛmara, camara, khaṅga (as printed), gavaya, nyaṅku, ruru kept Sanskrit; no species identification. 'ये' in the Hindi is an understood word. The list of marsh animals may continue into the next unit (next chunk).",
+      "n": "39"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Sū 27 chunk 1 (40 units). Checker clean. Issues: 2 error, 35 minor (5 of the minor are MANUAL items, units 1-5: prose typed 'verse', no patch). No regrouping suggested. text_flags judged: 3 ūrjyati→ūrjayati accepted (grammar, possible); P1 udaktaṃ→udakaṃ and tikaṃ→tiktaṃ accepted (series inside the line); 18 mukundo→mukundaḥ accepted as possible, flag rewritten to one concrete correction with weights (⏑ – – – ⏑ – – –, metre does not decide); 20 kaṣāyanuraso→kaṣāyānuraso accepted, weights added (na-vipulā vs bha-vipulā, both allowed); 32 -prakopinī→-prakopiṇī accepted (ṇatva). Judged: P1 vegāgra kept as printed, no flag (no evidence inside the chunk) - ok; 15 ok except English '(affecting)'; 25 tat relabelled ind. connective (cannot agree with m. rājamāṣaḥ); 18 kṣiṇṭigarmūṭī form unexplained (a dvandva would be dual), gram corrected; 34 '(lā)' handled per the variant rule - ok; 37 ok after removing an outside definition of prasaha; 39 khaṅga kept Sanskrit. Animals: tarakṣu, śallaka, khaṅga identifications dropped (kept Sanskrit). kalāya 'probable pea' dropped. Hindi understood 'ये' bracketed in 18, 37, 38, 39. All layers remain unreviewed AI drafts."
+}

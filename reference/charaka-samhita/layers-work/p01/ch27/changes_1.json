@@ -1,0 +1,261 @@
+[
+ {
+  "n": "11",
+  "field": "notes",
+  "old": "mahān is taken as mahāśāli of unit 8. The three malas are probably the three doṣas (as in other units where malāḥ is said of the doṣas); kept literal.",
+  "new": "mahān is taken as mahāśāli of unit 8. The three malas may be the three doṣas; kept literal.",
+  "why": "reviewer (minor): cites other units outside the chunk; keep the bare possibility only"
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "Vrīhi is sweet and of sour vipāka, produces Pitta, is heavy, and has much urine, faeces and heat; but pāṭala is indeed (affecting) all three doṣas.",
+  "new": "Vrīhi is sweet and of sour vipāka, produces Pitta, is heavy, and has much urine, faeces and heat; but pāṭala is indeed tridoṣa (of all three doṣas).",
+  "why": "reviewer (minor): '(affecting)' is an awkward supplied verb; the word only says 'of the three doṣas' (as the note itself says); keep it literal"
+ },
+ {
+  "n": "18",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "mukundo",
+    "suggest": "mukundaḥ (or a voiced initial in the next word)",
+    "why": "possible: -aḥ becomes -o only before a voiced sound, but the next printed word begins with kṣ; either the ending or the next word's initial (kṣi in kṣiṇṭi) is misprinted; the metre is the same either way"
+   }
+  ],
+  "new": [
+   {
+    "src": "mukundo",
+    "suggest": "mukundaḥ",
+    "why": "possible: grammar: -aḥ becomes -o only before a voiced sound, but the next printed word begins with kṣ, so the junction is irregular; the plain ending is mukundaḥ (the slip could instead be in the next word's initial, which the chunk cannot decide). Metre does not decide: pāda a mu-kun-do/daḥ kṣiṇ-ṭi-gar-mū-ṭī = ⏑ – – – ⏑ – – – (pathyā, syllables 5-7 ⏑ – –) with either ending."
+   }
+  ],
+  "why": "reviewer (error): the flag gives two alternative corrections and only asserts that the metre is unaffected; a flag needs one concrete correction and the syllable weights"
+ },
+ {
+  "n": "18",
+  "field": "word.gram",
+  "word": "kṣiṇṭi-garmūṭī",
+  "old": "f. nom., dvandva (form uncertain)",
+  "new": "f. nom., two names printed as one word; number uncertain (a dvandva of two would be dual)",
+  "why": "reviewer (minor): 'f. nom., dvandva' is not a possible form: an itaretara dvandva of two names would be dual (-garmūṭyau); say the printed form is unexplained"
+ },
+ {
+  "n": "18",
+  "field": "notes",
+  "old": "SENTENCE: completes unit 17. 'ye' (these) in the Hindi is an understood word. kṣiṇṭigarmūṭī is printed as one word; it is taken as two names (kṣiṇṭi, garmūṭī) and its exact form (dual or two singulars) is uncertain; the reading kṣiṇṭi is doubtful (see the flag). varaka was already named in unit 14 among the grains close to ṣaṣṭika. jūrṇāhva: āhva 'called' is taken with all three names. No identifications.",
+  "new": "SENTENCE: completes unit 17. 'ye' (these) in the Hindi is an understood word. kṣiṇṭigarmūṭī is printed as one word; it is taken as two names (kṣiṇṭi, garmūṭī) and its exact form (dual or two singulars) is uncertain; the junction mukundo kṣiṇṭi is irregular (see the flag). varaka was already named in unit 14 among the grains close to ṣaṣṭika. jūrṇāhva: āhva 'called' is taken with all three names. No identifications.",
+  "why": "reviewer (minor): match the revised flag"
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "मुकुन्द, क्षिण्टि और गर्मूटी, वरुक तथा वरक, और शिबिर, उत्कट और जूर्ण नामक — ये गुणों में श्यामाक के समान हैं।",
+  "new": "मुकुन्द, क्षिण्टि और गर्मूटी, वरुक तथा वरक, और शिबिर, उत्कट और जूर्ण नामक — (ये) गुणों में श्यामाक के समान हैं।",
+  "why": "reviewer (minor): understood word must be in brackets (glossary: supplied words in Hindi in brackets)"
+ },
+ {
+  "n": "19",
+  "field": "word.gloss",
+  "word": "bahu-vāta-śakṛt",
+  "old": "producing much wind and faeces",
+  "new": "having much wind and faeces",
+  "why": "reviewer (minor): gloss 'producing' does not match the bahuvrīhi label or the English 'with much wind and faeces'"
+ },
+ {
+  "n": "20",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "kaṣāyanuraso",
+    "suggest": "kaṣāyānuraso",
+    "why": "grammar: kaṣāya + anurasa must join as kaṣāyānurasa (a + a = ā); the metre allows either (na-vipulā printed, bha-vipulā corrected)"
+   }
+  ],
+  "new": [
+   {
+    "src": "kaṣāyanuraso",
+    "suggest": "kaṣāyānuraso",
+    "why": "grammar: kaṣāya + anurasa must join as kaṣāyānurasa (a + a = ā). Metre does not decide: printed rū-kṣaḥ ka-ṣā-ya-nu-ra-so = – – ⏑ – ⏑ ⏑ ⏑ – (na-vipulā), corrected …ṣā-yā-nu-ra-so = – – ⏑ – – ⏑ ⏑ – (bha-vipulā; syllables 2-4 – ⏑ – as it requires); both are allowed."
+   }
+  ],
+  "why": "reviewer (minor): flag accepted, but the metre statement names the vipulās without the syllable weights"
+ },
+ {
+  "n": "21",
+  "field": "word.gloss",
+  "word": "sandhāna-kṛt",
+  "old": "uniting (broken parts)",
+  "new": "uniting",
+  "why": "reviewer (minor): '(broken parts)' is supplied from outside the line (the note itself says the line does not say what is joined)"
+ },
+ {
+  "n": "22",
+  "field": "word.gram",
+  "word": "śūka-dhānyānām",
+  "old": "n. gen. pl., karmadhāraya",
+  "new": "n. gen. pl., tat-puruṣa",
+  "why": "reviewer (minor): śūkadhānya is labelled tat-puruṣa in units 8 and in the glossary (awned grain); 'karmadhāraya' is inconsistent"
+ },
+ {
+  "n": "24",
+  "field": "word.gloss",
+  "word": "bahu-malaḥ",
+  "old": "producing much waste",
+  "new": "having much waste",
+  "why": "reviewer (minor): gloss 'producing' does not match the bahuvrīhi label or the English 'has much waste'"
+ },
+ {
+  "n": "25",
+  "field": "word.gram",
+  "word": "tat",
+  "old": "n. nom. sg. (pronoun, see notes)",
+  "new": "ind. (connective; neuter tat cannot agree with m. rājamāṣaḥ)",
+  "why": "reviewer (error): labelled n. nom. sg. 'it' although it cannot agree with masculine rājamāṣaḥ; as printed it can only be the indeclinable connective"
+ },
+ {
+  "n": "25",
+  "field": "word.gloss",
+  "word": "tat",
+  "old": "and it (?)",
+  "new": "further, and (connective)",
+  "why": "reviewer (minor): match the corrected label; the English/Hindi 'it' is the understood subject and can stay"
+ },
+ {
+  "n": "26",
+  "field": "word.gram",
+  "word": "kāsa-hikkā-śvāsa-arśasām",
+  "old": "gen. pl., dvandva",
+  "new": "n. gen. pl., dvandva",
+  "why": "reviewer (minor): gender missing; an itaretara dvandva takes the gender of its last member (arśas, n.)"
+ },
+ {
+  "n": "29",
+  "field": "notes",
+  "old": "SENTENCE: completes unit 28. pittaśleṣmaṇi is a singular (samāhāra) dvandva in the locative: 'in (conditions of) Pitta and Kapha'. kalāya kept; it is commonly taken as a pea (probable).",
+  "new": "SENTENCE: completes unit 28. pittaśleṣmaṇi is a singular (samāhāra) dvandva in the locative: 'in (conditions of) Pitta and Kapha'. kalāya kept; no identification.",
+  "why": "reviewer (minor): 'probable' identification dropped (owner instruction: plain common names only, no probable ones)"
+ },
+ {
+  "n": "34",
+  "field": "notes",
+  "old": "The bracketed '(lā)' is the edition's alternative (kākāṇḍolā for kākāṇḍa-umā); it is split as printed, glossed as a variant and left out of the translation; the unbracketed reading kākāṇḍa-umā-ātmaguptā is used. Names kept; no identification. With the variant the list has two names (kākāṇḍolā, ātmaguptā) instead of three.",
+  "new": "The bracketed '(lā)' is the edition's alternative (kākāṇḍolā for kākāṇḍa-umā); it is split as printed, glossed as a variant and left out of the translation; the unbracketed reading kākāṇḍa-umā-ātmaguptā is used. Names kept; no identification. With the variant the list has two names (kākāṇḍolā, ātmaguptā) instead of three. phalam may also be 'fruit' (of kākāṇḍa etc.); 'effect' is the reading taken.",
+  "why": "reviewer (minor): phala with the genitive of plant names can also mean 'fruit' (the pods/seeds); the alternative is not noted"
+ },
+ {
+  "n": "35",
+  "field": "word.gloss",
+  "word": "tarakṣuḥ",
+  "old": "hyena (tarakṣu)",
+  "new": "tarakṣu",
+  "why": "reviewer (minor): tarakṣu is not a clear ordinary word for one animal; 'hyena' rests on outside knowledge; keep Sanskrit"
+ },
+ {
+  "n": "35",
+  "field": "english",
+  "old": "Now the group of meats: cow, donkey, mule, camel, horse, leopard (dvīpin), lion, bear, monkey, wolf, tiger, hyena (tarakṣu), babhru, cat, mouse,",
+  "new": "Now the group of meats: cow, donkey, mule, camel, horse, leopard (dvīpin), lion, bear, monkey, wolf, tiger, tarakṣu, babhru, cat, mouse,",
+  "why": "reviewer (minor): as above"
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "अब मांस वर्ग — गाय, गधा, खच्चर, ऊँट, घोड़ा, तेंदुआ, सिंह, रीछ, बन्दर, भेड़िया, बाघ, लकड़बग्घा, बभ्रु, बिल्ली, चूहा,",
+  "new": "अब मांस वर्ग — गाय, गधा, खच्चर, ऊँट, घोड़ा, तेंदुआ, सिंह, रीछ, बन्दर, भेड़िया, बाघ, तरक्षु, बभ्रु, बिल्ली, चूहा,",
+  "why": "reviewer (minor): as above"
+ },
+ {
+  "n": "35",
+  "field": "notes",
+  "old": "SENTENCE: units 35 to 37 (first line) are one list, closed by 'iti prasahā mṛgapakṣiṇaḥ' in unit 37. Animal names are given by their plain meaning where it is clear; babhru (literally 'the brown one') is kept Sanskrit; no species identification. go is rendered 'cow' (the word covers cattle in general). The heading 'atha māṃsavargaḥ' is printed at the start of the first line (22 syllables with the heading, 16 without).",
+  "new": "SENTENCE: units 35 to 37 (first line) are one list, closed by 'iti prasahā mṛgapakṣiṇaḥ' in unit 37. Animal names are given by their plain meaning where it is clear; babhru (literally 'the brown one') is kept Sanskrit; no species identification. go is rendered 'cow' (the word covers cattle in general). The heading 'atha māṃsavargaḥ' is printed at the start of the first line (22 syllables with the heading, 16 without). tarakṣu kept Sanskrit; no identification.",
+  "why": "reviewer (minor): record the decision"
+ },
+ {
+  "n": "37",
+  "field": "notes",
+  "old": "Line 1 closes the list of the prasaha group begun in unit 35. Line 2 begins a new list completed in unit 38 ('iti bhūmiśayāḥ smṛtāḥ'): SENTENCE. prasaha is glossed 'seizer' (those that take food by snatching), the literal sense of pra-√sah. śveta, śyāma, citrapṛṣṭha and kālaka are taken as separate names with their literal meanings; they could also qualify kākulīmṛgaḥ. dhūmikā, kurara, kākulī kept Sanskrit; no identification.",
+  "new": "Line 1 closes the list of the prasaha group begun in unit 35. Line 2 begins a new list completed in unit 38 ('iti bhūmiśayāḥ smṛtāḥ'): SENTENCE. prasaha is glossed 'seizer', the literal sense of pra-√sah. śveta, śyāma, citrapṛṣṭha and kālaka are taken as separate names with their literal meanings; they could also qualify kākulīmṛgaḥ. dhūmikā, kurara, kākulī kept Sanskrit; no identification.",
+  "why": "reviewer (minor): '(those that take food by snatching)' is a definition from outside the chunk"
+ },
+ {
+  "n": "37",
+  "field": "hindi",
+  "old": "धूमिका और कुरर — इस प्रकार ये प्रसह पशु और पक्षी हैं। श्वेत, श्याम, चित्रपृष्ठ, कालक, काकुली मृग,",
+  "new": "धूमिका और कुरर — इस प्रकार (ये) प्रसह पशु और पक्षी हैं। श्वेत, श्याम, चित्रपृष्ठ, कालक, काकुली मृग,",
+  "why": "reviewer (minor): understood word must be in brackets"
+ },
+ {
+  "n": "38",
+  "field": "word.gloss",
+  "word": "śallaka-gaṇḍakau",
+  "old": "porcupine (śallaka) and gaṇḍaka",
+  "new": "śallaka and gaṇḍaka",
+  "why": "reviewer (minor): 'porcupine' rests on outside knowledge (the same list also has śvāvid, kept Sanskrit, which ordinary Sanskrit also uses for a porcupine); keep śallaka Sanskrit"
+ },
+ {
+  "n": "38",
+  "field": "english",
+  "old": "kūrcikā, cillaṭa, frog, godhā, porcupine (śallaka) and gaṇḍaka, kadalī, mongoose and śvāvid: thus (these) are known as ground-dwellers (bhūmiśaya).",
+  "new": "kūrcikā, cillaṭa, frog, godhā, śallaka and gaṇḍaka, kadalī, mongoose and śvāvid: thus (these) are known as ground-dwellers (bhūmiśaya).",
+  "why": "reviewer (minor): as above"
+ },
+ {
+  "n": "38",
+  "field": "hindi",
+  "old": "कूर्चिका, चिल्लट, मेंढक, गोधा, साही और गण्डक, कदली, नेवला और श्वावित् — ये भूमिशय कहे गए हैं।",
+  "new": "कूर्चिका, चिल्लट, मेंढक, गोधा, शल्लक और गण्डक, कदली, नेवला और श्वावित् — ये भूमिशय कहे गए हैं।",
+  "why": "reviewer (minor): as above"
+ },
+ {
+  "n": "38",
+  "field": "hindi",
+  "old": "कूर्चिका, चिल्लट, मेंढक, गोधा, शल्लक और गण्डक, कदली, नेवला और श्वावित् — ये भूमिशय कहे गए हैं।",
+  "new": "कूर्चिका, चिल्लट, मेंढक, गोधा, शल्लक और गण्डक, कदली, नेवला और श्वावित् — (ये) भूमिशय कहे गए हैं।",
+  "why": "reviewer (minor): understood word must be in brackets"
+ },
+ {
+  "n": "38",
+  "field": "notes",
+  "old": "SENTENCE: completes the list begun in line 2 of unit 37. bhūmiśaya, literally 'lying in the ground', is rendered 'ground-dwellers'. kūrcikā, cillaṭa, godhā, gaṇḍaka, kadalī, śvāvid kept Sanskrit; bheka, śallaka, nakula given their plain meanings; no species identification. 'ये' in the Hindi and '(these)' in the English are understood words.",
+  "new": "SENTENCE: completes the list begun in line 2 of unit 37. bhūmiśaya, literally 'lying in the ground', is rendered 'ground-dwellers'. kūrcikā, cillaṭa, godhā, śallaka, gaṇḍaka, kadalī, śvāvid kept Sanskrit; bheka, nakula given their plain meanings; no species identification. 'ये' in the Hindi and '(these)' in the English are understood words.",
+  "why": "reviewer (minor): śallaka now kept Sanskrit"
+ },
+ {
+  "n": "39",
+  "field": "word.gloss",
+  "word": "khaṅgaḥ",
+  "old": "rhinoceros (khaṅga)",
+  "new": "khaṅga",
+  "why": "reviewer (minor): khaṅga as printed is not a clear ordinary animal word; 'rhinoceros' and the by-form claim (khaḍga) rest on outside knowledge; keep Sanskrit"
+ },
+ {
+  "n": "39",
+  "field": "english",
+  "old": "Sṛmara, camara, rhinoceros (khaṅga), buffalo, gavaya, elephant, nyaṅku, boar, and likewise ruru: all are marsh (ānūpa) animals.",
+  "new": "Sṛmara, camara, khaṅga, buffalo, gavaya, elephant, nyaṅku, boar, and likewise ruru: all are marsh (ānūpa) animals.",
+  "why": "reviewer (minor): as above"
+ },
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "सृमर, चमर, गैंडा, भैंसा, गवय, हाथी, न्यङ्कु, सूअर और उसी प्रकार रुरु — ये सब आनूप मृग हैं।",
+  "new": "सृमर, चमर, खङ्ग, भैंसा, गवय, हाथी, न्यङ्कु, सूअर और उसी प्रकार रुरु — ये सब आनूप मृग हैं।",
+  "why": "reviewer (minor): as above"
+ },
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "सृमर, चमर, खङ्ग, भैंसा, गवय, हाथी, न्यङ्कु, सूअर और उसी प्रकार रुरु — ये सब आनूप मृग हैं।",
+  "new": "सृमर, चमर, खङ्ग, भैंसा, गवय, हाथी, न्यङ्कु, सूअर और उसी प्रकार रुरु — (ये) सब आनूप मृग हैं।",
+  "why": "reviewer (minor): understood word must be in brackets"
+ },
+ {
+  "n": "39",
+  "field": "notes",
+  "old": "khaṅga is kept as printed (a by-form of the word khaḍga); 'rhinoceros' is its plain meaning. sṛmara, camara, gavaya, nyaṅku, ruru kept Sanskrit; no species identification. 'ये' in the Hindi is an understood word. The list of marsh animals may continue into the next unit (next chunk).",
+  "new": "sṛmara, camara, khaṅga (as printed), gavaya, nyaṅku, ruru kept Sanskrit; no species identification. 'ये' in the Hindi is an understood word. The list of marsh animals may continue into the next unit (next chunk).",
+  "why": "reviewer (minor): drop the by-form claim"
+ }
+]
