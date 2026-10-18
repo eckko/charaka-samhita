@@ -1,0 +1,352 @@
+[
+ {
+  "id": "06.02.1.33b",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "(इति बृंहणीगुटिका।) माषाणामात्मगुप्ताया बीजानामाढकं नवम्॥",
+  "why": "वृंहणी is a mistyping of बृंहणी (ba typed as va); cf. बृंहणम् nearby."
+ },
+ {
+  "id": "06.02.1.38b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Colophon merged with the verse; both parts read correctly."
+ },
+ {
+  "id": "06.02.1.45c",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Short heading/colophon or prose line; metre flag is not a typing error."
+ },
+ {
+  "id": "06.02.1.46c",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Short heading/colophon or prose line; metre flag is not a typing error."
+ },
+ {
+  "id": "06.02.1.50a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Short heading/colophon or prose line; metre flag is not a typing error."
+ },
+ {
+  "id": "06.02.1.52a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Short heading/colophon or prose line; metre flag is not a typing error."
+ },
+ {
+  "id": "06.02.2.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Short heading/colophon or prose line; metre flag is not a typing error."
+ },
+ {
+  "id": "06.02.2.9c",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Short heading/colophon or prose line; metre flag is not a typing error."
+ },
+ {
+  "id": "06.02.2.20c",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Short heading/colophon or prose line; metre flag is not a typing error."
+ },
+ {
+  "id": "06.02.2.23b",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "",
+  "why": "Śloka half has only 13 aksharas (7+6): aksharas have been dropped; cannot restore from context."
+ },
+ {
+  "id": "06.02.2.23c",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Short heading/colophon or prose line; metre flag is not a typing error."
+ },
+ {
+  "id": "06.02.2.30a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Short heading/colophon or prose line; metre flag is not a typing error."
+ },
+ {
+  "id": "06.02.2.32a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Introductory 'भवतश्चात्र---' plus a correct 11+11 upajāti half."
+ },
+ {
+  "id": "06.02.3.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Correct opening line; माषपर्णभृतीय is the chapter name."
+ },
+ {
+  "id": "06.02.3.19c",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "(इति वृष्यमधुकयोगः।)",
+  "why": "Leftover variant-reading footnote ('... इति पा-.') merged into the colophon line."
+ },
+ {
+  "id": "06.02.3.31a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Short heading/colophon or prose line; metre flag is not a typing error."
+ },
+ {
+  "id": "06.02.4.18c",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "(इति वृष्यघृतभृष्टमत्स्यमांसानि।)",
+  "why": "वृत makes no sense; ghee-fried (घृतभृष्ट) fish meat fits the recipe; व/घ mistyping."
+ },
+ {
+  "id": "06.02.4.32c",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Short heading/colophon or prose line; metre flag is not a typing error."
+ },
+ {
+  "id": "06.02.4.35c",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Short heading/colophon or prose line; metre flag is not a typing error."
+ },
+ {
+  "id": "06.02.4.52a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Short heading/colophon or prose line; metre flag is not a typing error."
+ },
+ {
+  "id": "06.01.4.2",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "इति ह स्माह भगवानात्रेयः॥",
+  "why": "Extra vowel sign: भागवान् for the formula भगवानात्रेयः."
+ },
+ {
+  "id": "06.01.1.5a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "अभेषजं is intended: the opposite of भेषज is being classified."
+ },
+ {
+  "id": "06.02.1.5b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "स्त्रीशरीरे is the intended compound (in a woman's body)."
+ },
+ {
+  "id": "06.01.2.4",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "स्वरसेन (fresh juice) is correct in this recipe."
+ },
+ {
+  "id": "06.01.3.8b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line, no error visible."
+ },
+ {
+  "id": "06.01.4.4",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line, no error visible."
+ },
+ {
+  "id": "06.01.4.54b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line, no error visible."
+ },
+ {
+  "id": "06.02.2.14b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line, no error visible."
+ },
+ {
+  "id": "06.02.2.31a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line, no error visible."
+ },
+ {
+  "id": "06.01.1.11c",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "",
+  "why": "Stray footnote fragment 'च पा-.' (variant-reading note), not text; should be removed."
+ },
+ {
+  "id": "06.01.1.35b",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "सेवेरन्नाभयामेते क्षुत्तृष्णोष्णार्दिताश्च ये॥)",
+  "why": "Editorial footnote ('Yogindranath Sen accepts this reading') leaked into the verse line."
+ },
+ {
+  "id": "06.01.1.58",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Short heading/colophon or prose line; metre flag is not a typing error."
+ },
+ {
+  "id": "06.01.1.59a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Short heading/colophon or prose line; metre flag is not a typing error."
+ },
+ {
+  "id": "06.01.1.75",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Long prose recipe reads correctly; no visible typing error."
+ },
+ {
+  "id": "06.01.1.76",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "हरीतक्यामलकबिभीतकपञ्चपञ्चमूलनिर्यूहे पिप्पलीमधुकमधूककाकोलीक्षीरकाकोल्यात्मगुप्ताजीवकर्षभकक्षीरशुक्लाकल्कसंप्रयुक्तेन विदारीस्वरसेन क्षीराष्टगुणसंप्रयुक्तेन च सर्पिषः कुम्भं साधयित्वा प्रयुञ्जानोऽग्निबलसमां मात्रां जीर्णे च क्षीरसर्पिर्भ्यां शालिषष्टिकमुष्णोदकानुपानमश्नञ्जराव्याधिपापाभिचारव्यपगतभयः शरीरेन्द्रियबुद्धिबलमतुलमुपलभ्याप्रतिहतसर्वारम्भः परमायुरवाप्नुयात्॥",
+  "why": "अनवाप्नुयात् is not a valid form and contradicts the sense (one attains supreme life); extra न."
+ },
+ {
+  "id": "06.01.1.77",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "हरीतक्यामलकबिभीतकहरिद्रास्थिरा-बलाविडङ्गामृतवल्लीविश्वभेषजमधुकपिप्पलीसोमवल्कसिद्धेन क्षीरसर्पिषा मधुशर्कराभ्यामपि च सन्नीयामलकस्वरसशतपरिपीतमामलकचूर्णमयश्चूर्णचतुर्भागसंप्रयुक्तं पाणितलमात्रं पाणितलमात्रं प्रातः प्रातः प्राश्य यथोक्तेन विधिना सायं मुद्गयूषेण पयसा वा ससर्पिष्कं शालिषष्टिकान्नमश्नीयात्, त्रिवर्षप्रयोगादस्य वर्षशतमजरं वयस्तिष्ठति, श्रुतमवतिष्ठते, सर्वामयाः प्रशाम्यन्ति, विषमविषं भवति गात्रे, गात्रमश्मवत् स्थिरीभवति, अधृष्यो भूतानां भवति॥",
+  "why": "तिष्ठिति is a mistyping of तिष्ठति (cf. वयोऽजरं तिष्ठति in the parallel passage); the hyphen in स्थिरा-बला also looks like a typing artifact."
+ },
+ {
+  "id": "06.01.1.78a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Short heading/colophon or prose line; metre flag is not a typing error."
+ },
+ {
+  "id": "06.01.1.80a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Short heading/colophon or prose line; metre flag is not a typing error."
+ },
+ {
+  "id": "06.01.1.80b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Short heading/colophon or prose line; metre flag is not a typing error."
+ },
+ {
+  "id": "06.01.2.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Short heading/colophon or prose line; metre flag is not a typing error."
+ },
+ {
+  "id": "06.01.2.3",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "प्राणकामाः शुश्रूषध्वमिदमुच्यमानममृतमिवापरमदितिसुतहितकरमचिन्त्याद्भुतप्रभावमायुष्यमारोग्यकरं वयसः स्थापनं निद्रातन्द्राश्रमक्लमालस्यदौर्बल्यापहरमनिलकफपित्तसाम्यकरं स्थैर्यकरमबद्धमांसहरमन्तरग्निसन्धुक्षणं प्रभावर्णस्वरोत्तमकरं रसायनविधानम्।",
+  "why": "Plural verb शुश्रूषध्वम् needs vocative plural प्राणकामाः; प्रमावर्ण should be प्रभावर्ण (lustre, complexion)."
+ },
+ {
+  "id": "06.01.2.4",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Short heading/colophon or prose line; metre flag is not a typing error."
+ },
+ {
+  "id": "02.07.7.2",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Prose list reads correctly; लोष्ट्र is a valid spelling."
+ },
+ {
+  "id": "02.07.7.3",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "स्थानमेकदेशे, तूष्णींभावः, अल्पशश्चङ्क्रमणं, लालाशिङ्घाणकस्रवणम्, अनन्नाभिलाषः, रहस्कामता, बीभत्सत्वं, शौचद्वेषः, स्वप्ननित्यता, श्वयथुरानने, शुक्लस्तिमितमलोपदिग्धाक्षत्वं, श्लेष्मोपशयविपर्यासादनुपशयता च; इति श्लेष्मोन्मादलिङ्गानि भवन्ति;",
+  "why": "श्लेषोन्माद is missing the म्: parallel to वातोन्माद/पित्तोन्माद it is श्लेष्मोन्माद."
+ },
+ {
+  "id": "01.26.43.1",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "तत्र मधुरो रसः शरीरसात्म्याद्रसरुधिरमांसमेदोस्थिमज्जौजःशुक्राभिवर्धन आयुष्यः षडिन्द्रियप्रसादनो बलवर्णकरः पित्तविषमारुतघ्नस्तृष्णादाहप्रशमनस्त्वच्यः केश्यः कण्ठ्यो बल्यः प्रीणनो जीवनस्तर्पणो बृंहणः स्थैर्यकरः क्षीणक्षतसन्धानकरो घ्राणमुखकण्ठौष्ठजिह्वाप्रह्लादनो दाहमूर्च्छाप्रशमनः षट्पदपिपीलिकानामिष्टतमः स्निग्धः शीतो गुरुश्च ।",
+  "why": "कण्ट is a mistyping of कण्ठ (throat) in the list of mouth parts."
+ },
+ {
+  "id": "01.26.43.2",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "अम्लो रसो भक्तं रोचयति अग्निं दीपयति देहं बृंहयति ऊर्जयति मनो बोधयति इन्द्रियाणि दृढीकरोति बलं वर्धयति वातमनुलोमयति हृदयं तर्पयति आस्यमास्रावयति भुक्तमपकर्षयति क्लेदयति जरयति प्रीणयति लघुरुष्णः स्निग्धश्च ।",
+  "why": "Phrase 'भक्तं रोचयति' typed twice (dittography), and भुकम् is missing the conjunct (भुक्तम्)."
+ },
+ {
+  "id": "01.26.43.3",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "लवणो रसः पाचनः क्लेदनो दीपनश्च्यावनश्छेदनो भेदनस्तीक्ष्णः सरो विकास्यधःस्रंस्यवकाशकरो वातहरः स्तम्भबन्धसङ्घातविधमनः सर्वरसप्रत्यनीकभूतः आस्यमास्रावयति कफं विष्यन्दयति मार्गान् विशोधयति सर्वशरीरावयवान् मृदूकरोति रोचयत्याहारम् आहारयोगी नात्यर्थं गुरुः स्निग्ध उष्णश्च ।",
+  "why": "दिकासी is not a word; विकासी (a known guṇa term) fits; द/व mistyping."
+ },
+ {
+  "id": "01.26.43.4",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "कटुको रसो वक्त्रं शोधयति अग्निं दीपयति भुक्तं शोषयति घ्राणमास्रावयति चक्षुर्विरेचयति स्फुटीकरोतीन्द्रियाणि अलसकश्वयथूपचयोदर्दाभिष्यन्दस्नेहस्वेदक्लेदमलानुपहन्ति रोचयत्यशनं कण्डूर्विनाशयति व्रणानवसादयति क्रिमीन् हिनस्ति मांसं विलिखति शोणितसङ्घातं भिनत्ति बन्धांश्छिनत्ति मार्गान् विवृणोति श्लेष्माणं शमयति लघुरुष्णो रूक्षश्च ।",
+  "why": "भूक्तं has a wrong long vowel (भुक्तं), and पण्डूः is not a word; कण्डूः (itching) fits."
+ },
+ {
+  "id": "01.26.43.5",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "तिक्तो रसः स्वयमरोचिष्णुरप्यरोचकघ्नो विषघ्नः क्रिमिघ्नो मूर्च्छादाहकण्डूकुष्ठतृष्णाप्रशमनस्त्वङ्मांसयोः स्थिरीकरणो ज्वरघ्नो दीपनः पाचनः स्तन्यशोधनो लेखनः क्लेदमेदोवसामज्जलसीकापूयस्वेदमूत्रपुरीषपित्तश्लेष्मोपशोषणो रूक्षः शीतो लघुश्च ।",
+  "why": "मृत्र is a mistyping of मूत्र in स्वेदमूत्रपुरीष."
+ },
+ {
+  "id": "01.26.43.6",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Line reads correctly; edition's अलघुश्च is grammatical."
+ }
+]
