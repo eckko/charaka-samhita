@@ -1,0 +1,4118 @@
+[
+ {
+  "n": "40",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kūrmaḥ",
+      "words": [
+       {
+        "w": "kūrmaḥ",
+        "gloss": "tortoise (kūrma)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "karkaṭako",
+      "words": [
+       {
+        "w": "karkaṭakaḥ",
+        "gloss": "crab (karkaṭaka)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "matsyaḥ",
+      "words": [
+       {
+        "w": "matsyaḥ",
+        "gloss": "fish (matsya)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śiśumārastimiṅgilaḥ",
+      "words": [
+       {
+        "w": "śiśumāraḥ",
+        "gloss": "śiśumāra (an aquatic animal)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "timiṅgilaḥ",
+        "gloss": "timiṅgila (an aquatic animal)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śuktiśaṅkhodrakummīraculukīmakarādayaḥ",
+      "words": [
+       {
+        "w": "śukti-śaṅkha-udra-kumbhīra-culukī-makara-ādayaḥ",
+        "gloss": "shell (śukti), conch (śaṅkha), udra, kumbhīra, culukī, makara and the like",
+        "gram": "m. nom. pl., dvandva within bahuvrīhi (-ādi)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कूर्म, कर्कटक, मत्स्य, शिशुमार, तिमिङ्गिल, शुक्ति, शङ्ख, उद्र, कुम्मीर, चुलुकी, मकर आदि —",
+  "english": "The tortoise (kūrma), the crab (karkaṭaka), the fish (matsya), the śiśumāra, the timiṅgila, the shell (śukti), the conch (śaṅkha), the udra, the kumbhīra, the culukī, the makara and the like —",
+  "text_flags": [
+   {
+    "src": "śuktiśaṅkhodrakummīraculukīmakarādayaḥ",
+    "suggest": "śuktiśaṅkhodrakumbhīraculukīmakarādayaḥ",
+    "why": "possible: there is no stem kummīra; kumbhīra (an aquatic animal) has the same syllable weights, so the metre is unchanged"
+   }
+  ],
+  "notes": "SENTENCE: the list of water-dwellers (vāriśaya) is closed by 'iti vāriśayāḥ proktāḥ' in 41. Animal names are kept in Sanskrit; plain English words are given only for the ordinary meanings (tortoise, crab, fish, shell, conch). Hindi keeps the printed कुम्मीर.",
+  "confidence": "medium"
+ },
+ {
+  "n": "41",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vāriśayāḥ",
+      "words": [
+       {
+        "w": "vāri-śayāḥ",
+        "gloss": "water-dwellers (vāriśaya)",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "proktā,",
+      "words": [
+       {
+        "w": "proktāḥ",
+        "gloss": "have been told",
+        "gram": "m. nom. pl., ppp. pra-√vac"
+       }
+      ]
+     },
+     {
+      "src": "vakṣyante",
+      "words": [
+       {
+        "w": "vakṣyante",
+        "gloss": "will be told",
+        "gram": "3 pl. fut. ātm. √vac (passive sense)"
+       }
+      ]
+     },
+     {
+      "src": "vāricāriṇaḥ",
+      "words": [
+       {
+        "w": "vāri-cāriṇaḥ",
+        "gloss": "water-movers (vāricārin)",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "haṃsaḥ",
+      "words": [
+       {
+        "w": "haṃsaḥ",
+        "gloss": "haṃsa (a water bird)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "krauñco",
+      "words": [
+       {
+        "w": "krauñcaḥ",
+        "gloss": "krauñca (a water bird)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "balākā",
+      "words": [
+       {
+        "w": "balākā",
+        "gloss": "balākā (a water bird)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bakaḥ",
+      "words": [
+       {
+        "w": "bakaḥ",
+        "gloss": "baka (a water bird)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāraṇḍavaḥ",
+      "words": [
+       {
+        "w": "kāraṇḍavaḥ",
+        "gloss": "kāraṇḍava (a water bird)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "plavaḥ",
+      "words": [
+       {
+        "w": "plavaḥ",
+        "gloss": "plava (a water bird)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार वारिशय कहे गए; वारिचारी कहे जाएँगे — हंस, क्रौञ्च, बलाका, बक, कारण्डव, प्लव,",
+  "english": "Thus the water-dwellers (vāriśaya) have been told; the water-movers (vāricārin) will be told: the haṃsa, the krauñca, the balākā, the baka, the kāraṇḍava, the plava,",
+  "text_flags": [],
+  "notes": "SENTENCE: the list of water-movers runs on to 44. Bird names are kept in Sanskrit, without identification.",
+  "confidence": "high"
+ },
+ {
+  "n": "42",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śarāriḥ",
+      "words": [
+       {
+        "w": "śarāriḥ",
+        "gloss": "śarāri (a water bird)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "puṣkarāhvaśca",
+      "words": [
+       {
+        "w": "puṣkara-āhvaḥ",
+        "gloss": "the one named puṣkara",
+        "gram": "m. nom. sg., bahuvrīhi"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "keśarī",
+      "words": [
+       {
+        "w": "keśarī",
+        "gloss": "keśarin (a water bird)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "maṇituṇḍakaḥ",
+      "words": [
+       {
+        "w": "maṇi-tuṇḍakaḥ",
+        "gloss": "maṇituṇḍaka ('jewel-beak')",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mṛṇālakaṇṭho",
+      "words": [
+       {
+        "w": "mṛṇāla-kaṇṭhaḥ",
+        "gloss": "mṛṇālakaṇṭha ('lotus-stalk throat')",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "madguśca",
+      "words": [
+       {
+        "w": "madguḥ",
+        "gloss": "madgu (a water bird)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kādambaḥ",
+      "words": [
+       {
+        "w": "kādambaḥ",
+        "gloss": "kādamba (a water bird)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kākatuṇḍakaḥ",
+      "words": [
+       {
+        "w": "kāka-tuṇḍakaḥ",
+        "gloss": "kākatuṇḍaka ('crow-beak')",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शरारि, पुष्कराह्व, केशरी, मणितुण्डक, मृणालकण्ठ, मद्गु, कादम्ब, काकतुण्डक,",
+  "english": "the śarāri, the puṣkarāhva, the keśarin, the maṇituṇḍaka, the mṛṇālakaṇṭha, the madgu, the kādamba, the kākatuṇḍaka,",
+  "text_flags": [],
+  "notes": "List of water-movers (vāricārin) continued from 41. Literal senses of compound names are given only in the glosses.",
+  "confidence": "high"
+ },
+ {
+  "n": "43",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "utkrośaḥ",
+      "words": [
+       {
+        "w": "utkrośaḥ",
+        "gloss": "utkrośa (a water bird)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "puṇḍarīkākṣo",
+      "words": [
+       {
+        "w": "puṇḍarīka-akṣaḥ",
+        "gloss": "puṇḍarīkākṣa ('lotus-eye')",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "megharāvo'mbukukkuṭī",
+      "words": [
+       {
+        "w": "megha-rāvaḥ",
+        "gloss": "megharāva ('cloud-cry')",
+        "gram": "m. nom. sg., bahuvrīhi"
+       },
+       {
+        "w": "ambu-kukkuṭī",
+        "gloss": "ambukukkuṭī ('water-hen')",
+        "gram": "f. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ārā",
+      "words": [
+       {
+        "w": "ārā",
+        "gloss": "ārā (a water bird)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nandīmukhī",
+      "words": [
+       {
+        "w": "nandī-mukhī",
+        "gloss": "nandīmukhī (a water bird)",
+        "gram": "f. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vāṭī",
+      "words": [
+       {
+        "w": "vāṭī",
+        "gloss": "vāṭī (a water bird)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sumukhāḥ",
+      "words": [
+       {
+        "w": "su-mukhāḥ",
+        "gloss": "the sumukhas ('fair-faced')",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sahacāriṇaḥ",
+      "words": [
+       {
+        "w": "sahacāriṇaḥ",
+        "gloss": "the sahacārins ('moving together')",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उत्क्रोश, पुण्डरीकाक्ष, मेघराव, अम्बुकुक्कुटी, आरा, नन्दीमुखी, वाटी, सुमुख, सहचारी,",
+  "english": "the utkrośa, the puṇḍarīkākṣa, the megharāva, the ambukukkuṭī, the ārā, the nandīmukhī, the vāṭī, the sumukhas, the sahacārins,",
+  "text_flags": [],
+  "notes": "List of water-movers continued. sumukhāḥ and sahacāriṇaḥ are plural; they are taken as two bird names, but 'the fair-faced ones that move together (in flocks)', one description, is also possible.",
+  "confidence": "medium"
+ },
+ {
+  "n": "44",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rohiṇī",
+      "words": [
+       {
+        "w": "rohiṇī",
+        "gloss": "rohiṇī (a water bird)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāmakālī",
+      "words": [
+       {
+        "w": "kāmakālī",
+        "gloss": "kāmakālī (a water bird)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sāraso",
+      "words": [
+       {
+        "w": "sārasaḥ",
+        "gloss": "sārasa (a water bird)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "raktaśīrṣakaḥ",
+      "words": [
+       {
+        "w": "rakta-śīrṣakaḥ",
+        "gloss": "raktaśīrṣaka ('red-head')",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "cakravākastathānye",
+      "words": [
+       {
+        "w": "cakravākaḥ",
+        "gloss": "cakravāka (a water bird)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       },
+       {
+        "w": "anye",
+        "gloss": "others",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "khagāḥ",
+      "words": [
+       {
+        "w": "khagāḥ",
+        "gloss": "birds",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "santyambucāriṇaḥ",
+      "words": [
+       {
+        "w": "santi",
+        "gloss": "there are",
+        "gram": "3 pl. pres. √as"
+       },
+       {
+        "w": "ambu-cāriṇaḥ",
+        "gloss": "moving in water",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रोहिणी, कामकाली, सारस, रक्तशीर्षक, चक्रवाक, और इसी प्रकार अन्य जलचारी पक्षी हैं।",
+  "english": "the rohiṇī, the kāmakālī, the sārasa, the raktaśīrṣaka, the cakravāka; and likewise there are other birds that move in water.",
+  "text_flags": [],
+  "notes": "raktaśīrṣakaḥ is taken as a separate name; it may also be an epithet of the sārasa ('the red-headed sārasa').",
+  "confidence": "medium"
+ },
+ {
+  "n": "45",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pṛṣataḥ",
+      "words": [
+       {
+        "w": "pṛṣataḥ",
+        "gloss": "pṛṣata (a deer)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śarabho",
+      "words": [
+       {
+        "w": "śarabhaḥ",
+        "gloss": "śarabha (an animal)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rāmaḥ",
+      "words": [
+       {
+        "w": "rāmaḥ",
+        "gloss": "rāma (a deer)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śvadaṃṣṭro",
+      "words": [
+       {
+        "w": "śva-daṃṣṭraḥ",
+        "gloss": "śvadaṃṣṭra ('dog-tooth')",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "mṛgamātṛkā",
+      "words": [
+       {
+        "w": "mṛga-mātṛkā",
+        "gloss": "mṛgamātṛkā (an animal)",
+        "gram": "f. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śaśoraṇau",
+      "words": [
+       {
+        "w": "śaśa-uraṇau",
+        "gloss": "hare (śaśa) and uraṇa",
+        "gram": "m. nom. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "kuraṅgaśca",
+      "words": [
+       {
+        "w": "kuraṅgaḥ",
+        "gloss": "kuraṅga (a deer)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gokarṇaḥ",
+      "words": [
+       {
+        "w": "go-karṇaḥ",
+        "gloss": "gokarṇa ('cow-ear')",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "koṭṭakārakaḥ",
+      "words": [
+       {
+        "w": "koṭṭakārakaḥ",
+        "gloss": "koṭṭakāraka (an animal)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पृषत, शरभ, राम, श्वदंष्ट्र, मृगमातृका, शश और उरण, कुरङ्ग, गोकर्ण, कोट्टकारक,",
+  "english": "The pṛṣata, the śarabha, the rāma, the śvadaṃṣṭra, the mṛgamātṛkā, the hare (śaśa) and the uraṇa, the kuraṅga, the gokarṇa, the koṭṭakāraka,",
+  "text_flags": [],
+  "notes": "SENTENCE: the list of dry-land animals (jāṅgala mṛga) is closed in 46. Names kept in Sanskrit, without identification; glosses 'deer' or 'animal' are only general. koṭṭakāraka is left unsplit.",
+  "confidence": "medium"
+ },
+ {
+  "n": "46",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "cāruṣko",
+      "words": [
+       {
+        "w": "cāruṣkaḥ",
+        "gloss": "cāruṣka (an animal)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hariṇaiṇau",
+      "words": [
+       {
+        "w": "hariṇa-eṇau",
+        "gloss": "hariṇa and eṇa",
+        "gram": "m. nom. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śambaraḥ",
+      "words": [
+       {
+        "w": "śambaraḥ",
+        "gloss": "śambara (a deer)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kālapucchakaḥ",
+      "words": [
+       {
+        "w": "kāla-pucchakaḥ",
+        "gloss": "kālapucchaka ('black-tail')",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ṛṣyaśca",
+      "words": [
+       {
+        "w": "ṛṣyaḥ",
+        "gloss": "ṛṣya (a deer)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "varapotaśca",
+      "words": [
+       {
+        "w": "varapotaḥ",
+        "gloss": "varapota (an animal)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vijñeyā",
+      "words": [
+       {
+        "w": "vijñeyāḥ",
+        "gloss": "to be known",
+        "gram": "m. nom. pl., gerundive (kṛtya) vi-√jñā"
+       }
+      ]
+     },
+     {
+      "src": "jāṅgalā",
+      "words": [
+       {
+        "w": "jāṅgalāḥ",
+        "gloss": "dry-land",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mṛgāḥ",
+      "words": [
+       {
+        "w": "mṛgāḥ",
+        "gloss": "animals (mṛga)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चारुष्क, हरिण और एण, शम्बर, कालपुच्छक, ऋष्य और वरपोत — ये जाङ्गल मृग जानने चाहिए।",
+  "english": "the cāruṣka, the hariṇa and the eṇa, the śambara, the kālapucchaka, the ṛṣya and the varapota are to be known as the dry-land animals (jāṅgala mṛga).",
+  "text_flags": [],
+  "notes": "mṛga here is the general word for the wild animals of the group. varapota is left unsplit.",
+  "confidence": "high"
+ },
+ {
+  "n": "47",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "lāvo",
+      "words": [
+       {
+        "w": "lāvaḥ",
+        "gloss": "lāva (a bird)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vartīrakaścaiva",
+      "words": [
+       {
+        "w": "vartīrakaḥ",
+        "gloss": "vartīraka (a bird)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vārtīkaḥ",
+      "words": [
+       {
+        "w": "vārtīkaḥ",
+        "gloss": "vārtīka (a bird)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sakapiñjalaḥ",
+      "words": [
+       {
+        "w": "sa-kapiñjalaḥ",
+        "gloss": "with the kapiñjala",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "cakoraścopacakraśca",
+      "words": [
+       {
+        "w": "cakoraḥ",
+        "gloss": "cakora (a bird)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "upacakraḥ",
+        "gloss": "upacakra (a bird)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kukkubho",
+      "words": [
+       {
+        "w": "kukkubhaḥ",
+        "gloss": "kukkubha (a bird)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "raktavartmakaḥ",
+      "words": [
+       {
+        "w": "rakta-vartmakaḥ",
+        "gloss": "raktavartmaka ('red-eyelid')",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "लाव, वर्तीरक, वार्तीक कपिञ्जल के साथ, चकोर, उपचक्र, कुक्कुभ, रक्तवर्त्मक —",
+  "english": "The lāva, the vartīraka, the vārtīka together with the kapiñjala, the cakora, the upacakra, the kukkubha, the raktavartmaka —",
+  "text_flags": [],
+  "notes": "SENTENCE: closed in 48 'lāvādyā viṣkirās tv ete'. sakapiñjalaḥ 'with the kapiñjala' adds the kapiñjala to the list. eva after ca is not rendered separately.",
+  "confidence": "high"
+ },
+ {
+  "n": "48",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "lāvādyā",
+      "words": [
+       {
+        "w": "lāva-ādyāḥ",
+        "gloss": "beginning with the lāva",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "viṣkirāstvete",
+      "words": [
+       {
+        "w": "viṣkirāḥ",
+        "gloss": "scatterers (viṣkira)",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "ete",
+        "gloss": "these",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vakṣyante",
+      "words": [
+       {
+        "w": "vakṣyante",
+        "gloss": "will be told",
+        "gram": "3 pl. fut. ātm. √vac (passive sense)"
+       }
+      ]
+     },
+     {
+      "src": "vartakādayaḥ",
+      "words": [
+       {
+        "w": "vartaka-ādayaḥ",
+        "gloss": "those beginning with the vartaka",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vartako",
+      "words": [
+       {
+        "w": "vartakaḥ",
+        "gloss": "vartaka (a bird)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vartikā",
+      "words": [
+       {
+        "w": "vartikā",
+        "gloss": "vartikā (a bird)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "caiva",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "barhī",
+      "words": [
+       {
+        "w": "barhī",
+        "gloss": "peacock (barhin)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tittirikukkuṭau",
+      "words": [
+       {
+        "w": "tittiri-kukkuṭau",
+        "gloss": "tittiri and cock (kukkuṭa)",
+        "gram": "m. nom. du., dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ये लाव आदि विष्किर हैं; वर्तक आदि कहे जाएँगे — वर्तक, वर्तिका, बर्ही, तित्तिरि और कुक्कुट,",
+  "english": "These, beginning with the lāva, are scatterers (viṣkira); those beginning with the vartaka will be told: the vartaka, the vartikā, the peacock (barhin), the tittiri and the cock (kukkuṭa),",
+  "text_flags": [],
+  "notes": "tu is left untranslated (connective). The second viṣkira list runs on to 49.",
+  "confidence": "high"
+ },
+ {
+  "n": "49",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kaṅkaśārapadendrābhagonardagirivartakāḥ",
+      "words": [
+       {
+        "w": "kaṅka-śārapada-indrābha-gonarda-girivartakāḥ",
+        "gloss": "kaṅka, śārapada, indrābha, gonarda, girivartaka",
+        "gram": "m. nom. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "krakaro'vakaraścaiva",
+      "words": [
+       {
+        "w": "krakaraḥ",
+        "gloss": "krakara (a bird)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "avakaraḥ",
+        "gloss": "avakara (a bird)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vāraḍaśceti",
+      "words": [
+       {
+        "w": "vāraḍaḥ",
+        "gloss": "vāraḍa (a bird)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viṣkirāḥ",
+      "words": [
+       {
+        "w": "viṣkirāḥ",
+        "gloss": "scatterers (viṣkira)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कङ्क, शारपद, इन्द्राभ, गोनर्द, गिरिवर्तक, क्रकर, अवकर और वारड — ये विष्किर हैं।",
+  "english": "the kaṅka, the śārapada, the indrābha, the gonarda, the girivartaka, the krakara, the avakara and the vāraḍa: these are the scatterers (viṣkira).",
+  "text_flags": [],
+  "notes": "The members of the long compound are bird names; girivartaka ('mountain vartaka') and indrābha are kept as single names.",
+  "confidence": "medium"
+ },
+ {
+  "n": "50",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śatapatro",
+      "words": [
+       {
+        "w": "śata-patraḥ",
+        "gloss": "śatapatra ('hundred-feathered')",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "bhṛṅgarājaḥ",
+      "words": [
+       {
+        "w": "bhṛṅga-rājaḥ",
+        "gloss": "bhṛṅgarāja (a bird)",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "koyaṣṭirjīvajīvakaḥ",
+      "words": [
+       {
+        "w": "koyaṣṭiḥ",
+        "gloss": "koyaṣṭi (a bird)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "jīvajīvakaḥ",
+        "gloss": "jīvajīvaka (a bird)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kairātaḥ",
+      "words": [
+       {
+        "w": "kairātaḥ",
+        "gloss": "kairāta (a bird)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kokilo'tyūho",
+      "words": [
+       {
+        "w": "kokilaḥ",
+        "gloss": "kokila (a bird)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "atyūhaḥ",
+        "gloss": "atyūha (a bird)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gopāputraḥ",
+      "words": [
+       {
+        "w": "gopā-putraḥ",
+        "gloss": "gopāputra (a bird)",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "priyātmajaḥ",
+      "words": [
+       {
+        "w": "priya-ātmajaḥ",
+        "gloss": "priyātmaja (a bird)",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शतपत्र, भृङ्गराज, कोयष्टि, जीवजीवक, कैरात, कोकिल, अत्यूह, गोपापुत्र, प्रियात्मज,",
+  "english": "The śatapatra, the bhṛṅgarāja, the koyaṣṭi, the jīvajīvaka, the kairāta, the kokila, the atyūha, the gopāputra, the priyātmaja,",
+  "text_flags": [],
+  "notes": "SENTENCE: the list of peckers (pratuda) runs on to 53, where it is closed. Names kept in Sanskrit, without identification; plant senses of śatapatra and bhṛṅgarāja do not apply here.",
+  "confidence": "high"
+ },
+ {
+  "n": "51",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "laṭṭā",
+      "words": [
+       {
+        "w": "laṭṭā",
+        "gloss": "laṭṭā (a bird)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "laṭṭa(ṭū)ṣako",
+      "words": [
+       {
+        "w": "laṭṭaṣakaḥ",
+        "gloss": "laṭṭaṣaka (a bird) (variant: with ṭū for ṭa)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "babhrurvaṭahā",
+      "words": [
+       {
+        "w": "babhruḥ",
+        "gloss": "babhru (a bird)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "vaṭahā",
+        "gloss": "vaṭahā (a bird)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ḍiṇḍimānakaḥ",
+      "words": [
+       {
+        "w": "ḍiṇḍimānakaḥ",
+        "gloss": "ḍiṇḍimānaka (a bird)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "jaṭī",
+      "words": [
+       {
+        "w": "jaṭī",
+        "gloss": "jaṭin (a bird)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dundubhipākkāralohapṛṣṭhakuliṅgakāḥ",
+      "words": [
+       {
+        "w": "dundubhi-pākkāra-lohapṛṣṭha-kuliṅgakāḥ",
+        "gloss": "dundubhi, pākkāra, lohapṛṣṭha, kuliṅgaka",
+        "gram": "m. nom. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "लट्टा, लट्टषक, बभ्रु, वटहा, डिण्डिमानक, जटी, दुन्दुभि, पाक्कार, लोहपृष्ठ, कुलिङ्गक,",
+  "english": "the laṭṭā, the laṭṭaṣaka, the babhru, the vaṭahā, the ḍiṇḍimānaka, the jaṭin, the dundubhi, the pākkāra, the lohapṛṣṭha ('iron-back'), the kuliṅgaka,",
+  "text_flags": [],
+  "notes": "Pratuda list continued. 'laṭṭa(ṭū)ṣako' prints the syllable ṭū in round brackets as the edition's alternative (apparently laṭūṣaka or laṭṭūṣaka; its exact extent is not clear); the unbracketed reading laṭṭaṣaka is used and the variant is left out of the translations. vaṭahā is taken as a feminine name; its form is uncertain. ḍiṇḍimānaka and pākkāra are left unsplit.",
+  "confidence": "medium"
+ },
+ {
+  "n": "52",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kapotaśukaśāraṅgāściraṭīkaṅkuyaṣṭikāḥ",
+      "words": [
+       {
+        "w": "kapota-śuka-śāraṅgāḥ",
+        "gloss": "pigeon (kapota), parrot (śuka), śāraṅga",
+        "gram": "m. nom. pl., dvandva"
+       },
+       {
+        "w": "ciraṭī-kaṅku-yaṣṭikāḥ",
+        "gloss": "ciraṭī, kaṅkuyaṣṭikā",
+        "gram": "f. nom. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sārikā",
+      "words": [
+       {
+        "w": "sārikā",
+        "gloss": "sārikā (a bird)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kalaviṅkaśca",
+      "words": [
+       {
+        "w": "kalaviṅkaḥ",
+        "gloss": "kalaviṅka (a bird)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "caṭako'ṅgāracūḍakaḥ",
+      "words": [
+       {
+        "w": "caṭakaḥ",
+        "gloss": "sparrow (caṭaka)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "aṅgāra-cūḍakaḥ",
+        "gloss": "aṅgāracūḍaka ('ember-crest')",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कपोत, शुक, शारङ्ग, चिरटी, कङ्कुयष्टिका, सारिका, कलविङ्क, चटक, अङ्गारचूडक,",
+  "english": "the pigeon (kapota), the parrot (śuka), the śāraṅga, the ciraṭī, the kaṅkuyaṣṭikā, the sārikā, the kalaviṅka, the sparrow (caṭaka), the aṅgāracūḍaka,",
+  "text_flags": [],
+  "notes": "Pratuda list continued. ciraṭīkaṅkuyaṣṭikāḥ is divided as ciraṭī + kaṅkuyaṣṭikā; a division into three names (ciraṭī, kaṅku, yaṣṭikā) is also possible.",
+  "confidence": "medium"
+ },
+ {
+  "n": "53",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pārāvataḥ",
+      "words": [
+       {
+        "w": "pārāvataḥ",
+        "gloss": "pārāvata (a bird)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāṇḍa(na)vikaḥ",
+      "words": [
+       {
+        "w": "pāṇḍavikaḥ",
+        "gloss": "pāṇḍavika (a bird) (variant: with na)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ityuktāḥ",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "uktāḥ",
+        "gloss": "are told",
+        "gram": "m. nom. pl., ppp. √vac"
+       }
+      ]
+     },
+     {
+      "src": "pratudā",
+      "words": [
+       {
+        "w": "pratudāḥ",
+        "gloss": "peckers (pratuda)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dvijāḥ",
+      "words": [
+       {
+        "w": "dvijāḥ",
+        "gloss": "birds",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "prasahya",
+      "words": [
+       {
+        "w": "prasahya",
+        "gloss": "seizing by force",
+        "gram": "abs. pra-√sah"
+       }
+      ]
+     },
+     {
+      "src": "bhakṣayantīti",
+      "words": [
+       {
+        "w": "bhakṣayanti",
+        "gloss": "they eat",
+        "gram": "3 pl. pres. √bhakṣ"
+       },
+       {
+        "w": "iti",
+        "gloss": "because (quoting the reason)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prasahāstena",
+      "words": [
+       {
+        "w": "prasahāḥ",
+        "gloss": "seizers (prasaha)",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "tena",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃjñitāḥ",
+      "words": [
+       {
+        "w": "saṃjñitāḥ",
+        "gloss": "are named",
+        "gram": "m. nom. pl., ppp. sam-√jñā (denominative)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पारावत, पाण्डविक — ये प्रतुद पक्षी कहे गए। बलपूर्वक पकड़कर खाते हैं, इसलिए वे प्रसह नाम वाले हैं।",
+  "english": "the pārāvata and the pāṇḍavika: these are told to be the pecking birds (pratuda). Because they eat seizing by force, they are therefore named seizers (prasaha).",
+  "text_flags": [],
+  "notes": "'pāṇḍa(na)vikaḥ' prints na in round brackets as the edition's alternative (apparently pānavika or pāṇḍanavika; its extent is not clear); the unbracketed reading pāṇḍavika is used and the variant is left out of the translations. dvija 'twice-born' is a common word for bird. Line b begins the explanation of the group names, continued in 54-55; it explains the name prasaha.",
+  "confidence": "medium"
+ },
+ {
+  "n": "54",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhūśayā",
+      "words": [
+       {
+        "w": "bhū-śayāḥ",
+        "gloss": "ground-dwellers (bhūśaya)",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bilavāsitvādānūpānūpasaṃśrayāt",
+      "words": [
+       {
+        "w": "bila-vāsitvāt",
+        "gloss": "from dwelling in burrows",
+        "gram": "n. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "ānūpāḥ",
+        "gloss": "marsh animals (ānūpa)",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "anūpa-saṃśrayāt",
+        "gloss": "from resorting to marshland",
+        "gram": "m. abl. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "jale",
+      "words": [
+       {
+        "w": "jale",
+        "gloss": "in water",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nivāsājjalajā",
+      "words": [
+       {
+        "w": "nivāsāt",
+        "gloss": "from dwelling",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "jala-jāḥ",
+        "gloss": "water-born (jalaja)",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "jalecaryājjalecarāḥ",
+      "words": [
+       {
+        "w": "jale-caryāt",
+        "gloss": "from moving in water",
+        "gram": "n. abl. sg., aluk tat-puruṣa"
+       },
+       {
+        "w": "jale-carāḥ",
+        "gloss": "water-movers (jalecara)",
+        "gram": "m. nom. pl., aluk upapada tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बिल में रहने के कारण भूशय, अनूप का आश्रय लेने के कारण आनूप, जल में निवास के कारण जलज, और जल में विचरण के कारण जलेचर (कहलाते हैं)।",
+  "english": "From dwelling in burrows (they are called) ground-dwellers (bhūśaya); from resorting to marshland (anūpa), marsh animals (ānūpa); from dwelling in water, water-born (jalaja); from moving in water, water-movers (jalecara).",
+  "text_flags": [],
+  "notes": "jalaja here answers to the vārija/vāriśaya group and jalecara to the vāricārin group named in 41 and 56. jalecaryāt is read as the ablative of a neuter jalecarya 'moving in water'; the gender of the abstract is uncertain. The words 'are called' are understood.",
+  "confidence": "medium"
+ },
+ {
+  "n": "55",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sthalajā",
+      "words": [
+       {
+        "w": "sthala-jāḥ",
+        "gloss": "born on dry land",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "jāṅgalāḥ",
+      "words": [
+       {
+        "w": "jāṅgalāḥ",
+        "gloss": "dry-land (jāṅgala)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "proktā",
+      "words": [
+       {
+        "w": "proktāḥ",
+        "gloss": "are called",
+        "gram": "m. nom. pl., ppp. pra-√vac"
+       }
+      ]
+     },
+     {
+      "src": "mṛgā",
+      "words": [
+       {
+        "w": "mṛgāḥ",
+        "gloss": "animals",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "jāṅgalacāriṇaḥ",
+      "words": [
+       {
+        "w": "jāṅgala-cāriṇaḥ",
+        "gloss": "moving in dry land",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vikīrya",
+      "words": [
+       {
+        "w": "vikīrya",
+        "gloss": "scattering",
+        "gram": "abs. vi-√kṝ"
+       }
+      ]
+     },
+     {
+      "src": "viṣkirāśceti",
+      "words": [
+       {
+        "w": "viṣkirāḥ",
+        "gloss": "scatterers (viṣkira)",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pratudya",
+      "words": [
+       {
+        "w": "pratudya",
+        "gloss": "pecking",
+        "gram": "abs. pra-√tud"
+       }
+      ]
+     },
+     {
+      "src": "pratudāḥ",
+      "words": [
+       {
+        "w": "pratudāḥ",
+        "gloss": "peckers (pratuda)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "smṛtāḥ",
+      "words": [
+       {
+        "w": "smṛtāḥ",
+        "gloss": "are known",
+        "gram": "m. nom. pl., ppp. √smṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्थल पर उत्पन्न, जाङ्गल में विचरने वाले मृग जाङ्गल कहे गए हैं; बिखेरने से विष्किर, और चोंच मारने से प्रतुद माने गए हैं।",
+  "english": "The animals born on dry land and moving in dry country are called dry-land (jāṅgala); from scattering, scatterers (viṣkira); from pecking, peckers (pratuda): so they are known.",
+  "text_flags": [],
+  "notes": "The absolutives vikīrya and pratudya are rendered 'from scattering', 'from pecking'. iti closes the explanation; it is rendered by 'so'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "56",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yoniraṣṭavidhā",
+      "words": [
+       {
+        "w": "yoniḥ",
+        "gloss": "source",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "aṣṭa-vidhā",
+        "gloss": "eightfold",
+        "gram": "f. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "tveṣā",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eṣā",
+        "gloss": "this",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "māṃsānāṃ",
+      "words": [
+       {
+        "w": "māṃsānām",
+        "gloss": "of meats",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "parikīrtitā",
+      "words": [
+       {
+        "w": "parikīrtitā",
+        "gloss": "is declared",
+        "gram": "f. nom. sg., ppp. pari-√kīrt"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "prasahā",
+      "words": [
+       {
+        "w": "prasahāḥ",
+        "gloss": "seizers (prasaha)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhūśayānūpavārijā",
+      "words": [
+       {
+        "w": "bhūśaya-ānūpa-vārijāḥ",
+        "gloss": "ground-dwellers, marsh animals and water-born",
+        "gram": "m. nom. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "vāricāriṇaḥ",
+      "words": [
+       {
+        "w": "vāri-cāriṇaḥ",
+        "gloss": "water-movers",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मांसों की यह योनि आठ प्रकार की कही गई है। प्रसह, भूशय, आनूप, वारिज और वारिचारी —",
+  "english": "This source (yoni) of meats is declared to be eightfold. The seizers (prasaha), ground-dwellers (bhūśaya), marsh animals (ānūpa), water-born (vārija) and water-movers (vāricārin) —",
+  "text_flags": [],
+  "notes": "SENTENCE: line b begins a sentence that runs through 57-59a (their qualities and use); the other three groups (viṣkira, pratuda, jāṅgala) are named in 59b. vārija here is the group called vāriśaya in 41 and jalaja in 54.",
+  "confidence": "high"
+ },
+ {
+  "n": "57",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gurūṣṇasnigdhamadhurā",
+      "words": [
+       {
+        "w": "guru-uṣṇa-snigdha-madhurāḥ",
+        "gloss": "heavy, hot, unctuous and sweet",
+        "gram": "m. nom. pl., dvandva (adjectival)"
+       }
+      ]
+     },
+     {
+      "src": "balopacayavardhanāḥ",
+      "words": [
+       {
+        "w": "bala-upacaya-vardhanāḥ",
+        "gloss": "increasing strength and upacaya",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vṛṣyāḥ",
+      "words": [
+       {
+        "w": "vṛṣyāḥ",
+        "gloss": "aphrodisiac",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "paraṃ",
+      "words": [
+       {
+        "w": "param",
+        "gloss": "supremely",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātaharāḥ",
+      "words": [
+       {
+        "w": "vāta-harāḥ",
+        "gloss": "Vāta-removing",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kaphapittavivardhanāḥ",
+      "words": [
+       {
+        "w": "kapha-pitta-vivardhanāḥ",
+        "gloss": "increasing Kapha and Pitta",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "— भारी, उष्ण, स्निग्ध, मधुर, बल और उपचय को बढ़ाने वाले, वृष्य, अत्यन्त वातहर और कफ-पित्त को बढ़ाने वाले हैं।",
+  "english": "are heavy, hot, unctuous and sweet, increasing strength and increase of body (upacaya), aphrodisiac, supremely Vāta-removing and increasing Kapha and Pitta.",
+  "text_flags": [],
+  "notes": "param is taken with vātaharāḥ; it may also go with the preceding vṛṣyāḥ ('supremely aphrodisiac'). The subject is the five groups named in 56b.",
+  "confidence": "high"
+ },
+ {
+  "n": "58",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "hitā",
+      "words": [
+       {
+        "w": "hitāḥ",
+        "gloss": "wholesome",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vyāyāmanityebhyo",
+      "words": [
+       {
+        "w": "vyāyāma-nityebhyaḥ",
+        "gloss": "for those constantly exercising",
+        "gram": "m. dat. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "narā",
+      "words": [
+       {
+        "w": "narāḥ",
+        "gloss": "men",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dīptāgnayaśca",
+      "words": [
+       {
+        "w": "dīpta-agnayaḥ",
+        "gloss": "with kindled digestive fire",
+        "gram": "m. nom. pl., bahuvrīhi"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "prasahānāṃ",
+      "words": [
+       {
+        "w": "prasahānām",
+        "gloss": "of the seizers (prasaha)",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "viśeṣeṇa",
+      "words": [
+       {
+        "w": "viśeṣeṇa",
+        "gloss": "especially",
+        "gram": "ind. (m. inst. sg.)"
+       }
+      ]
+     },
+     {
+      "src": "māṃsaṃ",
+      "words": [
+       {
+        "w": "māṃsam",
+        "gloss": "meat",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "māṃsāśināṃ",
+      "words": [
+       {
+        "w": "māṃsa-āśinām",
+        "gloss": "meat-eating",
+        "gram": "m. gen. pl., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhiṣak",
+      "words": [
+       {
+        "w": "bhiṣak",
+        "gloss": "physician",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे नित्य व्यायाम करने वालों के लिए और जो मनुष्य दीप्त अग्नि वाले हैं (उनके लिए) हितकर हैं। वैद्य विशेष रूप से मांसाहारी प्रसहों का मांस —",
+  "english": "They are wholesome for those constantly exercising and for men who have a kindled digestive fire (agni). The physician should apply especially the meat of the seizers (prasaha), which eat meat,",
+  "text_flags": [],
+  "notes": "narāḥ ... ye is nominative where the dative of the line's first half is expected ('and the men who have kindled digestive fire'); it is translated in the dative sense. Line b continues into 59a (prayojayet). 'should apply' is the verb of 59a.",
+  "confidence": "medium"
+ },
+ {
+  "n": "59",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "jīrṇārśograhaṇīdoṣaśoṣārtānāṃ",
+      "words": [
+       {
+        "w": "jīrṇa-arśas-grahaṇīdoṣa-śoṣa-ārtānām",
+        "gloss": "for those afflicted with chronic arśas, grahaṇī disorder and śoṣa",
+        "gram": "m. gen. pl., tat-puruṣa (dvandva first member)"
+       }
+      ]
+     },
+     {
+      "src": "prayojayet",
+      "words": [
+       {
+        "w": "prayojayet",
+        "gloss": "should apply",
+        "gram": "3 sg. opt. caus. pra-√yuj"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "lāvādyo",
+      "words": [
+       {
+        "w": "lāva-ādyaḥ",
+        "gloss": "beginning with the lāva",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vaiṣkiro",
+      "words": [
+       {
+        "w": "vaiṣkiraḥ",
+        "gloss": "of the scatterers (viṣkira)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vargaḥ",
+      "words": [
+       {
+        "w": "vargaḥ",
+        "gloss": "group",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratudā",
+      "words": [
+       {
+        "w": "pratudāḥ",
+        "gloss": "peckers (pratuda)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "jāṅgalā",
+      "words": [
+       {
+        "w": "jāṅgalāḥ",
+        "gloss": "dry-land",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mṛgāḥ",
+      "words": [
+       {
+        "w": "mṛgāḥ",
+        "gloss": "animals",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "— पुराने अर्श, ग्रहणीदोष और शोष से पीड़ितों के लिए प्रयोग करे। लाव आदि विष्किर-वर्ग, प्रतुद और जाङ्गल मृग —",
+  "english": "for those afflicted with chronic arśas, grahaṇī disorder and śoṣa (wasting). The scatterers' group (viṣkira) beginning with the lāva, the peckers (pratuda) and the dry-land animals (jāṅgala mṛga) —",
+  "text_flags": [],
+  "notes": "jīrṇa 'chronic, old' is taken with arśas only; it may qualify all three disorders. arśas, grahaṇī and śoṣa are kept as Sanskrit. SENTENCE: line b begins a sentence completed in 60.",
+  "confidence": "medium"
+ },
+ {
+  "n": "60",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "laghavaḥ",
+      "words": [
+       {
+        "w": "laghavaḥ",
+        "gloss": "light",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śītamadhurāḥ",
+      "words": [
+       {
+        "w": "śīta-madhurāḥ",
+        "gloss": "cold and sweet",
+        "gram": "m. nom. pl., dvandva (adjectival)"
+       }
+      ]
+     },
+     {
+      "src": "sakaṣāyā",
+      "words": [
+       {
+        "w": "sa-kaṣāyāḥ",
+        "gloss": "with astringent taste",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "hitā",
+      "words": [
+       {
+        "w": "hitāḥ",
+        "gloss": "wholesome",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "nṛṇām",
+      "words": [
+       {
+        "w": "nṛṇām",
+        "gloss": "for men",
+        "gram": "m. gen. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pittottare",
+      "words": [
+       {
+        "w": "pitta-uttare",
+        "gloss": "with Pitta uppermost",
+        "gram": "m. loc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vātamadhye",
+      "words": [
+       {
+        "w": "vāta-madhye",
+        "gloss": "with Vāta in the middle",
+        "gram": "m. loc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sannipāte",
+      "words": [
+       {
+        "w": "sannipāte",
+        "gloss": "in sannipāta",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaphānuge",
+      "words": [
+       {
+        "w": "kapha-anuge",
+        "gloss": "with Kapha following",
+        "gram": "m. loc. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "— लघु, शीत, मधुर, कषाय-युक्त, और उस सन्निपात में मनुष्यों के लिए हितकर हैं जिसमें पित्त प्रधान, वात मध्यम और कफ अनुगामी हो।",
+  "english": "are light, cold and sweet, with astringent taste, and wholesome for men in a sannipāta (all three doṣas combined) in which Pitta is uppermost, Vāta in the middle and Kapha following.",
+  "text_flags": [],
+  "notes": "kaphānuge 'with Kapha following' is taken as Kapha being least.",
+  "confidence": "high"
+ },
+ {
+  "n": "61",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viṣkirā",
+      "words": [
+       {
+        "w": "viṣkirāḥ",
+        "gloss": "scatterers (viṣkira)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vartakādyāstu",
+      "words": [
+       {
+        "w": "vartaka-ādyāḥ",
+        "gloss": "beginning with the vartaka",
+        "gram": "m. nom. pl., bahuvrīhi"
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prasahālpāntarā",
+      "words": [
+       {
+        "w": "prasaha-alpa-antarāḥ",
+        "gloss": "differing little from the seizers",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "guṇaiḥ",
+      "words": [
+       {
+        "w": "guṇaiḥ",
+        "gloss": "in qualities",
+        "gram": "m. inst. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "nātiśītagurusnigdhaṃ",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "ati-śīta-guru-snigdham",
+        "gloss": "too cold, heavy or unctuous",
+        "gram": "n. nom. sg., dvandva (adjectival)"
+       }
+      ]
+     },
+     {
+      "src": "māṃsamājamadoṣalam",
+      "words": [
+       {
+        "w": "māṃsam",
+        "gloss": "meat",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ājam",
+        "gloss": "of the goat",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "a-doṣalam",
+        "gloss": "not producing doṣas",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "परन्तु वर्तक आदि विष्किर गुणों में प्रसहों से थोड़ा अन्तर रखते हैं। बकरे का मांस न अधिक शीत, न भारी, न स्निग्ध है, दोष न बढ़ाने वाला —",
+  "english": "But the scatterers (viṣkira) beginning with the vartaka differ little from the seizers (prasaha) in qualities. Goat meat (āja) is not too cold, heavy or unctuous, and does not produce doṣas;",
+  "text_flags": [],
+  "notes": "Line b begins a description of goat meat continued in 62a. na ati- is taken with all three adjectives. doṣala 'producing doṣa' with the negative a-.",
+  "confidence": "medium"
+ },
+ {
+  "n": "62",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śarīradhātusāmānyādanabhiṣyandi",
+      "words": [
+       {
+        "w": "śarīra-dhātu-sāmānyāt",
+        "gloss": "from sameness with the body's dhātus",
+        "gram": "n. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "an-abhiṣyandi",
+        "gloss": "not channel-clogging",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bṛṃhaṇam",
+      "words": [
+       {
+        "w": "bṛṃhaṇam",
+        "gloss": "nourishing",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "māṃsaṃ",
+      "words": [
+       {
+        "w": "māṃsam",
+        "gloss": "meat",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhuraśītatvādguru",
+      "words": [
+       {
+        "w": "madhura-śītatvāt",
+        "gloss": "from being sweet and cold",
+        "gram": "n. abl. sg., dvandva + -tva"
+       },
+       {
+        "w": "guru",
+        "gloss": "heavy",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bṛṃhaṇamāvikam",
+      "words": [
+       {
+        "w": "bṛṃhaṇam",
+        "gloss": "nourishing",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "āvikam",
+        "gloss": "of the sheep",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शरीर की धातुओं से समानता के कारण वह अनभिष्यन्दी और बृंहण है। भेड़ का मांस मधुर और शीत होने से भारी और बृंहण है।",
+  "english": "from its sameness (sāmānya) with the body's dhātus it is not channel-clogging and is nourishing. Sheep meat (āvika), being sweet and cold, is heavy and nourishing.",
+  "text_flags": [],
+  "notes": "Line a completes the description of goat meat begun in 61b.",
+  "confidence": "high"
+ },
+ {
+  "n": "63",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yonāvajāvike",
+      "words": [
+       {
+        "w": "yonau",
+        "gloss": "in respect of source",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "aja-āvike",
+        "gloss": "in goat and sheep",
+        "gram": "n. loc. sg., samāhāra dvandva"
+       }
+      ]
+     },
+     {
+      "src": "miśragocaratvādaniścite",
+      "words": [
+       {
+        "w": "miśra-gocaratvāt",
+        "gloss": "from having a mixed range",
+        "gram": "n. abl. sg., bahuvrīhi + -tva"
+       },
+       {
+        "w": "a-niścite",
+        "gloss": "being undetermined",
+        "gram": "m. loc. sg., ppp. niś-√ci"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sāmānyenopadiṣṭānāṃ",
+      "words": [
+       {
+        "w": "sāmānyena",
+        "gloss": "in general",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "upadiṣṭānām",
+        "gloss": "of those taught",
+        "gram": "n. gen. pl., ppp. upa-√diś"
+       }
+      ]
+     },
+     {
+      "src": "māṃsānāṃ",
+      "words": [
+       {
+        "w": "māṃsānām",
+        "gloss": "of meats",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "svaguṇaiḥ",
+      "words": [
+       {
+        "w": "sva-guṇaiḥ",
+        "gloss": "by their own qualities",
+        "gram": "m. inst. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pṛthak",
+      "words": [
+       {
+        "w": "pṛthak",
+        "gloss": "separately",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बकरे और भेड़ के विषय में, मिश्रित विचरण-क्षेत्र होने से, योनि अनिश्चित है। सामान्य रूप से बताए गए मांसों में से, अपने-अपने गुणों के अनुसार अलग-अलग —",
+  "english": "In goat and sheep the source (yoni) is undetermined, since they have a mixed range. Of the meats taught in general, separately by their own qualities,",
+  "text_flags": [],
+  "notes": "yonau ... aniścite is read as a locative absolute ('the source being undetermined'), with ajāvike as a neuter samāhāra locative; yoni is construed here as masculine (loc. yonau with aniścite). The point is that goat and sheep are not placed in any of the eight groups. Line b continues into 64a.",
+  "confidence": "medium"
+ },
+ {
+  "n": "64",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "keṣāṃcidguṇavaiśeṣyādviśeṣa",
+      "words": [
+       {
+        "w": "keṣāṃcit",
+        "gloss": "of some",
+        "gram": "n. gen. pl."
+       },
+       {
+        "w": "guṇa-vaiśeṣyāt",
+        "gloss": "from distinctiveness of qualities",
+        "gram": "n. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "viśeṣaḥ",
+        "gloss": "the particular",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "upadekṣyate",
+      "words": [
+       {
+        "w": "upadekṣyate",
+        "gloss": "will be taught",
+        "gram": "3 sg. fut. ātm. upa-√diś (passive sense)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "darśanaśrotramedhāgnivayovarṇasvarāyuṣām",
+      "words": [
+       {
+        "w": "darśana-śrotra-medhā-agni-vayas-varṇa-svara-āyuṣām",
+        "gloss": "for sight, hearing, intellect, digestive fire, age, complexion, voice and life-span",
+        "gram": "n. gen. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कुछ का, गुणों की विशेषता के कारण, विशेष (वर्णन) बताया जाएगा। दृष्टि, श्रवण, मेधा, अग्नि, वय, वर्ण, स्वर और आयु के लिए —",
+  "english": "the particulars of some will be taught, owing to the distinctiveness of their qualities. For sight, hearing, intellect, digestive fire (agni), age (vayas), complexion, voice and life-span —",
+  "text_flags": [],
+  "notes": "viśeṣa upadekṣyate: visarga dropped before u (hiatus), 16 syllables. Line b is governed by hitatamaḥ in 65a. vayas 'age' may mean youthfulness here; kept literal.",
+  "confidence": "medium"
+ },
+ {
+  "n": "65",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "barhī",
+      "words": [
+       {
+        "w": "barhī",
+        "gloss": "peacock (barhin)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hitatamo",
+      "words": [
+       {
+        "w": "hita-tamaḥ",
+        "gloss": "most beneficial",
+        "gram": "m. nom. sg., superlative"
+       }
+      ]
+     },
+     {
+      "src": "balyo",
+      "words": [
+       {
+        "w": "balyaḥ",
+        "gloss": "strengthening",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vātaghno",
+      "words": [
+       {
+        "w": "vāta-ghnaḥ",
+        "gloss": "Vāta-destroying",
+        "gram": "m. nom. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "māṃsaśukralaḥ",
+      "words": [
+       {
+        "w": "māṃsa-śukralaḥ",
+        "gloss": "promoting flesh and semen",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "gurūṣṇasnigdhamadhurāḥ",
+      "words": [
+       {
+        "w": "guru-uṣṇa-snigdha-madhurāḥ",
+        "gloss": "heavy, hot, unctuous and sweet",
+        "gram": "m. nom. pl., dvandva (adjectival)"
+       }
+      ]
+     },
+     {
+      "src": "svaravarṇabalapradāḥ",
+      "words": [
+       {
+        "w": "svara-varṇa-bala-pradāḥ",
+        "gloss": "giving voice, complexion and strength",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "— मोर अत्यन्त हितकर है; वह बलकारक, वातनाशक और मांस तथा शुक्र को बढ़ाने वाला है। भारी, उष्ण, स्निग्ध, मधुर, स्वर, वर्ण और बल देने वाले —",
+  "english": "the peacock (barhin) is most beneficial; it is strengthening, Vāta-destroying and promotes flesh and semen. Heavy, hot, unctuous and sweet, giving voice, complexion and strength,",
+  "text_flags": [],
+  "notes": "Line b begins the description of the haṃsas completed in 66a.",
+  "confidence": "high"
+ },
+ {
+  "n": "66",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bṛṃhaṇāḥ",
+      "words": [
+       {
+        "w": "bṛṃhaṇāḥ",
+        "gloss": "nourishing",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śukralāścoktā",
+      "words": [
+       {
+        "w": "śukralāḥ",
+        "gloss": "semen-promoting",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "uktāḥ",
+        "gloss": "are said",
+        "gram": "m. nom. pl., ppp. √vac"
+       }
+      ]
+     },
+     {
+      "src": "haṃsā",
+      "words": [
+       {
+        "w": "haṃsāḥ",
+        "gloss": "the haṃsas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mārutanāśanāḥ",
+      "words": [
+       {
+        "w": "māruta-nāśanāḥ",
+        "gloss": "destroying Vāta (māruta)",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "snigdhāścoṣṇāśca",
+      "words": [
+       {
+        "w": "snigdhāḥ",
+        "gloss": "unctuous",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "uṣṇāḥ",
+        "gloss": "hot",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vṛṣyāśca",
+      "words": [
+       {
+        "w": "vṛṣyāḥ",
+        "gloss": "aphrodisiac",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bṛṃhaṇāḥ",
+      "words": [
+       {
+        "w": "bṛṃhaṇāḥ",
+        "gloss": "nourishing",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "svarabodhanāḥ",
+      "words": [
+       {
+        "w": "svara-bodhanāḥ",
+        "gloss": "awakening the voice",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "— बृंहण, शुक्रकारक और मारुत का नाश करने वाले हंस कहे गए हैं। स्निग्ध, उष्ण, वृष्य, बृंहण, स्वर को जगाने वाले —",
+  "english": "nourishing and semen-promoting, destroying Vāta (māruta), are said to be the haṃsas. Unctuous, hot, aphrodisiac, nourishing, awakening the voice,",
+  "text_flags": [],
+  "notes": "Line a completes the haṃsa description begun in 65b. Line b begins the description of the caraṇāyudhas completed in 67a.",
+  "confidence": "high"
+ },
+ {
+  "n": "67",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "balyāḥ",
+      "words": [
+       {
+        "w": "balyāḥ",
+        "gloss": "strengthening",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "paraṃ",
+      "words": [
+       {
+        "w": "param",
+        "gloss": "supremely",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātaharāḥ",
+      "words": [
+       {
+        "w": "vāta-harāḥ",
+        "gloss": "Vāta-removing",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "svedanāścaraṇāyudhāḥ",
+      "words": [
+       {
+        "w": "svedanāḥ",
+        "gloss": "causing sweat",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "caraṇa-āyudhāḥ",
+        "gloss": "the caraṇāyudhas ('foot-weaponed', cocks)",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "gurūṣṇo",
+      "words": [
+       {
+        "w": "guru-uṣṇaḥ",
+        "gloss": "heavy and hot",
+        "gram": "m. nom. sg., dvandva (adjectival)"
+       }
+      ]
+     },
+     {
+      "src": "madhuro",
+      "words": [
+       {
+        "w": "madhuraḥ",
+        "gloss": "sweet",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nātidhanvānūpaniṣevaṇāt",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "ati",
+        "gloss": "excessively",
+        "gram": "ind."
+       },
+       {
+        "w": "dhanva-anūpa-niṣevaṇāt",
+        "gloss": "from frequenting dry land and marshland",
+        "gram": "n. abl. sg., tat-puruṣa (dvandva first member)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "— बलकारक, अत्यन्त वातहर और स्वेद लाने वाले चरणायुध हैं। भारी, उष्ण, मधुर, और धन्व तथा अनूप का अधिक सेवन न करने के कारण —",
+  "english": "strengthening, supremely Vāta-removing and causing sweat are the caraṇāyudhas ('foot-weaponed', that is cocks). Heavy, hot and sweet, from not frequenting dry land (dhanvan) and marshland (anūpa) excessively,",
+  "text_flags": [],
+  "notes": "caraṇāyudha 'having feet as weapons' is an ordinary word for the cock. param may also go with balyāḥ ('supremely strengthening'). Line b begins the tittiri description completed in 68a; na ati- is taken as 'not too much' with niṣevaṇa.",
+  "confidence": "medium"
+ },
+ {
+  "n": "68",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tittiriḥ",
+      "words": [
+       {
+        "w": "tittiriḥ",
+        "gloss": "the tittiri",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃjayecchīghraṃ",
+      "words": [
+       {
+        "w": "saṃjayet",
+        "gloss": "overcomes",
+        "gram": "3 sg. opt. sam-√ji"
+       },
+       {
+        "w": "śīghram",
+        "gloss": "quickly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "trīn",
+      "words": [
+       {
+        "w": "trīn",
+        "gloss": "three",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "doṣānanilolbaṇān",
+      "words": [
+       {
+        "w": "doṣān",
+        "gloss": "doṣas",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "anila-ulbaṇān",
+        "gloss": "with Vāta (anila) predominant",
+        "gram": "m. acc. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pittaśleṣmavikāreṣu",
+      "words": [
+       {
+        "w": "pitta-śleṣma-vikāreṣu",
+        "gloss": "in disorders of Pitta and Kapha (śleṣman)",
+        "gram": "m. loc. pl., tat-puruṣa (dvandva first member)"
+       }
+      ]
+     },
+     {
+      "src": "sarakteṣu",
+      "words": [
+       {
+        "w": "sa-rakteṣu",
+        "gloss": "with blood involved",
+        "gram": "m. loc. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "kapiñjalāḥ",
+      "words": [
+       {
+        "w": "kapiñjalāḥ",
+        "gloss": "the kapiñjalas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "— तित्तिरि अनिल-प्रधान तीनों दोषों को शीघ्र जीत लेता है। रक्त-सहित पित्त और श्लेष्मा के विकारों में कपिञ्जल —",
+  "english": "the tittiri quickly overcomes the three doṣas when Vāta (anila) is predominant. In disorders of Pitta and Kapha (śleṣman) involving blood, the kapiñjalas —",
+  "text_flags": [],
+  "notes": "saṃjayet is an optative of general statement, rendered as a present. Line b runs into 69a (śasyante).",
+  "confidence": "high"
+ },
+ {
+  "n": "69",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mandavāteṣu",
+      "words": [
+       {
+        "w": "manda-vāteṣu",
+        "gloss": "in those with mild Vāta",
+        "gram": "m. loc. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "śasyante",
+      "words": [
+       {
+        "w": "śasyante",
+        "gloss": "are praised",
+        "gram": "3 pl. pres. pass. √śaṃs"
+       }
+      ]
+     },
+     {
+      "src": "śaityamādhuryalāghavāt",
+      "words": [
+       {
+        "w": "śaitya-mādhurya-lāghavāt",
+        "gloss": "because of coldness, sweetness and lightness",
+        "gram": "n. abl. sg., samāhāra dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "lāvāḥ",
+      "words": [
+       {
+        "w": "lāvāḥ",
+        "gloss": "the lāvas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kaṣāyamadhurā",
+      "words": [
+       {
+        "w": "kaṣāya-madhurāḥ",
+        "gloss": "astringent and sweet",
+        "gram": "m. nom. pl., dvandva (adjectival)"
+       }
+      ]
+     },
+     {
+      "src": "laghavo'gnivivardhanāḥ",
+      "words": [
+       {
+        "w": "laghavaḥ",
+        "gloss": "light",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "agni-vivardhanāḥ",
+        "gloss": "increasing the digestive fire",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "— (और) मन्द वात वालों में शीतलता, मधुरता और लघुता के कारण प्रशस्त हैं। लाव कषाय-मधुर, लघु, अग्नि को बढ़ाने वाले —",
+  "english": "(and) in those with mild Vāta are praised, because of their coldness, sweetness and lightness. The lāvas are astringent and sweet, light, increasing the digestive fire (agni),",
+  "text_flags": [],
+  "notes": "mandavāteṣu may refer to disorders or to persons with mild Vāta. The bracketed 'and' joins the two locatives; it is not printed. Line b runs into 70a.",
+  "confidence": "medium"
+ },
+ {
+  "n": "70",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sannipātapraśamanāḥ",
+      "words": [
+       {
+        "w": "sannipāta-praśamanāḥ",
+        "gloss": "allaying sannipāta",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kaṭukāśca",
+      "words": [
+       {
+        "w": "kaṭukāḥ",
+        "gloss": "pungent",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vipākataḥ",
+      "words": [
+       {
+        "w": "vipākataḥ",
+        "gloss": "in vipāka",
+        "gram": "ind. (-tas)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "godhā",
+      "words": [
+       {
+        "w": "godhā",
+        "gloss": "the godhā",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vipāke",
+      "words": [
+       {
+        "w": "vipāke",
+        "gloss": "in vipāka",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhurā",
+      "words": [
+       {
+        "w": "madhurā",
+        "gloss": "sweet",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaṣāyakaṭukā",
+      "words": [
+       {
+        "w": "kaṣāya-kaṭukā",
+        "gloss": "astringent and pungent",
+        "gram": "f. nom. sg., dvandva (adjectival)"
+       }
+      ]
+     },
+     {
+      "src": "rase",
+      "words": [
+       {
+        "w": "rase",
+        "gloss": "in taste",
+        "gram": "m. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "— सन्निपात को शान्त करने वाले और विपाक में कटु हैं। गोधा विपाक में मधुर, रस में कषाय-कटु —",
+  "english": "allaying sannipāta, and pungent in vipāka (post-digestive effect). The godhā is sweet in vipāka and astringent and pungent in taste,",
+  "text_flags": [],
+  "notes": "Line b runs into 71a. godhā kept as Sanskrit, without identification.",
+  "confidence": "high"
+ },
+ {
+  "n": "71",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vātapittapraśamanī",
+      "words": [
+       {
+        "w": "vāta-pitta-praśamanī",
+        "gloss": "allaying Vāta and Pitta",
+        "gram": "f. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bṛṃhaṇī",
+      "words": [
+       {
+        "w": "bṛṃhaṇī",
+        "gloss": "nourishing",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "balavardhanī",
+      "words": [
+       {
+        "w": "bala-vardhanī",
+        "gloss": "increasing strength",
+        "gram": "f. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śallako",
+      "words": [
+       {
+        "w": "śallakaḥ",
+        "gloss": "the śallaka",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhurāmlaśca",
+      "words": [
+       {
+        "w": "madhura-amlaḥ",
+        "gloss": "sweet and sour",
+        "gram": "m. nom. sg., dvandva (adjectival)"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vipāke",
+      "words": [
+       {
+        "w": "vipāke",
+        "gloss": "in vipāka",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaṭukaḥ",
+      "words": [
+       {
+        "w": "kaṭukaḥ",
+        "gloss": "pungent",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "smṛtaḥ",
+      "words": [
+       {
+        "w": "smṛtaḥ",
+        "gloss": "is held",
+        "gram": "m. nom. sg., ppp. √smṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "— वात-पित्त को शान्त करने वाली, बृंहण और बल बढ़ाने वाली है। शल्लक मधुर-अम्ल और विपाक में कटु माना गया है;",
+  "english": "allaying Vāta and Pitta, nourishing and increasing strength. The śallaka is sweet and sour, and is held to be pungent in vipāka;",
+  "text_flags": [],
+  "notes": "Line a completes the godhā (feminine forms). śallaka kept as Sanskrit, without identification. Line b continues into 72a.",
+  "confidence": "high"
+ },
+ {
+  "n": "72",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vātapittakaphaghnaśca",
+      "words": [
+       {
+        "w": "vāta-pitta-kapha-ghnaḥ",
+        "gloss": "destroying Vāta, Pitta and Kapha",
+        "gram": "m. nom. sg., upapada tat-puruṣa (dvandva first member)"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kāsaśvāsaharastathā",
+      "words": [
+       {
+        "w": "kāsa-śvāsa-haraḥ",
+        "gloss": "removing cough and dyspnoea",
+        "gram": "m. nom. sg., upapada tat-puruṣa"
+       },
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kaṣāyaviśadāḥ",
+      "words": [
+       {
+        "w": "kaṣāya-viśadāḥ",
+        "gloss": "astringent and non-slimy",
+        "gram": "m. nom. pl., dvandva (adjectival)"
+       }
+      ]
+     },
+     {
+      "src": "śītā",
+      "words": [
+       {
+        "w": "śītāḥ",
+        "gloss": "cold",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "raktapittanibarhaṇāḥ",
+      "words": [
+       {
+        "w": "raktapitta-nibarhaṇāḥ",
+        "gloss": "removing raktapitta",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह वात, पित्त और कफ का नाश करने वाला तथा कास और श्वास को हरने वाला है। कषाय, विशद, शीत, रक्तपित्त को दूर करने वाले —",
+  "english": "it destroys Vāta, Pitta and Kapha, and likewise removes cough (kāsa) and dyspnoea (śvāsa). Astringent, non-slimy, cold, removing raktapitta,",
+  "text_flags": [],
+  "notes": "Line b begins the description of house pigeons completed in 73a.",
+  "confidence": "high"
+ },
+ {
+  "n": "73",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vipāke",
+      "words": [
+       {
+        "w": "vipāke",
+        "gloss": "in vipāka",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhurāścaiva",
+      "words": [
+       {
+        "w": "madhurāḥ",
+        "gloss": "sweet",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kapotā",
+      "words": [
+       {
+        "w": "kapotāḥ",
+        "gloss": "pigeons (kapota)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "gṛhavāsinaḥ",
+      "words": [
+       {
+        "w": "gṛha-vāsinaḥ",
+        "gloss": "house-dwelling",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tebhyo",
+      "words": [
+       {
+        "w": "tebhyaḥ",
+        "gloss": "than those",
+        "gram": "m. abl. pl."
+       }
+      ]
+     },
+     {
+      "src": "laghutarāḥ",
+      "words": [
+       {
+        "w": "laghu-tarāḥ",
+        "gloss": "lighter",
+        "gram": "m. nom. pl., comparative"
+       }
+      ]
+     },
+     {
+      "src": "kiṃcit",
+      "words": [
+       {
+        "w": "kiṃcit",
+        "gloss": "somewhat",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kapotā",
+      "words": [
+       {
+        "w": "kapotāḥ",
+        "gloss": "pigeons",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vanavāsinaḥ",
+      "words": [
+       {
+        "w": "vana-vāsinaḥ",
+        "gloss": "forest-dwelling",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "— और विपाक में मधुर घर में रहने वाले कपोत हैं। उनसे कुछ हल्के वन में रहने वाले कपोत हैं;",
+  "english": "and sweet in vipāka are the house-dwelling pigeons (kapota). Somewhat lighter than those are the forest-dwelling pigeons;",
+  "text_flags": [],
+  "notes": "ca eva is rendered by 'and' only. Line b continues into 74a.",
+  "confidence": "high"
+ },
+ {
+  "n": "74",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śītāḥ",
+      "words": [
+       {
+        "w": "śītāḥ",
+        "gloss": "cold",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "saṃgrāhiṇaścaiva",
+      "words": [
+       {
+        "w": "saṃgrāhiṇaḥ",
+        "gloss": "binding",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svalpamūtrakarāśca",
+      "words": [
+       {
+        "w": "su-alpa-mūtra-karāḥ",
+        "gloss": "causing very scanty urine",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "they",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śukamāṃsaṃ",
+      "words": [
+       {
+        "w": "śuka-māṃsam",
+        "gloss": "parrot meat",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kaṣāyāmlaṃ",
+      "words": [
+       {
+        "w": "kaṣāya-amlam",
+        "gloss": "astringent and sour",
+        "gram": "n. nom. sg., dvandva (adjectival)"
+       }
+      ]
+     },
+     {
+      "src": "vipāke",
+      "words": [
+       {
+        "w": "vipāke",
+        "gloss": "in vipāka",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rūkṣaśītalam",
+      "words": [
+       {
+        "w": "rūkṣa-śītalam",
+        "gloss": "dry and cold",
+        "gram": "n. nom. sg., dvandva (adjectival)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे शीत, संग्राही और बहुत कम मूत्र करने वाले हैं। शुक का मांस कषाय-अम्ल, विपाक में रूक्ष और शीतल —",
+  "english": "they are cold, binding, and cause very scanty urine. Parrot (śuka) meat is astringent and sour, and in vipāka dry and cold,",
+  "text_flags": [],
+  "notes": "vipāke is taken with rūkṣaśītalam, following the word order; it may also go with kaṣāyāmlam ('astringent and sour in vipāka'). Line b runs into 75a.",
+  "confidence": "medium"
+ },
+ {
+  "n": "75",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śoṣakāsakṣayahitaṃ",
+      "words": [
+       {
+        "w": "śoṣa-kāsa-kṣaya-hitam",
+        "gloss": "wholesome in śoṣa, cough and kṣaya",
+        "gram": "n. nom. sg., tat-puruṣa (dvandva first member)"
+       }
+      ]
+     },
+     {
+      "src": "saṃgrāhi",
+      "words": [
+       {
+        "w": "saṃgrāhi",
+        "gloss": "binding",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "laghu",
+      "words": [
+       {
+        "w": "laghu",
+        "gloss": "light",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dīpanam",
+      "words": [
+       {
+        "w": "dīpanam",
+        "gloss": "stimulating digestion",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "caṭakā",
+      "words": [
+       {
+        "w": "caṭakāḥ",
+        "gloss": "sparrows (caṭaka)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "madhurāḥ",
+      "words": [
+       {
+        "w": "madhurāḥ",
+        "gloss": "sweet",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "snigdhā",
+      "words": [
+       {
+        "w": "snigdhāḥ",
+        "gloss": "unctuous",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "balaśukravivardhanāḥ",
+      "words": [
+       {
+        "w": "bala-śukra-vivardhanāḥ",
+        "gloss": "increasing strength and semen",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "— शोष, कास और क्षय में हितकर, संग्राही, लघु और दीपन है। चटक मधुर, स्निग्ध, बल और शुक्र को बढ़ाने वाले —",
+  "english": "wholesome in śoṣa (wasting), cough and kṣaya (depletion), binding, light and stimulating digestion. Sparrows (caṭaka) are sweet, unctuous, increasing strength and semen,",
+  "text_flags": [],
+  "notes": "śoṣa and kṣaya are kept as Sanskrit with literal glosses only. Line b runs into 76a.",
+  "confidence": "high"
+ },
+ {
+  "n": "76",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sannipātapraśamanāḥ",
+      "words": [
+       {
+        "w": "sannipāta-praśamanāḥ",
+        "gloss": "allaying sannipāta",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "śamanā",
+      "words": [
+       {
+        "w": "śamanāḥ",
+        "gloss": "pacifying",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mārutasya",
+      "words": [
+       {
+        "w": "mārutasya",
+        "gloss": "of Vāta (māruta)",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kaṣāyo",
+      "words": [
+       {
+        "w": "kaṣāyaḥ",
+        "gloss": "astringent",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśado",
+      "words": [
+       {
+        "w": "viśadaḥ",
+        "gloss": "non-slimy",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rūkṣaḥ",
+      "words": [
+       {
+        "w": "rūkṣaḥ",
+        "gloss": "dry",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śītaḥ",
+      "words": [
+       {
+        "w": "śītaḥ",
+        "gloss": "cold",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāke",
+      "words": [
+       {
+        "w": "pāke",
+        "gloss": "in vipāka (pāka)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaṭurlaghuḥ",
+      "words": [
+       {
+        "w": "kaṭuḥ",
+        "gloss": "pungent",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "laghuḥ",
+        "gloss": "light",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "— सन्निपात को शान्त करने वाले और मारुत का शमन करने वाले हैं। कषाय, विशद, रूक्ष, शीत, पाक में कटु, लघु —",
+  "english": "allaying sannipāta and pacifying Vāta (māruta). Astringent, non-slimy, dry, cold, pungent in vipāka (pāka), light,",
+  "text_flags": [],
+  "notes": "Line b begins the description of the hare completed in 77a.",
+  "confidence": "high"
+ },
+ {
+  "n": "77",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śaśaḥ",
+      "words": [
+       {
+        "w": "śaśaḥ",
+        "gloss": "the hare (śaśa)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "svāduḥ",
+      "words": [
+       {
+        "w": "svāduḥ",
+        "gloss": "sweet",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "praśastaśca",
+      "words": [
+       {
+        "w": "praśastaḥ",
+        "gloss": "praised",
+        "gram": "m. nom. sg., ppp. pra-√śaṃs"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃnipāte'nilāvare",
+      "words": [
+       {
+        "w": "saṃnipāte",
+        "gloss": "in sannipāta",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "anila-avare",
+        "gloss": "with Vāta (anila) lowest",
+        "gram": "m. loc. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "madhurā",
+      "words": [
+       {
+        "w": "madhurāḥ",
+        "gloss": "sweet",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "madhurāḥ",
+      "words": [
+       {
+        "w": "madhurāḥ",
+        "gloss": "sweet",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pāke",
+      "words": [
+       {
+        "w": "pāke",
+        "gloss": "in vipāka (pāka)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tridoṣaśamanāḥ",
+      "words": [
+       {
+        "w": "tri-doṣa-śamanāḥ",
+        "gloss": "pacifying the three doṣas",
+        "gram": "m. nom. pl., tat-puruṣa (dvigu first member)"
+       }
+      ]
+     },
+     {
+      "src": "śivāḥ",
+      "words": [
+       {
+        "w": "śivāḥ",
+        "gloss": "beneficial",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "— शश मधुर है और उस सन्निपात में प्रशस्त है जिसमें अनिल सबसे कम हो। मधुर, पाक में मधुर, त्रिदोष को शान्त करने वाले, कल्याणकारी —",
+  "english": "is the hare (śaśa); it is sweet and is praised in a sannipāta in which Vāta (anila) is lowest. Sweet, sweet in vipāka, pacifying the three doṣas, beneficial,",
+  "text_flags": [],
+  "notes": "śaśa is said to be both kaṣāya (76b) and svādu 'sweet'; both are kept as printed. Line b begins the description of the eṇas completed in 78a.",
+  "confidence": "high"
+ },
+ {
+  "n": "78",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "laghavo",
+      "words": [
+       {
+        "w": "laghavaḥ",
+        "gloss": "light",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "baddhaviṇmūtrāḥ",
+      "words": [
+       {
+        "w": "baddha-viṭ-mūtrāḥ",
+        "gloss": "binding faeces and urine",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "śītāścaiṇāḥ",
+      "words": [
+       {
+        "w": "śītāḥ",
+        "gloss": "cold",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eṇāḥ",
+        "gloss": "the eṇas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "prakīrtitāḥ",
+      "words": [
+       {
+        "w": "prakīrtitāḥ",
+        "gloss": "are declared",
+        "gram": "m. nom. pl., ppp. pra-√kīrt"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "snehanaṃ",
+      "words": [
+       {
+        "w": "snehanam",
+        "gloss": "oleating (snehana)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bṛṃhaṇaṃ",
+      "words": [
+       {
+        "w": "bṛṃhaṇam",
+        "gloss": "nourishing",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛṣyaṃ",
+      "words": [
+       {
+        "w": "vṛṣyam",
+        "gloss": "aphrodisiac",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śramaghnamanilāpaham",
+      "words": [
+       {
+        "w": "śrama-ghnam",
+        "gloss": "destroying fatigue",
+        "gram": "n. nom. sg., upapada tat-puruṣa"
+       },
+       {
+        "w": "anila-apaham",
+        "gloss": "removing Vāta (anila)",
+        "gram": "n. nom. sg., upapada tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "— लघु, मल-मूत्र को बाँधने वाले और शीत एण कहे गए हैं। स्नेहन, बृंहण, वृष्य, श्रम का नाश करने वाला, अनिल को दूर करने वाला —",
+  "english": "light, binding faeces and urine, and cold are declared to be the eṇas. Oleating (snehana), nourishing, aphrodisiac, destroying fatigue (śrama), removing Vāta (anila),",
+  "text_flags": [],
+  "notes": "baddhaviṇmūtra is literally 'having faeces and urine bound', rendered as 'binding faeces and urine'. Line b begins the description of boar meat completed in 79a.",
+  "confidence": "high"
+ },
+ {
+  "n": "79",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "varāhapiśitaṃ",
+      "words": [
+       {
+        "w": "varāha-piśitam",
+        "gloss": "boar meat",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "balyaṃ",
+      "words": [
+       {
+        "w": "balyam",
+        "gloss": "strengthening",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rocanaṃ",
+      "words": [
+       {
+        "w": "rocanam",
+        "gloss": "appetizing",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "svedanaṃ",
+      "words": [
+       {
+        "w": "svedanam",
+        "gloss": "causing sweat",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "guru",
+      "words": [
+       {
+        "w": "guru",
+        "gloss": "heavy",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "gavyaṃ",
+      "words": [
+       {
+        "w": "gavyam",
+        "gloss": "of the cow (meat)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kevalavāteṣu",
+      "words": [
+       {
+        "w": "kevala-vāteṣu",
+        "gloss": "in (disorders) of Vāta alone",
+        "gram": "m. loc. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "pīnase",
+      "words": [
+       {
+        "w": "pīnase",
+        "gloss": "in pīnasa",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "viṣamajvare",
+      "words": [
+       {
+        "w": "viṣama-jvare",
+        "gloss": "in irregular fever",
+        "gram": "m. loc. sg., karmadhāraya"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "— वराह का मांस बलकारक, रुचिकारक, स्वेद लाने वाला और भारी है। गाय का (मांस) केवल वात के (विकारों) में, पीनस में, विषमज्वर में —",
+  "english": "is boar (varāha) meat; it is strengthening, appetizing, causing sweat and heavy. Beef (gavya) in (disorders) of Vāta alone, in pīnasa, in irregular fever (viṣamajvara),",
+  "text_flags": [],
+  "notes": "SENTENCE: line b continues into the next unit (outside this chunk), where the use of beef is completed. kevalavāteṣu 'in those of Vāta alone' (bahuvrīhi, without another doṣa); the noun (disorders or persons) is understood. gavya 'belonging to the cow' with 'meat' understood.",
+  "confidence": "medium"
+ }
+]
