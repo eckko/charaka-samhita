@@ -1,0 +1,392 @@
+[
+ {
+  "n": "82",
+  "field": "english",
+  "old": "Fish are declared unctuous, aphrodisiac and of much doṣa (bahudoṣa). Because of feeding on śaivāla (water-moss) and grass, and because of avoiding sleep,",
+  "new": "Fish are declared unctuous, aphrodisiac and of much doṣa (bahudoṣa). Because of feeding on śaivāla and grass, and because of avoiding sleep,",
+  "why": "reviewer (minor): A plant word's plain meaning is carried in the translation; policy keeps the Sanskrit in the translation and plain meanings in notes."
+ },
+ {
+  "n": "82",
+  "field": "notes",
+  "old": "bahudoṣa may mean 'producing much doṣa' or 'having many defects'; the literal 'of much doṣa' is kept. SENTENCE: line 2 gives the reason for the qualities of the rohita named in the next unit.",
+  "new": "bahudoṣa may mean 'producing much doṣa' or 'having many defects'; the literal 'of much doṣa' is kept. SENTENCE: line 2 gives the reason for the qualities of the rohita named in the next unit. śaivāla = water-weed (plain meaning, notes only).",
+  "why": "reviewer (minor): A plant word's plain meaning is carried in the translation; policy keeps the Sanskrit in the translation and plain meanings in notes."
+ },
+ {
+  "n": "83",
+  "field": "hindi",
+  "old": "रोहित (मछली) अग्नि को दीप्त करने वाली, पाक में लघु, अत्यन्त बलवान्, वर्ण के लिए हितकर, वात को हरने वाली, वृष्य, नेत्रों के लिए हितकर और बल बढ़ाने वाली है।",
+  "new": "रोहित (मछली) अग्नि को दीप्त करने वाला, पाक में लघु, अत्यन्त बलवान्, वर्ण के लिए हितकर, वात को हरने वाला, वृष्य, नेत्रों के लिए हितकर और बल बढ़ाने वाला है।",
+  "why": "reviewer (minor): Gender mixed: रोहित is masculine (Sanskrit rohitaḥ m.), but the Hindi uses feminine participles beside masculine बलवान्."
+ },
+ {
+  "n": "84",
+  "field": "word.gloss",
+  "word": "khaḍga-māṃsam",
+  "old": "rhinoceros meat",
+  "new": "khaḍga meat",
+  "why": "reviewer (error): khaḍga ('sword', the animal named by it) is not one of the clear ordinary animal words; chunk 1 review kept khaṅga Sanskrit and rejected 'rhinoceros'. Keep Sanskrit in gloss, English and Hindi."
+ },
+ {
+  "n": "84",
+  "field": "english",
+  "old": "The tortoise (kūrma) is said to produce intelligence and memory, to be wholesome and to destroy śoṣa (wasting). Rhinoceros (khaḍga) meat is held to be channel-clogging (abhiṣyandin), strength-giving and sweet;",
+  "new": "The tortoise (kūrma) is said to produce intelligence and memory, to be wholesome and to destroy śoṣa (wasting). Khaḍga meat is held to be channel-clogging (abhiṣyandin), strength-giving and sweet;",
+  "why": "reviewer (error): khaḍga ('sword', the animal named by it) is not one of the clear ordinary animal words; chunk 1 review kept khaṅga Sanskrit and rejected 'rhinoceros'. Keep Sanskrit in gloss, English and Hindi."
+ },
+ {
+  "n": "84",
+  "field": "hindi",
+  "old": "कछुआ मेधा और स्मृति उत्पन्न करने वाला, पथ्य और शोष को नष्ट करने वाला कहा जाता है। गैंडे का मांस अभिष्यन्दी, बलकारक और मधुर माना गया है;",
+  "new": "कछुआ मेधा और स्मृति उत्पन्न करने वाला, पथ्य और शोष को नष्ट करने वाला कहा जाता है। खड्ग का मांस अभिष्यन्दी, बलकारक और मधुर माना गया है;",
+  "why": "reviewer (error): khaḍga ('sword', the animal named by it) is not one of the clear ordinary animal words; chunk 1 review kept khaṅga Sanskrit and rejected 'rhinoceros'. Keep Sanskrit in gloss, English and Hindi."
+ },
+ {
+  "n": "84",
+  "field": "notes",
+  "old": "khaḍga and kūrma given their plain meanings (rhinoceros, tortoise). śoṣa kept as Sanskrit, no modern identification. The neuter qualities in the next unit continue khaḍgamāṃsa.",
+  "new": "kūrma given its plain meaning (tortoise); khaḍga kept as the Sanskrit name, no identification (as khaṅga in chunk 1). śoṣa kept as Sanskrit, no modern identification. The neuter qualities in the next unit continue khaḍgamāṃsa.",
+  "why": "reviewer (error): khaḍga ('sword', the animal named by it) is not one of the clear ordinary animal words; chunk 1 review kept khaṅga Sanskrit and rejected 'rhinoceros'. Keep Sanskrit in gloss, English and Hindi."
+ },
+ {
+  "n": "86",
+  "field": "word.gloss",
+  "word": "caṭakānām",
+  "old": "of sparrows",
+  "new": "of the caṭakas",
+  "why": "reviewer (error): Glossary decision (Sū 27): caṭaka is kept as the Sanskrit name, no 'sparrow'."
+ },
+ {
+  "n": "86",
+  "field": "english",
+  "old": "and of the sparrow (caṭaka), the eggs that there may be are wholesome in those whose semen is depleted, in coughs, heart diseases and injuries (kṣata);",
+  "new": "and of the caṭaka, the eggs that there may be are wholesome in those whose semen is depleted, in coughs, heart diseases and injuries (kṣata);",
+  "why": "reviewer (error): Glossary decision (Sū 27): caṭaka is kept as the Sanskrit name, no 'sparrow'."
+ },
+ {
+  "n": "86",
+  "field": "hindi",
+  "old": "और गौरैया के जो अंडे हों, वे उन लोगों में जिनका रेतस् क्षीण हो गया है, खाँसी में, हृद्रोग में और क्षत में हितकर हैं,",
+  "new": "और चटक के जो अंडे हों, वे उन लोगों में जिनका रेतस् क्षीण हो गया है, खाँसी में, हृद्रोग में और क्षत में हितकर हैं,",
+  "why": "reviewer (error): Glossary decision (Sū 27): caṭaka is kept as the Sanskrit name, no 'sparrow'."
+ },
+ {
+  "n": "86",
+  "field": "notes",
+  "old": "caṭaka given its plain meaning 'sparrow'. kṣata may be read as persons with injury (kṣata, m. loc. pl. 'the injured'); the neuter 'injuries' is kept. The second ca links hitāni with the qualities in the next unit.",
+  "new": "caṭaka kept as the Sanskrit name (glossary decision), no 'sparrow'. kṣata may be read as persons with injury (kṣata, m. loc. pl. 'the injured'); the neuter 'injuries' is kept. The second ca links hitāni with the qualities in the next unit.",
+  "why": "reviewer (error): Glossary decision (Sū 27): caṭaka is kept as the Sanskrit name, no 'sparrow'."
+ },
+ {
+  "n": "88",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "pāṭāśuṣāśaṭīśākaṃ",
+    "suggest": "pāṭhāśuṣāśaṭīśākaṃ",
+    "why": "possible: there is no plant stem pāṭā; pāṭhā is the known plant name, and the ṭ/ṭh slip does not change the metre"
+   }
+  ],
+  "new": [],
+  "why": "reviewer (error): The only evidence is lexical ('no plant stem pāṭā'); the flag itself says the metre is unchanged, and no other line of the chunk, nor grammar, shows pāṭhā (glossary: a text_flag 'why' cites only lines inside the chunk, grammar or metre; drug names keep the printed spelling unless the chunk shows the correction; cf. kummīra, chunk 2). Move it to notes and keep the printed pāṭā in words, Hindi and English."
+ },
+ {
+  "n": "88",
+  "field": "word.gloss",
+  "word": "pāṭhā-śuṣā-śaṭī-śākam",
+  "old": "the pot-herb of pāṭhā, śuṣā and śaṭī",
+  "new": "the pot-herb of pāṭā, śuṣā and śaṭī",
+  "why": "reviewer (error): The only evidence is lexical ('no plant stem pāṭā'); the flag itself says the metre is unchanged, and no other line of the chunk, nor grammar, shows pāṭhā (glossary: a text_flag 'why' cites only lines inside the chunk, grammar or metre; drug names keep the printed spelling unless the chunk shows the correction; cf. kummīra, chunk 2). Move it to notes and keep the printed pāṭā in words, Hindi and English."
+ },
+ {
+  "n": "88",
+  "field": "word.w",
+  "word": "pāṭhā-śuṣā-śaṭī-śākam",
+  "old": "pāṭhā-śuṣā-śaṭī-śākam",
+  "new": "pāṭā-śuṣā-śaṭī-śākam",
+  "why": "reviewer (error): The only evidence is lexical ('no plant stem pāṭā'); the flag itself says the metre is unchanged, and no other line of the chunk, nor grammar, shows pāṭhā (glossary: a text_flag 'why' cites only lines inside the chunk, grammar or metre; drug names keep the printed spelling unless the chunk shows the correction; cf. kummīra, chunk 2). Move it to notes and keep the printed pāṭā in words, Hindi and English."
+ },
+ {
+  "n": "88",
+  "field": "hindi",
+  "old": "इस प्रकार मांसों का यह तीसरा वर्ग कहा गया। अब शाकवर्ग: पाठा, शुषा और शटी का शाक, वास्तुक, सुनिषण्णक —",
+  "new": "इस प्रकार मांसों का यह तीसरा वर्ग कहा गया। अब शाकवर्ग: पाटा, शुषा और शटी का शाक, वास्तुक, सुनिषण्णक —",
+  "why": "reviewer (error): The only evidence is lexical ('no plant stem pāṭā'); the flag itself says the metre is unchanged, and no other line of the chunk, nor grammar, shows pāṭhā (glossary: a text_flag 'why' cites only lines inside the chunk, grammar or metre; drug names keep the printed spelling unless the chunk shows the correction; cf. kummīra, chunk 2). Move it to notes and keep the printed pāṭā in words, Hindi and English."
+ },
+ {
+  "n": "88",
+  "field": "english",
+  "old": "Thus this third group, that of meats, has been declared. Now the group of pot-herbs (śākavarga): the pot-herb of pāṭhā, śuṣā and śaṭī, vāstuka and suniṣaṇṇaka —",
+  "new": "Thus this third group, that of meats, has been declared. Now the group of pot-herbs (śākavarga): the pot-herb of pāṭā, śuṣā and śaṭī, vāstuka and suniṣaṇṇaka —",
+  "why": "reviewer (error): The only evidence is lexical ('no plant stem pāṭā'); the flag itself says the metre is unchanged, and no other line of the chunk, nor grammar, shows pāṭhā (glossary: a text_flag 'why' cites only lines inside the chunk, grammar or metre; drug names keep the printed spelling unless the chunk shows the correction; cf. kummīra, chunk 2). Move it to notes and keep the printed pāṭā in words, Hindi and English."
+ },
+ {
+  "n": "88",
+  "field": "notes",
+  "old": "'atha śākavargaḥ---' is a prose heading typed at the head of verse line 2 (the dashes are left out of the split); the verse line after it has 16 syllables. Line 1 closes the meat group. Plant names kept as Sanskrit, no identifications. SENTENCE: the list continues into the next unit.",
+  "new": "'atha śākavargaḥ---' is a prose heading typed at the head of verse line 2 (the dashes are left out of the split); the verse line after it has 16 syllables. Line 1 closes the meat group. Plant names kept as Sanskrit, no identifications. SENTENCE: the list continues into the next unit. pāṭā is kept as printed; pāṭhā is possible (same syllable weights), but nothing in the chunk shows it, so no text_flag.",
+  "why": "reviewer (error): The only evidence is lexical ('no plant stem pāṭā'); the flag itself says the metre is unchanged, and no other line of the chunk, nor grammar, shows pāṭhā (glossary: a text_flag 'why' cites only lines inside the chunk, grammar or metre; drug names keep the printed spelling unless the chunk shows the correction; cf. kummīra, chunk 2). Move it to notes and keep the printed pāṭā in words, Hindi and English."
+ },
+ {
+  "n": "92",
+  "field": "word.gloss",
+  "word": "kālāyam",
+  "old": "kālāya",
+  "new": "kālāya (or: of kalāya)",
+  "why": "reviewer (minor): The note treats the two as separate items because both occur; but kālāya can be the vṛddhi derivative 'of kalāya' (kālāyaṃ śākam 'the pot-herb of kalāya'), exactly like naimbaṃ śākaṃ (97), kausumbha (110) and pauṣkara (119) in this chunk. So the long ā need not be a slip and need not be a different plant; the chunk does not settle it. Keep print, no flag (correctly none), but say this."
+ },
+ {
+  "n": "92",
+  "field": "notes",
+  "old": "kālāya is printed with long ā; kalāya (short a) is listed separately among the bitter pot-herbs later in this chunk, so the two are kept apart and nothing is changed. SENTENCE: the feminine qualities of line 2 belong to amlacāṅgerī in the next unit.",
+  "new": "kālāya is printed with long ā, kalāya (short a) in 97. kālāya may be the vṛddhi derivative 'of kalāya' (kālāyaṃ śākam, like naimbaṃ śākaṃ in 97, kausumbha in 110, pauṣkara in 119), so the long ā need not be a slip; the chunk does not settle whether one plant is meant. Printed spellings kept, no flag. SENTENCE: the feminine qualities of line 2 belong to amlacāṅgerī in the next unit.",
+  "why": "reviewer (minor): The note treats the two as separate items because both occur; but kālāya can be the vṛddhi derivative 'of kalāya' (kālāyaṃ śākam 'the pot-herb of kalāya'), exactly like naimbaṃ śākaṃ (97), kausumbha (110) and pauṣkara (119) in this chunk. So the long ā need not be a slip and need not be a different plant; the chunk does not settle it. Keep print, no flag (correctly none), but say this."
+ },
+ {
+  "n": "95",
+  "field": "word.gloss",
+  "word": "vetra-agram",
+  "old": "tip of the cane (vetra)",
+  "new": "tip of vetra",
+  "why": "reviewer (minor): A plain common name for a drug plant is carried in the translation and gloss; policy keeps the Sanskrit there and the plain name in notes."
+ },
+ {
+  "n": "95",
+  "field": "english",
+  "old": "sweet, sweet in vipāka and cool is the taṇḍulīyaka. Maṇḍūkaparṇī, the tip of the cane (vetra), kucelā, vanatiktaka,",
+  "new": "sweet, sweet in vipāka and cool is the taṇḍulīyaka. Maṇḍūkaparṇī, the tip of vetra (vetrāgra), kucelā, vanatiktaka,",
+  "why": "reviewer (minor): A plain common name for a drug plant is carried in the translation and gloss; policy keeps the Sanskrit there and the plain name in notes."
+ },
+ {
+  "n": "95",
+  "field": "hindi",
+  "old": "मधुर, पाक में मधुर और शीतल तण्डुलीयक है। मण्डूकपर्णी, बेंत का अग्रभाग, कुचेला, वनतिक्तक,",
+  "new": "मधुर, पाक में मधुर और शीतल तण्डुलीयक है। मण्डूकपर्णी, वेत्र का अग्रभाग, कुचेला, वनतिक्तक,",
+  "why": "reviewer (minor): A plain common name for a drug plant is carried in the translation and gloss; policy keeps the Sanskrit there and the plain name in notes."
+ },
+ {
+  "n": "95",
+  "field": "notes",
+  "old": "taṇḍulīyaka is a derived name (-īya-ka) and is not split. SENTENCE: line 2 opens a list of pot-herbs whose qualities are given in the first line of unit 98. Plant names kept as Sanskrit, no identifications.",
+  "new": "taṇḍulīyaka is a derived name (-īya-ka) and is not split. SENTENCE: line 2 opens a list of pot-herbs whose qualities are given in the first line of unit 98. Plant names kept as Sanskrit, no identifications. vetra = cane (plain common name, notes only).",
+  "why": "reviewer (minor): A plain common name for a drug plant is carried in the translation and gloss; policy keeps the Sanskrit there and the plain name in notes."
+ },
+ {
+  "n": "97",
+  "field": "hindi",
+  "old": "नाडी, कलाय, गोजिह्वा, वार्ताक, तिलपर्णिका, और जो कौलक, कार्कश, नीम का और पार्पटक शाक है —",
+  "new": "नाडी, कलाय, गोजिह्वा, वार्ताक, तिलपर्णिका, और जो कौलक, कार्कश, निम्ब का और पार्पटक शाक है —",
+  "why": "reviewer (minor): Hindi gives the common name (नीम) for naimba; policy keeps the Sanskrit in the translation."
+ },
+ {
+  "n": "99",
+  "field": "english",
+  "old": "and all the ālukas with their leaves, kuṭiñjara, the flowers of śaṇa (hemp) and śālmali, karbudāra, suvarcalā,",
+  "new": "and all the ālukas with their leaves, kuṭiñjara, the flowers of śaṇa and śālmali, karbudāra, suvarcalā,",
+  "why": "reviewer (minor): Plain common name in the translation; keep it in notes only."
+ },
+ {
+  "n": "99",
+  "field": "notes",
+  "old": "āluka kept as Sanskrit, no identification. śaṇa given its plain meaning 'hemp'.",
+  "new": "āluka kept as Sanskrit, no identification. śaṇa = hemp (plain common name, notes only).",
+  "why": "reviewer (minor): Plain common name in the translation; keep it in notes only."
+ },
+ {
+  "n": "101",
+  "field": "english",
+  "old": "kalamba, nālikā and sūrī, kusumbha and vṛkadhūmaka, lakṣmaṇā and prapunnāḍa, nalinīkā, kuṭheraka,",
+  "new": "kalamba, nālikā and sūrī (or āsūrī), kusumbha and vṛkadhūmaka, lakṣmaṇā and prapunnāḍa, nalinīkā, kuṭheraka,",
+  "why": "reviewer (minor): The note rightly says the last member may be sūrī or āsūrī (same print), but the English states sūrī firmly."
+ },
+ {
+  "n": "102",
+  "field": "notes",
+  "old": "kuṣmāṇḍaka is printed with short u; kūṣmāṇḍa with long ū appears later in this chunk; both spellings are known and the metre is not affected, so nothing is changed. avalguja here and avalgujaka in unit 96 appear in two different lists; kept as printed. The predicate of this list follows in the next unit.",
+  "new": "kuṣmāṇḍaka is printed with short u; kūṣmāṇḍa with long ū appears later in this chunk; the metre is not affected, so nothing is changed. avalguja here and avalgujaka in unit 96 appear in two different lists; kept as printed. The predicate of this list follows in the next unit.",
+  "why": "reviewer (minor): Memory-sourced lexical claim; the chunk evidence (kūṣmāṇḍa in 113, metre unaffected) is enough."
+ },
+ {
+  "n": "106",
+  "field": "notes",
+  "old": "hanyāt is an optative of general statement, rendered 'destroys'; the singular verb is understood again with the dual gaṇḍīracitrakau. SENTENCE: the list of Kapha-destroyers continues in the next unit. vatsādanī (lit. calf-food) kept as one name.",
+  "new": "hanyāt is an optative of general statement, rendered 'destroys'; the verb is understood again, in the dual, with gaṇḍīracitrakau. SENTENCE: the list of Kapha-destroyers continues in the next unit. vatsādanī (lit. calf-food) kept as one name.",
+  "why": "reviewer (minor): With the dual subject gaṇḍīracitrakau the understood verb is dual (hanyātām), not the singular hanyāt."
+ },
+ {
+  "n": "108",
+  "field": "english",
+  "old": "and (the pot-herb) of parvaṇī and parvapuṣpī is held to remove Vāta and Pitta. (The pot-herb) of lāṅgalakī and urubūka is light, loosens the faeces (bhinnaśakṛt), is bitter,",
+  "new": "and (the pot-herb) of parvaṇī and of parvapuṣpī are held to remove Vāta and Pitta. (The pot-herb) of lāṅgalakī and urubūka is light, loosens the faeces (bhinnaśakṛt), is bitter,",
+  "why": "reviewer (error): vātapittaharaṃ smṛtam (n. sg., collective) is the predicate of the whole list begun in 107 line 2 (bhaṇḍī, śatāvarīśāka, balā, jīvantika ... yat, parvaṇī, parvapuṣpī; the draft's own 107 note says so), but the English and Hindi make it apply to parvaṇī and parvapuṣpī alone. Line 2 should close its predicate rather than run on."
+ },
+ {
+  "n": "108",
+  "field": "english",
+  "old": "and (the pot-herb) of parvaṇī and of parvapuṣpī are held to remove Vāta and Pitta. (The pot-herb) of lāṅgalakī and urubūka is light, loosens the faeces (bhinnaśakṛt), is bitter,",
+  "new": "and (the pot-herb) of parvaṇī and of parvapuṣpī are held to remove Vāta and Pitta. (The pot-herb) of lāṅgalakī and urubūka is light, loosens the faeces (bhinnaśakṛt) and is bitter;",
+  "why": "reviewer (error): vātapittaharaṃ smṛtam (n. sg., collective) is the predicate of the whole list begun in 107 line 2 (bhaṇḍī, śatāvarīśāka, balā, jīvantika ... yat, parvaṇī, parvapuṣpī; the draft's own 107 note says so), but the English and Hindi make it apply to parvaṇī and parvapuṣpī alone. Line 2 should close its predicate rather than run on."
+ },
+ {
+  "n": "108",
+  "field": "hindi",
+  "old": "और पर्वणी और पर्वपुष्पी का (शाक) वात और पित्त को हरने वाला माना गया है। लाङ्गलकी और उरुबूक का (शाक) लघु, मल को भेदने वाला, तिक्त,",
+  "new": "और पर्वणी और पर्वपुष्पी का (शाक) — (ये) वात और पित्त को हरने वाले माने गए हैं। लाङ्गलकी और उरुबूक का (शाक) लघु, मल को भेदने वाला और तिक्त है;",
+  "why": "reviewer (error): vātapittaharaṃ smṛtam (n. sg., collective) is the predicate of the whole list begun in 107 line 2 (bhaṇḍī, śatāvarīśāka, balā, jīvantika ... yat, parvaṇī, parvapuṣpī; the draft's own 107 note says so), but the English and Hindi make it apply to parvaṇī and parvapuṣpī alone. Line 2 should close its predicate rather than run on."
+ },
+ {
+  "n": "108",
+  "field": "notes",
+  "old": "The genitives parvaṇyāḥ, parvapuṣpyāḥ and lāṅgalakyurubūkayoḥ depend on an understood śākam. The qualities of line 2 run on into the next unit, which names two more pot-herbs.",
+  "new": "The genitives parvaṇyāḥ, parvapuṣpyāḥ and lāṅgalakyurubūkayoḥ depend on an understood śākam. vātapittaharaṃ smṛtam (neuter singular, collective) is the predicate of the whole list from unit 107 line 2 (bhaṇḍī ... parvapuṣpī). Line 2 gives the qualities of the pot-herb of lāṅgalakī and urubūka; the next unit adds two more pot-herbs with ca ... ca, and whether these qualities extend to them is not stated.",
+  "why": "reviewer (error): vātapittaharaṃ smṛtam (n. sg., collective) is the predicate of the whole list begun in 107 line 2 (bhaṇḍī, śatāvarīśāka, balā, jīvantika ... yat, parvaṇī, parvapuṣpī; the draft's own 107 note says so), but the English and Hindi make it apply to parvaṇī and parvapuṣpī alone. Line 2 should close its predicate rather than run on."
+ },
+ {
+  "n": "109",
+  "field": "english",
+  "old": "and the tilavetasa pot-herb and the pot-herb of pañcāṅgula; (they are) Vāta-increasing, pungent, bitter and sour, and set the downward passage in motion.",
+  "new": "and the tilavetasa pot-herb and the pot-herb of pañcāṅgula are Vāta-increasing, pungent, bitter and sour, and set the downward passage in motion.",
+  "why": "reviewer (minor): After 108 closes its own predicate, line 2 here is simply the predicate of the two pot-herbs named in line 1; the semicolon and '(they are)' break the sentence. The note's 'read as one group' is unclear."
+ },
+ {
+  "n": "109",
+  "field": "notes",
+  "old": "tilavetasa is kept as one name (lit. sesame-cane); pañcāṅgula (lit. five-fingered) kept as a name. Whether the qualities of the preceding unit's line 2 apply to these two as well is not stated; they are read as one group.",
+  "new": "tilavetasa is kept as one name (lit. sesame-cane); pañcāṅgula (lit. five-fingered) kept as a name. Whether the qualities of the preceding unit's line 2 apply to these two as well is not stated; line 2 is read as the predicate of these two.",
+  "why": "reviewer (minor): After 108 closes its own predicate, line 2 here is simply the predicate of the two pot-herbs named in line 1; the semicolon and '(they are)' break the sentence. The note's 'read as one group' is unclear."
+ },
+ {
+  "n": "112",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "tadvadvarcobhedahite",
+    "suggest": "tadvadvarcobhede'hite",
+    "why": "possible: tu sets up a contrast with tadvat, which already makes the pair stool-loosening like the alābus of line 1; read varcobhede + ahite 'unwholesome in loose stool'. This edition marks the elided a with an avagraha elsewhere in the chunk (tṛtīyo'yaṃ, praśasyate'mla-), so its absence here is a possible omission. The metre is the same either way"
+   }
+  ],
+  "new": [],
+  "why": "reviewer (error): The emendation is not an avagraha restoration: varcobhede + ahite gives varcobhede'hite, but the print has -bheda-hite (vowel a, not e), so it changes a printed vowel; metre is the same, and the edition prints avagraha elsewhere in the chunk, which argues against an omission here. As printed the word is a normal tat-puruṣa varcobheda-hite 'wholesome in loose stool' (n. nom. du.), the same pattern as grahaṇyarśohitā 'wholesome in grahaṇī and arśas' (93), and with tu it gives a real contrast with the stool-loosening alābus of line 1. Keep the printed reading in words and translations; flag dropped; the other division only in notes."
+ },
+ {
+  "n": "112",
+  "field": "lines.1.tokens.1.words",
+  "old": [
+   {
+    "w": "tadvat",
+    "gloss": "likewise",
+    "gram": "ind."
+   },
+   {
+    "w": "varcaḥ-bhede",
+    "gloss": "in loose stool",
+    "gram": "m. loc. sg., tat-puruṣa"
+   },
+   {
+    "w": "ahite",
+    "gloss": "unwholesome",
+    "gram": "n. nom. du."
+   }
+  ],
+  "new": [
+   {
+    "w": "tadvat",
+    "gloss": "likewise",
+    "gram": "ind."
+   },
+   {
+    "w": "varcaḥ-bheda-hite",
+    "gloss": "wholesome in loose stool",
+    "gram": "n. nom. du., tat-puruṣa"
+   }
+  ],
+  "why": "reviewer (error): The emendation is not an avagraha restoration: varcobhede + ahite gives varcobhede'hite, but the print has -bheda-hite (vowel a, not e), so it changes a printed vowel; metre is the same, and the edition prints avagraha elsewhere in the chunk, which argues against an omission here. As printed the word is a normal tat-puruṣa varcobheda-hite 'wholesome in loose stool' (n. nom. du.), the same pattern as grahaṇyarśohitā 'wholesome in grahaṇī and arśas' (93), and with tu it gives a real contrast with the stool-loosening alābus of line 1. Keep the printed reading in words and translations; flag dropped; the other division only in notes."
+ },
+ {
+  "n": "112",
+  "field": "english",
+  "old": "Alābus loosen the faeces and are dry, cold and heavy. Cirbhaṭa and ervāruka are likewise, but they are unwholesome in loose stool (varcobheda).",
+  "new": "Alābus loosen the faeces and are dry, cold and heavy. Cirbhaṭa and ervāruka are likewise, but they are wholesome in loose stool (varcobheda).",
+  "why": "reviewer (error): The emendation is not an avagraha restoration: varcobhede + ahite gives varcobhede'hite, but the print has -bheda-hite (vowel a, not e), so it changes a printed vowel; metre is the same, and the edition prints avagraha elsewhere in the chunk, which argues against an omission here. As printed the word is a normal tat-puruṣa varcobheda-hite 'wholesome in loose stool' (n. nom. du.), the same pattern as grahaṇyarśohitā 'wholesome in grahaṇī and arśas' (93), and with tu it gives a real contrast with the stool-loosening alābus of line 1. Keep the printed reading in words and translations; flag dropped; the other division only in notes."
+ },
+ {
+  "n": "112",
+  "field": "hindi",
+  "old": "अलाबू मल का भेदन करने वाले, रूक्ष, शीत और गुरु हैं। चिर्भट और एर्वारुक उसी प्रकार के हैं, परन्तु वे मल के भेद में अहितकर हैं।",
+  "new": "अलाबू मल का भेदन करने वाले, रूक्ष, शीत और गुरु हैं। चिर्भट और एर्वारुक उसी प्रकार के हैं, परन्तु वे मल-भेद में हितकर हैं।",
+  "why": "reviewer (error): The emendation is not an avagraha restoration: varcobhede + ahite gives varcobhede'hite, but the print has -bheda-hite (vowel a, not e), so it changes a printed vowel; metre is the same, and the edition prints avagraha elsewhere in the chunk, which argues against an omission here. As printed the word is a normal tat-puruṣa varcobheda-hite 'wholesome in loose stool' (n. nom. du.), the same pattern as grahaṇyarśohitā 'wholesome in grahaṇī and arśas' (93), and with tu it gives a real contrast with the stool-loosening alābus of line 1. Keep the printed reading in words and translations; flag dropped; the other division only in notes."
+ },
+ {
+  "n": "112",
+  "field": "notes",
+  "old": "Taken as printed, varcobheda-hite (n. nom. du.) would mean 'wholesome for loosening the stool', which adds nothing after tadvat; the avagraha reading is followed in the translation. Plain common name (standard): alābu = bottle gourd.",
+  "new": "varcobhedahite is read as printed: varcobheda-hite 'wholesome in loose stool' (n. nom. du.), like grahaṇyarśohitā (93); tu contrasts it with the stool-loosening alābus of line 1, so tadvat is taken with their other qualities (dry, cold, heavy). 'Wholesome for loosening the stool' is the other sense of the same compound. A division varcobhede 'hite 'unwholesome in loose stool' would need the vowel e, which is not printed, so it is not adopted and not flagged. Plain common name (standard): alābu = bottle gourd.",
+  "why": "reviewer (error): The emendation is not an avagraha restoration: varcobhede + ahite gives varcobhede'hite, but the print has -bheda-hite (vowel a, not e), so it changes a printed vowel; metre is the same, and the edition prints avagraha elsewhere in the chunk, which argues against an omission here. As printed the word is a normal tat-puruṣa varcobheda-hite 'wholesome in loose stool' (n. nom. du.), the same pattern as grahaṇyarśohitā 'wholesome in grahaṇī and arśas' (93), and with tu it gives a real contrast with the stool-loosening alābus of line 1. Keep the printed reading in words and translations; flag dropped; the other division only in notes."
+ },
+ {
+  "n": "115",
+  "field": "word.gloss",
+  "word": "tāla-pralambam",
+  "old": "the hanging shoot of the tāla",
+  "new": "the pralamba (hanging part) of the tāla",
+  "why": "reviewer (minor): tathā ... syāt makes one statement: 'likewise the tālapralamba would remove the pain of chest-injury'. The draft turns tathā into a claim that the tālapralamba shares the utpalas' qualities and splits the line; 'shoot' is an interpretation of pralamba (the note says the part is not stated). 'palmyra palm' is more than needed in notes."
+ },
+ {
+  "n": "115",
+  "field": "english",
+  "old": "Utpalas are astringent and remove raktapitta. So too is the tāla-pralamba (the hanging shoot of the tāla); it removes the pain of chest-injury (uraḥkṣata).",
+  "new": "Utpalas are astringent and remove raktapitta. Likewise, the pralamba ('hanging part') of the tāla removes the pain of chest-injury (uraḥkṣata).",
+  "why": "reviewer (minor): tathā ... syāt makes one statement: 'likewise the tālapralamba would remove the pain of chest-injury'. The draft turns tathā into a claim that the tālapralamba shares the utpalas' qualities and splits the line; 'shoot' is an interpretation of pralamba (the note says the part is not stated). 'palmyra palm' is more than needed in notes."
+ },
+ {
+  "n": "115",
+  "field": "hindi",
+  "old": "उत्पल कषाय और रक्तपित्त को हरने वाले हैं। उसी प्रकार ताल का प्रलम्ब है, और वह उरःक्षत की पीड़ा को दूर करता है।",
+  "new": "उत्पल कषाय और रक्तपित्त को हरने वाले हैं। उसी प्रकार ताल का प्रलम्ब उरःक्षत की पीड़ा को दूर करने वाला होता है।",
+  "why": "reviewer (minor): tathā ... syāt makes one statement: 'likewise the tālapralamba would remove the pain of chest-injury'. The draft turns tathā into a claim that the tālapralamba shares the utpalas' qualities and splits the line; 'shoot' is an interpretation of pralamba (the note says the part is not stated). 'palmyra palm' is more than needed in notes."
+ },
+ {
+  "n": "115",
+  "field": "notes",
+  "old": "pralamba literally 'hanging down'; what part of the tāla is meant is not stated. Plain common names (standard): utpala = water-lily, tāla = palmyra palm.",
+  "new": "pralamba literally 'hanging down'; what part of the tāla is meant is not stated. Plain common names (standard): utpala = water-lily, tāla = palm.",
+  "why": "reviewer (minor): tathā ... syāt makes one statement: 'likewise the tālapralamba would remove the pain of chest-injury'. The draft turns tathā into a claim that the tālapralamba shares the utpalas' qualities and splits the line; 'shoot' is an interpretation of pralamba (the note says the part is not stated). 'palmyra palm' is more than needed in notes."
+ },
+ {
+  "n": "115",
+  "field": "notes",
+  "old": "pralamba literally 'hanging down'; what part of the tāla is meant is not stated. Plain common names (standard): utpala = water-lily, tāla = palm.",
+  "new": "pralamba literally 'hanging down'; what part of the tāla is meant is not stated. Plain common names (standard): utpala = water-lily, tāla = palm. tathā may also mean that the tālapralamba shares the utpalas' qualities; 'likewise' keeps both readings.",
+  "why": "reviewer (minor): tathā ... syāt makes one statement: 'likewise the tālapralamba would remove the pain of chest-injury'. The draft turns tathā into a claim that the tālapralamba shares the utpalas' qualities and splits the line; 'shoot' is an interpretation of pralamba (the note says the part is not stated). 'palmyra palm' is more than needed in notes."
+ },
+ {
+  "n": "116",
+  "field": "english",
+  "old": "Kharjūra and the produce (śasya) of the tāla remove raktapitta and kṣaya (wasting). Tarūṭa, bisa (lotus-stalk), śālūka (lotus-root), krauñcādana, kaśeruka,",
+  "new": "Kharjūra and the produce (śasya) of the tāla remove raktapitta and kṣaya (wasting). Tarūṭa, bisa, śālūka, krauñcādana, kaśeruka,",
+  "why": "reviewer (minor): Plain meanings of plant parts carried in the translation and gloss; keep Sanskrit there and the meanings in notes. 'both spellings are recorded' is a memory-sourced lexical claim."
+ },
+ {
+  "n": "116",
+  "field": "word.gloss",
+  "word": "tarūṭa-bisa-śālūka-krauñcādana-kaśerukam",
+  "old": "tarūṭa, lotus-stalk, lotus-root, krauñcādana and kaśeruka",
+  "new": "tarūṭa, bisa, śālūka, krauñcādana and kaśeruka",
+  "why": "reviewer (minor): Plain meanings of plant parts carried in the translation and gloss; keep Sanskrit there and the meanings in notes. 'both spellings are recorded' is a memory-sourced lexical claim."
+ },
+ {
+  "n": "116",
+  "field": "notes",
+  "old": "śasya is the spelling printed for sasya 'crop, produce' (both spellings are recorded); kept, no flag. Plain common name (standard): kharjūra = date. kṣaya kept as Sanskrit. bisa and śālūka given their plain meanings. SENTENCE: the samāhāra dvandva of line 2 continues into the next unit, whose first line gives the qualities.",
+  "new": "śasya is the spelling printed for sasya 'crop, produce' (both spellings are recorded); kept, no flag. Plain common name (standard): kharjūra = date. kṣaya kept as Sanskrit. Plain meanings (notes only): bisa = lotus-stalk, śālūka = lotus-root. SENTENCE: the samāhāra dvandva of line 2 continues into the next unit, whose first line gives the qualities.",
+  "why": "reviewer (minor): Plain meanings of plant parts carried in the translation and gloss; keep Sanskrit there and the meanings in notes. 'both spellings are recorded' is a memory-sourced lexical claim."
+ },
+ {
+  "n": "116",
+  "field": "notes",
+  "old": "śasya is the spelling printed for sasya 'crop, produce' (both spellings are recorded); kept, no flag. Plain common name (standard): kharjūra = date. kṣaya kept as Sanskrit. Plain meanings (notes only): bisa = lotus-stalk, śālūka = lotus-root. SENTENCE: the samāhāra dvandva of line 2 continues into the next unit, whose first line gives the qualities.",
+  "new": "śasya is the spelling printed for sasya 'crop, produce'; printed spelling kept, no flag. Plain common name (standard): kharjūra = date. kṣaya kept as Sanskrit. Plain meanings (notes only): bisa = lotus-stalk, śālūka = lotus-root. SENTENCE: the samāhāra dvandva of line 2 continues into the next unit, whose first line gives the qualities.",
+  "why": "reviewer (minor): Plain meanings of plant parts carried in the translation and gloss; keep Sanskrit there and the meanings in notes. 'both spellings are recorded' is a memory-sourced lexical claim."
+ }
+]
