@@ -1,0 +1,169 @@
+[
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "jñeyam",
+  "old": "n. nom. sg. ger. √jñā",
+  "new": "n. nom. sg. gerundive (kṛtya) √jñā",
+  "why": "reviewer (error): Glossary rule: gerundives are labelled 'gerundive (kṛtya)', never 'ger.'"
+ },
+ {
+  "n": "5",
+  "field": "word.gram",
+  "word": "caturṇām",
+  "old": "gen. pl.",
+  "new": "m. gen. pl. (numeral)",
+  "why": "reviewer (minor): gender missing; agrees with bhiṣagādīnām (m.)"
+ },
+ {
+  "n": "6",
+  "field": "word.gram",
+  "word": "jñeyam",
+  "old": "n. nom. sg. ger. √jñā",
+  "new": "n. nom. sg. gerundive (kṛtya) √jñā",
+  "why": "reviewer (error): Glossary rule: gerundives are labelled 'gerundive (kṛtya)', never 'ger.'"
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "श्रुत (शास्त्र-ज्ञान) में निर्मलता, अनेक बार कर्म को देखा होना, दक्षता और शौच — यह वैद्य में गुणचतुष्टय जानना चाहिए।",
+  "new": "श्रुत में निर्मलता, अनेक बार कर्म को देखा होना, दक्षता और शौच — यह वैद्य में गुणचतुष्टय जानना चाहिए।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: no bracketed glosses in Hindi); the Sanskrit term stands alone"
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "बहुलता, वहाँ (रोग में) योग्यता, अनेक प्रकार की कल्पना और सम्पत् — यह चार प्रकार का गुण द्रव्यों का कहा जाता है।",
+  "new": "बहुलता, वहाँ योग्यता, अनेक प्रकार की कल्पना और सम्पत् — यह चार प्रकार का गुण द्रव्यों का कहा जाता है।",
+  "why": "reviewer (minor): Bracketed interpretive addition; the notes themselves say the line does not name the disease or case"
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "Abundance, suitability there (to the case), manifold modes of preparation (kalpanā), and excellence (sampad): this fourfold quality is said to belong to the substances (drugs).",
+  "new": "Abundance, suitability there, manifold modes of preparation (kalpanā), and excellence (sampad): this fourfold quality is said to belong to the substances (drugs).",
+  "why": "reviewer (minor): Interpretive addition in the translation; the note already explains the likely sense"
+ },
+ {
+  "n": "7",
+  "field": "notes",
+  "old": "tatra ('there') is a member of the compound tatra-yogyatvam (a compound with an indeclinable first member); it most naturally means suitability to the disease or case in hand, which the line does not name. sampad: richness, excellence, i.e. the drug's full potency.",
+  "new": "tatra ('there') is a member of the compound tatra-yogyatvam (a compound with an indeclinable first member); it most naturally means suitability to the disease or case in hand, which the line does not name. sampad: richness, excellence.",
+  "why": "reviewer (minor): Interpretation not supported by the line (reads like commentary from memory); mark for removal"
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "उपचार का ज्ञान, दक्षता, भर्ता (स्वामी) के प्रति अनुराग और शौच — यह चार प्रकार का गुण परिचारक जन में होता है।",
+  "new": "उपचार का ज्ञान, दक्षता, भर्ता के प्रति अनुराग और शौच — यह चार प्रकार का गुण परिचारक जन में होता है।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: no bracketed glosses in Hindi); the Sanskrit term stands alone"
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "स्मृति, निर्देश के अनुसार करना, निर्भयता, और रोगों को बता सकना — ये आतुर (रोगी) के गुण माने गए हैं।",
+  "new": "स्मृति, निर्देश के अनुसार करना, निर्भयता, और रोगों को बता सकना — ये आतुर के गुण माने गए हैं।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: no bracketed glosses in Hindi); the Sanskrit term stands alone"
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "सोलह गुणों वाला पादचतुष्टय सिद्धि में कारण है; परन्तु यहाँ विज्ञाता, शासिता और योक्ता होने से भिषक् प्रधान है।",
+  "new": "सोलह गुणों वाला पादचतुष्टय सिद्धि में कारण है; परन्तु यहाँ विज्ञाता, शासिता और योक्ता के रूप में भिषक् प्रधान है।",
+  "why": "reviewer (minor): 'होने से' means 'because of being', adding a causal sense the Sanskrit (plain apposition) and the English 'as' do not have"
+ },
+ {
+  "n": "10",
+  "field": "notes",
+  "old": "'as' in the translation renders the apposition of the three agent nouns (vijñātā, śāsitā, yoktā) to bhiṣak; the Hindi 'होने से' renders the same apposition. śāsitā may mean 'one who instructs (the attendant and patient)' or 'one who prescribes'.",
+  "new": "'as' in the translation renders the apposition of the three agent nouns (vijñātā, śāsitā, yoktā) to bhiṣak; the Hindi 'के रूप में' renders the same apposition. śāsitā may mean 'one who instructs (the attendant and patient)' or 'one who prescribes'.",
+  "why": "reviewer (minor): Note must follow the Hindi fix"
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "जैसे मिट्टी, दण्ड, चक्र, सूत्र आदि कुम्हार के बिना गुण (फल) उत्पन्न नहीं करते, वैसे वैद्य के बिना तीनों पाद (गुण उत्पन्न नहीं करते)।",
+  "new": "जैसे मिट्टी, दण्ड, चक्र, सूत्र आदि कुम्हार के बिना गुण उत्पन्न नहीं करते, वैसे वैद्य के बिना तीनों पाद (गुण उत्पन्न नहीं करते)।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: no bracketed glosses in Hindi); the Sanskrit term stands alone"
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "संयोग से आए हुए नियत आयु वाले (रोगी) को पार लगाकर, स्वयं को भिषक् मानने वाला शीघ्र अनियत आयु वालों में से सैकड़ों को मार डालता है।",
+  "new": "नियत आयु वाले आए हुए (रोगी) को संयोग से पार लगाकर, स्वयं को भिषक् मानने वाला शीघ्र अनियत आयु वालों में से सैकड़ों को मार डालता है।",
+  "why": "reviewer (error): Hindi attaches yadṛcchayā to samāpannam ('who came by chance'), while the note says the reading with uttārya is taken and the English renders 'having by chance brought through'. Layers disagree."
+ },
+ {
+  "n": "21",
+  "field": "word.gram",
+  "word": "sādhyam",
+  "old": "n. nom. sg. ger. √sādh",
+  "new": "n. nom. sg. gerundive (kṛtya) √sādh",
+  "why": "reviewer (error): Glossary rule: gerundives are labelled 'gerundive (kṛtya)', never 'ger.'"
+ },
+ {
+  "n": "22",
+  "field": "word.gloss",
+  "word": "karma-dṛṣṭiḥ",
+  "old": "having seen practice",
+  "new": "observation of practice",
+  "why": "reviewer (minor): Gloss 'having seen practice' is possessive (bahuvrīhi sense) but gram says tat-puruṣa f. noun; karmadṛṣṭi is 'observation of practice'"
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "Learning, intellect, having seen practice, repeated practice, success and support (āśraya): even each single one of these is enough for earning the title 'vaidya' (physician).",
+  "new": "Learning, intellect, observation of practice, repeated practice, success and support (āśraya): even each single one of these is enough for earning the title 'vaidya' (physician).",
+  "why": "reviewer (minor): Follow the noun sense of karmadṛṣṭi, parallel to the other nouns of the list"
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "शास्त्र प्रकाश के लिए ज्योति है, और अपनी बुद्धि दर्शन (आँख) है; इन दोनों से भली-भाँति युक्त होकर चिकित्सा करता हुआ भिषक् अपराध (भूल) नहीं करता।",
+  "new": "शास्त्र प्रकाश के लिए ज्योति है और अपनी बुद्धि दर्शन है; भली-भाँति युक्त इन दोनों से चिकित्सा करता हुआ भिषक् अपराध नहीं करता।",
+  "why": "reviewer (minor): Bracketed glosses in Hindi; 'आँख' (eye) also narrows darśana (sight). 'इन दोनों से भली-भाँति युक्त होकर' makes the physician the one 'well joined', while suyuktābhyām agrees with tābhyām."
+ },
+ {
+  "n": "26",
+  "field": "word.gram",
+  "word": "śakye",
+  "old": "m. loc. sg. ger. √śak",
+  "new": "m. loc. sg. gerundive (kṛtya) √śak",
+  "why": "reviewer (error): Glossary rule: gerundives are labelled 'gerundive (kṛtya)', never 'ger.'"
+ },
+ {
+  "n": "26",
+  "field": "notes",
+  "old": "prakṛtistha, 'standing in prakṛti', is ambiguous: in verse 4 prakṛti is the balanced, healthy state, which would give 'the healthy' (who need no treatment); it can also mean beings set in their final course, i.e. beyond cure. The literal rendering is kept. śakya: what can be done, the curable case. The closing iti marks the end of the chapter's teaching before the summary verses. maitrī has no object stated; it is taken as general (towards all).",
+  "new": "prakṛtistha, 'standing in prakṛti', is ambiguous: in verse 4 prakṛti is the balanced, healthy state, which would give 'the healthy' (who need no treatment). The literal rendering is kept. śakya: what can be done, the curable case. The closing iti marks the end of the chapter's teaching before the summary verses. maitrī has no object stated; it is taken as general (towards all).",
+  "why": "reviewer (error): This second sense rests on commentary/memory not shown in the input (the line and verse 4 give only prakṛti = balanced state); mark for removal"
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "मैत्री, आर्तों के प्रति करुणा, शक्य (साध्य) के प्रति प्रीति, और प्रकृतिस्थ प्राणियों के प्रति उपेक्षा — यह वैद्य की चार प्रकार की वृत्ति है।",
+  "new": "मैत्री, आर्तों के प्रति करुणा, शक्य के प्रति प्रीति, और प्रकृतिस्थ प्राणियों के प्रति उपेक्षा — यह वैद्य की चार प्रकार की वृत्ति है।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: no bracketed glosses in Hindi); the Sanskrit term stands alone"
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "यहाँ दो श्लोक — भिषग्जित (चिकित्सा) चार पादों वाला है; प्रत्येक पाद चार गुणों वाला है; पादों में भिषक् जिस कारण प्रधान है; और वैद्य जिन गुणों वाला होता है;",
+  "new": "यहाँ दो श्लोक — भिषग्जित चार पादों वाला है; प्रत्येक पाद चार गुणों वाला है; पादों में भिषक् जिस कारण प्रधान है; और वैद्य जिन गुणों वाला होता है;",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: no bracketed glosses in Hindi); the Sanskrit term stands alone"
+ },
+ {
+  "n": "P1",
+  "field": "notes",
+  "old": "Chapter colophon; the Sanskrit has no verb and the translation keeps it verbless. Ślokasthāna is the name this edition uses for the first section.",
+  "new": "Chapter colophon; the Sanskrit has no verb and the translation keeps it verbless. Ślokasthāna: the section name as printed.",
+  "why": "reviewer (minor): Implies comparison with other editions' section names, which the input does not show; mark for removal"
+ },
+ {
+  "n": "P1",
+  "field": "english",
+  "old": "Thus, in the treatise composed by Agniveśa and redacted by Caraka, in the Ślokasthāna (section), the ninth chapter, named Khuḍḍākacatuṣpāda.",
+  "new": "Thus, in the treatise composed by Agniveśa and redacted by Caraka, in the Śloka section (Ślokasthāna), the ninth chapter, named Khuḍḍākacatuṣpāda.",
+  "why": "reviewer (minor): Glossary fixed rendering: Ślokasthāna = Śloka section (Ślokasthāna)"
+ }
+]

@@ -1,0 +1,328 @@
+{
+ "units": [
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35.1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35.2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "prakṣepa-apacaye",
+     "problem": "A samāhāra dvandva is neuter; 'm.' contradicts the label.",
+     "fix": "n. loc. sg. dvandva (samāhāra)",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "word",
+      "match_w": "prakṣepa-apacaye",
+      "field": "gram",
+      "value": "n. loc. sg. dvandva (samāhāra)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "tābhyām",
+     "problem": "Gloss 'of those two' gives a genitive sense, but tābhyām is inst./abl./dat. du. only, as the gram itself says.",
+     "fix": "by those two (in respect of them)",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "word",
+      "match_w": "tābhyām",
+      "field": "gloss",
+      "value": "by those two (in respect of them)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "saṅga-utsargāt",
+     "problem": "A singular dvandva of two members is samāhāra and neuter; 'm.' is wrong.",
+     "fix": "n. abl. sg. dvandva (samāhāra)",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "word",
+      "match_w": "saṅga-utsargāt",
+      "field": "gram",
+      "value": "n. abl. sg. dvandva (samāhāra)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes: (Vaiśākha, Bhādrapada and Pauṣa in the usual lists)",
+     "problem": "Month equivalences rest on outside lists from memory, not on the input; remove.",
+     "fix": "Delete:  (Vaiśākha, Bhādrapada and Pauṣa in the usual lists)",
+     "severity": "error",
+     "patch": {
+      "n": "46",
+      "op": "replace",
+      "field": "notes",
+      "old": " (Vaiśākha, Bhādrapada and Pauṣa in the usual lists)",
+      "new": ""
+     }
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "upadekṣyate",
+     "problem": "The form is the middle future; there is no distinct future passive. The note already says it is used passively; the label should match.",
+     "fix": "3 sg. fut. mid. (passive sense) upa-√diś",
+     "severity": "minor",
+     "patch": {
+      "n": "50",
+      "op": "word",
+      "match_w": "upadekṣyate",
+      "field": "gram",
+      "value": "3 sg. fut. mid. (passive sense) upa-√diś"
+     }
+    }
+   ]
+  },
+  {
+   "n": "51",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "it is the intellect (prajñā) that errs",
+     "problem": "The cleft 'it is ... that' adds emphasis not in 'prajñā teṣv aparādhyati'.",
+     "fix": "the intellect (prajñā) errs",
+     "severity": "minor",
+     "patch": {
+      "n": "51",
+      "op": "replace",
+      "field": "english",
+      "old": "it is the intellect (prajñā) that errs",
+      "new": "the intellect (prajñā) errs"
+     }
+    }
+   ]
+  },
+  {
+   "n": "52",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "53",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "54",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "56",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "57",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "58",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "59",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "60",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "61",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "62",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes: Usual modern equivalents ...",
+     "problem": "Modern disease equivalents are from memory, not the input (glossary: disease names stay Sanskrit); remove them, keeping only the lexical asṛk = rakta point.",
+     "fix": "'asṛkpitta' is the same word as raktapitta (asṛk = blood). ",
+     "severity": "error",
+     "patch": {
+      "n": "62",
+      "op": "replace",
+      "field": "notes",
+      "old": "Usual modern equivalents: asṛkpitta (= raktapitta) a bleeding disorder; vīsarpa erysipelas-like spreading skin disease; kuṣṭha skin disease including leprosy; pāṇḍu anaemia; kāmalā jaundice. ",
+      "new": "'asṛkpitta' is the same word as raktapitta (asṛk = blood). "
+     }
+    }
+   ]
+  },
+  {
+   "n": "63",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "64",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "65",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "66",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tat",
+     "problem": "'tat ... sarvam eva avadat': tat goes with sarvam, the object of avadat, so accusative, not nominative.",
+     "fix": "n. acc. sg.",
+     "severity": "error",
+     "patch": {
+      "n": "66",
+      "op": "word",
+      "match_w": "tat",
+      "field": "gram",
+      "value": "n. acc. sg."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "na-vegān-dhāraṇe",
+     "problem": "dhāraṇa is neuter; the title stands in apposition to adhyāye rather than being masculine.",
+     "fix": "n. loc. sg. (title, in apposition to adhyāye)",
+     "severity": "minor",
+     "patch": {
+      "n": "66",
+      "op": "word",
+      "match_w": "na-vegān-dhāraṇe",
+      "field": "gram",
+      "value": "n. loc. sg. (title, in apposition to adhyāye)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes: (also called Sūtrasthāna)",
+     "problem": "The other name comes from other editions/memory, not the input; remove.",
+     "fix": "Delete:  (also called Sūtrasthāna)",
+     "severity": "error",
+     "patch": {
+      "n": "P1",
+      "op": "replace",
+      "field": "notes",
+      "old": " (also called Sūtrasthāna)",
+      "new": ""
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "35 units reviewed; 4 errors, 6 minor. Errors: one wrong case label (66 tat nom.->acc.) and three notes resting on memory/other editions (46 month equivalents, 62 modern disease equivalents, P1 'also called Sūtrasthāna'), all marked for removal. Minor: gender of samāhāra dvandvas (37, 43, 66 title), gloss of tābhyām (37), future-passive label (50), added emphasis in 51 English. Text flags in 41, 43, 44, 46, 48 and P1 rest on grammar/metre of the printed text and are sound. Plant identifications in 61 kept as glossary policy allows. No regrouping suggested (35.1-35.2 and 53-54, 56-57, 58-59, 63-66 run-on groups are sensible). 45: the nom. pl. anāturāḥ remains awkward; the note discloses it and confidence is medium. AI review, not read by a person."
+}

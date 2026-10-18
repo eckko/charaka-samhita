@@ -1,0 +1,485 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "jñeyam",
+     "problem": "Glossary rule: gerundives are labelled 'gerundive (kṛtya)', never 'ger.'",
+     "fix": "n. nom. sg. gerundive (kṛtya) √jñā",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "jñeyam",
+      "field": "gram",
+      "value": "n. nom. sg. gerundive (kṛtya) √jñā"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "caturṇām",
+     "problem": "gender missing; agrees with bhiṣagādīnām (m.)",
+     "fix": "m. gen. pl. (numeral)",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "caturṇām",
+      "field": "gram",
+      "value": "m. gen. pl. (numeral)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "jñeyam",
+     "problem": "Glossary rule: gerundives are labelled 'gerundive (kṛtya)', never 'ger.'",
+     "fix": "n. nom. sg. gerundive (kṛtya) √jñā",
+     "severity": "error",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "jñeyam",
+      "field": "gram",
+      "value": "n. nom. sg. gerundive (kṛtya) √jñā"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "श्रुत (शास्त्र-ज्ञान) में",
+     "problem": "Bracketed gloss in the Hindi (brief: no bracketed glosses in Hindi); the Sanskrit term stands alone",
+     "fix": "श्रुत में",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "hindi",
+      "old": "श्रुत (शास्त्र-ज्ञान) में",
+      "new": "श्रुत में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वहाँ (रोग में) योग्यता",
+     "problem": "Bracketed interpretive addition; the notes themselves say the line does not name the disease or case",
+     "fix": "वहाँ योग्यता",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वहाँ (रोग में) योग्यता",
+      "new": "वहाँ योग्यता"
+     }
+    },
+    {
+     "field": "english",
+     "where": "suitability there (to the case)",
+     "problem": "Interpretive addition in the translation; the note already explains the likely sense",
+     "fix": "suitability there",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "english",
+      "old": "suitability there (to the case)",
+      "new": "suitability there"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "i.e. the drug's full potency",
+     "problem": "Interpretation not supported by the line (reads like commentary from memory); mark for removal",
+     "fix": "sampad: richness, excellence.",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "notes",
+      "old": ", i.e. the drug's full potency",
+      "new": ""
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "भर्ता (स्वामी)",
+     "problem": "Bracketed gloss in the Hindi (brief: no bracketed glosses in Hindi); the Sanskrit term stands alone",
+     "fix": "भर्ता के प्रति",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "भर्ता (स्वामी) के प्रति",
+      "new": "भर्ता के प्रति"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आतुर (रोगी)",
+     "problem": "Bracketed gloss in the Hindi (brief: no bracketed glosses in Hindi); the Sanskrit term stands alone",
+     "fix": "आतुर के गुण",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आतुर (रोगी) के गुण",
+      "new": "आतुर के गुण"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "होने से",
+     "problem": "'होने से' means 'because of being', adding a causal sense the Sanskrit (plain apposition) and the English 'as' do not have",
+     "fix": "विज्ञाता, शासिता और योक्ता के रूप में भिषक्",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "hindi",
+      "old": "योक्ता होने से भिषक्",
+      "new": "योक्ता के रूप में भिषक्"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "the Hindi 'होने से'",
+     "problem": "Note must follow the Hindi fix",
+     "fix": "the Hindi 'के रूप में'",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "notes",
+      "old": "the Hindi 'होने से'",
+      "new": "the Hindi 'के रूप में'"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "गुण (फल)",
+     "problem": "Bracketed gloss in the Hindi (brief: no bracketed glosses in Hindi); the Sanskrit term stands alone",
+     "fix": "गुण उत्पन्न",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "hindi",
+      "old": "गुण (फल) उत्पन्न",
+      "new": "गुण उत्पन्न"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "संयोग से आए हुए",
+     "problem": "Hindi attaches yadṛcchayā to samāpannam ('who came by chance'), while the note says the reading with uttārya is taken and the English renders 'having by chance brought through'. Layers disagree.",
+     "fix": "नियत आयु वाले आए हुए (रोगी) को संयोग से पार लगाकर, स्वयं को भिषक् मानने वाला शीघ्र अनियत आयु वालों में से सैकड़ों को मार डालता है।",
+     "severity": "error",
+     "patch": {
+      "n": "17",
+      "op": "set",
+      "field": "hindi",
+      "value": "नियत आयु वाले आए हुए (रोगी) को संयोग से पार लगाकर, स्वयं को भिषक् मानने वाला शीघ्र अनियत आयु वालों में से सैकड़ों को मार डालता है।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sādhyam",
+     "problem": "Glossary rule: gerundives are labelled 'gerundive (kṛtya)', never 'ger.'",
+     "fix": "n. nom. sg. gerundive (kṛtya) √sādh",
+     "severity": "error",
+     "patch": {
+      "n": "21",
+      "op": "word",
+      "match_w": "sādhyam",
+      "field": "gram",
+      "value": "n. nom. sg. gerundive (kṛtya) √sādh"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "karma-dṛṣṭiḥ",
+     "problem": "Gloss 'having seen practice' is possessive (bahuvrīhi sense) but gram says tat-puruṣa f. noun; karmadṛṣṭi is 'observation of practice'",
+     "fix": "observation of practice",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "word",
+      "match_w": "karma-dṛṣṭiḥ",
+      "field": "gloss",
+      "value": "observation of practice"
+     }
+    },
+    {
+     "field": "english",
+     "where": "having seen practice",
+     "problem": "Follow the noun sense of karmadṛṣṭi, parallel to the other nouns of the list",
+     "fix": "observation of practice",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "english",
+      "old": "having seen practice",
+      "new": "observation of practice"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दर्शन (आँख), अपराध (भूल)",
+     "problem": "Bracketed glosses in Hindi; 'आँख' (eye) also narrows darśana (sight). 'इन दोनों से भली-भाँति युक्त होकर' makes the physician the one 'well joined', while suyuktābhyām agrees with tābhyām.",
+     "fix": "शास्त्र प्रकाश के लिए ज्योति है और अपनी बुद्धि दर्शन है; भली-भाँति युक्त इन दोनों से चिकित्सा करता हुआ भिषक् अपराध नहीं करता।",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "set",
+      "field": "hindi",
+      "value": "शास्त्र प्रकाश के लिए ज्योति है और अपनी बुद्धि दर्शन है; भली-भाँति युक्त इन दोनों से चिकित्सा करता हुआ भिषक् अपराध नहीं करता।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "śakye",
+     "problem": "Glossary rule: gerundives are labelled 'gerundive (kṛtya)', never 'ger.'",
+     "fix": "m. loc. sg. gerundive (kṛtya) √śak",
+     "severity": "error",
+     "patch": {
+      "n": "26",
+      "op": "word",
+      "match_w": "śakye",
+      "field": "gram",
+      "value": "m. loc. sg. gerundive (kṛtya) √śak"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "it can also mean beings set in their final course, i.e. beyond cure",
+     "problem": "This second sense rests on commentary/memory not shown in the input (the line and verse 4 give only prakṛti = balanced state); mark for removal",
+     "fix": "delete the clause",
+     "severity": "error",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "notes",
+      "old": "; it can also mean beings set in their final course, i.e. beyond cure.",
+      "new": "."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "शक्य (साध्य)",
+     "problem": "Bracketed gloss in the Hindi (brief: no bracketed glosses in Hindi); the Sanskrit term stands alone",
+     "fix": "शक्य के प्रति",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शक्य (साध्य) के प्रति",
+      "new": "शक्य के प्रति"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "भिषग्जित (चिकित्सा)",
+     "problem": "Bracketed gloss in the Hindi (brief: no bracketed glosses in Hindi); the Sanskrit term stands alone",
+     "fix": "भिषग्जित चार",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "replace",
+      "field": "hindi",
+      "old": "भिषग्जित (चिकित्सा) चार",
+      "new": "भिषग्जित चार"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "the name this edition uses for the first section",
+     "problem": "Implies comparison with other editions' section names, which the input does not show; mark for removal",
+     "fix": "Ślokasthāna: the section name as printed.",
+     "severity": "minor",
+     "patch": {
+      "n": "P1",
+      "op": "replace",
+      "field": "notes",
+      "old": "Ślokasthāna is the name this edition uses for the first section.",
+      "new": "Ślokasthāna: the section name as printed."
+     }
+    },
+    {
+     "field": "english",
+     "where": "in the Ślokasthāna (section)",
+     "problem": "Glossary fixed rendering: Ślokasthāna = Śloka section (Ślokasthāna)",
+     "fix": "in the Śloka section (Ślokasthāna)",
+     "severity": "minor",
+     "patch": {
+      "n": "P1",
+      "op": "replace",
+      "field": "english",
+      "old": "in the Ślokasthāna (section)",
+      "new": "in the Śloka section (Ślokasthāna)"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "6 errors, 17 minor across 15 of 29 units. Errors: 4 gram labels 'ger.' for gerundives (glossary rule; units 3, 6, 21, 26); 1 Hindi that contradicts the note and English on what yadṛcchayā goes with (17); 1 note with a second reading of prakṛtistha that rests on commentary not in the input (26, marked for removal). Minor: bracketed glosses in Hindi (6, 7, 8, 9, 13, 24, 26, 27), small interpretive additions (7 English, 7 note 'full potency', 10 Hindi 'होने से'), karmadṛṣṭi gloss (22), a missing gender (5), and P1 (note implying other editions, glossary rendering of Ślokasthāna). Text flags in 25 (vyapāśrayaḥ to -āḥ) and 27 (caturguṇāḥ to -aḥ) rest on agreement in the printed line, not on other editions; kept. No regrouping suggested; no uncertain lines in the input. All layers remain unreviewed AI drafts."
+}
