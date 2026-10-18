@@ -67,3 +67,4 @@ Draft status: AI drafts, not read by a person.
 - kept Sanskrit, no modern equivalents in notes: grahaṇī, nāḍī (disease), jaṭhara, gara, aruṣkā, pāmā, vātaśoṇita, kṛśarā; vasā = muscle-fat (वसा); majjan = marrow (मज्जा); mastu = whey; pāyasa = milk-rice; utkleśa = nausea (उत्क्लेश)
 - asnigdha/snigdha/atisnigdha lakṣaṇa = sign of the unoleated/oleated/over-oleated; kha = channels (छिद्र); parihāra = restrictions; hrasva/madhyama mātrā = small/medium measure; paktā in Hindi = पचाने वाला
 - plant identifications (tagged standard/probable/disputed) are allowed in notes only
+- yukti in epistemology passages (Sū 11) = reasoning (yukti); yukti as treatment planning = rational planning; upakaraṇa in Sū 11 = means of living
