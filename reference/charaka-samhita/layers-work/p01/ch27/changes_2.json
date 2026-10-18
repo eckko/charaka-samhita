@@ -1,0 +1,418 @@
+[
+ {
+  "n": "40",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "śuktiśaṅkhodrakummīraculukīmakarādayaḥ",
+    "suggest": "śuktiśaṅkhodrakumbhīraculukīmakarādayaḥ",
+    "why": "possible: there is no stem kummīra; kumbhīra (an aquatic animal) has the same syllable weights, so the metre is unchanged"
+   }
+  ],
+  "new": [],
+  "why": "reviewer (error): The flag's evidence is dictionary-only ('there is no stem kummīra'); nothing in the chunk, grammar or metre supports the correction (glossary: a text_flag 'why' cites only lines inside the chunk, grammar or metre). Move it to notes and keep the printed kummīra in words and English (Hindi already has कुम्मीर)."
+ },
+ {
+  "n": "40",
+  "field": "word.gloss",
+  "word": "śukti-śaṅkha-udra-kumbhīra-culukī-makara-ādayaḥ",
+  "old": "shell (śukti), conch (śaṅkha), udra, kumbhīra, culukī, makara and the like",
+  "new": "shell (śukti), conch (śaṅkha), udra, kummīra, culukī, makara and the like",
+  "why": "reviewer (error): The flag's evidence is dictionary-only ('there is no stem kummīra'); nothing in the chunk, grammar or metre supports the correction (glossary: a text_flag 'why' cites only lines inside the chunk, grammar or metre). Move it to notes and keep the printed kummīra in words and English (Hindi already has कुम्मीर)."
+ },
+ {
+  "n": "40",
+  "field": "word.w",
+  "word": "śukti-śaṅkha-udra-kumbhīra-culukī-makara-ādayaḥ",
+  "old": "śukti-śaṅkha-udra-kumbhīra-culukī-makara-ādayaḥ",
+  "new": "śukti-śaṅkha-udra-kummīra-culukī-makara-ādayaḥ",
+  "why": "reviewer (error): The flag's evidence is dictionary-only ('there is no stem kummīra'); nothing in the chunk, grammar or metre supports the correction (glossary: a text_flag 'why' cites only lines inside the chunk, grammar or metre). Move it to notes and keep the printed kummīra in words and English (Hindi already has कुम्मीर)."
+ },
+ {
+  "n": "40",
+  "field": "english",
+  "old": "The tortoise (kūrma), the crab (karkaṭaka), the fish (matsya), the śiśumāra, the timiṅgila, the shell (śukti), the conch (śaṅkha), the udra, the kumbhīra, the culukī, the makara and the like —",
+  "new": "The tortoise (kūrma), the crab (karkaṭaka), the fish (matsya), the śiśumāra, the timiṅgila, the shell (śukti), the conch (śaṅkha), the udra, the kummīra, the culukī, the makara and the like —",
+  "why": "reviewer (error): The flag's evidence is dictionary-only ('there is no stem kummīra'); nothing in the chunk, grammar or metre supports the correction (glossary: a text_flag 'why' cites only lines inside the chunk, grammar or metre). Move it to notes and keep the printed kummīra in words and English (Hindi already has कुम्मीर)."
+ },
+ {
+  "n": "40",
+  "field": "notes",
+  "old": "SENTENCE: the list of water-dwellers (vāriśaya) is closed by 'iti vāriśayāḥ proktāḥ' in 41. Animal names are kept in Sanskrit; plain English words are given only for the ordinary meanings (tortoise, crab, fish, shell, conch). Hindi keeps the printed कुम्मीर.",
+  "new": "SENTENCE: the list of water-dwellers (vāriśaya) is closed by 'iti vāriśayāḥ proktāḥ' in 41. Animal names are kept in Sanskrit; plain English words are given only for the ordinary meanings (tortoise, crab, fish, shell, conch). Hindi keeps the printed कुम्मीर. kummīra is kept as printed; a reading kumbhīra is possible (same syllable weights), but nothing in the chunk shows it, so no text_flag.",
+  "why": "reviewer (error): The flag's evidence is dictionary-only ('there is no stem kummīra'); nothing in the chunk, grammar or metre supports the correction (glossary: a text_flag 'why' cites only lines inside the chunk, grammar or metre). Move it to notes and keep the printed kummīra in words and English (Hindi already has कुम्मीर)."
+ },
+ {
+  "n": "40",
+  "field": "word.gloss",
+  "word": "śiśumāraḥ",
+  "old": "śiśumāra (an aquatic animal)",
+  "new": "śiśumāra (a water-dweller)",
+  "why": "reviewer (minor): '(an aquatic animal)' should only echo the text's own heading, vāriśaya 'water-dweller' (41)."
+ },
+ {
+  "n": "40",
+  "field": "word.gloss",
+  "word": "timiṅgilaḥ",
+  "old": "timiṅgila (an aquatic animal)",
+  "new": "timiṅgila (a water-dweller)",
+  "why": "reviewer (minor): '(an aquatic animal)' should only echo the text's own heading, vāriśaya 'water-dweller' (41)."
+ },
+ {
+  "n": "45",
+  "field": "word.gloss",
+  "word": "pṛṣataḥ",
+  "old": "pṛṣata (a deer)",
+  "new": "pṛṣata (a dry-land animal)",
+  "why": "reviewer (error): 'deer' is outside knowledge; the text's heading (46) is only jāṅgalā mṛgāḥ 'dry-land animals'."
+ },
+ {
+  "n": "45",
+  "field": "word.gloss",
+  "word": "rāmaḥ",
+  "old": "rāma (a deer)",
+  "new": "rāma (a dry-land animal)",
+  "why": "reviewer (error): 'deer' is outside knowledge; the text's heading (46) is only jāṅgalā mṛgāḥ 'dry-land animals'."
+ },
+ {
+  "n": "45",
+  "field": "word.gloss",
+  "word": "kuraṅgaḥ",
+  "old": "kuraṅga (a deer)",
+  "new": "kuraṅga (a dry-land animal)",
+  "why": "reviewer (error): 'deer' is outside knowledge; the text's heading (46) is only jāṅgalā mṛgāḥ 'dry-land animals'."
+ },
+ {
+  "n": "45",
+  "field": "notes",
+  "old": "SENTENCE: the list of dry-land animals (jāṅgala mṛga) is closed in 46. Names kept in Sanskrit, without identification; glosses 'deer' or 'animal' are only general. koṭṭakāraka is left unsplit.",
+  "new": "SENTENCE: the list of dry-land animals (jāṅgala mṛga) is closed in 46. Names kept in Sanskrit, without identification; glosses give only the text's group heading (dry-land animal, 46). koṭṭakāraka is left unsplit.",
+  "why": "reviewer (minor): Note mentions 'deer'; after the gloss fix only the heading is used."
+ },
+ {
+  "n": "46",
+  "field": "word.gloss",
+  "word": "śambaraḥ",
+  "old": "śambara (a deer)",
+  "new": "śambara (a dry-land animal)",
+  "why": "reviewer (error): 'deer' is outside knowledge; heading in this line is jāṅgalā mṛgāḥ."
+ },
+ {
+  "n": "46",
+  "field": "word.gloss",
+  "word": "ṛṣyaḥ",
+  "old": "ṛṣya (a deer)",
+  "new": "ṛṣya (a dry-land animal)",
+  "why": "reviewer (error): 'deer' is outside knowledge; heading in this line is jāṅgalā mṛgāḥ."
+ },
+ {
+  "n": "47",
+  "field": "word.gloss",
+  "word": "lāvaḥ",
+  "old": "lāva (a bird)",
+  "new": "lāva (a scatterer)",
+  "why": "reviewer (minor): The text's heading for this group is only viṣkira 'scatterers' (48, 55); it does not call them birds (only the pratudas are called dvijāḥ, 53). Use the heading."
+ },
+ {
+  "n": "47",
+  "field": "word.gloss",
+  "word": "vartīrakaḥ",
+  "old": "vartīraka (a bird)",
+  "new": "vartīraka (a scatterer)",
+  "why": "reviewer (minor): The text's heading for this group is only viṣkira 'scatterers' (48, 55); it does not call them birds (only the pratudas are called dvijāḥ, 53). Use the heading."
+ },
+ {
+  "n": "47",
+  "field": "word.gloss",
+  "word": "vārtīkaḥ",
+  "old": "vārtīka (a bird)",
+  "new": "vārtīka (a scatterer)",
+  "why": "reviewer (minor): The text's heading for this group is only viṣkira 'scatterers' (48, 55); it does not call them birds (only the pratudas are called dvijāḥ, 53). Use the heading."
+ },
+ {
+  "n": "47",
+  "field": "word.gloss",
+  "word": "cakoraḥ",
+  "old": "cakora (a bird)",
+  "new": "cakora (a scatterer)",
+  "why": "reviewer (minor): The text's heading for this group is only viṣkira 'scatterers' (48, 55); it does not call them birds (only the pratudas are called dvijāḥ, 53). Use the heading."
+ },
+ {
+  "n": "47",
+  "field": "word.gloss",
+  "word": "upacakraḥ",
+  "old": "upacakra (a bird)",
+  "new": "upacakra (a scatterer)",
+  "why": "reviewer (minor): The text's heading for this group is only viṣkira 'scatterers' (48, 55); it does not call them birds (only the pratudas are called dvijāḥ, 53). Use the heading."
+ },
+ {
+  "n": "47",
+  "field": "word.gloss",
+  "word": "kukkubhaḥ",
+  "old": "kukkubha (a bird)",
+  "new": "kukkubha (a scatterer)",
+  "why": "reviewer (minor): The text's heading for this group is only viṣkira 'scatterers' (48, 55); it does not call them birds (only the pratudas are called dvijāḥ, 53). Use the heading."
+ },
+ {
+  "n": "47",
+  "field": "word.gloss",
+  "word": "eva",
+  "old": "also",
+  "new": "indeed (emphatic)",
+  "why": "reviewer (minor): Glossary: eva = emphatic particle ('just, indeed')."
+ },
+ {
+  "n": "48",
+  "field": "word.gloss",
+  "word": "vartakaḥ",
+  "old": "vartaka (a bird)",
+  "new": "vartaka (a scatterer)",
+  "why": "reviewer (minor): As 47: heading is viṣkira only."
+ },
+ {
+  "n": "48",
+  "field": "word.gloss",
+  "word": "vartikā",
+  "old": "vartikā (a bird)",
+  "new": "vartikā (a scatterer)",
+  "why": "reviewer (minor): As 47: heading is viṣkira only."
+ },
+ {
+  "n": "48",
+  "field": "word.gloss",
+  "word": "eva",
+  "old": "also",
+  "new": "indeed (emphatic)",
+  "why": "reviewer (minor): Glossary: eva = emphatic particle."
+ },
+ {
+  "n": "49",
+  "field": "word.gloss",
+  "word": "krakaraḥ",
+  "old": "krakara (a bird)",
+  "new": "krakara (a scatterer)",
+  "why": "reviewer (minor): As 47: heading is viṣkira only (this line)."
+ },
+ {
+  "n": "49",
+  "field": "word.gloss",
+  "word": "avakaraḥ",
+  "old": "avakara (a bird)",
+  "new": "avakara (a scatterer)",
+  "why": "reviewer (minor): As 47: heading is viṣkira only (this line)."
+ },
+ {
+  "n": "49",
+  "field": "word.gloss",
+  "word": "vāraḍaḥ",
+  "old": "vāraḍa (a bird)",
+  "new": "vāraḍa (a scatterer)",
+  "why": "reviewer (minor): As 47: heading is viṣkira only (this line)."
+ },
+ {
+  "n": "49",
+  "field": "word.gloss",
+  "word": "eva",
+  "old": "also",
+  "new": "indeed (emphatic)",
+  "why": "reviewer (minor): Glossary: eva = emphatic particle."
+ },
+ {
+  "n": "49",
+  "field": "notes",
+  "old": "The members of the long compound are bird names; girivartaka ('mountain vartaka') and indrābha are kept as single names.",
+  "new": "The members of the long compound are names of scatterers (viṣkira); girivartaka ('mountain vartaka') and indrābha are kept as single names.",
+  "why": "reviewer (minor): Same point: say 'names of scatterers (viṣkira)'."
+ },
+ {
+  "n": "50",
+  "field": "notes",
+  "old": "SENTENCE: the list of peckers (pratuda) runs on to 53, where it is closed. Names kept in Sanskrit, without identification; plant senses of śatapatra and bhṛṅgarāja do not apply here.",
+  "new": "SENTENCE: the list of peckers (pratuda) runs on to 53, where it is closed. Names kept in Sanskrit, without identification.",
+  "why": "reviewer (minor): Outside knowledge (other senses of the words); not needed and not from the text."
+ },
+ {
+  "n": "51",
+  "field": "word.gram",
+  "word": "vaṭahā",
+  "old": "f. nom. sg.",
+  "new": "nom. sg. (f. vaṭahā or m. vaṭahan; uncertain)",
+  "why": "reviewer (minor): The form is ambiguous: nom. sg. of a feminine ā-stem vaṭahā or of a masculine -han stem vaṭahan (like vṛtrahā); the gender cannot be fixed from the line."
+ },
+ {
+  "n": "51",
+  "field": "notes",
+  "old": "Pratuda list continued. 'laṭṭa(ṭū)ṣako' prints the syllable ṭū in round brackets as the edition's alternative (apparently laṭūṣaka or laṭṭūṣaka; its exact extent is not clear); the unbracketed reading laṭṭaṣaka is used and the variant is left out of the translations. vaṭahā is taken as a feminine name; its form is uncertain. ḍiṇḍimānaka and pākkāra are left unsplit.",
+  "new": "Pratuda list continued. 'laṭṭa(ṭū)ṣako' prints the syllable ṭū in round brackets as the edition's alternative (apparently laṭūṣaka or laṭṭūṣaka; its exact extent is not clear); the unbracketed reading laṭṭaṣaka is used and the variant is left out of the translations. vaṭahā may be a feminine ā-stem or the nominative of a masculine -han stem (vaṭahan); the gender is uncertain. ḍiṇḍimānaka and pākkāra are left unsplit.",
+  "why": "reviewer (minor): The form is ambiguous: nom. sg. of a feminine ā-stem vaṭahā or of a masculine -han stem vaṭahan (like vṛtrahā); the gender cannot be fixed from the line."
+ },
+ {
+  "n": "51",
+  "field": "english",
+  "old": "the laṭṭā, the laṭṭaṣaka, the babhru, the vaṭahā, the ḍiṇḍimānaka, the jaṭin, the dundubhi, the pākkāra, the lohapṛṣṭha ('iron-back'), the kuliṅgaka,",
+  "new": "the laṭṭā, the laṭṭaṣaka, the babhru, the vaṭahā, the ḍiṇḍimānaka, the jaṭin, the dundubhi, the pākkāra, the lohapṛṣṭha, the kuliṅgaka,",
+  "why": "reviewer (minor): Literal senses of compound names belong in the gloss only (as the draft itself says in 42); the English has it and the gloss does not."
+ },
+ {
+  "n": "51",
+  "field": "word.gloss",
+  "word": "dundubhi-pākkāra-lohapṛṣṭha-kuliṅgakāḥ",
+  "old": "dundubhi, pākkāra, lohapṛṣṭha, kuliṅgaka",
+  "new": "dundubhi, pākkāra, lohapṛṣṭha ('iron-back'), kuliṅgaka",
+  "why": "reviewer (minor): Literal senses of compound names belong in the gloss only (as the draft itself says in 42); the English has it and the gloss does not."
+ },
+ {
+  "n": "52",
+  "field": "word.gloss",
+  "word": "ciraṭī-kaṅku-yaṣṭikāḥ",
+  "old": "ciraṭī, kaṅkuyaṣṭikā",
+  "new": "ciraṭī, kaṅku, yaṣṭikā",
+  "why": "reviewer (error): w shows three members but the gloss and translations give two (ciraṭī, kaṅkuyaṣṭikā). The plural -āḥ favours three: this chunk puts two-name dvandvas in the dual (śaśoraṇau 45, hariṇaiṇau 46, tittirikukkuṭau 48). Take three names."
+ },
+ {
+  "n": "52",
+  "field": "english",
+  "old": "the pigeon (kapota), the parrot (śuka), the śāraṅga, the ciraṭī, the kaṅkuyaṣṭikā, the sārikā, the kalaviṅka, the sparrow (caṭaka), the aṅgāracūḍaka,",
+  "new": "the pigeon (kapota), the parrot (śuka), the śāraṅga, the ciraṭī, the kaṅku, the yaṣṭikā, the sārikā, the kalaviṅka, the sparrow (caṭaka), the aṅgāracūḍaka,",
+  "why": "reviewer (error): w shows three members but the gloss and translations give two (ciraṭī, kaṅkuyaṣṭikā). The plural -āḥ favours three: this chunk puts two-name dvandvas in the dual (śaśoraṇau 45, hariṇaiṇau 46, tittirikukkuṭau 48). Take three names."
+ },
+ {
+  "n": "52",
+  "field": "hindi",
+  "old": "कपोत, शुक, शारङ्ग, चिरटी, कङ्कुयष्टिका, सारिका, कलविङ्क, चटक, अङ्गारचूडक,",
+  "new": "कपोत, शुक, शारङ्ग, चिरटी, कङ्कु, यष्टिका, सारिका, कलविङ्क, चटक, अङ्गारचूडक,",
+  "why": "reviewer (error): w shows three members but the gloss and translations give two (ciraṭī, kaṅkuyaṣṭikā). The plural -āḥ favours three: this chunk puts two-name dvandvas in the dual (śaśoraṇau 45, hariṇaiṇau 46, tittirikukkuṭau 48). Take three names."
+ },
+ {
+  "n": "52",
+  "field": "notes",
+  "old": "Pratuda list continued. ciraṭīkaṅkuyaṣṭikāḥ is divided as ciraṭī + kaṅkuyaṣṭikā; a division into three names (ciraṭī, kaṅku, yaṣṭikā) is also possible.",
+  "new": "Pratuda list continued. ciraṭīkaṅkuyaṣṭikāḥ is divided into three names (ciraṭī, kaṅku, yaṣṭikā), since the plural (not dual) ending suits three members, as two-name dvandvas in this chunk are dual (45, 46, 48); a division into two (ciraṭī, kaṅkuyaṣṭikā) is also possible.",
+  "why": "reviewer (error): w shows three members but the gloss and translations give two (ciraṭī, kaṅkuyaṣṭikā). The plural -āḥ favours three: this chunk puts two-name dvandvas in the dual (śaśoraṇau 45, hariṇaiṇau 46, tittirikukkuṭau 48). Take three names."
+ },
+ {
+  "n": "53",
+  "field": "english",
+  "old": "the pārāvata and the pāṇḍavika: these are told to be the pecking birds (pratuda). Because they eat seizing by force, they are therefore named seizers (prasaha).",
+  "new": "the pārāvata and the pāṇḍavika: these are told to be the pecking birds (pratuda). They eat seizing by force (prasahya); therefore they are named seizers (prasaha).",
+  "why": "reviewer (minor): 'Because ... therefore' renders the reason twice; iti marks the reason and tena 'therefore' once."
+ },
+ {
+  "n": "54",
+  "field": "notes",
+  "old": "jalaja here answers to the vārija/vāriśaya group and jalecara to the vāricārin group named in 41 and 56. jalecaryāt is read as the ablative of a neuter jalecarya 'moving in water'; the gender of the abstract is uncertain. The words 'are called' are understood.",
+  "new": "jalaja here answers to the vārija/vāriśaya group and jalecara to the vāricārin group named in 41 and 56. jalecaryāt is read as the ablative of a neuter jalecarya 'moving in water'; the gender of the abstract is uncertain. The words 'are called' are understood. ānūpānūpa- = ānūpāḥ + anūpa-: after the visarga is lost the two vowels are printed joined, where regular sandhi leaves a hiatus (ānūpā anūpa-); the reading itself is clear, so no flag.",
+  "why": "reviewer (minor): The split ānūpāḥ + anūpasaṃśrayāt is right, but regular sandhi gives ānūpā anūpa- (hiatus after the lost visarga); the printed joined form should be noted (no flag: the reading is clear)."
+ },
+ {
+  "n": "59",
+  "field": "notes",
+  "old": "jīrṇa 'chronic, old' is taken with arśas only; it may qualify all three disorders. arśas, grahaṇī and śoṣa are kept as Sanskrit. SENTENCE: line b begins a sentence completed in 60.",
+  "new": "jīrṇa 'chronic, old' is taken with arśas only; it may qualify all three disorders. arśas, grahaṇī and śoṣa are kept as Sanskrit. SENTENCE: line b begins a sentence completed in 60. jīrṇa may also be a separate member: 'for the aged (jīrṇa) and those afflicted with arśas, grahaṇī disorder and śoṣa'.",
+  "why": "reviewer (minor): One more construal should be noted: jīrṇa as its own dvandva member, 'the aged and those afflicted with arśas, grahaṇī disorder and śoṣa'."
+ },
+ {
+  "n": "63",
+  "field": "word.gram",
+  "word": "yonau",
+  "old": "m. loc. sg.",
+  "new": "f. loc. sg. (of respect)",
+  "why": "reviewer (error): yoni is feminine; there is no need to make it masculine. aniścite agrees with ajāvike (n. loc. sg.), and yonau is a locative of respect: 'goat and sheep, being undetermined as to source (yoni) because of their mixed range'."
+ },
+ {
+  "n": "63",
+  "field": "word.gloss",
+  "word": "yonau",
+  "old": "in respect of source",
+  "new": "as to source",
+  "why": "reviewer (error): yoni is feminine; there is no need to make it masculine. aniścite agrees with ajāvike (n. loc. sg.), and yonau is a locative of respect: 'goat and sheep, being undetermined as to source (yoni) because of their mixed range'."
+ },
+ {
+  "n": "63",
+  "field": "word.gram",
+  "word": "a-niścite",
+  "old": "m. loc. sg., ppp. niś-√ci",
+  "new": "n. loc. sg., ppp. niś-√ci, agreeing with ajāvike",
+  "why": "reviewer (error): yoni is feminine; there is no need to make it masculine. aniścite agrees with ajāvike (n. loc. sg.), and yonau is a locative of respect: 'goat and sheep, being undetermined as to source (yoni) because of their mixed range'."
+ },
+ {
+  "n": "63",
+  "field": "word.gloss",
+  "word": "a-niścite",
+  "old": "being undetermined",
+  "new": "undetermined",
+  "why": "reviewer (error): yoni is feminine; there is no need to make it masculine. aniścite agrees with ajāvike (n. loc. sg.), and yonau is a locative of respect: 'goat and sheep, being undetermined as to source (yoni) because of their mixed range'."
+ },
+ {
+  "n": "63",
+  "field": "english",
+  "old": "In goat and sheep the source (yoni) is undetermined, since they have a mixed range. Of the meats taught in general, separately by their own qualities,",
+  "new": "Goat and sheep (ajāvika) are undetermined as to source (yoni), since they have a mixed range. Of the meats taught in general, separately by their own qualities,",
+  "why": "reviewer (error): yoni is feminine; there is no need to make it masculine. aniścite agrees with ajāvike (n. loc. sg.), and yonau is a locative of respect: 'goat and sheep, being undetermined as to source (yoni) because of their mixed range'."
+ },
+ {
+  "n": "63",
+  "field": "hindi",
+  "old": "बकरे और भेड़ के विषय में, मिश्रित विचरण-क्षेत्र होने से, योनि अनिश्चित है। सामान्य रूप से बताए गए मांसों में से, अपने-अपने गुणों के अनुसार अलग-अलग —",
+  "new": "बकरा और भेड़, मिश्रित विचरण-क्षेत्र होने से, योनि के विषय में अनिश्चित हैं। सामान्य रूप से बताए गए मांसों में से, अपने-अपने गुणों के अनुसार अलग-अलग —",
+  "why": "reviewer (error): yoni is feminine; there is no need to make it masculine. aniścite agrees with ajāvike (n. loc. sg.), and yonau is a locative of respect: 'goat and sheep, being undetermined as to source (yoni) because of their mixed range'."
+ },
+ {
+  "n": "63",
+  "field": "notes",
+  "old": "yonau ... aniścite is read as a locative absolute ('the source being undetermined'), with ajāvike as a neuter samāhāra locative; yoni is construed here as masculine (loc. yonau with aniścite). The point is that goat and sheep are not placed in any of the eight groups. Line b continues into 64a.",
+  "new": "ajāvike aniścite is a neuter samāhāra locative with its participle ('goat and sheep, being undetermined'); yonau is a locative of respect ('as to source'), yoni keeping its feminine gender. The point is that goat and sheep are not placed in any of the eight groups. Line b continues into 64a.",
+  "why": "reviewer (error): yoni is feminine; there is no need to make it masculine. aniścite agrees with ajāvike (n. loc. sg.), and yonau is a locative of respect: 'goat and sheep, being undetermined as to source (yoni) because of their mixed range'."
+ },
+ {
+  "n": "67",
+  "field": "english",
+  "old": "strengthening, supremely Vāta-removing and causing sweat are the caraṇāyudhas ('foot-weaponed', that is cocks). Heavy, hot and sweet, from not frequenting dry land (dhanvan) and marshland (anūpa) excessively,",
+  "new": "strengthening, supremely Vāta-removing and causing sweat are the caraṇāyudhas ('foot-weaponed', that is cocks). Heavy, hot and sweet, from not frequenting dry region (dhanvan) and marshland (anūpa) excessively,",
+  "why": "reviewer (minor): Glossary (Sū 26 ch4): dhanvan = dry region (dhanvan), Hindi धन्व देश."
+ },
+ {
+  "n": "67",
+  "field": "hindi",
+  "old": "— बलकारक, अत्यन्त वातहर और स्वेद लाने वाले चरणायुध हैं। भारी, उष्ण, मधुर, और धन्व तथा अनूप का अधिक सेवन न करने के कारण —",
+  "new": "— बलकारक, अत्यन्त वातहर और स्वेद लाने वाले चरणायुध हैं। भारी, उष्ण, मधुर, और धन्व देश तथा अनूप का अधिक सेवन न करने के कारण —",
+  "why": "reviewer (minor): Glossary (Sū 26 ch4): dhanvan = dry region (dhanvan), Hindi धन्व देश."
+ },
+ {
+  "n": "67",
+  "field": "word.gloss",
+  "word": "dhanva-anūpa-niṣevaṇāt",
+  "old": "from frequenting dry land and marshland",
+  "new": "from frequenting dry region and marshland",
+  "why": "reviewer (minor): Glossary (Sū 26 ch4): dhanvan = dry region (dhanvan), Hindi धन्व देश."
+ },
+ {
+  "n": "77",
+  "field": "word.gloss",
+  "word": "svāduḥ",
+  "old": "sweet",
+  "new": "palatable (svādu)",
+  "why": "reviewer (minor): 76b gives the hare's taste as kaṣāya; svādu 'sweet' as a second taste clashes. Glossary (Sū 26 ch1) allows svādu = palatable (स्वादु) outside the taste names; 'palatable' fits beside praśasta."
+ },
+ {
+  "n": "77",
+  "field": "english",
+  "old": "is the hare (śaśa); it is sweet and is praised in a sannipāta in which Vāta (anila) is lowest. Sweet, sweet in vipāka, pacifying the three doṣas, beneficial,",
+  "new": "is the hare (śaśa); it is palatable (svādu) and is praised in a sannipāta in which Vāta (anila) is lowest. Sweet, sweet in vipāka, pacifying the three doṣas, beneficial,",
+  "why": "reviewer (minor): 76b gives the hare's taste as kaṣāya; svādu 'sweet' as a second taste clashes. Glossary (Sū 26 ch1) allows svādu = palatable (स्वादु) outside the taste names; 'palatable' fits beside praśasta."
+ },
+ {
+  "n": "77",
+  "field": "hindi",
+  "old": "— शश मधुर है और उस सन्निपात में प्रशस्त है जिसमें अनिल सबसे कम हो। मधुर, पाक में मधुर, त्रिदोष को शान्त करने वाले, कल्याणकारी —",
+  "new": "— शश स्वादु है और उस सन्निपात में प्रशस्त है जिसमें अनिल सबसे कम हो। मधुर, पाक में मधुर, त्रिदोष को शान्त करने वाले, कल्याणकारी —",
+  "why": "reviewer (minor): 76b gives the hare's taste as kaṣāya; svādu 'sweet' as a second taste clashes. Glossary (Sū 26 ch1) allows svādu = palatable (स्वादु) outside the taste names; 'palatable' fits beside praśasta."
+ },
+ {
+  "n": "77",
+  "field": "notes",
+  "old": "śaśa is said to be both kaṣāya (76b) and svādu 'sweet'; both are kept as printed. Line b begins the description of the eṇas completed in 78a.",
+  "new": "svādu is taken as 'palatable', since the hare's taste is given as kaṣāya in 76b; 'sweet' (a second taste) is also possible. Line b begins the description of the eṇas completed in 78a.",
+  "why": "reviewer (minor): 76b gives the hare's taste as kaṣāya; svādu 'sweet' as a second taste clashes. Glossary (Sū 26 ch1) allows svādu = palatable (स्वादु) outside the taste names; 'palatable' fits beside praśasta."
+ }
+]

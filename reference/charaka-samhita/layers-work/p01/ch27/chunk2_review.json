@@ -1,0 +1,769 @@
+{
+ "units": [
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "kummīra -> kumbhīra",
+     "problem": "The flag's evidence is dictionary-only ('there is no stem kummīra'); nothing in the chunk, grammar or metre supports the correction (glossary: a text_flag 'why' cites only lines inside the chunk, grammar or metre). Move it to notes and keep the printed kummīra in words and English (Hindi already has कुम्मीर).",
+     "fix": "text_flags: []; w śukti-śaṅkha-udra-kummīra-culukī-makara-ādayaḥ; English 'the kummīra'; note added",
+     "severity": "error",
+     "patch": [
+      {
+       "op": "set",
+       "field": "text_flags",
+       "value": [],
+       "n": "40"
+      },
+      {
+       "op": "word",
+       "match_w": "śukti-śaṅkha-udra-kumbhīra-culukī-makara-ādayaḥ",
+       "field": "gloss",
+       "value": "shell (śukti), conch (śaṅkha), udra, kummīra, culukī, makara and the like",
+       "n": "40"
+      },
+      {
+       "op": "word",
+       "match_w": "śukti-śaṅkha-udra-kumbhīra-culukī-makara-ādayaḥ",
+       "field": "w",
+       "value": "śukti-śaṅkha-udra-kummīra-culukī-makara-ādayaḥ",
+       "n": "40"
+      },
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "the kumbhīra",
+       "new": "the kummīra",
+       "n": "40"
+      },
+      {
+       "op": "append_note",
+       "text": "kummīra is kept as printed; a reading kumbhīra is possible (same syllable weights), but nothing in the chunk shows it, so no text_flag.",
+       "n": "40"
+      }
+     ]
+    },
+    {
+     "field": "gloss",
+     "where": "śiśumāra, timiṅgila",
+     "problem": "'(an aquatic animal)' should only echo the text's own heading, vāriśaya 'water-dweller' (41).",
+     "fix": "śiśumāra (a water-dweller); timiṅgila (a water-dweller)",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "śiśumāraḥ",
+       "field": "gloss",
+       "value": "śiśumāra (a water-dweller)",
+       "n": "40"
+      },
+      {
+       "op": "word",
+       "match_w": "timiṅgilaḥ",
+       "field": "gloss",
+       "value": "timiṅgila (a water-dweller)",
+       "n": "40"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "pṛṣata, rāma, kuraṅga '(a deer)'",
+     "problem": "'deer' is outside knowledge; the text's heading (46) is only jāṅgalā mṛgāḥ 'dry-land animals'.",
+     "fix": "(a dry-land animal)",
+     "severity": "error",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "pṛṣataḥ",
+       "field": "gloss",
+       "value": "pṛṣata (a dry-land animal)",
+       "n": "45"
+      },
+      {
+       "op": "word",
+       "match_w": "rāmaḥ",
+       "field": "gloss",
+       "value": "rāma (a dry-land animal)",
+       "n": "45"
+      },
+      {
+       "op": "word",
+       "match_w": "kuraṅgaḥ",
+       "field": "gloss",
+       "value": "kuraṅga (a dry-land animal)",
+       "n": "45"
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "glosses 'deer' or 'animal'",
+     "problem": "Note mentions 'deer'; after the gloss fix only the heading is used.",
+     "fix": "glosses give only the group heading 'dry-land animal' (46)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "glosses 'deer' or 'animal' are only general",
+      "new": "glosses give only the text's group heading (dry-land animal, 46)",
+      "n": "45"
+     }
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "śambara, ṛṣya '(a deer)'",
+     "problem": "'deer' is outside knowledge; heading in this line is jāṅgalā mṛgāḥ.",
+     "fix": "(a dry-land animal)",
+     "severity": "error",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "śambaraḥ",
+       "field": "gloss",
+       "value": "śambara (a dry-land animal)",
+       "n": "46"
+      },
+      {
+       "op": "word",
+       "match_w": "ṛṣyaḥ",
+       "field": "gloss",
+       "value": "ṛṣya (a dry-land animal)",
+       "n": "46"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "'(a bird)' for lāva, vartīraka, vārtīka, cakora, upacakra, kukkubha",
+     "problem": "The text's heading for this group is only viṣkira 'scatterers' (48, 55); it does not call them birds (only the pratudas are called dvijāḥ, 53). Use the heading.",
+     "fix": "(a scatterer)",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "lāvaḥ",
+       "field": "gloss",
+       "value": "lāva (a scatterer)",
+       "n": "47"
+      },
+      {
+       "op": "word",
+       "match_w": "vartīrakaḥ",
+       "field": "gloss",
+       "value": "vartīraka (a scatterer)",
+       "n": "47"
+      },
+      {
+       "op": "word",
+       "match_w": "vārtīkaḥ",
+       "field": "gloss",
+       "value": "vārtīka (a scatterer)",
+       "n": "47"
+      },
+      {
+       "op": "word",
+       "match_w": "cakoraḥ",
+       "field": "gloss",
+       "value": "cakora (a scatterer)",
+       "n": "47"
+      },
+      {
+       "op": "word",
+       "match_w": "upacakraḥ",
+       "field": "gloss",
+       "value": "upacakra (a scatterer)",
+       "n": "47"
+      },
+      {
+       "op": "word",
+       "match_w": "kukkubhaḥ",
+       "field": "gloss",
+       "value": "kukkubha (a scatterer)",
+       "n": "47"
+      }
+     ]
+    },
+    {
+     "field": "gloss",
+     "where": "eva 'also'",
+     "problem": "Glossary: eva = emphatic particle ('just, indeed').",
+     "fix": "indeed (emphatic)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "eva",
+      "field": "gloss",
+      "value": "indeed (emphatic)",
+      "n": "47"
+     }
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "vartaka, vartikā '(a bird)'",
+     "problem": "As 47: heading is viṣkira only.",
+     "fix": "(a scatterer)",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "vartakaḥ",
+       "field": "gloss",
+       "value": "vartaka (a scatterer)",
+       "n": "48"
+      },
+      {
+       "op": "word",
+       "match_w": "vartikā",
+       "field": "gloss",
+       "value": "vartikā (a scatterer)",
+       "n": "48"
+      }
+     ]
+    },
+    {
+     "field": "gloss",
+     "where": "eva 'also'",
+     "problem": "Glossary: eva = emphatic particle.",
+     "fix": "indeed (emphatic)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "eva",
+      "field": "gloss",
+      "value": "indeed (emphatic)",
+      "n": "48"
+     }
+    }
+   ]
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "krakara, avakara, vāraḍa '(a bird)'",
+     "problem": "As 47: heading is viṣkira only (this line).",
+     "fix": "(a scatterer)",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "krakaraḥ",
+       "field": "gloss",
+       "value": "krakara (a scatterer)",
+       "n": "49"
+      },
+      {
+       "op": "word",
+       "match_w": "avakaraḥ",
+       "field": "gloss",
+       "value": "avakara (a scatterer)",
+       "n": "49"
+      },
+      {
+       "op": "word",
+       "match_w": "vāraḍaḥ",
+       "field": "gloss",
+       "value": "vāraḍa (a scatterer)",
+       "n": "49"
+      }
+     ]
+    },
+    {
+     "field": "gloss",
+     "where": "eva 'also'",
+     "problem": "Glossary: eva = emphatic particle.",
+     "fix": "indeed (emphatic)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "eva",
+      "field": "gloss",
+      "value": "indeed (emphatic)",
+      "n": "49"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "'The members of the long compound are bird names'",
+     "problem": "Same point: say 'names of scatterers (viṣkira)'.",
+     "fix": "names of scatterers (viṣkira)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "The members of the long compound are bird names",
+      "new": "The members of the long compound are names of scatterers (viṣkira)",
+      "n": "49"
+     }
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "plant senses of śatapatra and bhṛṅgarāja",
+     "problem": "Outside knowledge (other senses of the words); not needed and not from the text.",
+     "fix": "delete the clause",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "; plant senses of śatapatra and bhṛṅgarāja do not apply here.",
+      "new": ".",
+      "n": "50"
+     }
+    }
+   ]
+  },
+  {
+   "n": "51",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "vaṭahā 'f. nom. sg.'",
+     "problem": "The form is ambiguous: nom. sg. of a feminine ā-stem vaṭahā or of a masculine -han stem vaṭahan (like vṛtrahā); the gender cannot be fixed from the line.",
+     "fix": "nom. sg. (f. vaṭahā or m. vaṭahan; uncertain)",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "vaṭahā",
+       "field": "gram",
+       "value": "nom. sg. (f. vaṭahā or m. vaṭahan; uncertain)",
+       "n": "51"
+      },
+      {
+       "op": "replace",
+       "field": "notes",
+       "old": "vaṭahā is taken as a feminine name; its form is uncertain.",
+       "new": "vaṭahā may be a feminine ā-stem or the nominative of a masculine -han stem (vaṭahan); the gender is uncertain.",
+       "n": "51"
+      }
+     ]
+    },
+    {
+     "field": "english",
+     "where": "the lohapṛṣṭha ('iron-back')",
+     "problem": "Literal senses of compound names belong in the gloss only (as the draft itself says in 42); the English has it and the gloss does not.",
+     "fix": "English 'the lohapṛṣṭha'; gloss 'lohapṛṣṭha ('iron-back')'",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "the lohapṛṣṭha ('iron-back')",
+       "new": "the lohapṛṣṭha",
+       "n": "51"
+      },
+      {
+       "op": "word",
+       "match_w": "dundubhi-pākkāra-lohapṛṣṭha-kuliṅgakāḥ",
+       "field": "gloss",
+       "value": "dundubhi, pākkāra, lohapṛṣṭha ('iron-back'), kuliṅgaka",
+       "n": "51"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "ciraṭī-kaṅku-yaṣṭikāḥ",
+     "problem": "w shows three members but the gloss and translations give two (ciraṭī, kaṅkuyaṣṭikā). The plural -āḥ favours three: this chunk puts two-name dvandvas in the dual (śaśoraṇau 45, hariṇaiṇau 46, tittirikukkuṭau 48). Take three names.",
+     "fix": "gloss 'ciraṭī, kaṅku, yaṣṭikā'; English 'the ciraṭī, the kaṅku, the yaṣṭikā'; Hindi चिरटी, कङ्कु, यष्टिका",
+     "severity": "error",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "ciraṭī-kaṅku-yaṣṭikāḥ",
+       "field": "gloss",
+       "value": "ciraṭī, kaṅku, yaṣṭikā",
+       "n": "52"
+      },
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "the ciraṭī, the kaṅkuyaṣṭikā,",
+       "new": "the ciraṭī, the kaṅku, the yaṣṭikā,",
+       "n": "52"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "चिरटी, कङ्कुयष्टिका,",
+       "new": "चिरटी, कङ्कु, यष्टिका,",
+       "n": "52"
+      },
+      {
+       "op": "set",
+       "field": "notes",
+       "value": "Pratuda list continued. ciraṭīkaṅkuyaṣṭikāḥ is divided into three names (ciraṭī, kaṅku, yaṣṭikā), since the plural (not dual) ending suits three members, as two-name dvandvas in this chunk are dual (45, 46, 48); a division into two (ciraṭī, kaṅkuyaṣṭikā) is also possible.",
+       "n": "52"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Because they eat seizing by force, they are therefore named",
+     "problem": "'Because ... therefore' renders the reason twice; iti marks the reason and tena 'therefore' once.",
+     "fix": "They eat seizing by force (prasahya); therefore they are named seizers (prasaha).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Because they eat seizing by force, they are therefore named seizers (prasaha).",
+      "new": "They eat seizing by force (prasahya); therefore they are named seizers (prasaha).",
+      "n": "53"
+     }
+    }
+   ]
+  },
+  {
+   "n": "54",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "ānūpānūpa-",
+     "problem": "The split ānūpāḥ + anūpasaṃśrayāt is right, but regular sandhi gives ānūpā anūpa- (hiatus after the lost visarga); the printed joined form should be noted (no flag: the reading is clear).",
+     "fix": "note added",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "ānūpānūpa- = ānūpāḥ + anūpa-: after the visarga is lost the two vowels are printed joined, where regular sandhi leaves a hiatus (ānūpā anūpa-); the reading itself is clear, so no flag.",
+      "n": "54"
+     }
+    }
+   ]
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "56",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "57",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "58",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "59",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "jīrṇa",
+     "problem": "One more construal should be noted: jīrṇa as its own dvandva member, 'the aged and those afflicted with arśas, grahaṇī disorder and śoṣa'.",
+     "fix": "note added",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "jīrṇa may also be a separate member: 'for the aged (jīrṇa) and those afflicted with arśas, grahaṇī disorder and śoṣa'.",
+      "n": "59"
+     }
+    }
+   ]
+  },
+  {
+   "n": "60",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "61",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "62",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "63",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "yonau m. / aniścite m. loc. sg.",
+     "problem": "yoni is feminine; there is no need to make it masculine. aniścite agrees with ajāvike (n. loc. sg.), and yonau is a locative of respect: 'goat and sheep, being undetermined as to source (yoni) because of their mixed range'.",
+     "fix": "yonau 'as to source', f. loc. sg.; aniścite n. loc. sg. agreeing with ajāvike; English/Hindi/notes as given",
+     "severity": "error",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "yonau",
+       "field": "gram",
+       "value": "f. loc. sg. (of respect)",
+       "n": "63"
+      },
+      {
+       "op": "word",
+       "match_w": "yonau",
+       "field": "gloss",
+       "value": "as to source",
+       "n": "63"
+      },
+      {
+       "op": "word",
+       "match_w": "a-niścite",
+       "field": "gram",
+       "value": "n. loc. sg., ppp. niś-√ci, agreeing with ajāvike",
+       "n": "63"
+      },
+      {
+       "op": "word",
+       "match_w": "a-niścite",
+       "field": "gloss",
+       "value": "undetermined",
+       "n": "63"
+      },
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "In goat and sheep the source (yoni) is undetermined, since they have a mixed range.",
+       "new": "Goat and sheep (ajāvika) are undetermined as to source (yoni), since they have a mixed range.",
+       "n": "63"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "बकरे और भेड़ के विषय में, मिश्रित विचरण-क्षेत्र होने से, योनि अनिश्चित है।",
+       "new": "बकरा और भेड़, मिश्रित विचरण-क्षेत्र होने से, योनि के विषय में अनिश्चित हैं।",
+       "n": "63"
+      },
+      {
+       "op": "replace",
+       "field": "notes",
+       "old": "yonau ... aniścite is read as a locative absolute ('the source being undetermined'), with ajāvike as a neuter samāhāra locative; yoni is construed here as masculine (loc. yonau with aniścite).",
+       "new": "ajāvike aniścite is a neuter samāhāra locative with its participle ('goat and sheep, being undetermined'); yonau is a locative of respect ('as to source'), yoni keeping its feminine gender.",
+       "n": "63"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "64",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "65",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "66",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "67",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "dry land (dhanvan)",
+     "problem": "Glossary (Sū 26 ch4): dhanvan = dry region (dhanvan), Hindi धन्व देश.",
+     "fix": "dry region (dhanvan); Hindi धन्व देश",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "dry land (dhanvan)",
+       "new": "dry region (dhanvan)",
+       "n": "67"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "धन्व तथा अनूप",
+       "new": "धन्व देश तथा अनूप",
+       "n": "67"
+      },
+      {
+       "op": "word",
+       "match_w": "dhanva-anūpa-niṣevaṇāt",
+       "field": "gloss",
+       "value": "from frequenting dry region and marshland",
+       "n": "67"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "68",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "69",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "70",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "71",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "72",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "73",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "74",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "75",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "76",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "77",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "śaśaḥ svāduḥ 'sweet'",
+     "problem": "76b gives the hare's taste as kaṣāya; svādu 'sweet' as a second taste clashes. Glossary (Sū 26 ch1) allows svādu = palatable (स्वादु) outside the taste names; 'palatable' fits beside praśasta.",
+     "fix": "English 'it is palatable (svādu)'; Hindi शश स्वादु है; gloss 'palatable'; note revised",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "svāduḥ",
+       "field": "gloss",
+       "value": "palatable (svādu)",
+       "n": "77"
+      },
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "it is sweet and is praised",
+       "new": "it is palatable (svādu) and is praised",
+       "n": "77"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "शश मधुर है",
+       "new": "शश स्वादु है",
+       "n": "77"
+      },
+      {
+       "op": "set",
+       "field": "notes",
+       "value": "svādu is taken as 'palatable', since the hare's taste is given as kaṣāya in 76b; 'sweet' (a second taste) is also possible. Line b begins the description of the eṇas completed in 78a.",
+       "n": "77"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "78",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "79",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "5 errors, 17 minor issues, all with patches (no MANUAL items); no regrouping suggested. Checked all 40 units' splits, glosses, gram, Hindi and English. Main fixes: 40 kummīra flag moved to notes (dictionary-only evidence), printed kummīra kept; '(a deer)' glosses (45, 46) replaced by the text's heading 'dry-land animal'; '(a bird)' for viṣkira names (47-49) replaced by '(a scatterer)' (only the pratudas are called dvija, 53); 52 three names ciraṭī, kaṅku, yaṣṭikā (plural vs the chunk's dual two-name dvandvas); 63 yoni kept feminine (aniścite agrees with ajāvike); 77 svādu = palatable (taste is kaṣāya in 76b); 67 dhanvan = dry region (glossary). Judged ok: 58 nominative narāḥ ... ye in dative sense (anacoluthon, noted), 57/67 param with vātaharāḥ (consistent, alternative noted), 74 vipāke with rūkṣaśītalam, 43 sumukhāḥ sahacāriṇaḥ as two names (alternative noted), 54 jalecaryāt as abl. of an a-stem (uncertain, noted), 51/53 bracketed in-word variants follow the '(variant:)' rule (unbracketed reading metrical, 8 syllables). Ordinary animal words (tortoise, crab, fish, shell, conch, hare, peacock, cock, pigeon, parrot, sparrow, boar, goat, sheep, cow) kept as plain meanings, not identifications. AI review, not read by a person."
+}
