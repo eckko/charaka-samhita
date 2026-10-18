@@ -18991,5 +18991,143 @@
    "ityagniveśakṛte tantre carakapratisaṃskṛte sūtrasthāne dīrghañjīvitīyo nāma prathamo'dhyāyaḥ"
   ],
   "uncertain": []
+ },
+ {
+  "n": "66.1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kaṭvamlalavaṇāḥ",
+      "words": [
+       {
+        "w": "kaṭu-amla-lavaṇāḥ",
+        "gloss": "pungent, sour and salty",
+        "gram": "m. nom. pl. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "pittaṃ",
+      "words": [
+       {
+        "w": "pittam",
+        "gloss": "Pitta",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "svadvamlalavaṇāḥ",
+      "words": [
+       {
+        "w": "svādu-amla-lavaṇāḥ",
+        "gloss": "sweet, sour and salty",
+        "gram": "m. nom. pl. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "kapham",
+      "words": [
+       {
+        "w": "kapham",
+        "gloss": "Kapha",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "|)",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse mark, closing bracket",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "(kaṭutiktakaṣāyāśca",
+      "words": [
+       {
+        "w": "kaṭu-tikta-kaṣāyāḥ",
+        "gloss": "pungent, bitter and astringent",
+        "gram": "m. nom. pl. dvandva"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kopayanti",
+      "words": [
+       {
+        "w": "kopayanti",
+        "gloss": "aggravate, provoke",
+        "gram": "3 pl. pres. caus. √kup"
+       }
+      ]
+     },
+     {
+      "src": "samīraṇam",
+      "words": [
+       {
+        "w": "samīraṇam",
+        "gloss": "Vāta (samīraṇa, wind)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "||)",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse-end mark, closing bracket",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कटु, अम्ल और लवण रस पित्त को; मधुर, अम्ल और लवण रस कफ को; तथा कटु, तिक्त और कषाय रस वात को कुपित करते हैं।",
+  "english": "Pungent, sour and salty tastes aggravate Pitta; sweet, sour and salty aggravate Kapha; and pungent, bitter and astringent aggravate Vāta (samīraṇa).",
+  "text_flags": [
+   {
+    "src": "svadvamlalavaṇāḥ",
+    "suggest": "svādvamlalavaṇāḥ",
+    "why": "svādu + amla gives svādvamla with long ā (as in unit 66 'svādvamlalavaṇā'); the Devanagari also lacks the ā sign (स्वद्वम्ल), a typing slip; metre is unaffected (syllable count 16 either way)."
+   },
+   {
+    "src": "|)",
+    "suggest": "|",
+    "why": "Brackets are unbalanced within the lines: ')' closes line a and '(' opens line b, so the pair seems misplaced; the bracket most likely encloses the whole verse ('(kaṭvamla... ||)'). Possible typing error in the bracket placement."
+   }
+  ],
+  "notes": "The printed brackets around this verse probably mark it as an additional or doubtful verse in this edition (it stands between 66 and 67 and is numbered 66.1); its status was not checked against other editions. kopayanti governs all three subjects (pittaṃ, kapham, samīraṇam). samīraṇa is a synonym for vāyu, rendered Vāta per glossary. The verse is the counterpart of unit 66 (tastes that pacify each doṣa).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.01.66.1a",
+   "01.01.66.1b"
+  ],
+  "lines_deva": [
+   "कट्वम्ललवणाः पित्तं स्वद्वम्ललवणाः कफम् ।)",
+   "(कटुतिक्तकषायाश्च कोपयन्ति समीरणम् ॥)"
+  ],
+  "lines_iast": [
+   "kaṭvamlalavaṇāḥ pittaṃ svadvamlalavaṇāḥ kapham |)",
+   "(kaṭutiktakaṣāyāśca kopayanti samīraṇam ||)"
+  ],
+  "uncertain": []
  }
 ]

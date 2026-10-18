@@ -18,3 +18,4 @@ Draft status: AI drafts, not read by a person.
 - loha = metal (लोह), not धातु; mala of metals = dross (mala = waste only for the body)
 - mūlinī = root-drug (मूलिनी); phalinī = fruit-drug (फलिनी); sneha = fat/unctuous (स्नेह); kuṣṭha, udara, gulma kept as Sanskrit; śvāsa = dyspnoea; kāsa = cough; anuvāsana = unctuous enema; nirūha = decoction enema; śirovirecana = head-evacuation
 - Hindi keeps the Sanskrit term (e.g. क्षीर) instead of an explanation "अर्थात् …"; plant identifications in notes only, not in gloss/translation
+- samīraṇa = Vāta (samīraṇa); kopayati (causative of kup) = aggravate (कुपित करना)

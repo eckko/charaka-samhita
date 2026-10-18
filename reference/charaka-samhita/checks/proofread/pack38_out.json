@@ -1,0 +1,329 @@
+[
+ {
+  "id": "01.17.19a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "संभिद्यते 'is split' fits the head-pain description; not संपद्यते."
+ },
+ {
+  "id": "06.01.4.43a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "चिकित्सितः च, 'the moon was treated', continues the list of cures by the Ashvins."
+ },
+ {
+  "id": "06.01.4.55a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "चिकित्सितः तु with संश्रुत्य / असंश्रुत्य is grammatical and makes sense."
+ },
+ {
+  "id": "06.01.1.8b",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "लाभोपायो हि शस्तानां रसादीनां रसायनम्॥",
+  "why": "Variant-reading footnote (‘वृषतां‘ इति पा-.) with a wrong closing quote is merged into the verse line."
+ },
+ {
+  "id": "06.01.1.11c",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "(पङ्क्तिं लुम्पेत्)",
+  "why": "Stray footnote fragment 'च पा-.' (variant-reading mark), not text; delete the line."
+ },
+ {
+  "id": "06.01.1.35b",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "सेवेरन्नाभयामेते क्षुत्तृष्णोष्णार्दिताश्च ये॥)",
+  "why": "Editor's note ‘योगीन्द्रनाथसेन संमतोऽयं पाठः’. is appended to the verse; strip it."
+ },
+ {
+  "id": "06.01.3.39c",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "(पङ्क्तिं लुम्पेत्)",
+  "why": "Footnote attribution fragment (editor name) left in the text, not part of the verse; delete the line."
+ },
+ {
+  "id": "06.01.3.46c",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "(पङ्क्तिं लुम्पेत्)",
+  "why": "Footnote attribution fragment (editor name) left in the text, not part of the verse; delete the line."
+ },
+ {
+  "id": "06.01.3.51c",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "शिलाजतु कोष्णे वातहरादिक्वाथे प्रक्षिप्य अथैनं रौद्रे शोषयेत्।",
+  "why": "Gangadhara's commentary quoted inside the text (leftover footnote, should be removed); also शित्लाजतु is a broken spelling of शिलाजतु."
+ },
+ {
+  "id": "06.01.3.51e",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "(पङ्क्तिं लुम्पेत्)",
+  "why": "End of Gangadhara's commentary quote (… भावना’ इति गङ्गाधरः.), a footnote leftover, not the text."
+ },
+ {
+  "id": "06.01.4.7",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "ब्रह्मसुवर्चला नामौषधिर्या हिरण्यक्षीरा पुष्करसदृशपत्रा, आदित्यपर्णी नामौषधिर्या ‘सूर्यकान्ता’ इति विज्ञायते सुवर्णक्षीरा सूर्यमण्डलाकारपुष्पा च, नारीनामौषधिः ‘अश्वबला’ इति विज्ञायते या बल्वजसदृशपत्रा, काष्ठगोधा नामौषधिर्गोधाकारा, सर्पानामौषधिः सर्पाकारा, सोमो नामौषधिराजः पञ्चदशपर्वा स सोम इव हीयते वर्धते च, पद्मा नामौषधिः पद्माकारा पद्मरक्ता पद्मगन्धा च, अजा नामौषधिः ‘अजशृङ्गी’ इति विज्ञायते, नीला नामौषधिस्तु नीलक्षीरा नीलपुष्पा लताप्रतानबहुलेति; आसामोषधीनां यां यामेवोपलभेत तस्यास्तस्याः स्वरसस्य सौहित्यं गत्वा स्नेहभावितायामार्द्रपलाशद्रोण्यां सपिधानायां दिग्वासाः शयीत, तत्र प्रलीयते, षण्मासेन पुनः संभवति, तस्याजं पयः प्रत्यवस्थापनं; षण्मासेन देवतानुकारी भवति वयोवर्णस्वराकृतिबलप्रभाभिः, स्वयं चास्य सर्ववाचोगतानि प्रादुर्भवन्ति, दिव्यं चास्य चक्षुः श्रोत्रं च भवति, गतिर्योजनसहस्रं, दशवर्षसहस्राण्यायुरनुपद्रवं चेति॥",
+  "why": "Avagraha ऽ after visarga is impossible: the opening quote and अ were lost (‘अश्वबला’, ‘अजशृङ्गी’); also सोमो इव should be सोम इव by sandhi."
+ },
+ {
+  "id": "06.01.4.46c",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "(पङ्क्तिं लुम्पेत्)",
+  "why": "Variant-reading footnote (… च’ इति पा-.) left in the text; delete."
+ },
+ {
+  "id": "06.01.4.53c",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "(पङ्क्तिं लुम्पेत्)",
+  "why": "Footnote attribution fragment (editor name) left in the text, not part of the verse; delete the line."
+ },
+ {
+  "id": "06.01.4.55c",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "(पङ्क्तिं लुम्पेत्)",
+  "why": "Footnote attribution fragment (editor name) left in the text, not part of the verse; delete the line."
+ },
+ {
+  "id": "06.02.3.19c",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "(इति वृष्यमधुकयोगः।)",
+  "why": "Variant-reading footnote (… लिह्यात्’ इति पा-.) left before the colophon; strip it."
+ },
+ {
+  "id": "06.01.2.5a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "Prose introducer 'भवतश्चात्र---', short by nature."
+ },
+ {
+  "id": "06.01.2.7",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "Prose recipe; no visible typing error."
+ },
+ {
+  "id": "06.01.2.8",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "Prose recipe; no visible typing error."
+ },
+ {
+  "id": "06.01.2.9",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "Prose recipe; no visible typing error."
+ },
+ {
+  "id": "06.01.2.10",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "यथोक्तगुणानामामलकानां सहस्रमार्द्रपलाशद्रोण्यां सपिधानायां बाष्पमनुद्वमन्त्यामारण्यगोमयाग्निभिरुपस्वेदयेत्, तानि सुस्विन्नशीतान्युद्धृतकुलकान्यापोथ्याढकेन पिप्पलीचूर्णानामाढकेन च विडङ्गतण्डुलचूर्णानामध्यर्धेन चाढकेन शर्कराया द्वाभ्यां द्वाभ्यामाढकाभ्यां तैलस्य मधुनः सर्पिषश्च संयोज्य शुचौ दृढे घृतभाविते कुम्भे स्थापयेदेकविंशतिरात्रम्, अत ऊर्ध्वं प्रयोगः; अस्य प्रयोगाद्वर्षशतमजरमायुस्तिष्ठतीति समानं पूर्वेण॥",
+  "why": "घृतभानिते is not a word; read घृतभाविते (jar smeared with ghee, cf. स्नेहभावितस्य कुम्भस्य nearby)."
+ },
+ {
+  "id": "06.01.2.11",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "धन्वनि कुशास्तीर्णे स्निग्धकृष्णमधुरमृत्तिके सुवर्णवर्णमृत्तिके वा व्यपगतविषश्वापदपवनसलिलाग्निदोषे कर्षणवल्मीकश्मशानचैत्योषरावसथवर्जिते देशे यथर्तुसुखपवनसलिलादित्यसेविते जातान्यनुपहतान्यनध्यारूढान्यबालान्यजीर्णान्यधिगतवीर्याणि शीर्णपुराणपर्णान्यसंजातान्यपर्णानि तपसि तपस्ये वा मासे शुचिः प्रयतः कृतदेवार्चनः स्वस्ति वाचयित्वा द्विजातीन् चले सुमुहूर्ते नागबलामूलान्युद्धरेत्, तेषां सुप्रक्षालितानां त्वक्पिण्डमाम्रमात्रमक्षमात्रं वा श्लक्ष्णपिष्टमालोड्य पयसा प्रातः प्रयोजयेत्, चूर्णीकृतानि वा पिबेत् पयसा, मधुसर्पिर्भ्यां वा संयोज्य भक्षयेत्, जीर्णे च क्षीरसर्पिर्भ्यां शालिषष्टिकमश्नीयात्।",
+  "why": "कुष्ण is not a word (कृष्ण 'black soil'), and the hyphen in पर्णान्य्-असंजातान्य is leftover markup."
+ },
+ {
+  "id": "06.01.2.12",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "Prose list of ten drugs; no visible error."
+ },
+ {
+  "id": "06.01.2.13",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "Prose; no visible typing error."
+ },
+ {
+  "id": "06.01.2.14",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "भल्लातकानां जर्जरीकृतानां पिष्टस्वेदनं पूरयित्वा भूमावाकण्ठं निखातस्य स्नेहभावितस्य दृढस्योपरि कुम्भस्यारोप्योडुपेनापिधाय कृष्णमृत्तिकावलिप्तं गोमयाग्निभिरुपस्वेदयेत्; तेषां यः स्वरसः कुम्भं प्रपद्येत, तमष्टभागमधुसंप्रयुक्तं द्विगुणघृतमद्यात्; तत्प्रयोगाद्वर्षशतमजरं वयस्तिष्ठतीति समानं पूर्वेण॥",
+  "why": "समनं should be समानं, the refrain 'समानं पूर्वेण' used throughout these recipes."
+ },
+ {
+  "id": "06.01.2.15",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "Prose; no visible error."
+ },
+ {
+  "id": "06.01.2.16",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "List of Bhallataka preparations; fine."
+ },
+ {
+  "id": "06.01.2.17a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "Prose introducer, short by nature."
+ },
+ {
+  "id": "06.01.2.23a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "Prose introducer 'तत्र श्लोकः---'."
+ },
+ {
+  "id": "06.01.3.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "Chapter opening formula; fine."
+ },
+ {
+  "id": "06.01.3.3",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "करप्रचितानां यथोक्तगुणानामामलकानामुद्धृतास्थ्नां शुष्कचूर्णितानां पुनर्माघे फाल्गुने वा मासे त्रिःसप्तकृत्वः स्वरसपरिपीतानां पुनः शुष्कचूर्णीकृतानामाढकमेकं ग्राहयेत्, अथ जीवनीयानां बृंहणीयानां स्तन्यजननानां शुक्रजननानां वयःस्थापनानां षड्विरेचनशताश्रितीयोक्तानामौषधगणानां चन्दनागुरुधवतिनिशखदिरशिंशपासनसाराणां चाणुशः कृत्तानामभयाबिभीतकपिप्पलीवचाचव्यचित्रकविडङ्गानां च समस्तानामाढकमेकं दशगुणेनाम्भसा साधयेत्, तस्मिन्नाढकावशेषे रसे सुपूते तान्यामलकचूर्णानि दत्त्वा गोमयाग्निभिर्वंशविदलशरतेजनाग्निभिर्वा साधयेद्यावदपनयाद्रसस्य, तमनुपदग्धमुपहृत्यायसीषु पात्रीष्वास्तीर्य शोषयेत्, सुशुष्कं तत् कृष्णाजिनस्योपरि दृषदि श्लक्ष्णपिष्टमयःस्थाल्यां निधापयेत् सम्यक्, तच्चूर्णमयश्चूर्णाष्टभागसंप्रयुक्तं मधुसर्पिर्भ्यामग्निबलमभिसमीक्ष्य प्रयोजयेदिति॥",
+  "why": "In the list of drug groups (जीवनीय, बृंहणीय, स्तन्यजनन …) शुकजनन makes no sense; read शुक्रजनन."
+ },
+ {
+  "id": "06.01.3.4a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "Prose introducer, short by nature."
+ },
+ {
+  "id": "06.01.3.6c",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "Colophon in brackets; fine."
+ },
+ {
+  "id": "06.01.3.29c",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "Colophon in brackets; fine."
+ },
+ {
+  "id": "06.01.3.39c",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "(पङ्क्तिं लुम्पेत्)",
+  "why": "Footnote attribution fragment (editor name) left in the text, not part of the verse; delete the line."
+ },
+ {
+  "id": "06.01.3.40c",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "Colophon in brackets; fine."
+ },
+ {
+  "id": "06.01.3.46c",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "(पङ्क्तिं लुम्पेत्)",
+  "why": "Footnote attribution fragment (editor name) left in the text, not part of the verse; delete the line."
+ },
+ {
+  "id": "06.01.3.51c",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "शिलाजतु कोष्णे वातहरादिक्वाथे प्रक्षिप्य अथैनं रौद्रे शोषयेत्।",
+  "why": "Prose commentary (Gangadhara) quoted inside the verse text, not a verse line; also शित्लाजतु is a broken spelling of शिलाजतु."
+ },
+ {
+  "id": "06.01.3.51d",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "(पङ्क्तिं लुम्पेत्)",
+  "why": "Middle of Gangadhara's commentary quote (ends ‘… इति गङ्गाधरः.’), a footnote leftover, not the text."
+ },
+ {
+  "id": "06.01.3.51e",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "(पङ्क्तिं लुम्पेत्)",
+  "why": "End of Gangadhara's commentary quote, a footnote leftover, not the text."
+ },
+ {
+  "id": "06.01.3.66a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "Prose introducer 'तत्र श्लोकः---'."
+ },
+ {
+  "id": "06.01.4.3",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "Prose; no visible typing error."
+ },
+ {
+  "id": "06.01.4.4",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "Prose; no visible typing error."
+ },
+ {
+  "id": "06.01.4.5",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "तच्छ्रुत्वा विबुधपतिवचनमृषयः सर्व एवामरवरमृग्भिस्तुष्टुवुः, प्रहृष्टाश्च तद्वचनमभिननन्दुश्चेति॥",
+  "why": "एव + अमरवरम् must give एवामरवरम्; एवमरवरम् drops the long ā (Indra is अमरवर, cf. अमरगुरु)."
+ },
+ {
+  "id": "06.01.4.6",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "अथेन्द्रस्तदायुर्वेदामृतमृषिभ्यः संक्रम्योवाच---एतत् सर्वमनुष्ठेयम्, अयं च शिवः कालो रसायनानां, दिव्याश्चौषधयो हिमवत्प्रभवाः प्राप्तवीर्याः; तद्यथा---ऐन्द्री, ब्राह्मी, पयस्या, क्षीरपुष्पी, श्रावणी, महाश्रावणी, शतावरी, विदारी, जीवन्ती, पुनर्नवा, नागबला, स्थिरा, वचा, छत्रा, अतिच्छत्रा, मेदा, महामेदा, जीवनीयाश्चान्याः पयसा प्रयुक्ताः षण्मासात् परमायुर्वयश्च तरुणमनामयत्वं स्वरवर्णसंपदमुपचयं मेधां स्मृतिमुत्तमबलमिष्टांश्चापरान् भावानावहन्ति सिद्धाः॥",
+  "why": "मेहामेदा is not a word; pairs with मेदा as महामेदा, like श्रावणी/महाश्रावणी."
+ },
+ {
+  "id": "06.01.4.7",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "ब्रह्मसुवर्चला नामौषधिर्या हिरण्यक्षीरा पुष्करसदृशपत्रा, आदित्यपर्णी नामौषधिर्या ‘सूर्यकान्ता’ इति विज्ञायते सुवर्णक्षीरा सूर्यमण्डलाकारपुष्पा च, नारीनामौषधिः ‘अश्वबला’ इति विज्ञायते या बल्वजसदृशपत्रा, काष्ठगोधा नामौषधिर्गोधाकारा, सर्पानामौषधिः सर्पाकारा, सोमो नामौषधिराजः पञ्चदशपर्वा स सोम इव हीयते वर्धते च, पद्मा नामौषधिः पद्माकारा पद्मरक्ता पद्मगन्धा च, अजा नामौषधिः ‘अजशृङ्गी’ इति विज्ञायते, नीला नामौषधिस्तु नीलक्षीरा नीलपुष्पा लताप्रतानबहुलेति; आसामोषधीनां यां यामेवोपलभेत तस्यास्तस्याः स्वरसस्य सौहित्यं गत्वा स्नेहभावितायामार्द्रपलाशद्रोण्यां सपिधानायां दिग्वासाः शयीत, तत्र प्रलीयते, षण्मासेन पुनः संभवति, तस्याजं पयः प्रत्यवस्थापनं; षण्मासेन देवतानुकारी भवति वयोवर्णस्वराकृतिबलप्रभाभिः, स्वयं चास्य सर्ववाचोगतानि प्रादुर्भवन्ति, दिव्यं चास्य चक्षुः श्रोत्रं च भवति, गतिर्योजनसहस्रं, दशवर्षसहस्राण्यायुरनुपद्रवं चेति॥",
+  "why": "Prose, so length is fine, but ऽश्वबला’ / ऽजशृङ्गी’ lost the opening quote and अ (avagraha after visarga is impossible), and सोमो इव should be सोम इव."
+ },
+ {
+  "id": "06.01.4.8a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "Prose introducer, short by nature."
+ },
+ {
+  "id": "06.01.4.50b",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "किं पुनर्भिषजो मर्त्यैः पूज्याः स्युर्नातिशक्तितः॥",
+  "why": "Second pada has 6 aksharas (anushtubh needs 8) and the sentence lacks its predicate; two aksharas are missing before स्युः (पूज्याः is only a candidate)."
+ },
+ {
+  "id": "06.01.4.53c",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "(पङ्क्तिं लुम्पेत्)",
+  "why": "Footnote attribution fragment (editor name) left in the text, not part of the verse; delete the line."
+ },
+ {
+  "id": "06.01.4.55c",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "(पङ्क्तिं लुम्पेत्)",
+  "why": "Footnote attribution fragment (editor name) left in the text, not part of the verse; delete the line."
+ },
+ {
+  "id": "06.01.4.63a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "Prose introducer 'तत्र श्लोकौ---'."
+ }
+]
