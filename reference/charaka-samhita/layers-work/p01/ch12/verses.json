@@ -1,0 +1,5914 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athāto",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now",
+        "gram": "ind."
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātakalākalīyamadhyāyaṃ",
+      "words": [
+       {
+        "w": "vāta-kalā-akalīyam",
+        "gloss": "on the aspects and non-aspects of Vāta (title)",
+        "gram": "m. acc. sg., tat-puruṣa"
+       },
+       {
+        "w": "adhyāyam",
+        "gloss": "chapter",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyāsyāmaḥ",
+      "words": [
+       {
+        "w": "vyākhyāsyāmaḥ",
+        "gloss": "we shall expound",
+        "gram": "1 pl. fut. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब इसलिए हम वातकलाकलीय नामक अध्याय की व्याख्या करेंगे।",
+  "english": "Now, therefore, we shall expound the chapter on the aspects and non-aspects of Vāta (Vātakalākalīya).",
+  "text_flags": [],
+  "notes": "The title is read as vāta + kalā (\"aspect, part\") + akalā (\"non-aspect\") + the suffix -īya; the exact sense of kalā/akalā is not explained in the line.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.12.1"
+  ],
+  "lines_deva": [
+   "अथातो वातकलाकलीयमध्यायं व्याख्यास्यामः"
+  ],
+  "lines_iast": [
+   "athāto vātakalākalīyamadhyāyaṃ vyākhyāsyāmaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ha",
+      "words": [
+       {
+        "w": "ha",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "smāha",
+      "words": [
+       {
+        "w": "sma",
+        "gloss": "(marks past)",
+        "gram": "ind."
+       },
+       {
+        "w": "āha",
+        "gloss": "said",
+        "gram": "3 sg. pf. √ah"
+       }
+      ]
+     },
+     {
+      "src": "bhagavānātreyaḥ",
+      "words": [
+       {
+        "w": "bhagavān",
+        "gloss": "the venerable",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ātreyaḥ",
+        "gloss": "Ātreya (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ऐसा भगवान् आत्रेय ने कहा था।",
+  "english": "Thus indeed spoke the venerable Ātreya.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.12.2"
+  ],
+  "lines_deva": [
+   "इति ह स्माह भगवानात्रेयः"
+  ],
+  "lines_iast": [
+   "iti ha smāha bhagavānātreyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vātakalākalājñānamadhikṛtya",
+      "words": [
+       {
+        "w": "vāta-kalā-akalā-jñānam",
+        "gloss": "knowledge of Vāta's aspects and non-aspects",
+        "gram": "n. acc. sg., tat-puruṣa with dvandva"
+       },
+       {
+        "w": "adhikṛtya",
+        "gloss": "concerning",
+        "gram": "abs. adhi-√kṛ"
+       }
+      ]
+     },
+     {
+      "src": "parasparamatāni",
+      "words": [
+       {
+        "w": "paraspara-matāni",
+        "gloss": "one another's views",
+        "gram": "n. acc. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "jijñāsamānāḥ",
+      "words": [
+       {
+        "w": "jijñāsamānāḥ",
+        "gloss": "wishing to know",
+        "gram": "m. nom. pl., des. pres. part. √jñā"
+       }
+      ]
+     },
+     {
+      "src": "samupaviśya",
+      "words": [
+       {
+        "w": "samupaviśya",
+        "gloss": "having sat together",
+        "gram": "abs. sam-upa-√viś"
+       }
+      ]
+     },
+     {
+      "src": "maharṣayaḥ",
+      "words": [
+       {
+        "w": "maharṣayaḥ",
+        "gloss": "great sages",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "papracchuranyo'nyaṃ",
+      "words": [
+       {
+        "w": "papracchuḥ",
+        "gloss": "asked",
+        "gram": "3 pl. pf. √prach"
+       },
+       {
+        "w": "anyaḥ",
+        "gloss": "one",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "anyam",
+        "gloss": "another",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kiṃguṇo",
+      "words": [
+       {
+        "w": "kim-guṇaḥ",
+        "gloss": "of what qualities",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vāyuḥ,",
+      "words": [
+       {
+        "w": "vāyuḥ",
+        "gloss": "Vāta (vāyu)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kimasya",
+      "words": [
+       {
+        "w": "kim",
+        "gloss": "what",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "asya",
+        "gloss": "its",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakopaṇam,",
+      "words": [
+       {
+        "w": "prakopaṇam",
+        "gloss": "aggravating factor",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "upaśamanāni",
+      "words": [
+       {
+        "w": "upaśamanāni",
+        "gloss": "pacifying factors",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vāsya",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "its",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāni,",
+      "words": [
+       {
+        "w": "kāni",
+        "gloss": "which",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kathaṃ",
+      "words": [
+       {
+        "w": "katham",
+        "gloss": "how",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cainamasaṅghātavanatamanavasthitamanāsadya",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "enam",
+        "gloss": "it",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "asaṅghātam",
+        "gloss": "non-compact",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "anavasthitam",
+        "gloss": "unstable",
+        "gram": "m. acc. sg., ppp. an-ava-√sthā"
+       },
+       {
+        "w": "anāsadya",
+        "gloss": "without reaching",
+        "gram": "abs. an-ā-√sad"
+       }
+      ]
+     },
+     {
+      "src": "prakopaṇapraśamanāni",
+      "words": [
+       {
+        "w": "prakopaṇa-praśamanāni",
+        "gloss": "aggravating and pacifying factors",
+        "gram": "n. nom. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "prakopayanti",
+      "words": [
+       {
+        "w": "prakopayanti",
+        "gloss": "aggravate",
+        "gram": "3 pl. pres. caus. pra-√kup"
+       }
+      ]
+     },
+     {
+      "src": "praśamayanti",
+      "words": [
+       {
+        "w": "praśamayanti",
+        "gloss": "pacify",
+        "gram": "3 pl. pres. caus. pra-√śam"
+       }
+      ]
+     },
+     {
+      "src": "vā,",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kāni",
+      "words": [
+       {
+        "w": "kāni",
+        "gloss": "which",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "cāsya",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "its",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "kupitākupitasya",
+      "words": [
+       {
+        "w": "kupita-akupitasya",
+        "gloss": "aggravated and unaggravated",
+        "gram": "m. gen. sg., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "śarīrāśarīracarasya",
+      "words": [
+       {
+        "w": "śarīra-aśarīra-carasya",
+        "gloss": "moving in the body and outside it",
+        "gram": "m. gen. sg., tat-puruṣa with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "śarīreṣu",
+      "words": [
+       {
+        "w": "śarīreṣu",
+        "gloss": "in bodies",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "carataḥ",
+      "words": [
+       {
+        "w": "carataḥ",
+        "gloss": "moving",
+        "gram": "m. gen. sg., pres. part. √car"
+       }
+      ]
+     },
+     {
+      "src": "karmāṇi",
+      "words": [
+       {
+        "w": "karmāṇi",
+        "gloss": "actions",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bahiḥśarīrebhyo",
+      "words": [
+       {
+        "w": "bahiḥ",
+        "gloss": "outside",
+        "gram": "ind."
+       },
+       {
+        "w": "śarīrebhyaḥ",
+        "gloss": "bodies",
+        "gram": "n. abl. pl."
+       }
+      ]
+     },
+     {
+      "src": "veti",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "(end of the questions)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वात की कला और अकला के ज्ञान को लेकर, एक-दूसरे के मतों को जानने की इच्छा से महर्षियों ने साथ बैठकर एक-दूसरे से पूछा: वायु किन गुणों वाला है, इसका प्रकोपण क्या है, अथवा इसके उपशमन कौन-से हैं? और असंघात तथा अनवस्थित इस वायु तक बिना पहुँचे प्रकोपण और प्रशमन करने वाले पदार्थ इसे कैसे कुपित या शान्त करते हैं? और कुपित तथा अकुपित, शरीर में और शरीर के बाहर विचरने वाले इस वायु के, शरीरों में अथवा शरीरों के बाहर विचरते हुए, कर्म कौन-से हैं?",
+  "english": "Concerning the knowledge of the aspects and non-aspects of Vāta, the great sages, wishing to know one another's views, sat together and asked one another: Of what qualities is Vāta (vāyu)? What aggravates it, or what pacifies it? And how do the aggravating and pacifying factors aggravate or pacify it, which is non-compact and unstable, without reaching it? And what are the actions of it, aggravated or unaggravated, moving in the body and outside the body, as it moves in bodies or outside bodies?",
+  "text_flags": [
+   {
+    "src": "cainamasaṅghātavanatamanavasthitamanāsadya",
+    "suggest": "cainamasaṅghātamanavasthitamanāsadya",
+    "why": "possible typo: \"vanata\" gives no sense here; the same question is answered in P1 with \"asaṅghātamanavasthitamanāsādya\", without it. The split above leaves \"vanata\" out."
+   }
+  ],
+  "notes": "anāsadya (here) and anāsādya (P1) are both read as negated absolutives \"without reaching/contacting\". asaṅghāta is taken as \"non-compact\" (not solid). The split omits the doubtful syllables \"vanata\" (see text_flags).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.12.3"
+  ],
+  "lines_deva": [
+   "वातकलाकलाज्ञानमधिकृत्य परस्परमतानि जिज्ञासमानाः समुपविश्य महर्षयः पप्रच्छुरन्योऽन्यं किंगुणो वायुः, किमस्य प्रकोपणम्, उपशमनानि वास्य कानि, कथं चैनमसङ्घातवनतमनवस्थितमनासद्य प्रकोपणप्रशमनानि प्रकोपयन्ति प्रशमयन्ति वा, कानि चास्य कुपिताकुपितस्य शरीराशरीरचरस्य शरीरेषु चरतः कर्माणि बहिःशरीरेभ्यो वेति"
+  ],
+  "lines_iast": [
+   "vātakalākalājñānamadhikṛtya parasparamatāni jijñāsamānāḥ samupaviśya maharṣayaḥ papracchuranyo'nyaṃ kiṃguṇo vāyuḥ, kimasya prakopaṇam, upaśamanāni vāsya kāni, kathaṃ cainamasaṅghātavanatamanavasthitamanāsadya prakopaṇapraśamanāni prakopayanti praśamayanti vā, kāni cāsya kupitākupitasya śarīrāśarīracarasya śarīreṣu carataḥ karmāṇi bahiḥśarīrebhyo veti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "atrovāca",
+      "words": [
+       {
+        "w": "atra",
+        "gloss": "here, on this",
+        "gram": "ind."
+       },
+       {
+        "w": "uvāca",
+        "gloss": "said",
+        "gram": "3 sg. pf. √vac"
+       }
+      ]
+     },
+     {
+      "src": "kuśaḥ",
+      "words": [
+       {
+        "w": "kuśaḥ",
+        "gloss": "Kuśa (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sāṅkṛtyāyanaḥ",
+      "words": [
+       {
+        "w": "sāṅkṛtyāyanaḥ",
+        "gloss": "Sāṅkṛtyāyana (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rūkṣalaghuśītadāruṇakharaviśadāḥ",
+      "words": [
+       {
+        "w": "rūkṣa-laghu-śīta-dāruṇa-khara-viśadāḥ",
+        "gloss": "dry, light, cold, harsh, rough, non-slimy",
+        "gram": "m. nom. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "ṣaḍime",
+      "words": [
+       {
+        "w": "ṣaṭ",
+        "gloss": "six",
+        "gram": "nom. pl."
+       },
+       {
+        "w": "ime",
+        "gloss": "these",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vātaguṇā",
+      "words": [
+       {
+        "w": "vāta-guṇāḥ",
+        "gloss": "qualities of Vāta",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhavanti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस पर कुश सांकृत्यायन ने कहा: रूक्ष, लघु, शीत, दारुण, खर और विशद, ये छह वात के गुण हैं।",
+  "english": "On this Kuśa Sāṅkṛtyāyana said: Dry, light, cold, harsh, rough and non-slimy (viśada): these six are the qualities of Vāta.",
+  "text_flags": [],
+  "notes": "viśada is rendered \"non-slimy\" (clear, the opposite of slimy, cf. picchila in P1); dāruṇa \"harsh\".",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.12.4"
+  ],
+  "lines_deva": [
+   "अत्रोवाच कुशः साङ्कृत्यायनः रूक्षलघुशीतदारुणखरविशदाः षडिमे वातगुणा भवन्ति"
+  ],
+  "lines_iast": [
+   "atrovāca kuśaḥ sāṅkṛtyāyanaḥ rūkṣalaghuśītadāruṇakharaviśadāḥ ṣaḍime vātaguṇā bhavanti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tacchrutvā",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "śrutvā",
+        "gloss": "having heard",
+        "gram": "abs. √śru"
+       }
+      ]
+     },
+     {
+      "src": "vākyaṃ",
+      "words": [
+       {
+        "w": "vākyam",
+        "gloss": "statement",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kumāraśirā",
+      "words": [
+       {
+        "w": "kumāraśirāḥ",
+        "gloss": "Kumāraśiras (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bharadvāja",
+      "words": [
+       {
+        "w": "bharadvājaḥ",
+        "gloss": "Bharadvāja (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "uvāca",
+      "words": [
+       {
+        "w": "uvāca",
+        "gloss": "said",
+        "gram": "3 sg. pf. √vac"
+       }
+      ]
+     },
+     {
+      "src": "evametadyathā",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "so",
+        "gram": "ind."
+       },
+       {
+        "w": "etat",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhagavānāha,",
+      "words": [
+       {
+        "w": "bhagavān",
+        "gloss": "the venerable one",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "āha",
+        "gloss": "has said",
+        "gram": "3 sg. pf. √ah"
+       }
+      ]
+     },
+     {
+      "src": "eta",
+      "words": [
+       {
+        "w": "ete",
+        "gloss": "these",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "just, indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātaguṇā",
+      "words": [
+       {
+        "w": "vāta-guṇāḥ",
+        "gloss": "qualities of Vāta",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhavanti,",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "it",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvevaṃguṇairevaṃdravyairevaṃprabhāvaiśca",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "evam-guṇaiḥ",
+        "gloss": "of such qualities",
+        "gram": "n. inst. pl., bahuvrīhi"
+       },
+       {
+        "w": "evam-dravyaiḥ",
+        "gloss": "of such substances",
+        "gram": "n. inst. pl., bahuvrīhi"
+       },
+       {
+        "w": "evam-prabhāvaiḥ",
+        "gloss": "of such effects",
+        "gram": "n. inst. pl., bahuvrīhi"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "karmabhirabhyasyamānairvāyuḥ",
+      "words": [
+       {
+        "w": "karmabhiḥ",
+        "gloss": "by actions",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "abhyasyamānaiḥ",
+        "gloss": "being repeatedly used",
+        "gram": "n. inst. pl., pres. pass. part. abhi-√as"
+       },
+       {
+        "w": "vāyuḥ",
+        "gloss": "Vāta (vāyu)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakopamāpadyate,",
+      "words": [
+       {
+        "w": "prakopam",
+        "gloss": "aggravation",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āpadyate",
+        "gloss": "attains",
+        "gram": "3 sg. pres. ā-√pad"
+       }
+      ]
+     },
+     {
+      "src": "samānaguṇābhyāso",
+      "words": [
+       {
+        "w": "samāna-guṇa-abhyāsaḥ",
+        "gloss": "repeated use of similar qualities",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dhātūnāṃ",
+      "words": [
+       {
+        "w": "dhātūnām",
+        "gloss": "of the dhātus",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "vṛddhikāraṇamiti",
+      "words": [
+       {
+        "w": "vṛddhi-kāraṇam",
+        "gloss": "cause of increase",
+        "gram": "n. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "iti",
+        "gloss": "(end of speech)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह वचन सुनकर कुमारशिरा भरद्वाज ने कहा: यह ऐसा ही है जैसा भगवान् ने कहा है; ये ही वात के गुण हैं; परन्तु वह वायु ऐसे गुणों वाले, ऐसे द्रव्यों वाले और ऐसे प्रभावों वाले कर्मों का बार-बार सेवन किए जाने से प्रकोप को प्राप्त होता है; क्योंकि समान गुणों का अभ्यास धातुओं की वृद्धि का कारण है।",
+  "english": "Having heard that statement, Kumāraśiras Bharadvāja said: It is so, as the venerable one has said; these indeed are the qualities of Vāta. But that Vāta (vāyu) becomes aggravated by actions of such qualities, such substances and such effects (prabhāva) when they are repeatedly practised; for repeated use of similar qualities is the cause of increase of the dhātus.",
+  "text_flags": [],
+  "notes": "evaṃguṇaiḥ, evaṃdravyaiḥ, evaṃprabhāvaiḥ are taken as bahuvrīhis qualifying karmabhiḥ; they can also be read as nouns (\"by such qualities, such substances, such effects, and by actions\"). The general rule on dhātus is given as the reason for Vāta's aggravation.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.12.5"
+  ],
+  "lines_deva": [
+   "तच्छ्रुत्वा वाक्यं कुमारशिरा भरद्वाज उवाच एवमेतद्यथा भगवानाह, एत एव वातगुणा भवन्ति, स त्वेवंगुणैरेवंद्रव्यैरेवंप्रभावैश्च कर्मभिरभ्यस्यमानैर्वायुः प्रकोपमापद्यते, समानगुणाभ्यासो हि धातूनां वृद्धिकारणमिति"
+  ],
+  "lines_iast": [
+   "tacchrutvā vākyaṃ kumāraśirā bharadvāja uvāca evametadyathā bhagavānāha, eta eva vātaguṇā bhavanti, sa tvevaṃguṇairevaṃdravyairevaṃprabhāvaiśca karmabhirabhyasyamānairvāyuḥ prakopamāpadyate, samānaguṇābhyāso hi dhātūnāṃ vṛddhikāraṇamiti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tacchrutvā",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "śrutvā",
+        "gloss": "having heard",
+        "gram": "abs. √śru"
+       }
+      ]
+     },
+     {
+      "src": "vākyaṃ",
+      "words": [
+       {
+        "w": "vākyam",
+        "gloss": "statement",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāṅkāyano",
+      "words": [
+       {
+        "w": "kāṅkāyanaḥ",
+        "gloss": "Kāṅkāyana (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bāhlīkabhiṣaguvāca",
+      "words": [
+       {
+        "w": "bāhlīka-bhiṣak",
+        "gloss": "physician from Bāhlīka",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "uvāca",
+        "gloss": "said",
+        "gram": "3 sg. pf. √vac"
+       }
+      ]
+     },
+     {
+      "src": "evametadyathā",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "so",
+        "gram": "ind."
+       },
+       {
+        "w": "etat",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhagavānāha,",
+      "words": [
+       {
+        "w": "bhagavān",
+        "gloss": "the venerable one",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "āha",
+        "gloss": "has said",
+        "gram": "3 sg. pf. √ah"
+       }
+      ]
+     },
+     {
+      "src": "etānyeva",
+      "words": [
+       {
+        "w": "etāni",
+        "gloss": "these",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "eva",
+        "gloss": "just, indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātaprakopaṇāni",
+      "words": [
+       {
+        "w": "vāta-prakopaṇāni",
+        "gloss": "aggravators of Vāta",
+        "gram": "n. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhavanti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "ato",
+      "words": [
+       {
+        "w": "ataḥ",
+        "gloss": "than these",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viparītāni",
+      "words": [
+       {
+        "w": "viparītāni",
+        "gloss": "opposite",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vātasya",
+      "words": [
+       {
+        "w": "vātasya",
+        "gloss": "of Vāta",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "praśamanāni",
+      "words": [
+       {
+        "w": "praśamanāni",
+        "gloss": "pacifiers",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhavanti,",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "prakopaṇaviparyayo",
+      "words": [
+       {
+        "w": "prakopaṇa-viparyayaḥ",
+        "gloss": "the reverse of the aggravators",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dhātūnāṃ",
+      "words": [
+       {
+        "w": "dhātūnām",
+        "gloss": "of the dhātus",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "praśamakāraṇamiti",
+      "words": [
+       {
+        "w": "praśama-kāraṇam",
+        "gloss": "cause of pacification",
+        "gram": "n. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "iti",
+        "gloss": "(end of speech)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह वचन सुनकर बाह्लीक के वैद्य कांकायन ने कहा: यह ऐसा ही है जैसा भगवान् ने कहा है; ये ही वात के प्रकोपण हैं, इनसे विपरीत वात के प्रशमन हैं; क्योंकि प्रकोपण का विपर्यय धातुओं के प्रशमन का कारण है।",
+  "english": "Having heard that statement, Kāṅkāyana, the physician from Bāhlīka, said: It is so, as the venerable one has said; these indeed are the aggravators of Vāta, and their opposites are the pacifiers of Vāta; for the reverse of the aggravators is the cause of pacification of the dhātus.",
+  "text_flags": [],
+  "notes": "Bāhlīka is a place name; ataḥ is read as \"than these\" (ablative sense with viparīta).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.12.6"
+  ],
+  "lines_deva": [
+   "तच्छ्रुत्वा वाक्यं काङ्कायनो बाह्लीकभिषगुवाच एवमेतद्यथा भगवानाह, एतान्येव वातप्रकोपणानि भवन्ति अतो विपरीतानि वातस्य प्रशमनानि भवन्ति, प्रकोपणविपर्ययो हि धातूनां प्रशमकारणमिति"
+  ],
+  "lines_iast": [
+   "tacchrutvā vākyaṃ kāṅkāyano bāhlīkabhiṣaguvāca evametadyathā bhagavānāha, etānyeva vātaprakopaṇāni bhavanti ato viparītāni vātasya praśamanāni bhavanti, prakopaṇaviparyayo hi dhātūnāṃ praśamakāraṇamiti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tacchrutvā",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "śrutvā",
+        "gloss": "having heard",
+        "gram": "abs. √śru"
+       }
+      ]
+     },
+     {
+      "src": "vākyaṃ",
+      "words": [
+       {
+        "w": "vākyam",
+        "gloss": "statement",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "baḍiśo",
+      "words": [
+       {
+        "w": "baḍiśaḥ",
+        "gloss": "Baḍiśa (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhāmārgava",
+      "words": [
+       {
+        "w": "dhāmārgavaḥ",
+        "gloss": "Dhāmārgava (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "uvāca",
+      "words": [
+       {
+        "w": "uvāca",
+        "gloss": "said",
+        "gram": "3 sg. pf. √vac"
+       }
+      ]
+     },
+     {
+      "src": "evametadyathā",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "so",
+        "gram": "ind."
+       },
+       {
+        "w": "etat",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhagavānāha,",
+      "words": [
+       {
+        "w": "bhagavān",
+        "gloss": "the venerable one",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "āha",
+        "gloss": "has said",
+        "gram": "3 sg. pf. √ah"
+       }
+      ]
+     },
+     {
+      "src": "etānyeva",
+      "words": [
+       {
+        "w": "etāni",
+        "gloss": "these",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "eva",
+        "gloss": "just, indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātaprakopapraśamanāni",
+      "words": [
+       {
+        "w": "vāta-prakopa-praśamanāni",
+        "gloss": "aggravators and pacifiers of Vāta",
+        "gram": "n. nom. pl., tat-puruṣa with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "bhavanti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह वचन सुनकर बडिश धामार्गव ने कहा: यह ऐसा ही है जैसा भगवान् ने कहा है; ये ही वात के प्रकोपण और प्रशमन हैं।",
+  "english": "Having heard that statement, Baḍiśa Dhāmārgava said: It is so, as the venerable one has said; these indeed are the aggravators and pacifiers of Vāta.",
+  "text_flags": [],
+  "notes": "GROUPING: unit 7 ends with a single daṇḍa; Baḍiśa's speech continues in P1, which belongs to the same paragraph. vātaprakopapraśamanāni can also be read \"the aggravators and the pacifiers of Vāta's aggravation\".",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.12.7"
+  ],
+  "lines_deva": [
+   "तच्छ्रुत्वा वाक्यं बडिशो धामार्गव उवाच एवमेतद्यथा भगवानाह, एतान्येव वातप्रकोपप्रशमनानि भवन्ति"
+  ],
+  "lines_iast": [
+   "tacchrutvā vākyaṃ baḍiśo dhāmārgava uvāca evametadyathā bhagavānāha, etānyeva vātaprakopapraśamanāni bhavanti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "P1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "how",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hyenamasaṅghātamanavasthitamanāsādya",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "now",
+        "gram": "ind."
+       },
+       {
+        "w": "enam",
+        "gloss": "it",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "asaṅghātam",
+        "gloss": "non-compact",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "anavasthitam",
+        "gloss": "unstable",
+        "gram": "m. acc. sg., ppp. an-ava-√sthā"
+       },
+       {
+        "w": "anāsādya",
+        "gloss": "without reaching",
+        "gram": "abs. an-ā-√sad (caus.)"
+       }
+      ]
+     },
+     {
+      "src": "prakopaṇapraśamanāni",
+      "words": [
+       {
+        "w": "prakopaṇa-praśamanāni",
+        "gloss": "aggravating and pacifying factors",
+        "gram": "n. nom. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "prakopayanti",
+      "words": [
+       {
+        "w": "prakopayanti",
+        "gloss": "aggravate",
+        "gram": "3 pl. pres. caus. pra-√kup"
+       }
+      ]
+     },
+     {
+      "src": "praśamayanti",
+      "words": [
+       {
+        "w": "praśamayanti",
+        "gloss": "pacify",
+        "gram": "3 pl. pres. caus. pra-√śam"
+       }
+      ]
+     },
+     {
+      "src": "vā,",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tathānuvyākhyāsyāmaḥ",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "so",
+        "gram": "ind."
+       },
+       {
+        "w": "anuvyākhyāsyāmaḥ",
+        "gloss": "we shall explain",
+        "gram": "1 pl. fut. anu-vi-ā-√khyā"
+       }
+      ]
+     },
+     {
+      "src": "vātaprakopaṇāni",
+      "words": [
+       {
+        "w": "vāta-prakopaṇāni",
+        "gloss": "aggravators of Vāta",
+        "gram": "n. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "khalu",
+      "words": [
+       {
+        "w": "khalu",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rūkṣalaghuśītadāruṇakharaviśadaśuṣirakarāṇi",
+      "words": [
+       {
+        "w": "rūkṣa-laghu-śīta-dāruṇa-khara-viśada-śuṣira-karāṇi",
+        "gloss": "producing dryness, lightness, cold, harshness, roughness, non-sliminess and porosity",
+        "gram": "n. nom. pl., upapada tat-puruṣa with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "śarīrāṇāṃ,",
+      "words": [
+       {
+        "w": "śarīrāṇām",
+        "gloss": "of bodies",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "tathāvidheṣu",
+      "words": [
+       {
+        "w": "tathā-vidheṣu",
+        "gloss": "of such kind",
+        "gram": "n. loc. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "śarīreṣu",
+      "words": [
+       {
+        "w": "śarīreṣu",
+        "gloss": "in bodies",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vāyurāśrayaṃ",
+      "words": [
+       {
+        "w": "vāyuḥ",
+        "gloss": "Vāta (vāyu)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "āśrayam",
+        "gloss": "lodging",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gatvāpyāyamānaḥ",
+      "words": [
+       {
+        "w": "gatvā",
+        "gloss": "having gone to",
+        "gram": "abs. √gam"
+       },
+       {
+        "w": "āpyāyamānaḥ",
+        "gloss": "growing",
+        "gram": "m. nom. sg., pres. part. ā-√pyai"
+       }
+      ]
+     },
+     {
+      "src": "prakopamāpadyate;",
+      "words": [
+       {
+        "w": "prakopam",
+        "gloss": "aggravation",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āpadyate",
+        "gloss": "attains",
+        "gram": "3 sg. pres. ā-√pad"
+       }
+      ]
+     },
+     {
+      "src": "vātapraśamanāni",
+      "words": [
+       {
+        "w": "vāta-praśamanāni",
+        "gloss": "pacifiers of Vāta",
+        "gram": "n. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "on the other hand",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "snighdagurūṣṇaślakṣṇamṛdupicchilaghanakarāṇi",
+      "words": [
+       {
+        "w": "snigdha-guru-uṣṇa-ślakṣṇa-mṛdu-picchila-ghana-karāṇi",
+        "gloss": "producing unctuousness, heaviness, heat, smoothness, softness, sliminess and compactness",
+        "gram": "n. nom. pl., upapada tat-puruṣa with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "śarīrāṇāṃ",
+      "words": [
+       {
+        "w": "śarīrāṇām",
+        "gloss": "of bodies",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "tathāvidheṣu",
+      "words": [
+       {
+        "w": "tathā-vidheṣu",
+        "gloss": "of such kind",
+        "gram": "n. loc. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "śarīreṣu",
+      "words": [
+       {
+        "w": "śarīreṣu",
+        "gloss": "in bodies",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vāyurasajyamānaścaran",
+      "words": [
+       {
+        "w": "vāyuḥ",
+        "gloss": "Vāta (vāyu)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "asajyamānaḥ",
+        "gloss": "not getting attached",
+        "gram": "m. nom. sg., pres. pass. part. a-√sañj"
+       },
+       {
+        "w": "caran",
+        "gloss": "moving",
+        "gram": "m. nom. sg., pres. part. √car"
+       }
+      ]
+     },
+     {
+      "src": "praśāntimāpadyate",
+      "words": [
+       {
+        "w": "praśāntim",
+        "gloss": "calm",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "āpadyate",
+        "gloss": "attains",
+        "gram": "3 sg. pres. ā-√pad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिस प्रकार प्रकोपण और प्रशमन करने वाले पदार्थ इस असंघात और अनवस्थित वायु तक बिना पहुँचे इसे कुपित या शान्त करते हैं, उसे हम आगे समझाएँगे। वात के प्रकोपण शरीरों में रूक्षता, लघुता, शीतता, दारुणता, खरता, विशदता और सुषिरता उत्पन्न करते हैं; ऐसे शरीरों में वायु आश्रय पाकर बढ़ता हुआ प्रकोप को प्राप्त होता है। वात के प्रशमन, इसके विपरीत, शरीरों में स्निग्धता, गुरुता, उष्णता, श्लक्ष्णता, मृदुता, पिच्छिलता और घनता उत्पन्न करते हैं; ऐसे शरीरों में वायु बिना अटके विचरता हुआ शान्ति को प्राप्त होता है।",
+  "english": "How the aggravating and pacifying factors aggravate or pacify it, which is non-compact and unstable, without reaching it, we shall now explain. The aggravators of Vāta produce in bodies dryness, lightness, cold, harshness, roughness, non-sliminess and porosity; in bodies of that kind Vāta (vāyu), having found a lodging and growing, becomes aggravated. The pacifiers of Vāta, on the other hand, produce in bodies unctuousness, heaviness, heat, smoothness, softness, sliminess and compactness; in bodies of that kind Vāta, moving without getting attached, becomes calm.",
+  "text_flags": [
+   {
+    "src": "snighdagurūṣṇaślakṣṇamṛdupicchilaghanakarāṇi",
+    "suggest": "snigdhagurūṣṇaślakṣṇamṛdupicchilaghanakarāṇi",
+    "why": "\"snighda\" is not a word; snigdha \"unctuous\" is the opposite of rūkṣa listed earlier in the same unit."
+   }
+  ],
+  "notes": "GROUPING: P1 continues Baḍiśa's speech from unit 7 (same paragraph). The -kara compounds are read as \"producing ... in bodies\" with śarīrāṇām as objective genitive.",
+  "confidence": "medium",
+  "type": "prose",
+  "line_ids": [
+   "01.12.P1"
+  ],
+  "lines_deva": [
+   "यथा ह्येनमसङ्घातमनवस्थितमनासाद्य प्रकोपणप्रशमनानि प्रकोपयन्ति प्रशमयन्ति वा, तथानुव्याख्यास्यामः वातप्रकोपणानि खलु रूक्षलघुशीतदारुणखरविशदशुषिरकराणि शरीराणां, तथाविधेषु शरीरेषु वायुराश्रयं गत्वाप्यायमानः प्रकोपमापद्यते; वातप्रशमनानि पुनः स्निघ्दगुरूष्णश्लक्ष्णमृदुपिच्छिलघनकराणि शरीराणां तथाविधेषु शरीरेषु वायुरसज्यमानश्चरन् प्रशान्तिमापद्यते"
+  ],
+  "lines_iast": [
+   "yathā hyenamasaṅghātamanavasthitamanāsādya prakopaṇapraśamanāni prakopayanti praśamayanti vā, tathānuvyākhyāsyāmaḥ vātaprakopaṇāni khalu rūkṣalaghuśītadāruṇakharaviśadaśuṣirakarāṇi śarīrāṇāṃ, tathāvidheṣu śarīreṣu vāyurāśrayaṃ gatvāpyāyamānaḥ prakopamāpadyate; vātapraśamanāni punaḥ snighdagurūṣṇaślakṣṇamṛdupicchilaghanakarāṇi śarīrāṇāṃ tathāvidheṣu śarīreṣu vāyurasajyamānaścaran praśāntimāpadyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tacchrutvā",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "śrutvā",
+        "gloss": "having heard",
+        "gram": "abs. √śru"
+       }
+      ]
+     },
+     {
+      "src": "baḍiśavacanamavitathamṛṣigaṇairanumatamuvāca",
+      "words": [
+       {
+        "w": "baḍiśa-vacanam",
+        "gloss": "Baḍiśa's statement",
+        "gram": "n. acc. sg., tat-puruṣa"
+       },
+       {
+        "w": "avitatham",
+        "gloss": "true",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ṛṣi-gaṇaiḥ",
+        "gloss": "by the groups of sages",
+        "gram": "m. inst. pl., tat-puruṣa"
+       },
+       {
+        "w": "anumatam",
+        "gloss": "approved",
+        "gram": "n. acc. sg., ppp. anu-√man"
+       },
+       {
+        "w": "uvāca",
+        "gloss": "said",
+        "gram": "3 sg. pf. √vac"
+       }
+      ]
+     },
+     {
+      "src": "vāryovido",
+      "words": [
+       {
+        "w": "vāryovidaḥ",
+        "gloss": "Vāryovida (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājarṣiḥ",
+      "words": [
+       {
+        "w": "rājarṣiḥ",
+        "gloss": "the royal sage",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "evameta",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "so",
+        "gram": "ind."
+       },
+       {
+        "w": "etat",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sasrvamanapavādaṃ",
+      "words": [
+       {
+        "w": "sarvam",
+        "gloss": "all",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "anapavādam",
+        "gloss": "beyond reproach",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhagavānāha",
+      "words": [
+       {
+        "w": "bhagavān",
+        "gloss": "the venerable one",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "āha",
+        "gloss": "has said",
+        "gram": "3 sg. pf. √ah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बडिश के उस सत्य और ऋषिगणों द्वारा अनुमोदित वचन को सुनकर राजर्षि वार्योविद ने कहा: यह सब ऐसा ही है, निर्दोष है, जैसा भगवान् ने कहा है।",
+  "english": "Having heard that true statement of Baḍiśa, approved by the groups of sages, the royal sage Vāryovida said: All this is so, beyond reproach, as the venerable one has said.",
+  "text_flags": [
+   {
+    "src": "evameta",
+    "suggest": "evametat",
+    "why": "final t of etat is missing; before the following s it would stay as t (etat sarvam)."
+   },
+   {
+    "src": "sasrvamanapavādaṃ",
+    "suggest": "sarvamanapavādaṃ",
+    "why": "\"sasrvam\" is not a word; sarvam \"all\" fits the sense."
+   }
+  ],
+  "notes": "GROUPING: unit 8 ends with a single daṇḍa; Vāryovida's speech continues through P2 to P5, one paragraph.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.12.8"
+  ],
+  "lines_deva": [
+   "तच्छ्रुत्वा बडिशवचनमवितथमृषिगणैरनुमतमुवाच वार्योविदो राजर्षिः एवमेत सस्र्वमनपवादं यथा भगवानाह"
+  ],
+  "lines_iast": [
+   "tacchrutvā baḍiśavacanamavitathamṛṣigaṇairanumatamuvāca vāryovido rājarṣiḥ evameta sasrvamanapavādaṃ yathā bhagavānāha"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "P2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yāni",
+      "words": [
+       {
+        "w": "yāni",
+        "gloss": "which",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "now",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "khalu",
+      "words": [
+       {
+        "w": "khalu",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vāyoḥ",
+      "words": [
+       {
+        "w": "vāyoḥ",
+        "gloss": "of Vāta (vāyu)",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "kupitākupitasya",
+      "words": [
+       {
+        "w": "kupita-akupitasya",
+        "gloss": "aggravated and unaggravated",
+        "gram": "m. gen. sg., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "śarīrāśarīracarasya",
+      "words": [
+       {
+        "w": "śarīra-aśarīra-carasya",
+        "gloss": "moving in the body and outside it",
+        "gram": "m. gen. sg., tat-puruṣa with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "śarīreṣu",
+      "words": [
+       {
+        "w": "śarīreṣu",
+        "gloss": "in bodies",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "carataḥ",
+      "words": [
+       {
+        "w": "carataḥ",
+        "gloss": "moving",
+        "gram": "m. gen. sg., pres. part. √car"
+       }
+      ]
+     },
+     {
+      "src": "karmāṇi",
+      "words": [
+       {
+        "w": "karmāṇi",
+        "gloss": "actions",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bahiḥśarīrebhyo",
+      "words": [
+       {
+        "w": "bahiḥ",
+        "gloss": "outside",
+        "gram": "ind."
+       },
+       {
+        "w": "śarīrebhyaḥ",
+        "gloss": "bodies",
+        "gram": "n. abl. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhavanti,",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "teṣāmavayavān",
+      "words": [
+       {
+        "w": "teṣām",
+        "gloss": "of them",
+        "gram": "n. gen. pl."
+       },
+       {
+        "w": "avayavān",
+        "gloss": "parts, details",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "pratyakṣānumānopadeśaiḥ",
+      "words": [
+       {
+        "w": "pratyakṣa-anumāna-upadeśaiḥ",
+        "gloss": "by perception, inference and instruction",
+        "gram": "m. inst. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "sādhayitvā",
+      "words": [
+       {
+        "w": "sādhayitvā",
+        "gloss": "having established",
+        "gram": "abs. caus. √sidh"
+       }
+      ]
+     },
+     {
+      "src": "namaskṛtya",
+      "words": [
+       {
+        "w": "namaskṛtya",
+        "gloss": "having bowed",
+        "gram": "abs. namas-√kṛ"
+       }
+      ]
+     },
+     {
+      "src": "vāyave",
+      "words": [
+       {
+        "w": "vāyave",
+        "gloss": "to Vāyu",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "yathāśakti",
+      "words": [
+       {
+        "w": "yathā-śakti",
+        "gloss": "as far as we are able",
+        "gram": "ind., avyayībhāva"
+       }
+      ]
+     },
+     {
+      "src": "pravakṣyāmaḥ",
+      "words": [
+       {
+        "w": "pravakṣyāmaḥ",
+        "gloss": "we shall declare",
+        "gram": "1 pl. fut. pra-√vac"
+       }
+      ]
+     },
+     {
+      "src": "vāyustantrayantradharaḥ,",
+      "words": [
+       {
+        "w": "vāyuḥ",
+        "gloss": "Vāta (vāyu)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tantra-yantra-dharaḥ",
+        "gloss": "upholder of the frame and mechanism (of the body)",
+        "gram": "m. nom. sg., tat-puruṣa with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "prāṇodānasamānavyānāpānātmā,",
+      "words": [
+       {
+        "w": "prāṇa-udāna-samāna-vyāna-apāna-ātmā",
+        "gloss": "having prāṇa, udāna, samāna, vyāna and apāna as its self",
+        "gram": "m. nom. sg., bahuvrīhi with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "pravartakaśceṣṭānāmuccāvacānāṃ,",
+      "words": [
+       {
+        "w": "pravartakaḥ",
+        "gloss": "initiator",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ceṣṭānām",
+        "gloss": "of movements",
+        "gram": "f. gen. pl."
+       },
+       {
+        "w": "uccāvacānām",
+        "gloss": "of all kinds",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "niyantā",
+      "words": [
+       {
+        "w": "niyantā",
+        "gloss": "controller",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "praṇetā",
+      "words": [
+       {
+        "w": "praṇetā",
+        "gloss": "director",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "manasaḥ,",
+      "words": [
+       {
+        "w": "manasaḥ",
+        "gloss": "of the mind",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvendriyāṇāmudyojakaḥ,",
+      "words": [
+       {
+        "w": "sarva-indriyāṇām",
+        "gloss": "of all the senses",
+        "gram": "n. gen. pl., karmadhāraya"
+       },
+       {
+        "w": "udyojakaḥ",
+        "gloss": "stimulator",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvendriyārthānāmabhivoḍhā,",
+      "words": [
+       {
+        "w": "sarva-indriya-arthānām",
+        "gloss": "of all sense-objects",
+        "gram": "m. gen. pl., tat-puruṣa"
+       },
+       {
+        "w": "abhivoḍhā",
+        "gloss": "conveyor",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvaśarīradhātuvyūhakaraḥ,",
+      "words": [
+       {
+        "w": "sarva-śarīra-dhātu-vyūha-karaḥ",
+        "gloss": "arranger of all bodily dhātus",
+        "gram": "m. nom. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sandhānakaraḥ",
+      "words": [
+       {
+        "w": "sandhāna-karaḥ",
+        "gloss": "that which holds together",
+        "gram": "m. nom. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "śarīrasya,",
+      "words": [
+       {
+        "w": "śarīrasya",
+        "gloss": "of the body",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pravartako",
+      "words": [
+       {
+        "w": "pravartakaḥ",
+        "gloss": "prompter",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vācaḥ,",
+      "words": [
+       {
+        "w": "vācaḥ",
+        "gloss": "of speech",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakṛtiḥ",
+      "words": [
+       {
+        "w": "prakṛtiḥ",
+        "gloss": "source",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sparśaśabdayoḥ,",
+      "words": [
+       {
+        "w": "sparśa-śabdayoḥ",
+        "gloss": "of touch and sound",
+        "gram": "m. gen. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "śrotrasparśanayormūlaṃ,",
+      "words": [
+       {
+        "w": "śrotra-sparśanayoḥ",
+        "gloss": "of hearing and touch (organs)",
+        "gram": "n. gen. du., dvandva"
+       },
+       {
+        "w": "mūlam",
+        "gloss": "root",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "harṣotsāhayoryoniḥ,",
+      "words": [
+       {
+        "w": "harṣa-utsāhayoḥ",
+        "gloss": "of joy and enthusiasm",
+        "gram": "m. gen. du., dvandva"
+       },
+       {
+        "w": "yoniḥ",
+        "gloss": "origin",
+        "gram": "m./f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "samīraṇo'gneḥ,",
+      "words": [
+       {
+        "w": "samīraṇaḥ",
+        "gloss": "kindler",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "agneḥ",
+        "gloss": "of the digestive fire (agni)",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "doṣasaṃśoṣaṇaḥ,",
+      "words": [
+       {
+        "w": "doṣa-saṃśoṣaṇaḥ",
+        "gloss": "drier of doṣas",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kṣeptā",
+      "words": [
+       {
+        "w": "kṣeptā",
+        "gloss": "expeller",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bahirmalānāṃ,",
+      "words": [
+       {
+        "w": "bahiḥ",
+        "gloss": "outward",
+        "gram": "ind."
+       },
+       {
+        "w": "malānām",
+        "gloss": "of wastes",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "sthūlāṇusrotasāṃ",
+      "words": [
+       {
+        "w": "sthūla-aṇu-srotasām",
+        "gloss": "of the large and minute channels",
+        "gram": "n. gen. pl., karmadhāraya with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "bhettā,",
+      "words": [
+       {
+        "w": "bhettā",
+        "gloss": "opener",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kartā",
+      "words": [
+       {
+        "w": "kartā",
+        "gloss": "maker",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "garbhākṛtīnām,",
+      "words": [
+       {
+        "w": "garbha-ākṛtīnām",
+        "gloss": "of the forms of the fetus",
+        "gram": "f. gen. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "āyuṣo'nuvrṛttipratyayabhūto",
+      "words": [
+       {
+        "w": "āyuṣaḥ",
+        "gloss": "of life",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "anuvṛtti-pratyaya-bhūtaḥ",
+        "gloss": "being the basis of continuance",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhavatyakupitaḥ",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is",
+        "gram": "3 sg. pres. √bhū"
+       },
+       {
+        "w": "akupitaḥ",
+        "gloss": "when unaggravated",
+        "gram": "m. nom. sg., ppp. a-√kup"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब कुपित और अकुपित, शरीर में और शरीर के बाहर विचरने वाले वायु के, शरीरों में अथवा शरीरों के बाहर विचरते हुए जो कर्म होते हैं, उनके अवयवों को प्रत्यक्ष, अनुमान और उपदेश से सिद्ध करके, वायु को नमस्कार करके, हम यथाशक्ति कहेंगे। अकुपित वायु (शरीर के) तन्त्र और यन्त्र का धारण करने वाला है; प्राण, उदान, समान, व्यान और अपान इसके स्वरूप हैं; यह छोटी-बड़ी सब चेष्टाओं का प्रवर्तक है, मन का नियन्ता और प्रणेता है, सब इन्द्रियों का उद्योजक है, सब इन्द्रियार्थों को पहुँचाने वाला है, शरीर की सब धातुओं का व्यूह बनाने वाला है, शरीर का सन्धान करने वाला है, वाणी का प्रवर्तक है, स्पर्श और शब्द की प्रकृति है, श्रोत्र और स्पर्शन का मूल है, हर्ष और उत्साह की योनि है, अग्नि का समीरण है, दोषों का संशोषण करने वाला है, मलों को बाहर फेंकने वाला है, स्थूल और सूक्ष्म स्रोतों का भेदन करने वाला है, गर्भ की आकृतियों का कर्ता है, और आयु की अनुवृत्ति का कारण है।",
+  "english": "Now the actions of Vāta (vāyu), aggravated or unaggravated, moving in the body and outside it, which take place as it moves in bodies or outside bodies: having established their details by perception, inference and instruction, and having bowed to Vāyu, we shall declare them as far as we are able. Vāta, when unaggravated, upholds the frame and mechanism (of the body); it has prāṇa, udāna, samāna, vyāna and apāna as its self; it initiates movements of all kinds; it controls and directs the mind; it stimulates all the senses; it conveys all sense-objects; it arranges all the dhātus of the body; it holds the body together; it prompts speech; it is the source of touch and sound, the root of hearing and touch, the origin of joy and enthusiasm; it kindles the digestive fire (agni); it dries up the doṣas; it expels wastes (mala) outward; it opens the large and minute channels; it makes the forms of the fetus; and it is the basis of the continuance of life.",
+  "text_flags": [
+   {
+    "src": "āyuṣo'nuvrṛttipratyayabhūto",
+    "suggest": "āyuṣo'nuvṛttipratyayabhūto",
+    "why": "\"anuvrṛtti\" has an extra r; anuvṛtti \"continuance\" fits."
+   }
+  ],
+  "notes": "tantra-yantra is read as \"frame and mechanism\" of the body; the line does not say more. samīraṇa here is an agent noun \"kindler, fanner\" governing agneḥ, not the noun for Vāta. The five names prāṇa, udāna, samāna, vyāna, apāna are kept as Sanskrit. doṣasaṃśoṣaṇa is kept literal, \"drier of doṣas\".",
+  "confidence": "medium",
+  "type": "prose",
+  "line_ids": [
+   "01.12.P2"
+  ],
+  "lines_deva": [
+   "यानि तु खलु वायोः कुपिताकुपितस्य शरीराशरीरचरस्य शरीरेषु चरतः कर्माणि बहिःशरीरेभ्यो वा भवन्ति, तेषामवयवान् प्रत्यक्षानुमानोपदेशैः साधयित्वा नमस्कृत्य वायवे यथाशक्ति प्रवक्ष्यामः वायुस्तन्त्रयन्त्रधरः, प्राणोदानसमानव्यानापानात्मा, प्रवर्तकश्चेष्टानामुच्चावचानां, नियन्ता प्रणेता च मनसः, सर्वेन्द्रियाणामुद्योजकः, सर्वेन्द्रियार्थानामभिवोढा, सर्वशरीरधातुव्यूहकरः, सन्धानकरः शरीरस्य, प्रवर्तको वाचः, प्रकृतिः स्पर्शशब्दयोः, श्रोत्रस्पर्शनयोर्मूलं, हर्षोत्साहयोर्योनिः, समीरणोऽग्नेः, दोषसंशोषणः, क्षेप्ता बहिर्मलानां, स्थूलाणुस्रोतसां भेत्ता, कर्ता गर्भाकृतीनाम्, आयुषोऽनुव्रृत्तिप्रत्ययभूतो भवत्यकुपितः"
+  ],
+  "lines_iast": [
+   "yāni tu khalu vāyoḥ kupitākupitasya śarīrāśarīracarasya śarīreṣu carataḥ karmāṇi bahiḥśarīrebhyo vā bhavanti, teṣāmavayavān pratyakṣānumānopadeśaiḥ sādhayitvā namaskṛtya vāyave yathāśakti pravakṣyāmaḥ vāyustantrayantradharaḥ, prāṇodānasamānavyānāpānātmā, pravartakaśceṣṭānāmuccāvacānāṃ, niyantā praṇetā ca manasaḥ, sarvendriyāṇāmudyojakaḥ, sarvendriyārthānāmabhivoḍhā, sarvaśarīradhātuvyūhakaraḥ, sandhānakaraḥ śarīrasya, pravartako vācaḥ, prakṛtiḥ sparśaśabdayoḥ, śrotrasparśanayormūlaṃ, harṣotsāhayoryoniḥ, samīraṇo'gneḥ, doṣasaṃśoṣaṇaḥ, kṣeptā bahirmalānāṃ, sthūlāṇusrotasāṃ bhettā, kartā garbhākṛtīnām, āyuṣo'nuvrṛttipratyayabhūto bhavatyakupitaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "P3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kupitastu",
+      "words": [
+       {
+        "w": "kupitaḥ",
+        "gloss": "aggravated",
+        "gram": "m. nom. sg., ppp. √kup"
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "khalu",
+      "words": [
+       {
+        "w": "khalu",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śarīre",
+      "words": [
+       {
+        "w": "śarīre",
+        "gloss": "in the body",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śarīraṃ",
+      "words": [
+       {
+        "w": "śarīram",
+        "gloss": "the body",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nānāvidhairvikārairupatapati",
+      "words": [
+       {
+        "w": "nānā-vidhaiḥ",
+        "gloss": "of various kinds",
+        "gram": "m. inst. pl., bahuvrīhi"
+       },
+       {
+        "w": "vikāraiḥ",
+        "gloss": "with disorders",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "upatapati",
+        "gloss": "afflicts",
+        "gram": "3 sg. pres. upa-√tap"
+       }
+      ]
+     },
+     {
+      "src": "balavarṇasukhāyuṣāmupaghātāya,",
+      "words": [
+       {
+        "w": "bala-varṇa-sukha-āyuṣām",
+        "gloss": "of strength, complexion, happiness and life",
+        "gram": "n. gen. pl., dvandva"
+       },
+       {
+        "w": "upaghātāya",
+        "gloss": "for the impairment",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "mano",
+      "words": [
+       {
+        "w": "manaḥ",
+        "gloss": "the mind",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyāharṣayati,",
+      "words": [
+       {
+        "w": "vyāharṣayati",
+        "gloss": "agitates",
+        "gram": "3 sg. pres. caus. vi-ā-√hṛṣ"
+       }
+      ]
+     },
+     {
+      "src": "sarvendriyāṇyupahanti,",
+      "words": [
+       {
+        "w": "sarva-indriyāṇi",
+        "gloss": "all the senses",
+        "gram": "n. acc. pl., karmadhāraya"
+       },
+       {
+        "w": "upahanti",
+        "gloss": "impairs",
+        "gram": "3 sg. pres. upa-√han"
+       }
+      ]
+     },
+     {
+      "src": "vinihanti",
+      "words": [
+       {
+        "w": "vinihanti",
+        "gloss": "destroys",
+        "gram": "3 sg. pres. vi-ni-√han"
+       }
+      ]
+     },
+     {
+      "src": "garbhān",
+      "words": [
+       {
+        "w": "garbhān",
+        "gloss": "fetuses",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vikṛtimāpādayatyatikālaṃ",
+      "words": [
+       {
+        "w": "vikṛtim",
+        "gloss": "deformity",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "āpādayati",
+        "gloss": "brings to",
+        "gram": "3 sg. pres. caus. ā-√pad"
+       },
+       {
+        "w": "atikālam",
+        "gloss": "beyond the (due) time",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dhārayati,",
+      "words": [
+       {
+        "w": "dhārayati",
+        "gloss": "retains",
+        "gram": "3 sg. pres. caus. √dhṛ"
+       }
+      ]
+     },
+     {
+      "src": "bhayaśokamohadainyātipralāpāñjanayati,",
+      "words": [
+       {
+        "w": "bhaya-śoka-moha-dainya-atipralāpān",
+        "gloss": "fear, grief, confusion, dejection and excessive talk",
+        "gram": "m. acc. pl., dvandva"
+       },
+       {
+        "w": "janayati",
+        "gloss": "produces",
+        "gram": "3 sg. pres. caus. √jan"
+       }
+      ]
+     },
+     {
+      "src": "prāṇāṃścoparuṇaddhi",
+      "words": [
+       {
+        "w": "prāṇān",
+        "gloss": "the vital breaths",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "uparuṇaddhi",
+        "gloss": "obstructs",
+        "gram": "3 sg. pres. upa-√rudh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "परन्तु कुपित होने पर वायु शरीर में शरीर को अनेक प्रकार के विकारों से पीड़ित करता है, जिससे बल, वर्ण, सुख और आयु का उपघात होता है; वह मन को व्याकुल करता है, सब इन्द्रियों का उपघात करता है, गर्भों को नष्ट करता है, उन्हें विकृत कर देता है या समय से अधिक रोके रखता है; भय, शोक, मोह, दीनता और अति-प्रलाप उत्पन्न करता है, और प्राणों को रोक देता है।",
+  "english": "But when aggravated in the body, it afflicts the body with disorders of various kinds, to the impairment of strength, complexion, happiness and life; it agitates the mind, impairs all the senses, destroys fetuses, brings them to deformity or retains them beyond the due time; it produces fear, grief, confusion, dejection and excessive talk; and it obstructs the vital breaths (prāṇa).",
+  "text_flags": [],
+  "notes": "vyāharṣayati is read as causative of vi-ā-√hṛṣ, \"excites, agitates\"; the exact nuance is uncertain. vikṛtim āpādayati and atikālaṃ dhārayati are taken with garbhān.",
+  "confidence": "medium",
+  "type": "prose",
+  "line_ids": [
+   "01.12.P3"
+  ],
+  "lines_deva": [
+   "कुपितस्तु खलु शरीरे शरीरं नानाविधैर्विकारैरुपतपति बलवर्णसुखायुषामुपघाताय, मनो व्याहर्षयति, सर्वेन्द्रियाण्युपहन्ति, विनिहन्ति गर्भान् विकृतिमापादयत्यतिकालं वा धारयति, भयशोकमोहदैन्यातिप्रलापाञ्जनयति, प्राणांश्चोपरुणद्धि"
+  ],
+  "lines_iast": [
+   "kupitastu khalu śarīre śarīraṃ nānāvidhairvikārairupatapati balavarṇasukhāyuṣāmupaghātāya, mano vyāharṣayati, sarvendriyāṇyupahanti, vinihanti garbhān vikṛtimāpādayatyatikālaṃ vā dhārayati, bhayaśokamohadainyātipralāpāñjanayati, prāṇāṃścoparuṇaddhi"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "P4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prakṛtibhūtasya",
+      "words": [
+       {
+        "w": "prakṛti-bhūtasya",
+        "gloss": "in its normal state",
+        "gram": "m. gen. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "khalvasya",
+      "words": [
+       {
+        "w": "khalu",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "of it",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "loke",
+      "words": [
+       {
+        "w": "loke",
+        "gloss": "in the world",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "carataḥ",
+      "words": [
+       {
+        "w": "carataḥ",
+        "gloss": "moving",
+        "gram": "m. gen. sg., pres. part. √car"
+       }
+      ]
+     },
+     {
+      "src": "karmāṇīmāni",
+      "words": [
+       {
+        "w": "karmāṇi",
+        "gloss": "actions",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "imāni",
+        "gloss": "these",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhavanti;",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "tadyathā",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dharaṇīdhāraṇaṃ,",
+      "words": [
+       {
+        "w": "dharaṇī-dhāraṇam",
+        "gloss": "upholding the earth",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "jvalanojjvālanam,",
+      "words": [
+       {
+        "w": "jvalana-ujjvālanam",
+        "gloss": "kindling fire",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ādityacanddranakṣatragrahagaṇānāṃ",
+      "words": [
+       {
+        "w": "āditya-candra-nakṣatra-graha-gaṇānām",
+        "gloss": "of the hosts of sun, moon, stars and planets",
+        "gram": "m. gen. pl., tat-puruṣa with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "santānagatividhānaṃ,",
+      "words": [
+       {
+        "w": "santāna-gati-vidhānam",
+        "gloss": "regulating their continuous course",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sṛṣṭiśca",
+      "words": [
+       {
+        "w": "sṛṣṭiḥ",
+        "gloss": "creation",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "meghānām,",
+      "words": [
+       {
+        "w": "meghānām",
+        "gloss": "of clouds",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "apāṃ",
+      "words": [
+       {
+        "w": "apām",
+        "gloss": "of waters",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "visargaḥ,",
+      "words": [
+       {
+        "w": "visargaḥ",
+        "gloss": "release",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pravartanaṃ",
+      "words": [
+       {
+        "w": "pravartanam",
+        "gloss": "setting in flow",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "srotasāṃ,",
+      "words": [
+       {
+        "w": "srotasām",
+        "gloss": "of streams",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "puṣpaphalānāṃ",
+      "words": [
+       {
+        "w": "puṣpa-phalānām",
+        "gloss": "of flowers and fruits",
+        "gram": "n. gen. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "cābhinirvartanam,",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "abhinirvartanam",
+        "gloss": "producing",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "udbhedanaṃ",
+      "words": [
+       {
+        "w": "udbhedanam",
+        "gloss": "sprouting",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "caudbhidānām,",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "audbhidānām",
+        "gloss": "of plants",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ṛtūnāṃ",
+      "words": [
+       {
+        "w": "ṛtūnām",
+        "gloss": "of the seasons",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "pravibhāgaḥ,",
+      "words": [
+       {
+        "w": "pravibhāgaḥ",
+        "gloss": "division",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vibhāgo",
+      "words": [
+       {
+        "w": "vibhāgaḥ",
+        "gloss": "division",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhātūnāṃ,",
+      "words": [
+       {
+        "w": "dhātūnām",
+        "gloss": "of the elements (dhātu)",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "dhātumānasaṃsthānavyaktiḥ,",
+      "words": [
+       {
+        "w": "dhātu-māna-saṃsthāna-vyaktiḥ",
+        "gloss": "manifestation of the measure and shape of the elements",
+        "gram": "f. nom. sg., tat-puruṣa with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "bījābhisaṃskāraḥ,",
+      "words": [
+       {
+        "w": "bīja-abhisaṃskāraḥ",
+        "gloss": "preparing of seeds",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "śasyābhivardhanamavikledopaśoṣaṇe,",
+      "words": [
+       {
+        "w": "śasya-abhivardhanam",
+        "gloss": "growth of crops",
+        "gram": "n. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "avikleda-upaśoṣaṇe",
+        "gloss": "freedom from excess moisture, and drying",
+        "gram": "n. nom. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "avaikārikavikāraśceti",
+      "words": [
+       {
+        "w": "avaikārika-vikāraḥ",
+        "gloss": "change that is not abnormal",
+        "gram": "m. nom. sg., karmadhāraya"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "(end of list)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "लोक में विचरते हुए प्रकृतिस्थ वायु के ये कर्म होते हैं, जैसे: पृथ्वी को धारण करना, अग्नि को प्रज्वलित करना, सूर्य, चन्द्र, नक्षत्र और ग्रहों के समूहों की निरन्तर गति का विधान, मेघों की सृष्टि, जल का विसर्ग, स्रोतों का प्रवर्तन, फूलों और फलों को उत्पन्न करना, उद्भिदों का अंकुरित होना, ऋतुओं का विभाग, धातुओं का विभाग, धातुओं के मान और संस्थान की अभिव्यक्ति, बीजों का अभिसंस्कार, फसलों की वृद्धि, अविक्लेद और उपशोषण, तथा अविकारी परिवर्तन।",
+  "english": "The actions of it in its normal state, moving in the world, are these: upholding the earth, kindling fire, regulating the continuous course of the hosts of the sun, moon, stars and planets, creation of clouds, release of waters, setting streams in flow, producing flowers and fruits, sprouting of plants, division of the seasons, division of the elements (dhātu), manifestation of the measure and shape of the elements, preparation of seeds, growth of crops, freedom from excess moisture and drying, and change that is not abnormal.",
+  "text_flags": [
+   {
+    "src": "ādityacanddranakṣatragrahagaṇānāṃ",
+    "suggest": "ādityacandranakṣatragrahagaṇānāṃ",
+    "why": "\"canddra\" has a doubled d; candra \"moon\" fits."
+   }
+  ],
+  "notes": "Here the subject is the wind in the world, so dhātu is rendered \"element\"; srotas \"streams\". avikledopaśoṣaṇe is read as a dvandva in the dual (absence of excess moisture, and drying), said of the crops; the reading is uncertain.",
+  "confidence": "medium",
+  "type": "prose",
+  "line_ids": [
+   "01.12.P4"
+  ],
+  "lines_deva": [
+   "प्रकृतिभूतस्य खल्वस्य लोके चरतः कर्माणीमानि भवन्ति; तद्यथा धरणीधारणं, ज्वलनोज्ज्वालनम्, आदित्यचन्द्द्रनक्षत्रग्रहगणानां सन्तानगतिविधानं, सृष्टिश्च मेघानाम्, अपां विसर्गः, प्रवर्तनं स्रोतसां, पुष्पफलानां चाभिनिर्वर्तनम्, उद्भेदनं चौद्भिदानाम्, ऋतूनां प्रविभागः, विभागो धातूनां, धातुमानसंस्थानव्यक्तिः, बीजाभिसंस्कारः, शस्याभिवर्धनमविक्लेदोपशोषणे, अवैकारिकविकारश्चेति"
+  ],
+  "lines_iast": [
+   "prakṛtibhūtasya khalvasya loke carataḥ karmāṇīmāni bhavanti; tadyathā dharaṇīdhāraṇaṃ, jvalanojjvālanam, ādityacanddranakṣatragrahagaṇānāṃ santānagatividhānaṃ, sṛṣṭiśca meghānām, apāṃ visargaḥ, pravartanaṃ srotasāṃ, puṣpaphalānāṃ cābhinirvartanam, udbhedanaṃ caudbhidānām, ṛtūnāṃ pravibhāgaḥ, vibhāgo dhātūnāṃ, dhātumānasaṃsthānavyaktiḥ, bījābhisaṃskāraḥ, śasyābhivardhanamavikledopaśoṣaṇe, avaikārikavikāraśceti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "P5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prakupitasya",
+      "words": [
+       {
+        "w": "prakupitasya",
+        "gloss": "aggravated",
+        "gram": "m. gen. sg., ppp. pra-√kup"
+       }
+      ]
+     },
+     {
+      "src": "svalvasya",
+      "words": [
+       {
+        "w": "khalu",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "of it",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "lokeṣu",
+      "words": [
+       {
+        "w": "lokeṣu",
+        "gloss": "in the worlds",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "carataḥ",
+      "words": [
+       {
+        "w": "carataḥ",
+        "gloss": "moving",
+        "gram": "m. gen. sg., pres. part. √car"
+       }
+      ]
+     },
+     {
+      "src": "karmāṇīmāni",
+      "words": [
+       {
+        "w": "karmāṇi",
+        "gloss": "actions",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "imāni",
+        "gloss": "these",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhavanti;",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "tadyathā",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śikhariśikharāvamathanam,",
+      "words": [
+       {
+        "w": "śikhari-śikhara-avamathanam",
+        "gloss": "crushing the peaks of mountains",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "unmathanamanokahānām,",
+      "words": [
+       {
+        "w": "unmathanam",
+        "gloss": "uprooting",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "anokahānām",
+        "gloss": "of trees",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "utpīḍanaṃ",
+      "words": [
+       {
+        "w": "utpīḍanam",
+        "gloss": "surging up",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sāgarāṇām,",
+      "words": [
+       {
+        "w": "sāgarāṇām",
+        "gloss": "of oceans",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "udvartanaṃ",
+      "words": [
+       {
+        "w": "udvartanam",
+        "gloss": "overflowing",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarasāṃ,",
+      "words": [
+       {
+        "w": "sarasām",
+        "gloss": "of lakes",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "pratisaraṇamāpagānām,",
+      "words": [
+       {
+        "w": "pratisaraṇam",
+        "gloss": "flowing back",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "āpagānām",
+        "gloss": "of rivers",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ākampanaṃ",
+      "words": [
+       {
+        "w": "ākampanam",
+        "gloss": "shaking",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhūmeḥ,",
+      "words": [
+       {
+        "w": "bhūmeḥ",
+        "gloss": "of the earth",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ādhamanamambudānāṃ,",
+      "words": [
+       {
+        "w": "ādhamanam",
+        "gloss": "blowing about",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ambudānām",
+        "gloss": "of clouds",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "nīhāranirhrrādapāṃśusikatāmatsyabhekoragakṣārarudhirāśmāśanivisargaḥ,",
+      "words": [
+       {
+        "w": "nīhāra-nirhrāda-pāṃśu-sikatā-matsya-bheka-uraga-kṣāra-rudhira-aśma-aśani-visargaḥ",
+        "gloss": "showering of mist, thunder, dust, sand, fish, frogs, snakes, alkali, blood, stones and thunderbolts",
+        "gram": "m. nom. sg., tat-puruṣa with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "vyāpādanaṃ",
+      "words": [
+       {
+        "w": "vyāpādanam",
+        "gloss": "derangement",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣaṇṇāmṛtūnāṃ,",
+      "words": [
+       {
+        "w": "ṣaṇṇām",
+        "gloss": "of the six",
+        "gram": "gen. pl."
+       },
+       {
+        "w": "ṛtūnām",
+        "gloss": "seasons",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "śasyānāmasaṅghātaḥ,",
+      "words": [
+       {
+        "w": "śasyānām",
+        "gloss": "of crops",
+        "gram": "n. gen. pl."
+       },
+       {
+        "w": "asaṅghātaḥ",
+        "gloss": "failure to form",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhūtānāṃ",
+      "words": [
+       {
+        "w": "bhūtānām",
+        "gloss": "of beings",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "copasargaḥ,",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "upasargaḥ",
+        "gloss": "affliction",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhāvānāṃ",
+      "words": [
+       {
+        "w": "bhāvānām",
+        "gloss": "of existing things",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "cābhāvakaraṇaṃ,",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "abhāva-karaṇam",
+        "gloss": "bringing to non-existence",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "caturyugāntakarāṇāṃ",
+      "words": [
+       {
+        "w": "catur-yuga-anta-karāṇām",
+        "gloss": "that bring the end of the four ages",
+        "gram": "m. gen. pl., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "meghasūryānalānilānāṃ",
+      "words": [
+       {
+        "w": "megha-sūrya-anala-anilānām",
+        "gloss": "of clouds, sun, fire and winds",
+        "gram": "m. gen. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "visargaḥ;",
+      "words": [
+       {
+        "w": "visargaḥ",
+        "gloss": "release",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhagavān",
+      "words": [
+       {
+        "w": "bhagavān",
+        "gloss": "the Lord",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prabhavaścāvyayaśca,",
+      "words": [
+       {
+        "w": "prabhavaḥ",
+        "gloss": "the origin",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "avyayaḥ",
+        "gloss": "imperishable",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhūtānāṃ",
+      "words": [
+       {
+        "w": "bhūtānām",
+        "gloss": "of beings",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhāvābhāvakaraḥ,",
+      "words": [
+       {
+        "w": "bhāva-abhāva-karaḥ",
+        "gloss": "cause of existence and non-existence",
+        "gram": "m. nom. sg., upapada tat-puruṣa with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "sukhāsukhayorvidhātā,",
+      "words": [
+       {
+        "w": "sukha-asukhayoḥ",
+        "gloss": "of happiness and unhappiness",
+        "gram": "n. gen. du., dvandva"
+       },
+       {
+        "w": "vidhātā",
+        "gloss": "dispenser",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mṛtyuḥ,",
+      "words": [
+       {
+        "w": "mṛtyuḥ",
+        "gloss": "Death",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yamaḥ,",
+      "words": [
+       {
+        "w": "yamaḥ",
+        "gloss": "Yama",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "niyantā,",
+      "words": [
+       {
+        "w": "niyantā",
+        "gloss": "the controller",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prajāpatiḥ,",
+      "words": [
+       {
+        "w": "prajāpatiḥ",
+        "gloss": "Prajāpati, lord of creatures",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "aditiḥ,",
+      "words": [
+       {
+        "w": "aditiḥ",
+        "gloss": "Aditi",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśvakarmā,",
+      "words": [
+       {
+        "w": "viśvakarmā",
+        "gloss": "Viśvakarman, maker of all",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśvarūpaḥ,",
+      "words": [
+       {
+        "w": "viśva-rūpaḥ",
+        "gloss": "having all forms",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sarvagaḥ,",
+      "words": [
+       {
+        "w": "sarva-gaḥ",
+        "gloss": "all-pervading",
+        "gram": "m. nom. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sarvatantrāṇāṃ",
+      "words": [
+       {
+        "w": "sarva-tantrāṇām",
+        "gloss": "of all systems",
+        "gram": "n. gen. pl., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "vidhātā,",
+      "words": [
+       {
+        "w": "vidhātā",
+        "gloss": "ordainer",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhāvānāmaṇuḥ,",
+      "words": [
+       {
+        "w": "bhāvānām",
+        "gloss": "of existing things",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "aṇuḥ",
+        "gloss": "the subtle one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vibhuḥ,",
+      "words": [
+       {
+        "w": "vibhuḥ",
+        "gloss": "the mighty one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viṣṇuḥ",
+      "words": [
+       {
+        "w": "viṣṇuḥ",
+        "gloss": "Viṣṇu",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "krāntā,",
+      "words": [
+       {
+        "w": "krāntā",
+        "gloss": "the strider",
+        "gram": "m. nom. sg., agent noun √kram"
+       }
+      ]
+     },
+     {
+      "src": "lokānāṃ",
+      "words": [
+       {
+        "w": "lokānām",
+        "gloss": "of the worlds",
+        "gram": "m. gen. pl. (with bhagavān)"
+       }
+      ]
+     },
+     {
+      "src": "vāyureva",
+      "words": [
+       {
+        "w": "vāyuḥ",
+        "gloss": "wind (vāyu)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "itself",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhagavāniti",
+      "words": [
+       {
+        "w": "bhagavān",
+        "gloss": "the Lord",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "(end of speech)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "लोकों में विचरते हुए प्रकुपित वायु के ये कर्म होते हैं, जैसे: पर्वतों के शिखरों को तोड़ना, वृक्षों को उखाड़ना, समुद्रों को उछालना, सरोवरों को उफनाना, नदियों का उलटा बहना, पृथ्वी का काँपना, मेघों को उड़ाना, कोहरा, गर्जन, धूल, बालू, मछलियाँ, मेंढक, साँप, क्षार, रक्त, पत्थर और वज्र बरसाना, छहों ऋतुओं को बिगाड़ना, फसलों का न बनना, प्राणियों पर उपसर्ग, पदार्थों का अभाव करना, और चारों युगों का अन्त करने वाले मेघों, सूर्यों, अग्नि और वायुओं को छोड़ना। क्योंकि वही भगवान् है, प्रभव और अव्यय है, प्राणियों के भाव और अभाव का कर्ता है, सुख और दुःख का विधाता है; वही मृत्यु, यम, नियन्ता, प्रजापति, अदिति, विश्वकर्मा, विश्वरूप, सर्वग, सब तन्त्रों का विधाता, पदार्थों में अणु, विभु, विष्णु और पग भरने वाला है; वायु ही लोकों का भगवान् है।",
+  "english": "The actions of it when aggravated, moving in the worlds, are these: crushing the peaks of mountains, uprooting trees, making the oceans surge, making lakes overflow, making rivers flow back, shaking the earth, blowing the clouds about, showering mist, thunder, dust, sand, fish, frogs, snakes, alkali, blood, stones and thunderbolts, deranging the six seasons, failure of crops to form, affliction of beings, bringing things to non-existence, and releasing the clouds, suns, fires and winds that bring the end of the four ages. For he is the Lord, the origin and the imperishable, the cause of the existence and non-existence of beings, the dispenser of happiness and unhappiness; he is Death, Yama, the controller, Prajāpati, Aditi, Viśvakarman, the one of all forms, the all-pervading, the ordainer of all systems, the subtle among things, the mighty one, Viṣṇu, the strider; wind (vāyu) itself is the Lord of the worlds.",
+  "text_flags": [
+   {
+    "src": "svalvasya",
+    "suggest": "khalvasya",
+    "why": "\"svalu\" is not a word; the parallel phrase at the start of P4 reads \"khalvasya\"."
+   },
+   {
+    "src": "nīhāranirhrrādapāṃśusikatāmatsyabhekoragakṣārarudhirāśmāśanivisargaḥ",
+    "suggest": "nīhāranirhrādapāṃśusikatāmatsyabhekoragakṣārarudhirāśmāśanivisargaḥ",
+    "why": "\"nirhrrāda\" has an extra r; nirhrāda \"roar, thunder\" fits."
+   }
+  ],
+  "notes": "The names (Mṛtyu, Yama, Prajāpati, Aditi, Viśvakarman, Viṣṇu) are printed in the text itself and are kept. The comma after krāntā is followed: lokānām is taken with bhagavān (\"Lord of the worlds\"); without it, krāntā lokānām would be \"strider over the worlds\". megha-sūrya-anala-anila is a plural dvandva, rendered \"clouds, suns, fires and winds\". ādhamana is read as \"blowing (about)\"; asaṅghāta of crops as \"failure to form (grain)\".",
+  "confidence": "medium",
+  "type": "prose",
+  "line_ids": [
+   "01.12.P5"
+  ],
+  "lines_deva": [
+   "प्रकुपितस्य स्वल्वस्य लोकेषु चरतः कर्माणीमानि भवन्ति; तद्यथा शिखरिशिखरावमथनम्, उन्मथनमनोकहानाम्, उत्पीडनं सागराणाम्, उद्वर्तनं सरसां, प्रतिसरणमापगानाम्, आकम्पनं च भूमेः, आधमनमम्बुदानां, नीहारनिर्ह्र्रादपांशुसिकतामत्स्यभेकोरगक्षाररुधिराश्माशनिविसर्गः, व्यापादनं च षण्णामृतूनां, शस्यानामसङ्घातः, भूतानां चोपसर्गः, भावानां चाभावकरणं, चतुर्युगान्तकराणां मेघसूर्यानलानिलानां विसर्गः; स हि भगवान् प्रभवश्चाव्ययश्च, भूतानां भावाभावकरः, सुखासुखयोर्विधाता, मृत्युः, यमः, नियन्ता, प्रजापतिः, अदितिः, विश्वकर्मा, विश्वरूपः, सर्वगः, सर्वतन्त्राणां विधाता, भावानामणुः, विभुः, विष्णुः क्रान्ता, लोकानां वायुरेव भगवानिति"
+  ],
+  "lines_iast": [
+   "prakupitasya svalvasya lokeṣu carataḥ karmāṇīmāni bhavanti; tadyathā śikhariśikharāvamathanam, unmathanamanokahānām, utpīḍanaṃ sāgarāṇām, udvartanaṃ sarasāṃ, pratisaraṇamāpagānām, ākampanaṃ ca bhūmeḥ, ādhamanamambudānāṃ, nīhāranirhrrādapāṃśusikatāmatsyabhekoragakṣārarudhirāśmāśanivisargaḥ, vyāpādanaṃ ca ṣaṇṇāmṛtūnāṃ, śasyānāmasaṅghātaḥ, bhūtānāṃ copasargaḥ, bhāvānāṃ cābhāvakaraṇaṃ, caturyugāntakarāṇāṃ meghasūryānalānilānāṃ visargaḥ; sa hi bhagavān prabhavaścāvyayaśca, bhūtānāṃ bhāvābhāvakaraḥ, sukhāsukhayorvidhātā, mṛtyuḥ, yamaḥ, niyantā, prajāpatiḥ, aditiḥ, viśvakarmā, viśvarūpaḥ, sarvagaḥ, sarvatantrāṇāṃ vidhātā, bhāvānāmaṇuḥ, vibhuḥ, viṣṇuḥ krāntā, lokānāṃ vāyureva bhagavāniti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tacchrutvā",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "śrutvā",
+        "gloss": "having heard",
+        "gram": "abs. √śru"
+       }
+      ]
+     },
+     {
+      "src": "vāryovidavaco",
+      "words": [
+       {
+        "w": "vāryovida-vacaḥ",
+        "gloss": "Vāryovida's statement",
+        "gram": "n. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "marīcaruvāca",
+      "words": [
+       {
+        "w": "marīciḥ",
+        "gloss": "Marīci (name)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "uvāca",
+        "gloss": "said",
+        "gram": "3 sg. pf. √vac"
+       }
+      ]
+     },
+     {
+      "src": "yadyapyevametat,",
+      "words": [
+       {
+        "w": "yadi",
+        "gloss": "if",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       },
+       {
+        "w": "evam",
+        "gloss": "so",
+        "gram": "ind."
+       },
+       {
+        "w": "etat",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kimarthasyāsya",
+      "words": [
+       {
+        "w": "kim",
+        "gloss": "what",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "arthasya",
+        "gloss": "of matter",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "asya",
+        "gloss": "of this",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vacane",
+      "words": [
+       {
+        "w": "vacane",
+        "gloss": "in stating",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vijñāne",
+      "words": [
+       {
+        "w": "vijñāne",
+        "gloss": "in knowing",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sāmarthyamasti",
+      "words": [
+       {
+        "w": "sāmarthyam",
+        "gloss": "use, capacity",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "asti",
+        "gloss": "is",
+        "gram": "3 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "bhiṣagvidyāyāṃ;",
+      "words": [
+       {
+        "w": "bhiṣak-vidyāyām",
+        "gloss": "in the science of medicine",
+        "gram": "f. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhiṣagvidyāmadhikṛtyeyaṃ",
+      "words": [
+       {
+        "w": "bhiṣak-vidyām",
+        "gloss": "the science of medicine",
+        "gram": "f. acc. sg., tat-puruṣa"
+       },
+       {
+        "w": "adhikṛtya",
+        "gloss": "concerning",
+        "gram": "abs. adhi-√kṛ"
+       },
+       {
+        "w": "iyam",
+        "gloss": "this",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kathā",
+      "words": [
+       {
+        "w": "kathā",
+        "gloss": "discussion",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pravṛtteti",
+      "words": [
+       {
+        "w": "pravṛttā",
+        "gloss": "has been started",
+        "gram": "f. nom. sg., ppp. pra-√vṛt"
+       },
+       {
+        "w": "iti",
+        "gloss": "(end of speech)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वार्योविद का वह वचन सुनकर मरीचि ने कहा: यद्यपि यह ऐसा ही है, फिर भी इस विषय के कथन या ज्ञान में चिकित्सा-विद्या के लिए क्या सामर्थ्य है? यह चर्चा तो चिकित्सा-विद्या को लेकर प्रारम्भ हुई है।",
+  "english": "Having heard Vāryovida's statement, Marīci said: Even if this is so, what use is there for the science of medicine in stating or knowing this matter? This discussion was begun concerning the science of medicine.",
+  "text_flags": [
+   {
+    "src": "marīcaruvāca",
+    "suggest": "marīciruvāca",
+    "why": "\"marīcaḥ\" is not the name's nominative; the speaker is Marīci (marīcivacaḥ in unit 12), nominative marīciḥ."
+   }
+  ],
+  "notes": "kimarthasyāsya is split kim + arthasya + asya (\"what (use) ... of this matter\"); it could also be read kimarthasya \"of what purpose\". sāmarthya is rendered \"use, capacity\".",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.12.9"
+  ],
+  "lines_deva": [
+   "तच्छ्रुत्वा वार्योविदवचो मरीचरुवाच यद्यप्येवमेतत्, किमर्थस्यास्य वचने विज्ञाने वा सामर्थ्यमस्ति भिषग्विद्यायां; भिषग्विद्यामधिकृत्येयं कथा प्रवृत्तेति"
+  ],
+  "lines_iast": [
+   "tacchrutvā vāryovidavaco marīcaruvāca yadyapyevametat, kimarthasyāsya vacane vijñāne vā sāmarthyamasti bhiṣagvidyāyāṃ; bhiṣagvidyāmadhikṛtyeyaṃ kathā pravṛtteti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vāryovida",
+      "words": [
+       {
+        "w": "vāryovidaḥ",
+        "gloss": "Vāryovida (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "uvāca",
+      "words": [
+       {
+        "w": "uvāca",
+        "gloss": "said",
+        "gram": "3 sg. pf. √vac"
+       }
+      ]
+     },
+     {
+      "src": "bhiṣak",
+      "words": [
+       {
+        "w": "bhiṣak",
+        "gloss": "the physician",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pavanamatibalamatiparuṣamatiśīghrakāriṇamātyayikaṃ",
+      "words": [
+       {
+        "w": "pavanam",
+        "gloss": "Vāta (pavana)",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ati-balam",
+        "gloss": "very strong",
+        "gram": "m. acc. sg., bahuvrīhi"
+       },
+       {
+        "w": "ati-paruṣam",
+        "gloss": "very harsh",
+        "gram": "m. acc. sg., karmadhāraya"
+       },
+       {
+        "w": "ati-śīghra-kāriṇam",
+        "gloss": "acting very fast",
+        "gram": "m. acc. sg., upapada tat-puruṣa"
+       },
+       {
+        "w": "ātyayikam",
+        "gloss": "dangerous",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cennānuniśamyet,",
+      "words": [
+       {
+        "w": "cet",
+        "gloss": "if",
+        "gram": "ind."
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "anuniśāmayet",
+        "gloss": "were to study closely",
+        "gram": "3 sg. opt. caus. anu-ni-√śam"
+       }
+      ]
+     },
+     {
+      "src": "asahasā",
+      "words": [
+       {
+        "w": "asahasā",
+        "gloss": "without rashness",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prakupitamatiprayataḥ",
+      "words": [
+       {
+        "w": "prakupitam",
+        "gloss": "aggravated",
+        "gram": "m. acc. sg., ppp. pra-√kup"
+       },
+       {
+        "w": "ati-prayataḥ",
+        "gloss": "very careful",
+        "gram": "m. nom. sg., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "kathamagre'bhirakṣitumabhidhāsyati",
+      "words": [
+       {
+        "w": "katham",
+        "gloss": "how",
+        "gram": "ind."
+       },
+       {
+        "w": "agre",
+        "gloss": "in advance",
+        "gram": "ind."
+       },
+       {
+        "w": "abhirakṣitum",
+        "gloss": "to protect",
+        "gram": "inf. abhi-√rakṣ"
+       },
+       {
+        "w": "abhidhāsyati",
+        "gloss": "will give instruction",
+        "gram": "3 sg. fut. abhi-√dhā"
+       }
+      ]
+     },
+     {
+      "src": "prāgevainamatyayabhayāt;",
+      "words": [
+       {
+        "w": "prāk",
+        "gloss": "before",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       },
+       {
+        "w": "enam",
+        "gloss": "it",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "atyaya-bhayāt",
+        "gloss": "from fear of mortal danger",
+        "gram": "n. abl. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vāyoryathārthā",
+      "words": [
+       {
+        "w": "vāyoḥ",
+        "gloss": "of Vāta (vāyu)",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "yathā-arthā",
+        "gloss": "true",
+        "gram": "f. nom. sg., bahuvrīhi (adjective)"
+       }
+      ]
+     },
+     {
+      "src": "stutirapi",
+      "words": [
+       {
+        "w": "stutiḥ",
+        "gloss": "praise",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhavatyārogyāya",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is",
+        "gram": "3 sg. pres. √bhū"
+       },
+       {
+        "w": "ārogyāya",
+        "gloss": "for health",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "balavarṇavivṛddhaye",
+      "words": [
+       {
+        "w": "bala-varṇa-vivṛddhaye",
+        "gloss": "for the increase of strength and complexion",
+        "gram": "f. dat. sg., tat-puruṣa with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "varcasvitvāyopacayāya",
+      "words": [
+       {
+        "w": "varcasvitvāya",
+        "gloss": "for lustre",
+        "gram": "n. dat. sg."
+       },
+       {
+        "w": "upacayāya",
+        "gloss": "for bodily growth",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "jñānopapattaye",
+      "words": [
+       {
+        "w": "jñāna-upapattaye",
+        "gloss": "for the attainment of knowledge",
+        "gram": "f. dat. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "paramāyuḥprakarṣāya",
+      "words": [
+       {
+        "w": "parama-āyuḥ-prakarṣāya",
+        "gloss": "for the greatest extension of life",
+        "gram": "m. dat. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ceti",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "(end of speech)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वार्योविद ने कहा: यदि वैद्य अति बलवान्, अति कठोर, अति शीघ्र कार्य करने वाले और प्राणघातक पवन को भली-भाँति न समझे, तो वह, बिना उतावली के अत्यन्त सावधान होकर, प्रकुपित हुए इस वायु से, मृत्यु के भय से, पहले ही रक्षा करने के लिए आगे से कैसे निर्देश देगा? वायु की यथार्थ स्तुति भी आरोग्य, बल और वर्ण की वृद्धि, तेजस्विता, उपचय, ज्ञान की प्राप्ति और परम आयु के उत्कर्ष के लिए होती है।",
+  "english": "Vāryovida said: If the physician were not to study closely Vāta (pavana), which is very strong, very harsh, acting very fast and dangerous, how could he, unhurried and very careful, give instruction in advance to protect (the patient) from it when aggravated, beforehand, out of fear of mortal danger? Even a true praise of Vāta (vāyu) serves for health, for the increase of strength and complexion, for lustre, for bodily growth, for the attainment of knowledge and for the greatest extension of life.",
+  "text_flags": [
+   {
+    "src": "cennānuniśamyet,",
+    "suggest": "cennānuniśāmayet,",
+    "why": "possible typo: \"anuniśamyet\" is not a regular form; the causative optative anuniśāmayet \"were to observe/study\" fits the sense."
+   }
+  ],
+  "notes": "The construction of the first sentence is unclear. asahasā is taken as \"without rashness\" with atiprayataḥ (\"unhurried and very careful\"); it might instead qualify prakupitam. agre and prāg eva are both \"beforehand\"; prāg eva is rendered \"beforehand\". abhidhāsyati may mean \"will instruct\" or \"will set about\". ātyayika \"causing mortal danger\".",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "01.12.10"
+  ],
+  "lines_deva": [
+   "वार्योविद उवाच भिषक् पवनमतिबलमतिपरुषमतिशीघ्रकारिणमात्ययिकं चेन्नानुनिशम्येत्, असहसा प्रकुपितमतिप्रयतः कथमग्रेऽभिरक्षितुमभिधास्यति प्रागेवैनमत्ययभयात्; वायोर्यथार्था स्तुतिरपि भवत्यारोग्याय बलवर्णविवृद्धये वर्चस्वित्वायोपचयाय ज्ञानोपपत्तये परमायुःप्रकर्षाय चेति"
+  ],
+  "lines_iast": [
+   "vāryovida uvāca bhiṣak pavanamatibalamatiparuṣamatiśīghrakāriṇamātyayikaṃ cennānuniśamyet, asahasā prakupitamatiprayataḥ kathamagre'bhirakṣitumabhidhāsyati prāgevainamatyayabhayāt; vāyoryathārthā stutirapi bhavatyārogyāya balavarṇavivṛddhaye varcasvitvāyopacayāya jñānopapattaye paramāyuḥprakarṣāya ceti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "marīcirūvāca",
+      "words": [
+       {
+        "w": "marīciḥ",
+        "gloss": "Marīci (name)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "uvāca",
+        "gloss": "said",
+        "gram": "3 sg. pf. √vac"
+       }
+      ]
+     },
+     {
+      "src": "agnireva",
+      "words": [
+       {
+        "w": "agniḥ",
+        "gloss": "fire (agni)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "alone",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śarīre",
+      "words": [
+       {
+        "w": "śarīre",
+        "gloss": "in the body",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pittāntargataḥ",
+      "words": [
+       {
+        "w": "pitta-antargataḥ",
+        "gloss": "situated within Pitta",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kupitākupitaḥ",
+      "words": [
+       {
+        "w": "kupita-akupitaḥ",
+        "gloss": "aggravated or unaggravated",
+        "gram": "m. nom. sg., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "śubhāśubhāni",
+      "words": [
+       {
+        "w": "śubha-aśubhāni",
+        "gloss": "good and bad (effects)",
+        "gram": "n. acc. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "karoti;",
+      "words": [
+       {
+        "w": "karoti",
+        "gloss": "produces",
+        "gram": "3 sg. pres. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "tadyathā",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paktimapaktiṃ",
+      "words": [
+       {
+        "w": "paktim",
+        "gloss": "digestion",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "apaktim",
+        "gloss": "indigestion",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "darśanamadarśanaṃ",
+      "words": [
+       {
+        "w": "darśanam",
+        "gloss": "vision",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "adarśanam",
+        "gloss": "loss of vision",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mātrāmātratvamūṣmaṇaḥ",
+      "words": [
+       {
+        "w": "mātrā-amātratvam",
+        "gloss": "normal and abnormal measure",
+        "gram": "n. acc. sg., abstract in -tva on the dvandva mātrā-amātra"
+       },
+       {
+        "w": "ūṣmaṇaḥ",
+        "gloss": "of heat",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakṛtivikṛtivikṛtivarṇau",
+      "words": [
+       {
+        "w": "prakṛti-vikṛti-varṇau",
+        "gloss": "normal and abnormal complexion",
+        "gram": "m. acc. du., dvandva + tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "śauryaṃ",
+      "words": [
+       {
+        "w": "śauryam",
+        "gloss": "courage",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhayaṃ",
+      "words": [
+       {
+        "w": "bhayam",
+        "gloss": "fear",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "krodhaṃ",
+      "words": [
+       {
+        "w": "krodham",
+        "gloss": "anger",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "harṣaṃ",
+      "words": [
+       {
+        "w": "harṣam",
+        "gloss": "joy",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mohaṃ",
+      "words": [
+       {
+        "w": "moham",
+        "gloss": "confusion",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prasādamityevamādīni",
+      "words": [
+       {
+        "w": "prasādam",
+        "gloss": "clarity",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "evam-ādīni",
+        "gloss": "such and others",
+        "gram": "n. acc. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "cāparāṇi",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "aparāṇi",
+        "gloss": "other",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "dvandvānīti",
+      "words": [
+       {
+        "w": "dvandvāni",
+        "gloss": "pairs",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "iti",
+        "gloss": "(end of speech)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मरीचि ने कहा: शरीर में पित्त के भीतर स्थित अग्नि ही कुपित और अकुपित होकर शुभ और अशुभ करती है, जैसे: पाक और अपाक, दर्शन और अदर्शन, ऊष्मा की उचित मात्रा और अनुचित मात्रा, प्रकृत और विकृत वर्ण, शौर्य और भय, क्रोध और हर्ष, मोह और प्रसाद, और ऐसे ही अन्य द्वन्द्व।",
+  "english": "Marīci said: It is fire (agni) alone, situated within Pitta in the body, that, aggravated or unaggravated, produces good and bad (effects), such as digestion and indigestion, vision and loss of vision, normal and abnormal measure of heat, normal and abnormal complexion, courage and fear, anger and joy, confusion and clarity, and other such pairs.",
+  "text_flags": [
+   {
+    "src": "marīcirūvāca",
+    "suggest": "marīciruvāca",
+    "why": "the verb is uvāca; \"ūvāca\" with a long ū is a typo."
+   },
+   {
+    "src": "prakṛtivikṛtivikṛtivarṇau",
+    "suggest": "prakṛtivikṛtivarṇau",
+    "why": "\"vikṛti\" appears twice, an apparent repetition; the pair is normal and abnormal complexion."
+   }
+  ],
+  "notes": "mātrāmātratvam is read as the abstract (-tva) of the dvandva mātrā-amātra, \"proper and improper measure\" of heat. The pairs are listed in the order good/bad for some (digestion/indigestion) but bad/good for others (anger/joy, confusion/clarity); kept as printed.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.12.11"
+  ],
+  "lines_deva": [
+   "मरीचिरूवाच अग्निरेव शरीरे पित्तान्तर्गतः कुपिताकुपितः शुभाशुभानि करोति; तद्यथा पक्तिमपक्तिं दर्शनमदर्शनं मात्रामात्रत्वमूष्मणः प्रकृतिविकृतिविकृतिवर्णौ शौर्यं भयं क्रोधं हर्षं मोहं प्रसादमित्येवमादीनि चापराणि द्वन्द्वानीति"
+  ],
+  "lines_iast": [
+   "marīcirūvāca agnireva śarīre pittāntargataḥ kupitākupitaḥ śubhāśubhāni karoti; tadyathā paktimapaktiṃ darśanamadarśanaṃ mātrāmātratvamūṣmaṇaḥ prakṛtivikṛtivikṛtivarṇau śauryaṃ bhayaṃ krodhaṃ harṣaṃ mohaṃ prasādamityevamādīni cāparāṇi dvandvānīti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tacchrutvā",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "śrutvā",
+        "gloss": "having heard",
+        "gram": "abs. √śru"
+       }
+      ]
+     },
+     {
+      "src": "marīcivacaḥ",
+      "words": [
+       {
+        "w": "marīci-vacaḥ",
+        "gloss": "Marīci's statement",
+        "gram": "n. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kāpya",
+      "words": [
+       {
+        "w": "kāpyaḥ",
+        "gloss": "Kāpya (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "uvāca",
+      "words": [
+       {
+        "w": "uvāca",
+        "gloss": "said",
+        "gram": "3 sg. pf. √vac"
+       }
+      ]
+     },
+     {
+      "src": "soma",
+      "words": [
+       {
+        "w": "somaḥ",
+        "gloss": "soma",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "alone",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śarīre",
+      "words": [
+       {
+        "w": "śarīre",
+        "gloss": "in the body",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śleṣmāntargataḥ",
+      "words": [
+       {
+        "w": "śleṣma-antargataḥ",
+        "gloss": "situated within Kapha (śleṣman)",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kupitākupitaḥ",
+      "words": [
+       {
+        "w": "kupita-akupitaḥ",
+        "gloss": "aggravated or unaggravated",
+        "gram": "m. nom. sg., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "śubhāśubhāni",
+      "words": [
+       {
+        "w": "śubha-aśubhāni",
+        "gloss": "good and bad (effects)",
+        "gram": "n. acc. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "karoti;",
+      "words": [
+       {
+        "w": "karoti",
+        "gloss": "produces",
+        "gram": "3 sg. pres. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "tadyathā",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "daṛḍhyaṃ",
+      "words": [
+       {
+        "w": "dārḍhyam",
+        "gloss": "firmness",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śaithilyamupacayaṃ",
+      "words": [
+       {
+        "w": "śaithilyam",
+        "gloss": "looseness",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "upacayam",
+        "gloss": "bulk",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kārśyamutsāhamālasyaṃ",
+      "words": [
+       {
+        "w": "kārśyam",
+        "gloss": "leanness",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "utsāham",
+        "gloss": "enthusiasm",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ālasyam",
+        "gloss": "laziness",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛṣatāṃ",
+      "words": [
+       {
+        "w": "vṛṣatām",
+        "gloss": "virility",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "klībatāṃ",
+      "words": [
+       {
+        "w": "klībatām",
+        "gloss": "impotence",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jñānamajñanaṃ",
+      "words": [
+       {
+        "w": "jñānam",
+        "gloss": "knowledge",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ajñānam",
+        "gloss": "ignorance",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "buddhiṃ",
+      "words": [
+       {
+        "w": "buddhim",
+        "gloss": "understanding",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mohamevamādīni",
+      "words": [
+       {
+        "w": "moham",
+        "gloss": "confusion",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "evam-ādīni",
+        "gloss": "such and others",
+        "gram": "n. acc. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "cāparāṇi",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "aparāṇi",
+        "gloss": "other",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "dvandvānīti",
+      "words": [
+       {
+        "w": "dvandvāni",
+        "gloss": "pairs",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "iti",
+        "gloss": "(end of speech)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मरीचि का वचन सुनकर काप्य ने कहा: शरीर में श्लेष्मा के भीतर स्थित सोम ही कुपित और अकुपित होकर शुभ और अशुभ करता है, जैसे: दृढ़ता और शिथिलता, उपचय और कृशता, उत्साह और आलस्य, वृषता और क्लीबता, ज्ञान और अज्ञान, बुद्धि और मोह, और ऐसे ही अन्य द्वन्द्व।",
+  "english": "Having heard Marīci's statement, Kāpya said: It is soma alone, situated within Kapha (śleṣman) in the body, that, aggravated or unaggravated, produces good and bad (effects), such as firmness and looseness, bulk and leanness, enthusiasm and laziness, virility and impotence, knowledge and ignorance, understanding and confusion, and other such pairs.",
+  "text_flags": [
+   {
+    "src": "daṛḍhyaṃ",
+    "suggest": "dārḍhyaṃ",
+    "why": "\"daṛḍhya\" is not a word; dārḍhya \"firmness\" is the pair of śaithilya \"looseness\"."
+   },
+   {
+    "src": "jñānamajñanaṃ",
+    "suggest": "jñānamajñānaṃ",
+    "why": "the opposite of jñāna is ajñāna with long ā."
+   }
+  ],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.12.12"
+  ],
+  "lines_deva": [
+   "तच्छ्रुत्वा मरीचिवचः काप्य उवाच सोम एव शरीरे श्लेष्मान्तर्गतः कुपिताकुपितः शुभाशुभानि करोति; तद्यथा दऋढ्यं शैथिल्यमुपचयं कार्श्यमुत्साहमालस्यं वृषतां क्लीबतां ज्ञानमज्ञनं बुद्धिं मोहमेवमादीनि चापराणि द्वन्द्वानीति"
+  ],
+  "lines_iast": [
+   "tacchrutvā marīcivacaḥ kāpya uvāca soma eva śarīre śleṣmāntargataḥ kupitākupitaḥ śubhāśubhāni karoti; tadyathā daṛḍhyaṃ śaithilyamupacayaṃ kārśyamutsāhamālasyaṃ vṛṣatāṃ klībatāṃ jñānamajñanaṃ buddhiṃ mohamevamādīni cāparāṇi dvandvānīti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tacchrutvā",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "śrutvā",
+        "gloss": "having heard",
+        "gram": "abs. √śru"
+       }
+      ]
+     },
+     {
+      "src": "kāpyavaco",
+      "words": [
+       {
+        "w": "kāpya-vacaḥ",
+        "gloss": "Kāpya's statement",
+        "gram": "n. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhagavān",
+      "words": [
+       {
+        "w": "bhagavān",
+        "gloss": "the venerable",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "punarvasurātreya",
+      "words": [
+       {
+        "w": "punarvasuḥ",
+        "gloss": "Punarvasu (name)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ātreyaḥ",
+        "gloss": "Ātreya (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "uvāca",
+      "words": [
+       {
+        "w": "uvāca",
+        "gloss": "said",
+        "gram": "3 sg. pf. √vac"
+       }
+      ]
+     },
+     {
+      "src": "sarva",
+      "words": [
+       {
+        "w": "sarve",
+        "gloss": "all",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhavantaḥ",
+      "words": [
+       {
+        "w": "bhavantaḥ",
+        "gloss": "you (sirs)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "samyagāhuranyatraikāntikavacanāt;",
+      "words": [
+       {
+        "w": "samyak",
+        "gloss": "rightly",
+        "gram": "ind."
+       },
+       {
+        "w": "āhuḥ",
+        "gloss": "have spoken",
+        "gram": "3 pl. pf. √ah"
+       },
+       {
+        "w": "anyatra",
+        "gloss": "except for",
+        "gram": "ind."
+       },
+       {
+        "w": "aikāntika-vacanāt",
+        "gloss": "one-sided statement",
+        "gram": "n. abl. sg., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "sarva",
+      "words": [
+       {
+        "w": "sarve",
+        "gloss": "all",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "khalu",
+      "words": [
+       {
+        "w": "khalu",
+        "gloss": "surely",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātapittaśleṣmāṇaḥ",
+      "words": [
+       {
+        "w": "vāta-pitta-śleṣmāṇaḥ",
+        "gloss": "Vāta, Pitta and Kapha (śleṣman)",
+        "gram": "m. nom. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "prakṛtibhūtāḥ",
+      "words": [
+       {
+        "w": "prakṛti-bhūtāḥ",
+        "gloss": "in the normal state",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "puruṣamavyāpannendriyaṃ",
+      "words": [
+       {
+        "w": "puruṣam",
+        "gloss": "a person",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "avyāpanna-indriyam",
+        "gloss": "with unimpaired senses",
+        "gram": "m. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "balavarṇasukhopapannamāyuṣā",
+      "words": [
+       {
+        "w": "bala-varṇa-sukha-upapannam",
+        "gloss": "endowed with strength, complexion and happiness",
+        "gram": "m. acc. sg., tat-puruṣa with dvandva"
+       },
+       {
+        "w": "āyuṣā",
+        "gloss": "with life",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "mahatopapādayanti",
+      "words": [
+       {
+        "w": "mahatā",
+        "gloss": "long",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "upapādayanti",
+        "gloss": "endow",
+        "gram": "3 pl. pres. caus. upa-√pad"
+       }
+      ]
+     },
+     {
+      "src": "samyagevācaritā",
+      "words": [
+       {
+        "w": "samyak",
+        "gloss": "properly",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "ācaritāḥ",
+        "gloss": "practised",
+        "gram": "m. nom. pl., ppp. ā-√car"
+       }
+      ]
+     },
+     {
+      "src": "dharmārthakāmā",
+      "words": [
+       {
+        "w": "dharma-artha-kāmāḥ",
+        "gloss": "dharma, wealth and pleasure",
+        "gram": "m. nom. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "iva",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "niḥśreyasena",
+      "words": [
+       {
+        "w": "niḥśreyasena",
+        "gloss": "with the highest good",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "mahatā",
+      "words": [
+       {
+        "w": "mahatā",
+        "gloss": "great",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "puruṣamiha",
+      "words": [
+       {
+        "w": "puruṣam",
+        "gloss": "a person",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cāmuṣmiśca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "amuṣmin",
+        "gloss": "in that other",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "loke;",
+      "words": [
+       {
+        "w": "loke",
+        "gloss": "world",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vikṛtāstvenaṃ",
+      "words": [
+       {
+        "w": "vikṛtāḥ",
+        "gloss": "deranged",
+        "gram": "m. nom. pl., ppp. vi-√kṛ"
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mahatā",
+      "words": [
+       {
+        "w": "mahatā",
+        "gloss": "great",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "viparyayeṇopapādayanti",
+      "words": [
+       {
+        "w": "viparyayeṇa",
+        "gloss": "with the reverse",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "upapādayanti",
+        "gloss": "endow",
+        "gram": "3 pl. pres. caus. upa-√pad"
+       }
+      ]
+     },
+     {
+      "src": "ṛtavastraya",
+      "words": [
+       {
+        "w": "ṛtavaḥ",
+        "gloss": "seasons",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "trayaḥ",
+        "gloss": "three",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vikṛtimāpannā",
+      "words": [
+       {
+        "w": "vikṛtim",
+        "gloss": "derangement",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "āpannāḥ",
+        "gloss": "having fallen into",
+        "gram": "m. nom. pl., ppp. ā-√pad"
+       }
+      ]
+     },
+     {
+      "src": "lokamaśubhenopaghātakāla",
+      "words": [
+       {
+        "w": "lokam",
+        "gloss": "the world",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "aśubhena",
+        "gloss": "with misfortune",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "upaghāta-kāle",
+        "gloss": "at the time of destruction",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(end of speech)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "काप्य का वचन सुनकर भगवान् पुनर्वसु आत्रेय ने कहा: एकान्तिक कथन को छोड़कर आप सब ने ठीक कहा है। निश्चय ही प्रकृतिस्थ वात, पित्त और श्लेष्मा सभी, अविकृत इन्द्रियों वाले तथा बल, वर्ण और सुख से युक्त पुरुष को दीर्घ आयु से युक्त करते हैं, जैसे भली-भाँति आचरण किए गए धर्म, अर्थ और काम पुरुष को इस लोक और परलोक में महान् कल्याण से युक्त करते हैं; परन्तु विकृत होने पर वे उसे महान् विपर्यय से युक्त करते हैं; विकृति को प्राप्त हुई तीनों ऋतुएँ ही उपघात के समय लोक को अशुभ से (युक्त करती हैं)।",
+  "english": "Having heard Kāpya's statement, the venerable Punarvasu Ātreya said: All of you have spoken rightly, except for the one-sided statement. Surely all of them, Vāta, Pitta and Kapha (śleṣman), in the normal state, endow a person who has unimpaired senses and is endowed with strength, complexion and happiness with a long life, just as dharma, wealth and pleasure, properly practised, endow a person with the highest good in this world and in the other; but when deranged they endow him with the great reverse; the three seasons indeed, fallen into derangement, (endow) the world with misfortune at a time of destruction.",
+  "text_flags": [
+   {
+    "src": "cāmuṣmiśca",
+    "suggest": "cāmuṣmiṃśca",
+    "why": "the loc. sg. amuṣmin before ca takes the form amuṣmiṃś ca; the anusvāra is missing."
+   }
+  ],
+  "notes": "mahatā with āyuṣā is rendered \"long (life)\". The clause on the three seasons has no verb of its own; upapādayanti is understood. It reads like a comparison, but the printed particle is eva, so it is translated \"indeed\". aikāntikavacana \"one-sided (exclusive) statement\" refers to each speaker naming only one factor.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.12.13"
+  ],
+  "lines_deva": [
+   "तच्छ्रुत्वा काप्यवचो भगवान् पुनर्वसुरात्रेय उवाच सर्व एव भवन्तः सम्यगाहुरन्यत्रैकान्तिकवचनात्; सर्व एव खलु वातपित्तश्लेष्माणः प्रकृतिभूताः पुरुषमव्यापन्नेन्द्रियं बलवर्णसुखोपपन्नमायुषा महतोपपादयन्ति सम्यगेवाचरिता धर्मार्थकामा इव निःश्रेयसेन महता पुरुषमिह चामुष्मिश्च लोके; विकृतास्त्वेनं महता विपर्ययेणोपपादयन्ति ऋतवस्त्रय एव विकृतिमापन्ना लोकमशुभेनोपघातकाल इति"
+  ],
+  "lines_iast": [
+   "tacchrutvā kāpyavaco bhagavān punarvasurātreya uvāca sarva eva bhavantaḥ samyagāhuranyatraikāntikavacanāt; sarva eva khalu vātapittaśleṣmāṇaḥ prakṛtibhūtāḥ puruṣamavyāpannendriyaṃ balavarṇasukhopapannamāyuṣā mahatopapādayanti samyagevācaritā dharmārthakāmā iva niḥśreyasena mahatā puruṣamiha cāmuṣmiśca loke; vikṛtāstvenaṃ mahatā viparyayeṇopapādayanti ṛtavastraya eva vikṛtimāpannā lokamaśubhenopaghātakāla iti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tadṛṣayaḥ",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ṛṣayaḥ",
+        "gloss": "the sages",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sarva",
+      "words": [
+       {
+        "w": "sarve",
+        "gloss": "all",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "evānumenire",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "anumenire",
+        "gloss": "approved",
+        "gram": "3 pl. pf. anu-√man"
+       }
+      ]
+     },
+     {
+      "src": "vacanamātreyasya",
+      "words": [
+       {
+        "w": "vacanam",
+        "gloss": "statement",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ātreyasya",
+        "gloss": "of Ātreya",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhagavato'bhinananduśceti",
+      "words": [
+       {
+        "w": "bhagavataḥ",
+        "gloss": "of the venerable",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "abhinananduḥ",
+        "gloss": "welcomed",
+        "gram": "3 pl. pf. abhi-√nand"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "(end of account)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सभी ऋषियों ने भगवान् आत्रेय के उस वचन का अनुमोदन किया और उसका अभिनन्दन किया।",
+  "english": "All the sages approved that statement of the venerable Ātreya and welcomed it.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.12.14"
+  ],
+  "lines_deva": [
+   "तदृषयः सर्व एवानुमेनिरे वचनमात्रेयस्य भगवतोऽभिननन्दुश्चेति"
+  ],
+  "lines_iast": [
+   "tadṛṣayaḥ sarva evānumenire vacanamātreyasya bhagavato'bhinananduśceti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "there is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "cātra",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "atra",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tadātreyavacaḥ",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ātreya-vacaḥ",
+        "gloss": "Ātreya's statement",
+        "gram": "n. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "śrutvā",
+      "words": [
+       {
+        "w": "śrutvā",
+        "gloss": "having heard",
+        "gram": "abs. √śru"
+       }
+      ]
+     },
+     {
+      "src": "sarva",
+      "words": [
+       {
+        "w": "sarve",
+        "gloss": "all",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "evānumenire",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "anumenire",
+        "gloss": "approved",
+        "gram": "3 pl. pf. anu-√man"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kṛṣayo'bhinananduśca",
+      "words": [
+       {
+        "w": "ṛṣayaḥ",
+        "gloss": "the sages",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "abhinananduḥ",
+        "gloss": "welcomed",
+        "gram": "3 pl. pf. abhi-√nand"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yathendravacanaṃ",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       },
+       {
+        "w": "indra-vacanam",
+        "gloss": "Indra's statement",
+        "gram": "n. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "surāḥ",
+      "words": [
+       {
+        "w": "surāḥ",
+        "gloss": "the gods",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और यहाँ (श्लोक) है: आत्रेय का वह वचन सुनकर सभी ऋषियों ने उसका अनुमोदन किया और अभिनन्दन किया, जैसे देवता इन्द्र के वचन का करते हैं।",
+  "english": "And here there is: Having heard that statement of Ātreya, all the sages approved it and welcomed it, as the gods do Indra's statement.",
+  "text_flags": [
+   {
+    "src": "kṛṣayo'bhinananduśca",
+    "suggest": "ṛṣayo'bhinananduśca",
+    "why": "\"kṛṣayaḥ\" gives no sense; the sages (ṛṣayaḥ) are the subject, as in unit 14."
+   }
+  ],
+  "notes": "Indra is named in the printed text (indravacanam). \"do\" in the comparison is understood.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.12.15a",
+   "01.12.15b",
+   "01.12.15c"
+  ],
+  "lines_deva": [
+   "भवति चात्र",
+   "तदात्रेयवचः श्रुत्वा सर्व एवानुमेनिरे",
+   "कृषयोऽभिननन्दुश्च यथेन्द्रवचनं सुराः"
+  ],
+  "lines_iast": [
+   "bhavati cātra",
+   "tadātreyavacaḥ śrutvā sarva evānumenire",
+   "kṛṣayo'bhinananduśca yathendravacanaṃ surāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ślokau",
+      "words": [
+       {
+        "w": "ślokau",
+        "gloss": "two verses",
+        "gram": "m. nom. du."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "guṇāḥ",
+      "words": [
+       {
+        "w": "guṇāḥ",
+        "gloss": "qualities",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ṣaḍ",
+      "words": [
+       {
+        "w": "ṣaṭ",
+        "gloss": "six",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dvividho",
+      "words": [
+       {
+        "w": "dvi-vidhaḥ",
+        "gloss": "two-fold",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "heturvividhaṃ",
+      "words": [
+       {
+        "w": "hetuḥ",
+        "gloss": "cause",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "vividham",
+        "gloss": "varied",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "karma",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "action",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yat",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vāyoścaturvidhaṃ",
+      "words": [
+       {
+        "w": "vāyoḥ",
+        "gloss": "of Vāta (vāyu)",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "catur-vidham",
+        "gloss": "four-fold",
+        "gram": "n. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "karma",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "action",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pṛthak",
+      "words": [
+       {
+        "w": "pṛthak",
+        "gloss": "separately",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaphapittayoḥ",
+      "words": [
+       {
+        "w": "kapha-pittayoḥ",
+        "gloss": "of Kapha and Pitta",
+        "gram": "n. gen. du., dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यहाँ दो श्लोक हैं: छह गुण, दो प्रकार का हेतु, और फिर जो विविध कर्म है, वायु का चार प्रकार का कर्म, और अलग से कफ और पित्त का (कर्म),",
+  "english": "Here, the two verses: The six qualities, the two-fold cause, and again the varied action, the four-fold action of Vāta (vāyu), and separately that of Kapha and Pitta,",
+  "text_flags": [],
+  "notes": "The two-fold cause is the aggravating and pacifying factors (units 5 to 6); the four-fold action is that of Vāta aggravated or not, in the body or outside it (P2 to P5). \"vividhaṃ karma yat punaḥ\" may be read with the next line (\"the varied action, namely the four-fold action of Vāta\"). The summary sentence continues into unit 17.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.12.16a",
+   "01.12.16b",
+   "01.12.16c"
+  ],
+  "lines_deva": [
+   "तत्र श्लोकौ",
+   "गुणाः षड् द्विविधो हेतुर्विविधं कर्म यत् पुनः",
+   "वायोश्चतुर्विधं कर्म पृथक् च कफपित्तयोः"
+  ],
+  "lines_iast": [
+   "tatra ślokau",
+   "guṇāḥ ṣaḍ dvividho heturvividhaṃ karma yat punaḥ",
+   "vāyoścaturvidhaṃ karma pṛthak ca kaphapittayoḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "maharṣīṇāṃ",
+      "words": [
+       {
+        "w": "maharṣīṇām",
+        "gloss": "of the great sages",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "matiryā",
+      "words": [
+       {
+        "w": "matiḥ",
+        "gloss": "view",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "yā",
+        "gloss": "which",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yā",
+        "gloss": "which",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "punarvasumatiśca",
+      "words": [
+       {
+        "w": "punarvasu-matiḥ",
+        "gloss": "Punarvasu's view",
+        "gram": "f. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yā",
+        "gloss": "which",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kalākalīye",
+      "words": [
+       {
+        "w": "kalā-akalīye",
+        "gloss": "in the Kalākalīya (chapter)",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vātasya",
+      "words": [
+       {
+        "w": "vātasya",
+        "gloss": "of Vāta",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tat",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvaṃ",
+      "words": [
+       {
+        "w": "sarvam",
+        "gloss": "all",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃprakāśitam",
+      "words": [
+       {
+        "w": "saṃprakāśitam",
+        "gloss": "has been made clear",
+        "gram": "n. nom. sg., ppp. caus. sam-pra-√kāś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "महर्षियों का जो-जो मत है और पुनर्वसु का जो मत है, वह सब वात के कलाकलीय (अध्याय) में प्रकाशित किया गया है।",
+  "english": "whatever was the view of each of the great sages, and the view of Punarvasu: all that has been made clear in the (chapter) Kalākalīya of Vāta.",
+  "text_flags": [],
+  "notes": "\"yā yā\" (distributive) is rendered \"of each\". vātasya kalākalīye names the chapter Vātakalākalīya.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.12.17a",
+   "01.12.17b"
+  ],
+  "lines_deva": [
+   "महर्षीणां मतिर्या या पुनर्वसुमतिश्च या",
+   "कलाकलीये वातस्य तत् सर्वं संप्रकाशितम्"
+  ],
+  "lines_iast": [
+   "maharṣīṇāṃ matiryā yā punarvasumatiśca yā",
+   "kalākalīye vātasya tat sarvaṃ saṃprakāśitam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "P6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ityagniveśakṛte",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus (closing marker)",
+        "gram": "ind."
+       },
+       {
+        "w": "agniveśa-kṛte",
+        "gloss": "composed by Agniveśa",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tantre",
+      "words": [
+       {
+        "w": "tantre",
+        "gloss": "in the treatise",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "carakapratisaṃskṛte",
+      "words": [
+       {
+        "w": "caraka-pratisaṃskṛte",
+        "gloss": "redacted by Caraka",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ślokasthāne",
+      "words": [
+       {
+        "w": "śloka-sthāne",
+        "gloss": "in the Śloka section (Ślokasthāna)",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vātakalākalīyo",
+      "words": [
+       {
+        "w": "vāta-kalā-akalīyaḥ",
+        "gloss": "Vātakalākalīya (title)",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "nāma",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "named",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dvādaśo'dhyāyaḥ",
+      "words": [
+       {
+        "w": "dvādaśaḥ",
+        "gloss": "twelfth",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "adhyāyaḥ",
+        "gloss": "chapter",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "samāptaḥ",
+      "words": [
+       {
+        "w": "samāptaḥ",
+        "gloss": "completed",
+        "gram": "m. nom. sg., ppp. sam-√āp"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार अग्निवेश द्वारा रचित, चरक द्वारा प्रतिसंस्कृत तन्त्र के श्लोकस्थान में वातकलाकलीय नामक बारहवाँ अध्याय, पूर्ण।",
+  "english": "Thus, in the treatise composed by Agniveśa and redacted by Caraka, in the Śloka section (Ślokasthāna), the twelfth chapter named Vātakalākalīya, completed.",
+  "text_flags": [],
+  "notes": "Colophon. samāptaḥ is printed and is rendered as the participle \"completed\" (Hindi पूर्ण), keeping the colophon verbless.",
+  "confidence": "high",
+  "type": "prose",
+  "line_ids": [
+   "01.12.P6"
+  ],
+  "lines_deva": [
+   "इत्यग्निवेशकृते तन्त्रे चरकप्रतिसंस्कृते श्लोकस्थाने वातकलाकलीयो नाम द्वादशोऽध्यायः समाप्तः"
+  ],
+  "lines_iast": [
+   "ityagniveśakṛte tantre carakapratisaṃskṛte ślokasthāne vātakalākalīyo nāma dvādaśo'dhyāyaḥ samāptaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "P7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nirdeśacatuṣkaḥ",
+      "words": [
+       {
+        "w": "nirdeśa-catuṣkaḥ",
+        "gloss": "tetrad on instruction",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार निर्देश-चतुष्क।",
+  "english": "Thus the tetrad on instruction (nirdeśa).",
+  "text_flags": [],
+  "notes": "Marks the end of a group of four chapters (chapters 9 to 12).",
+  "confidence": "high",
+  "type": "prose",
+  "line_ids": [
+   "01.12.P7"
+  ],
+  "lines_deva": [
+   "इति निर्देशचतुष्कः"
+  ],
+  "lines_iast": [
+   "iti nirdeśacatuṣkaḥ"
+  ],
+  "uncertain": []
+ }
+]

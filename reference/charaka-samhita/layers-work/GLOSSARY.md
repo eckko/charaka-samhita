@@ -68,3 +68,7 @@ Draft status: AI drafts, not read by a person.
 - asnigdha/snigdha/atisnigdha lakṣaṇa = sign of the unoleated/oleated/over-oleated; kha = channels (छिद्र); parihāra = restrictions; hrasva/madhyama mātrā = small/medium measure; paktā in Hindi = पचाने वाला
 - plant identifications (tagged standard/probable/disputed) are allowed in notes only
 - yukti in epistemology passages (Sū 11) = reasoning (yukti); yukti as treatment planning = rational planning; upakaraṇa in Sū 11 = means of living
+- malāyana = channels of waste; upekṣā among the virtues = equanimity (upekṣā); smṛti in sadvṛtta = mindfulness; vikāra of the elements = modification; śleṣman as a discharge = phlegm (श्लेष्मा); upacāra of behaviour = manners; pañcapañcaka = the five pentads
+- samīraṇa + genitive (samīraṇo 'gneḥ) = kindler (of fire), not Vāta; agni inside Pitta = fire (agni, अग्नि); restrictive eva in an exclusive claim = "alone"; dhātu of wind in the world = element; srotas in the world = streams; tantra-yantra = frame and mechanism
+- kalā/akalā (chapter title) = aspects and non-aspects (Vātakalākalīya kept as name); prakopaṇa/praśamana = aggravator/pacifier; prakopa = aggravation; viśada = non-slimy (विशद); dāruṇa = harsh; khara = rough; picchila = slimy; ghana = compact; ātyayika = dangerous to life
+- Hindi: अग्नि takes feminine agreement; rājarṣi = royal sage (राजर्षि); names: Kuśa Sāṅkṛtyāyana, Kumāraśiras Bharadvāja, Kāṅkāyana, Baḍiśa Dhāmārgava, Vāryovida, Marīci, Kāpya; colophon samāptaḥ = completed (पूर्ण)
