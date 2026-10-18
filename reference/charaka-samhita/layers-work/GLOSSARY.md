@@ -38,3 +38,6 @@ Draft status: AI drafts, not read by a person.
 - tvak/tvac (plant bark) = bark (छाल), not त्वचा; payas/kṣīra in Hindi = दूध, never पय (chagalīpayas = बकरी का दूध)
 - pradeha = plaster (प्रदेह); lepa = paste (लेप); ālepana = ointment (आलेपन); udvartana = rubbing (उद्वर्तन); avacūrṇana = dusting (अवचूर्णन); pragharṣa = rubbing; nirvāpaṇa = cooling (निर्वापण)
 - sitopalā = sugar candy (सितोपला); śirorujā = headache (शिरोरुजा); karṣa, āḍhaka kept as measures (values in notes only)
+- dhūma kinds: prāyogika/snaihika/vairecanika = regular/unctuous/evacuative smoking (प्रायोगिक/स्नैहिक/वैरेचनिक); dhūmanetra = smoking pipe; bastinetra = enema nozzle; aṇutaila = Aṇu oil (अणुतैल)
+- nāvana = nasal therapy in English too, never "nasal medication"; supīta/apīta/atipīta (dhūma) = well drunk/not drunk/drunk in excess; picu = swab; uttamāṅga = head; jantu = person (जन्तु/प्राणी)
+- dantaviśodhana = tooth-cleanser; jihvānirlekhana = tongue-scraper; tarpaṇa kept Sanskrit; disease names kept Sanskrit: śaṅkhaka, rohiṇī, meha, madātyaya, timira, pīnasa, manyāstambha, hanusaṃgraha
