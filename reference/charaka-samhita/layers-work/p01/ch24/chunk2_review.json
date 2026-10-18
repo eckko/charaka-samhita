@@ -2,8 +2,22 @@
  "units": [
   {
    "n": "32",
-   "verdict": "ok",
-   "issues": []
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "intoxication / fainting / collapse",
+     "problem": "Glossary (review Sū 24 ch1): mada (disease) = mada (intoxication), mūrcchāya kept as printed, saṃnyāsa = saṃnyāsa (collapse); chunk 1 English uses 'the mada of Vāta'. English should keep the Sanskrit terms, gloss at first use only.",
+     "fix": "One whose speech is scanty and incoherent, who is given to drowsiness and sloth, pale, and intent on brooding, should be known as possessed by the mada (intoxication) of Kapha.",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "set",
+      "field": "english",
+      "value": "One whose speech is scanty and incoherent, who is given to drowsiness and sloth, pale, and intent on brooding, should be known as possessed by the mada (intoxication) of Kapha."
+     }
+    }
+   ]
   },
   {
    "n": "33",
@@ -11,38 +25,37 @@
    "issues": [
     {
      "field": "english",
-     "where": "all these forms appear",
-     "problem": "The first half has no verb; 'appear' is supplied without marking.",
-     "fix": "all these forms [appear]",
+     "where": "intoxication / fainting / collapse",
+     "problem": "Glossary (review Sū 24 ch1): mada (disease) = mada (intoxication), mūrcchāya kept as printed, saṃnyāsa = saṃnyāsa (collapse); chunk 1 English uses 'the mada of Vāta'. English should keep the Sanskrit terms, gloss at first use only. Also 33: 'appear' is supplied (no verb) and is now bracketed; sannipāta gloss as in the glossary.",
+     "fix": "In mada caused by sannipāta (all three doṣas combined) all these forms [appear]. Mada that has the appearance of liquor-mada arises and subsides quickly.",
      "severity": "minor",
      "patch": {
       "n": "33",
-      "op": "replace",
+      "op": "set",
       "field": "english",
-      "old": "all these forms appear",
-      "new": "all these forms [appear]"
-     }
-    },
-    {
-     "field": "english",
-     "where": "sannipāta (the three doṣas together)",
-     "problem": "Glossary fixed gloss for sannipāta at first use is 'all three doṣas combined'.",
-     "fix": "sannipāta (all three doṣas combined)",
-     "severity": "minor",
-     "patch": {
-      "n": "33",
-      "op": "replace",
-      "field": "english",
-      "old": "(the three doṣas together)",
-      "new": "(all three doṣas combined)"
+      "value": "In mada caused by sannipāta (all three doṣas combined) all these forms [appear]. Mada that has the appearance of liquor-mada arises and subsides quickly."
      }
     }
    ]
   },
   {
    "n": "34",
-   "verdict": "ok",
-   "issues": []
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "intoxication / fainting / collapse",
+     "problem": "Glossary (review Sū 24 ch1): mada (disease) = mada (intoxication), mūrcchāya kept as printed, saṃnyāsa = saṃnyāsa (collapse); chunk 1 English uses 'the mada of Vāta'. English should keep the Sanskrit terms, gloss at first use only.",
+     "fix": "That which is declared to be caused by liquor, that born of poison and that which arises from blood: all these madas do not occur without the triad of Vāta, Pitta and Kapha.",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "set",
+      "field": "english",
+      "value": "That which is declared to be caused by liquor, that born of poison and that which arises from blood: all these madas do not occur without the triad of Vāta, Pitta and Kapha."
+     }
+    }
+   ]
   },
   {
    "n": "35",
@@ -53,6 +66,19 @@
    "n": "36",
    "verdict": "fix",
    "issues": [
+    {
+     "field": "english",
+     "where": "intoxication / fainting / collapse",
+     "problem": "Glossary (review Sū 24 ch1): mada (disease) = mada (intoxication), mūrcchāya kept as printed, saṃnyāsa = saṃnyāsa (collapse); chunk 1 English uses 'the mada of Vāta'. English should keep the Sanskrit terms, gloss at first use only.",
+     "fix": "In mūrcchāya (fainting) arising from Vāta there are trembling, body-ache, severe pain of the heart, emaciation and a dusky-reddish complexion.",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "set",
+      "field": "english",
+      "value": "In mūrcchāya (fainting) arising from Vāta there are trembling, body-ache, severe pain of the heart, emaciation and a dusky-reddish complexion."
+     }
+    },
     {
      "field": "hindi",
      "where": "मूर्च्छाय",
@@ -79,6 +105,19 @@
    "verdict": "fix",
    "issues": [
     {
+     "field": "english",
+     "where": "intoxication / fainting / collapse",
+     "problem": "Glossary (review Sū 24 ch1): mada (disease) = mada (intoxication), mūrcchāya kept as printed, saṃnyāsa = saṃnyāsa (collapse); chunk 1 English uses 'the mada of Vāta'. English should keep the Sanskrit terms, gloss at first use only.",
+     "fix": "In mūrcchāya arising from Pitta, he is thirsty and burning with heat, his eyes are red, yellow and unsteady, his stools are loose, and he looks yellowish.",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "set",
+      "field": "english",
+      "value": "In mūrcchāya arising from Pitta, he is thirsty and burning with heat, his eyes are red, yellow and unsteady, his stools are loose, and he looks yellowish."
+     }
+    },
+    {
      "field": "hindi",
      "where": "मूर्च्छाय",
      "problem": "Glossary (Sū 19): mūrcchāya kept as printed in English, Hindi मूर्च्छा (feminine).",
@@ -104,6 +143,19 @@
    "verdict": "fix",
    "issues": [
     {
+     "field": "english",
+     "where": "intoxication / fainting / collapse",
+     "problem": "Glossary (review Sū 24 ch1): mada (disease) = mada (intoxication), mūrcchāya kept as printed, saṃnyāsa = saṃnyāsa (collapse); chunk 1 English uses 'the mada of Vāta'. English should keep the Sanskrit terms, gloss at first use only.",
+     "fix": "In mūrcchāya arising from Kapha, he has heavy limbs, covered just as if by a wet hide, and he has watering of the mouth and nausea.",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "set",
+      "field": "english",
+      "value": "In mūrcchāya arising from Kapha, he has heavy limbs, covered just as if by a wet hide, and he has watering of the mouth and nausea."
+     }
+    },
+    {
      "field": "hindi",
      "where": "मूर्च्छाय",
      "problem": "Glossary (Sū 19): mūrcchāya kept as printed in English, Hindi मूर्च्छा (feminine).",
@@ -124,6 +176,19 @@
    "verdict": "fix",
    "issues": [
     {
+     "field": "english",
+     "where": "intoxication / fainting / collapse",
+     "problem": "Glossary (review Sū 24 ch1): mada (disease) = mada (intoxication), mūrcchāya kept as printed, saṃnyāsa = saṃnyāsa (collapse); chunk 1 English uses 'the mada of Vāta'. English should keep the Sanskrit terms, gloss at first use only.",
+     "fix": "[Mūrcchāya] from sannipāta has all the features and comes on like apasmāra; it fells the person quickly, but without the loathsome movements.",
+     "severity": "minor",
+     "patch": {
+      "n": "41",
+      "op": "set",
+      "field": "english",
+      "value": "[Mūrcchāya] from sannipāta has all the features and comes on like apasmāra; it fells the person quickly, but without the loathsome movements."
+     }
+    },
+    {
      "field": "hindi",
      "where": "मूर्च्छाय ... होता है ... देता है",
      "problem": "Glossary (Sū 19): mūrcchāya kept as printed in English, Hindi मूर्च्छा (feminine). With मूर्च्छा the Hindi agreement becomes feminine.",
@@ -143,6 +208,19 @@
    "verdict": "fix",
    "issues": [
     {
+     "field": "english",
+     "where": "intoxication / fainting / collapse",
+     "problem": "Glossary (review Sū 24 ch1): mada (disease) = mada (intoxication), mūrcchāya kept as printed, saṃnyāsa = saṃnyāsa (collapse); chunk 1 English uses 'the mada of Vāta'. English should keep the Sanskrit terms, gloss at first use only.",
+     "fix": "When the doṣas of embodied beings have run their course, mada and mūrcchāya subside indeed by themselves; saṃnyāsa (collapse) does not [subside] without medicines.",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "set",
+      "field": "english",
+      "value": "When the doṣas of embodied beings have run their course, mada and mūrcchāya subside indeed by themselves; saṃnyāsa (collapse) does not [subside] without medicines."
+     }
+    },
+    {
      "field": "hindi",
      "where": "मूर्च्छाय",
      "problem": "Glossary (Sū 19): mūrcchāya kept as printed in English, Hindi मूर्च्छा (feminine).",
@@ -160,23 +238,8 @@
   },
   {
    "n": "43",
-   "verdict": "fix",
-   "issues": [
-    {
-     "field": "english",
-     "where": "The very strong malas",
-     "problem": "Glossary: mala = waste (मल). No Sū 24 ch1 decision is in the glossary; keep 'malas' as chunk 1 does but give the fixed rendering once. The identification with the doṣas stays in notes (already there).",
-     "fix": "The very strong malas (waste),",
-     "severity": "minor",
-     "patch": {
-      "n": "43",
-      "op": "replace",
-      "field": "english",
-      "old": "The very strong malas,",
-      "new": "The very strong malas (waste),"
-     }
-    }
-   ]
+   "verdict": "ok",
+   "issues": []
   },
   {
    "n": "44",
@@ -301,7 +364,7 @@
     {
      "field": "english",
      "where": "the causes of collapse (pralaya)",
-     "problem": "'collapse' is already the fixed rendering of saṃnyāsa in this chunk (42-45); using it for pralaya merges two terms. pralaya = loss of consciousness.",
+     "problem": "'collapse' is the gloss of saṃnyāsa (glossary Sū 24 ch1); using it for pralaya merges two terms. pralaya = loss of consciousness.",
      "fix": "the causes of loss of consciousness (pralaya)",
      "severity": "error",
      "patch": {
@@ -346,6 +409,19 @@
    "n": "54",
    "verdict": "fix",
    "issues": [
+    {
+     "field": "english",
+     "where": "intoxication / fainting / collapse",
+     "problem": "Glossary (review Sū 24 ch1): mada (disease) = mada (intoxication), mūrcchāya kept as printed, saṃnyāsa = saṃnyāsa (collapse); chunk 1 English uses 'the mada of Vāta'. English should keep the Sanskrit terms, gloss at first use only.",
+     "fix": "In mūrcchāyas and madas, for those who have received oleation and sweating, one should perform the five procedures according to the doṣa and according to strength.",
+     "severity": "minor",
+     "patch": {
+      "n": "54",
+      "op": "set",
+      "field": "english",
+      "value": "In mūrcchāyas and madas, for those who have received oleation and sweating, one should perform the five procedures according to the doṣa and according to strength."
+     }
+    },
     {
      "field": "hindi",
      "where": "मूर्च्छायों",
@@ -395,6 +471,19 @@
    "verdict": "fix",
    "issues": [
     {
+     "field": "english",
+     "where": "intoxication / fainting / collapse",
+     "problem": "Glossary (review Sū 24 ch1): mada (disease) = mada (intoxication), mūrcchāya kept as printed, saṃnyāsa = saṃnyāsa (collapse); chunk 1 English uses 'the mada of Vāta'. English should keep the Sanskrit terms, gloss at first use only.",
+     "fix": "By letting of blood, and by attending to the scriptures, the good and also the strong-minded, the mada and mūrcchāya of embodied beings are allayed.",
+     "severity": "minor",
+     "patch": {
+      "n": "58",
+      "op": "set",
+      "field": "english",
+      "value": "By letting of blood, and by attending to the scriptures, the good and also the strong-minded, the mada and mūrcchāya of embodied beings are allayed."
+     }
+    },
+    {
      "field": "hindi",
      "where": "मूर्च्छाय",
      "problem": "Glossary (Sū 19): mūrcchāya kept as printed in English, Hindi मूर्च्छा (feminine).",
@@ -419,6 +508,19 @@
    "n": "60",
    "verdict": "fix",
    "issues": [
+    {
+     "field": "english",
+     "where": "intoxication / fainting / collapse",
+     "problem": "Glossary (review Sū 24 ch1): mada (disease) = mada (intoxication), mūrcchāya kept as printed, saṃnyāsa = saṃnyāsa (collapse); chunk 1 English uses 'the mada of Vāta'. English should keep the Sanskrit terms, gloss at first use only.",
+     "fix": "the causes, signs and medicine of mada, mūrcchāya and saṃnyāsa: all this has been set forth in the chapter Vidhiśoṇitaka.",
+     "severity": "minor",
+     "patch": {
+      "n": "60",
+      "op": "set",
+      "field": "english",
+      "value": "the causes, signs and medicine of mada, mūrcchāya and saṃnyāsa: all this has been set forth in the chapter Vidhiśoṇitaka."
+     }
+    },
     {
      "field": "hindi",
      "where": "मूर्च्छाय",
@@ -460,5 +562,5 @@
    ]
   }
  ],
- "summary": "2 errors, 19 minor, all with patches; no regrouping. Both text_flags accepted: 51 paḍubhiḥ→paṭubhiḥ (possible; no stem paḍu, paṭu agrees with śabdaiḥ, metre unchanged); 52 udgharṣṇaiḥ→udgharṣaṇaiḥ (printed pāda b has 15 syllables, the correction gives 16 with a regular even-pāda cadence). Plant identifications (ātmaguptā, mātuluṅga, mahauṣadha, hiṅgu, pippalī, citraka standard; ūṣaṇa probable) are tagged, minimal and useful: kept. No notes cite commentators, other editions or memory. Unit 60 vs P1: Vidhiśoṇitaka (summary verse) vs Vidhiśoṇitīya (colophon) both kept unsplit as derived chapter names; correct. Unit 33 'appear' bracketed. Hindi मूर्च्छाय → मूर्च्छा per glossary (Sū 19) in 36, 38, 40, 41, 42, 54, 58, 60. MANUAL: (1) no Sū 24 ch1 decision on malāḥ is in GLOSSARY.md; this review keeps 'malas (waste)' with the doṣa reading in notes; chunk 1 (units 25 etc.) should match whatever the ch1 reviewer decides; (2) chunk 1 Hindi also uses मूर्च्छाय (units 27, and others) against the glossary, for the ch1 reviewer."
+ "summary": "2 errors, 27 minor in 17 of 31 units, all with patches; no regrouping. English: mada / mūrcchāya / saṃnyāsa kept as Sanskrit per glossary (Sū 24 ch1) in 32, 33, 34, 36, 38, 40, 41, 42, 54, 58, 60 (draft had 'intoxication', 'fainting', 'collapse'); 33 'appear' bracketed as supplied; 53 pralaya = 'loss of consciousness' (not 'collapse'), Hindi बुद्धिमान (वैद्य) bracketed; 49 single 'one should give'; 55 Hindi brackets for supplied योग/घृत and अथवा for vā. Hindi मूर्च्छाय → मूर्च्छा (feminine agreement in 41) in 36, 38, 40, 41, 42, 54, 58, 60. malāḥ in 43: draft 'malas' with the doṣa reading in notes matches the Sū 24 ch1 decision; kept. Text flags accepted: 51 paḍubhiḥ→paṭubhiḥ (possible; no stem paḍu, paṭu agrees with śabdaiḥ, metre unchanged); 52 udgharṣṇaiḥ→udgharṣaṇaiḥ (pāda b has 15 syllables as printed, 16 corrected, regular even-pāda cadence). Plant identifications (ātmaguptā, mātuluṅga, mahauṣadha, hiṅgu, pippalī, citraka standard; ūṣaṇa probable) are tagged, minimal and useful: kept. No notes cite commentators, other editions or memory. 48 saṃmūrcchita 'compounded' kept, alternative 'intensified' added to notes. 60 vs P1: Vidhiśoṇitaka / Vidhiśoṇitīya both derived names, unsplit: correct. No MANUAL items."
 }
