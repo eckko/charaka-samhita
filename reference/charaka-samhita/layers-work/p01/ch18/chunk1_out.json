@@ -1,0 +1,4481 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athātastriśothīyamadhyāyaṃ",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now",
+        "gram": "ind."
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "therefore",
+        "gram": "ind."
+       },
+       {
+        "w": "triśothīyam",
+        "gloss": "on the three swellings (Triśothīya)",
+        "gram": "m. acc. sg., chapter name"
+       },
+       {
+        "w": "adhyāyam",
+        "gloss": "chapter",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyāsyāmaḥ",
+      "words": [
+       {
+        "w": "vyākhyāsyāmaḥ",
+        "gloss": "we shall expound",
+        "gram": "1 pl. fut. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब इसके बाद हम त्रिशोथीय अध्याय की व्याख्या करेंगे।",
+  "english": "Now, therefore, we shall expound the chapter on the three swellings (Triśothīya).",
+  "text_flags": [],
+  "notes": "Prose opening formula of the chapter; the unit is typed as a verse in the input but is a prose line.",
+  "confidence": "high"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ha",
+      "words": [
+       {
+        "w": "ha",
+        "gloss": "indeed (particle)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "smāha",
+      "words": [
+       {
+        "w": "sma",
+        "gloss": "(past particle)",
+        "gram": "ind."
+       },
+       {
+        "w": "āha",
+        "gloss": "said",
+        "gram": "3 sg. pf. √ah"
+       }
+      ]
+     },
+     {
+      "src": "bhagavānātreyaḥ",
+      "words": [
+       {
+        "w": "bhagavān",
+        "gloss": "the venerable",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ātreyaḥ",
+        "gloss": "Ātreya (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ऐसा भगवान् आत्रेय ने कहा।",
+  "english": "Thus said the venerable Ātreya.",
+  "text_flags": [],
+  "notes": "Prose formula; ha and sma are particles, not rendered separately.",
+  "confidence": "high"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "trayaḥ",
+      "words": [
+       {
+        "w": "trayaḥ",
+        "gloss": "three",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śothā",
+      "words": [
+       {
+        "w": "śothāḥ",
+        "gloss": "swellings",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhavanti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "vātapittaśleṣmanimittāḥ",
+      "words": [
+       {
+        "w": "vāta-pitta-śleṣma-nimittāḥ",
+        "gloss": "caused by Vāta, Pitta and Kapha (śleṣman)",
+        "gram": "m. nom. pl., bahuvrīhi (with dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "they",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "punardvividhā",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again",
+        "gram": "ind."
+       },
+       {
+        "w": "dvividhāḥ",
+        "gloss": "of two kinds",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "nijāgantubhedena",
+      "words": [
+       {
+        "w": "nija-āgantu-bhedena",
+        "gloss": "by the division into endogenous and exogenous",
+        "gram": "m. inst. sg., tat-puruṣa (with dvandva)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शोथ तीन होते हैं, जो वात, पित्त और कफ के कारण होते हैं; वे फिर निज और आगन्तु भेद से दो प्रकार के होते हैं।",
+  "english": "There are three swellings (śotha), caused by Vāta, Pitta and Kapha (śleṣman); they, again, are of two kinds by the division into endogenous (nija) and exogenous (āgantu).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatrāgantavaśchedanabhedanakṣaṇanabhañjanapicchanotpeṣaṇaprahāravadhabandhanaveṣṭanavyadhanapīḍanādibhirvā",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "among these",
+        "gram": "ind."
+       },
+       {
+        "w": "āgantavaḥ",
+        "gloss": "the exogenous ones",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "chedana-bhedana-kṣaṇana-bhañjana-piccana-utpeṣaṇa-prahāra-vadha-bandhana-veṣṭana-vyadhana-pīḍana-ādibhiḥ",
+        "gloss": "by cutting, splitting, wounding, breaking, crushing, pounding, striking, beating, binding, wrapping, piercing, pressing and the like",
+        "gram": "n. inst. pl., dvandva"
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhallātakapuṣpaphalarasātmaguptāśūkakrimiśūkāhitapatralatāgulmasaṃsparśanairvā",
+      "words": [
+       {
+        "w": "bhallātaka-puṣpa-phala-rasa-ātmaguptā-śūka-krimiśūka-ahita-patra-latā-gulma-saṃsparśanaiḥ",
+        "gloss": "by contact with the flower, fruit and juice of bhallātaka, the bristles of ātmaguptā, bristly worms, and harmful leaves, creepers and shrubs",
+        "gram": "n. inst. pl., tat-puruṣa (with dvandva)"
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svedanaparisarpaṇāvamūtraṇairvā",
+      "words": [
+       {
+        "w": "svedana-parisarpaṇa-avamūtraṇaiḥ",
+        "gloss": "by sweat, crawling over and urinating upon",
+        "gram": "n. inst. pl., dvandva"
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viṣiṇāṃ",
+      "words": [
+       {
+        "w": "viṣiṇām",
+        "gloss": "of poisonous creatures",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "saviṣaprāṇisaṃṣṭrādantaviṣāṇanakhanipātairvā",
+      "words": [
+       {
+        "w": "sa-viṣa-prāṇi-daṃṣṭrā-danta-viṣāṇa-nakha-nipātaiḥ",
+        "gloss": "by the strokes of the fangs, teeth, horns and nails of venomous creatures",
+        "gram": "m. inst. pl., tat-puruṣa (with dvandva)"
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sāgaraviṣavātahimadahanasaṃsparśanairvā",
+      "words": [
+       {
+        "w": "sāgara-viṣa-vāta-hima-dahana-saṃsparśanaiḥ",
+        "gloss": "by contact with sea-poison, wind, frost and fire",
+        "gram": "n. inst. pl., tat-puruṣa (with dvandva)"
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śothāḥ",
+      "words": [
+       {
+        "w": "śothāḥ",
+        "gloss": "swellings",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "samupajāyante",
+      "words": [
+       {
+        "w": "samupajāyante",
+        "gloss": "arise",
+        "gram": "3 pl. pres. sam-upa-√jan"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनमें आगन्तु शोथ काटने, भेदने, घाव लगने, तोड़ने, कुचलने, पीसने, प्रहार, वध, बाँधने, लपेटने, बेधने, दबाने आदि से; या भल्लातक के फूल, फल और रस, आत्मगुप्ता के शूक, शूकयुक्त कृमि तथा अहितकर पत्तों, लताओं और गुल्मों के स्पर्श से; या विषैले प्राणियों के पसीने, ऊपर रेंगने और मूत्र करने से; या विषयुक्त प्राणियों की दाढ़ों, दाँतों, सींगों और नखों के आघात से; या समुद्र के विष, वायु, हिम और अग्नि के स्पर्श से उत्पन्न होते हैं।",
+  "english": "Among these, the exogenous swellings arise from cutting, splitting, wounding, breaking, crushing, pounding, striking, beating (vadha), binding, wrapping, piercing, pressing and the like; or from contact with the flower, fruit and juice of bhallātaka, the bristles of ātmaguptā, bristly worms (krimiśūka), and harmful leaves, creepers and shrubs; or from the sweat, crawling over and urinating of poisonous creatures; or from the strokes of the fangs, teeth, horns and nails of venomous creatures; or from contact with sea-poison, wind, frost and fire.",
+  "text_flags": [
+   {
+    "src": "saviṣaprāṇisaṃṣṭrādantaviṣāṇanakhanipātairvā",
+    "suggest": "saviṣaprāṇidaṃṣṭrādantaviṣāṇanakhanipātairvā",
+    "why": "saṃṣṭrā is not a word; daṃṣṭrā (fang) fits the list of biting and striking parts (teeth, horns, nails)"
+   },
+   {
+    "src": "tatrāgantavaśchedanabhedanakṣaṇanabhañjanapicchanotpeṣaṇaprahāravadhabandhanaveṣṭanavyadhanapīḍanādibhirvā",
+    "suggest": "tatrāgantavaśchedanabhedanakṣaṇanabhañjanapiccanotpeṣaṇaprahāravadhabandhanaveṣṭanavyadhanapīḍanādibhirvā",
+    "why": "possible: picchana is no regular formation; piccana (√picc, to press flat, crush) fits the list of injuries"
+   }
+  ],
+  "notes": "viṣiṇām (of poisonous creatures) is read with the preceding sweat, crawling and urine. vadha literally 'striking, killing', here among injuries; rendered 'beating'. sāgaraviṣa is read as 'poison of the sea'; it could also be taken with vāta as 'poisonous sea-wind'. Plant identifications (standard): bhallātaka = Semecarpus anacardium; ātmaguptā = Mucuna pruriens. krimiśūka is taken as 'bristly worm (caterpillar)'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "they",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "punaryathāsvaṃ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again",
+        "gram": "ind."
+       },
+       {
+        "w": "yathāsvam",
+        "gloss": "each according to its own",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hetuvyañjnairādāvupalabhyante",
+      "words": [
+       {
+        "w": "hetu-vyañjanaiḥ",
+        "gloss": "by causes and signs",
+        "gram": "n. inst. pl., dvandva"
+       },
+       {
+        "w": "ādau",
+        "gloss": "at the outset",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "upalabhyante",
+        "gloss": "are recognised",
+        "gram": "3 pl. pres. pass. upa-√labh"
+       }
+      ]
+     },
+     {
+      "src": "nijavyañjanaikadeśaviparītaiḥ",
+      "words": [
+       {
+        "w": "nija-vyañjana-eka-deśa-viparītaiḥ",
+        "gloss": "differing in part from the signs of the endogenous",
+        "gram": "n. inst. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bandhamantrāgadapralepapratāpanirvāpaṇādibhiścopakramairupakramyamāṇāḥ",
+      "words": [
+       {
+        "w": "bandha-mantra-agada-pralepa-pratāpa-nirvāpaṇa-ādibhiḥ",
+        "gloss": "bandaging, incantation, antidote, smearing (pralepa), heating, cooling and the like",
+        "gram": "m. inst. pl., dvandva"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "upakramaiḥ",
+        "gloss": "by measures",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "upakramyamāṇāḥ",
+        "gloss": "being treated",
+        "gram": "m. nom. pl., pres. pass. part. upa-√kram"
+       }
+      ]
+     },
+     {
+      "src": "praśāntimāpadyante",
+      "words": [
+       {
+        "w": "praśāntim",
+        "gloss": "subsidence",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "āpadyante",
+        "gloss": "attain",
+        "gram": "3 pl. pres. ā-√pad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे फिर आरम्भ में ही अपने-अपने कारणों और लक्षणों से पहचाने जाते हैं, जो निज शोथ के लक्षणों से अंशतः विपरीत होते हैं; और बन्धन, मन्त्र, अगद, प्रलेप, प्रताप, निर्वापण आदि उपक्रमों से उपचार किए जाने पर वे शान्त हो जाते हैं।",
+  "english": "They, again, are recognised at the outset by their respective causes and signs, which differ in part from the signs of the endogenous [swellings]; and, being treated with measures such as bandaging, incantations, antidotes (agada), smearing (pralepa), heating and cooling (nirvāpaṇa), they subside.",
+  "text_flags": [
+   {
+    "src": "hetuvyañjnairādāvupalabhyante",
+    "suggest": "hetuvyañjanairādāvupalabhyante",
+    "why": "vyañjnaiḥ is not a form; vyañjana (sign) as in nijavyañjana in the same unit"
+   }
+  ],
+  "notes": "nijavyañjanaikadeśaviparītaiḥ is read as qualifying hetuvyañjanaiḥ: the signs of exogenous swellings are partly contrary to those of the endogenous.",
+  "confidence": "high"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nijāḥ",
+      "words": [
+       {
+        "w": "nijāḥ",
+        "gloss": "the endogenous ones",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "snehasvedavamanavirecanāsthāpanānuvāsanaśirovirecanānāmayathāvatprayogānmithyāsaṃsarjanādvā",
+      "words": [
+       {
+        "w": "sneha-sveda-vamana-virecana-āsthāpana-anuvāsana-śirovirecanānām",
+        "gloss": "of oleation, sweating, emesis, purgation, decoction enema, unctuous enema and head-evacuation",
+        "gram": "n. gen. pl., dvandva"
+       },
+       {
+        "w": "ayathāvat-prayogāt",
+        "gloss": "from improper administration",
+        "gram": "m. abl. sg., karmadhāraya"
+       },
+       {
+        "w": "mithyā-saṃsarjanāt",
+        "gloss": "from faulty graded diet (saṃsarjana)",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "chardyalasakavisūcikāśvāsakāsātisāraśoṣapāṇḍurogodarajvarapradarabhagandarārśovikārātikarśanairvā",
+      "words": [
+       {
+        "w": "chardi-alasaka-visūcikā-śvāsa-kāsa-atisāra-śoṣa-pāṇḍuroga-udara-jvara-pradara-bhagandara-arśas-vikāra-atikarśanaiḥ",
+        "gloss": "by excessive emaciation from the disorders vomiting, alasaka, visūcikā, dyspnoea, cough, diarrhoea, wasting, pāṇḍu, udara, fever, pradara, bhagandara, arśas",
+        "gram": "n. inst. pl., tat-puruṣa (with dvandva)"
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kuṣṭhakaṇḍūpiḍakādibhirvā",
+      "words": [
+       {
+        "w": "kuṣṭha-kaṇḍū-piḍakā-ādibhiḥ",
+        "gloss": "by kuṣṭha, itching, pimples and the like",
+        "gram": "m. inst. pl., dvandva"
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "chardikṣavathūdgāraśukravātamūtrapurīṣavegadhāraṇairvā",
+      "words": [
+       {
+        "w": "chardi-kṣavathu-udgāra-śukra-vāta-mūtra-purīṣa-vega-dhāraṇaiḥ",
+        "gloss": "by suppression of the urges of vomiting, sneezing, belching, semen, flatus, urine, faeces",
+        "gram": "n. inst. pl., tat-puruṣa (with dvandva)"
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "karmarogopavāsādhvakarśitasya",
+      "words": [
+       {
+        "w": "karma-roga-upavāsa-adhva-karśitasya",
+        "gloss": "of one emaciated by action, disease, fasting and travel",
+        "gram": "m. gen. sg., tat-puruṣa (with dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sahasātigurvamlalavaṇapiṣṭānnaphalaśākarāgadadhiharitakamadyamandakavirūḍhanavaśūkaśamīdhānyānūpaudakapiśitopayogānmṛtpaṇkaloṣṭabhakṣaṇāllavaṇātibhakṣaṇādgarbhasāpīḍanādāmagarbhaprapatanāt",
+      "words": [
+       {
+        "w": "sahasā",
+        "gloss": "suddenly",
+        "gram": "ind."
+       },
+       {
+        "w": "ati-guru-amla-lavaṇa-piṣṭānna-phala-śāka-rāga-dadhi-haritaka-madya-mandaka-virūḍha-nava-śūka-śamī-dhānya-ānūpa-audaka-piśita-upayogāt",
+        "gloss": "from excessive use of heavy, sour, salty things, flour-foods, fruits, vegetables, rāga, curd, green herbs, wine, mandaka, sprouted and new awned and pod grains, marsh and aquatic flesh",
+        "gram": "m. abl. sg., tat-puruṣa (with dvandva)"
+       },
+       {
+        "w": "mṛt-paṅka-loṣṭa-bhakṣaṇāt",
+        "gloss": "from eating clay, mud and clods",
+        "gram": "n. abl. sg., tat-puruṣa (with dvandva)"
+       },
+       {
+        "w": "lavaṇa-atibhakṣaṇāt",
+        "gloss": "from eating too much salt",
+        "gram": "n. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "garbha-saṃpīḍanāt",
+        "gloss": "from pressure of the foetus",
+        "gram": "n. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "āma-garbha-prapatanāt",
+        "gloss": "from the falling of an unformed foetus",
+        "gram": "n. abl. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "prajātānāṃ",
+      "words": [
+       {
+        "w": "prajātānām",
+        "gloss": "of women who have given birth",
+        "gram": "f. gen. pl., past part. pra-√jan"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mithyopacārādudīrṇadoṣatvācca",
+      "words": [
+       {
+        "w": "mithyā-upacārāt",
+        "gloss": "from wrong care",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "udīrṇa-doṣatvāt",
+        "gloss": "from the aggravated state of the doṣas",
+        "gram": "n. abl. sg., bahuvrīhi + -tva"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śophāḥ",
+      "words": [
+       {
+        "w": "śophāḥ",
+        "gloss": "swellings",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "prādurbhavanti",
+      "words": [
+       {
+        "w": "prādurbhavanti",
+        "gloss": "arise",
+        "gram": "3 pl. pres. prādur-√bhū"
+       }
+      ]
+     },
+     {
+      "src": "ityuktaḥ",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "uktaḥ",
+        "gloss": "has been stated",
+        "gram": "m. nom. sg., past pass. part. √vac"
+       }
+      ]
+     },
+     {
+      "src": "sāmānyo",
+      "words": [
+       {
+        "w": "sāmānyaḥ",
+        "gloss": "general",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hetuḥ",
+      "words": [
+       {
+        "w": "hetuḥ",
+        "gloss": "cause",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "निज शोथ फिर स्नेहन, स्वेदन, वमन, विरेचन, आस्थापन, अनुवासन और शिरोविरेचन के अनुचित प्रयोग से, या मिथ्या संसर्जन से; या छर्दि, अलसक, विसूचिका, श्वास, कास, अतिसार, शोष, पाण्डुरोग, उदर, ज्वर, प्रदर, भगन्दर और अर्श रोगों से हुए अत्यधिक कृशता से; या कुष्ठ, कण्डू, पिडका आदि से; या छर्दि, छींक, डकार, शुक्र, अधोवायु, मूत्र और मल के वेगों को रोकने से; या कर्म, रोग, उपवास और मार्ग चलने से कृश हुए व्यक्ति द्वारा सहसा अति गुरु, अम्ल, लवण, पिष्टान्न, फल, शाक, राग, दही, हरितक, मद्य, मन्दक, विरूढ, नए शूकधान्य और शमीधान्य, तथा आनूप और औदक मांस के सेवन से; मिट्टी, कीचड़ और ढेले खाने से; अधिक लवण खाने से; गर्भ के दबाव से; आम गर्भ के गिरने से; और प्रसूता स्त्रियों में मिथ्या उपचार से तथा दोषों के उदीर्ण होने से उत्पन्न होते हैं। इस प्रकार सामान्य हेतु कहा गया।",
+  "english": "The endogenous ones, again, arise from improper administration of oleation, sweating, emesis, purgation, decoction enema, unctuous enema and head-evacuation, or from a faulty graded diet (saṃsarjana); or from excessive emaciation due to the disorders vomiting, alasaka, visūcikā, dyspnoea, cough, diarrhoea, wasting (śoṣa), pāṇḍu disease, udara, fever, pradara, bhagandara and arśas; or from kuṣṭha, itching, pimples (piḍakā) and the like; or from suppression of the urges of vomiting, sneezing, belching, semen, flatus, urine and faeces; or, in one emaciated by action (karma), disease, fasting or travel, from the sudden excessive use of heavy, sour and salty things, flour-foods, fruits, vegetables, rāga, curd, green herbs, wine, mandaka, sprouted grain, new awned grain and pod grain, and the flesh of marsh and aquatic animals; from eating clay, mud or clods; from eating too much salt; from pressure of the foetus; from the falling of an unformed foetus; and, in women who have given birth, from wrong care and from the aggravated state of the doṣas. Thus the general cause has been stated.",
+  "text_flags": [
+   {
+    "src": "sahasātigurvamlalavaṇapiṣṭānnaphalaśākarāgadadhiharitakamadyamandakavirūḍhanavaśūkaśamīdhānyānūpaudakapiśitopayogānmṛtpaṇkaloṣṭabhakṣaṇāllavaṇātibhakṣaṇādgarbhasāpīḍanādāmagarbhaprapatanāt",
+    "suggest": "mṛtpaṅka",
+    "why": "paṅka (mud) has the velar nasal before k; paṇka is not a word"
+   },
+   {
+    "src": "sahasātigurvamlalavaṇapiṣṭānnaphalaśākarāgadadhiharitakamadyamandakavirūḍhanavaśūkaśamīdhānyānūpaudakapiśitopayogānmṛtpaṇkaloṣṭabhakṣaṇāllavaṇātibhakṣaṇādgarbhasāpīḍanādāmagarbhaprapatanāt",
+    "suggest": "garbhasaṃpīḍanād",
+    "why": "possible: sāpīḍana is no regular formation; saṃpīḍana (pressure) gives the sense"
+   }
+  ],
+  "notes": "karma here is rendered 'action'; it may refer to the therapeutic procedures listed at the start of the unit. ati- is read as governing the whole list of foods (excessive use); it may qualify only guru. sahasā is read with the list of foods. udīrṇadoṣatvāt may belong only to the women after delivery or be a separate general cause. śotha and śopha are used interchangeably (both 'swelling'). Disease names (alasaka, visūcikā, pāṇḍu, udara, pradara, bhagandara, arśas, kuṣṭha) and the foods rāga and mandaka are kept in Sanskrit.",
+  "confidence": "medium"
+ },
+ {
+  "n": "7-1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ayaṃ",
+      "words": [
+       {
+        "w": "ayam",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvatra",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "atra",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viśeṣaḥ",
+      "words": [
+       {
+        "w": "viśeṣaḥ",
+        "gloss": "specific feature",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'sītarūkṣalaghuviśadaśramopavāsātikarśanakṣapaṇādibhirvāyuḥ",
+      "words": [
+       {
+        "w": "śīta-rūkṣa-laghu-viśada-śrama-upavāsa-atikarśana-kṣapaṇa-ādibhiḥ",
+        "gloss": "by cold, dry, light, non-slimy things, fatigue, fasting, excessive reduction, depletion and the like",
+        "gram": "n. inst. pl., dvandva"
+       },
+       {
+        "w": "vāyuḥ",
+        "gloss": "Vāta (vāyu)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakupitastvaṅmāṃsaśoṇitādīnyabhibhūya",
+      "words": [
+       {
+        "w": "prakupitaḥ",
+        "gloss": "aggravated",
+        "gram": "m. nom. sg., past part. pra-√kup"
+       },
+       {
+        "w": "tvak-māṃsa-śoṇita-ādīni",
+        "gloss": "skin, flesh, blood and the rest",
+        "gram": "n. acc. pl., dvandva"
+       },
+       {
+        "w": "abhibhūya",
+        "gloss": "overpowering",
+        "gram": "abs. abhi-√bhū"
+       }
+      ]
+     },
+     {
+      "src": "śophaṃ",
+      "words": [
+       {
+        "w": "śopham",
+        "gloss": "swelling",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "janayati",
+      "words": [
+       {
+        "w": "janayati",
+        "gloss": "produces",
+        "gram": "3 sg. pres. caus. √jan"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "it",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣiprotthānapraśamo",
+      "words": [
+       {
+        "w": "kṣipra-utthāna-praśamaḥ",
+        "gloss": "quick in arising and subsiding",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śyāmāruṇavarṇaḥ",
+      "words": [
+       {
+        "w": "śyāma-aruṇa-varṇaḥ",
+        "gloss": "dark or reddish in colour",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "prakṛtivaṛno",
+      "words": [
+       {
+        "w": "prakṛti-varṇaḥ",
+        "gloss": "of natural colour",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "calaḥ",
+      "words": [
+       {
+        "w": "calaḥ",
+        "gloss": "mobile",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "spandanaḥ",
+      "words": [
+       {
+        "w": "spandanaḥ",
+        "gloss": "throbbing",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kharaparuṣabhinnatvagromā",
+      "words": [
+       {
+        "w": "khara-paruṣa-bhinna-tvak-romā",
+        "gloss": "with rough, harsh, split skin and hair",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "chidyata",
+      "words": [
+       {
+        "w": "chidyate",
+        "gloss": "is cut",
+        "gram": "3 sg. pres. pass. √chid"
+       }
+      ]
+     },
+     {
+      "src": "iva",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhidyata",
+      "words": [
+       {
+        "w": "bhidyate",
+        "gloss": "is split",
+        "gram": "3 sg. pres. pass. √bhid"
+       }
+      ]
+     },
+     {
+      "src": "iva",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pīḍyata",
+      "words": [
+       {
+        "w": "pīḍyate",
+        "gloss": "is pressed",
+        "gram": "3 sg. pres. pass. √pīḍ"
+       }
+      ]
+     },
+     {
+      "src": "iva",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sūcībhiriva",
+      "words": [
+       {
+        "w": "sūcībhiḥ",
+        "gloss": "by needles",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tudyata",
+      "words": [
+       {
+        "w": "tudyate",
+        "gloss": "is pricked",
+        "gram": "3 sg. pres. pass. √tud"
+       }
+      ]
+     },
+     {
+      "src": "iva",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pipīlikābhiriva",
+      "words": [
+       {
+        "w": "pipīlikābhiḥ",
+        "gloss": "by ants",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃsṛpyate",
+      "words": [
+       {
+        "w": "saṃsṛpyate",
+        "gloss": "is crept over",
+        "gram": "3 sg. pres. pass. sam-√sṛp"
+       }
+      ]
+     },
+     {
+      "src": "sarṣapakalkāvalipta",
+      "words": [
+       {
+        "w": "sarṣapa-kalka-avaliptaḥ",
+        "gloss": "smeared with mustard paste",
+        "gram": "m. nom. sg., past pass. part. ava-√lip, tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "iva",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cimicimāyate",
+      "words": [
+       {
+        "w": "cimicimāyate",
+        "gloss": "tingles",
+        "gram": "3 sg. pres., onomatopoeic denominative"
+       }
+      ]
+     },
+     {
+      "src": "saṃkucyata",
+      "words": [
+       {
+        "w": "saṃkucyate",
+        "gloss": "contracts",
+        "gram": "3 sg. pres. pass. sam-√kuc"
+       }
+      ]
+     },
+     {
+      "src": "āyamyata",
+      "words": [
+       {
+        "w": "āyamyate",
+        "gloss": "is stretched",
+        "gram": "3 sg. pres. pass. ā-√yam"
+       }
+      ]
+     },
+     {
+      "src": "iveti",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (end of description)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātaśothaḥ",
+      "words": [
+       {
+        "w": "vāta-śothaḥ",
+        "gloss": "Vāta swelling",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": ";",
+      "words": [
+       {
+        "w": ";",
+        "gloss": "(punctuation)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु यहाँ यह विशेषता है: शीत, रूक्ष, लघु, विशद पदार्थों, श्रम, उपवास, अति कर्शन, क्षपण आदि से कुपित वायु त्वचा, मांस, रक्त आदि को अभिभूत करके शोफ उत्पन्न करता है। वह शीघ्र उठने और शीघ्र शान्त होने वाला होता है; वह श्याम या अरुण वर्ण का, या स्वाभाविक वर्ण का, चल, स्पन्दनयुक्त, खर, परुष और फटी त्वचा तथा रोमों वाला होता है; वह मानो काटा जाता है, मानो भेदा जाता है, मानो दबाया जाता है, मानो सुइयों से चुभोया जाता है, मानो उस पर चींटियाँ रेंगती हैं; मानो सरसों के कल्क से लिपा हुआ वह चिमचिमाता है, सिकुड़ता है और मानो खिंचता है: यह वातशोथ है।",
+  "english": "But here is the specific feature: Vāta (vāyu), aggravated by cold, dry, light and non-slimy things, fatigue, fasting, excessive reduction, depletion and the like, overpowers the skin, flesh, blood and the rest and produces a swelling. It is quick to arise and quick to subside; it is dark or reddish in colour, or of natural colour; mobile, throbbing, with rough, harsh and split skin and hair; it is as if cut, as if split, as if pressed, as if pricked with needles, as if crept over by ants; as if smeared with mustard paste it tingles; it contracts and is as if stretched: this is the Vāta swelling.",
+  "text_flags": [
+   {
+    "src": "'sītarūkṣalaghuviśadaśramopavāsātikarśanakṣapaṇādibhirvāyuḥ",
+    "suggest": "śītarūkṣalaghuviśadaśramopavāsātikarśanakṣapaṇādibhirvāyuḥ",
+    "why": "the avagraha after a visarga is out of place and 'sīta' is not a word; śīta (cold) heads the list of Vāta-aggravating qualities, cf. śīta in 7-3"
+   },
+   {
+    "src": "prakṛtivaṛno",
+    "suggest": "prakṛtivarṇo",
+    "why": "ṛn (Devanagari वऋनो) is a typing error for varṇa (colour), cf. śyāmāruṇavarṇaḥ just before"
+   }
+  ],
+  "notes": "iti closes the description. chidyate etc. describe the swelling (or the sensation in it). cimicimāyate is an onomatopoeic verb for a tingling, prickling sensation.",
+  "confidence": "medium"
+ },
+ {
+  "n": "7-2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "uṣṇatīkṣṇakaṭukakṣāralavaṇāmlājīrṇabhojanairagnyātapapratāpaiśca",
+      "words": [
+       {
+        "w": "uṣṇa-tīkṣṇa-kaṭuka-kṣāra-lavaṇa-amla-ajīrṇa-bhojanaiḥ",
+        "gloss": "by hot, sharp, pungent, alkaline, salty, sour foods and eating during indigestion",
+        "gram": "n. inst. pl., dvandva"
+       },
+       {
+        "w": "agni-ātapa-pratāpaiḥ",
+        "gloss": "by the heat of fire and sun",
+        "gram": "m. inst. pl., tat-puruṣa (with dvandva)"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pittaṃ",
+      "words": [
+       {
+        "w": "pittam",
+        "gloss": "Pitta",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakupitaṃ",
+      "words": [
+       {
+        "w": "prakupitam",
+        "gloss": "aggravated",
+        "gram": "n. nom. sg., past part. pra-√kup"
+       }
+      ]
+     },
+     {
+      "src": "tvaṅmāṃsaśoṇitānyabhihbūya",
+      "words": [
+       {
+        "w": "tvak-māṃsa-śoṇitāni",
+        "gloss": "skin, flesh and blood",
+        "gram": "n. acc. pl., dvandva"
+       },
+       {
+        "w": "abhibhūya",
+        "gloss": "overpowering",
+        "gram": "abs. abhi-√bhū"
+       }
+      ]
+     },
+     {
+      "src": "śothaṃ",
+      "words": [
+       {
+        "w": "śotham",
+        "gloss": "swelling",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "janayati",
+      "words": [
+       {
+        "w": "janayati",
+        "gloss": "produces",
+        "gram": "3 sg. pres. caus. √jan"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "it",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣiprotthānapraśamo",
+      "words": [
+       {
+        "w": "kṣipra-utthāna-praśamaḥ",
+        "gloss": "quick in arising and subsiding",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "kṛṣṇapītanīlatāmrāvabhāsa",
+      "words": [
+       {
+        "w": "kṛṣṇa-pīta-nīla-tāmra-avabhāsaḥ",
+        "gloss": "with black, yellow, blue or coppery hue",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "uṣṇo",
+      "words": [
+       {
+        "w": "uṣṇaḥ",
+        "gloss": "hot",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṃrduḥ",
+      "words": [
+       {
+        "w": "mṛduḥ",
+        "gloss": "soft",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kapilatāmraromā",
+      "words": [
+       {
+        "w": "kapila-tāmra-romā",
+        "gloss": "with tawny or coppery hair",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "uṣyate",
+      "words": [
+       {
+        "w": "uṣyate",
+        "gloss": "burns",
+        "gram": "3 sg. pres. pass. √uṣ"
+       }
+      ]
+     },
+     {
+      "src": "dūyate",
+      "words": [
+       {
+        "w": "dūyate",
+        "gloss": "smarts with pain",
+        "gram": "3 sg. pres. √du"
+       }
+      ]
+     },
+     {
+      "src": "dhūpyate",
+      "words": [
+       {
+        "w": "dhūpyate",
+        "gloss": "feels as if fumigated",
+        "gram": "3 sg. pres. pass. √dhūp"
+       }
+      ]
+     },
+     {
+      "src": "ūṣmāyate",
+      "words": [
+       {
+        "w": "ūṣmāyate",
+        "gloss": "gives off heat",
+        "gram": "3 sg. pres., denominative"
+       }
+      ]
+     },
+     {
+      "src": "svidyate",
+      "words": [
+       {
+        "w": "svidyate",
+        "gloss": "sweats",
+        "gram": "3 sg. pres. √svid"
+       }
+      ]
+     },
+     {
+      "src": "klidyate",
+      "words": [
+       {
+        "w": "klidyate",
+        "gloss": "becomes moist",
+        "gram": "3 sg. pres. √klid"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sparśamuṣṇaṃ",
+      "words": [
+       {
+        "w": "sparśam",
+        "gloss": "touch",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "uṣṇam",
+        "gloss": "heat",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "suṣūyata",
+      "words": [
+       {
+        "w": "mṛṣyate",
+        "gloss": "tolerates (conjectural)",
+        "gram": "3 sg. pres. √mṛṣ (conjecture)"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus (end of description)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pittaśothaḥ",
+      "words": [
+       {
+        "w": "pitta-śothaḥ",
+        "gloss": "Pitta swelling",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": ";",
+      "words": [
+       {
+        "w": ";",
+        "gloss": "(punctuation)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उष्ण, तीक्ष्ण, कटु, क्षार, लवण, अम्ल भोजन और अजीर्ण में भोजन से तथा अग्नि और धूप के ताप से कुपित पित्त त्वचा, मांस और रक्त को अभिभूत करके शोथ उत्पन्न करता है। वह शीघ्र उठने और शीघ्र शान्त होने वाला होता है; काली, पीली, नीली या ताम्र आभा वाला, उष्ण, मृदु, कपिल या ताम्र वर्ण के रोमों वाला होता है; वह जलता है, पीड़ा देता है, धुआँ-सा उठता प्रतीत होता है, ऊष्मा छोड़ता है, पसीजता है, गीला होता है, और स्पर्श तथा उष्णता को सहन नहीं करता: यह पित्तशोथ है।",
+  "english": "Pitta, aggravated by hot, sharp, pungent, alkaline, salty and sour foods and by eating during indigestion, and by the heat of fire and sun, overpowers the skin, flesh and blood and produces a swelling. It is quick to arise and quick to subside; it has a black, yellow, blue or coppery hue, is hot and soft, with tawny or coppery hair; it burns, smarts, feels as if fumigated, gives off heat, sweats and becomes moist, and does not tolerate touch or heat: this is the Pitta swelling.",
+  "text_flags": [
+   {
+    "src": "tvaṅmāṃsaśoṇitānyabhihbūya",
+    "suggest": "tvaṅmāṃsaśoṇitānyabhibhūya",
+    "why": "abhihbūya is not a form; abhibhūya as in 7-1 and 7-3"
+   },
+   {
+    "src": "ṃrduḥ",
+    "suggest": "mṛduḥ",
+    "why": "anusvāra before r and a missing ṛ (Devanagari ंर्दुः) is a typing error for mṛduḥ (soft)"
+   },
+   {
+    "src": "suṣūyata",
+    "suggest": "mṛṣyate (?)",
+    "why": "possible: suṣūyata is no known form; the sense required is 'tolerates', the opposite of the Kapha swelling's sparśoṣṇasahaḥ ('tolerating touch and heat') in 7-3; mṛṣyate (√mṛṣ, to bear) is a conjecture only"
+   }
+  ],
+  "notes": "ajīrṇabhojana is read as 'eating during indigestion'; it could also be 'eating undigested (unwholesome) food'. The meaning of suṣūyata is taken from the contrast with 7-3; the verb itself is uncertain.",
+  "confidence": "medium"
+ },
+ {
+  "n": "7-3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gurumadhuraśītasnigdhairatisvapnāvyāyāmādibhiśca",
+      "words": [
+       {
+        "w": "guru-madhura-śīta-snigdhaiḥ",
+        "gloss": "by heavy, sweet, cold, unctuous things",
+        "gram": "n. inst. pl., dvandva"
+       },
+       {
+        "w": "ati-svapna-avyāyāma-ādibhiḥ",
+        "gloss": "by excessive sleep, lack of exercise and the like",
+        "gram": "m. inst. pl., dvandva"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śleṣmā",
+      "words": [
+       {
+        "w": "śleṣmā",
+        "gloss": "Kapha (śleṣman)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakupitastvaṅmāṃsaśoṇitādīnyabhibhūya",
+      "words": [
+       {
+        "w": "prakupitaḥ",
+        "gloss": "aggravated",
+        "gram": "m. nom. sg., past part. pra-√kup"
+       },
+       {
+        "w": "tvak-māṃsa-śoṇita-ādīni",
+        "gloss": "skin, flesh, blood and the rest",
+        "gram": "n. acc. pl., dvandva"
+       },
+       {
+        "w": "abhibhūya",
+        "gloss": "overpowering",
+        "gram": "abs. abhi-√bhū"
+       }
+      ]
+     },
+     {
+      "src": "śothaṃ",
+      "words": [
+       {
+        "w": "śotham",
+        "gloss": "swelling",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "janayati",
+      "words": [
+       {
+        "w": "janayati",
+        "gloss": "produces",
+        "gram": "3 sg. pres. caus. √jan"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "it",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛcchrotthānapraśamo",
+      "words": [
+       {
+        "w": "kṛcchra-utthāna-praśamaḥ",
+        "gloss": "arising and subsiding with difficulty",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "pāṇḍuśvetāvabhāso",
+      "words": [
+       {
+        "w": "pāṇḍu-śveta-avabhāsaḥ",
+        "gloss": "with pale or white hue",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "guruḥ",
+      "words": [
+       {
+        "w": "guruḥ",
+        "gloss": "heavy",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "snigdhaḥ",
+      "words": [
+       {
+        "w": "snigdhaḥ",
+        "gloss": "unctuous",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ślakṣṇaḥ",
+      "words": [
+       {
+        "w": "ślakṣṇaḥ",
+        "gloss": "smooth",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthiraḥ",
+      "words": [
+       {
+        "w": "sthiraḥ",
+        "gloss": "firm, stable",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "styānaḥ",
+      "words": [
+       {
+        "w": "styānaḥ",
+        "gloss": "dense",
+        "gram": "m. nom. sg., past part. √styai"
+       }
+      ]
+     },
+     {
+      "src": "śuklāgraromā",
+      "words": [
+       {
+        "w": "śukla-agra-romā",
+        "gloss": "with white-tipped hair",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sparśoṣṇasahaśceti",
+      "words": [
+       {
+        "w": "sparśa-uṣṇa-sahaḥ",
+        "gloss": "tolerating touch and heat",
+        "gram": "m. nom. sg., upapada tat-puruṣa"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (end of description)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śleṣmaśothaḥ;",
+      "words": [
+       {
+        "w": "śleṣma-śothaḥ",
+        "gloss": "Kapha swelling",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गुरु, मधुर, शीत, स्निग्ध पदार्थों से तथा अति निद्रा, व्यायाम न करने आदि से कुपित श्लेष्मा त्वचा, मांस, रक्त आदि को अभिभूत करके शोथ उत्पन्न करता है। वह कठिनाई से उठने और कठिनाई से शान्त होने वाला होता है; पाण्डु या श्वेत आभा वाला, गुरु, स्निग्ध, श्लक्ष्ण, स्थिर, घना, सफेद नोकों वाले रोमों वाला, और स्पर्श तथा उष्णता को सहने वाला होता है: यह श्लेष्मशोथ है।",
+  "english": "Kapha (śleṣman), aggravated by heavy, sweet, cold and unctuous things and by excessive sleep, lack of exercise and the like, overpowers the skin, flesh, blood and the rest and produces a swelling. It arises and subsides with difficulty; it has a pale or white hue, is heavy, unctuous, smooth, firm and dense, with white-tipped hair, and tolerates touch and heat: this is the Kapha swelling.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yathāsvakāraṇākṛtisaṃsargāddvidoṣajāstrayaḥ",
+      "words": [
+       {
+        "w": "yathāsva-kāraṇa-ākṛti-saṃsargāt",
+        "gloss": "from the combination of their respective causes and forms",
+        "gram": "m. abl. sg., tat-puruṣa (with dvandva)"
+       },
+       {
+        "w": "dvi-doṣa-jāḥ",
+        "gloss": "born of two doṣas",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       },
+       {
+        "w": "trayaḥ",
+        "gloss": "three",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śothā",
+      "words": [
+       {
+        "w": "śothāḥ",
+        "gloss": "swellings",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhavanti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "yathāsvakāraṇākṛtisannipātāt",
+      "words": [
+       {
+        "w": "yathāsva-kāraṇa-ākṛti-sannipātāt",
+        "gloss": "from the coming together of all their respective causes and forms",
+        "gram": "m. abl. sg., tat-puruṣa (with dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "sānnipātika",
+      "words": [
+       {
+        "w": "sānnipātikaḥ",
+        "gloss": "arising from all three doṣas together",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ekaḥ;",
+      "words": [
+       {
+        "w": "ekaḥ",
+        "gloss": "one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "evaṃ",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saptavidho",
+      "words": [
+       {
+        "w": "sapta-vidhaḥ",
+        "gloss": "sevenfold",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "bhedaḥ",
+      "words": [
+       {
+        "w": "bhedaḥ",
+        "gloss": "division",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अपने-अपने कारणों और आकृतियों के संसर्ग से द्विदोषज शोथ तीन होते हैं; अपने-अपने कारणों और आकृतियों के सन्निपात से सान्निपातिक शोथ एक होता है; इस प्रकार सात प्रकार का भेद है।",
+  "english": "From the combination of their respective causes and forms, there are three swellings born of two doṣas; from the coming together of all their respective causes and forms, there is one sānnipātika [swelling] (from all three doṣas together); thus the division is sevenfold.",
+  "text_flags": [],
+  "notes": "The sevenfold count is three single-doṣa, three double-doṣa and one of all three.",
+  "confidence": "high"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prakṛtibhistābhistābhirbhidymāno",
+      "words": [
+       {
+        "w": "prakṛtibhiḥ",
+        "gloss": "by basic factors (prakṛti)",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "tābhiḥ",
+        "gloss": "by these",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "tābhiḥ",
+        "gloss": "and those",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "bhidyamānaḥ",
+        "gloss": "being divided",
+        "gram": "m. nom. sg., pres. pass. part. √bhid"
+       }
+      ]
+     },
+     {
+      "src": "dvividhastrividhaścaturvidhā",
+      "words": [
+       {
+        "w": "dvi-vidhaḥ",
+        "gloss": "twofold",
+        "gram": "m. nom. sg., bahuvrīhi"
+       },
+       {
+        "w": "tri-vidhaḥ",
+        "gloss": "threefold",
+        "gram": "m. nom. sg., bahuvrīhi"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "catur-vidhaḥ",
+        "gloss": "fourfold",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "saptavidho'ṣṭavidhaśca",
+      "words": [
+       {
+        "w": "sapta-vidhaḥ",
+        "gloss": "sevenfold",
+        "gram": "m. nom. sg., bahuvrīhi"
+       },
+       {
+        "w": "aṣṭa-vidhaḥ",
+        "gloss": "eightfold",
+        "gram": "m. nom. sg., bahuvrīhi"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śotha",
+      "words": [
+       {
+        "w": "śothaḥ",
+        "gloss": "swelling",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "upalabhyate",
+      "words": [
+       {
+        "w": "upalabhyate",
+        "gloss": "is found",
+        "gram": "3 sg. pres. pass. upa-√labh"
+       }
+      ]
+     },
+     {
+      "src": "punaścaika",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ekaḥ",
+        "gloss": "one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "evotsedhasāmānyāt",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "alone, only",
+        "gram": "ind."
+       },
+       {
+        "w": "utsedha-sāmānyāt",
+        "gloss": "on account of the common feature of elevation",
+        "gram": "n. abl. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उन-उन प्रकृतियों से विभक्त होकर शोथ दो प्रकार का, तीन प्रकार का, चार प्रकार का, सात प्रकार का और आठ प्रकार का पाया जाता है; और फिर उत्सेध की समानता के कारण वह एक ही है।",
+  "english": "Being divided according to these and those basic factors (prakṛti), swelling is found to be twofold, threefold, fourfold, sevenfold and eightfold; and again it is one alone, on account of the common feature of elevation (utsedha).",
+  "text_flags": [
+   {
+    "src": "prakṛtibhistābhistābhirbhidymāno",
+    "suggest": "prakṛtibhistābhistābhirbhidyamāno",
+    "why": "the present passive participle of √bhid is bhidyamāna; bhidymāna is not a form"
+   },
+   {
+    "src": "dvividhastrividhaścaturvidhā",
+    "suggest": "dvividhastrividhaścaturvidhaḥ",
+    "why": "the word agrees with m. sg. śothaḥ (cf. dvividhaḥ, saptavidhaḥ); before s the visarga must stand, so caturvidhā is a typing error"
+   }
+  ],
+  "notes": "prakṛti here means the basic factors by which swellings are classified; the unit does not say which factors give each count. The repeated tābhis tābhiḥ is distributive ('these and those').",
+  "confidence": "medium"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhavanti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "there are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "cātra",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "atra",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śūyante",
+      "words": [
+       {
+        "w": "śūyante",
+        "gloss": "swell",
+        "gram": "3 pl. pres. √śvi"
+       }
+      ]
+     },
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "gātrāṇi",
+      "words": [
+       {
+        "w": "gātrāṇi",
+        "gloss": "limbs",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "svapantīva",
+      "words": [
+       {
+        "w": "svapanti",
+        "gloss": "go numb (sleep)",
+        "gram": "3 pl. pres. √svap"
+       },
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rujanti",
+      "words": [
+       {
+        "w": "rujanti",
+        "gloss": "ache",
+        "gram": "3 pl. pres. √ruj"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pīḍitānyunnamāntyāśu",
+      "words": [
+       {
+        "w": "pīḍitāni",
+        "gloss": "when pressed",
+        "gram": "n. nom. pl., past pass. part. √pīḍ"
+       },
+       {
+        "w": "unnamanti",
+        "gloss": "rise up again",
+        "gram": "3 pl. pres. ud-√nam"
+       },
+       {
+        "w": "āśu",
+        "gloss": "quickly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātaśothā",
+      "words": [
+       {
+        "w": "vāta-śotham",
+        "gloss": "Vāta swelling",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tamādiśet",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "that",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ādiśet",
+        "gloss": "one should diagnose",
+        "gram": "3 sg. opt. ā-√diś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और यहाँ हैं: जिसके अङ्ग सूज जाते हैं, मानो सो जाते हैं और दुखते हैं, और दबाने पर शीघ्र ऊपर उठ आते हैं, उसे वातशोथ बताए।",
+  "english": "And here there are: Whose limbs swell, are as if asleep and ache, and, when pressed, quickly rise up again: one should diagnose that as Vāta swelling.",
+  "text_flags": [
+   {
+    "src": "pīḍitānyunnamāntyāśu",
+    "suggest": "pīḍitānyunnamantyāśu",
+    "why": "the 3 pl. present of ud-√nam is unnamanti (cf. nonnamati in 13); the long ā is a typing error"
+   },
+   {
+    "src": "vātaśothā",
+    "suggest": "vātaśothaṃ",
+    "why": "object of ādiśet, agreeing with tam: m. acc. sg. vātaśotham is required"
+   }
+  ],
+  "notes": "Line 1 is the lead-in formula 'bhavanti cātra'. tam (m.) refers to the swelling implied by the verse.",
+  "confidence": "medium"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yaścāpyaruṇavarṇābhaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       },
+       {
+        "w": "aruṇa-varṇa-ābhaḥ",
+        "gloss": "with a reddish hue",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "śotho",
+      "words": [
+       {
+        "w": "śothaḥ",
+        "gloss": "swelling",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "naktaṃ",
+      "words": [
+       {
+        "w": "naktam",
+        "gloss": "at night",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "praṇaśyati",
+      "words": [
+       {
+        "w": "praṇaśyati",
+        "gloss": "disappears",
+        "gram": "3 sg. pres. pra-√naś"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "snehoṣṇamardanābhyāṃ",
+      "words": [
+       {
+        "w": "sneha-uṣṇa-mardanābhyām",
+        "gloss": "by unctuous warmth and massage",
+        "gram": "n. inst. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "praṇaśyet",
+      "words": [
+       {
+        "w": "praṇaśyet",
+        "gloss": "would disappear",
+        "gram": "3 sg. opt. pra-√naś"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātikaḥ",
+      "words": [
+       {
+        "w": "vātikaḥ",
+        "gloss": "of Vāta nature",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और जो शोथ अरुण वर्ण की आभा वाला हो, रात में मिट जाए, और स्नेह-उष्णता तथा मर्दन से मिट जाए, वह भी वातिक है।",
+  "english": "And the swelling which has a reddish hue, disappears at night, and would disappear with unctuous warmth and massage: that too is of Vāta nature (vātika).",
+  "text_flags": [],
+  "notes": "snehoṣṇamardanābhyām is dual: read as two means, 'unctuous warmth' (sneha-uṣṇa) and 'massage' (mardana); it could also be 'unctuous and warm massage'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pipāsājvarārtasya",
+      "words": [
+       {
+        "w": "pipāsā-jvara-ārtasya",
+        "gloss": "of one afflicted with thirst and fever",
+        "gram": "m. gen. sg., tat-puruṣa (with dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "dūyate'tha",
+      "words": [
+       {
+        "w": "dūyate",
+        "gloss": "smarts with pain",
+        "gram": "3 sg. pres. √du"
+       },
+       {
+        "w": "atha",
+        "gloss": "and then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vidahyate",
+      "words": [
+       {
+        "w": "vidahyate",
+        "gloss": "burns",
+        "gram": "3 sg. pres. pass. vi-√dah"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "svidyati",
+      "words": [
+       {
+        "w": "svidyati",
+        "gloss": "sweats",
+        "gram": "3 sg. pres. √svid"
+       }
+      ]
+     },
+     {
+      "src": "klidyate",
+      "words": [
+       {
+        "w": "klidyate",
+        "gloss": "becomes moist",
+        "gram": "3 sg. pres. √klid"
+       }
+      ]
+     },
+     {
+      "src": "gandhī",
+      "words": [
+       {
+        "w": "gandhī",
+        "gloss": "foul-smelling",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "paittaḥ",
+      "words": [
+       {
+        "w": "paittaḥ",
+        "gloss": "of Pitta",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śvayatuḥ",
+      "words": [
+       {
+        "w": "śvayathuḥ",
+        "gloss": "swelling",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "smṛtaḥ",
+      "words": [
+       {
+        "w": "smṛtaḥ",
+        "gloss": "is known as",
+        "gram": "m. nom. sg., past pass. part. √smṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्यास और ज्वर से पीड़ित व्यक्ति का जो शोथ पीड़ा देता है, फिर जलता है, पसीजता है, गीला होता है और गन्धयुक्त होता है, वह पैत्त श्वयथु माना गया है।",
+  "english": "The swelling of one afflicted with thirst and fever which smarts, then burns, sweats, becomes moist and is foul-smelling is known as the Pitta swelling (śvayathu).",
+  "text_flags": [
+   {
+    "src": "śvayatuḥ",
+    "suggest": "śvayathuḥ",
+    "why": "the word for swelling is śvayathu (cf. śvayathuḥ in 15)"
+   }
+  ],
+  "notes": "gandhī (having a smell) is rendered 'foul-smelling'; the word itself means 'having an odour'.",
+  "confidence": "high"
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pītanetravaktratvak",
+      "words": [
+       {
+        "w": "pīta-netra-vaktra-tvak",
+        "gloss": "with yellow eyes, face and skin",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "pūrvaṃ",
+      "words": [
+       {
+        "w": "pūrvam",
+        "gloss": "first",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "madhyāt",
+      "words": [
+       {
+        "w": "madhyāt",
+        "gloss": "from the middle",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "praśūyate",
+      "words": [
+       {
+        "w": "praśūyate",
+        "gloss": "swells",
+        "gram": "3 sg. pres. pra-√śvi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tanutvak",
+      "words": [
+       {
+        "w": "tanu-tvak",
+        "gloss": "with thin skin",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "cātisārī",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "atisārī",
+        "gloss": "with diarrhoea",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pitaśothaḥ",
+      "words": [
+       {
+        "w": "pitta-śothaḥ",
+        "gloss": "Pitta swelling",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ucyate",
+      "words": [
+       {
+        "w": "ucyate",
+        "gloss": "is called",
+        "gram": "3 sg. pres. pass. √vac"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिस शोथ में आँखें, मुख और त्वचा पीले हों, जो पहले मध्य भाग से सूजे, जिसमें त्वचा पतली हो और अतिसार हो, वह पित्तशोथ कहा जाता है।",
+  "english": "The swelling with yellow eyes, face and skin, which first swells from the middle, with thin skin and with diarrhoea: that is called the Pitta swelling.",
+  "text_flags": [
+   {
+    "src": "pitaśothaḥ",
+    "suggest": "pittaśothaḥ",
+    "why": "pitta has a double t (cf. pittaśothaḥ in 7-2)"
+   }
+  ],
+  "notes": "The bahuvrīhis (yellow eyes, face, skin; thin skin; atisārin) are grammatically attributes of the swelling, though they describe the patient. madhyāt 'from the middle' is taken as the middle of the body.",
+  "confidence": "medium"
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śītaḥ",
+      "words": [
+       {
+        "w": "śītaḥ",
+        "gloss": "cold",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saktagatiryastu",
+      "words": [
+       {
+        "w": "sakta-gatiḥ",
+        "gloss": "slow in movement",
+        "gram": "m. nom. sg., bahuvrīhi"
+       },
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaṇdūmān",
+      "words": [
+       {
+        "w": "kaṇḍūmān",
+        "gloss": "itchy",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāṇḍureva",
+      "words": [
+       {
+        "w": "pāṇḍuḥ",
+        "gloss": "pale",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "just, indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "nipīḍito",
+      "words": [
+       {
+        "w": "nipīḍitaḥ",
+        "gloss": "when pressed",
+        "gram": "m. nom. sg., past pass. part. ni-√pīḍ"
+       }
+      ]
+     },
+     {
+      "src": "nonnamati",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "unnamati",
+        "gloss": "rises up again",
+        "gram": "3 sg. pres. ud-√nam"
+       }
+      ]
+     },
+     {
+      "src": "śvayatuḥ",
+      "words": [
+       {
+        "w": "śvayathuḥ",
+        "gloss": "swelling",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaphātmaḥ",
+      "words": [
+       {
+        "w": "kapha-ātmakaḥ",
+        "gloss": "of Kapha nature",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु जो शोथ शीत, मन्द गति वाला, खुजली वाला और पाण्डु वर्ण का हो, और दबाने पर ऊपर न उठे, वह श्वयथु कफात्मक है।",
+  "english": "But the swelling which is cold, slow in movement, itchy and pale, and, when pressed, does not rise up again: that swelling is of Kapha nature.",
+  "text_flags": [
+   {
+    "src": "kaṇdūmān",
+    "suggest": "kaṇḍūmān",
+    "why": "kaṇḍū (itching) has retroflex ḍ, as in kaṇḍū in 6"
+   },
+   {
+    "src": "śvayatuḥ",
+    "suggest": "śvayathuḥ",
+    "why": "the word for swelling is śvayathu (cf. 15)"
+   },
+   {
+    "src": "kaphātmaḥ",
+    "suggest": "kaphātmakaḥ",
+    "why": "the half-line has only 7 syllables; kaphātmakaḥ restores 8 and is the usual -ātmaka formation"
+   }
+  ],
+  "notes": "sakta-gati (literally 'whose movement is stuck') is rendered 'slow in movement', i.e. slow to spread.",
+  "confidence": "medium"
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of which",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śastrakuśacchinnācchoṇitaṃ",
+      "words": [
+       {
+        "w": "śastra-kuśa-chinnāt",
+        "gloss": "from [it] cut with a knife or kuśa grass",
+        "gram": "m. abl. sg., tat-puruṣa (with dvandva)"
+       },
+       {
+        "w": "śoṇitam",
+        "gloss": "blood",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pravatate",
+      "words": [
+       {
+        "w": "pravartate",
+        "gloss": "flows",
+        "gram": "3 sg. pres. pra-√vṛt"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kṛcchreṇa",
+      "words": [
+       {
+        "w": "kṛcchreṇa",
+        "gloss": "with difficulty",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "picchā",
+      "words": [
+       {
+        "w": "picchā",
+        "gloss": "slimy fluid",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sravati",
+      "words": [
+       {
+        "w": "sravati",
+        "gloss": "oozes",
+        "gram": "3 sg. pres. √sru"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "cāpi",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaphasaṃbhavaḥ",
+      "words": [
+       {
+        "w": "kapha-saṃbhavaḥ",
+        "gloss": "arising from Kapha",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिस शोथ को शस्त्र या कुश से काटने पर उसमें से रक्त न बहे, और कठिनाई से चिपचिपा पिच्छा स्रवित हो, वह भी कफ से उत्पन्न है।",
+  "english": "The swelling from which, when it is cut with a knife or kuśa grass, blood does not flow, and slimy fluid (picchā) oozes with difficulty: that too arises from Kapha.",
+  "text_flags": [
+   {
+    "src": "pravatate",
+    "suggest": "pravartate",
+    "why": "pravatate is not a form; pra-√vṛt, pravartate (flows) gives the sense"
+   }
+  ],
+  "notes": "yasya (genitive) and chinnāt (ablative) both refer to the swelling: 'of which, from [it] when cut'.",
+  "confidence": "high"
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nidānākṛtismāsargācchvayathuḥ",
+      "words": [
+       {
+        "w": "nidāna-ākṛti-saṃsargāt",
+        "gloss": "from the combination of causes and features",
+        "gram": "m. abl. sg., tat-puruṣa (with dvandva)"
+       },
+       {
+        "w": "śvayathuḥ",
+        "gloss": "swelling",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "syāddvidoṣajaḥ",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √as"
+       },
+       {
+        "w": "dvi-doṣa-jaḥ",
+        "gloss": "born of two doṣas",
+        "gram": "m. nom. sg., upapada tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sarvākṛtiḥ",
+      "words": [
+       {
+        "w": "sarva-ākṛtiḥ",
+        "gloss": "having all the features",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sannipātācchotho",
+      "words": [
+       {
+        "w": "sannipātāt",
+        "gloss": "from sannipāta (all doṣas combined)",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "śothaḥ",
+        "gloss": "swelling",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyāmiśrahetujaḥ",
+      "words": [
+       {
+        "w": "vyāmiśra-hetu-jaḥ",
+        "gloss": "born of mixed causes",
+        "gram": "m. nom. sg., upapada tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "निदानों और आकृतियों के संसर्ग से श्वयथु द्विदोषज होता है; सन्निपात से सब आकृतियों वाला शोथ मिश्रित हेतुओं से उत्पन्न होता है।",
+  "english": "From the combination of causes and features, a swelling is born of two doṣas; from sannipāta (the combination of all three), the swelling with all the features is born of mixed causes.",
+  "text_flags": [
+   {
+    "src": "nidānākṛtismāsargācchvayathuḥ",
+    "suggest": "nidānākṛtisaṃsargācchvayathuḥ",
+    "why": "smāsarga is not a word; saṃsarga (combination), as in kāraṇākṛtisaṃsargāt in 7"
+   }
+  ],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ystu",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pādābhinirvṛttaḥ",
+      "words": [
+       {
+        "w": "pāda-abhinirvṛttaḥ",
+        "gloss": "arisen in the feet",
+        "gram": "m. nom. sg., past part. abhi-nir-√vṛt, tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "śothaḥ",
+      "words": [
+       {
+        "w": "śothaḥ",
+        "gloss": "swelling",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvāṅgago",
+      "words": [
+       {
+        "w": "sarva-aṅga-gaḥ",
+        "gloss": "going to all the limbs",
+        "gram": "m. nom. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhavaet",
+      "words": [
+       {
+        "w": "bhavet",
+        "gloss": "becomes",
+        "gram": "3 sg. opt. √bhū"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "jantoḥ",
+      "words": [
+       {
+        "w": "jantoḥ",
+        "gloss": "of a person",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sukaṣṭaḥ",
+      "words": [
+       {
+        "w": "su-kaṣṭaḥ",
+        "gloss": "very grave",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "syāt",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "is",
+        "gram": "3 sg. opt. √as"
+       }
+      ]
+     },
+     {
+      "src": "prasṛtaḥ",
+      "words": [
+       {
+        "w": "prasṛtaḥ",
+        "gloss": "spread",
+        "gram": "m. nom. sg., past part. pra-√sṛ"
+       }
+      ]
+     },
+     {
+      "src": "strīmukhācca",
+      "words": [
+       {
+        "w": "strī-mukhāt",
+        "gloss": "from the face of a woman",
+        "gram": "n. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु जिस प्राणी का शोथ पैरों में उत्पन्न होकर सब अङ्गों में फैल जाए, वह बहुत कष्टदायक होता है; और वह भी जो स्त्री के मुख से फैला हो।",
+  "english": "But the swelling of a person which, having arisen in the feet, spreads to all the limbs, is very grave; and so is that which has spread from the face in a woman.",
+  "text_flags": [
+   {
+    "src": "ystu",
+    "suggest": "yastu",
+    "why": "missing vowel: yaḥ tu (cf. yastu in 13)"
+   },
+   {
+    "src": "bhavaet",
+    "suggest": "bhavet",
+    "why": "bhavaet is not a form; optative bhavet"
+   }
+  ],
+  "notes": "strīmukhāt is read as 'from a woman's face', i.e. a swelling in a woman that starts in the face and spreads.",
+  "confidence": "medium"
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yaścāpi",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "guhyaprabhavaḥ",
+      "words": [
+       {
+        "w": "guhya-prabhavaḥ",
+        "gloss": "arising in the genitals",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "striyā",
+      "words": [
+       {
+        "w": "striyāḥ",
+        "gloss": "of a woman",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "puruṣasya",
+      "words": [
+       {
+        "w": "puruṣasya",
+        "gloss": "of a man",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaṣṭatamo",
+      "words": [
+       {
+        "w": "kaṣṭa-tamaḥ",
+        "gloss": "gravest",
+        "gram": "m. nom. sg., superlative"
+       }
+      ]
+     },
+     {
+      "src": "jñeyo",
+      "words": [
+       {
+        "w": "jñeyaḥ",
+        "gloss": "is to be known",
+        "gram": "m. nom. sg., gerundive (kṛtya) √jñā"
+       }
+      ]
+     },
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of which",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "syurupadravāḥ",
+      "words": [
+       {
+        "w": "syuḥ",
+        "gloss": "there are",
+        "gram": "3 pl. opt. √as"
+       },
+       {
+        "w": "upadravāḥ",
+        "gloss": "complications",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और जो शोथ स्त्री या पुरुष के गुह्य भाग में उत्पन्न हो, वह भी सबसे अधिक कष्टदायक जानना चाहिए, और वह भी जिसमें उपद्रव हों।",
+  "english": "And that which arises in the genitals, of a woman or of a man, is to be known as the gravest; and so is that in which there are complications.",
+  "text_flags": [],
+  "notes": "striyā is the genitive striyāḥ with the visarga dropped before v by sandhi, parallel to puruṣasya.",
+  "confidence": "high"
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "chardiḥ",
+      "words": [
+       {
+        "w": "chardiḥ",
+        "gloss": "vomiting",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śvāso'rucistṛṣṇā",
+      "words": [
+       {
+        "w": "śvāsaḥ",
+        "gloss": "dyspnoea",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "aruciḥ",
+        "gloss": "loss of taste",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "tṛṣṇā",
+        "gloss": "thirst",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jvaro'tīsāra",
+      "words": [
+       {
+        "w": "jvaraḥ",
+        "gloss": "fever",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "atīsāraḥ",
+        "gloss": "diarrhoea",
+        "gram": "m. nom. sg. (lengthened form of atisāra)"
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "just, indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "saptako'yaṃ",
+      "words": [
+       {
+        "w": "saptakaḥ",
+        "gloss": "set of seven",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ayam",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sadaurbalyaḥ",
+      "words": [
+       {
+        "w": "sa-daurbalyaḥ",
+        "gloss": "with weakness",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "śophopadaravasaṃgrahaḥ",
+      "words": [
+       {
+        "w": "śopha-upadrava-saṃgrahaḥ",
+        "gloss": "summary of the complications of swelling",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "छर्दि, श्वास, अरुचि, तृष्णा, ज्वर और अतिसार: दुर्बलता के साथ यह सप्तक शोथ के उपद्रवों का संग्रह है।",
+  "english": "Vomiting, dyspnoea, loss of taste, thirst, fever and diarrhoea: this set of seven, with weakness, is the summary of the complications of swelling.",
+  "text_flags": [
+   {
+    "src": "śophopadaravasaṃgrahaḥ",
+    "suggest": "śophopadravasaṃgrahaḥ",
+    "why": "upadrava (complication), cf. upadravāḥ in 17; upadarava gives the half-line 9 syllables instead of 8"
+   }
+  ],
+  "notes": "Six items are listed; weakness (daurbalya) makes the seventh.",
+  "confidence": "high"
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "in whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śleṣmā",
+      "words": [
+       {
+        "w": "śleṣmā",
+        "gloss": "Kapha (śleṣman)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakupito",
+      "words": [
+       {
+        "w": "prakupitaḥ",
+        "gloss": "aggravated",
+        "gram": "m. nom. sg., past part. pra-√kup"
+       }
+      ]
+     },
+     {
+      "src": "jihvāmūle'vatiṣṭhate",
+      "words": [
+       {
+        "w": "jihvā-mūle",
+        "gloss": "at the root of the tongue",
+        "gram": "n. loc. sg., tat-puruṣa"
+       },
+       {
+        "w": "avatiṣṭhate",
+        "gloss": "settles",
+        "gram": "3 sg. pres. ava-√sthā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "āśu",
+      "words": [
+       {
+        "w": "āśu",
+        "gloss": "quickly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃjanayecchothā",
+      "words": [
+       {
+        "w": "saṃjanayet",
+        "gloss": "would produce",
+        "gram": "3 sg. opt. caus. sam-√jan"
+       },
+       {
+        "w": "śotham",
+        "gloss": "swelling",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jāyate'syopajihvikā",
+      "words": [
+       {
+        "w": "jāyate",
+        "gloss": "arises",
+        "gram": "3 sg. pres. √jan"
+       },
+       {
+        "w": "asya",
+        "gloss": "in him",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "upajihvikā",
+        "gloss": "upajihvikā",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसका कुपित श्लेष्मा जिह्वा के मूल में ठहर जाता है और शीघ्र शोथ उत्पन्न करता है, उसे उपजिह्विका होती है।",
+  "english": "In whom aggravated Kapha (śleṣman) settles at the root of the tongue and quickly produces a swelling, in him upajihvikā arises.",
+  "text_flags": [
+   {
+    "src": "saṃjanayecchothā",
+    "suggest": "saṃjanayecchothaṃ",
+    "why": "object of saṃjanayet: m. acc. sg. śotham, as śophaṃ in the same position in 20 to 22"
+   }
+  ],
+  "notes": "Disease name upajihvikā kept in Sanskrit. The optative saṃjanayet is rendered as a plain present.",
+  "confidence": "high"
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "in whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śleṣmā",
+      "words": [
+       {
+        "w": "śleṣmā",
+        "gloss": "Kapha (śleṣman)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakupitaḥ",
+      "words": [
+       {
+        "w": "prakupitaḥ",
+        "gloss": "aggravated",
+        "gram": "m. nom. sg., past part. pra-√kup"
+       }
+      ]
+     },
+     {
+      "src": "kākale",
+      "words": [
+       {
+        "w": "kākale",
+        "gloss": "in the kākala (part of the throat)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyavatiṣṭhate",
+      "words": [
+       {
+        "w": "vyavatiṣṭhate",
+        "gloss": "settles",
+        "gram": "3 sg. pres. vi-ava-√sthā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "āśu",
+      "words": [
+       {
+        "w": "āśu",
+        "gloss": "quickly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃjanayecchophaṃ",
+      "words": [
+       {
+        "w": "saṃjanayet",
+        "gloss": "would produce",
+        "gram": "3 sg. opt. caus. sam-√jan"
+       },
+       {
+        "w": "śopham",
+        "gloss": "swelling",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "karoti",
+      "words": [
+       {
+        "w": "karoti",
+        "gloss": "causes",
+        "gram": "3 sg. pres. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "galaśuṇḍikām",
+      "words": [
+       {
+        "w": "gala-śuṇḍikām",
+        "gloss": "galaśuṇḍikā",
+        "gram": "f. acc. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसका कुपित श्लेष्मा काकल में ठहर जाता है, वह शीघ्र शोफ उत्पन्न करके गलशुण्डिका कर देता है।",
+  "english": "In whom aggravated Kapha (śleṣman) settles in the kākala, it quickly produces a swelling and causes galaśuṇḍikā.",
+  "text_flags": [],
+  "notes": "kākala and the disease name galaśuṇḍikā are kept in Sanskrit; kākala is a part of the throat.",
+  "confidence": "high"
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "in whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śleṣmā",
+      "words": [
+       {
+        "w": "śleṣmā",
+        "gloss": "Kapha (śleṣman)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakupito",
+      "words": [
+       {
+        "w": "prakupitaḥ",
+        "gloss": "aggravated",
+        "gram": "m. nom. sg., past part. pra-√kup"
+       }
+      ]
+     },
+     {
+      "src": "galabāhye'vatiṣṭhate",
+      "words": [
+       {
+        "w": "gala-bāhye",
+        "gloss": "on the outside of the throat",
+        "gram": "n. loc. sg., tat-puruṣa"
+       },
+       {
+        "w": "avatiṣṭhate",
+        "gloss": "settles",
+        "gram": "3 sg. pres. ava-√sthā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śanaiḥ",
+      "words": [
+       {
+        "w": "śanaiḥ",
+        "gloss": "slowly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃjanayecchophaṃ",
+      "words": [
+       {
+        "w": "saṃjanayet",
+        "gloss": "would produce",
+        "gram": "3 sg. opt. caus. sam-√jan"
+       },
+       {
+        "w": "śopham",
+        "gloss": "swelling",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "galagaṇḍo'sya",
+      "words": [
+       {
+        "w": "gala-gaṇḍaḥ",
+        "gloss": "galagaṇḍa",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "asya",
+        "gloss": "in him",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "jāyate",
+      "words": [
+       {
+        "w": "jāyate",
+        "gloss": "arises",
+        "gram": "3 sg. pres. √jan"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसका कुपित श्लेष्मा गले के बाहरी भाग में ठहर जाता है और धीरे-धीरे शोफ उत्पन्न करता है, उसे गलगण्ड होता है।",
+  "english": "In whom aggravated Kapha (śleṣman) settles on the outside of the throat and slowly produces a swelling, in him galagaṇḍa arises.",
+  "text_flags": [],
+  "notes": "Disease name galagaṇḍa kept in Sanskrit.",
+  "confidence": "high"
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "in whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śleṣmā",
+      "words": [
+       {
+        "w": "śleṣmā",
+        "gloss": "Kapha (śleṣman)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakupitastiṣṭhatyantargale",
+      "words": [
+       {
+        "w": "prakupitaḥ",
+        "gloss": "aggravated",
+        "gram": "m. nom. sg., past part. pra-√kup"
+       },
+       {
+        "w": "tiṣṭhati",
+        "gloss": "stays",
+        "gram": "3 sg. pres. √sthā"
+       },
+       {
+        "w": "antar-gale",
+        "gloss": "inside the throat",
+        "gram": "m. loc. sg., compound with ind. antar"
+       }
+      ]
+     },
+     {
+      "src": "sthiraḥ",
+      "words": [
+       {
+        "w": "sthiraḥ",
+        "gloss": "fixed",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "āśu",
+      "words": [
+       {
+        "w": "āśu",
+        "gloss": "quickly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃjanayechophaṃ",
+      "words": [
+       {
+        "w": "saṃjanayet",
+        "gloss": "would produce",
+        "gram": "3 sg. opt. caus. sam-√jan"
+       },
+       {
+        "w": "śopham",
+        "gloss": "swelling",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jāyate'sya",
+      "words": [
+       {
+        "w": "jāyate",
+        "gloss": "arises",
+        "gram": "3 sg. pres. √jan"
+       },
+       {
+        "w": "asya",
+        "gloss": "in him",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "galagrahaḥ",
+      "words": [
+       {
+        "w": "gala-grahaḥ",
+        "gloss": "galagraha",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसका कुपित श्लेष्मा गले के भीतर स्थिर होकर ठहरता है और शीघ्र शोफ उत्पन्न करता है, उसे गलग्रह होता है।",
+  "english": "In whom aggravated Kapha (śleṣman) stays fixed inside the throat and quickly produces a swelling, in him galagraha arises.",
+  "text_flags": [
+   {
+    "src": "saṃjanayechophaṃ",
+    "suggest": "saṃjanayecchophaṃ",
+    "why": "possible: the final t of saṃjanayet before ś should appear as c (cch), as in 20 and 21"
+   }
+  ],
+  "notes": "Disease name galagraha kept in Sanskrit. antargale is taken as loc. 'inside the throat'.",
+  "confidence": "high"
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasay",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "in whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pittaṃ",
+      "words": [
+       {
+        "w": "pittam",
+        "gloss": "Pitta",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakupitā",
+      "words": [
+       {
+        "w": "prakupitam",
+        "gloss": "aggravated",
+        "gram": "n. nom. sg., past part. pra-√kup"
+       }
+      ]
+     },
+     {
+      "src": "saraktaṃ",
+      "words": [
+       {
+        "w": "sa-raktam",
+        "gloss": "together with blood",
+        "gram": "n. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "tvaci",
+      "words": [
+       {
+        "w": "tvaci",
+        "gloss": "in the skin",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarpapi",
+      "words": [
+       {
+        "w": "sarpati",
+        "gloss": "spreads",
+        "gram": "3 sg. pres. √sṛp"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śophaṃ",
+      "words": [
+       {
+        "w": "śopham",
+        "gloss": "swelling",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarāgām",
+      "words": [
+       {
+        "w": "sa-rāgam",
+        "gloss": "reddened",
+        "gram": "m. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "janayedvisarpastasya",
+      "words": [
+       {
+        "w": "janayet",
+        "gloss": "would produce",
+        "gram": "3 sg. opt. caus. √jan"
+       },
+       {
+        "w": "visarpaḥ",
+        "gloss": "visarpa",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tasya",
+        "gloss": "in him",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "jāyate",
+      "words": [
+       {
+        "w": "jāyate",
+        "gloss": "arises",
+        "gram": "3 sg. pres. √jan"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसका कुपित पित्त रक्त के साथ त्वचा में फैलता है और लालिमायुक्त शोफ उत्पन्न करता है, उसे विसर्प होता है।",
+  "english": "In whom aggravated Pitta spreads in the skin together with blood and produces a reddened swelling, in him visarpa arises.",
+  "text_flags": [
+   {
+    "src": "yasay",
+    "suggest": "yasya",
+    "why": "transposed letters; yasya as in every verse of this group"
+   },
+   {
+    "src": "prakupitā",
+    "suggest": "prakupitaṃ",
+    "why": "agrees with n. pittam (cf. pittaṃ prakupitaṃ in 24 and 27)"
+   },
+   {
+    "src": "sarpapi",
+    "suggest": "sarpati",
+    "why": "sarpapi is not a form; 3 sg. pres. sarpati (spreads), which fits visarpa"
+   },
+   {
+    "src": "sarāgām",
+    "suggest": "sarāgaṃ",
+    "why": "agrees with m. acc. śopham (cf. śothaṃ sarāgaṃ in 24)"
+   }
+  ],
+  "notes": "Disease name visarpa kept in Sanskrit.",
+  "confidence": "medium"
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "in whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pittaṃ",
+      "words": [
+       {
+        "w": "pittam",
+        "gloss": "Pitta",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakupitaṃ",
+      "words": [
+       {
+        "w": "prakupitam",
+        "gloss": "aggravated",
+        "gram": "n. nom. sg., past part. pra-√kup"
+       }
+      ]
+     },
+     {
+      "src": "tvaci",
+      "words": [
+       {
+        "w": "tvaci",
+        "gloss": "in the skin",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rakte'vatiṣṭhate",
+      "words": [
+       {
+        "w": "rakte",
+        "gloss": "in the blood",
+        "gram": "n. loc. sg."
+       },
+       {
+        "w": "avatiṣṭhate",
+        "gloss": "settles",
+        "gram": "3 sg. pres. ava-√sthā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śothaṃ",
+      "words": [
+       {
+        "w": "śotham",
+        "gloss": "swelling",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarāgaṃ",
+      "words": [
+       {
+        "w": "sa-rāgam",
+        "gloss": "reddened",
+        "gram": "m. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "janayet",
+      "words": [
+       {
+        "w": "janayet",
+        "gloss": "would produce",
+        "gram": "3 sg. opt. caus. √jan"
+       }
+      ]
+     },
+     {
+      "src": "piḍakā",
+      "words": [
+       {
+        "w": "piḍakā",
+        "gloss": "piḍakā (eruption)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "in him",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "jāyate",
+      "words": [
+       {
+        "w": "jāyate",
+        "gloss": "arises",
+        "gram": "3 sg. pres. √jan"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसका कुपित पित्त त्वचा और रक्त में ठहर जाता है और लालिमायुक्त शोथ उत्पन्न करता है, उसे पिडका होती है।",
+  "english": "In whom aggravated Pitta settles in the skin and blood and produces a reddened swelling, in him piḍakā (eruption) arises.",
+  "text_flags": [],
+  "notes": "piḍakā may be singular or a collective; rendered as the disease name.",
+  "confidence": "high"
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "in whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakupitaṃ",
+      "words": [
+       {
+        "w": "prakupitam",
+        "gloss": "aggravated",
+        "gram": "n. nom. sg., past part. pra-√kup"
+       }
+      ]
+     },
+     {
+      "src": "pittaṃ",
+      "words": [
+       {
+        "w": "pittam",
+        "gloss": "Pitta",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śoṇitaṃ",
+      "words": [
+       {
+        "w": "śoṇitam",
+        "gloss": "blood",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāpya",
+      "words": [
+       {
+        "w": "prāpya",
+        "gloss": "reaching",
+        "gram": "abs. pra-√āp"
+       }
+      ]
+     },
+     {
+      "src": "śuṣyati",
+      "words": [
+       {
+        "w": "śuṣyati",
+        "gloss": "dries up",
+        "gram": "3 sg. pres. √śuṣ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tilakā",
+      "words": [
+       {
+        "w": "tilakāḥ",
+        "gloss": "tilakas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "piplavo",
+      "words": [
+       {
+        "w": "piplavaḥ",
+        "gloss": "piplus",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vyaṅgā",
+      "words": [
+       {
+        "w": "vyaṅgāḥ",
+        "gloss": "vyaṅgas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "nīlikā",
+      "words": [
+       {
+        "w": "nīlikā",
+        "gloss": "nīlikā",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "in him",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "jāyate",
+      "words": [
+       {
+        "w": "jāyate",
+        "gloss": "arises",
+        "gram": "3 sg. pres. √jan"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसका कुपित पित्त रक्त में पहुँचकर सूख जाता है, उसे तिलक, पिप्लु, व्यङ्ग और नीलिका होते हैं।",
+  "english": "In whom aggravated Pitta, reaching the blood, dries up, in him tilakas, piplus, vyaṅgas and nīlikā arise.",
+  "text_flags": [
+   {
+    "src": "tilakā",
+    "suggest": "tilakāḥ",
+    "why": "possible: before p the visarga of the m. nom. pl. should stand (tilakāḥ piplavaḥ)"
+   }
+  ],
+  "notes": "Disease names tilaka, piplu, vyaṅga and nīlikā kept in Sanskrit. The singular verb jāyate agrees with the nearest subject nīlikā.",
+  "confidence": "medium"
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "in whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pittaṃ",
+      "words": [
+       {
+        "w": "pittam",
+        "gloss": "Pitta",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakupitā",
+      "words": [
+       {
+        "w": "prakupitam",
+        "gloss": "aggravated",
+        "gram": "n. nom. sg., past part. pra-√kup"
+       }
+      ]
+     },
+     {
+      "src": "śaṅkhayoravatiṣṭhate",
+      "words": [
+       {
+        "w": "śaṅkhayoḥ",
+        "gloss": "in the two temples",
+        "gram": "m. loc. du."
+       },
+       {
+        "w": "avatiṣṭhate",
+        "gloss": "settles",
+        "gram": "3 sg. pres. ava-√sthā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śvaythuḥ",
+      "words": [
+       {
+        "w": "śvayathuḥ",
+        "gloss": "swelling",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śaṅkhako",
+      "words": [
+       {
+        "w": "śaṅkhakaḥ",
+        "gloss": "śaṅkhaka",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāma",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "named",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dāruṇastasya",
+      "words": [
+       {
+        "w": "dāruṇaḥ",
+        "gloss": "harsh",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tasya",
+        "gloss": "in him",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "jāyate",
+      "words": [
+       {
+        "w": "jāyate",
+        "gloss": "arises",
+        "gram": "3 sg. pres. √jan"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसका कुपित पित्त दोनों शङ्खों में ठहर जाता है, उसे शङ्खक नाम का दारुण श्वयथु होता है।",
+  "english": "In whom aggravated Pitta settles in the temples, in him a harsh swelling named śaṅkhaka arises.",
+  "text_flags": [
+   {
+    "src": "prakupitā",
+    "suggest": "prakupitaṃ",
+    "why": "agrees with n. pittam (cf. 24, 27)"
+   },
+   {
+    "src": "śvaythuḥ",
+    "suggest": "śvayathuḥ",
+    "why": "transposed letters; śvayathu as in 15"
+   }
+  ],
+  "notes": "Disease name śaṅkhaka kept in Sanskrit; śaṅkha (dual) = the temples.",
+  "confidence": "medium"
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "in whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pittaṃ",
+      "words": [
+       {
+        "w": "pittam",
+        "gloss": "Pitta",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakupitaṃ",
+      "words": [
+       {
+        "w": "prakupitam",
+        "gloss": "aggravated",
+        "gram": "n. nom. sg., past part. pra-√kup"
+       }
+      ]
+     },
+     {
+      "src": "karṇamūle'vatiṣṭhate",
+      "words": [
+       {
+        "w": "karṇa-mūle",
+        "gloss": "at the root of the ear",
+        "gram": "n. loc. sg., tat-puruṣa"
+       },
+       {
+        "w": "avatiṣṭhate",
+        "gloss": "settles",
+        "gram": "3 sg. pres. ava-√sthā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "jvarānte",
+      "words": [
+       {
+        "w": "jvara-ante",
+        "gloss": "at the end of fever",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "durjayo'ntāya",
+      "words": [
+       {
+        "w": "durjayaḥ",
+        "gloss": "hard to overcome",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "antāya",
+        "gloss": "leading to the end",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "śothastasyopajāyate",
+      "words": [
+       {
+        "w": "śothaḥ",
+        "gloss": "swelling",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tasya",
+        "gloss": "in him",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "upajāyate",
+        "gloss": "arises",
+        "gram": "3 sg. pres. upa-√jan"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसका कुपित पित्त कान के मूल में ठहर जाता है, उसे ज्वर के अन्त में दुर्जय और अन्त की ओर ले जाने वाला शोथ उत्पन्न होता है।",
+  "english": "In whom aggravated Pitta settles at the root of the ear, in him, at the end of a fever, a swelling arises that is hard to overcome and leads to the end.",
+  "text_flags": [],
+  "notes": "antāya (dative of anta, 'end') means 'for the end', i.e. leading to death.",
+  "confidence": "high"
+ }
+]

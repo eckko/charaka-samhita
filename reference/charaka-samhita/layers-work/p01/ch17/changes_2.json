@@ -1,0 +1,302 @@
+[
+ {
+  "n": "43",
+  "field": "hindi",
+  "old": "जैसे बढ़े हुए दोषों से, वैसे ही घटे हुए दोषों से पच्चीस (भेद) होंगे; और वृद्धि तथा क्षय से बना एक अन्य विकल्प बताया जाएगा।",
+  "new": "जैसे बढ़े हुए दोषों से, वैसे ही घटे हुए दोषों से पच्चीस (विकार) होंगे; और वृद्धि तथा क्षय से बना एक अन्य विकल्प बताया जाएगा।",
+  "why": "reviewer (minor): The understood noun is given by unit 42 (chunk 1: 'vyādhayaḥ pañcaviṃśatiḥ', cf. 41 'vikārāḥ'): disorders, not 'kinds/varieties'."
+ },
+ {
+  "n": "43",
+  "field": "notes",
+  "old": "The noun for \"twenty-five\" is understood from the preceding verses (kinds of combination); the Hindi bracket supplies it.",
+  "new": "The noun for \"twenty-five\" is understood from unit 42 (vyādhayaḥ pañcaviṃśatiḥ, \"twenty-five disorders\"); the Hindi bracket supplies it.",
+  "why": "reviewer (minor): Note names the wrong understood noun; verse 42 has vyādhayaḥ pañcaviṃśatiḥ."
+ },
+ {
+  "n": "45",
+  "field": "hindi",
+  "old": "जब कफ (श्लेष्मा) के क्षय में मारुत (वात) प्रकृतिस्थ पित्त को उसके स्थान से लेकर अंगों में जहाँ-जहाँ फैलता है,",
+  "new": "जब श्लेष्मा के क्षय में मारुत (वात) प्रकृतिस्थ पित्त को उसके स्थान से लेकर अंगों में जहाँ-जहाँ फैलता है,",
+  "why": "reviewer (error): Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: śleṣman in Hindi = श्लेष्मा."
+ },
+ {
+  "n": "45",
+  "field": "hindi",
+  "old": "जब श्लेष्मा के क्षय में मारुत (वात) प्रकृतिस्थ पित्त को उसके स्थान से लेकर अंगों में जहाँ-जहाँ फैलता है,",
+  "new": "जब श्लेष्मा के क्षय में मारुत प्रकृतिस्थ पित्त को उसके स्थान से लेकर अंगों में जहाँ-जहाँ फैलता है,",
+  "why": "reviewer (error): Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: vāyu/māruta in Hindi = वायु/मारुत; keep the printed synonym."
+ },
+ {
+  "n": "46",
+  "field": "word.gloss",
+  "word": "eva",
+  "old": "also",
+  "new": "indeed (emphatic)",
+  "why": "reviewer (minor): GLOSSARY: eva = emphatic particle (\"just, indeed\"); 'also' belongs to the idiom eva ca, not to eva alone."
+ },
+ {
+  "n": "47",
+  "field": "hindi",
+  "old": "जब पित्त के क्षीण होने पर बलवान् वायु (वात) प्रकृतिस्थ कफ को खींचता है, तब वह शीतलता, जकड़न और भारीपन सहित शूल उत्पन्न करता है।",
+  "new": "जब पित्त के क्षीण होने पर बलवान् वायु प्रकृतिस्थ कफ को खींचता है, तब वह शीतलता, जकड़न और भारीपन सहित शूल उत्पन्न करता है।",
+  "why": "reviewer (error): Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: vāyu/māruta in Hindi = वायु/मारुत; keep the printed synonym."
+ },
+ {
+  "n": "48",
+  "field": "hindi",
+  "old": "जब कफ के क्षय में पित्त प्रकृतिस्थ अनिल (वात) को रोकता है, तब उसको दाह और शूल उत्पन्न होता है।",
+  "new": "जब कफ के क्षय में पित्त प्रकृतिस्थ अनिल को रोकता है, तब उसको दाह और शूल उत्पन्न होता है।",
+  "why": "reviewer (error): Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: vāyu/māruta in Hindi = वायु/मारुत; keep the printed synonym."
+ },
+ {
+  "n": "49",
+  "field": "hindi",
+  "old": "क्योंकि जब वात के क्षय में पित्त सम कफ (श्लेष्मा) को रोकता है, तब वह तन्द्रा और भारीपन सहित ज्वर उत्पन्न करता है।",
+  "new": "क्योंकि जब वात के क्षय में पित्त सम श्लेष्मा को रोकता है, तब वह तन्द्रा और भारीपन सहित ज्वर उत्पन्न करता है।",
+  "why": "reviewer (error): Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: śleṣman in Hindi = श्लेष्मा."
+ },
+ {
+  "n": "50",
+  "field": "hindi",
+  "old": "क्योंकि जब पित्त के क्षीण होने पर बढ़ा हुआ कफ (श्लेष्मा) समीरण (वात) को रोकता है, तब वह ठंडक, भारीपन और पीड़ा उत्पन्न करता है।",
+  "new": "क्योंकि जब पित्त के क्षीण होने पर बढ़ा हुआ श्लेष्मा समीरण (वात) को रोकता है, तब वह ठंडक, भारीपन और पीड़ा उत्पन्न करता है।",
+  "why": "reviewer (error): Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: śleṣman in Hindi = श्लेष्मा."
+ },
+ {
+  "n": "50",
+  "field": "hindi",
+  "old": "क्योंकि जब पित्त के क्षीण होने पर बढ़ा हुआ श्लेष्मा समीरण (वात) को रोकता है, तब वह ठंडक, भारीपन और पीड़ा उत्पन्न करता है।",
+  "new": "क्योंकि जब पित्त के क्षीण होने पर बढ़ा हुआ श्लेष्मा समीरण को रोकता है, तब वह ठंडक, भारीपन और पीड़ा उत्पन्न करता है।",
+  "why": "reviewer (error): Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: vāyu/māruta in Hindi = वायु/मारुत; keep the printed synonym."
+ },
+ {
+  "n": "51",
+  "field": "hindi",
+  "old": "जब समीरण (वात) अत्यन्त क्षीण हो, तब सम अवस्था में स्थित पित्त को रोकता हुआ कफ अग्नि की मन्दता, सिर की जकड़न,",
+  "new": "जब समीरण अत्यन्त क्षीण हो, तब सम अवस्था में स्थित पित्त को रोकता हुआ कफ अग्नि की मन्दता, सिर की जकड़न,",
+  "why": "reviewer (error): Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: vāyu/māruta in Hindi = वायु/मारुत; keep the printed synonym."
+ },
+ {
+  "n": "51",
+  "field": "word.w",
+  "word": "sama-tva-gam",
+  "old": "sama-tva-gam",
+  "new": "samatva-gam",
+  "why": "reviewer (minor): -tva is a suffix, not a compound member; the compound is samatva-gam (upapada tat-puruṣa)."
+ },
+ {
+  "n": "51",
+  "field": "notes",
+  "old": "The list of effects continues into unit 52. śirograha is rendered literally as \"seizure, stiffness of the head\".",
+  "new": "The list of effects continues into unit 52. śirograha (literally \"seizure of the head\") is rendered \"stiffness of the head\".",
+  "why": "reviewer (minor): Note does not match the English, which has only \"stiffness of the head\"."
+ },
+ {
+  "n": "53",
+  "field": "hindi",
+  "old": "परन्तु जिसका वात हीन है, उसमें पित्त के साथ मिलकर विचरता हुआ कफ (श्लेष्मा) अरोचक और अपाक, शिथिलता तथा भारीपन,",
+  "new": "परन्तु जिसका वात हीन है, उसमें पित्त के साथ मिलकर विचरता हुआ श्लेष्मा अरोचक और अपाक, शिथिलता तथा भारीपन,",
+  "why": "reviewer (error): Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: śleṣman in Hindi = श्लेष्मा."
+ },
+ {
+  "n": "54",
+  "field": "hindi",
+  "old": "हृल्लास, मुख से स्राव, पाण्डुता, पीड़ा, मद, विरेक की विषमता और अनल (अग्नि) की विषमता उत्पन्न करता है।",
+  "new": "हृल्लास, मुख से स्राव, पाण्डुता, पीड़ा, मद, विरेक की विषमता और अनल की विषमता उत्पन्न करता है।",
+  "why": "reviewer (error): Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: vāyu/māruta in Hindi = वायु/मारुत; keep the printed synonym."
+ },
+ {
+  "n": "55",
+  "field": "hindi",
+  "old": "परन्तु जिसका पित्त हीन है, उसमें मारुत (वात) से युक्त कफ (श्लेष्मा) जकड़न, शीतलता और अस्थिर चुभन,",
+  "new": "परन्तु जिसका पित्त हीन है, उसमें मारुत (वात) से युक्त श्लेष्मा जकड़न, शीतलता और अस्थिर चुभन,",
+  "why": "reviewer (error): Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: śleṣman in Hindi = श्लेष्मा."
+ },
+ {
+  "n": "55",
+  "field": "hindi",
+  "old": "परन्तु जिसका पित्त हीन है, उसमें मारुत (वात) से युक्त श्लेष्मा जकड़न, शीतलता और अस्थिर चुभन,",
+  "new": "परन्तु जिसका पित्त हीन है, उसमें मारुत से युक्त श्लेष्मा जकड़न, शीतलता और अस्थिर चुभन,",
+  "why": "reviewer (error): Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: vāyu/māruta in Hindi = वायु/मारुत; keep the printed synonym."
+ },
+ {
+  "n": "56",
+  "field": "word.gloss",
+  "word": "eva",
+  "old": "also",
+  "new": "indeed (emphatic)",
+  "why": "reviewer (minor): GLOSSARY: eva = emphatic particle (\"just, indeed\"); 'also' belongs to the idiom eva ca, not to eva alone."
+ },
+ {
+  "n": "57",
+  "field": "hindi",
+  "old": "कफ के हीन होने पर मारुत (वात) और पित्त, यह कुपित युगल, जो लक्षण उत्पन्न करता है, उन्हें संक्षेप में सुनो।",
+  "new": "कफ के हीन होने पर मारुत और पित्त, यह कुपित युगल, जो लक्षण उत्पन्न करता है, उन्हें संक्षेप में सुनो।",
+  "why": "reviewer (error): Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: vāyu/māruta in Hindi = वायु/मारुत; keep the printed synonym."
+ },
+ {
+  "n": "59",
+  "field": "hindi",
+  "old": "वात और पित्त के क्षय में कफ (श्लेष्मा) स्रोतों को अत्यधिक ढककर चेष्टा का नाश, मूर्च्छा और वाणी का रुकना उत्पन्न करता है।",
+  "new": "वात और पित्त के क्षय में श्लेष्मा स्रोतों को अत्यधिक ढककर चेष्टा का नाश, मूर्च्छा और वाणी का रुकना उत्पन्न करता है।",
+  "why": "reviewer (error): Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: śleṣman in Hindi = श्लेष्मा."
+ },
+ {
+  "n": "61",
+  "field": "hindi",
+  "old": "पित्त और कफ के क्षय में वायु (वात) मर्मों को अत्यधिक पीड़ित करता हुआ मनुष्य की संज्ञा का नाश करता है, अथवा उसे कँपाता है।",
+  "new": "पित्त और कफ के क्षय में वायु मर्मों को अत्यधिक पीड़ित करता हुआ मनुष्य की संज्ञा का नाश करता है, अथवा उसे कँपाता है।",
+  "why": "reviewer (error): Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: vāyu/māruta in Hindi = वायु/मारुत; keep the printed synonym."
+ },
+ {
+  "n": "61",
+  "field": "word.gram",
+  "word": "ati-nipīḍayan",
+  "old": "m. nom. sg. pres. part. caus. ni-√pīḍ",
+  "new": "m. nom. sg. pres. part. ati-ni-√pīḍ (cl. 10)",
+  "why": "reviewer (minor): ati is a preverb, not a compound member; and pīḍayati is a class-10 verb, not a causative."
+ },
+ {
+  "n": "61",
+  "field": "word.w",
+  "word": "ati-nipīḍayan",
+  "old": "ati-nipīḍayan",
+  "new": "atinipīḍayan",
+  "why": "reviewer (minor): Preverb joined with a hyphen as if a compound member."
+ },
+ {
+  "n": "63",
+  "field": "hindi",
+  "old": "वात आदि के, रस आदि के, मलों के तथा ओज के क्षय (होते हैं); उनमें अनिल (वात) आदि के क्षय का लक्षण कहा जा चुका है।",
+  "new": "वात आदि के, रस आदि के, मलों के तथा ओज के क्षय (होते हैं); उनमें अनिल आदि के क्षय का लक्षण कहा जा चुका है।",
+  "why": "reviewer (error): Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: vāyu/māruta in Hindi = वायु/मारुत; keep the printed synonym."
+ },
+ {
+  "n": "64",
+  "field": "hindi",
+  "old": "रस के क्षय में, बहुत थोड़ी चेष्टा करने वाले का भी हृदय क्षुब्ध होता है, ऊँचा शब्द नहीं सहता, धड़कता है, पीड़ित होता है और शिथिल हो जाता है।",
+  "new": "रस के क्षय में, बहुत थोड़ी चेष्टा करने वाले का भी हृदय क्षुब्ध होता है, ऊँचा शब्द नहीं सहता, धड़कता है, पीड़ित होता है और क्लान्त हो जाता है।",
+  "why": "reviewer (minor): tāmyati (√tam) = becomes faint/exhausted (English: 'becomes faint'); शिथिल means 'loose, slack'."
+ },
+ {
+  "n": "65",
+  "field": "english",
+  "old": "In the decrease of blood the skin is rough, cracked, faded and dry; in the decrease of flesh there is especially wasting of the buttocks, neck and abdomen.",
+  "new": "In the decrease of blood the skin is rough, cracked, faded and dry; in the decrease of flesh there is especially dryness of the buttocks, neck and abdomen.",
+  "why": "reviewer (minor): śuṣkatā = dryness; 'wasting' is an interpretation (the Hindi has सूखना)."
+ },
+ {
+  "n": "65",
+  "field": "notes",
+  "old": "śuṣkatā is literally \"dryness\", rendered \"wasting\".",
+  "new": "",
+  "why": "reviewer (minor): Note no longer needed once the English is literal."
+ },
+ {
+  "n": "66",
+  "field": "word.gloss",
+  "word": "eva",
+  "old": "also",
+  "new": "indeed (emphatic)",
+  "why": "reviewer (minor): GLOSSARY: eva = emphatic particle (\"just, indeed\"); 'also' belongs to the idiom eva ca, not to eva alone."
+ },
+ {
+  "n": "67",
+  "field": "word.gloss",
+  "word": "eva",
+  "old": "also",
+  "new": "indeed (emphatic)",
+  "why": "reviewer (minor): GLOSSARY: eva = emphatic particle (\"just, indeed\"); 'also' belongs to the idiom eva ca, not to eva alone."
+ },
+ {
+  "n": "68",
+  "field": "word.gram",
+  "word": "vāta-rogīṇi",
+  "old": "n. nom. pl. tat-puruṣa (-in stem)",
+  "new": "n. nom. pl. -in possessive of vāta-roga (tat-puruṣa)",
+  "why": "reviewer (minor): vātarogin is an -in possessive derivative of the tat-puruṣa vātaroga, not itself a tat-puruṣa."
+ },
+ {
+  "n": "70",
+  "field": "hindi",
+  "old": "मल (शकृत्) के क्षीण होने पर मारुत (वात) मानो आँतों को दबाता हुआ और रूखे व्यक्ति की कुक्षि को ऊपर उठाता हुआ तिरछा और ऊपर की ओर जाता है।",
+  "new": "मल (शकृत्) के क्षीण होने पर मारुत मानो आँतों को दबाता हुआ और रूखे व्यक्ति की कुक्षि को ऊपर उठाता हुआ तिरछा और ऊपर की ओर जाता है।",
+  "why": "reviewer (error): Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: vāyu/māruta in Hindi = वायु/मारुत; keep the printed synonym."
+ },
+ {
+  "n": "70",
+  "field": "hindi",
+  "old": "मल (शकृत्) के क्षीण होने पर मारुत मानो आँतों को दबाता हुआ और रूखे व्यक्ति की कुक्षि को ऊपर उठाता हुआ तिरछा और ऊपर की ओर जाता है।",
+  "new": "शकृत् के क्षीण होने पर मारुत मानो आँतों को दबाता हुआ और रूखे व्यक्ति की कुक्षि को ऊपर उठाता हुआ तिरछा और ऊपर की ओर जाता है।",
+  "why": "reviewer (error): Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: vāyu/māruta in Hindi = वायु/मारुत; keep the printed synonym."
+ },
+ {
+  "n": "70",
+  "field": "word.gram",
+  "word": "pīḍayan",
+  "old": "m. nom. sg. pres. part. caus. √pīḍ",
+  "new": "m. nom. sg. pres. part. √pīḍ (cl. 10)",
+  "why": "reviewer (minor): pīḍayati is a class-10 verb, not a causative."
+ },
+ {
+  "n": "71",
+  "field": "word.gloss",
+  "word": "eva",
+  "old": "also",
+  "new": "indeed (emphatic)",
+  "why": "reviewer (minor): GLOSSARY: eva = emphatic particle (\"just, indeed\"); 'also' belongs to the idiom eva ca, not to eva alone."
+ },
+ {
+  "n": "71",
+  "field": "word.gloss",
+  "word": "mūtra-kṛcchram",
+  "old": "mūtrakṛcchra (painful urination)",
+  "new": "mūtrakṛcchra (difficult urination)",
+  "why": "reviewer (minor): kṛcchra = difficult; 'painful' is interpretation. GLOSSARY: disease names stay Sanskrit."
+ },
+ {
+  "n": "73",
+  "field": "word.gloss",
+  "word": "eva",
+  "old": "also",
+  "new": "indeed (emphatic)",
+  "why": "reviewer (minor): GLOSSARY: eva = emphatic particle (\"just, indeed\"); 'also' belongs to the idiom eva ca, not to eva alone."
+ },
+ {
+  "n": "75",
+  "field": "notes",
+  "old": "madhurasam is divided madhu-rasam (\"having the taste of honey\"); it could also be read as madhura-sam (a form of madhura, \"sweet\") only with an unusual ending, so the first division is preferred. hi is rendered \"indeed\".",
+  "new": "madhurasam is divided madhu-rasam (\"having the taste of honey\"). hi is rendered \"indeed\".",
+  "why": "reviewer (minor): Invented alternative: 'madhura-sam' is not a possible Sanskrit division and is supported by nothing in the input."
+ },
+ {
+  "n": "75",
+  "field": "word.gram",
+  "word": "lāja-gandhi",
+  "old": "n. nom. sg.",
+  "new": "n. nom. sg. bahuvrīhi (-in)",
+  "why": "reviewer (minor): Compound type missing; -gandhi (-in) gives a possessive."
+ },
+ {
+  "n": "79",
+  "field": "hindi",
+  "old": "जिन्होंने व्यायाम और चिन्तन छोड़ दिया है और जो संशोधन नहीं करते, उनमें कफ (श्लेष्मा), पित्त, मेद और मांस अत्यधिक बढ़ जाते हैं।",
+  "new": "जिन्होंने व्यायाम और चिन्तन छोड़ दिया है और जो संशोधन नहीं करते, उनमें श्लेष्मा, पित्त, मेद और मांस अत्यधिक बढ़ जाते हैं।",
+  "why": "reviewer (error): Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: śleṣman in Hindi = श्लेष्मा."
+ },
+ {
+  "n": "80",
+  "field": "hindi",
+  "old": "जब उनसे गति रुका हुआ वायु (वात) ओज को लेकर बस्ति में जाता है, तब कष्टसाध्य मधुमेह प्रवृत्त होता है।",
+  "new": "जब उनसे जिसकी गति रुक गई है, ऐसा वायु ओज को लेकर बस्ति में जाता है, तब कठिन मधुमेह प्रवृत्त होता है।",
+  "why": "reviewer (error): Ungrammatical phrase (गति f. with रुका हुआ); bracketed gloss (वात); कष्टसाध्य adds 'curable' (GLOSSARY keeps kṛcchrasādhya separate) while the verse and the English say only 'difficult'."
+ },
+ {
+  "n": "81",
+  "field": "hindi",
+  "old": "वह बार-बार मारुत (वात), पित्त और कफ का स्वरूप दिखाता है, और क्षय को प्राप्त होकर फिर बढ़ जाता है।",
+  "new": "वह बार-बार मारुत, पित्त और कफ का स्वरूप दिखाता है, और क्षय को प्राप्त होकर फिर बढ़ जाता है।",
+  "why": "reviewer (error): Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: vāyu/māruta in Hindi = वायु/मारुत; keep the printed synonym."
+ }
+]

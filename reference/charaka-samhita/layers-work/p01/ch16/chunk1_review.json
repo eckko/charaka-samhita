@@ -1,0 +1,511 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kṣuttṛṣṇā",
+     "severity": "error",
+     "problem": "A singular dvandva is labelled plain 'dvandva'; the glossary rule says singular dvandvas are labelled samāhāra. The note's claim of a feminine dvandva 'taking the gender of its last member' in the singular is irregular. The printed kṣuttṛṣṇā also splits naturally into two words, kṣut (nom. sg. of kṣudh, f.) + tṛṣṇā (f. nom. sg.), which fits a list of nominatives and needs no compound.",
+     "fix": "Split into two words: kṣut 'hunger' [f. nom. sg. of kṣudh] and tṛṣṇā 'thirst' [f. nom. sg.]; delete the note sentence on the feminine dvandva. If kept as one word: gram 'f. nom. sg., samāhāra dvandva (irregular feminine)'."
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जाँघों और ऊरुओं में शिथिलता",
+     "severity": "error",
+     "problem": "Hindi जाँघ means thigh, so this says 'thighs and thighs'; jaṅghā is the shank/calf.",
+     "fix": "पिंडलियों और जाँघों में शिथिलता",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जाँघों और ऊरुओं में शिथिलता",
+      "new": "पिंडलियों और जाँघों में शिथिलता"
+     }
+    },
+    {
+     "field": "english",
+     "where": "staimitya (stiffness)",
+     "severity": "minor",
+     "problem": "staimitya is kept Sanskrit by the glossary; the bracketed 'stiffness' is a guess (stimita = wet, motionless) put into the translation.",
+     "fix": "staimitya",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "english",
+      "old": "staimitya (stiffness)",
+      "new": "staimitya"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "viṭ is the stem viś 'faeces'",
+     "severity": "minor",
+     "problem": "The stem for 'faeces' is viṣ (f.), whose compound form is viṭ; viś means 'settler/people'.",
+     "fix": "viṭ is the compound form of viṣ (f.) 'faeces'.",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "notes",
+      "old": "viṭ is the stem viś 'faeces' in compound.",
+      "new": "viṭ is the compound form of viṣ (f.) 'faeces'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "sthaulyam",
+     "severity": "minor",
+     "problem": "'obesity' is a modern clinical term (POLICY: no modern disease identifications); sthaulya is literally fatness/corpulence.",
+     "fix": "corpulence",
+     "patch": {
+      "n": "13",
+      "op": "word",
+      "match_w": "sthaulyam",
+      "field": "gloss",
+      "value": "corpulence"
+     }
+    },
+    {
+     "field": "english",
+     "where": "obesity",
+     "severity": "minor",
+     "problem": "Same as gloss.",
+     "fix": "corpulence",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "english",
+      "old": "obesity",
+      "new": "corpulence"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "manobuddhiḥ",
+     "severity": "error",
+     "problem": "Singular 'dvandva' in the feminine contradicts the glossary rule (singular dvandvas = samāhāra, neuter). The printed manobuddhir is also simply manaḥ + buddhiḥ in sandhi (aḥ + b > o b), two nominatives in the list of subjects of prasīdati; no compound is needed.",
+     "fix": "Split into manaḥ 'mind' [n. nom. sg.] and buddhiḥ 'intellect' [f. nom. sg.]; replace the first sentence of the note with: 'mano buddhiḥ may be read as two words (manaḥ, buddhiḥ) in sandhi.'"
+    },
+    {
+     "field": "gloss",
+     "where": "jāyate",
+     "severity": "minor",
+     "problem": "3 sg. verb glossed as plural.",
+     "fix": "arises",
+     "patch": {
+      "n": "18",
+      "op": "word",
+      "match_w": "jāyate",
+      "field": "gloss",
+      "value": "arises"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "confidence",
+     "where": "unit",
+     "severity": "minor",
+     "problem": "The note says the construction (separate remedy or substance of the anuvāsana) is uncertain, yet confidence is high.",
+     "fix": "medium",
+     "patch": {
+      "n": "24",
+      "op": "set",
+      "field": "confidence",
+      "value": "medium"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "in the Siddhis",
+     "severity": "error",
+     "problem": "Capitalised 'the Siddhis' and the note's 'i.e. the Siddhi section' identify a later section of the book from memory; nothing in the input shows it. Glossary: siddhi = success.",
+     "fix": "the means of their cure is in the siddhis (successes).",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "english",
+      "old": "is in the Siddhis.",
+      "new": "is in the siddhis (successes)."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "siddhiṣu",
+     "severity": "error",
+     "problem": "Same: section name from memory.",
+     "fix": "in the successes (siddhi)",
+     "patch": {
+      "n": "26",
+      "op": "word",
+      "match_w": "siddhiṣu",
+      "field": "gloss",
+      "value": "in the successes (siddhi)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "probably refers to the later treatment ... Siddhi section",
+     "severity": "error",
+     "problem": "Rests on knowledge of the book's later sections not shown in the input; remove.",
+     "fix": "a-mārga-vihite literally 'done by a wrong path'; it is loc. sg. and refers to each of the four procedures. siddhiṣu 'in the successes (siddhi)'; the line does not say where these are taught (unit 40 sums this up as 'relating to success and ill effects').",
+     "patch": {
+      "n": "26",
+      "op": "set",
+      "field": "notes",
+      "value": "a-mārga-vihite literally 'done by a wrong path'; it is loc. sg. and refers to each of the four procedures. siddhiṣu 'in the successes (siddhi)'; the line does not say where these are taught (unit 40 sums this up as 'relating to success and ill effects')."
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "somya",
+     "severity": "error",
+     "problem": "The printed somya was silently changed to saumya in `w` with no text_flag (LAYER_NOTES rule 2). The note itself says somya is an accepted short vocative, so the printed form should stay.",
+     "fix": "w 'somya', gram 'm. voc. sg. (short form of saumya)'",
+     "patch": {
+      "n": "31",
+      "op": "word",
+      "match_w": "saumya",
+      "field": "w",
+      "value": "somya"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "somya",
+     "severity": "minor",
+     "problem": "Gram should record the short form.",
+     "fix": "m. voc. sg. (short form of saumya)",
+     "patch": {
+      "n": "31",
+      "op": "word",
+      "match_w": "saumya",
+      "field": "gram",
+      "value": "m. voc. sg. (short form of saumya)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "Hear, gentle one,",
+     "severity": "minor",
+     "problem": "Glossary: saumya = O gentle one.",
+     "fix": "Hear, O gentle one,",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "english",
+      "old": "Hear, gentle one,",
+      "new": "Hear, O gentle one,"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "śīghra-gatvāt",
+     "severity": "minor",
+     "problem": "Labelled tat-puruṣa, but the note (correctly) says it is -tva added to the compound śīghraga; the label contradicts the note.",
+     "fix": "n. abl. sg., abstract in -tva on the upapada compound śīghra-ga",
+     "patch": {
+      "n": "33",
+      "op": "word",
+      "match_w": "śīghra-gatvāt",
+      "field": "gram",
+      "value": "n. abl. sg., abstract in -tva on the upapada compound śīghra-ga"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kriyābhiḥ",
+     "severity": "minor",
+     "problem": "Instrumental glossed without 'by'.",
+     "fix": "by actions",
+     "patch": {
+      "n": "34",
+      "op": "word",
+      "match_w": "kriyābhiḥ",
+      "field": "gloss",
+      "value": "by actions"
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "artham",
+     "severity": "error",
+     "problem": "artha is masculine (unit 41 labels it m.); adverbial ityartham is m. acc. sg.",
+     "fix": "m. acc. sg. (adverbial)",
+     "patch": {
+      "n": "35",
+      "op": "word",
+      "match_w": "artham",
+      "field": "gram",
+      "value": "m. acc. sg. (adverbial)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उत्पन्न करता है",
+     "severity": "minor",
+     "problem": "saṃjanayet is optative ('would produce', as in the English); Hindi gives a plain present.",
+     "fix": "उत्पन्न कर सकता है",
+     "patch": {
+      "n": "37",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उत्पन्न करता है",
+      "new": "उत्पन्न कर सकता है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "ubhaya is commonly understood as this world and the next",
+     "severity": "error",
+     "problem": "'commonly understood' rests on commentary/tradition not shown in the input; remove.",
+     "fix": "nṛlokasya ubhayasya literally 'of the world of men, of both'; which two are meant is not stated in the line.",
+     "patch": {
+      "n": "38",
+      "op": "set",
+      "field": "notes",
+      "value": "nṛlokasya ubhayasya literally 'of the world of men, of both'; which two are meant is not stated in the line."
+     }
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "in the Ślokasthāna,",
+     "severity": "minor",
+     "problem": "Glossary: Ślokasthāna = Śloka section (Ślokasthāna).",
+     "fix": "in the Śloka section (Ślokasthāna),",
+     "patch": {
+      "n": "P1",
+      "op": "replace",
+      "field": "english",
+      "old": "in the Ślokasthāna,",
+      "new": "in the Śloka section (Ślokasthāna),"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P2",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "9 errors, 12 minor across 14 units. Errors: memory-sourced claims (unit 26 'Siddhi section' in English, gloss and note; unit 38 'commonly understood' note), a Hindi mistranslation (unit 8 जाँघ for jaṅghā), a silent normalisation of printed somya to saumya (31), wrong gender (35 artham), and singular feminine 'dvandvas' that contradict the glossary rule and read better as two words (5 kṣut tṛṣṇā, 18 manaḥ buddhiḥ). All 11 text_flags rest on in-chunk evidence or grammar/metre and are kept (15 tṛpyato is grammar-based and correctly not applied to the translation). No regrouping suggested."
+}

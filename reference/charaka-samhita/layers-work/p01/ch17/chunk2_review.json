@@ -1,0 +1,820 @@
+{
+ "units": [
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पच्चीस (भेद)",
+     "problem": "The understood noun is given by unit 42 (chunk 1: 'vyādhayaḥ pañcaviṃśatiḥ', cf. 41 'vikārāḥ'): disorders, not 'kinds/varieties'.",
+     "fix": "पच्चीस (विकार)",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पच्चीस (भेद)",
+      "new": "पच्चीस (विकार)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "kinds of combination",
+     "problem": "Note names the wrong understood noun; verse 42 has vyādhayaḥ pañcaviṃśatiḥ.",
+     "fix": "The noun for \"twenty-five\" is understood from unit 42 (vyādhayaḥ pañcaviṃśatiḥ, \"twenty-five disorders\"); the Hindi bracket supplies it.",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "set",
+      "field": "notes",
+      "value": "The noun for \"twenty-five\" is understood from unit 42 (vyādhayaḥ pañcaviṃśatiḥ, \"twenty-five disorders\"); the Hindi bracket supplies it."
+     }
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कफ (श्लेष्मा)",
+     "problem": "Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: śleṣman in Hindi = श्लेष्मा.",
+     "fix": "श्लेष्मा",
+     "severity": "error",
+     "patch": {
+      "n": "45",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कफ (श्लेष्मा)",
+      "new": "श्लेष्मा"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मारुत (वात)",
+     "problem": "Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: vāyu/māruta in Hindi = वायु/मारुत; keep the printed synonym.",
+     "fix": "मारुत",
+     "severity": "error",
+     "patch": {
+      "n": "45",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मारुत (वात)",
+      "new": "मारुत"
+     }
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "eva",
+     "problem": "GLOSSARY: eva = emphatic particle (\"just, indeed\"); 'also' belongs to the idiom eva ca, not to eva alone.",
+     "fix": "indeed (emphatic)",
+     "severity": "minor",
+     "patch": {
+      "n": "46",
+      "op": "word",
+      "match_w": "eva",
+      "field": "gloss",
+      "value": "indeed (emphatic)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वायु (वात)",
+     "problem": "Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: vāyu/māruta in Hindi = वायु/मारुत; keep the printed synonym.",
+     "fix": "वायु",
+     "severity": "error",
+     "patch": {
+      "n": "47",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वायु (वात)",
+      "new": "वायु"
+     }
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अनिल (वात)",
+     "problem": "Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: vāyu/māruta in Hindi = वायु/मारुत; keep the printed synonym.",
+     "fix": "अनिल",
+     "severity": "error",
+     "patch": {
+      "n": "48",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अनिल (वात)",
+      "new": "अनिल"
+     }
+    }
+   ]
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कफ (श्लेष्मा)",
+     "problem": "Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: śleṣman in Hindi = श्लेष्मा.",
+     "fix": "श्लेष्मा",
+     "severity": "error",
+     "patch": {
+      "n": "49",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कफ (श्लेष्मा)",
+      "new": "श्लेष्मा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कफ (श्लेष्मा)",
+     "problem": "Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: śleṣman in Hindi = श्लेष्मा.",
+     "fix": "श्लेष्मा",
+     "severity": "error",
+     "patch": {
+      "n": "50",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कफ (श्लेष्मा)",
+      "new": "श्लेष्मा"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "समीरण (वात)",
+     "problem": "Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: vāyu/māruta in Hindi = वायु/मारुत; keep the printed synonym.",
+     "fix": "समीरण",
+     "severity": "error",
+     "patch": {
+      "n": "50",
+      "op": "replace",
+      "field": "hindi",
+      "old": "समीरण (वात)",
+      "new": "समीरण"
+     }
+    }
+   ]
+  },
+  {
+   "n": "51",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "समीरण (वात)",
+     "problem": "Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: vāyu/māruta in Hindi = वायु/मारुत; keep the printed synonym.",
+     "fix": "समीरण",
+     "severity": "error",
+     "patch": {
+      "n": "51",
+      "op": "replace",
+      "field": "hindi",
+      "old": "समीरण (वात)",
+      "new": "समीरण"
+     }
+    },
+    {
+     "field": "split",
+     "where": "sama-tva-gam",
+     "problem": "-tva is a suffix, not a compound member; the compound is samatva-gam (upapada tat-puruṣa).",
+     "fix": "samatva-gam",
+     "severity": "minor",
+     "patch": {
+      "n": "51",
+      "op": "word",
+      "match_w": "sama-tva-gam",
+      "field": "w",
+      "value": "samatva-gam"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "śirograha is rendered literally as \"seizure, stiffness of the head\"",
+     "problem": "Note does not match the English, which has only \"stiffness of the head\".",
+     "fix": "śirograha (literally \"seizure of the head\") is rendered \"stiffness of the head\".",
+     "severity": "minor",
+     "patch": {
+      "n": "51",
+      "op": "replace",
+      "field": "notes",
+      "old": "śirograha is rendered literally as \"seizure, stiffness of the head\".",
+      "new": "śirograha (literally \"seizure of the head\") is rendered \"stiffness of the head\"."
+     }
+    }
+   ]
+  },
+  {
+   "n": "52",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "53",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कफ (श्लेष्मा)",
+     "problem": "Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: śleṣman in Hindi = श्लेष्मा.",
+     "fix": "श्लेष्मा",
+     "severity": "error",
+     "patch": {
+      "n": "53",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कफ (श्लेष्मा)",
+      "new": "श्लेष्मा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "54",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अनल (अग्नि)",
+     "problem": "Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: vāyu/māruta in Hindi = वायु/मारुत; keep the printed synonym.",
+     "fix": "अनल",
+     "severity": "error",
+     "patch": {
+      "n": "54",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अनल (अग्नि)",
+      "new": "अनल"
+     }
+    }
+   ]
+  },
+  {
+   "n": "55",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कफ (श्लेष्मा)",
+     "problem": "Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: śleṣman in Hindi = श्लेष्मा.",
+     "fix": "श्लेष्मा",
+     "severity": "error",
+     "patch": {
+      "n": "55",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कफ (श्लेष्मा)",
+      "new": "श्लेष्मा"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मारुत (वात)",
+     "problem": "Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: vāyu/māruta in Hindi = वायु/मारुत; keep the printed synonym.",
+     "fix": "मारुत",
+     "severity": "error",
+     "patch": {
+      "n": "55",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मारुत (वात)",
+      "new": "मारुत"
+     }
+    }
+   ]
+  },
+  {
+   "n": "56",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "eva",
+     "problem": "GLOSSARY: eva = emphatic particle (\"just, indeed\"); 'also' belongs to the idiom eva ca, not to eva alone.",
+     "fix": "indeed (emphatic)",
+     "severity": "minor",
+     "patch": {
+      "n": "56",
+      "op": "word",
+      "match_w": "eva",
+      "field": "gloss",
+      "value": "indeed (emphatic)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "57",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मारुत (वात)",
+     "problem": "Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: vāyu/māruta in Hindi = वायु/मारुत; keep the printed synonym.",
+     "fix": "मारुत",
+     "severity": "error",
+     "patch": {
+      "n": "57",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मारुत (वात)",
+      "new": "मारुत"
+     }
+    }
+   ]
+  },
+  {
+   "n": "58",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "59",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कफ (श्लेष्मा)",
+     "problem": "Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: śleṣman in Hindi = श्लेष्मा.",
+     "fix": "श्लेष्मा",
+     "severity": "error",
+     "patch": {
+      "n": "59",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कफ (श्लेष्मा)",
+      "new": "श्लेष्मा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "60",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "61",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वायु (वात)",
+     "problem": "Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: vāyu/māruta in Hindi = वायु/मारुत; keep the printed synonym.",
+     "fix": "वायु",
+     "severity": "error",
+     "patch": {
+      "n": "61",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वायु (वात)",
+      "new": "वायु"
+     }
+    },
+    {
+     "field": "split",
+     "where": "ati-nipīḍayan",
+     "problem": "ati is a preverb, not a compound member; and pīḍayati is a class-10 verb, not a causative.",
+     "fix": "w: atinipīḍayan; gram: m. nom. sg. pres. part. ati-ni-√pīḍ (cl. 10)",
+     "severity": "minor",
+     "patch": {
+      "n": "61",
+      "op": "word",
+      "match_w": "ati-nipīḍayan",
+      "field": "gram",
+      "value": "m. nom. sg. pres. part. ati-ni-√pīḍ (cl. 10)"
+     }
+    },
+    {
+     "field": "split",
+     "where": "ati-nipīḍayan",
+     "problem": "Preverb joined with a hyphen as if a compound member.",
+     "fix": "atinipīḍayan",
+     "severity": "minor",
+     "patch": {
+      "n": "61",
+      "op": "word",
+      "match_w": "ati-nipīḍayan",
+      "field": "w",
+      "value": "atinipīḍayan"
+     }
+    }
+   ]
+  },
+  {
+   "n": "62",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "63",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अनिल (वात)",
+     "problem": "Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: vāyu/māruta in Hindi = वायु/मारुत; keep the printed synonym.",
+     "fix": "अनिल",
+     "severity": "error",
+     "patch": {
+      "n": "63",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अनिल (वात)",
+      "new": "अनिल"
+     }
+    }
+   ]
+  },
+  {
+   "n": "64",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शिथिल हो जाता है",
+     "problem": "tāmyati (√tam) = becomes faint/exhausted (English: 'becomes faint'); शिथिल means 'loose, slack'.",
+     "fix": "क्लान्त हो जाता है",
+     "severity": "minor",
+     "patch": {
+      "n": "64",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शिथिल हो जाता है",
+      "new": "क्लान्त हो जाता है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "65",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "especially wasting of the buttocks",
+     "problem": "śuṣkatā = dryness; 'wasting' is an interpretation (the Hindi has सूखना).",
+     "fix": "especially dryness of the buttocks",
+     "severity": "minor",
+     "patch": {
+      "n": "65",
+      "op": "replace",
+      "field": "english",
+      "old": "especially wasting of the buttocks",
+      "new": "especially dryness of the buttocks"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "śuṣkatā is literally \"dryness\", rendered \"wasting\".",
+     "problem": "Note no longer needed once the English is literal.",
+     "fix": "(delete this sentence)",
+     "severity": "minor",
+     "patch": {
+      "n": "65",
+      "op": "set",
+      "field": "notes",
+      "value": ""
+     }
+    }
+   ]
+  },
+  {
+   "n": "66",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "eva",
+     "problem": "GLOSSARY: eva = emphatic particle (\"just, indeed\"); 'also' belongs to the idiom eva ca, not to eva alone.",
+     "fix": "indeed (emphatic)",
+     "severity": "minor",
+     "patch": {
+      "n": "66",
+      "op": "word",
+      "match_w": "eva",
+      "field": "gloss",
+      "value": "indeed (emphatic)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "67",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "eva",
+     "problem": "GLOSSARY: eva = emphatic particle (\"just, indeed\"); 'also' belongs to the idiom eva ca, not to eva alone.",
+     "fix": "indeed (emphatic)",
+     "severity": "minor",
+     "patch": {
+      "n": "67",
+      "op": "word",
+      "match_w": "eva",
+      "field": "gloss",
+      "value": "indeed (emphatic)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "68",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "vāta-rogīṇi",
+     "problem": "vātarogin is an -in possessive derivative of the tat-puruṣa vātaroga, not itself a tat-puruṣa.",
+     "fix": "n. nom. pl. -in possessive of vāta-roga (tat-puruṣa)",
+     "severity": "minor",
+     "patch": {
+      "n": "68",
+      "op": "word",
+      "match_w": "vāta-rogīṇi",
+      "field": "gram",
+      "value": "n. nom. pl. -in possessive of vāta-roga (tat-puruṣa)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "69",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "70",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मारुत (वात)",
+     "problem": "Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: vāyu/māruta in Hindi = वायु/मारुत; keep the printed synonym.",
+     "fix": "मारुत",
+     "severity": "error",
+     "patch": {
+      "n": "70",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मारुत (वात)",
+      "new": "मारुत"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मल (शकृत्)",
+     "problem": "Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: vāyu/māruta in Hindi = वायु/मारुत; keep the printed synonym.",
+     "fix": "शकृत्",
+     "severity": "error",
+     "patch": {
+      "n": "70",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मल (शकृत्)",
+      "new": "शकृत्"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "pīḍayan",
+     "problem": "pīḍayati is a class-10 verb, not a causative.",
+     "fix": "m. nom. sg. pres. part. √pīḍ (cl. 10)",
+     "severity": "minor",
+     "patch": {
+      "n": "70",
+      "op": "word",
+      "match_w": "pīḍayan",
+      "field": "gram",
+      "value": "m. nom. sg. pres. part. √pīḍ (cl. 10)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "71",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "eva",
+     "problem": "GLOSSARY: eva = emphatic particle (\"just, indeed\"); 'also' belongs to the idiom eva ca, not to eva alone.",
+     "fix": "indeed (emphatic)",
+     "severity": "minor",
+     "patch": {
+      "n": "71",
+      "op": "word",
+      "match_w": "eva",
+      "field": "gloss",
+      "value": "indeed (emphatic)"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "pīāsā -> pipāsā (why)",
+     "problem": "The metrical evidence is false: 'pīāsā bādhate cāsya' already has 8 syllables (pī-ā-sā-bā-dha-te-cā-sya), the same as with pipāsā. The flag stands on sense/form only.",
+     "fix": "why: \"pīāsā\" is not a Sanskrit form; pipāsā \"thirst\" fits the sense and the subject of bādhate; the syllable count is 8 either way (a vowel ī for pi + ā). Possible typo.",
+     "severity": "error"
+    },
+    {
+     "field": "gloss",
+     "where": "mūtra-kṛcchram",
+     "problem": "kṛcchra = difficult; 'painful' is interpretation. GLOSSARY: disease names stay Sanskrit.",
+     "fix": "mūtrakṛcchra (difficult urination)",
+     "severity": "minor",
+     "patch": {
+      "n": "71",
+      "op": "word",
+      "match_w": "mūtra-kṛcchram",
+      "field": "gloss",
+      "value": "mūtrakṛcchra (difficult urination)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "72",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "73",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "eva",
+     "problem": "GLOSSARY: eva = emphatic particle (\"just, indeed\"); 'also' belongs to the idiom eva ca, not to eva alone.",
+     "fix": "indeed (emphatic)",
+     "severity": "minor",
+     "patch": {
+      "n": "73",
+      "op": "word",
+      "match_w": "eva",
+      "field": "gloss",
+      "value": "indeed (emphatic)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "74",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "75",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "madhura-sam",
+     "problem": "Invented alternative: 'madhura-sam' is not a possible Sanskrit division and is supported by nothing in the input.",
+     "fix": "madhurasam is divided madhu-rasam (\"having the taste of honey\"). hi is rendered \"indeed\".",
+     "severity": "minor",
+     "patch": {
+      "n": "75",
+      "op": "set",
+      "field": "notes",
+      "value": "madhurasam is divided madhu-rasam (\"having the taste of honey\"). hi is rendered \"indeed\"."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "lāja-gandhi",
+     "problem": "Compound type missing; -gandhi (-in) gives a possessive.",
+     "fix": "n. nom. sg. bahuvrīhi (-in)",
+     "severity": "minor",
+     "patch": {
+      "n": "75",
+      "op": "word",
+      "match_w": "lāja-gandhi",
+      "field": "gram",
+      "value": "n. nom. sg. bahuvrīhi (-in)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "75.1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "76",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "77",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "78",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "79",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कफ (श्लेष्मा)",
+     "problem": "Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: śleṣman in Hindi = श्लेष्मा.",
+     "fix": "श्लेष्मा",
+     "severity": "error",
+     "patch": {
+      "n": "79",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कफ (श्लेष्मा)",
+      "new": "श्लेष्मा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "80",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उनसे गति रुका हुआ वायु (वात) ... कष्टसाध्य मधुमेह",
+     "problem": "Ungrammatical phrase (गति f. with रुका हुआ); bracketed gloss (वात); कष्टसाध्य adds 'curable' (GLOSSARY keeps kṛcchrasādhya separate) while the verse and the English say only 'difficult'.",
+     "fix": "जब उनसे जिसकी गति रुक गई है, ऐसा वायु ओज को लेकर बस्ति में जाता है, तब कठिन मधुमेह प्रवृत्त होता है।",
+     "severity": "error",
+     "patch": {
+      "n": "80",
+      "op": "set",
+      "field": "hindi",
+      "value": "जब उनसे जिसकी गति रुक गई है, ऐसा वायु ओज को लेकर बस्ति में जाता है, तब कठिन मधुमेह प्रवृत्त होता है।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "81",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मारुत (वात)",
+     "problem": "Bracketed gloss in Hindi. Hindi brackets only for an understood word, never for a gloss of a Sanskrit term (GLOSSARY; REVIEW_BRIEF item 3). GLOSSARY: vāyu/māruta in Hindi = वायु/मारुत; keep the printed synonym.",
+     "fix": "मारुत",
+     "severity": "error",
+     "patch": {
+      "n": "81",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मारुत (वात)",
+      "new": "मारुत"
+     }
+    }
+   ]
+  },
+  {
+   "n": "82",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "83",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "22 errors, 20 minor across 28 of 42 units. Main error kind: bracketed Sanskrit-synonym glosses in Hindi (कफ (श्लेष्मा), मारुत/वायु/अनिल/समीरण (वात), अनल (अग्नि), मल (शकृत्)) (20 instances in 16 units, plus 80); one false metrical claim in a text_flag (71 pīāsā); one Hindi mistranslation/ungrammatical line (80). All 8 text_flags (48 dāhā, 61 śelṣma, 65 puruṣā, 70 mārutah, 70 kukṣīṃ, 71 kṛchra, 71 pīāsā, 75.1 sdaṃbhiryate) rest on evidence in the chunk or grammar; keep them (fix the 71 pīāsā 'why'). No note relies on another edition, commentator or memory, except the invented 'madhura-sam' alternative in 75 (remove). No modern disease/animal identifications found. No regrouping suggested."
+}

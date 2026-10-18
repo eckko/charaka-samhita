@@ -1,0 +1,135 @@
+[
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "जाँघों और ऊरुओं में शिथिलता, तन्द्रा, स्तैमित्य, पीनस का आना और मारुत का रुकना — ये अविरिक्तों के लक्षण हैं।",
+  "new": "पिंडलियों और जाँघों में शिथिलता, तन्द्रा, स्तैमित्य, पीनस का आना और मारुत का रुकना — ये अविरिक्तों के लक्षण हैं।",
+  "why": "reviewer (error): Hindi जाँघ means thigh, so this says 'thighs and thighs'; jaṅghā is the shank/calf."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "weariness of the shanks and thighs, drowsiness, staimitya (stiffness), onset of pīnasa, and suppression of Vāta (māruta): these are the signs of the unpurged.",
+  "new": "weariness of the shanks and thighs, drowsiness, staimitya, onset of pīnasa, and suppression of Vāta (māruta): these are the signs of the unpurged.",
+  "why": "reviewer (minor): staimitya is kept Sanskrit by the glossary; the bracketed 'stiffness' is a guess (stimita = wet, motionless) put into the translation."
+ },
+ {
+  "n": "9",
+  "field": "notes",
+  "old": "The sentence continues into unit 10, which ends \"so 'tiyogaḥ\". medomāṃsodakopamam may also be read 'resembling fat, flesh or water'. viṭ is the stem viś 'faeces' in compound.",
+  "new": "The sentence continues into unit 10, which ends \"so 'tiyogaḥ\". medomāṃsodakopamam may also be read 'resembling fat, flesh or water'. viṭ is the compound form of viṣ (f.) 'faeces'.",
+  "why": "reviewer (minor): The stem for 'faeces' is viṣ (f.), whose compound form is viṭ; viś means 'settler/people'."
+ },
+ {
+  "n": "13",
+  "field": "word.gloss",
+  "word": "sthaulyam",
+  "old": "obesity",
+  "new": "corpulence",
+  "why": "reviewer (minor): 'obesity' is a modern clinical term (POLICY: no modern disease identifications); sthaulya is literally fatness/corpulence."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "Indigestion, loss of taste, obesity, pallor, heaviness, exhaustion, the arising of pimples (piḍakā), koṭha and itching, and discontent (arati),",
+  "new": "Indigestion, loss of taste, corpulence, pallor, heaviness, exhaustion, the arising of pimples (piḍakā), koṭha and itching, and discontent (arati),",
+  "why": "reviewer (minor): Same as gloss."
+ },
+ {
+  "n": "18",
+  "field": "word.gloss",
+  "word": "jāyate",
+  "old": "arise",
+  "new": "arises",
+  "why": "reviewer (minor): 3 sg. verb glossed as plural."
+ },
+ {
+  "n": "24",
+  "field": "confidence",
+  "old": "high",
+  "new": "medium",
+  "why": "reviewer (minor): The note says the construction (separate remedy or substance of the anuvāsana) is uncertain, yet confidence is high."
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "The diseases that arise when oleation, sweating, purification and the graduated diet (saṃsarjana) are done improperly: the means of their cure is in the Siddhis.",
+  "new": "The diseases that arise when oleation, sweating, purification and the graduated diet (saṃsarjana) are done improperly: the means of their cure is in the siddhis (successes).",
+  "why": "reviewer (error): Capitalised 'the Siddhis' and the note's 'i.e. the Siddhi section' identify a later section of the book from memory; nothing in the input shows it. Glossary: siddhi = success."
+ },
+ {
+  "n": "26",
+  "field": "word.gloss",
+  "word": "siddhiṣu",
+  "old": "in the Siddhis",
+  "new": "in the successes (siddhi)",
+  "why": "reviewer (error): Same: section name from memory."
+ },
+ {
+  "n": "26",
+  "field": "notes",
+  "old": "a-mārga-vihite literally 'done by a wrong path'; it is loc. sg. and refers to each of the four procedures. siddhiṣu 'in the successes' probably refers to the later treatment of success (siddhi) in therapy, i.e. the Siddhi section; this is an interpretation.",
+  "new": "a-mārga-vihite literally 'done by a wrong path'; it is loc. sg. and refers to each of the four procedures. siddhiṣu 'in the successes (siddhi)'; the line does not say where these are taught (unit 40 sums this up as 'relating to success and ill effects').",
+  "why": "reviewer (error): Rests on knowledge of the book's later sections not shown in the input; remove."
+ },
+ {
+  "n": "31",
+  "field": "word.w",
+  "word": "saumya",
+  "old": "saumya",
+  "new": "somya",
+  "why": "reviewer (error): The printed somya was silently changed to saumya in `w` with no text_flag (LAYER_NOTES rule 2). The note itself says somya is an accepted short vocative, so the printed form should stay."
+ },
+ {
+  "n": "31",
+  "field": "english",
+  "old": "Having heard that word of the disciple, Punarvasu spoke: \"Hear, gentle one, the reasoning (yukti) on this that has been seen by the great sages.",
+  "new": "Having heard that word of the disciple, Punarvasu spoke: \"Hear, O gentle one, the reasoning (yukti) on this that has been seen by the great sages.",
+  "why": "reviewer (minor): Glossary: saumya = O gentle one."
+ },
+ {
+  "n": "33",
+  "field": "word.gram",
+  "word": "śīghra-gatvāt",
+  "old": "n. abl. sg., tat-puruṣa",
+  "new": "n. abl. sg., abstract in -tva on the upapada compound śīghra-ga",
+  "why": "reviewer (minor): Labelled tat-puruṣa, but the note (correctly) says it is -tva added to the compound śīghraga; the label contradicts the note."
+ },
+ {
+  "n": "34",
+  "field": "word.gloss",
+  "word": "kriyābhiḥ",
+  "old": "actions",
+  "new": "by actions",
+  "why": "reviewer (minor): Instrumental glossed without 'by'."
+ },
+ {
+  "n": "35",
+  "field": "word.gram",
+  "word": "artham",
+  "old": "n. acc. sg. (adverbial)",
+  "new": "m. acc. sg. (adverbial)",
+  "why": "reviewer (error): artha is masculine (unit 41 labels it m.); adverbial ityartham is m. acc. sg."
+ },
+ {
+  "n": "37",
+  "field": "hindi",
+  "old": "क्योंकि वह सम कारणों से सम धातुओं को उत्पन्न करता है, इसलिए चिकित्साप्राभृत देह, सुख और आयु का दाता है।",
+  "new": "क्योंकि वह सम कारणों से सम धातुओं को उत्पन्न कर सकता है, इसलिए चिकित्साप्राभृत देह, सुख और आयु का दाता है।",
+  "why": "reviewer (minor): saṃjanayet is optative ('would produce', as in the English); Hindi gives a plain present."
+ },
+ {
+  "n": "38",
+  "field": "notes",
+  "old": "nṛlokasya ubhayasya literally 'of the world of men, of both'; ubhaya is commonly understood as this world and the next, an interpretation not stated in the line.",
+  "new": "nṛlokasya ubhayasya literally 'of the world of men, of both'; which two are meant is not stated in the line.",
+  "why": "reviewer (error): 'commonly understood' rests on commentary/tradition not shown in the input; remove."
+ },
+ {
+  "n": "P1",
+  "field": "english",
+  "old": "In the treatise composed by Agniveśa and redacted by Caraka, in the Ślokasthāna, the sixteenth chapter named Cikitsāprābhṛtīya.",
+  "new": "In the treatise composed by Agniveśa and redacted by Caraka, in the Śloka section (Ślokasthāna), the sixteenth chapter named Cikitsāprābhṛtīya.",
+  "why": "reviewer (minor): Glossary: Ślokasthāna = Śloka section (Ślokasthāna)."
+ }
+]
