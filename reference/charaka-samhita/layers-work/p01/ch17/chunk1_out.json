@@ -1,0 +1,4530 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athātaḥ",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now",
+        "gram": "ind."
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kiyantaḥśirasīyamadhyāyaṃ",
+      "words": [
+       {
+        "w": "kiyantaḥ-śirasīyam",
+        "gloss": "named 'how many in the head' (title)",
+        "gram": "m. acc. sg., derived title word"
+       },
+       {
+        "w": "adhyāyam",
+        "gloss": "chapter",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyāsyāmaḥ",
+      "words": [
+       {
+        "w": "vyākhyāsyāmaḥ",
+        "gloss": "we shall expound",
+        "gram": "1 pl. fut. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब इसलिए हम कियन्तःशिरसीय नामक अध्याय की व्याख्या करेंगे।",
+  "english": "Now, therefore, we shall expound the chapter named 'How many in the head' (Kiyantaḥśirasīya).",
+  "text_flags": [],
+  "notes": "Prose opening formula, typed as a verse unit in the input. The title is formed from the opening words of unit 3 (kiyantaḥ śirasi) with the suffix -īya.",
+  "confidence": "high"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ha",
+      "words": [
+       {
+        "w": "ha",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "smāha",
+      "words": [
+       {
+        "w": "sma",
+        "gloss": "(marks past)",
+        "gram": "ind."
+       },
+       {
+        "w": "āha",
+        "gloss": "said",
+        "gram": "3 sg. pf. √ah"
+       }
+      ]
+     },
+     {
+      "src": "bhagavānātreyaḥ",
+      "words": [
+       {
+        "w": "bhagavān",
+        "gloss": "the venerable",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ātreyaḥ",
+        "gloss": "Ātreya (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ऐसा भगवान् आत्रेय ने कहा था।",
+  "english": "Thus indeed spoke the venerable Ātreya.",
+  "text_flags": [],
+  "notes": "Prose formula, typed as a verse unit in the input.",
+  "confidence": "high"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kiyantaḥ",
+      "words": [
+       {
+        "w": "kiyantaḥ",
+        "gloss": "how many",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śirasi",
+      "words": [
+       {
+        "w": "śirasi",
+        "gloss": "in the head",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "proktā",
+      "words": [
+       {
+        "w": "proktāḥ",
+        "gloss": "declared",
+        "gram": "m. nom. pl. ppp pra-√vac"
+       }
+      ]
+     },
+     {
+      "src": "rogā",
+      "words": [
+       {
+        "w": "rogāḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hṛdi",
+      "words": [
+       {
+        "w": "hṛdi",
+        "gloss": "in the heart",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dehinām",
+      "words": [
+       {
+        "w": "dehinām",
+        "gloss": "of embodied beings",
+        "gram": "m. gen. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kati",
+      "words": [
+       {
+        "w": "kati",
+        "gloss": "how many",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "cāpyanilādīnāṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       },
+       {
+        "w": "anila-ādīnām",
+        "gloss": "of Vāta (anila) and the others",
+        "gram": "m. gen. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "rogā",
+      "words": [
+       {
+        "w": "rogāḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mānavikalpajāḥ",
+      "words": [
+       {
+        "w": "māna-vikalpa-jāḥ",
+        "gloss": "born of variation in measure",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "देहधारियों के सिर में और हृदय में कितने रोग कहे गए हैं? और अनिल आदि के मान के विकल्प से उत्पन्न होने वाले रोग भी कितने हैं?",
+  "english": "How many diseases are declared in the head and in the heart of embodied beings? And how many diseases of Vāta (anila) and the others are born of variation in measure?",
+  "text_flags": [],
+  "notes": "Agniveśa's question begins here and runs to unit 4. māna-vikalpa ('variation in measure') refers to the doṣas being in different degrees; the answer is in units 6 and 41-42.",
+  "confidence": "high"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṣayāḥ",
+      "words": [
+       {
+        "w": "kṣayāḥ",
+        "gloss": "depletions (kṣaya)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kati",
+      "words": [
+       {
+        "w": "kati",
+        "gloss": "how many",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "samākhyātāḥ",
+      "words": [
+       {
+        "w": "samākhyātāḥ",
+        "gloss": "enumerated",
+        "gram": "m. nom. pl. ppp sam-ā-√khyā"
+       }
+      ]
+     },
+     {
+      "src": "piḍakāḥ",
+      "words": [
+       {
+        "w": "piḍakāḥ",
+        "gloss": "boils (piḍakā)",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kati",
+      "words": [
+       {
+        "w": "kati",
+        "gloss": "how many",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "cānaga",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anagha",
+        "gloss": "O sinless one",
+        "gram": "m. voc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "gatiḥ",
+      "words": [
+       {
+        "w": "gatiḥ",
+        "gloss": "course",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "katividhā",
+      "words": [
+       {
+        "w": "kati-vidhā",
+        "gloss": "of how many kinds",
+        "gram": "f. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "coktā",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "uktā",
+        "gloss": "stated",
+        "gram": "f. nom. sg. ppp √vac"
+       }
+      ]
+     },
+     {
+      "src": "doṣāṇāṃ",
+      "words": [
+       {
+        "w": "doṣāṇām",
+        "gloss": "of the doṣas",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "doṣasūdana",
+      "words": [
+       {
+        "w": "doṣa-sūdana",
+        "gloss": "O destroyer of doṣas",
+        "gram": "m. voc. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे निष्पाप! कितने क्षय बताए गए हैं, और कितनी पिडकाएँ? और हे दोषों का नाश करने वाले! दोषों की गति कितने प्रकार की कही गई है?",
+  "english": "How many depletions (kṣaya) are enumerated, and how many boils (piḍakā), O sinless one? And of how many kinds is the course of the doṣas stated to be, O destroyer of doṣas?",
+  "text_flags": [
+   {
+    "src": "cānaga",
+    "suggest": "cānagha",
+    "why": "anaga is not a fitting vocative here; anagha 'O sinless one' is the usual address, with only the aspiration lost; the syllable count is unchanged"
+   }
+  ],
+  "notes": "Both vocatives (anagha, doṣasūdana) are epithets of the teacher addressed; the line does not name him.",
+  "confidence": "high"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "hutāśaveśasya",
+      "words": [
+       {
+        "w": "hutāśaveśasya",
+        "gloss": "of Hutāśaveśa (name)",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vacastacchrutvā",
+      "words": [
+       {
+        "w": "vacaḥ",
+        "gloss": "speech, words",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "śrutvā",
+        "gloss": "having heard",
+        "gram": "abs. √śru"
+       }
+      ]
+     },
+     {
+      "src": "gururabravīt",
+      "words": [
+       {
+        "w": "guruḥ",
+        "gloss": "the teacher",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "abravīt",
+        "gloss": "said",
+        "gram": "3 sg. impf. √brū"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pṛṣṭavānasi",
+      "words": [
+       {
+        "w": "pṛṣṭavān",
+        "gloss": "having asked",
+        "gram": "m. nom. sg. past act. part. √prach"
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "yat",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "what",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saumya",
+      "words": [
+       {
+        "w": "saumya",
+        "gloss": "O gentle one",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tanme",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "me",
+        "gloss": "from me",
+        "gram": "gen./dat. sg. 1 pers."
+       }
+      ]
+     },
+     {
+      "src": "śṛṇu",
+      "words": [
+       {
+        "w": "śṛṇu",
+        "gloss": "hear",
+        "gram": "2 sg. impv. √śru"
+       }
+      ]
+     },
+     {
+      "src": "savistaram",
+      "words": [
+       {
+        "w": "sa-vistaram",
+        "gloss": "in detail",
+        "gram": "adv. (n. acc. sg.), avyayībhāva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हुताशवेश के उस वचन को सुनकर गुरु ने कहा: हे सौम्य! तुमने जो पूछा है, वह मुझसे विस्तार के साथ सुनो।",
+  "english": "Having heard those words of Hutāśaveśa, the teacher said: 'What you have asked, O gentle one, hear that from me in detail.'",
+  "text_flags": [],
+  "notes": "Hutāśaveśa: hutāśa means 'fire' (agni), so the name is a synonym form of Agniveśa, the questioner of units 3-4; the English keeps the printed form.",
+  "confidence": "high"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ḍrṣṭāḥ",
+      "words": [
+       {
+        "w": "dṛṣṭāḥ",
+        "gloss": "seen, recognised",
+        "gram": "m. nom. pl. ppp √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "pañca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śirorogāḥ",
+      "words": [
+       {
+        "w": "śiraḥ-rogāḥ",
+        "gloss": "head diseases",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pañcaiva",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       },
+       {
+        "w": "eva",
+        "gloss": "likewise, just",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hṛdayāmayāḥ",
+      "words": [
+       {
+        "w": "hṛdaya-āmayāḥ",
+        "gloss": "heart diseases",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vyādhīnāṃ",
+      "words": [
+       {
+        "w": "vyādhīnām",
+        "gloss": "of diseases",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "dvyadhikā",
+      "words": [
+       {
+        "w": "dvi-adhikā",
+        "gloss": "exceeded by two",
+        "gram": "f. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "ṣaṣṭirdoṣamānavikalpajā",
+      "words": [
+       {
+        "w": "ṣaṣṭiḥ",
+        "gloss": "sixty",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "doṣa-māna-vikalpa-jā",
+        "gloss": "born of variation in the measure of the doṣas",
+        "gram": "f. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पाँच शिरोरोग देखे गए हैं, पाँच ही हृदय रोग; दोषों के मान के विकल्प से उत्पन्न होने वाले रोगों की संख्या दो अधिक साठ है।",
+  "english": "Five head diseases are recognised, and five heart diseases; of diseases born of variation in the measure of the doṣas there are sixty plus two.",
+  "text_flags": [
+   {
+    "src": "ḍrṣṭāḥ",
+    "suggest": "dṛṣṭāḥ",
+    "why": "typing error: retroflex ḍ and consonant r (Devanagari ड्र्ष्टाः) for d and vowel ṛ (दृष्टाः); ḍrṣṭāḥ is not a word, dṛṣṭāḥ fits sense and metre"
+   }
+  ],
+  "notes": "dvyadhikā ṣaṣṭiḥ = sixty-two.",
+  "confidence": "high"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "daśāṣṭau",
+      "words": [
+       {
+        "w": "daśa",
+        "gloss": "ten",
+        "gram": "nom. pl."
+       },
+       {
+        "w": "aṣṭau",
+        "gloss": "eight",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṣayāḥ",
+      "words": [
+       {
+        "w": "kṣayāḥ",
+        "gloss": "depletions (kṣaya)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sapta",
+      "words": [
+       {
+        "w": "sapta",
+        "gloss": "seven",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "piḍakā",
+      "words": [
+       {
+        "w": "piḍakāḥ",
+        "gloss": "boils (piḍakā)",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mādhumehikāḥ",
+      "words": [
+       {
+        "w": "mādhumehikāḥ",
+        "gloss": "relating to madhumeha",
+        "gram": "f. nom. pl., derived adj."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "doṣāṇāṃ",
+      "words": [
+       {
+        "w": "doṣāṇām",
+        "gloss": "of the doṣas",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "trividhā",
+      "words": [
+       {
+        "w": "tri-vidhā",
+        "gloss": "threefold",
+        "gram": "f. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "coktā",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "uktā",
+        "gloss": "stated",
+        "gram": "f. nom. sg. ppp √vac"
+       }
+      ]
+     },
+     {
+      "src": "gatirvistarataḥ",
+      "words": [
+       {
+        "w": "gatiḥ",
+        "gloss": "course",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "vistarataḥ",
+        "gloss": "in detail",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śṛṇu",
+      "words": [
+       {
+        "w": "śṛṇu",
+        "gloss": "hear",
+        "gram": "2 sg. impv. √śru"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दस और आठ क्षय हैं, मधुमेह से सम्बन्धित सात पिडकाएँ हैं, और दोषों की गति तीन प्रकार की कही गई है; विस्तार से सुनो।",
+  "english": "There are ten and eight depletions (kṣaya), seven boils (piḍakā) relating to madhumeha, and the course of the doṣas is stated to be threefold. Hear (them) in detail.",
+  "text_flags": [],
+  "notes": "daśa aṣṭau ca = eighteen. madhumeha is kept as the Sanskrit disease name.",
+  "confidence": "high"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "saṃdhāraṇāddivāsvapnādrātrau",
+      "words": [
+       {
+        "w": "saṃdhāraṇāt",
+        "gloss": "from suppression (of urges)",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "divā-svapnāt",
+        "gloss": "from day-sleep",
+        "gram": "m. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "rātrau",
+        "gloss": "at night",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jāgaraṇānmadāt",
+      "words": [
+       {
+        "w": "jāgaraṇāt",
+        "gloss": "from keeping awake",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "madāt",
+        "gloss": "from intoxication",
+        "gram": "m. abl. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "uccairbhāṣyādavaśyāyāt",
+      "words": [
+       {
+        "w": "uccaiḥ-bhāṣyāt",
+        "gloss": "from loud speaking",
+        "gram": "n. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "avaśyāyāt",
+        "gloss": "from dew, frost",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāgvātādatimaithunāt",
+      "words": [
+       {
+        "w": "prāk-vātāt",
+        "gloss": "from east wind",
+        "gram": "m. abl. sg., karmadhāraya"
+       },
+       {
+        "w": "ati-maithunāt",
+        "gloss": "from excessive intercourse",
+        "gram": "n. abl. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रोकने से, दिन में सोने से, रात में जागने से, मद से, ऊँचे स्वर में बोलने से, ओस से, पूर्व की वायु से, अति मैथुन से,",
+  "english": "From suppression (of urges), from day-sleep, from keeping awake at night, from intoxication, from loud speaking, from dew, from the east wind, from excessive intercourse,",
+  "text_flags": [],
+  "notes": "The list of causes runs through units 8-10; the verb is in unit 11. saṃdhāraṇa ('holding back') is read as suppression of natural urges; the object is not stated in the line.",
+  "confidence": "high"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gandhādasātmyādāghrātādrajodhūmahimātapāt",
+      "words": [
+       {
+        "w": "gandhāt",
+        "gloss": "from smell",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "asātmyāt",
+        "gloss": "unsuitable",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "āghrātāt",
+        "gloss": "smelled",
+        "gram": "m. abl. sg. ppp ā-√ghrā"
+       },
+       {
+        "w": "rajaḥ-dhūma-hima-ātapāt",
+        "gloss": "from dust, smoke, snow and sun",
+        "gram": "n. abl. sg., samāhāra dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "gurvamlaharitādānādati",
+      "words": [
+       {
+        "w": "guru-amla-harita-ādānāt",
+        "gloss": "from taking heavy, sour and green (food)",
+        "gram": "n. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "ati",
+        "gloss": "excessive",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śītāmbusevanāt",
+      "words": [
+       {
+        "w": "śīta-ambu-sevanāt",
+        "gloss": "from use of cold water",
+        "gram": "n. abl. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "असात्म्य गन्ध के सूँघने से, धूल, धुएँ, हिम और धूप से, भारी, खट्टे और हरित पदार्थों के ग्रहण से, अति शीतल जल के सेवन से,",
+  "english": "from smelling an unsuitable smell, from dust, smoke, snow and sun, from taking heavy, sour and green (food), from use of very cold water,",
+  "text_flags": [],
+  "notes": "ati is printed as a separate word before śītāmbusevanāt; it is read with it ('very cold water' or 'excessive use of cold water'). harita 'green' is read as green herbs or vegetables. gandhād asātmyād āghrātāt: 'from an unsuitable smell (that is) smelled'.",
+  "confidence": "high"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śiro'bhighātādduṣṭāmādrodanādvāṣpanigrahāt",
+      "words": [
+       {
+        "w": "śiraḥ-abhighātāt",
+        "gloss": "from injury to the head",
+        "gram": "m. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "duṣṭa-āmāt",
+        "gloss": "from vitiated āma",
+        "gram": "m. abl. sg., karmadhāraya"
+       },
+       {
+        "w": "rodanāt",
+        "gloss": "from weeping",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "bāṣpa-nigrahāt",
+        "gloss": "from suppression of tears",
+        "gram": "m. abl. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "meghāgamānmanastāpāddeśakālaviparyayāt",
+      "words": [
+       {
+        "w": "megha-āgamāt",
+        "gloss": "from the coming of clouds",
+        "gram": "m. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "manaḥ-tāpāt",
+        "gloss": "from mental distress",
+        "gram": "m. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "deśa-kāla-viparyayāt",
+        "gloss": "from reversal of place and time",
+        "gram": "m. abl. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सिर पर आघात से, दूषित आम से, रोने से, आँसुओं को रोकने से, मेघों के आने से, मन के सन्ताप से, देश और काल की विपरीतता से,",
+  "english": "from injury to the head, from vitiated āma, from weeping, from suppression of tears, from the coming of clouds, from mental distress, from reversal of place and time,",
+  "text_flags": [
+   {
+    "src": "śiro'bhighātādduṣṭāmādrodanādvāṣpanigrahāt",
+    "suggest": "śiro'bhighātādduṣṭāmādrodanādbāṣpanigrahāt",
+    "why": "possible: vāṣpa is a b/v spelling variant of bāṣpa 'tears', which unit 17 prints as bāṣpa; sense unchanged"
+   }
+  ],
+  "notes": "āma (undigested matter) is kept as Sanskrit. deśakālaviparyaya: unwholesome reversal of the normal character of place and season.",
+  "confidence": "high"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vātādayaḥ",
+      "words": [
+       {
+        "w": "vāta-ādayaḥ",
+        "gloss": "Vāta and the others",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "prakupyanti",
+      "words": [
+       {
+        "w": "prakupyanti",
+        "gloss": "are aggravated",
+        "gram": "3 pl. pres. pra-√kup"
+       }
+      ]
+     },
+     {
+      "src": "śirasyasraṃ",
+      "words": [
+       {
+        "w": "śirasi",
+        "gloss": "in the head",
+        "gram": "n. loc. sg."
+       },
+       {
+        "w": "asram",
+        "gloss": "blood",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "duṣyati",
+      "words": [
+       {
+        "w": "duṣyati",
+        "gloss": "is vitiated",
+        "gram": "3 sg. pres. √duṣ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tataḥ",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śirasi",
+      "words": [
+       {
+        "w": "śirasi",
+        "gloss": "in the head",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jāyante",
+      "words": [
+       {
+        "w": "jāyante",
+        "gloss": "arise",
+        "gram": "3 pl. pres. √jan"
+       }
+      ]
+     },
+     {
+      "src": "rogā",
+      "words": [
+       {
+        "w": "rogāḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vividhalakṣaṇāḥ",
+      "words": [
+       {
+        "w": "vividha-lakṣaṇāḥ",
+        "gloss": "of various signs",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वात आदि सिर में कुपित हो जाते हैं और रक्त दूषित हो जाता है; तब सिर में विविध लक्षणों वाले रोग उत्पन्न होते हैं।",
+  "english": "Vāta and the others are aggravated in the head and the blood is vitiated; then diseases of various signs arise in the head.",
+  "text_flags": [],
+  "notes": "Main clause for the ablatives of units 8-10.",
+  "confidence": "high"
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prāṇāḥ",
+      "words": [
+       {
+        "w": "prāṇāḥ",
+        "gloss": "the vital breaths (prāṇa)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "prāṇabhṛtāṃ",
+      "words": [
+       {
+        "w": "prāṇa-bhṛtām",
+        "gloss": "of living beings",
+        "gram": "m. gen. pl., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "yatra",
+      "words": [
+       {
+        "w": "yatra",
+        "gloss": "where, in which",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śritāḥ",
+      "words": [
+       {
+        "w": "śritāḥ",
+        "gloss": "rest, are lodged",
+        "gram": "m. nom. pl. ppp √śri"
+       }
+      ]
+     },
+     {
+      "src": "sarvendriyāṇi",
+      "words": [
+       {
+        "w": "sarva-indriyāṇi",
+        "gloss": "all the senses",
+        "gram": "n. nom. pl., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yaduttamāṅgamaṅgānāṃ",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "uttama-aṅgam",
+        "gloss": "the highest limb",
+        "gram": "n. nom. sg., karmadhāraya"
+       },
+       {
+        "w": "aṅgānām",
+        "gloss": "of the limbs",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "śirastadabhidhīyate",
+      "words": [
+       {
+        "w": "śiraḥ",
+        "gloss": "head",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "abhidhīyate",
+        "gloss": "is called",
+        "gram": "3 sg. pres. pass. abhi-√dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जहाँ प्राणधारियों के प्राण और सब इन्द्रियाँ आश्रित हैं, और जो अंगों में उत्तम अंग है, वह सिर कहलाता है।",
+  "english": "That in which the vital breaths (prāṇa) of living beings and all the senses are lodged, and which is the highest of the limbs, is called the head.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ardhāvabhedako",
+      "words": [
+       {
+        "w": "ardhāvabhedakaḥ",
+        "gloss": "ardhāvabhedaka",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "syāt",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "there may be",
+        "gram": "3 sg. opt. √as"
+       }
+      ]
+     },
+     {
+      "src": "sarvaṃ",
+      "words": [
+       {
+        "w": "sarvam",
+        "gloss": "whole",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rujyate",
+      "words": [
+       {
+        "w": "rujyate",
+        "gloss": "aches",
+        "gram": "3 sg. pres. pass. √ruj"
+       }
+      ]
+     },
+     {
+      "src": "śiraḥ",
+      "words": [
+       {
+        "w": "śiraḥ",
+        "gloss": "head",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pratiśyāmukhanāsākṣikarṇarogaśirobhramāḥ",
+      "words": [
+       {
+        "w": "pratiśyā-mukha-nāsā-akṣi-karṇa-roga-śiraḥ-bhramāḥ",
+        "gloss": "pratiśyā, diseases of mouth, nose, eyes and ears, and giddiness of the head",
+        "gram": "m. nom. pl., dvandva (with tat-puruṣa members)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अर्धावभेदक हो सकता है, या पूरा सिर दुखता है; प्रतिश्या, मुख, नाक, आँख और कान के रोग, सिर का चकराना,",
+  "english": "There may be ardhāvabhedaka, or the whole head aches; pratiśyā, diseases of the mouth, nose, eyes and ears, giddiness of the head,",
+  "text_flags": [],
+  "notes": "The list continues into unit 14. ardhāvabhedaka and pratiśyā (nasal catarrh) are kept as Sanskrit disease names.",
+  "confidence": "high"
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "arditaṃ",
+      "words": [
+       {
+        "w": "arditam",
+        "gloss": "ardita",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śirasaḥ",
+      "words": [
+       {
+        "w": "śirasaḥ",
+        "gloss": "of the head",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "kampo",
+      "words": [
+       {
+        "w": "kampaḥ",
+        "gloss": "tremor",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "galamanyāhanugrahaḥ",
+      "words": [
+       {
+        "w": "gala-manyā-hanu-grahaḥ",
+        "gloss": "stiffness of throat, manyā and jaw",
+        "gram": "m. nom. sg., tat-puruṣa with dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vividhāścāpare",
+      "words": [
+       {
+        "w": "vividhāḥ",
+        "gloss": "various",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "apare",
+        "gloss": "other",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "rogā",
+      "words": [
+       {
+        "w": "rogāḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vātādikrimisaṃbhavāḥ",
+      "words": [
+       {
+        "w": "vāta-ādi-krimi-saṃbhavāḥ",
+        "gloss": "arising from Vāta etc. and from worms",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अर्दित, सिर का काँपना, गले, मन्या और हनु की जकड़न, और वात आदि तथा कृमियों से उत्पन्न होने वाले अन्य विविध रोग।",
+  "english": "ardita, tremor of the head, stiffness of the throat, the manyā (neck) and the jaw, and various other diseases arising from Vāta and the others and from worms.",
+  "text_flags": [],
+  "notes": "Continues the list of unit 13; the sense is that these occur in the head. ardita kept as Sanskrit; manyā is the side of the neck.",
+  "confidence": "high"
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pṛthagdiṣṭāstu",
+      "words": [
+       {
+        "w": "pṛthak",
+        "gloss": "separately",
+        "gram": "ind."
+       },
+       {
+        "w": "diṣṭāḥ",
+        "gloss": "indicated",
+        "gram": "m. nom. pl. ppp √diś"
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "which",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pañca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "saṃgrahe",
+      "words": [
+       {
+        "w": "saṃgrahe",
+        "gloss": "in the summary",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "paramarṣibhiḥ",
+      "words": [
+       {
+        "w": "parama-ṛṣibhiḥ",
+        "gloss": "by the supreme sages",
+        "gram": "m. inst. pl., karmadhāraya"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śirogadāṃstāṅchṛṇu",
+      "words": [
+       {
+        "w": "śiraḥ-gadān",
+        "gloss": "head diseases",
+        "gram": "m. acc. pl., tat-puruṣa"
+       },
+       {
+        "w": "tān",
+        "gloss": "those",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "śṛṇu",
+        "gloss": "hear",
+        "gram": "2 sg. impv. √śru"
+       }
+      ]
+     },
+     {
+      "src": "me",
+      "words": [
+       {
+        "w": "me",
+        "gloss": "from me",
+        "gram": "gen. sg. 1 pers."
+       }
+      ]
+     },
+     {
+      "src": "yathāsvairhetulakṣaṇaiḥ",
+      "words": [
+       {
+        "w": "yathāsvaiḥ",
+        "gloss": "with their own respective",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "hetu-lakṣaṇaiḥ",
+        "gloss": "causes and signs",
+        "gram": "n. inst. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "परन्तु संग्रह में परम ऋषियों ने जिन पाँच शिरोरोगों को अलग-अलग बताया है, उन्हें उनके अपने-अपने हेतुओं और लक्षणों के साथ मुझसे सुनो।",
+  "english": "But the five head diseases which have been indicated separately in the summary by the supreme sages, hear those from me with their respective causes and signs.",
+  "text_flags": [],
+  "notes": "saṃgraha 'summary' refers to the brief listing (cf. unit 6, 'five head diseases'). hetulakṣaṇa as a dvandva takes the gender of lakṣaṇa (n.).",
+  "confidence": "high"
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "uccairbhāṣyātibhāṣyābhyāṃ",
+      "words": [
+       {
+        "w": "uccaiḥ-bhāṣya-ati-bhāṣyābhyām",
+        "gloss": "from loud speaking and excessive speaking",
+        "gram": "n. abl. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "tīkṣṇapānāt",
+      "words": [
+       {
+        "w": "tīkṣṇa-pānāt",
+        "gloss": "from sharp drinks",
+        "gram": "n. abl. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "prajāgarāt",
+      "words": [
+       {
+        "w": "prajāgarāt",
+        "gloss": "from keeping awake",
+        "gram": "m. abl. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śītamārutasaṃsparśādvyavāyādveganigrahāt",
+      "words": [
+       {
+        "w": "śīta-māruta-saṃsparśāt",
+        "gloss": "from contact with cold wind",
+        "gram": "m. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "vyavāyāt",
+        "gloss": "from sexual intercourse",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "vega-nigrahāt",
+        "gloss": "from suppression of urges",
+        "gram": "m. abl. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ऊँचे स्वर में बोलने और अधिक बोलने से, तीक्ष्ण पान से, जागरण से, शीतल वायु के स्पर्श से, मैथुन से, वेगों को रोकने से,",
+  "english": "From loud speaking and excessive speaking, from sharp drinks, from keeping awake, from contact with cold wind, from sexual intercourse, from suppression of urges,",
+  "text_flags": [],
+  "notes": "The causes of Vāta head disease run through units 16-17; the verb is in unit 18. māruta here is physical wind (glossary: physical wind = wind). tīkṣṇapāna: drinking of sharp (strong) drinks.",
+  "confidence": "high"
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "upavāsādabhīghātādvirekādvamanādati",
+      "words": [
+       {
+        "w": "upavāsāt",
+        "gloss": "from fasting",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "abhīghātāt",
+        "gloss": "from injury",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "virekāt",
+        "gloss": "from purgation",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "vamanāt",
+        "gloss": "from emesis",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "ati",
+        "gloss": "in excess",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bāṣpaśokabhayatrāsādbhāramārgātikarśanāt",
+      "words": [
+       {
+        "w": "bāṣpa-śoka-bhaya-trāsāt",
+        "gloss": "from tears, grief, fear and fright",
+        "gram": "n. abl. sg., samāhāra dvandva"
+       },
+       {
+        "w": "bhāra-mārga-ati-karśanāt",
+        "gloss": "from loads, travel and excessive emaciation",
+        "gram": "n. abl. sg., samāhāra dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उपवास से, आघात से, अति विरेचन और वमन से, आँसू, शोक, भय और त्रास से, भार, मार्ग-गमन और अति कृशता से,",
+  "english": "from fasting, from injury, from purgation and emesis in excess, from tears, grief, fear and fright, from (carrying) loads, from travel and from excessive emaciation,",
+  "text_flags": [],
+  "notes": "abhīghāta is a lengthened form of abhighāta 'injury'. ati at the end of the first line is read with virekād vamanād ('in excess'). bhāra-mārga-atikarśana may also be read 'excessive emaciation from loads and travel'.",
+  "confidence": "high"
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śirogatāḥ",
+      "words": [
+       {
+        "w": "śiraḥ-gatāḥ",
+        "gloss": "situated in the head",
+        "gram": "f. acc. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sirā",
+      "words": [
+       {
+        "w": "sirāḥ",
+        "gloss": "vessels (sirā)",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vṛddho",
+      "words": [
+       {
+        "w": "vṛddhaḥ",
+        "gloss": "increased",
+        "gram": "m. nom. sg. ppp √vṛdh"
+       }
+      ]
+     },
+     {
+      "src": "vāyurāviśya",
+      "words": [
+       {
+        "w": "vāyuḥ",
+        "gloss": "Vāta (vāyu)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "āviśya",
+        "gloss": "having entered",
+        "gram": "abs. ā-√viś"
+       }
+      ]
+     },
+     {
+      "src": "kupyati",
+      "words": [
+       {
+        "w": "kupyati",
+        "gloss": "is aggravated",
+        "gram": "3 sg. pres. √kup"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tataḥ",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śūlaṃ",
+      "words": [
+       {
+        "w": "śūlam",
+        "gloss": "pain (śūla)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mahattasya",
+      "words": [
+       {
+        "w": "mahat",
+        "gloss": "great",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "tasya",
+        "gloss": "for him",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vātāt",
+      "words": [
+       {
+        "w": "vātāt",
+        "gloss": "from Vāta",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "samupajāyate",
+      "words": [
+       {
+        "w": "samupajāyate",
+        "gloss": "arises",
+        "gram": "3 sg. pres. sam-upa-√jan"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बढ़ी हुई वायु सिर में स्थित सिराओं में प्रवेश करके कुपित होती है; तब उसके वात से बड़ा शूल उत्पन्न होता है।",
+  "english": "Increased Vāta (vāyu), having entered the vessels (sirā) situated in the head, is aggravated; then from Vāta great pain (śūla) arises for him.",
+  "text_flags": [],
+  "notes": "Main clause for the ablatives of units 16-17. śirogatāḥ sirāḥ are taken as f. acc. pl., object of āviśya.",
+  "confidence": "high"
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nistudyete",
+      "words": [
+       {
+        "w": "nistudyete",
+        "gloss": "are pricked",
+        "gram": "3 du. pres. pass. nis-√tud"
+       }
+      ]
+     },
+     {
+      "src": "bhṛśaṃ",
+      "words": [
+       {
+        "w": "bhṛśam",
+        "gloss": "intensely",
+        "gram": "adv."
+       }
+      ]
+     },
+     {
+      "src": "śaṅkhau",
+      "words": [
+       {
+        "w": "śaṅkhau",
+        "gloss": "the two temples",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "ghāṭā",
+      "words": [
+       {
+        "w": "ghāṭā",
+        "gloss": "the nape",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃbhidyate",
+      "words": [
+       {
+        "w": "saṃbhidyate",
+        "gloss": "is split",
+        "gram": "3 sg. pres. pass. sam-√bhid"
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sabhrūmadhyaṃ",
+      "words": [
+       {
+        "w": "sa-bhrū-madhyam",
+        "gloss": "together with the middle of the brows",
+        "gram": "n. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "lalāṭaṃ",
+      "words": [
+       {
+        "w": "lalāṭam",
+        "gloss": "forehead",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tapatīvātivedanam",
+      "words": [
+       {
+        "w": "tapati",
+        "gloss": "burns",
+        "gram": "3 sg. pres. √tap"
+       },
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       },
+       {
+        "w": "ati-vedanam",
+        "gloss": "with excessive pain",
+        "gram": "n. nom. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों शंख बहुत चुभते हैं, और घाटा भी फटती है; भौंहों के मध्य सहित ललाट, अत्यन्त वेदना से युक्त होकर, मानो जलता है।",
+  "english": "The two temples (śaṅkha) are intensely pricked, and the nape (ghāṭā) likewise is split; and the forehead together with the middle of the brows, with excessive pain, burns as it were.",
+  "text_flags": [],
+  "notes": "Signs of Vāta head disease run through units 19-21.",
+  "confidence": "high"
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vadhyete",
+      "words": [
+       {
+        "w": "vadhyete",
+        "gloss": "are struck",
+        "gram": "3 du. pres. pass. √vadh"
+       }
+      ]
+     },
+     {
+      "src": "svanataḥ",
+      "words": [
+       {
+        "w": "svanataḥ",
+        "gloss": "sounding, ringing",
+        "gram": "n. nom. du. pres. part. √svan"
+       }
+      ]
+     },
+     {
+      "src": "śrotre",
+      "words": [
+       {
+        "w": "śrotre",
+        "gloss": "the two ears",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "niṣkṛṣyete",
+      "words": [
+       {
+        "w": "niṣkṛṣyete",
+        "gloss": "are pulled out",
+        "gram": "3 du. pres. pass. nis-√kṛṣ"
+       }
+      ]
+     },
+     {
+      "src": "ivākṣiṇī",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       },
+       {
+        "w": "akṣiṇī",
+        "gloss": "the two eyes",
+        "gram": "n. nom. du."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ghūrṇatīva",
+      "words": [
+       {
+        "w": "ghūrṇati",
+        "gloss": "whirls",
+        "gram": "3 sg. pres. √ghūrṇ"
+       },
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śiraḥ",
+      "words": [
+       {
+        "w": "śiraḥ",
+        "gloss": "head",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvaṃ",
+      "words": [
+       {
+        "w": "sarvam",
+        "gloss": "whole",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃdhibhya",
+      "words": [
+       {
+        "w": "saṃdhibhyaḥ",
+        "gloss": "from the joints",
+        "gram": "m. abl. pl."
+       }
+      ]
+     },
+     {
+      "src": "iva",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mucyate",
+      "words": [
+       {
+        "w": "mucyate",
+        "gloss": "is loosened",
+        "gram": "3 sg. pres. pass. √muc"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों कान, ध्वनि करते हुए, आहत होते हैं; दोनों आँखें मानो बाहर खींची जाती हैं; पूरा सिर मानो घूमता है और मानो जोड़ों से छूट जाता है।",
+  "english": "The two ears are struck, ringing; the two eyes are as if pulled out; the whole head as if whirls and is as if loosened from its joints.",
+  "text_flags": [],
+  "notes": "vadhyete is read as passive of √vadh 'strike'; svanataḥ as a present participle agreeing with śrotre ('ringing').",
+  "confidence": "medium"
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sphuratyati",
+      "words": [
+       {
+        "w": "sphurati",
+        "gloss": "throbs",
+        "gram": "3 sg. pres. √sphur"
+       },
+       {
+        "w": "ati",
+        "gloss": "excessively",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sirājālaṃ",
+      "words": [
+       {
+        "w": "sirā-jālam",
+        "gloss": "the network of vessels",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "stabhyate",
+      "words": [
+       {
+        "w": "stabhyate",
+        "gloss": "is stiffened",
+        "gram": "3 sg. pres. pass. √stambh"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śirodharā",
+      "words": [
+       {
+        "w": "śirodharā",
+        "gloss": "the neck",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "snigdhoṣṇamupaśete",
+      "words": [
+       {
+        "w": "snigdha-uṣṇam",
+        "gloss": "what is unctuous and hot",
+        "gram": "n. nom. sg., dvandva used as adj."
+       },
+       {
+        "w": "upaśete",
+        "gloss": "gives relief",
+        "gram": "3 sg. pres. upa-√śī"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śiroroge'nilātmake",
+      "words": [
+       {
+        "w": "śiraḥ-roge",
+        "gloss": "in head disease",
+        "gram": "m. loc. sg., tat-puruṣa"
+       },
+       {
+        "w": "anila-ātmake",
+        "gloss": "of Vāta (anila) nature",
+        "gram": "m. loc. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सिराओं का जाल अत्यधिक फड़कता है और गर्दन जकड़ जाती है; और अनिलात्मक शिरोरोग में स्निग्ध और उष्ण उपशय देता है।",
+  "english": "The network of vessels throbs excessively and the neck is stiffened; and in head disease of Vāta (anila) nature what is unctuous and hot gives relief.",
+  "text_flags": [],
+  "notes": "upaśete: 'is suitable, gives relief' (upaśaya).",
+  "confidence": "high"
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kaṭvamlalavaṇakṣāramadyakrodhātapānalaiḥ",
+      "words": [
+       {
+        "w": "kaṭu-amla-lavaṇa-kṣāra-madya-krodha-ātapa-analaiḥ",
+        "gloss": "by pungent, sour, salty, alkali, wine, anger, sun and fire",
+        "gram": "m. inst. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pittaṃ",
+      "words": [
+       {
+        "w": "pittam",
+        "gloss": "Pitta",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śirasi",
+      "words": [
+       {
+        "w": "śirasi",
+        "gloss": "in the head",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃduṣṭaṃ",
+      "words": [
+       {
+        "w": "saṃduṣṭam",
+        "gloss": "vitiated",
+        "gram": "n. nom. sg. ppp sam-√duṣ"
+       }
+      ]
+     },
+     {
+      "src": "śirorogāya",
+      "words": [
+       {
+        "w": "śiraḥ-rogāya",
+        "gloss": "for head disease",
+        "gram": "m. dat. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kalpate",
+      "words": [
+       {
+        "w": "kalpate",
+        "gloss": "leads to",
+        "gram": "3 sg. pres. √kḷp"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कटु, अम्ल, लवण, क्षार, मद्य, क्रोध, धूप और अग्नि से सिर में दूषित पित्त शिरोरोग उत्पन्न करता है।",
+  "english": "By pungent, sour, salty (things), alkali (kṣāra), wine, anger, sun and fire, Pitta vitiated in the head leads to head disease.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dahyate",
+      "words": [
+       {
+        "w": "dahyate",
+        "gloss": "burns",
+        "gram": "3 sg. pres. pass. √dah"
+       }
+      ]
+     },
+     {
+      "src": "rujyate",
+      "words": [
+       {
+        "w": "rujyate",
+        "gloss": "aches",
+        "gram": "3 sg. pres. pass. √ruj"
+       }
+      ]
+     },
+     {
+      "src": "tena",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by it",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "śiraḥ",
+      "words": [
+       {
+        "w": "śiraḥ",
+        "gloss": "head",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śītaṃ",
+      "words": [
+       {
+        "w": "śītam",
+        "gloss": "cold",
+        "gram": "n. nom./acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "suṣūyate",
+      "words": [
+       {
+        "w": "suṣūyate",
+        "gloss": "(unclear form)",
+        "gram": "uncertain"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dahyate",
+      "words": [
+       {
+        "w": "dahyete",
+        "gloss": "burn",
+        "gram": "3 du. pres. pass. √dah"
+       }
+      ]
+     },
+     {
+      "src": "cakṣuṣī",
+      "words": [
+       {
+        "w": "cakṣuṣī",
+        "gloss": "the two eyes",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "tṛṣṇā",
+      "words": [
+       {
+        "w": "tṛṣṇā",
+        "gloss": "thirst",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhramaḥ",
+      "words": [
+       {
+        "w": "bhramaḥ",
+        "gloss": "giddiness",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "svedaśca",
+      "words": [
+       {
+        "w": "svedaḥ",
+        "gloss": "sweating",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jāyate",
+      "words": [
+       {
+        "w": "jāyate",
+        "gloss": "arises",
+        "gram": "3 sg. pres. √jan"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उससे सिर जलता है और दुखता है, शीत …; दोनों आँखें जलती हैं; प्यास, भ्रम और स्वेद उत्पन्न होते हैं।",
+  "english": "By it the head burns and aches; cold …; the two eyes burn; thirst, giddiness and sweating arise.",
+  "text_flags": [
+   {
+    "src": "suṣūyate",
+    "suggest": "sukhāyate",
+    "why": "possible: suṣūyate is not a recognisable verb form; the sense, parallel to unit 21 (snigdhoṣṇam upaśete for Vāta), calls for a statement that cold gives comfort, which a form such as sukhāyate 'feels pleasant' would give; the reading is not settled"
+   },
+   {
+    "src": "dahyate",
+    "suggest": "dahyete",
+    "why": "the subject cakṣuṣī is dual, so the verb should be dual dahyete; possible repetition of dahyate from the first line; same syllable count"
+   }
+  ],
+  "notes": "The second half of line 1 cannot be translated with confidence because of suṣūyate; śītam may be the subject ('cold ...') or object. The flag on dahyate concerns its second occurrence (line 2).",
+  "confidence": "low"
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āsyāsukhaiḥ",
+      "words": [
+       {
+        "w": "āsyā-sukhaiḥ",
+        "gloss": "by pleasures of sitting",
+        "gram": "n. inst. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "svapnasukhairgurusnigdhātibhojanaiḥ",
+      "words": [
+       {
+        "w": "svapna-sukhaiḥ",
+        "gloss": "by pleasures of sleep",
+        "gram": "n. inst. pl., tat-puruṣa"
+       },
+       {
+        "w": "guru-snigdha-ati-bhojanaiḥ",
+        "gloss": "by heavy, unctuous food and over-eating",
+        "gram": "n. inst. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ślṣmā",
+      "words": [
+       {
+        "w": "śleṣmā",
+        "gloss": "Kapha (śleṣman)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śirasi",
+      "words": [
+       {
+        "w": "śirasi",
+        "gloss": "in the head",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃduṣṭaḥ",
+      "words": [
+       {
+        "w": "saṃduṣṭaḥ",
+        "gloss": "vitiated",
+        "gram": "m. nom. sg. ppp sam-√duṣ"
+       }
+      ]
+     },
+     {
+      "src": "śirorogāya",
+      "words": [
+       {
+        "w": "śiraḥ-rogāya",
+        "gloss": "for head disease",
+        "gram": "m. dat. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kalpate",
+      "words": [
+       {
+        "w": "kalpate",
+        "gloss": "leads to",
+        "gram": "3 sg. pres. √kḷp"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बैठे रहने के सुखों से, सोने के सुखों से, भारी और स्निग्ध भोजन तथा अति भोजन से सिर में दूषित श्लेष्मा शिरोरोग उत्पन्न करता है।",
+  "english": "By the pleasures of sitting, by the pleasures of sleep, by heavy and unctuous food and by over-eating, Kapha (śleṣman) vitiated in the head leads to head disease.",
+  "text_flags": [
+   {
+    "src": "ślṣmā",
+    "suggest": "śleṣmā",
+    "why": "typing error: the vowel e is missing (Devanagari श्ल्ष्मा); śleṣmā is required by sense and by the syllable count of the line"
+   }
+  ],
+  "notes": "guru-snigdha-ati-bhojanaiḥ may also be read 'by excessive eating of heavy and unctuous (food)'.",
+  "confidence": "high"
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śiro",
+      "words": [
+       {
+        "w": "śiraḥ",
+        "gloss": "head",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mandarūjaṃ",
+      "words": [
+       {
+        "w": "manda-rujam",
+        "gloss": "of mild pain",
+        "gram": "n. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "tena",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by it",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "suptaṃ",
+      "words": [
+       {
+        "w": "suptam",
+        "gloss": "numb",
+        "gram": "n. nom. sg. ppp √svap"
+       }
+      ]
+     },
+     {
+      "src": "stimitabhārikam",
+      "words": [
+       {
+        "w": "stimita-bhārikam",
+        "gloss": "stiff and heavy",
+        "gram": "n. nom. sg., dvandva used as adj."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bhavatyutpadyate",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes",
+        "gram": "3 sg. pres. √bhū"
+       },
+       {
+        "w": "utpadyate",
+        "gloss": "arises",
+        "gram": "3 sg. pres. ut-√pad"
+       }
+      ]
+     },
+     {
+      "src": "tandrā",
+      "words": [
+       {
+        "w": "tandrā",
+        "gloss": "drowsiness",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tathālasyamarocakaḥ",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       },
+       {
+        "w": "ālasyam",
+        "gloss": "lassitude",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "arocakaḥ",
+        "gloss": "loss of taste",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उससे सिर मन्द पीड़ा वाला, सुन्न, स्तिमित और भारी हो जाता है; तन्द्रा उत्पन्न होती है, तथा आलस्य और अरोचक भी।",
+  "english": "By it the head becomes of mild pain, numb, stiff and heavy; drowsiness arises, likewise lassitude and loss of taste (arocaka).",
+  "text_flags": [
+   {
+    "src": "mandarūjaṃ",
+    "suggest": "mandarujaṃ",
+    "why": "typing error: rujā 'pain' has a short u; rūja is not a word; the short syllable also suits the fifth syllable of the line"
+   }
+  ],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vātācchūlaṃ",
+      "words": [
+       {
+        "w": "vātāt",
+        "gloss": "from Vāta",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "śūlam",
+        "gloss": "pain (śūla)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhramaḥ",
+      "words": [
+       {
+        "w": "bhramaḥ",
+        "gloss": "giddiness",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kampaḥ",
+      "words": [
+       {
+        "w": "kampaḥ",
+        "gloss": "tremor",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pittāddāho",
+      "words": [
+       {
+        "w": "pittāt",
+        "gloss": "from Pitta",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "dāhaḥ",
+        "gloss": "burning",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madastṛṣā",
+      "words": [
+       {
+        "w": "madaḥ",
+        "gloss": "intoxication",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tṛṣā",
+        "gloss": "thirst",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kaphādgurutvaṃ",
+      "words": [
+       {
+        "w": "kaphāt",
+        "gloss": "from Kapha",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "gurutvam",
+        "gloss": "heaviness",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tandrā",
+      "words": [
+       {
+        "w": "tandrā",
+        "gloss": "drowsiness",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śiroroge",
+      "words": [
+       {
+        "w": "śiraḥ-roge",
+        "gloss": "in head disease",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tridoṣaje",
+      "words": [
+       {
+        "w": "tri-doṣa-je",
+        "gloss": "born of the three doṣas",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "त्रिदोषज शिरोरोग में वात से शूल, भ्रम और कम्प; पित्त से दाह, मद और प्यास; कफ से भारीपन और तन्द्रा होती है।",
+  "english": "In head disease born of the three doṣas: from Vāta, pain (śūla), giddiness and tremor; from Pitta, burning, intoxication (mada) and thirst; from Kapha, heaviness and drowsiness.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tilakṣīraguḍājīrṇapūtisaṅkīrṇabhojanāt",
+      "words": [
+       {
+        "w": "tila-kṣīra-guḍa-ajīrṇa-pūti-saṅkīrṇa-bhojanāt",
+        "gloss": "from eating sesame, milk, jaggery, (food) undigested, putrid and mixed",
+        "gram": "n. abl. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kledo'sṛkkaphamāṃsānāṃ",
+      "words": [
+       {
+        "w": "kledaḥ",
+        "gloss": "putrefaction (kleda)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "asṛk-kapha-māṃsānām",
+        "gloss": "of blood, Kapha and flesh",
+        "gram": "n. gen. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "doṣalasyopajāyate",
+      "words": [
+       {
+        "w": "doṣalasya",
+        "gloss": "of one abounding in doṣas",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "upajāyate",
+        "gloss": "arises",
+        "gram": "3 sg. pres. upa-√jan"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तिल, दूध, गुड़, अजीर्ण में, सड़े हुए और संकीर्ण भोजन से, दोषों से भरे हुए मनुष्य के रक्त, कफ और मांस का क्लेद उत्पन्न होता है।",
+  "english": "From eating sesame, milk and jaggery (guḍa), (eating) while undigested, and putrid and mixed food, putrefaction (kleda) of the blood, Kapha and flesh arises in one abounding in doṣas.",
+  "text_flags": [],
+  "notes": "ajīrṇa may mean eating while the previous meal is undigested, or undigested (unwholesome) food; saṅkīrṇa 'mixed' (of incompatible items). Worm head disease is described in units 27-29.",
+  "confidence": "medium"
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tataḥ",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śirasi",
+      "words": [
+       {
+        "w": "śirasi",
+        "gloss": "in the head",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃkledāt",
+      "words": [
+       {
+        "w": "saṃkledāt",
+        "gloss": "from putrefaction",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "krimayaḥ",
+      "words": [
+       {
+        "w": "krimayaḥ",
+        "gloss": "worms",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pāpakarmaṇaḥ",
+      "words": [
+       {
+        "w": "pāpa-karmaṇaḥ",
+        "gloss": "of the one of evil deeds",
+        "gram": "m. gen. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "janayanti",
+      "words": [
+       {
+        "w": "janayanti",
+        "gloss": "produce",
+        "gram": "3 pl. pres. caus. √jan"
+       }
+      ]
+     },
+     {
+      "src": "śirorogaṃ",
+      "words": [
+       {
+        "w": "śiraḥ-rogam",
+        "gloss": "head disease",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "jāta",
+      "words": [
+       {
+        "w": "jāta-",
+        "gloss": "arisen (compound member)",
+        "gram": "ppp √jan, stem in compound"
+       }
+      ]
+     },
+     {
+      "src": "bībhatsalakṣaṇam",
+      "words": [
+       {
+        "w": "bībhatsa-lakṣaṇam",
+        "gloss": "with repulsive signs",
+        "gram": "m. acc. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब सिर में क्लेद से उस पापकर्मी के कृमि उत्पन्न होकर ऐसा शिरोरोग उत्पन्न करते हैं जिसमें घृणित लक्षण उत्पन्न हो चुके हों।",
+  "english": "Then, from the putrefaction in the head, worms of the evil-doer produce a head disease in which repulsive signs have arisen.",
+  "text_flags": [
+   {
+    "src": "jāta",
+    "suggest": "jāta- (joined: jātabībhatsalakṣaṇam)",
+    "why": "possible spacing error: jāta has no case ending and can only stand as the first member of the compound jāta-bībhatsa-lakṣaṇam ('with repulsive signs arisen'); the syllable count is unchanged"
+   }
+  ],
+  "notes": "pāpakarmaṇaḥ is genitive singular: the worms 'of' the person of evil deeds (the patient).",
+  "confidence": "medium"
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vyadhacchedarujākaṇḍūśophadaurgatyaduḥkhitam",
+      "words": [
+       {
+        "w": "vyadha-cheda-rujā-kaṇḍū-śopha-daurgatya-duḥkhitam",
+        "gloss": "distressed by piercing, cutting pain, itching, swelling and misery",
+        "gram": "m. acc. sg., tat-puruṣa with dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "krimirogāturaṃ",
+      "words": [
+       {
+        "w": "krimi-roga-āturam",
+        "gloss": "one afflicted with worm disease",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vidyāt",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "one should know",
+        "gram": "3 sg. opt. √vid"
+       }
+      ]
+     },
+     {
+      "src": "krimīṇāṃ",
+      "words": [
+       {
+        "w": "krimīṇām",
+        "gloss": "of worms",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "darśanena",
+      "words": [
+       {
+        "w": "darśanena",
+        "gloss": "by the sight",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वेधने और काटने जैसी पीड़ा, खुजली, सूजन और दुर्गति से दुःखी व्यक्ति को, और कृमियों के दिखने से, कृमिरोग से पीड़ित जानना चाहिए।",
+  "english": "One should know as afflicted with worm disease (the person) distressed by piercing and cutting pain, itching, swelling and misery, and by the sight of worms.",
+  "text_flags": [],
+  "notes": "vyadha-cheda-rujā may be 'pain of piercing and cutting' or 'piercing, cutting and pain'. daurgatya is read as printed ('misery, wretched state'). śopha = swelling (glossary).",
+  "confidence": "medium"
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śokopavāsavyāyāmarūkṣaśuṣkālpabhojanaiḥ",
+      "words": [
+       {
+        "w": "śoka-upavāsa-vyāyāma-rūkṣa-śuṣka-alpa-bhojanaiḥ",
+        "gloss": "by grief, fasting, exercise, and dry, withered and scanty food",
+        "gram": "n. inst. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vāyurāviśya",
+      "words": [
+       {
+        "w": "vāyuḥ",
+        "gloss": "Vāta (vāyu)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "āviśya",
+        "gloss": "having entered",
+        "gram": "abs. ā-√viś"
+       }
+      ]
+     },
+     {
+      "src": "hṛdayaṃ",
+      "words": [
+       {
+        "w": "hṛdayam",
+        "gloss": "the heart",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "janayatyuttamāṃ",
+      "words": [
+       {
+        "w": "janayati",
+        "gloss": "produces",
+        "gram": "3 sg. pres. caus. √jan"
+       },
+       {
+        "w": "uttamām",
+        "gloss": "extreme",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rujam",
+      "words": [
+       {
+        "w": "rujam",
+        "gloss": "pain",
+        "gram": "f. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शोक, उपवास, व्यायाम, रूखे, सूखे और थोड़े भोजन से वायु हृदय में प्रवेश करके अत्यन्त पीड़ा उत्पन्न करती है।",
+  "english": "By grief, fasting, exercise (vyāyāma), and dry, withered and scanty food, Vāta (vāyu), having entered the heart, produces extreme pain.",
+  "text_flags": [],
+  "notes": "Heart diseases (units 30-40).",
+  "confidence": "high"
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vepathurveṣṭanaṃ",
+      "words": [
+       {
+        "w": "vepathuḥ",
+        "gloss": "trembling",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "veṣṭanam",
+        "gloss": "cramping",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "stambhaḥ",
+      "words": [
+       {
+        "w": "stambhaḥ",
+        "gloss": "stiffness",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pramohaḥ",
+      "words": [
+       {
+        "w": "pramohaḥ",
+        "gloss": "stupor",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śūnyatā",
+      "words": [
+       {
+        "w": "śūnyatā",
+        "gloss": "emptiness",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daraḥ",
+      "words": [
+       {
+        "w": "daraḥ",
+        "gloss": "fear",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "hṛdi",
+      "words": [
+       {
+        "w": "hṛdi",
+        "gloss": "in the heart",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vātāture",
+      "words": [
+       {
+        "w": "vāta-āture",
+        "gloss": "in one afflicted by Vāta",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "rūpaṃ",
+      "words": [
+       {
+        "w": "rūpam",
+        "gloss": "the symptoms",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jīrṇe",
+      "words": [
+       {
+        "w": "jīrṇe",
+        "gloss": "when (food) is digested",
+        "gram": "n. loc. sg. ppp √jṝ"
+       }
+      ]
+     },
+     {
+      "src": "cātyarthavedanā",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "atyartha-vedanā",
+        "gloss": "extreme pain",
+        "gram": "f. nom. sg., karmadhāraya"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "काँपना, ऐंठन, जकड़न, मूढ़ता, शून्यता और भय, यह वात से पीड़ित के हृदय में रूप है; और भोजन पच जाने पर अत्यधिक वेदना होती है।",
+  "english": "Trembling, cramping (veṣṭana), stiffness, stupor, emptiness and fear: these are the symptoms in the heart of one afflicted by Vāta; and when (food) is digested, extreme pain.",
+  "text_flags": [],
+  "notes": "jīrṇe is read as a locative absolute, 'when (the meal) is digested'; the word 'food' is understood. dara may also mean 'fissure, tearing'; 'fear' is taken here.",
+  "confidence": "medium"
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "uṣṇāmlalavaṇakṣārakaṭukājīrṇabhojanaiḥ",
+      "words": [
+       {
+        "w": "uṣṇa-amla-lavaṇa-kṣāra-kaṭuka-ajīrṇa-bhojanaiḥ",
+        "gloss": "by hot, sour, salty, alkali, pungent (food) and eating while undigested",
+        "gram": "n. inst. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "madyakrodhātapaiścāśu",
+      "words": [
+       {
+        "w": "madya-krodha-ātapaiḥ",
+        "gloss": "by wine, anger and sun",
+        "gram": "m. inst. pl., dvandva"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "āśu",
+        "gloss": "quickly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hṛdi",
+      "words": [
+       {
+        "w": "hṛdi",
+        "gloss": "in the heart",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pittaṃ",
+      "words": [
+       {
+        "w": "pittam",
+        "gloss": "Pitta",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakupyati",
+      "words": [
+       {
+        "w": "prakupyati",
+        "gloss": "is aggravated",
+        "gram": "3 sg. pres. pra-√kup"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उष्ण, अम्ल, लवण, क्षार, कटु भोजन और अजीर्ण में भोजन से, तथा मद्य, क्रोध और धूप से, हृदय में पित्त शीघ्र कुपित हो जाता है।",
+  "english": "By hot, sour, salty, alkaline (kṣāra) and pungent food and eating while undigested, and by wine, anger and sun, Pitta is quickly aggravated in the heart.",
+  "text_flags": [],
+  "notes": "ajīrṇa-bhojana as in unit 27 (either eating during indigestion or undigested food).",
+  "confidence": "high"
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "hṛddāhastiktatā",
+      "words": [
+       {
+        "w": "hṛt-dāhaḥ",
+        "gloss": "burning in the heart",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "tiktatā",
+        "gloss": "bitterness",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaktre",
+      "words": [
+       {
+        "w": "vaktre",
+        "gloss": "in the mouth",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tiktāmlodgiraṇaṃ",
+      "words": [
+       {
+        "w": "tikta-amla-udgiraṇam",
+        "gloss": "bitter and sour eructation",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "klamaḥ",
+      "words": [
+       {
+        "w": "klamaḥ",
+        "gloss": "exhaustion",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tṛṣṇā",
+      "words": [
+       {
+        "w": "tṛṣṇā",
+        "gloss": "thirst",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mūrcchā",
+      "words": [
+       {
+        "w": "mūrcchā",
+        "gloss": "fainting",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhramaḥ",
+      "words": [
+       {
+        "w": "bhramaḥ",
+        "gloss": "giddiness",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "svedaḥ",
+      "words": [
+       {
+        "w": "svedaḥ",
+        "gloss": "sweating",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pittahṛdrogakāraṇam",
+      "words": [
+       {
+        "w": "pitta-hṛdroga-kāraṇam",
+        "gloss": "cause of Pitta heart disease",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हृदय में दाह, मुख में तिक्तता, तिक्त और अम्ल डकार, क्लम, प्यास, मूर्च्छा, भ्रम और स्वेद, ये पित्तज हृद्रोग का कारण हैं।",
+  "english": "Burning in the heart, bitterness in the mouth, bitter and sour eructation, exhaustion (klama), thirst, fainting, giddiness and sweating: (these are) the cause of Pitta heart disease.",
+  "text_flags": [
+   {
+    "src": "pittahṛdrogakāraṇam",
+    "suggest": "pittahṛdrogalakṣaṇam",
+    "why": "possible: the line lists symptoms, not causes (the causes of Pitta heart disease are in unit 32), so 'sign' (lakṣaṇam) fits the sense; kāraṇam may be repeated from the end of unit 34; same syllable count"
+   }
+  ],
+  "notes": "Translated as printed ('cause'); see text_flags.",
+  "confidence": "medium"
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "atyādānaṃ",
+      "words": [
+       {
+        "w": "ati-ādānam",
+        "gloss": "over-eating",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "gurusnigdhamacintanamaceṣṭanam",
+      "words": [
+       {
+        "w": "guru-snigdham",
+        "gloss": "heavy and unctuous (food)",
+        "gram": "n. nom. sg., dvandva used as noun"
+       },
+       {
+        "w": "acintanam",
+        "gloss": "absence of thinking",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "aceṣṭanam",
+        "gloss": "inactivity",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "nidrāsukhaṃ",
+      "words": [
+       {
+        "w": "nidrā-sukham",
+        "gloss": "pleasure of sleep",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "cābhyadhikaṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "abhyadhikam",
+        "gloss": "excessive",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaphahṛdrogakāraṇam",
+      "words": [
+       {
+        "w": "kapha-hṛdroga-kāraṇam",
+        "gloss": "cause of Kapha heart disease",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अति भोजन, भारी और स्निग्ध पदार्थ, चिन्तन का अभाव, चेष्टा का अभाव और अत्यधिक निद्रा-सुख, ये कफज हृद्रोग का कारण हैं।",
+  "english": "Over-eating, heavy and unctuous (food), absence of thinking, inactivity and excessive pleasure of sleep: (these are) the cause of Kapha heart disease.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "hṛdayaṃ",
+      "words": [
+       {
+        "w": "hṛdayam",
+        "gloss": "the heart",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaphahdroge",
+      "words": [
+       {
+        "w": "kapha-hṛdroge",
+        "gloss": "in Kapha heart disease",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "suptaṃ",
+      "words": [
+       {
+        "w": "suptam",
+        "gloss": "numb",
+        "gram": "n. nom. sg. ppp √svap"
+       }
+      ]
+     },
+     {
+      "src": "stimitabhārikam",
+      "words": [
+       {
+        "w": "stimita-bhārikam",
+        "gloss": "stiff and heavy",
+        "gram": "n. nom. sg., dvandva used as adj."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tandrāruciparītasya",
+      "words": [
+       {
+        "w": "tandrā-aruci-parītasya",
+        "gloss": "of one beset by drowsiness and loss of taste",
+        "gram": "m. gen. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhavatyaśmāvṛtaṃ",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes",
+        "gram": "3 sg. pres. √bhū"
+       },
+       {
+        "w": "aśma-āvṛtam",
+        "gloss": "covered by a stone",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कफज हृद्रोग में, तन्द्रा और अरुचि से घिरे व्यक्ति का हृदय सुन्न, स्तिमित और भारी हो जाता है, मानो पत्थर से ढका हो।",
+  "english": "In Kapha heart disease, the heart of one beset by drowsiness and loss of taste (aruci) becomes numb, stiff and heavy, as if covered by a stone.",
+  "text_flags": [
+   {
+    "src": "kaphahdroge",
+    "suggest": "kaphahṛdroge",
+    "why": "typing error: the vowel ṛ is missing (Devanagari कफह्द्रोगे); the same compound appears correctly in unit 34 (kaphahṛdroga-) and the syllable count needs it"
+   }
+  ],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "36",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "hetulakṣaṇasaṃsargāducyate",
+      "words": [
+       {
+        "w": "hetu-lakṣaṇa-saṃsargāt",
+        "gloss": "from the combination of causes and signs",
+        "gram": "m. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "ucyate",
+        "gloss": "is called",
+        "gram": "3 sg. pres. pass. √vac"
+       }
+      ]
+     },
+     {
+      "src": "sānnipātikaḥ",
+      "words": [
+       {
+        "w": "sānnipātikaḥ",
+        "gloss": "sānnipātika (of the three doṣas combined)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "(hṛdrogaḥ",
+      "words": [
+       {
+        "w": "hṛdrogaḥ",
+        "gloss": "heart disease",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaṣṭadaḥkaṣṭasādhya",
+      "words": [
+       {
+        "w": "kaṣṭa-daḥ",
+        "gloss": "causing distress",
+        "gram": "m. nom. sg., upapada tat-puruṣa"
+       },
+       {
+        "w": "kaṣṭa-sādhyaḥ",
+        "gloss": "curable with difficulty",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ukto",
+      "words": [
+       {
+        "w": "uktaḥ",
+        "gloss": "declared",
+        "gram": "m. nom. sg. ppp √vac"
+       }
+      ]
+     },
+     {
+      "src": "maharṣibhiḥ",
+      "words": [
+       {
+        "w": "mahā-ṛṣibhiḥ",
+        "gloss": "by the great sages",
+        "gram": "m. inst. pl., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "||)",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse-end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tridoṣaje",
+      "words": [
+       {
+        "w": "tri-doṣa-je",
+        "gloss": "born of the three doṣas",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hṛdroge",
+      "words": [
+       {
+        "w": "hṛdroge",
+        "gloss": "in heart disease",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "durātmā",
+      "words": [
+       {
+        "w": "durātmā",
+        "gloss": "the wicked person",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "niṣevate",
+      "words": [
+       {
+        "w": "niṣevate",
+        "gloss": "indulges in",
+        "gram": "3 sg. pres. ni-√sev"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हेतुओं और लक्षणों के संयोग से (हृद्रोग) सान्निपातिक कहलाता है। (महर्षियों ने हृद्रोग को कष्ट देने वाला और कष्टसाध्य कहा है।) परन्तु त्रिदोषज हृद्रोग में जो दुरात्मा सेवन करता है",
+  "english": "From the combination of causes and signs (heart disease) is called sānnipātika (of the three doṣas combined). (Heart disease causing distress and curable with difficulty has been declared by the great sages.) But in heart disease born of the three doṣas, the wicked person who indulges in",
+  "text_flags": [
+   {
+    "src": "kaṣṭadaḥkaṣṭasādhya",
+    "suggest": "kaṣṭadaḥ kaṣṭasādhya",
+    "why": "spacing: two words typed without a space; split into kaṣṭadaḥ and kaṣṭasādhyaḥ (visarga dropped before ukto)"
+   }
+  ],
+  "notes": "GROUPING: the bracketed line (with its own '||') is printed as an editorial insertion and completes the half-verse 36a ('sānnipātika ... declared by the great sages'); line 36c (tridoṣaje tu hṛdroge yo durātmā niṣevate) begins a new sentence that continues into unit 37 (its object tilakṣīraguḍādīni is in 37a), so 36c + 37a form one half-verse pair. Read as printed; the edition's grouping is kept.",
+  "confidence": "medium"
+ },
+ {
+  "n": "37",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tilakṣīraguḍādīni",
+      "words": [
+       {
+        "w": "tila-kṣīra-guḍa-ādīni",
+        "gloss": "sesame, milk, jaggery and the like",
+        "gram": "n. acc. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "granthistasyopajāyate",
+      "words": [
+       {
+        "w": "granthiḥ",
+        "gloss": "a knot (granthi)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tasya",
+        "gloss": "for him",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "upajāyate",
+        "gloss": "arises",
+        "gram": "3 sg. pres. upa-√jan"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "marmaikadeśe",
+      "words": [
+       {
+        "w": "marma-eka-deśe",
+        "gloss": "in one part of the vital point",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "saṃkledaṃ",
+      "words": [
+       {
+        "w": "saṃkledam",
+        "gloss": "putrefaction",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rasaścāsyopagacchati",
+      "words": [
+       {
+        "w": "rasaḥ",
+        "gloss": "rasa",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "upagacchati",
+        "gloss": "undergoes",
+        "gram": "3 sg. pres. upa-√gam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तिल, दूध, गुड़ आदि का, उसके (हृदय में) ग्रन्थि उत्पन्न हो जाती है, और मर्म के एक भाग में उसका रस क्लेद को प्राप्त होता है।",
+  "english": "sesame, milk, jaggery and the like, a knot (granthi) arises in him; and in one part of the vital point (marma) his rasa undergoes putrefaction.",
+  "text_flags": [],
+  "notes": "Continues the sentence of unit 36c. marma here is the heart as a vital point (the topic of units 36-40). rasa is the nutrient fluid (dhātu), kept as rasa.",
+  "confidence": "medium"
+ },
+ {
+  "n": "38",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "saṃkledāt",
+      "words": [
+       {
+        "w": "saṃkledāt",
+        "gloss": "from the putrefaction",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "krimayaścāsya",
+      "words": [
+       {
+        "w": "krimayaḥ",
+        "gloss": "worms",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "in him",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavantyupahatātmanaḥ",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "arise",
+        "gram": "3 pl. pres. √bhū"
+       },
+       {
+        "w": "upahata-ātmanaḥ",
+        "gloss": "whose self is afflicted",
+        "gram": "m. gen. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "marmaikadeśe",
+      "words": [
+       {
+        "w": "marma-eka-deśe",
+        "gloss": "in one part of the vital point",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "they",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "jātāḥ",
+      "words": [
+       {
+        "w": "jātāḥ",
+        "gloss": "born",
+        "gram": "m. nom. pl. ppp √jan"
+       }
+      ]
+     },
+     {
+      "src": "sarpanto",
+      "words": [
+       {
+        "w": "sarpantaḥ",
+        "gloss": "creeping",
+        "gram": "m. nom. pl. pres. part. √sṛp"
+       }
+      ]
+     },
+     {
+      "src": "bhakṣayanti",
+      "words": [
+       {
+        "w": "bhakṣayanti",
+        "gloss": "devour",
+        "gram": "3 pl. pres. √bhakṣ"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उस क्लेद से उस पीड़ित आत्मा वाले के कृमि उत्पन्न हो जाते हैं; मर्म के एक भाग में उत्पन्न वे रेंगते हुए खाते भी हैं।",
+  "english": "From the putrefaction, worms arise in him whose self is afflicted; born in one part of the vital point, they creep about and devour.",
+  "text_flags": [],
+  "notes": "The object of bhakṣayanti is not stated (the vital point / heart is implied).",
+  "confidence": "high"
+ },
+ {
+  "n": "39",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tudyamānaṃ",
+      "words": [
+       {
+        "w": "tudyamānam",
+        "gloss": "being pricked",
+        "gram": "n. acc. sg. pres. pass. part. √tud"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hṛdayaṃ",
+      "words": [
+       {
+        "w": "hṛdayam",
+        "gloss": "heart",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sūcībhiriva",
+      "words": [
+       {
+        "w": "sūcībhiḥ",
+        "gloss": "by needles",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "manyate",
+      "words": [
+       {
+        "w": "manyate",
+        "gloss": "feels",
+        "gram": "3 sg. pres. √man"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "chidyamānaṃ",
+      "words": [
+       {
+        "w": "chidyamānam",
+        "gloss": "being cut",
+        "gram": "n. acc. sg. pres. pass. part. √chid"
+       }
+      ]
+     },
+     {
+      "src": "yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śastrairjātakaṇḍūṃ",
+      "words": [
+       {
+        "w": "śastraiḥ",
+        "gloss": "by knives",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "jāta-kaṇḍum",
+        "gloss": "with itching arisen",
+        "gram": "n. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "mahārujam",
+      "words": [
+       {
+        "w": "mahā-rujam",
+        "gloss": "with great pain",
+        "gram": "n. acc. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह अपने हृदय को मानो सुइयों से चुभाया जाता हुआ, मानो शस्त्रों से काटा जाता हुआ, खुजली से युक्त और महा पीड़ा वाला अनुभव करता है।",
+  "english": "He feels the heart as if being pricked by needles, as if being cut by knives, with itching arisen and with great pain.",
+  "text_flags": [
+   {
+    "src": "śastrairjātakaṇḍūṃ",
+    "suggest": "śastrairjātakaṇḍuṃ",
+    "why": "possible: as a bahuvrīhi agreeing with hṛdayam (n. acc. sg.) the final kaṇḍū is shortened, giving jātakaṇḍum; the long ū (Devanagari कण्डूं) would be feminine; metre unaffected (the syllable is heavy by the anusvāra)"
+   }
+  ],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "40",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "hṛdrogaṃ",
+      "words": [
+       {
+        "w": "hṛdrogam",
+        "gloss": "heart disease",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "krimijaṃ",
+      "words": [
+       {
+        "w": "krimi-jam",
+        "gloss": "born of worms",
+        "gram": "m. acc. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tvetairliṅgairbuddhvā",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "etaiḥ",
+        "gloss": "by these",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "liṅgaiḥ",
+        "gloss": "signs",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "buddhvā",
+        "gloss": "having known",
+        "gram": "abs. √budh"
+       }
+      ]
+     },
+     {
+      "src": "sudāruṇam",
+      "words": [
+       {
+        "w": "su-dāruṇam",
+        "gloss": "very harsh",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tvareta",
+      "words": [
+       {
+        "w": "tvareta",
+        "gloss": "should hasten",
+        "gram": "3 sg. opt. √tvar"
+       }
+      ]
+     },
+     {
+      "src": "jetuṃ",
+      "words": [
+       {
+        "w": "jetum",
+        "gloss": "to conquer",
+        "gram": "inf. √ji"
+       }
+      ]
+     },
+     {
+      "src": "taṃ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "that",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidvān",
+      "words": [
+       {
+        "w": "vidvān",
+        "gloss": "the wise one",
+        "gram": "m. nom. sg. pf. part. √vid"
+       }
+      ]
+     },
+     {
+      "src": "vikāraṃ",
+      "words": [
+       {
+        "w": "vikāram",
+        "gloss": "disorder",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śīghrakāriṇam",
+      "words": [
+       {
+        "w": "śīghra-kāriṇam",
+        "gloss": "acting quickly",
+        "gram": "m. acc. sg., upapada tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इन लक्षणों से कृमिज और अत्यन्त दारुण हृद्रोग को जानकर, विद्वान् उस शीघ्र प्रभाव करने वाले विकार को जीतने के लिए शीघ्रता करे।",
+  "english": "And having known by these signs the very harsh heart disease born of worms, the wise one should hasten to conquer that disorder, which acts quickly.",
+  "text_flags": [],
+  "notes": "vidvān is read as the physician; the line does not say so explicitly.",
+  "confidence": "high"
+ },
+ {
+  "n": "41",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dvyulbaṇaikolbaṇaiḥ",
+      "words": [
+       {
+        "w": "dvi-ulbaṇa-eka-ulbaṇaiḥ",
+        "gloss": "with two predominant and with one predominant",
+        "gram": "m. inst. pl., dvandva of bahuvrīhis"
+       }
+      ]
+     },
+     {
+      "src": "ṣaṭ",
+      "words": [
+       {
+        "w": "ṣaṭ",
+        "gloss": "six",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "syurhīnamadhyādhikaiśca",
+      "words": [
+       {
+        "w": "syuḥ",
+        "gloss": "there would be",
+        "gram": "3 pl. opt. √as"
+       },
+       {
+        "w": "hīna-madhya-adhikaiḥ",
+        "gloss": "with low, middle and high (doṣas)",
+        "gram": "m. inst. pl., dvandva"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣaṭ",
+      "words": [
+       {
+        "w": "ṣaṭ",
+        "gloss": "six",
+        "gram": "nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "samaiścaiko",
+      "words": [
+       {
+        "w": "samaiḥ",
+        "gloss": "with equal (doṣas)",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ekaḥ",
+        "gloss": "one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vikārāste",
+      "words": [
+       {
+        "w": "vikārāḥ",
+        "gloss": "disorders",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "te",
+        "gloss": "these",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sannipātāstrayodaśa",
+      "words": [
+       {
+        "w": "sannipātāḥ",
+        "gloss": "sannipātas (combinations of all three doṣas)",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "trayodaśa",
+        "gloss": "thirteen",
+        "gram": "nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दो दोषों की प्रबलता और एक दोष की प्रबलता से छः होंगे, और हीन, मध्य और अधिक दोषों से छः, और सम दोषों से एक; ये विकार तेरह सन्निपात हैं।",
+  "english": "With two (doṣas) predominant and with one predominant there would be six, and with low, middle and high (doṣas) six, and with equal (doṣas) one: these disorders are the thirteen sannipātas (combinations of all three doṣas).",
+  "text_flags": [],
+  "notes": "ulbaṇa = predominant. 6 + 6 + 1 = 13. This explains the count of disorders by variation in the measure of the doṣas (units 3 and 6); the counting continues in unit 42.",
+  "confidence": "high"
+ },
+ {
+  "n": "42",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "saṃsarge",
+      "words": [
+       {
+        "w": "saṃsarge",
+        "gloss": "in combination (of two)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nava",
+      "words": [
+       {
+        "w": "nava",
+        "gloss": "nine",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ṣaṭ",
+      "words": [
+       {
+        "w": "ṣaṭ",
+        "gloss": "six",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tebhya",
+      "words": [
+       {
+        "w": "tebhyaḥ",
+        "gloss": "of them, from them",
+        "gram": "m. abl. pl."
+       }
+      ]
+     },
+     {
+      "src": "ekavṛddhyā",
+      "words": [
+       {
+        "w": "eka-vṛddhyā",
+        "gloss": "by increase of one",
+        "gram": "f. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "samaistrayaḥ",
+      "words": [
+       {
+        "w": "samaiḥ",
+        "gloss": "with equal (doṣas)",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "trayaḥ",
+        "gloss": "three",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pṛthak",
+      "words": [
+       {
+        "w": "pṛthak",
+        "gloss": "separately",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "trayaśca",
+      "words": [
+       {
+        "w": "trayaḥ",
+        "gloss": "three",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tairvṛddhairvyādhayaḥ",
+      "words": [
+       {
+        "w": "taiḥ",
+        "gloss": "by those",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "vṛddhaiḥ",
+        "gloss": "increased",
+        "gram": "m. inst. pl. ppp √vṛdh"
+       },
+       {
+        "w": "vyādhayaḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pañcaviṃśatiḥ",
+      "words": [
+       {
+        "w": "pañca-viṃśatiḥ",
+        "gloss": "twenty-five",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "संसर्ग (दो दोषों के मेल) में नौ: उनमें से छः एक की वृद्धि से, और तीन सम दोषों से; और उन बढ़े हुए दोषों से अलग-अलग तीन; (इस प्रकार) पच्चीस व्याधियाँ हैं।",
+  "english": "In combination (saṃsarga, of two doṣas) nine: of them six by the increase of one, three with equal (doṣas); and three separately, by those (doṣas) increased: (thus) twenty-five diseases.",
+  "text_flags": [],
+  "notes": "13 (unit 41) + 9 + 3 = 25. saṃsarga is the combination of two doṣas, sannipāta of all three.",
+  "confidence": "high"
+ }
+]
