@@ -1,0 +1,202 @@
+[
+ {
+  "n": "8",
+  "field": "word.gloss",
+  "word": "jihvā-vaiṣayikam",
+  "old": "the domain of the tongue",
+  "new": "belonging to the tongue's domain",
+  "why": "reviewer (minor): vaiṣayika is an adjective agreeing with bhāvam ('pertaining to the domain'), not the noun 'domain'"
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "\"Taste is one alone,\" said Bhadrakāpya, \"the entity which the skilled call one of the five sense-objects, the domain of the tongue; and that, again, is not other than water.\"",
+  "new": "\"Taste is one alone,\" said Bhadrakāpya, \"the entity which the skilled call one of the five sense-objects, belonging to the domain of the tongue; and that, again, is not other than water.\"",
+  "why": "reviewer (minor): same: adjective of bhāvam"
+ },
+ {
+  "n": "P1",
+  "field": "notes",
+  "old": "The verb 'said' is understood from uvāca of unit 8. chedanīya and upaśamanīya have the form of gerundives (kṛtya) but are used in an active sense ('that cuts', 'that pacifies'); 'cutting' is the literal rendering of chedana (depletion).",
+  "new": "The verb 'said' is understood from uvāca of unit 8. chedanīya and upaśamanīya have the form of gerundives (kṛtya) but are used in an active sense ('that cuts', 'that pacifies'); 'cutting' is the literal rendering of chedana.",
+  "why": "reviewer (minor): '(depletion)' is an interpretation not given in the chunk"
+ },
+ {
+  "n": "P8",
+  "field": "word.gloss",
+  "word": "anurase",
+  "old": "that is a subsidiary taste",
+  "new": "in the subsidiary taste",
+  "why": "reviewer (error): anurasa is masculine; 'a substance that is a subsidiary taste' makes no sense. Read anurase as the noun 'in the subsidiary taste' (m. loc. sg.), a third locus beside prakṛtau and dravye"
+ },
+ {
+  "n": "P8",
+  "field": "word.gram",
+  "word": "anurase",
+  "old": "n. loc. sg.",
+  "new": "m. loc. sg.",
+  "why": "reviewer (error): gender: anurasa is m."
+ },
+ {
+  "n": "P8",
+  "field": "english",
+  "old": "Of these six tastes the source is water. Cutting and pacifying are the two actions; from the mixing of the two comes commonness (sādhāraṇatva). Palatability and unpalatability are (a matter of) liking (bhakti); wholesome and unwholesome are the effects (prabhāva). The substrata (āśraya), however, are modifications of the five great elements, dependent on nature, modification, vicāra, place and time. In these substrata, called substances (dravya), are the qualities (guṇa) heavy, light, cold, hot, unctuous, dry and the rest. Alkali (kṣāra) is so called from wearing away (kṣaraṇa); it is not a taste: it is a substance, produced from many tastes, having many tastes, mostly pungent and salty, accompanied by many sense-objects, produced by a process (karaṇa). Unmanifestness of the tastes, however, occurs in their source (prakṛti), or in a substance that is a subsidiary taste (anurasa) or is accompanied by a subsidiary taste. Again, countlessness (of the tastes) because the particulars of those entities, the substrata and the rest, are countless is not proper: for each one of these entities, the substrata and the rest, takes on particulars, since particulars are countless, and otherness (of taste) does not follow from that, because they are for the most part combined with one another; nor does countlessness arise, from their production, for these (tastes) whose nature is qualities. Therefore the intelligent do not teach the action of combined tastes.",
+  "new": "Of these six tastes the source is water. Cutting and pacifying are the two actions; from the mixing of the two comes commonness (sādhāraṇatva). Palatability and unpalatability are (a matter of) liking (bhakti); wholesome and unwholesome are the effects (prabhāva). The substrata (āśraya), however, are modifications of the five great elements, dependent on nature, modification, vicāra, place and time. In these substrata, called substances (dravya), are the qualities (guṇa) heavy, light, cold, hot, unctuous, dry and the rest. Alkali (kṣāra) is so called from wearing away (kṣaraṇa); it is not a taste: it is a substance, produced from many tastes, having many tastes, mostly pungent and salty, accompanied by many sense-objects, produced by a process (karaṇa). Unmanifestness of the tastes, however, occurs in their source (prakṛti), in the subsidiary taste (anurasa), or in a substance accompanied by a subsidiary taste. Again, countlessness (of the tastes) because the particulars of those entities, the substrata and the rest, are countless is not proper: for each one of these entities, the substrata and the rest, takes on particulars, since particulars are countless, and otherness (of taste) does not follow from that, because they are for the most part combined with one another; nor does countlessness arise, from their production, for these (tastes) whose nature is qualities. Therefore the intelligent do not teach the action of combined tastes.",
+  "why": "reviewer (error): nonsense rendering of anurase"
+ },
+ {
+  "n": "P8",
+  "field": "hindi",
+  "old": "उन छह रसों की योनि जल है। छेदन और उपशमन, ये दो कर्म हैं; उन दोनों के मिश्रण से साधारणता होती है। स्वादुता और अस्वादुता रुचि है; हित और अहित प्रभाव हैं। आश्रय तो पाँच महाभूतों के विकार हैं, जो प्रकृति, विकृति, विचार, देश और काल के अधीन हैं। द्रव्य नाम वाले उन आश्रयों में गुरु, लघु, शीत, उष्ण, स्निग्ध, रूक्ष आदि गुण होते हैं। क्षरण के कारण क्षार (कहलाता है); वह रस नहीं है; वह द्रव्य है, जो अनेक रसों से उत्पन्न, अनेक रसों वाला, अधिकतर कटु और लवण, अनेक इन्द्रियार्थों से युक्त और करण से निर्मित है। रसों की अव्यक्तता तो प्रकृति में, अथवा अनुरस रूप या अनुरस से युक्त द्रव्य में होती है। फिर, उन आश्रय आदि भावों के विशेषों के असंख्येय होने के कारण (रसों की) असंख्येयता ठीक नहीं है; क्योंकि इन आश्रय आदि भावों में से एक-एक भी विशेषों को ग्रहण करता है, क्योंकि विशेष असंख्येय हैं, और उससे (रस का) अन्यत्व सिद्ध नहीं होता, क्योंकि ये अधिकतर परस्पर संसृष्ट रहते हैं; और उत्पत्ति के कारण इन गुणप्रकृति वालों की असंख्येयता नहीं होती। इसलिए बुद्धिमान् संसृष्ट रसों का कर्म नहीं बताते।",
+  "new": "उन छह रसों की योनि जल है। छेदन और उपशमन, ये दो कर्म हैं; उन दोनों के मिश्रण से साधारणता होती है। स्वादुता और अस्वादुता रुचि है; हित और अहित प्रभाव हैं। आश्रय तो पाँच महाभूतों के विकार हैं, जो प्रकृति, विकृति, विचार, देश और काल के अधीन हैं। द्रव्य नाम वाले उन आश्रयों में गुरु, लघु, शीत, उष्ण, स्निग्ध, रूक्ष आदि गुण होते हैं। क्षरण के कारण क्षार (कहलाता है); वह रस नहीं है; वह द्रव्य है, जो अनेक रसों से उत्पन्न, अनेक रसों वाला, अधिकतर कटु और लवण, अनेक इन्द्रियार्थों से युक्त और करण से निर्मित है। रसों की अव्यक्तता तो प्रकृति में, अनुरस में, अथवा अनुरस से युक्त द्रव्य में होती है। फिर, उन आश्रय आदि भावों के विशेषों के असंख्येय होने के कारण (रसों की) असंख्येयता ठीक नहीं है; क्योंकि इन आश्रय आदि भावों में से एक-एक भी विशेषों को ग्रहण करता है, क्योंकि विशेष असंख्येय हैं, और उससे (रस का) अन्यत्व सिद्ध नहीं होता, क्योंकि ये अधिकतर परस्पर संसृष्ट रहते हैं; और उत्पत्ति के कारण इन गुणप्रकृति वालों की असंख्येयता नहीं होती। इसलिए बुद्धिमान् संसृष्ट रसों का कर्म नहीं बताते।",
+  "why": "reviewer (error): same as English"
+ },
+ {
+  "n": "P8",
+  "field": "notes",
+  "old": "The unit answers the views of units 8 and P1 to P7 point by point (water, cutting/pacifying, commonness, palatability, wholesomeness, the five elements, the qualities, kṣāra, avyakta, countlessness). vicāra in prakṛtivikṛtivicāra- is kept in Sanskrit: its sense here (consideration, combination or processing) is not certain from the chunk. prakṛti 'source' may refer to the source water named at the start of the unit or to the original state; anurase may mean 'in (a substance where the taste is only) subsidiary'. The attachment of parasparasaṃsṛṣṭabhūyiṣṭhatvāt is ambiguous: it is taken as the reason for 'otherness does not follow'; it can also be read as the reason for the following clause. guṇaprakṛtīnām is taken as a bahuvrīhi 'whose nature is qualities' agreeing with eṣām (the tastes); a reading 'of the qualities and natures' is possible, so this clause is uncertain. karaṇa 'process' = preparation by a procedure; the ';' attached to karaṇābhinirvṛttam is left out of the split.",
+  "new": "The unit answers the views of units 8 and P1 to P7 point by point (water, cutting/pacifying, commonness, palatability, wholesomeness, the five elements, the qualities, kṣāra, avyakta, countlessness). vicāra in prakṛtivikṛtivicāra- is kept in Sanskrit: its sense here (consideration, combination or processing) is not certain from the chunk. prakṛti 'source' may refer to the source water named at the start of the unit or to the original state; anurase may mean 'in (a substance where the taste is only) subsidiary'. The attachment of parasparasaṃsṛṣṭabhūyiṣṭhatvāt is ambiguous: it is taken as the reason for 'otherness does not follow'; it can also be read as the reason for the following clause. guṇaprakṛtīnām is taken as a bahuvrīhi 'whose nature is qualities' agreeing with eṣām (the tastes); a reading 'of the qualities and natures' is possible, so this clause is uncertain. karaṇa 'process' = preparation by a procedure; the ';' attached to karaṇābhinirvṛttam is left out of the split. Review: anurase is read as the noun 'in the subsidiary taste' (m. loc. sg.), a third locus beside prakṛtau and dravye; an adjective of dravye ('a substance of subsidiary taste') remains possible. ekaikaḥ may also be each single taste, with eṣām āśrayādīnāṃ bhāvānām depending on viśeṣān ('each taste takes on the particulars of these entities'). text_flags viśeṣāparisaṃkhyeyeatva → -saṃkhyeyatva and veśeṣān → viśeṣān accepted (non-words; correct forms printed in the same unit).",
+  "why": "reviewer (minor): the subject ekaikaḥ may be each taste (rasa, m.), with eṣām ... bhāvānām depending on viśeṣān ('each single taste takes on the particulars of these entities'); the draft's partitive reading is kept but the alternative should be recorded"
+ },
+ {
+  "n": "P10",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "sarvā",
+    "suggest": "sarvaṃ",
+    "why": "sarvā (f.) does not agree with dravyaṃ (n.); sarvaṃ dravyaṃ gives the agreement the sentence needs"
+   },
+   {
+    "src": "taccetanāvadacenaṃ",
+    "suggest": "taccetanāvadacetanaṃ",
+    "why": "'acenam' is not a word; acetanam (insentient) is the counterpart of cetanāvat in the same phrase (cetanāvad ... ca)"
+   },
+   {
+    "src": "dravyāntāḥ",
+    "suggest": "dravāntāḥ",
+    "why": "possible: qualities 'ending with dravya (substance)' gives no sense, since a substance is not a quality; drava (fluid) is a quality, listed among the qualities in unit 11 (dravasnighda...)"
+   }
+  ],
+  "new": [
+   {
+    "src": "sarvā",
+    "suggest": "sarvaṃ",
+    "why": "sarvā (f.) does not agree with dravyaṃ (n.); sarvaṃ dravyaṃ gives the agreement the sentence needs"
+   },
+   {
+    "src": "taccetanāvadacenaṃ",
+    "suggest": "taccetanāvadacetanaṃ",
+    "why": "'acenam' is not a word; acetanam (insentient) is the counterpart of cetanāvat in the same phrase (cetanāvad ... ca)"
+   },
+   {
+    "src": "dravyāntāḥ",
+    "suggest": "dravāntāḥ",
+    "why": "possible: the list gives the qualities (guṇāḥ) of the substance, and this chunk keeps substance and quality apart (unit P8: teṣv āśrayeṣu dravyasaṃjñakeṣu guṇāḥ), so a list of qualities cannot end in dravya; drava (fluid) is a quality in unit 11 (drava... rasaguṇabahulāni)"
+   }
+  ],
+  "why": "reviewer (minor): judged: the 'possible' flag stands (evidence inside the chunk: P8 separates guṇa from dravya; unit 11 lists drava as a guṇa); why sharpened to cite P8"
+ },
+ {
+  "n": "11",
+  "field": "notes",
+  "old": "Prose (typed as 'verse'). upakleda is rendered 'moistening' (the action of the watery substances), distinct from kleda. pāka of fiery substances is kept Sanskrit ('cooking, digestion'). vicāra of airy substances is taken as 'movement' (literally 'moving about'). rūpa, sparśa, śabda, gandha, rasa are the sense-qualities form, touch, sound, smell and taste.",
+  "new": "Prose (typed as 'verse'). upakleda is rendered 'moistening' (the action of the watery substances), distinct from kleda. pāka of fiery substances is kept Sanskrit ('cooking, digestion'). vicāra of airy substances is taken as 'movement' (literally 'moving about'). rūpa, sparśa, śabda, gandha, rasa are the sense-qualities form, touch, sound, smell and taste. Review: upakleda kept as printed (upa-kleda, 'moistening'), not changed to kleda; no flag.",
+  "why": "reviewer (minor): decision: upakleda is a real word (upa-kleda 'moistening'), kept as printed, no flag; English 'moistening (upakleda)', Hindi उपक्लेद; kleda stays 'moistness' per glossary. Flags snighda→snigdha, sgneha→sneha, mārda→mārdava accepted (in-chunk evidence)"
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "But substances are not effective only through the power (prabhāva) of their qualities alone; for what substances do, through the power of the substance, through the power of the qualities, and through the power of substance and qualities, at this or that time, having reached this or that site, with regard to this or that rational planning (yukti) and this or that purpose, that is action (karma); that by which they do it is potency (vīrya); where they do it is the site (adhikaraṇa); when they do it is the time (kāla); how they do it is the means (upāya); what they accomplish is the result (phala).",
+  "new": "But substances are not effective through the power (prabhāva) of their qualities alone; for what substances do, through the power of the substance, through the power of the qualities, and through the power of substance and qualities, at this or that time, having reached this or that site, with regard to this or that rational planning (yukti) and this or that purpose, that is action (karma); that by which they do it is potency (vīrya); where they do it is the site (adhikaraṇa); when they do it is the time (kāla); how they do it is the means (upāya); what they accomplish is the result (phala).",
+  "why": "reviewer (minor): 'only ... alone' doubles one restrictive claim (kevalam ... eva)"
+ },
+ {
+  "n": "13",
+  "field": "notes",
+  "old": "Prose (typed as 'verse'). kevalam and eva are both rendered ('only ... alone'); together they make one restrictive claim. āsādya: absolutive of ā-√sad (causative form 'having reached').",
+  "new": "Prose (typed as 'verse'). kevalam and eva together make one restrictive claim, rendered once ('alone'). āsādya: absolutive of ā-√sad (causative form 'having reached').",
+  "why": "reviewer (minor): follow the English fix"
+ },
+ {
+  "n": "14",
+  "field": "notes",
+  "old": "Prose (typed as 'verse'). eṣām is taken as 'of these (tastes)', the topic of the chapter.",
+  "new": "Prose (typed as 'verse'). eṣām is taken as 'of these (tastes)', the topic of the chapter. Review: eṣām may also be 'of these (substances)' (unit 10 dravyabheda, unit 13 dravyāṇi, unit 22 triṣaṣṭir dravyāṇām).",
+  "why": "reviewer (minor): eṣām may equally be 'of these (substances)': unit 10 announces dravyabheda, unit 13 has dravyāṇi as subject, unit 22 says triṣaṣṭir dravyāṇām. Reading kept, alternative recorded"
+ },
+ {
+  "n": "17",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "yathāsṃkhyaṃ",
+    "suggest": "yathāsaṃkhyaṃ",
+    "why": "'sṃ' (anusvāra with no vowel) is not possible; yathāsaṃkhyam (in due number) is the word, and the metre needs the vowel a (8 syllables in the first quarter)"
+   }
+  ],
+  "new": [
+   {
+    "src": "yathāsṃkhyaṃ",
+    "suggest": "yathāsaṃkhyaṃ",
+    "why": "'sṃ' (anusvāra with no vowel) is not possible; yathāsaṃkhyam (in due number) is the word; metre: with saṃ the odd pāda tri-ra-sā-ni-ya-thā-saṃ-khyaṃ has 8 syllables and syllables 5-7 ya-thā-saṃ are light-heavy-heavy as an odd anuṣṭubh pāda needs; with sṃ it has 7"
+   }
+  ],
+  "why": "reviewer (minor): metre evidence should name syllable weights (glossary rule)"
+ },
+ {
+  "n": "21",
+  "field": "word.gloss",
+  "word": "yujyate",
+  "old": "are joined",
+  "new": "is joined",
+  "why": "reviewer (minor): gloss 'are joined' contradicts the 3 sg. label"
+ },
+ {
+  "n": "21",
+  "field": "notes",
+  "old": "The singular yujyate has the dual subject lavaṇoṣaṇau; the dual would be yujyete, which the metre would also allow. This is noted, not flagged, since the chunk gives no other evidence. COUNT: 6 + 3 + 1 + 3 + 1 + 1 = 15 four-taste substances (units 18 to 21), as stated in unit 17.",
+  "new": "The singular yujyate has the dual subject lavaṇoṣaṇau; the dual would be yujyete, which the metre would also allow. This is noted, not flagged, since the chunk gives no other evidence. COUNT: 6 + 3 + 1 + 3 + 1 + 1 = 15 four-taste substances (units 18 to 21), as stated in unit 17. Review: singular yujyate kept as printed with no flag; it may treat the four tastes as the one combination formed; metre allows either form. COUNT verified: 6 + 3 + 1 + 3 + 1 + 1 = 15.",
+  "why": "reviewer (minor): judged: the singular is kept as printed, no flag. Metre does not decide (yujyate and yujyete both scan: yu- heavy by position, the pāda stays pathyā), and a singular verb with the whole set (the one four-taste combination) as notional subject is a loose but possible syntax; English keeps the plural sense"
+ },
+ {
+  "n": "28",
+  "field": "english",
+  "old": "The taste of a substance that is manifest in it when dry and at the beginning is perceived as the taste (rasa); the subsidiary taste (anurasa) is the opposite; for there is no seventh taste.",
+  "new": "The taste of a substance, when it is dry and at the beginning, is perceived as manifest; in the reverse case it is the subsidiary taste (anurasa); for there is no seventh taste.",
+  "why": "reviewer (minor): 'perceived as the taste (rasa)' adds a predicate; vyaktaḥ is predicative with lakṣyate ('is perceived as manifest'), viparyayeṇa = 'in the reverse case'"
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "द्रव्य का जो रस सूखी अवस्था में और आरम्भ में व्यक्त होता है, वह रस के रूप में लक्षित होता है; इसके विपरीत अनुरस है; क्योंकि सातवाँ रस नहीं है।",
+  "new": "सूखे द्रव्य का और आरम्भ में द्रव्य का रस व्यक्त लक्षित होता है; इसके विपरीत होने पर अनुरस होता है; क्योंकि सातवाँ रस नहीं है।",
+  "why": "reviewer (minor): same as English"
+ },
+ {
+  "n": "28",
+  "field": "notes",
+  "old": "'at the beginning' (ādau) is taken as the first perception of the taste; 'perceived as the taste' supplies the sense of lakṣyate with rasaḥ. The opposite (viparyayeṇa) is taken as 'not manifest, in the dry state or at the beginning'.",
+  "new": "'at the beginning' (ādau) is taken as the first perception of the taste; vyaktaḥ is taken as predicative with lakṣyate ('is perceived as manifest'). The opposite (viparyayeṇa) is taken as 'not manifest, in the dry state or at the beginning'.",
+  "why": "reviewer (minor): follow the English fix; ādau judged: 'at the beginning' (first perception) kept, it pairs with śuṣkasya as a second condition (ca ... ca)"
+ },
+ {
+  "n": "28",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "rso",
+    "suggest": "raso",
+    "why": "'rso' (r with no vowel before s) is not a word; rasaḥ (taste) fits the sense, and the half-line then has 16 syllables (15 with rso)"
+   }
+  ],
+  "new": [
+   {
+    "src": "rso",
+    "suggest": "raso",
+    "why": "'rso' (r with no vowel before s) is not a word; rasaḥ (taste) fits the sense; metre: with raso the even pāda ra-so-nā-sti-hi-sap-ta-maḥ has 8 syllables and syllables 5-7 hi-sap-ta are light-heavy-light as an even anuṣṭubh pāda needs; with rso it has 7"
+   }
+  ],
+  "why": "reviewer (minor): metre evidence should name syllable weights"
+ }
+]

@@ -1,0 +1,573 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "type",
+     "problem": "MANUAL: unit is prose (a single prose line) but the input types it as 'verse'; the type must be fixed in the unit build, not in this draft.",
+     "fix": "(none in the draft; fix the input type)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "type",
+     "problem": "MANUAL: unit is prose (a single prose line) but the input types it as 'verse'; the type must be fixed in the unit build, not in this draft.",
+     "fix": "(none in the draft; fix the input type)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "type",
+     "problem": "MANUAL: unit is prose (a single prose line) but the input types it as 'verse'; the type must be fixed in the unit build, not in this draft.",
+     "fix": "(none in the draft; fix the input type)",
+     "severity": "minor"
+    },
+    {
+     "field": "gloss",
+     "where": "jihvā-vaiṣayikam",
+     "problem": "vaiṣayika is an adjective agreeing with bhāvam ('pertaining to the domain'), not the noun 'domain'",
+     "fix": "belonging to the tongue's domain",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "jihvā-vaiṣayikam",
+      "field": "gloss",
+      "value": "belonging to the tongue's domain"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the domain of the tongue;",
+     "problem": "same: adjective of bhāvam",
+     "fix": "belonging to the domain of the tongue;",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "english",
+      "old": "the domain of the tongue;",
+      "new": "belonging to the domain of the tongue;"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "chedana (depletion)",
+     "problem": "'(depletion)' is an interpretation not given in the chunk",
+     "fix": "of chedana.",
+     "severity": "minor",
+     "patch": {
+      "n": "P1",
+      "op": "replace",
+      "field": "notes",
+      "old": "of chedana (depletion).",
+      "new": "of chedana."
+     }
+    }
+   ]
+  },
+  {
+   "n": "P2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "type",
+     "problem": "MANUAL: unit is prose (a single prose line) but the input types it as 'verse'; the type must be fixed in the unit build, not in this draft.",
+     "fix": "(none in the draft; fix the input type)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "P8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "anurase",
+     "problem": "anurasa is masculine; 'a substance that is a subsidiary taste' makes no sense. Read anurase as the noun 'in the subsidiary taste' (m. loc. sg.), a third locus beside prakṛtau and dravye",
+     "fix": "gloss 'in the subsidiary taste', gram 'm. loc. sg.'",
+     "severity": "error",
+     "patch": {
+      "n": "P8",
+      "op": "word",
+      "match_w": "anurase",
+      "field": "gloss",
+      "value": "in the subsidiary taste"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "anurase",
+     "problem": "gender: anurasa is m.",
+     "fix": "m. loc. sg.",
+     "severity": "error",
+     "patch": {
+      "n": "P8",
+      "op": "word",
+      "match_w": "anurase",
+      "field": "gram",
+      "value": "m. loc. sg."
+     }
+    },
+    {
+     "field": "english",
+     "where": "or in a substance that is a subsidiary taste (anurasa) or is accompanied by a subsidiary taste.",
+     "problem": "nonsense rendering of anurase",
+     "fix": "in the subsidiary taste (anurasa), or in a substance accompanied by a subsidiary taste.",
+     "severity": "error",
+     "patch": {
+      "n": "P8",
+      "op": "replace",
+      "field": "english",
+      "old": "or in a substance that is a subsidiary taste (anurasa) or is accompanied by a subsidiary taste.",
+      "new": "in the subsidiary taste (anurasa), or in a substance accompanied by a subsidiary taste."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "प्रकृति में, अथवा अनुरस रूप या अनुरस से युक्त द्रव्य में होती है",
+     "problem": "same as English",
+     "fix": "प्रकृति में, अनुरस में, अथवा अनुरस से युक्त द्रव्य में होती है",
+     "severity": "error",
+     "patch": {
+      "n": "P8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रकृति में, अथवा अनुरस रूप या अनुरस से युक्त द्रव्य में होती है",
+      "new": "प्रकृति में, अनुरस में, अथवा अनुरस से युक्त द्रव्य में होती है"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "ekaiko'pi ... viśeṣān āśrayate",
+     "problem": "the subject ekaikaḥ may be each taste (rasa, m.), with eṣām ... bhāvānām depending on viśeṣān ('each single taste takes on the particulars of these entities'); the draft's partitive reading is kept but the alternative should be recorded",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "P8",
+      "op": "append_note",
+      "text": "Review: anurase is read as the noun 'in the subsidiary taste' (m. loc. sg.), a third locus beside prakṛtau and dravye; an adjective of dravye ('a substance of subsidiary taste') remains possible. ekaikaḥ may also be each single taste, with eṣām āśrayādīnāṃ bhāvānām depending on viśeṣān ('each taste takes on the particulars of these entities'). text_flags viśeṣāparisaṃkhyeyeatva → -saṃkhyeyatva and veśeṣān → viśeṣān accepted (non-words; correct forms printed in the same unit)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "P9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "type",
+     "problem": "MANUAL: unit is prose (a single prose line) but the input types it as 'verse'; the type must be fixed in the unit build, not in this draft.",
+     "fix": "(none in the draft; fix the input type)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "P10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "dravyāntāḥ",
+     "problem": "judged: the 'possible' flag stands (evidence inside the chunk: P8 separates guṇa from dravya; unit 11 lists drava as a guṇa); why sharpened to cite P8",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": {
+      "n": "P10",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "sarvā",
+        "suggest": "sarvaṃ",
+        "why": "sarvā (f.) does not agree with dravyaṃ (n.); sarvaṃ dravyaṃ gives the agreement the sentence needs"
+       },
+       {
+        "src": "taccetanāvadacenaṃ",
+        "suggest": "taccetanāvadacetanaṃ",
+        "why": "'acenam' is not a word; acetanam (insentient) is the counterpart of cetanāvat in the same phrase (cetanāvad ... ca)"
+       },
+       {
+        "src": "dravyāntāḥ",
+        "suggest": "dravāntāḥ",
+        "why": "possible: the list gives the qualities (guṇāḥ) of the substance, and this chunk keeps substance and quality apart (unit P8: teṣv āśrayeṣu dravyasaṃjñakeṣu guṇāḥ), so a list of qualities cannot end in dravya; drava (fluid) is a quality in unit 11 (drava... rasaguṇabahulāni)"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "type",
+     "problem": "MANUAL: unit is prose (a single prose line) but the input types it as 'verse'; the type must be fixed in the unit build, not in this draft.",
+     "fix": "(none in the draft; fix the input type)",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "upakleda",
+     "problem": "decision: upakleda is a real word (upa-kleda 'moistening'), kept as printed, no flag; English 'moistening (upakleda)', Hindi उपक्लेद; kleda stays 'moistness' per glossary. Flags snighda→snigdha, sgneha→sneha, mārda→mārdava accepted (in-chunk evidence)",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "append_note",
+      "text": "Review: upakleda kept as printed (upa-kleda, 'moistening'), not changed to kleda; no flag."
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "type",
+     "problem": "MANUAL: unit is prose (a single prose line) but the input types it as 'verse'; the type must be fixed in the unit build, not in this draft.",
+     "fix": "(none in the draft; fix the input type)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "type",
+     "problem": "MANUAL: unit is prose (a single prose line) but the input types it as 'verse'; the type must be fixed in the unit build, not in this draft.",
+     "fix": "(none in the draft; fix the input type)",
+     "severity": "minor"
+    },
+    {
+     "field": "english",
+     "where": "not effective only through the power (prabhāva) of their qualities alone;",
+     "problem": "'only ... alone' doubles one restrictive claim (kevalam ... eva)",
+     "fix": "not effective through the power (prabhāva) of their qualities alone;",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "english",
+      "old": "not effective only through the power (prabhāva) of their qualities alone;",
+      "new": "not effective through the power (prabhāva) of their qualities alone;"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "kevalam and eva are both rendered ('only ... alone'); together they make one restrictive claim.",
+     "problem": "follow the English fix",
+     "fix": "kevalam and eva together make one restrictive claim, rendered once ('alone').",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "notes",
+      "old": "kevalam and eva are both rendered ('only ... alone'); together they make one restrictive claim.",
+      "new": "kevalam and eva together make one restrictive claim, rendered once ('alone')."
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "type",
+     "problem": "MANUAL: unit is prose (a single prose line) but the input types it as 'verse'; the type must be fixed in the unit build, not in this draft.",
+     "fix": "(none in the draft; fix the input type)",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "eṣām",
+     "problem": "eṣām may equally be 'of these (substances)': unit 10 announces dravyabheda, unit 13 has dravyāṇi as subject, unit 22 says triṣaṣṭir dravyāṇām. Reading kept, alternative recorded",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "append_note",
+      "text": "Review: eṣām may also be 'of these (substances)' (unit 10 dravyabheda, unit 13 dravyāṇi, unit 22 triṣaṣṭir dravyāṇām)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "yathāsṃkhyaṃ",
+     "problem": "metre evidence should name syllable weights (glossary rule)",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "yathāsṃkhyaṃ",
+        "suggest": "yathāsaṃkhyaṃ",
+        "why": "'sṃ' (anusvāra with no vowel) is not possible; yathāsaṃkhyam (in due number) is the word; metre: with saṃ the odd pāda tri-ra-sā-ni-ya-thā-saṃ-khyaṃ has 8 syllables and syllables 5-7 ya-thā-saṃ are light-heavy-heavy as an odd anuṣṭubh pāda needs; with sṃ it has 7"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "yujyate",
+     "problem": "gloss 'are joined' contradicts the 3 sg. label",
+     "fix": "is joined",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "word",
+      "match_w": "yujyate",
+      "field": "gloss",
+      "value": "is joined"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "yujyate",
+     "problem": "judged: the singular is kept as printed, no flag. Metre does not decide (yujyate and yujyete both scan: yu- heavy by position, the pāda stays pathyā), and a singular verb with the whole set (the one four-taste combination) as notional subject is a loose but possible syntax; English keeps the plural sense",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "append_note",
+      "text": "Review: singular yujyate kept as printed with no flag; it may treat the four tastes as the one combination formed; metre allows either form. COUNT verified: 6 + 3 + 1 + 3 + 1 + 1 = 15."
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "is perceived as the taste (rasa)",
+     "problem": "'perceived as the taste (rasa)' adds a predicate; vyaktaḥ is predicative with lakṣyate ('is perceived as manifest'), viparyayeṇa = 'in the reverse case'",
+     "fix": "The taste of a substance, when it is dry and at the beginning, is perceived as manifest; in the reverse case it is the subsidiary taste (anurasa); for there is no seventh taste.",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "set",
+      "field": "english",
+      "value": "The taste of a substance, when it is dry and at the beginning, is perceived as manifest; in the reverse case it is the subsidiary taste (anurasa); for there is no seventh taste."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वह रस के रूप में लक्षित होता है",
+     "problem": "same as English",
+     "fix": "सूखे द्रव्य का और आरम्भ में द्रव्य का रस व्यक्त लक्षित होता है; इसके विपरीत होने पर अनुरस होता है; क्योंकि सातवाँ रस नहीं है।",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "set",
+      "field": "hindi",
+      "value": "सूखे द्रव्य का और आरम्भ में द्रव्य का रस व्यक्त लक्षित होता है; इसके विपरीत होने पर अनुरस होता है; क्योंकि सातवाँ रस नहीं है।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "'perceived as the taste' supplies the sense of lakṣyate with rasaḥ.",
+     "problem": "follow the English fix; ādau judged: 'at the beginning' (first perception) kept, it pairs with śuṣkasya as a second condition (ca ... ca)",
+     "fix": "vyaktaḥ is taken as predicative with lakṣyate ('is perceived as manifest').",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "notes",
+      "old": "'perceived as the taste' supplies the sense of lakṣyate with rasaḥ.",
+      "new": "vyaktaḥ is taken as predicative with lakṣyate ('is perceived as manifest')."
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "rso",
+     "problem": "metre evidence should name syllable weights",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "rso",
+        "suggest": "raso",
+        "why": "'rso' (r with no vowel before s) is not a word; rasaḥ (taste) fits the sense; metre: with raso the even pāda ra-so-nā-sti-hi-sap-ta-maḥ has 8 syllables and syllables 5-7 hi-sap-ta are light-heavy-light as an even anuṣṭubh pāda needs; with rso it has 7"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Independent review of Sū 26 chunk 1 (39 units). Checker: 0 errors, 3 benign warnings. Issues: 4 error, 25 minor (9 of the minor are MANUAL type notes: units 1, 2, 8-14 are prose typed as 'verse'; no patch). text_flags: 14 entries (15 corrections, unit 11 entry covers sgneha and mārda); all kept: each has a non-word or agreement reason with evidence inside the chunk; P10 dravyāntāḥ→dravāntāḥ kept as 'possible' with sharper evidence (P8 separates guṇa and dravya; unit 11 lists drava as a guṇa); metre 'why' of units 17, 28 now names syllable weights. COUNT notes verified: 2-taste 15 (5+4+3+2+1), 3-taste 20 (10+6+3+1), 4-taste 15 (6+3+1+3+1+1), 5-taste 6, 1-taste 6, 6-taste 1: total 63; combinations of two or more = 57. Judgments: unit 21 singular yujyate kept, no flag; unit 11 upakleda kept as printed ('moistening'), not kleda; P8 readings viśeṣāparisaṃkhyeyatva and viśeṣān accepted, anurase re-read as the noun (error fix); unit 28 ādau 'at the beginning' kept, English/Hindi made literal. No notes citing commentators, other editions or memory were found. No regrouping suggested."
+}

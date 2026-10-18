@@ -1,0 +1,496 @@
+{
+ "units": [
+  {
+   "n": "P29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "eraṇḍa = Ricinus communis (standard)",
+     "problem": "POLICY (minimal identifications): the translation already says 'castor'; the botanical name adds nothing the verse needs.",
+     "fix": "drop the sentence",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": " eraṇḍa = Ricinus communis (standard).",
+      "new": "",
+      "n": "P29"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "pippalī = Piper longum (standard); kākamācī = Solanum nigrum (standard).",
+     "problem": "POLICY: keep only standard identifications that help (pippalī is on the glossary list); kākamācī stays Sanskrit without an identification.",
+     "fix": "pippalī = Piper longum (standard).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "pippalī = Piper longum (standard); kākamācī = Solanum nigrum (standard).",
+      "new": "pippalī = Piper longum (standard).",
+      "n": "P31"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "Identifications: puṣkara ... (probable); bhallātaka ...; kampillaka ... (probable); kākamācī ...",
+     "problem": "POLICY: 'probable' identifications (puṣkara, kampillaka) are dropped; bhallātaka and kākamācī stay Sanskrit, an identification is not needed for the verse.",
+     "fix": "remove the Identifications sentence",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": " Identifications: puṣkara = lotus, Nelumbo nucifera (probable); bhallātaka = Semecarpus anacardium (standard); kampillaka = Mallotus philippensis (probable); kākamācī = Solanum nigrum (standard).",
+      "new": "",
+      "n": "P33"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अङ्गारों पर सलाख में भुना भास",
+     "problem": "A spit-roasted thing is roasted on (पर) a spit, not in it.",
+     "fix": "अङ्गारों पर सलाख पर भुना भास",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सलाख में भुना",
+      "new": "सलाख पर भुना",
+      "n": "P33"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "85",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kiñcit",
+     "problem": "In 'yat kiñcit ... āhārajātam' kiñcit is the indefinite pronoun agreeing with the neuter noun, not an indeclinable.",
+     "fix": "n. nom. sg. (indef., with yat)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kiñcit",
+      "field": "gram",
+      "value": "n. nom. sg. (indef., with yat)",
+      "n": "85"
+     }
+    }
+   ]
+  },
+  {
+   "n": "86",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वात आदि से",
+     "problem": "GLOSSARY: anila (doṣa) = Vāta (anila), Hindi अनिल (printed word kept).",
+     "fix": "अनिल आदि से",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सात्म्य, वात आदि से",
+      "new": "सात्म्य, अनिल आदि से",
+      "n": "86"
+     }
+    }
+   ]
+  },
+  {
+   "n": "87",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "88",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "tīkṣaṇa -> tīkṣṇa",
+     "problem": "Accepted (no word tīkṣaṇa; count 9 -> 8). Per the glossary metre rule, name the weights: with tīkṣṇādi the even pāda is rū kṣa tīk ṣṇā di dhan va ni, syllables 5-7 di dhan va = ⏑ – ⏑ as required.",
+     "fix": "append the weights to why",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "text_flags.0.why",
+      "value": "tīkṣaṇa is not a word (tīkṣṇa 'sharp'); with tīkṣaṇa the pāda has 9 syllables, with tīkṣṇa the required 8 (rū kṣa tīk ṣṇā di dhan va ni: syllables 5-7 di dhan va = ⏑ – ⏑, as an even pāda requires)",
+      "n": "88"
+     }
+    }
+   ]
+  },
+  {
+   "n": "89",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "90",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "91",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "और वात आदि से विरुद्ध",
+     "problem": "GLOSSARY: anila in Hindi = अनिल.",
+     "fix": "और अनिल आदि से विरुद्ध",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "और वात आदि से विरुद्ध",
+      "new": "और अनिल आदि से विरुद्ध",
+      "n": "91"
+     }
+    }
+   ]
+  },
+  {
+   "n": "92",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "(as theirs)",
+     "problem": "'theirs' is ambiguous (it can be read as the food's own qualities); the compound continues 91b 'viruddhaṃ tv anilādibhiḥ', so the referent is Vāta and the rest. The draft's reading of the compound is defensible and its alternative is rightly in notes; medium confidence is honest.",
+     "fix": "(as Vāta and the rest)",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "(as theirs)",
+       "new": "(as Vāta and the rest)",
+       "n": "92"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "जो समान गुणों के अभ्यास",
+       "new": "जो (अनिल आदि के) समान गुणों के अभ्यास",
+       "n": "92"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "93",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "94",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "95",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "96",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "for one given to fatigue",
+     "problem": "śrama here is an activity one is 'sakta' (devoted) to, beside vyavāya and vyāyāma: exertion, not the symptom fatigue; 'given to fatigue' misleads.",
+     "fix": "for one engaged in exertion (śrama)",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "for one given to fatigue,",
+       "new": "for one engaged in exertion (śrama),",
+       "n": "96"
+      },
+      {
+       "op": "word",
+       "match_w": "śrama-vyavāya-vyāyāma-saktasya",
+       "field": "gloss",
+       "value": "for one engaged in exertion, sexual intercourse and exercise",
+       "n": "96"
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "वात को कुपित करने वाला / कफ को कुपित करने वाला",
+     "problem": "GLOSSARY: anila in Hindi = अनिल, śleṣman in Hindi = श्लेष्मा (printed words kept).",
+     "fix": "अनिल को कुपित करने वाला ... श्लेष्मा को कुपित करने वाला",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "वात को कुपित",
+       "new": "अनिल को कुपित",
+       "n": "96"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "कफ को कुपित",
+       "new": "श्लेष्मा को कुपित",
+       "n": "96"
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "may also be divided nidrā-ālasya (sleep and lethargy) + alasasya",
+     "problem": "Impossible split: nidrā-ālasya + alasasya would be printed nidrālasyālasasya; the printed nidrālasasya-alasasya allows only nidrā-alasa. The draft's own reading is right.",
+     "fix": "replace the alternative",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "nidrālasasyālasasya may also be divided nidrā-ālasya (sleep and lethargy) + alasasya, or read as two genitives of one person; the sense is the same.",
+      "new": "nidrālasasya and alasasya are taken as two genitives describing one person.",
+      "n": "96"
+     }
+    }
+   ]
+  },
+  {
+   "n": "97",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "and (so is) what (is eaten by one) under the sway of excessive hunger",
+     "problem": "yat here is the conjunction 'when' as in 97a (yac cānutsṛjya ... bhuṅkte), not an object 'what is eaten'; the eater is ...anugaḥ (m.).",
+     "fix": "and (so is it) when one (eats) under the sway of excessive hunger",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "and (so is) what (is eaten by one) under the sway of excessive hunger.",
+      "new": "and (so is it) when one (eats) under the sway of excessive hunger.",
+      "n": "97"
+     }
+    }
+   ]
+  },
+  {
+   "n": "98",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "99",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "100",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "101",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "102",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "fainting (mūrcchā), intoxication (mada)",
+     "problem": "GLOSSARY (Sū 24): English keeps mūrcchā/mada as the running word, the English sense in brackets.",
+     "fix": "mūrcchā (fainting), mada (intoxication)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "fainting (mūrcchā), intoxication (mada)",
+      "new": "mūrcchā (fainting), mada (intoxication)",
+      "n": "102"
+     }
+    }
+   ]
+  },
+  {
+   "n": "103",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "104",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "unit type",
+     "problem": "MANUAL: the input types 104 as a verse (lines 104a/104b) but it is prose (no metre; ends with iti, like P29-P34). The draft's note says so; the unit type/line ids in the input need a person's decision. No change to text/ or the draft.",
+     "fix": "MANUAL: retype 01.26.104a-b as prose (P-numbered) in the unit build, if the edition's numbering allows",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "105",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "vivecana = purgation",
+     "problem": "Accepted; strengthen the in-chunk evidence: 104 lists the same measures as vamana, virecana, saṃśamana and prior conditioning, so vivecana here stands for virecana.",
+     "fix": "append the parallel",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "The parallel list in 104 (vamana, virecana, saṃśamana, prior conditioning) supports vivecana = virecana.",
+      "n": "105"
+     }
+    }
+   ]
+  },
+  {
+   "n": "106",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "snigdha-vyāyāma-balinām: 'dvandva'",
+     "problem": "vyāyāma is a noun ('exercise'), so a plain dvandva 'unctuous, exercised and strong' is loose; the compound ends in balin and is as well read as 'strong through unction and exercise' (the draft's notes alternative). Translation acceptable; label the analysis honestly.",
+     "fix": "m. gen. pl., compound in -balin (dvandva of qualities, or tat-puruṣa 'strong through unction and exercise'; see notes)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "snigdha-vyāyāma-balinām",
+      "field": "gram",
+      "value": "m. gen. pl., compound in -balin (dvandva of qualities, or tat-puruṣa 'strong through unction and exercise'; see notes)",
+      "n": "106"
+     }
+    }
+   ]
+  },
+  {
+   "n": "107",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "guṇakramabhyāṃ: 'the metre is unchanged'",
+     "problem": "Accepted on grammar (krama + bhyām = kramābhyām) and the chunk parallel (guṇakarmaṇi, 110). But the metre is not 'unchanged': the count stays 8, the weights change. Printed: dra vyā ṇi gu ṇa kra ma bhyāṃ, syllables 5-7 ṇa kra ma = – ⏑ –; with karmabhyāṃ: ṇa kar ma = ⏑ – –, the normal (pathyā) odd-pāda pattern. This supports the correction.",
+     "fix": "rewrite why",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "text_flags.0.why",
+      "value": "krama + bhyām would give kramābhyām, so the printed form is not grammatical; guṇakarman (quality and action) appears in 110 of this chunk (guṇakarmaṇi); metre: printed syllables 5-7 ṇa kra ma = – ⏑ –, with karmabhyāṃ ṇa kar ma = ⏑ – –, the normal odd-pāda pattern (8 syllables either way)",
+      "n": "107"
+     }
+    }
+   ]
+  },
+  {
+   "n": "108",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "109",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "110",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "111",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "gaurvādiṣu -> gauravādiṣu",
+     "problem": "Accepted (count 7 -> 8 verified). Add weights: ra sā nāṃ gau ra vā di ṣu, syllables 5-7 ra vā di = ⏑ – ⏑ as an even pāda requires.",
+     "fix": "append the weights to why",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "text_flags.0.why",
+      "value": "gaurva is not a word (gaurava 'heaviness'); with gaurva the pāda has 7 syllables, with gaurava the required 8 (ra sā nāṃ gau ra vā di ṣu: syllables 5-7 ra vā di = ⏑ – ⏑, as an even pāda requires)",
+      "n": "111"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the sign of vipāka (pāka, post-digestive taste)",
+     "problem": "The text prints pāka; the running word should be the printed one, with vipāka as the gloss (Hindi already has पाक).",
+     "fix": "the sign of pāka (vipāka, post-digestive taste)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the sign of vipāka (pāka, post-digestive taste)",
+      "new": "the sign of pāka (vipāka, post-digestive taste)",
+      "n": "111"
+     }
+    }
+   ]
+  },
+  {
+   "n": "112",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "113",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P35",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Chunk 4 (Sū 26, P29-P35, 85-113): 16 of 36 units need fixes; 1 error, 19 minor; 1 MANUAL item (104 prose typed as verse). No regrouping. All 7 text_flags accepted: each has grammar or in-chunk evidence (P29 ṇd->ṇḍ, P34 -āṃ/ṣt, 88 tīkṣaṇa, 99 dagdhā (possible, neuter yat/viruddham), 107 guṇakramabhyāṃ, 111 gaurvādiṣu, 113 vyāhīnām vs 104); syllable counts for 88 and 111 verified and weights added; 107's 'metre unchanged' corrected. Plant identifications cut to pippalī only (POLICY). Judged acceptable as drafted: sīsaka kept Sanskrit (meaning uncertain, noted), nistālana 'frying' (uncertain, noted), upacāra 'manner of use' with 98b as its likely example, 92a compound (alternative in notes, medium), 106 vitatha 'ineffective'. No notes cite commentators or other editions."
+}
