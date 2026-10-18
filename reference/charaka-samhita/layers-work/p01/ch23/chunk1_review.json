@@ -1,0 +1,1266 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "saṃtarpaṇīyam",
+     "problem": "Glossary (Sū 21): saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; draft uses 'repletion'/'nourishing'.",
+     "fix": "on replenishing (Saṃtarpaṇīya)",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "saṃtarpaṇīyam",
+      "field": "gloss",
+      "value": "on replenishing (Saṃtarpaṇīya)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "chapter on repletion (Saṃtarpaṇīya)",
+     "problem": "Glossary (Sū 21): saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; draft uses 'repletion'/'nourishing'.",
+     "fix": "chapter on replenishing (Saṃtarpaṇīya)",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "english",
+      "old": "chapter on repletion (Saṃtarpaṇīya)",
+      "new": "chapter on replenishing (Saṃtarpaṇīya)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "Glossary spelling: Hindi सन्तर्पण (not संतर्पण). ataḥ = 'therefore': इसलिए, as in the Sū 22 opening ('अब इसलिए'), not 'इसके बाद'.",
+     "fix": "अब इसलिए हम सन्तर्पणीय अध्याय की व्याख्या करेंगे।",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "set",
+      "field": "hindi",
+      "value": "अब इसलिए हम सन्तर्पणीय अध्याय की व्याख्या करेंगे।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "saṃtarpayati",
+     "problem": "Glossary (Sū 21): saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; draft uses 'repletion'/'nourishing'.",
+     "fix": "replenishes (himself)",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "saṃtarpayati",
+      "field": "gloss",
+      "value": "replenishes (himself)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "One who nourishes himself",
+     "problem": "Glossary (Sū 21): saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; draft uses 'repletion'/'nourishing'.",
+     "fix": "One who replenishes himself",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "One who nourishes himself",
+      "new": "One who replenishes himself"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "संतर्पण",
+     "problem": "Glossary spelling: Hindi सन्तर्पण (not संतर्पण).",
+     "fix": "जो व्यक्ति स्निग्ध, मधुर, गुरु और पिच्छिल (पदार्थों) से, नए अन्न और नए मद्य से, तथा आनूप और जलचर (प्राणियों) के मांस से अपना सन्तर्पण करता है,",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "set",
+      "field": "hindi",
+      "value": "जो व्यक्ति स्निग्ध, मधुर, गुरु और पिच्छिल (पदार्थों) से, नए अन्न और नए मद्य से, तथा आनूप और जलचर (प्राणियों) के मांस से अपना सन्तर्पण करता है,"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "संतर्पण",
+     "problem": "Glossary spelling: Hindi सन्तर्पण (not संतर्पण).",
+     "fix": "गोरस, गुड़ से बने अन्नों और आटे से बने पदार्थों से अत्यधिक मात्रा में (सन्तर्पण करता है), जो चेष्टा से द्वेष रखता है और दिन में सोने, शय्या तथा आसन के सुख में रत रहता है,",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "set",
+      "field": "hindi",
+      "value": "गोरस, गुड़ से बने अन्नों और आटे से बने पदार्थों से अत्यधिक मात्रा में (सन्तर्पण करता है), जो चेष्टा से द्वेष रखता है और दिन में सोने, शय्या तथा आसन के सुख में रत रहता है,"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "संतर्पण",
+     "problem": "Glossary spelling: Hindi सन्तर्पण (not संतर्पण).",
+     "fix": "उसमें सन्तर्पण के कारण उत्पन्न होने वाले रोग पैदा होते हैं: प्रमेह, पिडका, कोठ, खुजली, पाण्डुरोग और ज्वर,",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "set",
+      "field": "hindi",
+      "value": "उसमें सन्तर्पण के कारण उत्पन्न होने वाले रोग पैदा होते हैं: प्रमेह, पिडका, कोठ, खुजली, पाण्डुरोग और ज्वर,"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "saṃtarpaṇa-nimitta-jāḥ",
+     "problem": "Glossary (Sū 21): saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; draft uses 'repletion'/'nourishing'.",
+     "fix": "caused by replenishing",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "saṃtarpaṇa-nimitta-jāḥ",
+      "field": "gloss",
+      "value": "caused by replenishing"
+     }
+    },
+    {
+     "field": "english",
+     "where": "caused by repletion (saṃtarpaṇa)",
+     "problem": "Glossary (Sū 21): saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; draft uses 'repletion'/'nourishing'.",
+     "fix": "caused by replenishing (saṃtarpaṇa)",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "english",
+      "old": "caused by repletion (saṃtarpaṇa)",
+      "new": "caused by replenishing (saṃtarpaṇa)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "POLICY (minimal): identifications of āragvadha, nimba, musta not needed for the verse; musta's species is disputed. Dropped.",
+     "fix": "triphalā 'the three fruits' is a group name.",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "set",
+      "field": "notes",
+      "value": "triphalā 'the three fruits' is a group name."
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "संतर्पण",
+     "problem": "Glossary spelling: Hindi सन्तर्पण (not संतर्पण).",
+     "fix": "मात्रा और काल के अनुसार प्रयुक्त उस (क्वाथ) से, उसका निरन्तर सेवन करने वाले के सन्तर्पण से उत्पन्न मेह आदि (रोग) निश्चय ही नष्ट हो जाते हैं।",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "set",
+      "field": "hindi",
+      "value": "मात्रा और काल के अनुसार प्रयुक्त उस (क्वाथ) से, उसका निरन्तर सेवन करने वाले के सन्तर्पण से उत्पन्न मेह आदि (रोग) निश्चय ही नष्ट हो जाते हैं।"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "saṃtarpaṇa-samutthitāḥ",
+     "problem": "Glossary (Sū 21): saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; draft uses 'repletion'/'nourishing'.",
+     "fix": "arising from replenishing",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "word",
+      "match_w": "saṃtarpaṇa-samutthitāḥ",
+      "field": "gloss",
+      "value": "arising from replenishing"
+     }
+    },
+    {
+     "field": "english",
+     "where": "arising from repletion",
+     "problem": "Glossary (Sū 21): saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; draft uses 'repletion'/'nourishing'.",
+     "fix": "arising from replenishing",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "english",
+      "old": "arising from repletion",
+      "new": "arising from replenishing"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "POLICY (minimal): devadāru and khadira identifications not needed (khadira's binomial also changed in modern botany). Dropped; haridrā kept.",
+     "fix": "List of drugs; the sentence continues into unit 13. Identification: haridrā = turmeric, Curcuma longa (standard).",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "set",
+      "field": "notes",
+      "value": "List of drugs; the sentence continues into unit 13. Identification: haridrā = turmeric, Curcuma longa (standard)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "संतर्पण",
+     "problem": "Glossary spelling: Hindi सन्तर्पण (not संतर्पण).",
+     "fix": "इनका रस दोष के अनुसार प्रतिदिन प्रातःकाल पीने वाला मनुष्य सन्तर्पण से उत्पन्न सभी व्याधियों से मुक्त हो जाता है।",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "set",
+      "field": "hindi",
+      "value": "इनका रस दोष के अनुसार प्रतिदिन प्रातःकाल पीने वाला मनुष्य सन्तर्पण से उत्पन्न सभी व्याधियों से मुक्त हो जाता है।"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "saṃtarpaṇa-kṛtaiḥ",
+     "problem": "Glossary (Sū 21): saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; draft uses 'repletion'/'nourishing'.",
+     "fix": "caused by replenishing",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "word",
+      "match_w": "saṃtarpaṇa-kṛtaiḥ",
+      "field": "gloss",
+      "value": "caused by replenishing"
+     }
+    },
+    {
+     "field": "english",
+     "where": "caused by repletion",
+     "problem": "Glossary (Sū 21): saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; draft uses 'repletion'/'nourishing'.",
+     "fix": "caused by replenishing",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "english",
+      "old": "caused by repletion",
+      "new": "caused by replenishing"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "POLICY (minimal): vacā identification dropped; the Ferula species claim dropped (species varies); memory claim that gomedaka 'can name a stone or a drug' removed.",
+     "fix": "kuṣṭha here is a drug, not the disease. gomedaka is left unidentified. krauñca is a bird name, kept. The list continues into unit 16. Identification: hiṅgu = asafoetida (standard).",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "set",
+      "field": "notes",
+      "value": "kuṣṭha here is a drug, not the disease. gomedaka is left unidentified. krauñca is a bird name, kept. The list continues into unit 16. Identification: hiṅgu = asafoetida (standard)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "POLICY (minimal): species/genus claim dropped; common name kept (glossary: kola/badara = jujube).",
+     "fix": "etat sums up the drugs of unit 15. Identification: badara = jujube (standard).",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "set",
+      "field": "notes",
+      "value": "etat sums up the drugs of unit 15. Identification: badara = jujube (standard)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "abhayā, in just the same way of triphalā,",
+     "problem": "Awkward and drops the first ca; supplied word bracketed.",
+     "fix": "abhayā, and in just the same way (by those) of triphalā,",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "english",
+      "old": "abhayā, in just the same way of triphalā,",
+      "new": "abhayā, and in just the same way (by those) of triphalā,"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "'steeped or quenched' is a method from memory, contradicting 'the chunk gives no method'. Removed.",
+     "fix": "krimighna literally 'worm-destroying' is taken as a drug name; the chunk does not say which drug. lohodaka, literally 'metal-water'; the chunk does not say how it is made.",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "set",
+      "field": "notes",
+      "value": "krimighna literally 'worm-destroying' is taken as a drug name; the chunk does not say which drug. lohodaka, literally 'metal-water'; the chunk does not say how it is made."
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "POLICY (minimal): viḍaṅga and śigru identifications not needed. Dropped.",
+     "fix": "List of ingredients; the sentence ends with cūrṇayet in unit 20.",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "set",
+      "field": "notes",
+      "value": "List of ingredients; the sentence ends with cūrṇayet in unit 20."
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "POLICY (minimal): citraka identification not needed (white/red citraka differ). Dropped.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "set",
+      "field": "notes",
+      "value": ""
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "saṃtarpaṇam",
+     "problem": "Glossary (Sū 21): saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; draft uses 'repletion'/'nourishing'.",
+     "fix": "replenishing preparation (saṃtarpaṇa)",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "word",
+      "match_w": "saṃtarpaṇam",
+      "field": "gloss",
+      "value": "replenishing preparation (saṃtarpaṇa)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "one should drink this nourishing drink (saṃtarpaṇa)",
+     "problem": "Glossary (Sū 21): saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; draft uses 'repletion'/'nourishing'. Also 'this' has no word in the Sanskrit, so it goes in brackets.",
+     "fix": "one should drink (this) replenishing preparation (saṃtarpaṇa)",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "english",
+      "old": "one should drink this nourishing drink (saṃtarpaṇa)",
+      "new": "one should drink (this) replenishing preparation (saṃtarpaṇa)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "Glossary spelling: Hindi सन्तर्पण (not संतर्पण). 'इस' is supplied, so bracketed like the English.",
+     "fix": "चूर्ण, तैल, घृत और मधु के भाग मात्रा में बराबर हों; सत्तू का भाग सोलह गुना हो; (इस) सन्तर्पण को पीना चाहिए।",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "set",
+      "field": "hindi",
+      "value": "चूर्ण, तैल, घृत और मधु के भाग मात्रा में बराबर हों; सत्तू का भाग सोलह गुना हो; (इस) सन्तर्पण को पीना चाहिए।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "the diseases of repletion",
+     "problem": "Glossary (Sū 21): saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; draft uses 'repletion'/'nourishing'.",
+     "fix": "the diseases arising from replenishing",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "notes",
+      "old": "the diseases of repletion",
+      "new": "the diseases arising from replenishing"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "संतर्पण",
+     "problem": "Glossary spelling: Hindi सन्तर्पण (not संतर्पण).",
+     "fix": "इसके प्रयोग से सन्तर्पण से उत्पन्न रोग शान्त होते हैं: प्रमेह, मूढवात, कुष्ठ, अर्श, कामला,",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "set",
+      "field": "hindi",
+      "value": "इसके प्रयोग से सन्तर्पण से उत्पन्न रोग शान्त होते हैं: प्रमेह, मूढवात, कुष्ठ, अर्श, कामला,"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "saṃtarpaṇa-utthitāḥ",
+     "problem": "Glossary (Sū 21): saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; draft uses 'repletion'/'nourishing'.",
+     "fix": "arising from replenishing",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "word",
+      "match_w": "saṃtarpaṇa-utthitāḥ",
+      "field": "gloss",
+      "value": "arising from replenishing"
+     }
+    },
+    {
+     "field": "english",
+     "where": "arising from repletion",
+     "problem": "Glossary (Sū 21): saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; draft uses 'repletion'/'nourishing'.",
+     "fix": "arising from replenishing",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "english",
+      "old": "arising from repletion",
+      "new": "arising from replenishing"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dīpyate",
+     "problem": "dīpyate is a class-4 ātmanepada present ('blazes'), not a passive.",
+     "fix": "3 sg. pres. ātm. √dīp (class 4)",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "word",
+      "match_w": "dīpyate",
+      "field": "gram",
+      "value": "3 sg. pres. ātm. √dīp (class 4)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "dīpyate",
+     "problem": "Follows from the gram fix; translation 'is kindled' is acceptable.",
+     "fix": "blazes up",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "word",
+      "match_w": "dīpyate",
+      "field": "gloss",
+      "value": "blazes up"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "संतर्पण",
+     "problem": "Glossary spelling: Hindi सन्तर्पण (not संतर्पण).",
+     "fix": "जो नित्य व्यायाम करता है, (पहले भोजन के) पच जाने पर खाता है, और जौ तथा गेहूँ का भोजन करता है, वह स्थूलता छोड़कर सन्तर्पण से उत्पन्न दोषों से मुक्त हो जाता है।",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "set",
+      "field": "hindi",
+      "value": "जो नित्य व्यायाम करता है, (पहले भोजन के) पच जाने पर खाता है, और जौ तथा गेहूँ का भोजन करता है, वह स्थूलता छोड़कर सन्तर्पण से उत्पन्न दोषों से मुक्त हो जाता है।"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "saṃtarpaṇa-kṛtaiḥ",
+     "problem": "Glossary (Sū 21): saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; draft uses 'repletion'/'nourishing'.",
+     "fix": "caused by replenishing",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "word",
+      "match_w": "saṃtarpaṇa-kṛtaiḥ",
+      "field": "gloss",
+      "value": "caused by replenishing"
+     }
+    },
+    {
+     "field": "english",
+     "where": "caused by repletion",
+     "problem": "Glossary (Sū 21): saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; draft uses 'repletion'/'nourishing'.",
+     "fix": "caused by replenishing",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "replace",
+      "field": "english",
+      "old": "caused by repletion",
+      "new": "caused by replenishing"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "caused by repletion",
+     "problem": "Glossary (Sū 21): saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; draft uses 'repletion'/'nourishing'.",
+     "fix": "caused by replenishing",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "replace",
+      "field": "notes",
+      "old": "caused by repletion",
+      "new": "caused by replenishing"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "text_flags",
+     "problem": "Flag accepted; the 'why' gains the metre evidence (syllable weight, not only count).",
+     "fix": "[{\"src\": \"jīrṇaśī\", \"suggest\": \"jīrṇāśī\", \"why\": \"possible typo: jīrṇa + aśin 'eating (when the food is) digested' gives jīrṇāśī with long ā by sandhi; jīrṇaśī with short a is not a regular form. Metre supports it: in the odd pāda vyāyāmanityo jīrṇaśī syllables 5-7 (tyo jīr ṇa) are long-long-short, not an allowed anuṣṭubh pattern; with ṇā they are long-long-long (ma-vipulā).\"}]",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "jīrṇaśī",
+        "suggest": "jīrṇāśī",
+        "why": "possible typo: jīrṇa + aśin 'eating (when the food is) digested' gives jīrṇāśī with long ā by sandhi; jīrṇaśī with short a is not a regular form. Metre supports it: in the odd pāda vyāyāmanityo jīrṇaśī syllables 5-7 (tyo jīr ṇa) are long-long-short, not an allowed anuṣṭubh pattern; with ṇā they are long-long-long (ma-vipulā)."
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "संतर्पण",
+     "problem": "Glossary spelling: Hindi सन्तर्पण (not संतर्पण).",
+     "fix": "सन्तर्पण से उत्पन्न (रोगों) की औषध अपतर्पण कही गई; अब आगे अपतर्पण से उत्पन्न रोग उनकी औषधों सहित कहे जाएँगे।",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "set",
+      "field": "hindi",
+      "value": "सन्तर्पण से उत्पन्न (रोगों) की औषध अपतर्पण कही गई; अब आगे अपतर्पण से उत्पन्न रोग उनकी औषधों सहित कहे जाएँगे।"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "saṃtarpaṇa-utthānām",
+     "problem": "Glossary (Sū 21): saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; draft uses 'repletion'/'nourishing'.",
+     "fix": "of those arising from replenishing",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "word",
+      "match_w": "saṃtarpaṇa-utthānām",
+      "field": "gloss",
+      "value": "of those arising from replenishing"
+     }
+    },
+    {
+     "field": "english",
+     "where": "arising from repletion",
+     "problem": "Glossary (Sū 21): saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; draft uses 'repletion'/'nourishing'.",
+     "fix": "arising from replenishing (saṃtarpaṇa)",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "english",
+      "old": "arising from repletion",
+      "new": "arising from replenishing (saṃtarpaṇa)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "jaṅghā-ūru-trika-saṃśrayam",
+     "problem": "Glossary: trika = trika (lower back).",
+     "fix": "located in the shanks, thighs and trika (lower back)",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "word",
+      "match_w": "jaṅghā-ūru-trika-saṃśrayam",
+      "field": "gloss",
+      "value": "located in the shanks, thighs and trika (lower back)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "sacral region (trika)",
+     "problem": "Glossary: trika = trika (lower back).",
+     "fix": "trika (lower back)",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "english",
+      "old": "sacral region (trika)",
+      "new": "trika (lower back)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "text_flags",
+     "problem": "Flag accepted as possible: the in-line evidence is 'ye cānye vātajā gadāḥ'; the draft's 'medas gives no sense' is replaced by that concrete argument.",
+     "fix": "[{\"src\": \"parvāsthisandhimedaśca\", \"suggest\": \"parvāsthisandhibhedaśca\", \"why\": \"possible typo (म/भ look alike): as printed -medaḥ 'fat' names a tissue, not a disorder, while the same line goes on 'ye cānye vātajā gadāḥ' ('and the other diseases born of Vāta'), so the item should itself be a Vāta disorder; bheda 'breaking pain' gives that sense. The syllable count is unchanged.\"}]",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "parvāsthisandhimedaśca",
+        "suggest": "parvāsthisandhibhedaśca",
+        "why": "possible typo (म/भ look alike): as printed -medaḥ 'fat' names a tissue, not a disorder, while the same line goes on 'ye cānye vātajā gadāḥ' ('and the other diseases born of Vāta'), so the item should itself be a Vāta disorder; bheda 'breaking pain' gives that sense. The syllable count is unchanged."
+       }
+      ]
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "parva-asthi-sandhi-bhedaḥ",
+     "problem": "'finger-joints' narrows parvan beyond the text (notes already say it can mean any joint).",
+     "fix": "breaking pain in the small joints (parvan), bones and joints",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "word",
+      "match_w": "parva-asthi-sandhi-bhedaḥ",
+      "field": "gloss",
+      "value": "breaking pain in the small joints (parvan), bones and joints"
+     }
+    },
+    {
+     "field": "english",
+     "where": "in the finger-joints",
+     "problem": "'finger-joints' narrows parvan beyond the text.",
+     "fix": "in the small joints (parvan)",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "replace",
+      "field": "english",
+      "old": "in the finger-joints",
+      "new": "in the small joints (parvan)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "संतर्पण",
+     "problem": "Glossary spelling: Hindi सन्तर्पण (not संतर्पण).",
+     "fix": "उनके लिए उसके जानकारों ने फिर सन्तर्पण को औषध बताया है; जो तत्काल समर्थ हो या निरन्तर सेवन से समर्थ हो, वह अभीष्ट है।",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "set",
+      "field": "hindi",
+      "value": "उनके लिए उसके जानकारों ने फिर सन्तर्पण को औषध बताया है; जो तत्काल समर्थ हो या निरन्तर सेवन से समर्थ हो, वह अभीष्ट है।"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "saṃtarpaṇam",
+     "problem": "Glossary (Sū 21): saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; draft uses 'repletion'/'nourishing'.",
+     "fix": "replenishing (saṃtarpaṇa)",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "word",
+      "match_w": "saṃtarpaṇam",
+      "field": "gloss",
+      "value": "replenishing (saṃtarpaṇa)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "declared repletion (saṃtarpaṇa)",
+     "problem": "Glossary (Sū 21): saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; draft uses 'repletion'/'nourishing'.",
+     "fix": "declared replenishing (saṃtarpaṇa)",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "english",
+      "old": "declared repletion (saṃtarpaṇa)",
+      "new": "declared replenishing (saṃtarpaṇa)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "the nourishing measure",
+     "problem": "Glossary (Sū 21): saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; draft uses 'repletion'/'nourishing'.",
+     "fix": "the replenishing measure",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "notes",
+      "old": "the nourishing measure",
+      "new": "the replenishing measure"
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "संतर्पण",
+     "problem": "Glossary spelling: Hindi सन्तर्पण (not संतर्पण).",
+     "fix": "क्योंकि जो सहसा क्षीण हुआ है, वह तर्पण से तुरन्त पुष्ट हो जाता है; किन्तु जो चिरकाल से क्षीण है, वह सन्तर्पण के निरन्तर सेवन के बिना पुष्ट नहीं होता।",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "set",
+      "field": "hindi",
+      "value": "क्योंकि जो सहसा क्षीण हुआ है, वह तर्पण से तुरन्त पुष्ट हो जाता है; किन्तु जो चिरकाल से क्षीण है, वह सन्तर्पण के निरन्तर सेवन के बिना पुष्ट नहीं होता।"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "tarpaṇena",
+     "problem": "Glossary: 'nourishing' is reserved for bṛṃhaṇa; tarpaṇa is kept Sanskrit (here a replenishing preparation).",
+     "fix": "by tarpaṇa (replenishing)",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "word",
+      "match_w": "tarpaṇena",
+      "field": "gloss",
+      "value": "by tarpaṇa (replenishing)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "saṃtarpaṇa-abhyāsāt",
+     "problem": "Glossary (Sū 21): saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; draft uses 'repletion'/'nourishing'.",
+     "fix": "continued replenishing",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "word",
+      "match_w": "saṃtarpaṇa-abhyāsāt",
+      "field": "gloss",
+      "value": "continued replenishing"
+     }
+    },
+    {
+     "field": "english",
+     "where": "english",
+     "problem": "Glossary (Sū 21): saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; draft uses 'repletion'/'nourishing'. Glossary: 'nourishing' is reserved for bṛṃhaṇa; tarpaṇa is kept Sanskrit (here a replenishing preparation).",
+     "fix": "For one wasted suddenly is indeed built up quickly by tarpaṇa (replenishing); but one wasted over a long time does not thrive without continued replenishing (saṃtarpaṇa).",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "set",
+      "field": "english",
+      "value": "For one wasted suddenly is indeed built up quickly by tarpaṇa (replenishing); but one wasted over a long time does not thrive without continued replenishing (saṃtarpaṇa)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "की जानी चाहिए",
+     "problem": "औषध is masculine in Hindi; 'की जानी' does not agree. 'दिया' also matches English 'given'.",
+     "fix": "दिया जाना चाहिए",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "hindi",
+      "old": "की जानी चाहिए",
+      "new": "दिया जाना चाहिए"
+     }
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "tarpaṇāḥ",
+     "problem": "Glossary: 'nourishing' is reserved for bṛṃhaṇa; tarpaṇa is kept Sanskrit (here a replenishing preparation).",
+     "fix": "tarpaṇas (replenishing preparations)",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "word",
+      "match_w": "tarpaṇāḥ",
+      "field": "gloss",
+      "value": "tarpaṇas (replenishing preparations)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "english",
+     "problem": "Glossary: 'nourishing' is reserved for bṛṃhaṇa; tarpaṇa is kept Sanskrit (here a replenishing preparation).",
+     "fix": "Beneficial for him are meat-juices, milks and ghees, baths, enemas (basti), oil massages and those which are tarpaṇas (replenishing preparations).",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "set",
+      "field": "english",
+      "value": "Beneficial for him are meat-juices, milks and ghees, baths, enemas (basti), oil massages and those which are tarpaṇas (replenishing preparations)."
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "text_flags",
+     "problem": "A text_flag needs a concrete correction (glossary, Sū 19); a lost-syllable gap with no restoration goes in notes only.",
+     "fix": "[]",
+     "severity": "error",
+     "patch": {
+      "n": "33",
+      "op": "set",
+      "field": "text_flags",
+      "value": []
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Flag moved to notes.",
+     "fix": "GAP: the second half-line (snānāni bastayo'bhyaṅgās tarpaṇāś ca ye) has 13 syllables against the 16 of the first, and the relative clause 'tarpaṇāś ca ye' is incomplete; some words seem lost. No correction can be made from the chunk; the translation keeps the line as printed.",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "set",
+      "field": "notes",
+      "value": "GAP: the second half-line (snānāni bastayo'bhyaṅgās tarpaṇāś ca ye) has 13 syllables against the 16 of the first, and the relative clause 'tarpaṇāś ca ye' is incomplete; some words seem lost. No correction can be made from the chunk; the translation keeps the line as printed."
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "tarpaṇāḥ",
+     "problem": "Glossary: 'nourishing' is reserved for bṛṃhaṇa; tarpaṇa is kept Sanskrit (here a replenishing preparation).",
+     "fix": "tarpaṇas (replenishing preparations)",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "word",
+      "match_w": "tarpaṇāḥ",
+      "field": "gloss",
+      "value": "tarpaṇas (replenishing preparations)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "beneficial nourishing drinks (tarpaṇa) will be described",
+     "problem": "Glossary: 'nourishing' is reserved for bṛṃhaṇa; tarpaṇa is kept Sanskrit (here a replenishing preparation). 'drinks' is not in the word.",
+     "fix": "beneficial tarpaṇas (replenishing preparations) will be described",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "replace",
+      "field": "english",
+      "old": "beneficial nourishing drinks (tarpaṇa) will be described",
+      "new": "beneficial tarpaṇas (replenishing preparations) will be described"
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "tarpaṇam",
+     "problem": "Glossary: 'nourishing' is reserved for bṛṃhaṇa; tarpaṇa is kept Sanskrit (here a replenishing preparation).",
+     "fix": "tarpaṇa (replenishing preparation)",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "word",
+      "match_w": "tarpaṇam",
+      "field": "gloss",
+      "value": "tarpaṇa (replenishing preparation)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "this nourishing drink (tarpaṇa) one should drink",
+     "problem": "Glossary: 'nourishing' is reserved for bṛṃhaṇa; tarpaṇa is kept Sanskrit (here a replenishing preparation).",
+     "fix": "this tarpaṇa (replenishing preparation) one should drink",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "replace",
+      "field": "english",
+      "old": "this nourishing drink (tarpaṇa) one should drink",
+      "new": "this tarpaṇa (replenishing preparation) one should drink"
+     }
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "tarpaṇam",
+     "problem": "Glossary: 'nourishing' is reserved for bṛṃhaṇa; tarpaṇa is kept Sanskrit (here a replenishing preparation).",
+     "fix": "tarpaṇa (replenishing preparation)",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "word",
+      "match_w": "tarpaṇam",
+      "field": "gloss",
+      "value": "tarpaṇa (replenishing preparation)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "this nourishing drink (tarpaṇa)",
+     "problem": "Glossary: 'nourishing' is reserved for bṛṃhaṇa; tarpaṇa is kept Sanskrit (here a replenishing preparation).",
+     "fix": "this tarpaṇa (replenishing preparation)",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "replace",
+      "field": "english",
+      "old": "this nourishing drink (tarpaṇa)",
+      "new": "this tarpaṇa (replenishing preparation)"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "text_flags",
+     "problem": "Flag accepted as possible; the 'why' drops the memory-sourced definition ('inspissated cane juice') and notes the metre is neutral.",
+     "fix": "[{\"src\": \"phaṇitaṃ\", \"suggest\": \"phāṇitaṃ\", \"why\": \"possible typo (missing ā-sign): phaṇita (ppp. of √phaṇ) is not a substance; phāṇita fits this list of ingredients (saktavaḥ, sarpiḥ, dadhimaṇḍa, amlakāñjika). Metre is unaffected (first syllable).\"}]",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "phaṇitaṃ",
+        "suggest": "phāṇitaṃ",
+        "why": "possible typo (missing ā-sign): phaṇita (ppp. of √phaṇ) is not a substance; phāṇita fits this list of ingredients (saktavaḥ, sarpiḥ, dadhimaṇḍa, amlakāñjika). Metre is unaffected (first syllable)."
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "POLICY (minimal): 'probable' vṛkṣāmla (Garcinia) and amlīka (tamarind) dropped as shaky; parūṣaka binomial dropped (species disputed); binomials for the common fruits dropped as unneeded.",
+     "fix": "Identifications: kharjūra = date (standard); mṛdvīkā = grape (standard); dāḍima = pomegranate (standard); āmalaka = Phyllanthus emblica (standard).",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "set",
+      "field": "notes",
+      "value": "Identifications: kharjūra = date (standard); mṛdvīkā = grape (standard); dāḍima = pomegranate (standard); āmalaka = Phyllanthus emblica (standard)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "saṃtarpaṇaḥ",
+     "problem": "Glossary (Sū 21): saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; draft uses 'repletion'/'nourishing'.",
+     "fix": "replenishing (saṃtarpaṇa)",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "word",
+      "match_w": "saṃtarpaṇaḥ",
+      "field": "gloss",
+      "value": "replenishing (saṃtarpaṇa)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "at once nourishing (saṃtarpaṇa)",
+     "problem": "Glossary (Sū 21): saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; draft uses 'repletion'/'nourishing'.",
+     "fix": "at once replenishing (saṃtarpaṇa)",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "replace",
+      "field": "english",
+      "old": "at once nourishing (saṃtarpaṇa)",
+      "new": "at once replenishing (saṃtarpaṇa)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "संतर्पण",
+     "problem": "Glossary spelling: Hindi सन्तर्पण (not संतर्पण).",
+     "fix": "मधुर या अम्ल, जल से बनाया हुआ, स्नेह सहित या रूक्ष ही — मन्थ तुरन्त सन्तर्पण करने वाला है और स्थिरता, वर्ण तथा बल देता है।",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "set",
+      "field": "hindi",
+      "value": "मधुर या अम्ल, जल से बनाया हुआ, स्नेह सहित या रूक्ष ही — मन्थ तुरन्त सन्तर्पण करने वाला है और स्थिरता, वर्ण तथा बल देता है।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "संतर्पण",
+     "problem": "Glossary spelling: Hindi सन्तर्पण (not संतर्पण).",
+     "fix": "यहाँ श्लोक है: सन्तर्पण से उत्पन्न जो रोग हैं और अपतर्पण से जो रोग होते हैं, वे औषधों सहित सन्तर्पणीय अध्याय में कहे गए हैं।",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "set",
+      "field": "hindi",
+      "value": "यहाँ श्लोक है: सन्तर्पण से उत्पन्न जो रोग हैं और अपतर्पण से जो रोग होते हैं, वे औषधों सहित सन्तर्पणीय अध्याय में कहे गए हैं।"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "saṃtarpaṇa-utthāḥ",
+     "problem": "Glossary (Sū 21): saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; draft uses 'repletion'/'nourishing'.",
+     "fix": "arising from replenishing",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "word",
+      "match_w": "saṃtarpaṇa-utthāḥ",
+      "field": "gloss",
+      "value": "arising from replenishing"
+     }
+    },
+    {
+     "field": "english",
+     "where": "arise from repletion",
+     "problem": "Glossary (Sū 21): saṃtarpaṇa = replenishing (सन्तर्पण), kept apart from bṛṃhaṇa = nourishing; draft uses 'repletion'/'nourishing'.",
+     "fix": "arise from replenishing",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "replace",
+      "field": "english",
+      "old": "arise from repletion",
+      "new": "arise from replenishing"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "संतर्पण",
+     "problem": "Glossary spelling: Hindi सन्तर्पण (not संतर्पण).",
+     "fix": "इस प्रकार अग्निवेश द्वारा रचित, चरक द्वारा प्रतिसंस्कृत तन्त्र के श्लोकस्थान में सन्तर्पणीय नामक तेईसवाँ अध्याय।",
+     "severity": "minor",
+     "patch": {
+      "n": "P1",
+      "op": "set",
+      "field": "hindi",
+      "value": "इस प्रकार अग्निवेश द्वारा रचित, चरक द्वारा प्रतिसंस्कृत तन्त्र के श्लोकस्थान में सन्तर्पणीय नामक तेईसवाँ अध्याय।"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "41 units: 32 fix, 9 ok. Issues: 1 error, 73 minor; all patchable, no MANUAL items. No regrouping. Main fix: saṃtarpaṇa rendered 'repletion'/'nourishing' throughout, against the Sū 21 glossary (saṃtarpaṇa = replenishing, सन्तर्पण; 'nourishing' reserved for bṛṃhaṇa): changed to 'replenishing (saṃtarpaṇa)'; apatarpaṇa kept as 'depletion (apatarpaṇa)'; tarpaṇa (preparation) = 'tarpaṇa (replenishing preparation)', no 'drink' added; Hindi संतर्पण → सन्तर्पण everywhere. text_flags: 25 jīrṇaśī→jīrṇāśī accepted (metre evidence added: – – ⏑ at 5-7 not allowed); 29 -medaś→-bhedaś accepted as possible on the in-line 'ye cānye vātajā gadāḥ', 'why' rewritten; 37 phaṇitaṃ→phāṇitaṃ accepted as possible, memory definition removed; 33 flag removed (gap, no correction) → GAP note. Plant identifications: 21 in draft → 9 kept (abhayā, haridrā, hiṅgu (common name only), badara (common name only), pippalī, kharjūra, mṛdvīkā, dāḍima, āmalaka); 12 dropped (āragvadha, nimba, musta, devadāru, khadira, vacā, viḍaṅga, śigru, citraka, parūṣaka, and the probable vṛkṣāmla/Garcinia, amlīka/Tamarindus). Memory claims removed: gomedaka 'stone or drug' (15), lohodaka method (18), phāṇita definition (37 why). No commentator/edition notes found. Units 7, 18, 21, 30, 35 judged: 7 and 35 correct as drafted (alternatives in notes, confidence fine); 18 note trimmed; 21 and 30 only the saṃtarpaṇa rendering (21 'this' bracketed). Other: 24 dīpyate is class-4 ātm., not passive; 28 trika per glossary; 29 'finger-joints' → 'small joints (parvan)'; 32 Hindi agreement (औषध m.); 1 Hindi इसलिए as in Sū 22; 17 English smoothed. Unreviewed AI draft."
+}
