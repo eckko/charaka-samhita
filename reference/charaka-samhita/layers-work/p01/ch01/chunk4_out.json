@@ -1,0 +1,3943 @@
+[
+ {
+  "n": "109",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sarvaprāṇābhṛtāṃ",
+      "words": [
+       {
+        "w": "sarva-prāṇa-bhṛtām",
+        "gloss": "of all living beings",
+        "gram": "gen. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sātmyaṃ",
+      "words": [
+       {
+        "w": "sātmyam",
+        "gloss": "wholesome, accustomed",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śamanaṃ",
+      "words": [
+       {
+        "w": "śamanam",
+        "gloss": "pacifying",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śodhanaṃ",
+      "words": [
+       {
+        "w": "śodhanam",
+        "gloss": "purifying, eliminating",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "and also",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tṛṣṇāghnaṃ",
+      "words": [
+       {
+        "w": "tṛṣṇā-ghnam",
+        "gloss": "thirst-quenching",
+        "gram": "n. nom. sg., upapada"
+       }
+      ]
+     },
+     {
+      "src": "dīpanīyaṃ",
+      "words": [
+       {
+        "w": "dīpanīyam",
+        "gloss": "kindling digestion",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śreṣṭhaṃ",
+      "words": [
+       {
+        "w": "śreṣṭham",
+        "gloss": "best",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣīṇakṣateṣu",
+      "words": [
+       {
+        "w": "kṣīṇa-kṣateṣu",
+        "gloss": "in the wasted and the injured",
+        "gram": "m. loc. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दूध सभी प्राणियों के लिए सात्म्य है, शमन करने वाला और शोधन करने वाला भी है, प्यास बुझाने वाला और अग्नि को दीप्त करने वाला है, तथा क्षीण और क्षत रोगियों के लिए श्रेष्ठ है।",
+  "english": "Milk is wholesome (sātmya) for all living beings, both pacifying (śamana) and purifying (śodhana), thirst-quenching and appetising (dīpanīya), and the best thing for the wasted and the injured (kṣīṇa-kṣata).",
+  "text_flags": [
+   {
+    "src": "sarvaprāṇābhṛtāṃ",
+    "suggest": "sarvaprāṇabhṛtāṃ",
+    "why": "possible typo: the compound is prāṇa-bhṛt 'bearer of breath'; a long ā before bhṛ has no grammatical basis; syllable count is the same either way"
+   }
+  ],
+  "notes": "Subject 'milk' (payaḥ/kṣīra) is carried over from the preceding verses. kṣīṇa-kṣata may mean 'those wasted and those with (chest) injury' or a single class 'wasted from chest injury (urakṣata)'; taken here as dvandva.",
+  "confidence": "high"
+ },
+ {
+  "n": "110",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pāṇḍuroge'mlapitte",
+      "words": [
+       {
+        "w": "pāṇḍu-roge",
+        "gloss": "in anaemia (pāṇḍu disease)",
+        "gram": "m. loc. sg., karmadhāraya"
+       },
+       {
+        "w": "amla-pitte",
+        "gloss": "in acid dyspepsia (amlapitta)",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śoṣe",
+      "words": [
+       {
+        "w": "śoṣe",
+        "gloss": "in wasting disease (śoṣa)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gulme",
+      "words": [
+       {
+        "w": "gulme",
+        "gloss": "in abdominal lump (gulma)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tathodare",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       },
+       {
+        "w": "udare",
+        "gloss": "in abdominal enlargement (udara)",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "atīsāre",
+      "words": [
+       {
+        "w": "atīsāre",
+        "gloss": "in diarrhoea",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jvare",
+      "words": [
+       {
+        "w": "jvare",
+        "gloss": "in fever",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dāhe",
+      "words": [
+       {
+        "w": "dāhe",
+        "gloss": "in burning sensation",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śvayathau",
+      "words": [
+       {
+        "w": "śvayathau",
+        "gloss": "in swelling, oedema",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viśeṣataḥ",
+      "words": [
+       {
+        "w": "viśeṣataḥ",
+        "gloss": "especially",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यह विशेष रूप से पाण्डुरोग, अम्लपित्त, शोष, गुल्म और उदररोग में, तथा अतिसार, ज्वर, दाह और शोथ में हितकर है।",
+  "english": "It is especially (beneficial) in anaemia (pāṇḍu-roga), acid dyspepsia (amlapitta), wasting (śoṣa), abdominal lump (gulma) and abdominal enlargement (udara), and in diarrhoea (atīsāra), fever, burning sensation and swelling (śvayathu).",
+  "text_flags": [],
+  "notes": "The verb ('is beneficial') is implied from the context of 109. Modern equivalents are the usual approximations: pāṇḍu = anaemia; amlapitta = hyperacidity; śoṣa = consumption/wasting; gulma = abdominal lump or tumour; udara = abdominal enlargement including ascites.",
+  "confidence": "high"
+ },
+ {
+  "n": "111",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yoniśukrapradoṣeṣu",
+      "words": [
+       {
+        "w": "yoni-śukra-pradoṣeṣu",
+        "gloss": "in disorders of vagina and semen",
+        "gram": "m. loc. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "mūtreṣvapracureṣu",
+      "words": [
+       {
+        "w": "mūtreṣu",
+        "gloss": "in urine",
+        "gram": "n. loc. pl."
+       },
+       {
+        "w": "a-pracureṣu",
+        "gloss": "scanty, not abundant",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "purīṣe",
+      "words": [
+       {
+        "w": "purīṣe",
+        "gloss": "in faeces",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "grathite",
+      "words": [
+       {
+        "w": "grathite",
+        "gloss": "hard, knotted",
+        "gram": "n. loc. sg. ppp. √granth"
+       }
+      ]
+     },
+     {
+      "src": "pathyaṃ",
+      "words": [
+       {
+        "w": "pathyam",
+        "gloss": "wholesome",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vātapittavikāriṇām",
+      "words": [
+       {
+        "w": "vāta-pitta-vikāriṇām",
+        "gloss": "for those with Vāta-Pitta disorders",
+        "gram": "m. gen. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "योनि और शुक्र के दोषों में, अल्प मूत्र में और गाँठदार कठोर मल में यह हितकर है, तथा वात और पित्त के विकारों से पीड़ित लोगों के लिए पथ्य है।",
+  "english": "In disorders of the female genital tract (yoni) and of semen (śukra), in scanty urine, and in hard, knotted faeces, it is wholesome for those suffering from Vāta and Pitta disorders.",
+  "text_flags": [],
+  "notes": "yoni here may be the female reproductive organ generally; pradoṣa = disorder/vitiation.",
+  "confidence": "high"
+ },
+ {
+  "n": "112",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nasyālepāvagāheṣu",
+      "words": [
+       {
+        "w": "nasya-ālepa-avagāheṣu",
+        "gloss": "in nasal therapy, plasters and baths",
+        "gram": "m. loc. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "vamanāsthāpaneṣu",
+      "words": [
+       {
+        "w": "vamana-āsthāpaneṣu",
+        "gloss": "in emesis and decoction enemas",
+        "gram": "n. loc. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "virecane",
+      "words": [
+       {
+        "w": "virecane",
+        "gloss": "in purgation",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "snehane",
+      "words": [
+       {
+        "w": "snehane",
+        "gloss": "in oleation",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "payaḥ",
+      "words": [
+       {
+        "w": "payaḥ",
+        "gloss": "milk",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvatra",
+      "words": [
+       {
+        "w": "sarvatra",
+        "gloss": "everywhere",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yujyate",
+      "words": [
+       {
+        "w": "yujyate",
+        "gloss": "is used",
+        "gram": "3 sg. pres. pass. √yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "नस्य, लेप, अवगाहन, वमन, आस्थापन, विरेचन और स्नेहन में, सब जगह दूध का प्रयोग होता है।",
+  "english": "In nasal therapy (nasya), plasters, immersion baths, emesis (vamana), decoction enemas (āsthāpana), purgation (virecana) and oleation (snehana): milk is used everywhere.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "113",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yathākramaṃ",
+      "words": [
+       {
+        "w": "yathā-kramam",
+        "gloss": "in due order",
+        "gram": "ind., avyayībhāva"
+       }
+      ]
+     },
+     {
+      "src": "kṣīraguṇānekaikasya",
+      "words": [
+       {
+        "w": "kṣīra-guṇān",
+        "gloss": "properties of milk",
+        "gram": "m. acc. pl., tat-puruṣa"
+       },
+       {
+        "w": "eka-ekasya",
+        "gloss": "of each one",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pṛthak",
+      "words": [
+       {
+        "w": "pṛthak",
+        "gloss": "separately",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pṛthak",
+      "words": [
+       {
+        "w": "pṛthak",
+        "gloss": "separately",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "annapānādike'dhyāye",
+      "words": [
+       {
+        "w": "anna-pāna-ādike",
+        "gloss": "beginning with food and drink",
+        "gram": "m. loc. sg., bahuvrīhi"
+       },
+       {
+        "w": "adhyāye",
+        "gloss": "in the chapter",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhūyo",
+      "words": [
+       {
+        "w": "bhūyaḥ",
+        "gloss": "again, further",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vakṣyāmyaśeṣataḥ",
+      "words": [
+       {
+        "w": "vakṣyāmi",
+        "gloss": "I shall describe",
+        "gram": "1 sg. fut. √vac"
+       },
+       {
+        "w": "aśeṣataḥ",
+        "gloss": "completely",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हर एक के दूध के गुणों को अलग-अलग क्रम से मैं अन्नपान आदि वाले अध्याय में फिर पूरी तरह कहूँगा।",
+  "english": "The properties of the milk of each (animal), one by one and in due order, I shall describe again in full in the chapter on food and drink (annapāna).",
+  "text_flags": [],
+  "notes": "ekaikasya 'of each' refers to the milk-giving animals listed earlier. The chapter meant is probably Sūtrasthāna 27 (Annapānavidhi); that is an inference, the text gives only the title phrase.",
+  "confidence": "high"
+ },
+ {
+  "n": "114",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athāpare",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now",
+        "gram": "ind."
+       },
+       {
+        "w": "apare",
+        "gloss": "other",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "trayo",
+      "words": [
+       {
+        "w": "trayaḥ",
+        "gloss": "three",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vṛkṣāḥ",
+      "words": [
+       {
+        "w": "vṛkṣāḥ",
+        "gloss": "trees",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pṛthagye",
+      "words": [
+       {
+        "w": "pṛthak",
+        "gloss": "apart from",
+        "gram": "ind."
+       },
+       {
+        "w": "ye",
+        "gloss": "which",
+        "gram": "m. nom. pl. rel."
+       }
+      ]
+     },
+     {
+      "src": "phalamūlibhiḥ",
+      "words": [
+       {
+        "w": "phala-mūlibhiḥ",
+        "gloss": "from the fruit- and root-yielding plants",
+        "gram": "inst. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "snuhyarkāśmantakāsteṣāmidaṃ",
+      "words": [
+       {
+        "w": "snuhī-arka-aśmantakāḥ",
+        "gloss": "snuhī, arka and aśmantaka",
+        "gram": "m. nom. pl., dvandva"
+       },
+       {
+        "w": "teṣām",
+        "gloss": "of them",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "karma",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "action",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pṛthak",
+      "words": [
+       {
+        "w": "pṛthak",
+        "gloss": "separately",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pṛthak",
+      "words": [
+       {
+        "w": "pṛthak",
+        "gloss": "separately",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब तीन अन्य वृक्ष हैं, जो फलिनी और मूलिनी द्रव्यों से अलग हैं: स्नुही, अर्क और अश्मन्तक। उनका कर्म अलग-अलग इस प्रकार है।",
+  "english": "Now there are three other trees, separate from the fruit- and root-yielding plants: snuhī, arka and aśmantaka. Their action, one by one, is as follows.",
+  "text_flags": [],
+  "notes": "Identifications: snuhī = Euphorbia neriifolia, Hindi थूहर/सेहुंड (standard); arka = Calotropis procera or C. gigantea, Hindi आक/मदार (standard); aśmantaka = disputed (Bauhinia racemosa and Ficus species have been proposed).",
+  "confidence": "high"
+ },
+ {
+  "n": "115",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vamane'śmantakaṃ",
+      "words": [
+       {
+        "w": "vamane",
+        "gloss": "in emesis",
+        "gram": "n. loc. sg."
+       },
+       {
+        "w": "aśmantakam",
+        "gloss": "aśmantaka",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidyāt",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "one should know",
+        "gram": "3 sg. opt. √vid"
+       }
+      ]
+     },
+     {
+      "src": "snuhīkṣīraṃ",
+      "words": [
+       {
+        "w": "snuhī-kṣīram",
+        "gloss": "latex of snuhī",
+        "gram": "n. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "virecane",
+      "words": [
+       {
+        "w": "virecane",
+        "gloss": "in purgation",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kṣīramarkasya",
+      "words": [
+       {
+        "w": "kṣīram",
+        "gloss": "latex",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "arkasya",
+        "gloss": "of arka",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vijñeyaṃ",
+      "words": [
+       {
+        "w": "vijñeyam",
+        "gloss": "to be known",
+        "gram": "n. nom. sg. ger. √jñā"
+       }
+      ]
+     },
+     {
+      "src": "vamane",
+      "words": [
+       {
+        "w": "vamane",
+        "gloss": "in emesis",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "savirecane",
+      "words": [
+       {
+        "w": "sa-virecane",
+        "gloss": "together with purgation",
+        "gram": "n. loc. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वमन में अश्मन्तक को जानना चाहिए, विरेचन में स्नुही के दूध को; और अर्क का दूध विरेचन सहित वमन में प्रयोज्य समझना चाहिए।",
+  "english": "One should know aśmantaka (as used) for emesis and the latex of snuhī for purgation; the latex of arka is to be known (as used) for emesis together with purgation.",
+  "text_flags": [],
+  "notes": "kṣīra here means the plant latex, not milk. 'vamane savirecane' read as 'in emesis accompanied by purgation', i.e. arka latex acts both ways.",
+  "confidence": "high"
+ },
+ {
+  "n": "116",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "imāṃstrīnaparān",
+      "words": [
+       {
+        "w": "imān",
+        "gloss": "these",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "trīn",
+        "gloss": "three",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "aparān",
+        "gloss": "other",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vṛkṣānāhuryeṣāṃ",
+      "words": [
+       {
+        "w": "vṛkṣān",
+        "gloss": "trees",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "āhuḥ",
+        "gloss": "they declare",
+        "gram": "3 pl. pf. √ah"
+       },
+       {
+        "w": "yeṣām",
+        "gloss": "whose",
+        "gram": "m. gen. pl. rel."
+       }
+      ]
+     },
+     {
+      "src": "hitāstvacaḥ",
+      "words": [
+       {
+        "w": "hitāḥ",
+        "gloss": "beneficial",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "tvacaḥ",
+        "gloss": "barks",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pūtīkaḥ",
+      "words": [
+       {
+        "w": "pūtīkaḥ",
+        "gloss": "pūtīka (a tree)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛṣṇagandhā",
+      "words": [
+       {
+        "w": "kṛṣṇagandhā",
+        "gloss": "kṛṣṇagandhā (a tree)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tilvakaśca",
+      "words": [
+       {
+        "w": "tilvakaḥ",
+        "gloss": "tilvaka (a tree)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "taruḥ",
+      "words": [
+       {
+        "w": "taruḥ",
+        "gloss": "tree",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इन तीन अन्य वृक्षों को बताते हैं जिनकी छालें हितकर हैं: पूतीक, कृष्णगन्धा और तिल्वक वृक्ष।",
+  "english": "They name these three other trees whose barks are beneficial: pūtīka, kṛṣṇagandhā and likewise the tree tilvaka.",
+  "text_flags": [],
+  "notes": "Identifications: pūtīka = disputed (Holoptelea integrifolia and pūtikarañja, Caesalpinia bonduc, are both proposed); kṛṣṇagandhā = probable Moringa oleifera, drumstick, Hindi सहजन (identified with śigru by commentators); tilvaka = disputed (Symplocos racemosa, lodhra, and Viburnum species proposed).",
+  "confidence": "high"
+ },
+ {
+  "n": "117",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "virecane",
+      "words": [
+       {
+        "w": "virecane",
+        "gloss": "in purgation",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prayoktavyaḥ",
+      "words": [
+       {
+        "w": "prayoktavyaḥ",
+        "gloss": "to be used",
+        "gram": "m. nom. sg. ger. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "pūtīkastilvakastathā",
+      "words": [
+       {
+        "w": "pūtīkaḥ",
+        "gloss": "pūtīka",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tilvakaḥ",
+        "gloss": "tilvaka",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kṛṣṇagandhā",
+      "words": [
+       {
+        "w": "kṛṣṇagandhā",
+        "gloss": "kṛṣṇagandhā",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "parīsarpe",
+      "words": [
+       {
+        "w": "parīsarpe",
+        "gloss": "in spreading skin disease (parīsarpa)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śotheṣvarśaḥṣu",
+      "words": [
+       {
+        "w": "śotheṣu",
+        "gloss": "in swellings",
+        "gram": "m. loc. pl."
+       },
+       {
+        "w": "arśaḥsu",
+        "gloss": "in piles",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "cocyate",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ucyate",
+        "gloss": "is prescribed",
+        "gram": "3 sg. pres. pass. √vac"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विरेचन में पूतीक और तिल्वक का प्रयोग करना चाहिए; कृष्णगन्धा परिसर्प, शोथ और अर्श में बताई गई है।",
+  "english": "Pūtīka and likewise tilvaka are to be used for purgation; kṛṣṇagandhā is prescribed in spreading skin disease (parīsarpa), in swellings and in piles (arśas),",
+  "text_flags": [
+   {
+    "src": "śotheṣvarśaḥṣu",
+    "suggest": "śotheṣvarśaḥsu",
+    "why": "possible spelling error: loc. pl. of arśas is arśaḥsu (no retroflex ṣ after a-visarga); sense and metre unaffected"
+   }
+  ],
+  "notes": "The list of diseases for kṛṣṇagandhā continues into unit 118 (sentence continuation, grouping is correct). parīsarpa = visarpa, usually equated with erysipelas (approximate).",
+  "confidence": "high"
+ },
+ {
+  "n": "118",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dadruvidradhigaṇḍeṣu",
+      "words": [
+       {
+        "w": "dadru-vidradhi-gaṇḍeṣu",
+        "gloss": "in ringworm, abscess and glandular swellings",
+        "gram": "m. loc. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "kuṣṭheṣvapyalajīṣu",
+      "words": [
+       {
+        "w": "kuṣṭheṣu",
+        "gloss": "in skin diseases",
+        "gram": "n. loc. pl."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       },
+       {
+        "w": "alajīṣu",
+        "gloss": "in alajī eruptions",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ṣaḍvṛkṣāñchodhanānetānapi",
+      "words": [
+       {
+        "w": "ṣaṭ",
+        "gloss": "six",
+        "gram": "num. acc."
+       },
+       {
+        "w": "vṛkṣān",
+        "gloss": "trees",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "śodhanān",
+        "gloss": "purifying",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "etān",
+        "gloss": "these",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vidyādvicakṣaṇaḥ",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "should know",
+        "gram": "3 sg. opt. √vid"
+       },
+       {
+        "w": "vicakṣaṇaḥ",
+        "gloss": "the discerning one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दद्रु, विद्रधि, गण्ड, कुष्ठ और अलजी में भी; और विवेकी वैद्य इन छह वृक्षों को शोधन करने वाला भी जाने।",
+  "english": "and in ringworm (dadru), abscess (vidradhi), glandular swellings (gaṇḍa), skin diseases (kuṣṭha) and alajī eruptions. The discerning (physician) should also know these six trees as purifying (śodhana).",
+  "text_flags": [],
+  "notes": "Line a continues the diseases for kṛṣṇagandhā from unit 117. gaṇḍa may mean goitre or glandular swelling; kuṣṭha covers skin diseases broadly, not only leprosy; alajī is a kind of boil or eruption (exact sense varies between texts).",
+  "confidence": "high"
+ },
+ {
+  "n": "119",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ityuktāḥ",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "uktāḥ",
+        "gloss": "have been stated",
+        "gram": "f. nom. pl. ppp. √vac"
+       }
+      ]
+     },
+     {
+      "src": "phalamūlinyaḥ",
+      "words": [
+       {
+        "w": "phala-mūlinyaḥ",
+        "gloss": "fruit- and root-yielding plants",
+        "gram": "f. nom. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "snehāśca",
+      "words": [
+       {
+        "w": "snehāḥ",
+        "gloss": "fats, unctuous substances",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "lavaṇāni",
+      "words": [
+       {
+        "w": "lavaṇāni",
+        "gloss": "salts",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mūtraṃ",
+      "words": [
+       {
+        "w": "mūtram",
+        "gloss": "urine",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣīrāṇi",
+      "words": [
+       {
+        "w": "kṣīrāṇi",
+        "gloss": "milks",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vṛkṣāśca",
+      "words": [
+       {
+        "w": "vṛkṣāḥ",
+        "gloss": "trees",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣaḍ",
+      "words": [
+       {
+        "w": "ṣaṭ",
+        "gloss": "six",
+        "gram": "num. nom."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "which",
+        "gram": "m. nom. pl. rel."
+       }
+      ]
+     },
+     {
+      "src": "diṣṭapayastvacaḥ",
+      "words": [
+       {
+        "w": "diṣṭa-payas-tvacaḥ",
+        "gloss": "whose latex and bark were indicated",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार फलिनी और मूलिनी द्रव्य, स्नेह, लवण, मूत्र, दूध और वे छह वृक्ष जिनके दूध और छाल बताए गए हैं, कह दिए गए।",
+  "english": "Thus have been stated the fruit- and root-yielding plants, the unctuous substances (sneha), the salts, urine, the milks, and the six trees whose latex and bark were indicated.",
+  "text_flags": [],
+  "notes": "diṣṭa-payas-tvacaḥ: three trees are used for their latex (payas) and three for their bark (tvak).",
+  "confidence": "high"
+ },
+ {
+  "n": "120",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "oṣadhīrnāmarūpābhyāṃ",
+      "words": [
+       {
+        "w": "oṣadhīḥ",
+        "gloss": "plants, herbs",
+        "gram": "f. acc. pl."
+       },
+       {
+        "w": "nāma-rūpābhyām",
+        "gloss": "by name and form",
+        "gram": "n. inst. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "jānate",
+      "words": [
+       {
+        "w": "jānate",
+        "gloss": "they know",
+        "gram": "3 pl. pres. ātm. √jñā"
+       }
+      ]
+     },
+     {
+      "src": "hyajapā",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "ajapāḥ",
+        "gloss": "goatherds",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vane",
+      "words": [
+       {
+        "w": "vane",
+        "gloss": "in the forest",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "avipāścaiva",
+      "words": [
+       {
+        "w": "avipāḥ",
+        "gloss": "shepherds",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gopāśca",
+      "words": [
+       {
+        "w": "gopāḥ",
+        "gloss": "cowherds",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl. rel."
+       }
+      ]
+     },
+     {
+      "src": "cānye",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anye",
+        "gloss": "others",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vanavāsinaḥ",
+      "words": [
+       {
+        "w": "vana-vāsinaḥ",
+        "gloss": "forest-dwellers",
+        "gram": "m. nom. pl., upapada"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वन में बकरी चराने वाले, भेड़ चराने वाले, गोपालक और जो अन्य वनवासी हैं, वे ओषधियों को नाम और रूप से जानते हैं।",
+  "english": "Goatherds, shepherds, cowherds and the other forest-dwellers know the plants in the forest by their names and forms.",
+  "text_flags": [],
+  "notes": "vane may go with jānate ('know in the forest') or with the herdsmen ('herdsmen in the forest'); the sense is the same.",
+  "confidence": "high"
+ },
+ {
+  "n": "121",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nāmajñānamātreṇa",
+      "words": [
+       {
+        "w": "nāma-jñāna-mātreṇa",
+        "gloss": "by mere knowledge of names",
+        "gram": "n. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "rūpajñānena",
+      "words": [
+       {
+        "w": "rūpa-jñānena",
+        "gloss": "by knowledge of form",
+        "gram": "n. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "oṣadhīnāṃ",
+      "words": [
+       {
+        "w": "oṣadhīnām",
+        "gloss": "of plants",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "parāṃ",
+      "words": [
+       {
+        "w": "parām",
+        "gloss": "highest",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāptiṃ",
+      "words": [
+       {
+        "w": "prāptim",
+        "gloss": "attainment, mastery",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaścidveditumarhati",
+      "words": [
+       {
+        "w": "kaścit",
+        "gloss": "anyone",
+        "gram": "m. nom. sg. indef."
+       },
+       {
+        "w": "veditum",
+        "gloss": "to know",
+        "gram": "inf. √vid"
+       },
+       {
+        "w": "arhati",
+        "gloss": "is able",
+        "gram": "3 sg. pres. √arh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "केवल नाम के ज्ञान से, या फिर रूप के ज्ञान से, कोई भी ओषधियों की परम प्राप्ति को नहीं जान सकता।",
+  "english": "No one can know the highest mastery of plants by mere knowledge of their names, or again by knowledge of their forms.",
+  "text_flags": [],
+  "notes": "parāṃ prāptim 'highest attainment' is taken as full mastery of the plants (their right use); it could also be read as 'the highest benefit obtained from plants'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "122",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yogavittvapyarūpajñastāsāṃ",
+      "words": [
+       {
+        "w": "yoga-vit",
+        "gloss": "knower of application",
+        "gram": "m. nom. sg., upapada"
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       },
+       {
+        "w": "a-rūpa-jñaḥ",
+        "gloss": "not knowing the form",
+        "gram": "m. nom. sg., upapada"
+       },
+       {
+        "w": "tāsām",
+        "gloss": "of them",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "tattvaviducyate",
+      "words": [
+       {
+        "w": "tattva-vit",
+        "gloss": "knower of the truth",
+        "gram": "m. nom. sg., upapada"
+       },
+       {
+        "w": "ucyate",
+        "gloss": "is called",
+        "gram": "3 sg. pres. pass. √vac"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kiṃ",
+      "words": [
+       {
+        "w": "kim",
+        "gloss": "what (of)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "punaryo",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "then, more so",
+        "gram": "ind."
+       },
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "vijānīyādoṣadhīḥ",
+      "words": [
+       {
+        "w": "vijānīyāt",
+        "gloss": "would know well",
+        "gram": "3 sg. opt. √jñā"
+       },
+       {
+        "w": "oṣadhīḥ",
+        "gloss": "plants",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sarvathā",
+      "words": [
+       {
+        "w": "sarvathā",
+        "gloss": "in every way",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhiṣak",
+      "words": [
+       {
+        "w": "bhiṣak",
+        "gloss": "physician",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "परन्तु जो उनके प्रयोग को जानता है, वह रूप को न जानते हुए भी उनका तत्त्व जानने वाला कहलाता है; फिर उस वैद्य का तो कहना ही क्या जो ओषधियों को सब प्रकार से जानता हो।",
+  "english": "But one who knows their application (yoga), even without knowing their form, is called a knower of their true nature; how much more, then, the physician who knows the plants in every respect!",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "123",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yogamāsāṃ",
+      "words": [
+       {
+        "w": "yogam",
+        "gloss": "application",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āsām",
+        "gloss": "of these",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "vidyāddeśakālopapāditam",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "would know",
+        "gram": "3 sg. opt. √vid"
+       },
+       {
+        "w": "deśa-kāla-upapāditam",
+        "gloss": "suited to place and time",
+        "gram": "m. acc. sg. ppp., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "puruṣaṃ",
+      "words": [
+       {
+        "w": "puruṣam",
+        "gloss": "person",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "puruṣaṃ",
+      "words": [
+       {
+        "w": "puruṣam",
+        "gloss": "person",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vīkṣya",
+      "words": [
+       {
+        "w": "vīkṣya",
+        "gloss": "having examined",
+        "gram": "abs. vi-√īkṣ"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jñeyo",
+      "words": [
+       {
+        "w": "jñeyaḥ",
+        "gloss": "is to be known",
+        "gram": "m. nom. sg. ger. √jñā"
+       }
+      ]
+     },
+     {
+      "src": "bhiṣaguttamaḥ",
+      "words": [
+       {
+        "w": "bhiṣak-uttamaḥ",
+        "gloss": "best of physicians",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो वैद्य प्रत्येक व्यक्ति की परीक्षा करके देश और काल के अनुसार इनके प्रयोग को जानता है, उसे उत्तम वैद्य जानना चाहिए।",
+  "english": "He who knows their application, adapted to place and time, after examining each person individually, is to be known as the best of physicians.",
+  "text_flags": [],
+  "notes": "puruṣaṃ puruṣam (repetition) = each individual person.",
+  "confidence": "high"
+ },
+ {
+  "n": "124",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viṣaṃ",
+      "words": [
+       {
+        "w": "viṣam",
+        "gloss": "poison",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śastraṃ",
+      "words": [
+       {
+        "w": "śastram",
+        "gloss": "weapon, knife",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yathāgniraśaniryathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "like",
+        "gram": "ind."
+       },
+       {
+        "w": "agniḥ",
+        "gloss": "fire",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "aśaniḥ",
+        "gloss": "thunderbolt",
+        "gram": "m./f. nom. sg."
+       },
+       {
+        "w": "yathā",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tathauṣadhamavijñātaṃ",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "so",
+        "gram": "ind."
+       },
+       {
+        "w": "auṣadham",
+        "gloss": "medicine",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "a-vijñātam",
+        "gloss": "not known",
+        "gram": "n. nom. sg. ppp. vi-√jñā"
+       }
+      ]
+     },
+     {
+      "src": "vijñātamamṛtaṃ",
+      "words": [
+       {
+        "w": "vijñātam",
+        "gloss": "well known",
+        "gram": "n. nom. sg. ppp. vi-√jñā"
+       },
+       {
+        "w": "amṛtam",
+        "gloss": "nectar of immortality",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जैसे विष, जैसे शस्त्र, जैसे अग्नि, जैसे वज्र होता है, वैसी ही बिना जानी हुई औषध होती है; और जानी हुई औषध अमृत के समान होती है।",
+  "english": "Like poison, like a weapon, like fire, like a thunderbolt is a medicine that is not understood; a medicine well understood is like nectar (amṛta).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "125",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "auṣadhaṃ",
+      "words": [
+       {
+        "w": "auṣadham",
+        "gloss": "medicine",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hyanabhijñātaṃ",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       },
+       {
+        "w": "an-abhijñātam",
+        "gloss": "not recognised",
+        "gram": "n. nom. sg. ppp. abhi-√jñā"
+       }
+      ]
+     },
+     {
+      "src": "nāmarūpaguṇaistribhiḥ",
+      "words": [
+       {
+        "w": "nāma-rūpa-guṇaiḥ",
+        "gloss": "by name, form and properties",
+        "gram": "m. inst. pl., dvandva"
+       },
+       {
+        "w": "tribhiḥ",
+        "gloss": "by the three",
+        "gram": "inst. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vijñātaṃ",
+      "words": [
+       {
+        "w": "vijñātam",
+        "gloss": "known",
+        "gram": "n. nom. sg. ppp. vi-√jñā"
+       }
+      ]
+     },
+     {
+      "src": "cāpi",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "duryuktamanarthāyopapadyate",
+      "words": [
+       {
+        "w": "dur-yuktam",
+        "gloss": "wrongly applied",
+        "gram": "n. nom. sg. ppp. √yuj"
+       },
+       {
+        "w": "anarthāya",
+        "gloss": "for harm",
+        "gram": "m. dat. sg."
+       },
+       {
+        "w": "upapadyate",
+        "gloss": "leads to",
+        "gram": "3 sg. pres. ātm. upa-√pad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि जो औषध नाम, रूप और गुण इन तीनों से न पहचानी गई हो, और जो जानी हुई होकर भी गलत ढंग से प्रयुक्त हो, वह अनर्थ का कारण बनती है।",
+  "english": "For a medicine not recognised by the three (marks), name, form and properties, and even one that is known but wrongly applied, leads to harm.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "126",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yogādapi",
+      "words": [
+       {
+        "w": "yogāt",
+        "gloss": "through proper application",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viṣaṃ",
+      "words": [
+       {
+        "w": "viṣam",
+        "gloss": "poison",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tīkṣṇamuttamaṃ",
+      "words": [
+       {
+        "w": "tīkṣṇam",
+        "gloss": "sharp, potent",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "uttamam",
+        "gloss": "excellent",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bheṣajaṃ",
+      "words": [
+       {
+        "w": "bheṣajam",
+        "gloss": "medicine",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavet",
+      "words": [
+       {
+        "w": "bhavet",
+        "gloss": "may become",
+        "gram": "3 sg. opt. √bhū"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bheṣajaṃ",
+      "words": [
+       {
+        "w": "bheṣajam",
+        "gloss": "medicine",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "cāpi",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "duryuktaṃ",
+      "words": [
+       {
+        "w": "dur-yuktam",
+        "gloss": "wrongly applied",
+        "gram": "n. nom. sg. ppp. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "tīkṣṇaṃ",
+      "words": [
+       {
+        "w": "tīkṣṇam",
+        "gloss": "sharp, potent",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃpadyate",
+      "words": [
+       {
+        "w": "saṃpadyate",
+        "gloss": "becomes",
+        "gram": "3 sg. pres. ātm. sam-√pad"
+       }
+      ]
+     },
+     {
+      "src": "viṣam",
+      "words": [
+       {
+        "w": "viṣam",
+        "gloss": "poison",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उचित प्रयोग से तीक्ष्ण विष भी उत्तम औषध बन सकता है, और गलत ढंग से प्रयुक्त औषध भी तीक्ष्ण विष बन जाती है।",
+  "english": "Through proper application even a potent poison may become an excellent medicine, and a medicine wrongly applied becomes a potent poison.",
+  "text_flags": [],
+  "notes": "tīkṣṇa in line a may qualify viṣam ('potent poison') as taken here; grammatically it could also go with bheṣajam.",
+  "confidence": "high"
+ },
+ {
+  "n": "127",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmānna",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind. (abl.)"
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhiṣajā",
+      "words": [
+       {
+        "w": "bhiṣajā",
+        "gloss": "by a physician",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "yuktaṃ",
+      "words": [
+       {
+        "w": "yuktam",
+        "gloss": "administered",
+        "gram": "n. nom. sg. ppp. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "yuktibāhyena",
+      "words": [
+       {
+        "w": "yukti-bāhyena",
+        "gloss": "devoid of rational planning",
+        "gram": "m. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bheṣajam",
+      "words": [
+       {
+        "w": "bheṣajam",
+        "gloss": "medicine",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dhīmatā",
+      "words": [
+       {
+        "w": "dhīmatā",
+        "gloss": "by a wise person",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "kiṃcidādeyaṃ",
+      "words": [
+       {
+        "w": "kiṃcit",
+        "gloss": "any",
+        "gram": "n. nom. sg. indef."
+       },
+       {
+        "w": "ādeyam",
+        "gloss": "to be accepted",
+        "gram": "n. nom. sg. ger. ā-√dā"
+       }
+      ]
+     },
+     {
+      "src": "jīvitārogyakāṅkṣiṇā",
+      "words": [
+       {
+        "w": "jīvita-ārogya-kāṅkṣiṇā",
+        "gloss": "desiring life and health",
+        "gram": "m. inst. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए जीवन और आरोग्य चाहने वाले बुद्धिमान व्यक्ति को युक्ति से रहित वैद्य द्वारा दी गई कोई भी औषध नहीं लेनी चाहिए।",
+  "english": "Therefore a wise person who desires life and health should not accept any medicine administered by a physician who is devoid of rational planning (yukti).",
+  "text_flags": [],
+  "notes": "yukti = reasoned planning of treatment; yukti-bāhya lit. 'outside yukti'.",
+  "confidence": "high"
+ },
+ {
+  "n": "128",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kuryānnipatito",
+      "words": [
+       {
+        "w": "kuryāt",
+        "gloss": "might make",
+        "gram": "3 sg. opt. √kṛ"
+       },
+       {
+        "w": "nipatitaḥ",
+        "gloss": "having fallen",
+        "gram": "m. nom. sg. ppp. ni-√pat"
+       }
+      ]
+     },
+     {
+      "src": "mūrdhni",
+      "words": [
+       {
+        "w": "mūrdhni",
+        "gloss": "on the head",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saśeṣaṃ",
+      "words": [
+       {
+        "w": "sa-śeṣam",
+        "gloss": "with something left (alive)",
+        "gram": "m. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vāsavāśaniḥ",
+      "words": [
+       {
+        "w": "vāsava-aśaniḥ",
+        "gloss": "Indra's thunderbolt",
+        "gram": "m./f. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "saśeṣamāturaṃ",
+      "words": [
+       {
+        "w": "sa-śeṣam",
+        "gloss": "with something left (alive)",
+        "gram": "m. acc. sg., bahuvrīhi"
+       },
+       {
+        "w": "āturam",
+        "gloss": "patient",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kuryānnatvajñamatamauṣadham",
+      "words": [
+       {
+        "w": "kuryāt",
+        "gloss": "would make",
+        "gram": "3 sg. opt. √kṛ"
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "ajña-matam",
+        "gloss": "approved by an ignorant one",
+        "gram": "n. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "auṣadham",
+        "gloss": "medicine",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सिर पर गिरा हुआ इन्द्र का वज्र भी शायद कुछ शेष छोड़ दे, परन्तु अज्ञानी द्वारा बताई गई औषध रोगी को कुछ भी शेष नहीं छोड़ती।",
+  "english": "Indra's (Vāsava's) thunderbolt falling on the head might still leave something remaining; but a medicine prescribed by an ignorant person would not leave the patient with anything remaining.",
+  "text_flags": [],
+  "notes": "saśeṣa 'with a remainder' = left with some life. ajña-mata lit. 'thought fit by an ignorant one'.",
+  "confidence": "high"
+ },
+ {
+  "n": "129",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "duḥkhitāya",
+      "words": [
+       {
+        "w": "duḥkhitāya",
+        "gloss": "to the suffering",
+        "gram": "m. dat. sg. ppp."
+       }
+      ]
+     },
+     {
+      "src": "śayānāya",
+      "words": [
+       {
+        "w": "śayānāya",
+        "gloss": "to the bed-ridden",
+        "gram": "m. dat. sg. pres. part. √śī"
+       }
+      ]
+     },
+     {
+      "src": "śraddadhānāya",
+      "words": [
+       {
+        "w": "śraddadhānāya",
+        "gloss": "to the trusting",
+        "gram": "m. dat. sg. pres. part. śrad-√dhā"
+       }
+      ]
+     },
+     {
+      "src": "rogiṇe",
+      "words": [
+       {
+        "w": "rogiṇe",
+        "gloss": "to the patient",
+        "gram": "m. dat. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "bheṣajamavijñāya",
+      "words": [
+       {
+        "w": "bheṣajam",
+        "gloss": "medicine",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "a-vijñāya",
+        "gloss": "without knowing",
+        "gram": "abs. vi-√jñā"
+       }
+      ]
+     },
+     {
+      "src": "prājñamānī",
+      "words": [
+       {
+        "w": "prājña-mānī",
+        "gloss": "thinking himself wise",
+        "gram": "m. nom. sg., upapada"
+       }
+      ]
+     },
+     {
+      "src": "prayacchati",
+      "words": [
+       {
+        "w": "prayacchati",
+        "gloss": "gives",
+        "gram": "3 sg. pres. pra-√yam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो अपने को बुद्धिमान मानने वाला व्यक्ति औषध को बिना जाने दुःखी, शय्या पर पड़े, श्रद्धा रखने वाले रोगी को दे देता है,",
+  "english": "He who, thinking himself wise, gives a medicine without knowing it to a suffering, bed-ridden and trusting patient,",
+  "text_flags": [],
+  "notes": "The sentence continues into unit 130 (the yaḥ of this verse is picked up by tasya there); grouping is correct.",
+  "confidence": "high"
+ },
+ {
+  "n": "130",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tyaktadharmasya",
+      "words": [
+       {
+        "w": "tyakta-dharmasya",
+        "gloss": "of one who has abandoned dharma",
+        "gram": "m. gen. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "pāpasya",
+      "words": [
+       {
+        "w": "pāpasya",
+        "gloss": "of the sinful one",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "mṛtyubhūtasya",
+      "words": [
+       {
+        "w": "mṛtyu-bhūtasya",
+        "gloss": "who has become death itself",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "durmateḥ",
+      "words": [
+       {
+        "w": "dur-mateḥ",
+        "gloss": "of the evil-minded",
+        "gram": "m. gen. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "naro",
+      "words": [
+       {
+        "w": "naraḥ",
+        "gloss": "a man",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "narakapātī",
+      "words": [
+       {
+        "w": "naraka-pātī",
+        "gloss": "falling into hell",
+        "gram": "m. nom. sg., upapada"
+       }
+      ]
+     },
+     {
+      "src": "syāttasya",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √as"
+       },
+       {
+        "w": "tasya",
+        "gloss": "with him",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃbhāṣaṇādapi",
+      "words": [
+       {
+        "w": "saṃbhāṣaṇāt",
+        "gloss": "by conversing",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उस धर्म को त्याग देने वाले, पापी, मृत्यु रूप, दुर्बुद्धि व्यक्ति से बात करने मात्र से भी मनुष्य नरक में गिरने वाला हो जाता है।",
+  "english": "with that man, who has abandoned dharma, sinful, death incarnate, evil-minded, a person would fall into hell even by conversing.",
+  "text_flags": [],
+  "notes": "Completes the sentence begun in unit 129.",
+  "confidence": "high"
+ },
+ {
+  "n": "131",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "varamāśīviṣaviṣaṃ",
+      "words": [
+       {
+        "w": "varam",
+        "gloss": "better",
+        "gram": "ind."
+       },
+       {
+        "w": "āśīviṣa-viṣam",
+        "gloss": "venom of a serpent",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kvathitaṃ",
+      "words": [
+       {
+        "w": "kvathitam",
+        "gloss": "boiled, molten",
+        "gram": "n. nom. sg. ppp. √kvath"
+       }
+      ]
+     },
+     {
+      "src": "tāmrameva",
+      "words": [
+       {
+        "w": "tāmram",
+        "gloss": "copper",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pītamatyagnisantaptā",
+      "words": [
+       {
+        "w": "pītam",
+        "gloss": "drunk",
+        "gram": "n. nom. sg. ppp. √pā"
+       },
+       {
+        "w": "ati-agni-santaptāḥ",
+        "gloss": "heated in fierce fire",
+        "gram": "m. nom. pl. ppp."
+       }
+      ]
+     },
+     {
+      "src": "bhakṣitā",
+      "words": [
+       {
+        "w": "bhakṣitāḥ",
+        "gloss": "swallowed",
+        "gram": "m. nom. pl. ppp. √bhakṣ"
+       }
+      ]
+     },
+     {
+      "src": "vāpyayoguḍāḥ",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       },
+       {
+        "w": "ayaḥ-guḍāḥ",
+        "gloss": "iron balls",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "साँप का विष पी लेना, या उबला हुआ पिघला ताँबा पी लेना, अथवा तीव्र आग में तपाए हुए लोहे के गोले निगल लेना अच्छा है,",
+  "english": "Better to drink a serpent's venom or boiled (molten) copper, or even to swallow iron balls heated in fierce fire,",
+  "text_flags": [],
+  "notes": "Sentence continues into unit 132 ('but not ...'). The visarga of bhakṣitāḥ and of -santaptāḥ is dropped by sandhi before a voiced sound.",
+  "confidence": "high"
+ },
+ {
+  "n": "132",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "natu",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śrutavatāṃ",
+      "words": [
+       {
+        "w": "śrutavatām",
+        "gloss": "of the learned",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "veśaṃ",
+      "words": [
+       {
+        "w": "veśam",
+        "gloss": "garb, guise",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bibhratā",
+      "words": [
+       {
+        "w": "bibhratā",
+        "gloss": "by one wearing",
+        "gram": "m. inst. sg. pres. part. √bhṛ"
+       }
+      ]
+     },
+     {
+      "src": "śaraṇāgatāt",
+      "words": [
+       {
+        "w": "śaraṇa-āgatāt",
+        "gloss": "from one who has come for refuge",
+        "gram": "m. abl. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "gṛhītamannaṃ",
+      "words": [
+       {
+        "w": "gṛhītam",
+        "gloss": "taken",
+        "gram": "n. nom. sg. ppp. √grah"
+       },
+       {
+        "w": "annam",
+        "gloss": "food",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pānaṃ",
+      "words": [
+       {
+        "w": "pānam",
+        "gloss": "drink",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vittaṃ",
+      "words": [
+       {
+        "w": "vittam",
+        "gloss": "wealth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rogapīḍitāt",
+      "words": [
+       {
+        "w": "roga-pīḍitāt",
+        "gloss": "from one afflicted by disease",
+        "gram": "m. abl. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "परन्तु विद्वानों का वेश धारण करने वाले व्यक्ति द्वारा शरण में आए हुए रोगपीड़ित से अन्न, पान या धन लेना अच्छा नहीं है।",
+  "english": "but not (good) is food, drink or money taken, by one who wears the guise of the learned, from a disease-stricken person who has come to him for refuge.",
+  "text_flags": [],
+  "notes": "natu printed as one token = na tu. The predicate 'better' (varam) from unit 131 is understood: worse than those deadly acts is taking fees as a sham physician.",
+  "confidence": "high"
+ },
+ {
+  "n": "133",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhiṣagbubhūṣurmatimānataḥ",
+      "words": [
+       {
+        "w": "bhiṣak",
+        "gloss": "physician",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "bubhūṣuḥ",
+        "gloss": "wishing to become",
+        "gram": "m. nom. sg. desid. adj. √bhū"
+       },
+       {
+        "w": "matimān",
+        "gloss": "intelligent",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svaguṇasampadi",
+      "words": [
+       {
+        "w": "sva-guṇa-sampadi",
+        "gloss": "in perfecting his own qualities",
+        "gram": "f. loc. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "paraṃ",
+      "words": [
+       {
+        "w": "param",
+        "gloss": "utmost",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prayatnamātiṣṭhet",
+      "words": [
+       {
+        "w": "prayatnam",
+        "gloss": "effort",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ātiṣṭhet",
+        "gloss": "should undertake",
+        "gram": "3 sg. opt. ā-√sthā"
+       }
+      ]
+     },
+     {
+      "src": "prāṇadaḥ",
+      "words": [
+       {
+        "w": "prāṇa-daḥ",
+        "gloss": "life-giver",
+        "gram": "m. nom. sg., upapada"
+       }
+      ]
+     },
+     {
+      "src": "syādyathā",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "may be",
+        "gram": "3 sg. opt. √as"
+       },
+       {
+        "w": "yathā",
+        "gloss": "so that",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nṛṇām",
+      "words": [
+       {
+        "w": "nṛṇām",
+        "gloss": "for men",
+        "gram": "m. gen. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए वैद्य बनने की इच्छा रखने वाला बुद्धिमान व्यक्ति अपने गुणों की सम्पदा प्राप्त करने में परम प्रयत्न करे, जिससे वह मनुष्यों का प्राणदाता हो सके।",
+  "english": "Therefore an intelligent person wishing to become a physician should make the utmost effort to perfect his own qualities, so that he may be a giver of life to people.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "134",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tadeva",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "alone",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yuktaṃ",
+      "words": [
+       {
+        "w": "yuktam",
+        "gloss": "proper",
+        "gram": "n. nom. sg. ppp. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "bhaiṣajyaṃ",
+      "words": [
+       {
+        "w": "bhaiṣajyam",
+        "gloss": "medicine, treatment",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yadārogyāya",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg. rel."
+       },
+       {
+        "w": "ārogyāya",
+        "gloss": "for health",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "kalpate",
+      "words": [
+       {
+        "w": "kalpate",
+        "gloss": "is fit for, brings about",
+        "gram": "3 sg. pres. ātm. √kḷp"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "caiva",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "alone",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhiṣajāṃ",
+      "words": [
+       {
+        "w": "bhiṣajām",
+        "gloss": "of physicians",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "śreṣṭho",
+      "words": [
+       {
+        "w": "śreṣṭhaḥ",
+        "gloss": "best",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rogebhyo",
+      "words": [
+       {
+        "w": "rogebhyaḥ",
+        "gloss": "from diseases",
+        "gram": "m. abl. pl."
+       }
+      ]
+     },
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "pramocayet",
+      "words": [
+       {
+        "w": "pramocayet",
+        "gloss": "would free",
+        "gram": "3 sg. opt. caus. pra-√muc"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वही औषध उचित है जो आरोग्य प्रदान करे, और वही वैद्यों में श्रेष्ठ है जो रोगों से मुक्त कर दे।",
+  "english": "That alone is the proper medicine which brings about health, and he alone is the best of physicians who frees (people) from diseases.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "135",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "samyakprayogaṃ",
+      "words": [
+       {
+        "w": "samyak-prayogam",
+        "gloss": "correct application",
+        "gram": "m. acc. sg., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "sarveṣāṃ",
+      "words": [
+       {
+        "w": "sarveṣām",
+        "gloss": "of all",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "siddhirākhyāti",
+      "words": [
+       {
+        "w": "siddhiḥ",
+        "gloss": "success",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ākhyāti",
+        "gloss": "declares, shows",
+        "gram": "3 sg. pres. ā-√khyā"
+       }
+      ]
+     },
+     {
+      "src": "karmaṇām",
+      "words": [
+       {
+        "w": "karmaṇām",
+        "gloss": "of therapeutic actions",
+        "gram": "n. gen. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "siddhirākhyāti",
+      "words": [
+       {
+        "w": "siddhiḥ",
+        "gloss": "success",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ākhyāti",
+        "gloss": "declares, shows",
+        "gram": "3 sg. pres. ā-√khyā"
+       }
+      ]
+     },
+     {
+      "src": "sarvaiśca",
+      "words": [
+       {
+        "w": "sarvaiḥ",
+        "gloss": "with all",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "guṇairyuktaṃ",
+      "words": [
+       {
+        "w": "guṇaiḥ",
+        "gloss": "qualities",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "yuktam",
+        "gloss": "endowed with",
+        "gram": "m. acc. sg. ppp. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "bhiṣaktamam",
+      "words": [
+       {
+        "w": "bhiṣaktamam",
+        "gloss": "the best physician",
+        "gram": "m. acc. sg. superl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सिद्धि ही सब कर्मों के सही प्रयोग को बताती है, और सिद्धि ही सब गुणों से युक्त श्रेष्ठ वैद्य को बताती है।",
+  "english": "Success reveals the correct application of all therapeutic actions; and success reveals the best physician, endowed with all qualities.",
+  "text_flags": [],
+  "notes": "karman here = therapeutic procedure (karma = action per glossary).",
+  "confidence": "high"
+ },
+ {
+  "n": "136",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ślokāḥ",
+      "words": [
+       {
+        "w": "ślokāḥ",
+        "gloss": "verses",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "āyurvedāgamo",
+      "words": [
+       {
+        "w": "āyurveda-āgamaḥ",
+        "gloss": "coming of Āyurveda",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "heturāgamasya",
+      "words": [
+       {
+        "w": "hetuḥ",
+        "gloss": "cause",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "āgamasya",
+        "gloss": "of the coming",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pravartanam",
+      "words": [
+       {
+        "w": "pravartanam",
+        "gloss": "propagation",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sūtraṇasyābhyanujñānamāyurvedasya",
+      "words": [
+       {
+        "w": "sūtraṇasya",
+        "gloss": "of the composition (of treatises)",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "abhyanujñānam",
+        "gloss": "approval",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "āyurvedasya",
+        "gloss": "of Āyurveda",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "nirṇayaḥ",
+      "words": [
+       {
+        "w": "nirṇayaḥ",
+        "gloss": "definition",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यहाँ ये श्लोक हैं: आयुर्वेद का आगमन, उसके आगमन का कारण, उसका प्रवर्तन, सूत्ररचना का अनुमोदन, आयुर्वेद का निर्णय,",
+  "english": "Here are the verses (summarising the chapter): the coming of Āyurveda (the science of life), the reason for its coming, its propagation, the approval of the composition (of treatises), the definition of Āyurveda,",
+  "text_flags": [],
+  "notes": "'tatra ślokāḥ' is the lead-in formula of the closing summary; it is kept as line a of this numbered verse as the edition groups it. The list (a catalogue of topics in nom.) runs on to unit 140.",
+  "confidence": "high"
+ },
+ {
+  "n": "137",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "saṃpūrṇaṃ",
+      "words": [
+       {
+        "w": "saṃpūrṇam",
+        "gloss": "complete",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāraṇaṃ",
+      "words": [
+       {
+        "w": "kāraṇam",
+        "gloss": "cause",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāryamāyurvedaprayojanam",
+      "words": [
+       {
+        "w": "kāryam",
+        "gloss": "effect, aim",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "āyurveda-prayojanam",
+        "gloss": "purpose of Āyurveda",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "hetavaścaiva",
+      "words": [
+       {
+        "w": "hetavaḥ",
+        "gloss": "causes (of disease)",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "doṣāśca",
+      "words": [
+       {
+        "w": "doṣāḥ",
+        "gloss": "doṣas",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bheṣajaṃ",
+      "words": [
+       {
+        "w": "bheṣajam",
+        "gloss": "medicine",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃgraheṇa",
+      "words": [
+       {
+        "w": "saṃgraheṇa",
+        "gloss": "in brief",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पूर्ण कारण, कार्य, आयुर्वेद का प्रयोजन, रोगों के हेतु, दोष और संक्षेप में औषध,",
+  "english": "the complete (set of) causes (kāraṇa), the effect (kārya), the purpose of Āyurveda, the causes (of disease), the doṣas and, in brief, medicine,",
+  "text_flags": [],
+  "notes": "saṃpūrṇaṃ kāraṇam probably refers to the six fundamental causes (sāmānya, viśeṣa, guṇa, dravya, karma, samavāya) treated in the chapter; this is an interpretation. saṃgraheṇa 'in brief' may qualify only bheṣajam or the whole list.",
+  "confidence": "medium"
+ },
+ {
+  "n": "138",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rasāḥ",
+      "words": [
+       {
+        "w": "rasāḥ",
+        "gloss": "tastes",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sapratyayadravyāstrividho",
+      "words": [
+       {
+        "w": "sa-pratyaya-dravyāḥ",
+        "gloss": "with the substances that are their source",
+        "gram": "m. nom. pl., bahuvrīhi"
+       },
+       {
+        "w": "trividhaḥ",
+        "gloss": "threefold",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dravyasaṃgrahaḥ",
+      "words": [
+       {
+        "w": "dravya-saṃgrahaḥ",
+        "gloss": "classification of substances",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mūlinyaśca",
+      "words": [
+       {
+        "w": "mūlinyaḥ",
+        "gloss": "root-yielding plants",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "phalinyaśca",
+      "words": [
+       {
+        "w": "phalinyaḥ",
+        "gloss": "fruit-yielding plants",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "snehāśca",
+      "words": [
+       {
+        "w": "snehāḥ",
+        "gloss": "unctuous substances",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "lavaṇāni",
+      "words": [
+       {
+        "w": "lavaṇāni",
+        "gloss": "salts",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रस, उनके आश्रय रूप द्रव्यों सहित, द्रव्यों का तीन प्रकार का संग्रह, मूलिनी और फलिनी द्रव्य, स्नेह और लवण,",
+  "english": "the tastes (rasa) together with the substances that are their source, the threefold classification of substances, the root-yielding and fruit-yielding plants, the unctuous substances and the salts,",
+  "text_flags": [],
+  "notes": "sa-pratyaya-dravyāḥ is uncertain: 'with their causes, the substances' or 'with the substances that are their basis (pratyaya)'; the second is taken here.",
+  "confidence": "medium"
+ },
+ {
+  "n": "139",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mūtraṃ",
+      "words": [
+       {
+        "w": "mūtram",
+        "gloss": "urine",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣīrāṇi",
+      "words": [
+       {
+        "w": "kṣīrāṇi",
+        "gloss": "milks",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vṛkṣāśca",
+      "words": [
+       {
+        "w": "vṛkṣāḥ",
+        "gloss": "trees",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣaḍ",
+      "words": [
+       {
+        "w": "ṣaṭ",
+        "gloss": "six",
+        "gram": "num. nom."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "which",
+        "gram": "m. nom. pl. rel."
+       }
+      ]
+     },
+     {
+      "src": "kṣīratvagāśrayāḥ",
+      "words": [
+       {
+        "w": "kṣīra-tvak-āśrayāḥ",
+        "gloss": "based on latex and bark",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "karmāṇi",
+      "words": [
+       {
+        "w": "karmāṇi",
+        "gloss": "actions",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "caiṣāṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eṣām",
+        "gloss": "of these",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "sarveṣāṃ",
+      "words": [
+       {
+        "w": "sarveṣām",
+        "gloss": "of all",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "yogāyogaguṇāguṇāḥ",
+      "words": [
+       {
+        "w": "yoga-ayoga-guṇa-aguṇāḥ",
+        "gloss": "merits and demerits of proper and improper use",
+        "gram": "m. nom. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मूत्र, दूध, और वे छह वृक्ष जिनका उपयोग दूध और छाल पर आधारित है, इन सबके कर्म, और उचित तथा अनुचित प्रयोग के गुण और दोष,",
+  "english": "urine, the milks, the six trees whose use rests on latex and bark, the actions of all these, the merits of proper use and the faults of improper use,",
+  "text_flags": [],
+  "notes": "yoga-ayoga-guṇa-aguṇāḥ may also be read as four items: proper use, improper use, merits, demerits.",
+  "confidence": "high"
+ },
+ {
+  "n": "140",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vaidyāpavādo",
+      "words": [
+       {
+        "w": "vaidya-apavādaḥ",
+        "gloss": "censure of (false) physicians",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "yatrasthāḥ",
+      "words": [
+       {
+        "w": "yatra-sthāḥ",
+        "gloss": "found where",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sarve",
+      "words": [
+       {
+        "w": "sarve",
+        "gloss": "all",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhiṣajāṃ",
+      "words": [
+       {
+        "w": "bhiṣajām",
+        "gloss": "of physicians",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "guṇāḥ",
+      "words": [
+       {
+        "w": "guṇāḥ",
+        "gloss": "qualities",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sarvametat",
+      "words": [
+       {
+        "w": "sarvam",
+        "gloss": "all",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "etat",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "samākhyātaṃ",
+      "words": [
+       {
+        "w": "samākhyātam",
+        "gloss": "has been explained",
+        "gram": "n. nom. sg. ppp. sam-ā-√khyā"
+       }
+      ]
+     },
+     {
+      "src": "pūrvādhyāye",
+      "words": [
+       {
+        "w": "pūrva-adhyāye",
+        "gloss": "in the first chapter",
+        "gram": "m. loc. sg., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "maharṣiṇā",
+      "words": [
+       {
+        "w": "mahā-ṛṣiṇā",
+        "gloss": "by the great sage",
+        "gram": "m. inst. sg., karmadhāraya"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वैद्य की निन्दा, और जहाँ वैद्यों के सब गुण स्थित हैं, यह सब महर्षि ने पहले अध्याय में भली भाँति कहा है।",
+  "english": "the censure of (false) physicians, and (the passage) where all the qualities of physicians are found: all this has been explained by the great sage in the first chapter.",
+  "text_flags": [],
+  "notes": "yatrasthāḥ 'located where' is elliptical: the verses in which all the physician's qualities are stated. The great sage is not named here.",
+  "confidence": "high"
+ },
+ {
+  "n": "P1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ityagniveśakṛte",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "agniveśa-kṛte",
+        "gloss": "composed by Agniveśa",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tantre",
+      "words": [
+       {
+        "w": "tantre",
+        "gloss": "in the treatise",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "carakapratisaṃskṛte",
+      "words": [
+       {
+        "w": "caraka-pratisaṃskṛte",
+        "gloss": "redacted by Caraka",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sūtrasthāne",
+      "words": [
+       {
+        "w": "sūtra-sthāne",
+        "gloss": "in the Sūtra section",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "dīrghañjīvitīyo",
+      "words": [
+       {
+        "w": "dīrghañjīvitīyaḥ",
+        "gloss": "Dīrghañjīvitīya (title)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāma",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "named",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prathamo'dhyāyaḥ",
+      "words": [
+       {
+        "w": "prathamaḥ",
+        "gloss": "first",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "adhyāyaḥ",
+        "gloss": "chapter",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार अग्निवेश द्वारा रचित और चरक द्वारा प्रतिसंस्कृत तन्त्र के सूत्रस्थान में दीर्घंजीवितीय नामक पहला अध्याय समाप्त हुआ।",
+  "english": "Thus ends the first chapter, named Dīrghañjīvitīya (On long life), in the Sūtrasthāna of the treatise composed by Agniveśa and redacted by Caraka.",
+  "text_flags": [],
+  "notes": "Chapter colophon. The title is taken from the chapter's opening words (dīrghaṃ jīvitam). 'ends' is supplied; the Sanskrit has no verb.",
+  "confidence": "high"
+ }
+]
