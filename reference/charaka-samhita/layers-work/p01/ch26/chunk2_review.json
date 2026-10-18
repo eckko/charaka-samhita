@@ -1,0 +1,755 @@
+{
+ "units": [
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "pracakṣmahe",
+     "problem": "Gloss \"we shall describe\" is future; the form is present (gram says pres.; Hindi बताते हैं).",
+     "fix": "we describe",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pracakṣmahe",
+      "field": "gloss",
+      "value": "we describe",
+      "n": "30"
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Para and apara (superiority and inferiority) are",
+     "problem": "Glossary (review Sū 26 ch1): parāparatva = remoteness and nearness (paratva and aparatva); \"superiority/inferiority\" in notes only.",
+     "fix": "Paratva and aparatva (remoteness and nearness) are",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Para and apara (superiority and inferiority) are",
+      "new": "Paratva and aparatva (remoteness and nearness) are",
+      "n": "31"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "para-aparatve",
+     "problem": "Same glossary rule for the word gloss.",
+     "fix": "remoteness and nearness (paratva and aparatva)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "para-aparatve",
+      "field": "gloss",
+      "value": "remoteness and nearness (paratva and aparatva)",
+      "n": "31"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Record the alternative sense in notes, as the glossary allows.",
+     "fix": "append: Alternative sense of parāparatva: superiority and inferiority.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Alternative sense of parāparatva: superiority and inferiority.",
+      "n": "31"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हल्के और अव्यक्त रस वाले",
+     "problem": "Glossary: laghu = light, Hindi लघु (गुरु/लघु); chunk 1 of this chapter and 43.1 here (गुरु) use the Sanskrit term.",
+     "fix": "लघु और अव्यक्त रस वाले",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "हल्के और अव्यक्त रस वाले",
+      "new": "लघु और अव्यक्त रस वाले",
+      "n": "39"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "type",
+     "problem": "MANUAL: prose passage typed as a verse unit (type \"verse\", one long line, no metre). The units/text typing needs a person to change it to prose; no change to the layers (the draft already says so in notes).",
+     "fix": "(no layer change)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "type",
+     "problem": "MANUAL: prose passage typed as a verse unit (type \"verse\", one long line, no metre). The units/text typing needs a person to change it to prose; no change to the layers (the draft already says so in notes).",
+     "fix": "(no layer change)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "P11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "type",
+     "problem": "MANUAL: prose passage typed as a verse unit (type \"verse\", one long line, no metre). The units/text typing needs a person to change it to prose; no change to the layers (the draft already says so in notes).",
+     "fix": "(no layer change)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "We shall now explain",
+     "problem": "\"now\" is not printed (nothing added); the future alone announces the topic.",
+     "fix": "We shall explain",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "We shall now explain",
+      "new": "We shall explain",
+      "n": "42"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अब हम",
+     "problem": "\"अब\" is not printed.",
+     "fix": "हम",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अब हम",
+      "new": "हम",
+      "n": "42"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Note about \"now\" becomes stale once \"now\" is removed.",
+     "fix": "Prose line typed as a verse unit. yathādravyam: \"as they occur in substances\".",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "notes",
+      "value": "Prose line typed as a verse unit. yathādravyam: \"as they occur in substances\".",
+      "n": "42"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "type",
+     "problem": "MANUAL: prose passage typed as a verse unit (type \"verse\", one long line, no metre). The units/text typing needs a person to change it to prose; no change to the layers (the draft already says so in notes).",
+     "fix": "(no layer change)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "43.1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "allays burning and fainting",
+     "problem": "Glossary (review Sū 26 ch4, as Sū 24): the mūrcchā running word stays Sanskrit in English, glossed at first use.",
+     "fix": "allays burning and mūrcchā (fainting)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "allays burning and fainting",
+      "new": "allays burning and mūrcchā (fainting)",
+      "n": "43.1"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "ṣaṭpada-pipīlikānām",
+     "problem": "A dvandva takes the gender of its last member (pipīlikā, f.).",
+     "fix": "f. gen. pl., dvandva",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "ṣaṭpada-pipīlikānām",
+      "field": "gram",
+      "value": "f. gen. pl., dvandva",
+      "n": "43.1"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "type",
+     "problem": "MANUAL: prose passage typed as a verse unit (type \"verse\", one long line, no metre). The units/text typing needs a person to change it to prose; no change to the layers (the draft already says so in notes).",
+     "fix": "(no layer change)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "P12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अन्न में अरुचि",
+     "problem": "anannābhilāṣa is \"lack of desire for food\"; अरुचि is reserved for aruci (glossary aruci = loss of taste).",
+     "fix": "अन्न की इच्छा का अभाव",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अन्न में अरुचि",
+      "new": "अन्न की इच्छा का अभाव",
+      "n": "P12"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "गले की सूजन",
+     "problem": "Glossary: śotha/śopha/śvayathu, Hindi keeps the printed word (शोफ).",
+     "fix": "गले का शोफ",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "गले की सूजन",
+      "new": "गले का शोफ",
+      "n": "P12"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43.2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हल्का, उष्ण तथा स्निग्ध",
+     "problem": "Glossary: laghu = light, Hindi लघु (गुरु/लघु); chunk 1 of this chapter and 43.1 here (गुरु) use the Sanskrit term.",
+     "fix": "लघु, उष्ण तथा स्निग्ध",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "हल्का, उष्ण तथा स्निग्ध",
+      "new": "लघु, उष्ण तथा स्निग्ध",
+      "n": "43.2"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "type",
+     "problem": "MANUAL: prose passage typed as a verse unit (type \"verse\", one long line, no metre). The units/text typing needs a person to change it to prose; no change to the layers (the draft already says so in notes).",
+     "fix": "(no layer change)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "P13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43.3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "and is not excessively heavy, unctuous and hot.",
+     "problem": "As written, the negation seems to cover unctuous and hot too; na governs only atyarthaṃ guruḥ.",
+     "fix": "and is not excessively heavy, and is unctuous and hot.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "and is not excessively heavy, unctuous and hot.",
+      "new": "and is not excessively heavy, and is unctuous and hot.",
+      "n": "43.3"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "और बहुत गुरु नहीं, स्निग्ध और उष्ण होता है",
+     "problem": "Same ambiguity in Hindi.",
+     "fix": "और बहुत गुरु नहीं होता, तथा स्निग्ध और उष्ण होता है",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "और बहुत गुरु नहीं, स्निग्ध और उष्ण होता है",
+      "new": "और बहुत गुरु नहीं होता, तथा स्निग्ध और उष्ण होता है",
+      "n": "43.3"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "āhāra-yogī",
+     "problem": "yogin is an -in derivative, not an upapada compound.",
+     "fix": "m. nom. sg., tat-puruṣa",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "āhāra-yogī",
+      "field": "gram",
+      "value": "m. nom. sg., tat-puruṣa",
+      "n": "43.3"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "type",
+     "problem": "MANUAL: prose passage typed as a verse unit (type \"verse\", one long line, no metre). The units/text typing needs a person to change it to prose; no change to the layers (the draft already says so in notes).",
+     "fix": "(no layer change)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "P14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "causes thirst, causes fainting, heats",
+     "problem": "Glossary (review Sū 26 ch4, as Sū 24): the mūrcchā running word stays Sanskrit in English, glossed at first use.",
+     "fix": "causes thirst, causes mūrcchā, heats",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "causes thirst, causes fainting, heats",
+      "new": "causes thirst, causes mūrcchā, heats",
+      "n": "P14"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43.4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "excess moisture (kleda)",
+     "problem": "Glossary (review Sū 20 ch1, Sū 26 ch1): kleda = moistness (kleda); \"excess\" is not printed.",
+     "fix": "moistness (kleda)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "excess moisture (kleda)",
+      "new": "moistness (kleda)",
+      "n": "43.4"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "हल्का, उष्ण तथा रूक्ष",
+     "problem": "Glossary: laghu = light, Hindi लघु (गुरु/लघु); chunk 1 of this chapter and 43.1 here (गुरु) use the Sanskrit term.",
+     "fix": "लघु, उष्ण तथा रूक्ष",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "हल्का, उष्ण तथा रूक्ष",
+      "new": "लघु, उष्ण तथा रूक्ष",
+      "n": "43.4"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "खुजली को नष्ट करता है",
+     "problem": "43.5 Hindi keeps कण्डू for kaṇḍū; keep one rendering in the chunk.",
+     "fix": "कण्डू को नष्ट करता है",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "खुजली को नष्ट करता है",
+      "new": "कण्डू को नष्ट करता है",
+      "n": "43.4"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "type",
+     "problem": "MANUAL: prose passage typed as a verse unit (type \"verse\", one long line, no metre). The units/text typing needs a person to change it to prose; no change to the layers (the draft already says so in notes).",
+     "fix": "(no layer change)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "P15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "emaciates, causes fainting, bends",
+     "problem": "Glossary (review Sū 26 ch4, as Sū 24): the mūrcchā running word stays Sanskrit in English, glossed at first use.",
+     "fix": "emaciates, causes mūrcchā, bends",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "emaciates, causes fainting, bends",
+      "new": "emaciates, causes mūrcchā, bends",
+      "n": "P15"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "शरीर को झुकाता है",
+     "problem": "Glossary (review Sū 24 ch2): supplied nouns go in brackets in Hindi as in the English \"(the body)\".",
+     "fix": "(शरीर को) झुकाता है",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "शरीर को झुकाता है",
+      "new": "(शरीर को) झुकाता है",
+      "n": "P15"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43.5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "allays fainting, burning",
+     "problem": "Glossary (review Sū 26 ch4, as Sū 24): the mūrcchā running word stays Sanskrit in English, glossed at first use.",
+     "fix": "allays mūrcchā, burning",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "allays fainting, burning",
+      "new": "allays mūrcchā, burning",
+      "n": "43.5"
+     }
+    },
+    {
+     "field": "english",
+     "where": "dries up excess moisture (kleda)",
+     "problem": "Glossary (review Sū 20 ch1, Sū 26 ch1): kleda = moistness (kleda); \"excess\" is not printed.",
+     "fix": "dries up moistness (kleda)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "dries up excess moisture (kleda)",
+      "new": "dries up moistness (kleda)",
+      "n": "43.5"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "शीतल तथा हल्का",
+     "problem": "Glossary: laghu = light, Hindi लघु (गुरु/लघु); chunk 1 of this chapter and 43.1 here (गुरु) use the Sanskrit term.",
+     "fix": "शीतल तथा लघु",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "शीतल तथा हल्का",
+      "new": "शीतल तथा लघु",
+      "n": "43.5"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "type",
+     "problem": "MANUAL: prose passage typed as a verse unit (type \"verse\", one long line, no metre). The units/text typing needs a person to change it to prose; no change to the layers (the draft already says so in notes).",
+     "fix": "(no layer change)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "P16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43.6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "consumes the excess moisture (kleda) of the body",
+     "problem": "Glossary (review Sū 20 ch1, Sū 26 ch1): kleda = moistness (kleda); \"excess\" is not printed.",
+     "fix": "consumes the moistness (kleda) of the body",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "consumes the excess moisture (kleda) of the body",
+      "new": "consumes the moistness (kleda) of the body",
+      "n": "43.6"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "śarīra-kledasya",
+     "problem": "Same kleda rule for the word gloss.",
+     "fix": "of the moistness of the body",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "śarīra-kledasya",
+      "field": "gloss",
+      "value": "of the moistness of the body",
+      "n": "43.6"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "type",
+     "problem": "MANUAL: prose passage typed as a verse unit (type \"verse\", one long line, no metre). The units/text typing needs a person to change it to prose; no change to the layers (the draft already says so in notes).",
+     "fix": "(no layer change)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "P17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "type",
+     "problem": "MANUAL: prose passage typed as a verse unit (type \"verse\", one long line, no metre). The units/text typing needs a person to change it to prose; no change to the layers (the draft already says so in notes).",
+     "fix": "(no layer change)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "Plant identifications",
+     "problem": "POLICY (Sū 23): identifications minimal; drop \"probable\" ones (cavya) and species claims the verse does not need (citraka is only an example of a substance whose taste agrees with its vīrya and vipāka).",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "notes",
+      "value": "",
+      "n": "47"
+     }
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "eva",
+     "problem": "Glossary: eva = emphatic particle (\"just, indeed\"); \"also\" renders ca.",
+     "fix": "indeed (emphatic)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "eva",
+      "field": "gloss",
+      "value": "indeed (emphatic)",
+      "n": "48"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "abja-ānūpam",
+     "problem": "abjānūpam is split off as its own word, so it is a dvandva used as an adjective of āmiṣam (or read the whole token as one compound abja-ānūpa-āmiṣam); label it so.",
+     "fix": "n. nom. sg., dvandva used as adjective of āmiṣam",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "abja-ānūpam",
+      "field": "gram",
+      "value": "n. nom. sg., dvandva used as adjective of āmiṣam",
+      "n": "48"
+     }
+    }
+   ]
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "Plant identifications",
+     "problem": "POLICY: keep only standard identifications that help the verse (āmalaka is on the Sū 23 list); drop the species claims for arka, aguru and guḍūcī, which the verse does not need.",
+     "fix": "Plant identification: āmalaka = Phyllanthus emblica (standard). saindhava: literally \"from Sindhu\", a salt. \"vīrya\" is understood from the context of units 45-46.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "notes",
+      "value": "Plant identification: āmalaka = Phyllanthus emblica (standard). saindhava: literally \"from Sindhu\", a salt. \"vīrya\" is understood from the context of units 45-46.",
+      "n": "49"
+     }
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "kapittha = Limonia acidissima (standard)",
+     "problem": "POLICY: no species-level claim needed; a common name is enough (as hiṅgu = asafoetida, badara = jujube in Sū 23).",
+     "fix": "kapittha = wood-apple (standard)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "kapittha = Limonia acidissima (standard)",
+      "new": "kapittha = wood-apple (standard)",
+      "n": "50"
+     }
+    }
+   ]
+  },
+  {
+   "n": "51",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पर अभया में",
+     "problem": "The contrast is supplied (English brackets \"(but)\"; the note says no particle is printed); bracket it in Hindi too.",
+     "fix": "(पर) अभया में",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "पर अभया में",
+      "new": "(पर) अभया में",
+      "n": "51"
+     }
+    }
+   ]
+  },
+  {
+   "n": "52",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "53",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "54",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "56",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "0 errors, 33 minor issues in 18 of 39 units, all with patches; no regrouping. 11 MANUAL items (39, 40, 41, 42, 43.1-43.6, 44: prose typed as verse; note only, no patch). Text flags: all 27 kept; each cites the chunk, grammar or metre. Judged: 39 laghvyāś→laghvyaś (no nom. pl. laghvyāḥ, it is abl./gen. sg.), ṣād→ṣaḍ; 43.2 repeated bhaktaṃ rocayati = possible dittography (repeat within the line, translated once); 43.3 dikāsy→vikāsy possible (dikāsin is not a word); P14 uparūṇaddhi→uparuṇaddhi (√rudh, short u); 43.4 bhūktaṃ→bhuktaṃ, paṇḍūr→kaṇḍūr possible (paṇḍū- is not a word, kaṇḍūr fits the -ūr sandhi, kaṇḍū in 43.5); 52 dravyām→dravyam (grammar; 5th syllable of the even pāda must be light), dṛṣtaṃ→dṛṣṭaṃ; 54 nirūcyate→nirucyate (passive of √vac, ucyate in 32 and 49). English: parāparatva = remoteness and nearness (31, glossary Sū 26 ch1); mūrcchā kept Sanskrit (43.1, P14, P15, 43.5); kleda = moistness, not 'excess moisture' (43.4, 43.5, 43.6); 42 'now' removed; 43.3 negation scope fixed. Hindi: laghu = लघु (39, 43.2, 43.4, 43.5); P12 अन्न की इच्छा का अभाव, गले का शोफ; 43.4 कण्डू; P15 and 51 supplied words bracketed. Plant notes trimmed to POLICY: 47 cavya (probable) and citraka dropped; 49 only āmalaka kept; 50 kapittha = wood-apple; 51 pippalī and abhayā kept (standard, on the Sū 23 list). No notes cite commentators, other editions or memory (the 'another reading' notes in P14 and 56 are parsing alternatives). Judged and kept: 31 parāparatve as nom. du. and pāka = vipāka (Hindi पाक); 45 lead-in and open sentence; 46 low confidence is right (the scope of the second line is unclear); 48 examples not assigned to tastes; P14 object order (māṃsāni pragālayati, kuṣṭhāni viṣaṃ vardhayati) follows the object-before-verb pattern of the series; P12 list of 17 items read correctly (saṃjñā-svara-praṇāśa and basti-dhamanī-gala-upalepa as single items); 55-56 'respectively' reading and the amlāt alternative in notes; 43.6 alaghu kept literal. Unreviewed AI draft."
+}

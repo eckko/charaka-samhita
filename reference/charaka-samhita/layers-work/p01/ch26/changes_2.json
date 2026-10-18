@@ -1,0 +1,240 @@
+[
+ {
+  "n": "30",
+  "field": "word.gloss",
+  "word": "pracakṣmahe",
+  "old": "we shall describe",
+  "new": "we describe",
+  "why": "reviewer (minor): Gloss \"we shall describe\" is future; the form is present (gram says pres.; Hindi बताते हैं)."
+ },
+ {
+  "n": "31",
+  "field": "english",
+  "old": "Para and apara (superiority and inferiority) are with respect to place, time, age, measure, vipāka (post-digestive effect), vīrya (potency), taste and so on; and yukti (rational planning) is the combining (yojanā) that is fitting.",
+  "new": "Paratva and aparatva (remoteness and nearness) are with respect to place, time, age, measure, vipāka (post-digestive effect), vīrya (potency), taste and so on; and yukti (rational planning) is the combining (yojanā) that is fitting.",
+  "why": "reviewer (minor): Glossary (review Sū 26 ch1): parāparatva = remoteness and nearness (paratva and aparatva); \"superiority/inferiority\" in notes only."
+ },
+ {
+  "n": "31",
+  "field": "word.gloss",
+  "word": "para-aparatve",
+  "old": "superiority and inferiority (paratva and aparatva)",
+  "new": "remoteness and nearness (paratva and aparatva)",
+  "why": "reviewer (minor): Same glossary rule for the word gloss."
+ },
+ {
+  "n": "31",
+  "field": "notes",
+  "old": "The verb for para-apara is understood; parāparatve read as nominative dual (paratva and aparatva). pāka here is taken as vipāka.",
+  "new": "The verb for para-apara is understood; parāparatve read as nominative dual (paratva and aparatva). pāka here is taken as vipāka. Alternative sense of parāparatva: superiority and inferiority.",
+  "why": "reviewer (minor): Record the alternative sense in notes, as the glossary allows."
+ },
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "जल निश्चय ही सौम्य, अन्तरिक्ष में उत्पन्न, स्वभाव से शीतल, हल्के और अव्यक्त रस वाले होते हैं; वे अन्तरिक्ष से गिरते हुए और गिरकर पाँच महाभूतों के गुणों से युक्त होकर जंगम और स्थावर प्राणियों के शरीरों को तृप्त करते हैं; उन शरीरों में छह रस प्रकट होते हैं।",
+  "new": "जल निश्चय ही सौम्य, अन्तरिक्ष में उत्पन्न, स्वभाव से शीतल, लघु और अव्यक्त रस वाले होते हैं; वे अन्तरिक्ष से गिरते हुए और गिरकर पाँच महाभूतों के गुणों से युक्त होकर जंगम और स्थावर प्राणियों के शरीरों को तृप्त करते हैं; उन शरीरों में छह रस प्रकट होते हैं।",
+  "why": "reviewer (minor): Glossary: laghu = light, Hindi लघु (गुरु/लघु); chunk 1 of this chapter and 43.1 here (गुरु) use the Sanskrit term."
+ },
+ {
+  "n": "42",
+  "field": "english",
+  "old": "We shall now explain the qualities and actions of each one of these six tastes according to the substance.",
+  "new": "We shall explain the qualities and actions of each one of these six tastes according to the substance.",
+  "why": "reviewer (minor): \"now\" is not printed (nothing added); the future alone announces the topic."
+ },
+ {
+  "n": "42",
+  "field": "hindi",
+  "old": "अब हम इन छह रसों में से प्रत्येक के गुण और कर्म द्रव्य के अनुसार बताएँगे।",
+  "new": "हम इन छह रसों में से प्रत्येक के गुण और कर्म द्रव्य के अनुसार बताएँगे।",
+  "why": "reviewer (minor): \"अब\" is not printed."
+ },
+ {
+  "n": "42",
+  "field": "notes",
+  "old": "Prose line typed as a verse unit. yathādravyam: \"as they occur in substances\"; \"now\" in the translation renders the future of announcement, not a printed word.",
+  "new": "Prose line typed as a verse unit. yathādravyam: \"as they occur in substances\".",
+  "why": "reviewer (minor): Note about \"now\" becomes stale once \"now\" is removed."
+ },
+ {
+  "n": "43.1",
+  "field": "english",
+  "old": "Among them, the sweet taste, because of its suitability to the body, increases rasa, blood, flesh, fat, bone, marrow, ojas (vital essence) and semen; it promotes life, clears the six sense faculties, produces strength and complexion, destroys Pitta, poison and Vāta (māruta), allays thirst and burning, is good for the skin, the hair and the throat, is strengthening, gladdening, vitalizing, replenishing (tarpaṇa) and nourishing, gives firmness, unites the wasted and the wounded, delights the nose, mouth, throat, lips and tongue, allays burning and fainting, is most liked by bees and ants, and is unctuous, cold and heavy.",
+  "new": "Among them, the sweet taste, because of its suitability to the body, increases rasa, blood, flesh, fat, bone, marrow, ojas (vital essence) and semen; it promotes life, clears the six sense faculties, produces strength and complexion, destroys Pitta, poison and Vāta (māruta), allays thirst and burning, is good for the skin, the hair and the throat, is strengthening, gladdening, vitalizing, replenishing (tarpaṇa) and nourishing, gives firmness, unites the wasted and the wounded, delights the nose, mouth, throat, lips and tongue, allays burning and mūrcchā (fainting), is most liked by bees and ants, and is unctuous, cold and heavy.",
+  "why": "reviewer (minor): Glossary (review Sū 26 ch4, as Sū 24): the mūrcchā running word stays Sanskrit in English, glossed at first use."
+ },
+ {
+  "n": "43.1",
+  "field": "word.gram",
+  "word": "ṣaṭpada-pipīlikānām",
+  "old": "m./f. gen. pl., dvandva",
+  "new": "f. gen. pl., dvandva",
+  "why": "reviewer (minor): A dvandva takes the gender of its last member (pipīlikā, f.)."
+ },
+ {
+  "n": "P12",
+  "field": "hindi",
+  "old": "ऐसे गुणों वाला होने पर भी वह अकेला ही अत्यधिक सेवन किए जाने पर स्थूलता, मृदुता, आलस्य, अतिनिद्रा, भारीपन, अन्न में अरुचि, अग्नि की दुर्बलता, मुख और कण्ठ में मांस की वृद्धि, तथा श्वास, कास, प्रतिश्याय, अलसक, शीतज्वर, आनाह, मुख की मधुरता, वमथु, संज्ञा और स्वर का नाश, गलगण्ड, गण्डमाला, श्लीपद, गले की सूजन, बस्ति, धमनियों और गले पर लेप, नेत्ररोग और अभिष्यन्द, इस प्रकार के कफज विकारों को उत्पन्न करता है।",
+  "new": "ऐसे गुणों वाला होने पर भी वह अकेला ही अत्यधिक सेवन किए जाने पर स्थूलता, मृदुता, आलस्य, अतिनिद्रा, भारीपन, अन्न की इच्छा का अभाव, अग्नि की दुर्बलता, मुख और कण्ठ में मांस की वृद्धि, तथा श्वास, कास, प्रतिश्याय, अलसक, शीतज्वर, आनाह, मुख की मधुरता, वमथु, संज्ञा और स्वर का नाश, गलगण्ड, गण्डमाला, श्लीपद, गले की सूजन, बस्ति, धमनियों और गले पर लेप, नेत्ररोग और अभिष्यन्द, इस प्रकार के कफज विकारों को उत्पन्न करता है।",
+  "why": "reviewer (minor): anannābhilāṣa is \"lack of desire for food\"; अरुचि is reserved for aruci (glossary aruci = loss of taste)."
+ },
+ {
+  "n": "P12",
+  "field": "hindi",
+  "old": "ऐसे गुणों वाला होने पर भी वह अकेला ही अत्यधिक सेवन किए जाने पर स्थूलता, मृदुता, आलस्य, अतिनिद्रा, भारीपन, अन्न की इच्छा का अभाव, अग्नि की दुर्बलता, मुख और कण्ठ में मांस की वृद्धि, तथा श्वास, कास, प्रतिश्याय, अलसक, शीतज्वर, आनाह, मुख की मधुरता, वमथु, संज्ञा और स्वर का नाश, गलगण्ड, गण्डमाला, श्लीपद, गले की सूजन, बस्ति, धमनियों और गले पर लेप, नेत्ररोग और अभिष्यन्द, इस प्रकार के कफज विकारों को उत्पन्न करता है।",
+  "new": "ऐसे गुणों वाला होने पर भी वह अकेला ही अत्यधिक सेवन किए जाने पर स्थूलता, मृदुता, आलस्य, अतिनिद्रा, भारीपन, अन्न की इच्छा का अभाव, अग्नि की दुर्बलता, मुख और कण्ठ में मांस की वृद्धि, तथा श्वास, कास, प्रतिश्याय, अलसक, शीतज्वर, आनाह, मुख की मधुरता, वमथु, संज्ञा और स्वर का नाश, गलगण्ड, गण्डमाला, श्लीपद, गले का शोफ, बस्ति, धमनियों और गले पर लेप, नेत्ररोग और अभिष्यन्द, इस प्रकार के कफज विकारों को उत्पन्न करता है।",
+  "why": "reviewer (minor): Glossary: śotha/śopha/śvayathu, Hindi keeps the printed word (शोफ)."
+ },
+ {
+  "n": "43.2",
+  "field": "hindi",
+  "old": "अम्ल रस भोजन में रुचि उत्पन्न करता है, अग्नि को दीप्त करता है, देह को बढ़ाता है, ऊर्जा देता है, मन को जगाता है, इन्द्रियों को दृढ़ करता है, बल बढ़ाता है, वात का अनुलोमन करता है, हृदय को तृप्त करता है, मुख में पानी लाता है, खाए हुए को नीचे ले जाता है, क्लेद उत्पन्न करता है, पचाता है, प्रसन्न करता है, और हल्का, उष्ण तथा स्निग्ध होता है।",
+  "new": "अम्ल रस भोजन में रुचि उत्पन्न करता है, अग्नि को दीप्त करता है, देह को बढ़ाता है, ऊर्जा देता है, मन को जगाता है, इन्द्रियों को दृढ़ करता है, बल बढ़ाता है, वात का अनुलोमन करता है, हृदय को तृप्त करता है, मुख में पानी लाता है, खाए हुए को नीचे ले जाता है, क्लेद उत्पन्न करता है, पचाता है, प्रसन्न करता है, और लघु, उष्ण तथा स्निग्ध होता है।",
+  "why": "reviewer (minor): Glossary: laghu = light, Hindi लघु (गुरु/लघु); chunk 1 of this chapter and 43.1 here (गुरु) use the Sanskrit term."
+ },
+ {
+  "n": "43.3",
+  "field": "english",
+  "old": "The salty taste is digesting, moistening, stimulating digestion, dislodging, cutting, breaking, sharp, flowing, spreading, moving downward, making space, Vāta-removing, dispersing stiffness, binding and compaction, and opposed to all the tastes; it makes the mouth water, liquefies Kapha, cleanses the passages, softens all the parts of the body, makes food relished, goes with food, and is not excessively heavy, unctuous and hot.",
+  "new": "The salty taste is digesting, moistening, stimulating digestion, dislodging, cutting, breaking, sharp, flowing, spreading, moving downward, making space, Vāta-removing, dispersing stiffness, binding and compaction, and opposed to all the tastes; it makes the mouth water, liquefies Kapha, cleanses the passages, softens all the parts of the body, makes food relished, goes with food, and is not excessively heavy, and is unctuous and hot.",
+  "why": "reviewer (minor): As written, the negation seems to cover unctuous and hot too; na governs only atyarthaṃ guruḥ."
+ },
+ {
+  "n": "43.3",
+  "field": "hindi",
+  "old": "लवण रस पाचन, क्लेदन, दीपन, च्यावन, छेदन, भेदन, तीक्ष्ण, सर, विकासी, नीचे की ओर सरकाने वाला, अवकाश करने वाला, वातहर, स्तम्भ, बन्ध और संघात को दूर करने वाला, सब रसों का विरोधी होता है; वह मुख में पानी लाता है, कफ को द्रवित करता है, मार्गों को शुद्ध करता है, शरीर के सब अवयवों को मृदु करता है, आहार में रुचि उत्पन्न करता है, आहार के साथ जुड़ने वाला है, और बहुत गुरु नहीं, स्निग्ध और उष्ण होता है।",
+  "new": "लवण रस पाचन, क्लेदन, दीपन, च्यावन, छेदन, भेदन, तीक्ष्ण, सर, विकासी, नीचे की ओर सरकाने वाला, अवकाश करने वाला, वातहर, स्तम्भ, बन्ध और संघात को दूर करने वाला, सब रसों का विरोधी होता है; वह मुख में पानी लाता है, कफ को द्रवित करता है, मार्गों को शुद्ध करता है, शरीर के सब अवयवों को मृदु करता है, आहार में रुचि उत्पन्न करता है, आहार के साथ जुड़ने वाला है, और बहुत गुरु नहीं होता, तथा स्निग्ध और उष्ण होता है।",
+  "why": "reviewer (minor): Same ambiguity in Hindi."
+ },
+ {
+  "n": "43.3",
+  "field": "word.gram",
+  "word": "āhāra-yogī",
+  "old": "m. nom. sg., upapada tat-puruṣa",
+  "new": "m. nom. sg., tat-puruṣa",
+  "why": "reviewer (minor): yogin is an -in derivative, not an upapada compound."
+ },
+ {
+  "n": "P14",
+  "field": "english",
+  "old": "Though it has such qualities, when used alone and excessively it aggravates Pitta, increases the blood, causes thirst, causes fainting, heats, causes cracking, tears, makes the flesh ooze away, increases kuṣṭhas and poison, bursts swellings, makes the teeth fall, impairs virility, obstructs the senses, and brings about wrinkles, grey hair and baldness; moreover, it produces disorders such as lohitapitta, amlapitta, vīsarpa, vātarakta, vicarcikā and indralupta.",
+  "new": "Though it has such qualities, when used alone and excessively it aggravates Pitta, increases the blood, causes thirst, causes mūrcchā, heats, causes cracking, tears, makes the flesh ooze away, increases kuṣṭhas and poison, bursts swellings, makes the teeth fall, impairs virility, obstructs the senses, and brings about wrinkles, grey hair and baldness; moreover, it produces disorders such as lohitapitta, amlapitta, vīsarpa, vātarakta, vicarcikā and indralupta.",
+  "why": "reviewer (minor): Glossary (review Sū 26 ch4, as Sū 24): the mūrcchā running word stays Sanskrit in English, glossed at first use."
+ },
+ {
+  "n": "43.4",
+  "field": "english",
+  "old": "The pungent taste cleanses the mouth, kindles the digestive fire, dries what has been eaten, makes the nose discharge, makes the eyes discharge, makes the senses clear, destroys alasaka, swelling (śvayathu), increase of body (upacaya), udarda, abhiṣyanda, fat (sneha), sweat, excess moisture (kleda) and wastes, makes food relished, destroys itching, makes wounds subside, kills worms (krimi), scrapes the flesh, breaks up clotted blood, cuts bindings, opens the passages, pacifies Kapha (śleṣman), and is light, hot and dry.",
+  "new": "The pungent taste cleanses the mouth, kindles the digestive fire, dries what has been eaten, makes the nose discharge, makes the eyes discharge, makes the senses clear, destroys alasaka, swelling (śvayathu), increase of body (upacaya), udarda, abhiṣyanda, fat (sneha), sweat, moistness (kleda) and wastes, makes food relished, destroys itching, makes wounds subside, kills worms (krimi), scrapes the flesh, breaks up clotted blood, cuts bindings, opens the passages, pacifies Kapha (śleṣman), and is light, hot and dry.",
+  "why": "reviewer (minor): Glossary (review Sū 20 ch1, Sū 26 ch1): kleda = moistness (kleda); \"excess\" is not printed."
+ },
+ {
+  "n": "43.4",
+  "field": "hindi",
+  "old": "कटु रस मुख को शुद्ध करता है, अग्नि को दीप्त करता है, खाए हुए को सुखाता है, नाक से स्राव कराता है, आँख से स्राव कराता है, इन्द्रियों को स्पष्ट करता है, अलसक, श्वयथु, उपचय, उदर्द, अभिष्यन्द, स्नेह, स्वेद, क्लेद और मलों को नष्ट करता है, भोजन में रुचि उत्पन्न करता है, खुजली को नष्ट करता है, व्रणों को बैठाता है, कृमियों को मारता है, मांस को खुरचता है, रक्त के जमाव को तोड़ता है, बन्धों को काटता है, मार्गों को खोलता है, श्लेष्मा को शान्त करता है, और हल्का, उष्ण तथा रूक्ष होता है।",
+  "new": "कटु रस मुख को शुद्ध करता है, अग्नि को दीप्त करता है, खाए हुए को सुखाता है, नाक से स्राव कराता है, आँख से स्राव कराता है, इन्द्रियों को स्पष्ट करता है, अलसक, श्वयथु, उपचय, उदर्द, अभिष्यन्द, स्नेह, स्वेद, क्लेद और मलों को नष्ट करता है, भोजन में रुचि उत्पन्न करता है, खुजली को नष्ट करता है, व्रणों को बैठाता है, कृमियों को मारता है, मांस को खुरचता है, रक्त के जमाव को तोड़ता है, बन्धों को काटता है, मार्गों को खोलता है, श्लेष्मा को शान्त करता है, और लघु, उष्ण तथा रूक्ष होता है।",
+  "why": "reviewer (minor): Glossary: laghu = light, Hindi लघु (गुरु/लघु); chunk 1 of this chapter and 43.1 here (गुरु) use the Sanskrit term."
+ },
+ {
+  "n": "43.4",
+  "field": "hindi",
+  "old": "कटु रस मुख को शुद्ध करता है, अग्नि को दीप्त करता है, खाए हुए को सुखाता है, नाक से स्राव कराता है, आँख से स्राव कराता है, इन्द्रियों को स्पष्ट करता है, अलसक, श्वयथु, उपचय, उदर्द, अभिष्यन्द, स्नेह, स्वेद, क्लेद और मलों को नष्ट करता है, भोजन में रुचि उत्पन्न करता है, खुजली को नष्ट करता है, व्रणों को बैठाता है, कृमियों को मारता है, मांस को खुरचता है, रक्त के जमाव को तोड़ता है, बन्धों को काटता है, मार्गों को खोलता है, श्लेष्मा को शान्त करता है, और लघु, उष्ण तथा रूक्ष होता है।",
+  "new": "कटु रस मुख को शुद्ध करता है, अग्नि को दीप्त करता है, खाए हुए को सुखाता है, नाक से स्राव कराता है, आँख से स्राव कराता है, इन्द्रियों को स्पष्ट करता है, अलसक, श्वयथु, उपचय, उदर्द, अभिष्यन्द, स्नेह, स्वेद, क्लेद और मलों को नष्ट करता है, भोजन में रुचि उत्पन्न करता है, कण्डू को नष्ट करता है, व्रणों को बैठाता है, कृमियों को मारता है, मांस को खुरचता है, रक्त के जमाव को तोड़ता है, बन्धों को काटता है, मार्गों को खोलता है, श्लेष्मा को शान्त करता है, और लघु, उष्ण तथा रूक्ष होता है।",
+  "why": "reviewer (minor): 43.5 Hindi keeps कण्डू for kaṇḍū; keep one rendering in the chunk."
+ },
+ {
+  "n": "P15",
+  "field": "english",
+  "old": "Though it has such qualities, when used alone and excessively it impairs virility by the power of its vipāka; by the power of its taste and vīrya it stupefies, exhausts, depresses, emaciates, causes fainting, bends (the body), causes darkness of sight, causes giddiness, burns the throat, produces heat of the body, diminishes strength and produces thirst; moreover, from the abundance of the qualities of air and fire, it produces Vāta-born (māruta) disorders, with giddiness, burning (davathu), tremor, pricking and splitting pain, in the feet, arms, sides, back and so on.",
+  "new": "Though it has such qualities, when used alone and excessively it impairs virility by the power of its vipāka; by the power of its taste and vīrya it stupefies, exhausts, depresses, emaciates, causes mūrcchā, bends (the body), causes darkness of sight, causes giddiness, burns the throat, produces heat of the body, diminishes strength and produces thirst; moreover, from the abundance of the qualities of air and fire, it produces Vāta-born (māruta) disorders, with giddiness, burning (davathu), tremor, pricking and splitting pain, in the feet, arms, sides, back and so on.",
+  "why": "reviewer (minor): Glossary (review Sū 26 ch4, as Sū 24): the mūrcchā running word stays Sanskrit in English, glossed at first use."
+ },
+ {
+  "n": "P15",
+  "field": "hindi",
+  "old": "ऐसे गुणों वाला होने पर भी वह अकेला ही अत्यधिक सेवन किए जाने पर विपाक के प्रभाव से पुंस्त्व को नष्ट करता है; रस और वीर्य के प्रभाव से मोह उत्पन्न करता है, ग्लानि देता है, शिथिलता लाता है, कृश करता है, मूर्च्छा उत्पन्न करता है, शरीर को झुकाता है, आँखों के आगे अँधेरा लाता है, भ्रम उत्पन्न करता है, कण्ठ में जलन करता है, शरीर में ताप उत्पन्न करता है, बल को क्षीण करता है, तृष्णा उत्पन्न करता है; और भी, वायु और अग्नि के गुणों की अधिकता के कारण भ्रम, दवथु, कम्प, तोद और भेद के साथ पैरों, भुजाओं, पार्श्वों, पीठ आदि में मारुतज विकारों को उत्पन्न करता है।",
+  "new": "ऐसे गुणों वाला होने पर भी वह अकेला ही अत्यधिक सेवन किए जाने पर विपाक के प्रभाव से पुंस्त्व को नष्ट करता है; रस और वीर्य के प्रभाव से मोह उत्पन्न करता है, ग्लानि देता है, शिथिलता लाता है, कृश करता है, मूर्च्छा उत्पन्न करता है, (शरीर को) झुकाता है, आँखों के आगे अँधेरा लाता है, भ्रम उत्पन्न करता है, कण्ठ में जलन करता है, शरीर में ताप उत्पन्न करता है, बल को क्षीण करता है, तृष्णा उत्पन्न करता है; और भी, वायु और अग्नि के गुणों की अधिकता के कारण भ्रम, दवथु, कम्प, तोद और भेद के साथ पैरों, भुजाओं, पार्श्वों, पीठ आदि में मारुतज विकारों को उत्पन्न करता है।",
+  "why": "reviewer (minor): Glossary (review Sū 24 ch2): supplied nouns go in brackets in Hindi as in the English \"(the body)\"."
+ },
+ {
+  "n": "43.5",
+  "field": "english",
+  "old": "The bitter taste, though itself unrelished, destroys arocaka (lack of relish); it destroys poison and worms (krimi), allays fainting, burning, itching, kuṣṭha and thirst, makes the skin and flesh firm, destroys fever, stimulates digestion, digests, purifies breast milk (stanya), scrapes (lekhana), dries up excess moisture (kleda), fat, muscle-fat (vasā), marrow, lasīkā (watery body fluid), pus, sweat, urine, faeces, Pitta and Kapha (śleṣman), and is dry, cold and light.",
+  "new": "The bitter taste, though itself unrelished, destroys arocaka (lack of relish); it destroys poison and worms (krimi), allays mūrcchā, burning, itching, kuṣṭha and thirst, makes the skin and flesh firm, destroys fever, stimulates digestion, digests, purifies breast milk (stanya), scrapes (lekhana), dries up excess moisture (kleda), fat, muscle-fat (vasā), marrow, lasīkā (watery body fluid), pus, sweat, urine, faeces, Pitta and Kapha (śleṣman), and is dry, cold and light.",
+  "why": "reviewer (minor): Glossary (review Sū 26 ch4, as Sū 24): the mūrcchā running word stays Sanskrit in English, glossed at first use."
+ },
+ {
+  "n": "43.5",
+  "field": "english",
+  "old": "The bitter taste, though itself unrelished, destroys arocaka (lack of relish); it destroys poison and worms (krimi), allays mūrcchā, burning, itching, kuṣṭha and thirst, makes the skin and flesh firm, destroys fever, stimulates digestion, digests, purifies breast milk (stanya), scrapes (lekhana), dries up excess moisture (kleda), fat, muscle-fat (vasā), marrow, lasīkā (watery body fluid), pus, sweat, urine, faeces, Pitta and Kapha (śleṣman), and is dry, cold and light.",
+  "new": "The bitter taste, though itself unrelished, destroys arocaka (lack of relish); it destroys poison and worms (krimi), allays mūrcchā, burning, itching, kuṣṭha and thirst, makes the skin and flesh firm, destroys fever, stimulates digestion, digests, purifies breast milk (stanya), scrapes (lekhana), dries up moistness (kleda), fat, muscle-fat (vasā), marrow, lasīkā (watery body fluid), pus, sweat, urine, faeces, Pitta and Kapha (śleṣman), and is dry, cold and light.",
+  "why": "reviewer (minor): Glossary (review Sū 20 ch1, Sū 26 ch1): kleda = moistness (kleda); \"excess\" is not printed."
+ },
+ {
+  "n": "43.5",
+  "field": "hindi",
+  "old": "तिक्त रस स्वयं अरुचिकर होने पर भी अरोचक का नाश करने वाला, विषनाशक, कृमिनाशक, मूर्च्छा, दाह, कण्डू, कुष्ठ और तृष्णा को शान्त करने वाला, त्वचा और मांस को स्थिर करने वाला, ज्वरनाशक, दीपन, पाचन, स्तन्य को शुद्ध करने वाला, लेखन, क्लेद, मेद, वसा, मज्जा, लसीका, पूय, स्वेद, मूत्र, पुरीष, पित्त और श्लेष्मा को सुखाने वाला, और रूक्ष, शीतल तथा हल्का होता है।",
+  "new": "तिक्त रस स्वयं अरुचिकर होने पर भी अरोचक का नाश करने वाला, विषनाशक, कृमिनाशक, मूर्च्छा, दाह, कण्डू, कुष्ठ और तृष्णा को शान्त करने वाला, त्वचा और मांस को स्थिर करने वाला, ज्वरनाशक, दीपन, पाचन, स्तन्य को शुद्ध करने वाला, लेखन, क्लेद, मेद, वसा, मज्जा, लसीका, पूय, स्वेद, मूत्र, पुरीष, पित्त और श्लेष्मा को सुखाने वाला, और रूक्ष, शीतल तथा लघु होता है।",
+  "why": "reviewer (minor): Glossary: laghu = light, Hindi लघु (गुरु/लघु); chunk 1 of this chapter and 43.1 here (गुरु) use the Sanskrit term."
+ },
+ {
+  "n": "43.6",
+  "field": "english",
+  "old": "The astringent taste is pacifying, binding, uniting, compressing, healing, drying, checking, allays Kapha (śleṣman), blood and Pitta, consumes the excess moisture (kleda) of the body, and is dry, cold and not light.",
+  "new": "The astringent taste is pacifying, binding, uniting, compressing, healing, drying, checking, allays Kapha (śleṣman), blood and Pitta, consumes the moistness (kleda) of the body, and is dry, cold and not light.",
+  "why": "reviewer (minor): Glossary (review Sū 20 ch1, Sū 26 ch1): kleda = moistness (kleda); \"excess\" is not printed."
+ },
+ {
+  "n": "43.6",
+  "field": "word.gloss",
+  "word": "śarīra-kledasya",
+  "old": "of the excess moisture of the body",
+  "new": "of the moistness of the body",
+  "why": "reviewer (minor): Same kleda rule for the word gloss."
+ },
+ {
+  "n": "47",
+  "field": "notes",
+  "old": "Plant identifications: citraka = Plumbago zeylanica (standard); cavya = Piper retrofractum (probable).",
+  "new": "",
+  "why": "reviewer (minor): POLICY (Sū 23): identifications minimal; drop \"probable\" ones (cavya) and species claims the verse does not need (citraka is only an example of a substance whose taste agrees with its vīrya and vipāka)."
+ },
+ {
+  "n": "48",
+  "field": "word.gloss",
+  "word": "eva",
+  "old": "also",
+  "new": "indeed (emphatic)",
+  "why": "reviewer (minor): Glossary: eva = emphatic particle (\"just, indeed\"); \"also\" renders ca."
+ },
+ {
+  "n": "48",
+  "field": "word.gram",
+  "word": "abja-ānūpam",
+  "old": "n. nom. sg., dvandva",
+  "new": "n. nom. sg., dvandva used as adjective of āmiṣam",
+  "why": "reviewer (minor): abjānūpam is split off as its own word, so it is a dvandva used as an adjective of āmiṣam (or read the whole token as one compound abja-ānūpa-āmiṣam); label it so."
+ },
+ {
+  "n": "49",
+  "field": "notes",
+  "old": "Plant identifications: āmalaka = Phyllanthus emblica (standard); arka = Calotropis species (standard); aguru = Aquilaria agallocha (standard); guḍūcī = Tinospora cordifolia (standard). saindhava: literally \"from Sindhu\", a salt. \"vīrya\" is understood from the context of units 45-46.",
+  "new": "Plant identification: āmalaka = Phyllanthus emblica (standard). saindhava: literally \"from Sindhu\", a salt. \"vīrya\" is understood from the context of units 45-46.",
+  "why": "reviewer (minor): POLICY: keep only standard identifications that help the verse (āmalaka is on the Sū 23 list); drop the species claims for arka, aguru and guḍūcī, which the verse does not need."
+ },
+ {
+  "n": "50",
+  "field": "notes",
+  "old": "Plant identification: kapittha = Limonia acidissima (standard). hi is left untranslated.",
+  "new": "Plant identification: kapittha = wood-apple (standard). hi is left untranslated.",
+  "why": "reviewer (minor): POLICY: no species-level claim needed; a common name is enough (as hiṅgu = asafoetida, badara = jujube in Sū 23)."
+ },
+ {
+  "n": "51",
+  "field": "hindi",
+  "old": "पिप्पली और नागर वृष्य हैं, और कटु अवृष्य कहा जाता है; कषाय स्तम्भन और शीतल है, पर अभया में वह इससे भिन्न है।",
+  "new": "पिप्पली और नागर वृष्य हैं, और कटु अवृष्य कहा जाता है; कषाय स्तम्भन और शीतल है, (पर) अभया में वह इससे भिन्न है।",
+  "why": "reviewer (minor): The contrast is supplied (English brackets \"(but)\"; the note says no particle is printed); bracket it in Hindi too."
+ }
+]
