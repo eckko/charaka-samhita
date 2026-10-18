@@ -1,0 +1,4023 @@
+[
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vātaḥ",
+      "words": [
+       {
+        "w": "vātaḥ",
+        "gloss": "Vāta",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "plīhānamuddhūya",
+      "words": [
+       {
+        "w": "plīhānam",
+        "gloss": "the spleen",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "uddhūya",
+        "gloss": "having stirred up",
+        "gram": "abs. ud-√dhū"
+       }
+      ]
+     },
+     {
+      "src": "kupito",
+      "words": [
+       {
+        "w": "kupitaḥ",
+        "gloss": "aggravated",
+        "gram": "m. nom. sg., ppp. √kup"
+       }
+      ]
+     },
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tiṣṭhati",
+      "words": [
+       {
+        "w": "tiṣṭhati",
+        "gloss": "stays",
+        "gram": "3 sg. pres. √sthā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śaniḥ",
+      "words": [
+       {
+        "w": "śanaiḥ",
+        "gloss": "slowly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paritudana",
+      "words": [
+       {
+        "w": "paritudan",
+        "gloss": "paining all round",
+        "gram": "m. nom. sg., pres. part. pari-√tud"
+       }
+      ]
+     },
+     {
+      "src": "pārśvaṃ",
+      "words": [
+       {
+        "w": "pārśvam",
+        "gloss": "the side",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "plīhā",
+      "words": [
+       {
+        "w": "plīhā",
+        "gloss": "the spleen",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tasyābhivardhate",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of him",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "abhivardhate",
+        "gloss": "enlarges",
+        "gram": "3 sg. pres. abhi-√vṛdh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसका कुपित वात प्लीहा को उभारकर ठहर जाता है और धीरे-धीरे पार्श्व में चारों ओर पीड़ा देता रहता है, उसकी प्लीहा बढ़ जाती है।",
+  "english": "In whom aggravated Vāta, having stirred up the spleen, stays there, slowly paining the side all round, in him the spleen enlarges.",
+  "text_flags": [
+   {
+    "src": "śaniḥ",
+    "suggest": "śanaiḥ",
+    "why": "śaniḥ (the planet Saturn) gives no sense in the sentence; the adverb śanaiḥ (slowly) fits the grammar and sense with the same syllable count"
+   },
+   {
+    "src": "paritudana",
+    "suggest": "paritudan",
+    "why": "paritudana is not a form; the present participle paritudan (nom. sg. m., agreeing with vātaḥ) fits the grammar, and the line then has 16 syllables instead of 17"
+   }
+  ],
+  "notes": "plīhā in line 2 is the organ itself (plīhan, m.), said to enlarge.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.18.28a",
+   "01.18.28b"
+  ],
+  "lines_deva": [
+   "वातः प्लीहानमुद्धूय कुपितो यस्य तिष्ठति",
+   "शनिः परितुदन पार्श्वं प्लीहा तस्याभिवर्धते"
+  ],
+  "lines_iast": [
+   "vātaḥ plīhānamuddhūya kupito yasya tiṣṭhati",
+   "śaniḥ paritudana pārśvaṃ plīhā tasyābhivardhate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāyuḥ",
+      "words": [
+       {
+        "w": "vāyuḥ",
+        "gloss": "Vāta (vāyu)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakupito",
+      "words": [
+       {
+        "w": "prakupitaḥ",
+        "gloss": "aggravated",
+        "gram": "m. nom. sg., ppp. pra-√kup"
+       }
+      ]
+     },
+     {
+      "src": "gulmasthāne'vatiṣṭhate",
+      "words": [
+       {
+        "w": "gulma-sthāne",
+        "gloss": "in the site of gulma",
+        "gram": "n. loc. sg., tat-puruṣa"
+       },
+       {
+        "w": "avatiṣṭhate",
+        "gloss": "settles",
+        "gram": "3 sg. pres. ava-√sthā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śophaṃ",
+      "words": [
+       {
+        "w": "śopham",
+        "gloss": "swelling",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saśūlaṃ",
+      "words": [
+       {
+        "w": "sa-śūlam",
+        "gloss": "with pain",
+        "gram": "m. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "janayan",
+      "words": [
+       {
+        "w": "janayan",
+        "gloss": "producing",
+        "gram": "m. nom. sg., pres. part. caus. √jan"
+       }
+      ]
+     },
+     {
+      "src": "gulmastasyopajāyate",
+      "words": [
+       {
+        "w": "gulmaḥ",
+        "gloss": "gulma",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tasya",
+        "gloss": "of him",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "upajāyate",
+        "gloss": "arises",
+        "gram": "3 sg. pres. upa-√jan"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसका कुपित वायु गुल्म के स्थान में ठहर जाता है और शूल सहित शोफ उत्पन्न करता है, उसे गुल्म होता है।",
+  "english": "In whom aggravated Vāta (vāyu) settles in the site of gulma, producing a swelling with pain, in him gulma arises.",
+  "text_flags": [],
+  "notes": "Disease name gulma kept in Sanskrit.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.18.29a",
+   "01.18.29b"
+  ],
+  "lines_deva": [
+   "यस्य वायुः प्रकुपितो गुल्मस्थानेऽवतिष्ठते",
+   "शोफं सशूलं जनयन् गुल्मस्तस्योपजायते"
+  ],
+  "lines_iast": [
+   "yasya vāyuḥ prakupito gulmasthāne'vatiṣṭhate",
+   "śophaṃ saśūlaṃ janayan gulmastasyopajāyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāyuḥ",
+      "words": [
+       {
+        "w": "vāyuḥ",
+        "gloss": "Vāta (vāyu)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakupitaḥ",
+      "words": [
+       {
+        "w": "prakupitaḥ",
+        "gloss": "aggravated",
+        "gram": "m. nom. sg., ppp. pra-√kup"
+       }
+      ]
+     },
+     {
+      "src": "śophaśūlakaraścaran",
+      "words": [
+       {
+        "w": "śopha-śūla-karaḥ",
+        "gloss": "causing swelling and pain",
+        "gram": "m. nom. sg., upapada tat-puruṣa (dvandva first member)"
+       },
+       {
+        "w": "caran",
+        "gloss": "moving",
+        "gram": "m. nom. sg., pres. part. √car"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vaṅkṣaṇādvṛṣaṇau",
+      "words": [
+       {
+        "w": "vaṅkṣaṇāt",
+        "gloss": "from the groin",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "vṛṣaṇau",
+        "gloss": "to the two testicles",
+        "gram": "m. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "yāti",
+      "words": [
+       {
+        "w": "yāti",
+        "gloss": "goes",
+        "gram": "3 sg. pres. √yā"
+       }
+      ]
+     },
+     {
+      "src": "vṛddhistasyopajāyate",
+      "words": [
+       {
+        "w": "vṛddhiḥ",
+        "gloss": "vṛddhi (enlargement)",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "tasya",
+        "gloss": "of him",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "upajāyate",
+        "gloss": "arises",
+        "gram": "3 sg. pres. upa-√jan"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसका कुपित वायु शोफ और शूल उत्पन्न करता हुआ विचरता है और वङ्क्षण से दोनों वृषणों में जाता है, उसे वृद्धि होती है।",
+  "english": "In whom aggravated Vāta (vāyu), moving about and causing swelling and pain, goes from the groin to the testicles, in him vṛddhi (enlargement) arises.",
+  "text_flags": [],
+  "notes": "Disease name vṛddhi (literally \"growth, enlargement\") kept in Sanskrit.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.18.30a",
+   "01.18.30b"
+  ],
+  "lines_deva": [
+   "यस्य वायुः प्रकुपितः शोफशूलकरश्चरन्",
+   "वङ्क्षणाद्वृषणौ याति वृद्धिस्तस्योपजायते"
+  ],
+  "lines_iast": [
+   "yasya vāyuḥ prakupitaḥ śophaśūlakaraścaran",
+   "vaṅkṣaṇādvṛṣaṇau yāti vṛddhistasyopajāyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vātaḥ",
+      "words": [
+       {
+        "w": "vātaḥ",
+        "gloss": "Vāta",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakupitastvaṅmāṃsāntaramāśritaḥ",
+      "words": [
+       {
+        "w": "prakupitaḥ",
+        "gloss": "aggravated",
+        "gram": "m. nom. sg., ppp. pra-√kup"
+       },
+       {
+        "w": "tvak-māṃsa-antaram",
+        "gloss": "the space between skin and flesh",
+        "gram": "n. acc. sg., tat-puruṣa (dvandva first member)"
+       },
+       {
+        "w": "āśritaḥ",
+        "gloss": "lodged in",
+        "gram": "m. nom. sg., ppp. ā-√śri"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śothaṃ",
+      "words": [
+       {
+        "w": "śotham",
+        "gloss": "swelling",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃjanayet",
+      "words": [
+       {
+        "w": "saṃjanayet",
+        "gloss": "would produce",
+        "gram": "3 sg. opt. caus. sam-√jan"
+       }
+      ]
+     },
+     {
+      "src": "kukṣāvduaraṃ",
+      "words": [
+       {
+        "w": "kukṣau",
+        "gloss": "in the kukṣi",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "udaram",
+        "gloss": "udara",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of him",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "jāyate",
+      "words": [
+       {
+        "w": "jāyate",
+        "gloss": "arises",
+        "gram": "3 sg. pres. √jan"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसका कुपित वात त्वचा और मांस के बीच के स्थान में आश्रित होकर कुक्षि में शोथ उत्पन्न करे, उसे उदर होता है।",
+  "english": "In whom aggravated Vāta, lodged in the space between the skin and the flesh, would produce a swelling in the kukṣi, in him udara arises.",
+  "text_flags": [
+   {
+    "src": "kukṣāvduaraṃ",
+    "suggest": "kukṣāvudaraṃ",
+    "why": "duaraṃ is not a word; the letters are transposed from kukṣau + udaram (kukṣāv udaram), and udara fits the series of diseases named \"in him ... arises\""
+   }
+  ],
+  "notes": "kukṣi and the disease name udara kept in Sanskrit. The optative saṃjanayet is rendered \"would produce\".",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.18.31a",
+   "01.18.31b"
+  ],
+  "lines_deva": [
+   "यस्य वातः प्रकुपितस्त्वङ्मांसान्तरमाश्रितः",
+   "शोथं संजनयेत् कुक्षाव्दुअरं तस्य जायते"
+  ],
+  "lines_iast": [
+   "yasya vātaḥ prakupitastvaṅmāṃsāntaramāśritaḥ",
+   "śothaṃ saṃjanayet kukṣāvduaraṃ tasya jāyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vātaḥ",
+      "words": [
+       {
+        "w": "vātaḥ",
+        "gloss": "Vāta",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakupitaḥ",
+      "words": [
+       {
+        "w": "prakupitaḥ",
+        "gloss": "aggravated",
+        "gram": "m. nom. sg., ppp. pra-√kup"
+       }
+      ]
+     },
+     {
+      "src": "kukṣimāśritya",
+      "words": [
+       {
+        "w": "kukṣim",
+        "gloss": "the kukṣi",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āśritya",
+        "gloss": "having lodged in",
+        "gram": "abs. ā-√śri"
+       }
+      ]
+     },
+     {
+      "src": "tiṣṭhati",
+      "words": [
+       {
+        "w": "tiṣṭhati",
+        "gloss": "stays",
+        "gram": "3 sg. pres. √sthā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "nādho",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "adhaḥ",
+        "gloss": "downward",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vrajati",
+      "words": [
+       {
+        "w": "vrajati",
+        "gloss": "goes",
+        "gram": "3 sg. pres. √vraj"
+       }
+      ]
+     },
+     {
+      "src": "nāpyūrdhvamānāhastasya",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       },
+       {
+        "w": "ūrdhvam",
+        "gloss": "upward",
+        "gram": "ind."
+       },
+       {
+        "w": "ānāhaḥ",
+        "gloss": "distension (ānāha)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tasya",
+        "gloss": "of him",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "jāyae",
+      "words": [
+       {
+        "w": "jāyate",
+        "gloss": "arises",
+        "gram": "3 sg. pres. √jan"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसका कुपित वात कुक्षि में आश्रित होकर ठहर जाता है, न नीचे जाता है और न ऊपर, उसे आनाह होता है।",
+  "english": "In whom aggravated Vāta, having lodged in the kukṣi, stays there and goes neither downward nor upward, in him distension (ānāha) arises.",
+  "text_flags": [
+   {
+    "src": "jāyae",
+    "suggest": "jāyate",
+    "why": "jāyae is not a form; jāyate (arises) is required, as in the parallel line of unit 31 (tasya jāyate)"
+   }
+  ],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.18.32a",
+   "01.18.32b"
+  ],
+  "lines_deva": [
+   "यस्य वातः प्रकुपितः कुक्षिमाश्रित्य तिष्ठति",
+   "नाधो व्रजति नाप्यूर्ध्वमानाहस्तस्य जायए"
+  ],
+  "lines_iast": [
+   "yasya vātaḥ prakupitaḥ kukṣimāśritya tiṣṭhati",
+   "nādho vrajati nāpyūrdhvamānāhastasya jāyae"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rogāścotsedhasāmānyadadhimāṃsārbudādayaḥ",
+      "words": [
+       {
+        "w": "rogāḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "utsedha-sāmānyāt",
+        "gloss": "because of the common feature of elevation",
+        "gram": "n. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "adhimāṃsa-arbuda-ādayaḥ",
+        "gloss": "adhimāṃsa, arbuda and the like",
+        "gram": "m. nom. pl., bahuvrīhi (dvandva first members)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "viśiṣṭā",
+      "words": [
+       {
+        "w": "viśiṣṭāḥ",
+        "gloss": "distinguished",
+        "gram": "m. nom. pl., ppp. vi-√śiṣ"
+       }
+      ]
+     },
+     {
+      "src": "nāmarūpābhyāṃ",
+      "words": [
+       {
+        "w": "nāma-rūpābhyām",
+        "gloss": "by name and form",
+        "gram": "n. inst. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "nirdeśyāḥ",
+      "words": [
+       {
+        "w": "nirdeśyāḥ",
+        "gloss": "are to be indicated",
+        "gram": "m. nom. pl., gerundive (kṛtya) nir-√diś"
+       }
+      ]
+     },
+     {
+      "src": "śothasaṃgrahe",
+      "words": [
+       {
+        "w": "śotha-saṃgrahe",
+        "gloss": "in the collection of swellings",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और अधिमांस, अर्बुद आदि रोग, जो नाम और रूप से भिन्न हैं, उत्सेध की समानता के कारण शोथों के संग्रह में बताए जाने चाहिए।",
+  "english": "And diseases such as adhimāṃsa and arbuda, though distinguished by name and form, are to be indicated within the collection of swellings, because of the common feature of elevation (utsedha).",
+  "text_flags": [
+   {
+    "src": "rogāścotsedhasāmānyadadhimāṃsārbudādayaḥ",
+    "suggest": "rogāścotsedhasāmānyādadhimāṃsārbudādayaḥ",
+    "why": "sāmānyad is not a form: a d before adhi- can only be the ablative -āt (utsedhasāmānyāt, 'because of the common feature of elevation') in sandhi, which needs long ā; a + a would give ā with no d. The printed short a leaves sāmānya without a case; the metre is unchanged"
+   }
+  ],
+  "notes": "Disease names adhimāṃsa and arbuda kept in Sanskrit.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.18.33a",
+   "01.18.33b"
+  ],
+  "lines_deva": [
+   "रोगाश्चोत्सेधसामान्यदधिमांसार्बुदादयः",
+   "विशिष्टा नामरूपाभ्यां निर्देश्याः शोथसंग्रहे"
+  ],
+  "lines_iast": [
+   "rogāścotsedhasāmānyadadhimāṃsārbudādayaḥ",
+   "viśiṣṭā nāmarūpābhyāṃ nirdeśyāḥ śothasaṃgrahe"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vātapittakaphā",
+      "words": [
+       {
+        "w": "vāta-pitta-kaphāḥ",
+        "gloss": "Vāta, Pitta and Kapha",
+        "gram": "m. nom. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "yugapat",
+      "words": [
+       {
+        "w": "yugapat",
+        "gloss": "simultaneously",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kupitāstrayaḥ",
+      "words": [
+       {
+        "w": "kupitāḥ",
+        "gloss": "aggravated",
+        "gram": "m. nom. pl., ppp. √kup"
+       },
+       {
+        "w": "trayaḥ",
+        "gloss": "the three",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "jihvāmūle'vatiṣṭhante",
+      "words": [
+       {
+        "w": "jihvā-mūle",
+        "gloss": "at the root of the tongue",
+        "gram": "n. loc. sg., tat-puruṣa"
+       },
+       {
+        "w": "avatiṣṭhante",
+        "gloss": "settle",
+        "gram": "3 pl. pres. ava-√sthā"
+       }
+      ]
+     },
+     {
+      "src": "vidahantaḥ",
+      "words": [
+       {
+        "w": "vidahantaḥ",
+        "gloss": "burning",
+        "gram": "m. nom. pl., pres. part. vi-√dah"
+       }
+      ]
+     },
+     {
+      "src": "samucchiritāḥ",
+      "words": [
+       {
+        "w": "samucchritāḥ",
+        "gloss": "raised up",
+        "gram": "m. nom. pl., ppp. sam-ud-√śri"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके वात, पित्त और कफ, तीनों एक साथ कुपित होकर, जलते हुए और ऊपर उठे हुए, जिह्वा के मूल में ठहर जाते हैं,",
+  "english": "In whom Vāta, Pitta and Kapha, all three aggravated at the same time, settle at the root of the tongue, burning and raised up,",
+  "text_flags": [
+   {
+    "src": "samucchiritāḥ",
+    "suggest": "samucchritāḥ",
+    "why": "samucchiritāḥ is not a regular form of sam-ud-√śri; samucchritāḥ is the past participle, and with it the line has 16 syllables instead of 17"
+   }
+  ],
+  "notes": "The sentence continues into unit 35. vidahantaḥ may be intransitive (\"burning\") or transitive (\"causing burning\").",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.18.34a",
+   "01.18.34b"
+  ],
+  "lines_deva": [
+   "वातपित्तकफा यस्य युगपत् कुपितास्त्रयः",
+   "जिह्वामूलेऽवतिष्ठन्ते विदहन्तः समुच्छिरिताः"
+  ],
+  "lines_iast": [
+   "vātapittakaphā yasya yugapat kupitāstrayaḥ",
+   "jihvāmūle'vatiṣṭhante vidahantaḥ samucchiritāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "janayanti",
+      "words": [
+       {
+        "w": "janayanti",
+        "gloss": "produce",
+        "gram": "3 pl. pres. caus. √jan"
+       }
+      ]
+     },
+     {
+      "src": "bhṛśaṃ",
+      "words": [
+       {
+        "w": "bhṛśam",
+        "gloss": "intense",
+        "gram": "m. acc. sg. (adj. with śotham; or adv.)"
+       }
+      ]
+     },
+     {
+      "src": "śothaṃ",
+      "words": [
+       {
+        "w": "śotham",
+        "gloss": "swelling",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vedanāśca",
+      "words": [
+       {
+        "w": "vedanāḥ",
+        "gloss": "pains",
+        "gram": "f. acc. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pṛthagvidhāḥ",
+      "words": [
+       {
+        "w": "pṛthak-vidhāḥ",
+        "gloss": "of various kinds",
+        "gram": "f. acc. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "taṃ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "that",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śīghrakāriṇaṃ",
+      "words": [
+       {
+        "w": "śīghra-kāriṇam",
+        "gloss": "acting quickly",
+        "gram": "m. acc. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "rogaṃ",
+      "words": [
+       {
+        "w": "rogam",
+        "gloss": "disease",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rohiṇīti",
+      "words": [
+       {
+        "w": "rohiṇī",
+        "gloss": "rohiṇī",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vinirdiśet",
+      "words": [
+       {
+        "w": "vinirdiśet",
+        "gloss": "one should designate",
+        "gram": "3 sg. opt. vi-nir-√diś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे तीव्र शोथ और अलग-अलग प्रकार की वेदनाएँ उत्पन्न करते हैं; उस शीघ्र कार्य करने वाले रोग को रोहिणी बताना चाहिए।",
+  "english": "they produce an intense swelling and pains of various kinds; that quickly acting disease one should designate as rohiṇī.",
+  "text_flags": [],
+  "notes": "Continues unit 34. Disease name rohiṇī kept in Sanskrit. bhṛśam may qualify janayanti (\"produce intensely\") or śotham (\"an intense swelling\").",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.18.35a",
+   "01.18.35b"
+  ],
+  "lines_deva": [
+   "जनयन्ति भृशं शोथं वेदनाश्च पृथग्विधाः",
+   "तं शीघ्रकारिणं रोगं रोहिणीति विनिर्दिशेत्"
+  ],
+  "lines_iast": [
+   "janayanti bhṛśaṃ śothaṃ vedanāśca pṛthagvidhāḥ",
+   "taṃ śīghrakāriṇaṃ rogaṃ rohiṇīti vinirdiśet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "36",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "trirātraṃ",
+      "words": [
+       {
+        "w": "tri-rātram",
+        "gloss": "for three nights",
+        "gram": "n. acc. sg. (duration), dvigu"
+       }
+      ]
+     },
+     {
+      "src": "paramaṃ",
+      "words": [
+       {
+        "w": "paramam",
+        "gloss": "at most",
+        "gram": "ind. (adv.)"
+       }
+      ]
+     },
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of that",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "jantorbhavati",
+      "words": [
+       {
+        "w": "jantoḥ",
+        "gloss": "of the person",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "bhavati",
+        "gloss": "is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "jīvitam",
+      "words": [
+       {
+        "w": "jīvitam",
+        "gloss": "the life",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kuśalena",
+      "words": [
+       {
+        "w": "kuśalena",
+        "gloss": "by a skilled one",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvanukrāntaḥ",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "anukrāntaḥ",
+        "gloss": "attended to",
+        "gram": "m. nom. sg., ppp. anu-√kram"
+       }
+      ]
+     },
+     {
+      "src": "kṣipraṃ",
+      "words": [
+       {
+        "w": "kṣipram",
+        "gloss": "quickly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃpadyate",
+      "words": [
+       {
+        "w": "saṃpadyate",
+        "gloss": "becomes",
+        "gram": "3 sg. pres. sam-√pad"
+       }
+      ]
+     },
+     {
+      "src": "sukhī",
+      "words": [
+       {
+        "w": "sukhī",
+        "gloss": "well",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उस प्राणी का जीवन अधिक से अधिक तीन रातें होता है; किन्तु कुशल (वैद्य) द्वारा उपचार किए जाने पर वह शीघ्र सुखी हो जाता है।",
+  "english": "The life of that person lasts three nights at most; but attended to by a skilled [physician], he quickly becomes well.",
+  "text_flags": [],
+  "notes": "anukrāntaḥ (literally \"followed up, gone after\") is taken as \"attended to, treated\", in contrast with anupakrāntāḥ \"untreated\" in unit 37. kuśalena names no noun; \"physician\" is understood. trirātram is a dvigu compound, accusative of duration.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.18.36a",
+   "01.18.36b"
+  ],
+  "lines_deva": [
+   "त्रिरात्रं परमं तस्य जन्तोर्भवति जीवितम्",
+   "कुशलेन त्वनुक्रान्तः क्षिप्रं संपद्यते सुखी"
+  ],
+  "lines_iast": [
+   "trirātraṃ paramaṃ tasya jantorbhavati jīvitam",
+   "kuśalena tvanukrāntaḥ kṣipraṃ saṃpadyate sukhī"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "37",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "santi",
+      "words": [
+       {
+        "w": "santi",
+        "gloss": "there are",
+        "gram": "3 pl. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "hyevaṃvidhā",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       },
+       {
+        "w": "evaṃ-vidhāḥ",
+        "gloss": "of this kind",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "rogāḥ",
+      "words": [
+       {
+        "w": "rogāḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sādhyā",
+      "words": [
+       {
+        "w": "sādhyāḥ",
+        "gloss": "curable",
+        "gram": "m. nom. pl., gerundive (kṛtya) √sādh"
+       }
+      ]
+     },
+     {
+      "src": "dāruṇasaṃmatāḥ",
+      "words": [
+       {
+        "w": "dāruṇa-saṃmatāḥ",
+        "gloss": "considered dreadful",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "which",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hanyuranupakrāntā",
+      "words": [
+       {
+        "w": "hanyuḥ",
+        "gloss": "would kill",
+        "gram": "3 pl. opt. √han"
+       },
+       {
+        "w": "anupakrāntāḥ",
+        "gloss": "untreated",
+        "gram": "m. nom. pl., ppp. an-upa-√kram"
+       }
+      ]
+     },
+     {
+      "src": "mithyācāreṇa",
+      "words": [
+       {
+        "w": "mithyā-ācāreṇa",
+        "gloss": "by wrong conduct",
+        "gram": "m. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "(repeated vā, probably a dittography; see text_flags)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि इस प्रकार के रोग हैं जो साध्य हैं किन्तु दारुण माने जाते हैं, जो उपचार न किए जाने पर, या फिर मिथ्या आचरण से, मार डालते हैं।",
+  "english": "For there are diseases of this kind, curable yet considered dreadful, which would kill if left untreated, or again through wrong conduct.",
+  "text_flags": [
+   {
+    "src": "vā vā",
+    "suggest": "vā",
+    "why": "possible dittography: the second vā repeats the first, adds nothing to the sense, and gives the line 17 syllables instead of 16"
+   }
+  ],
+  "notes": "mithyācāra may mean wrong conduct of the patient or wrong management; the unit does not say whose. The words \"yet\" / \"किन्तु\" render the contrast between sādhyāḥ and dāruṇa-saṃmatāḥ.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.18.37a",
+   "01.18.37b"
+  ],
+  "lines_deva": [
+   "सन्ति ह्येवंविधा रोगाः साध्या दारुणसंमताः",
+   "ये हन्युरनुपक्रान्ता मिथ्याचारेण वा वा पुनः"
+  ],
+  "lines_iast": [
+   "santi hyevaṃvidhā rogāḥ sādhyā dāruṇasaṃmatāḥ",
+   "ye hanyuranupakrāntā mithyācāreṇa vā vā punaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "38",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sādhyāścāpyapare",
+      "words": [
+       {
+        "w": "sādhyāḥ",
+        "gloss": "curable",
+        "gram": "m. nom. pl., gerundive (kṛtya) √sādh"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       },
+       {
+        "w": "apare",
+        "gloss": "others",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "santi",
+      "words": [
+       {
+        "w": "santi",
+        "gloss": "there are",
+        "gram": "3 pl. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "vyādhayo",
+      "words": [
+       {
+        "w": "vyādhayaḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mṛdusaṃmatāḥ",
+      "words": [
+       {
+        "w": "mṛdu-saṃmatāḥ",
+        "gloss": "considered mild",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yatnāyatnakṛtaṃ",
+      "words": [
+       {
+        "w": "yatna-ayatna-kṛtam",
+        "gloss": "done with or without effort",
+        "gram": "n. nom. sg., tat-puruṣa (dvandva first member)"
+       }
+      ]
+     },
+     {
+      "src": "yeṣu",
+      "words": [
+       {
+        "w": "yeṣu",
+        "gloss": "in which",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "karma",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "action (karma)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sidhyatyasaṃśayam",
+      "words": [
+       {
+        "w": "sidhyati",
+        "gloss": "succeeds",
+        "gram": "3 sg. pres. √sidh"
+       },
+       {
+        "w": "asaṃśayam",
+        "gloss": "without doubt",
+        "gram": "ind. (adv.)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और दूसरे भी साध्य रोग हैं जो मृदु माने जाते हैं, जिनमें यत्न से या बिना यत्न के किया गया कर्म निःसन्देह सफल होता है।",
+  "english": "And there are also other diseases, curable and considered mild, in which action (karma), done with effort or without effort, succeeds without doubt.",
+  "text_flags": [],
+  "notes": "karma here is the therapeutic action taken against the disease.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.18.38a",
+   "01.18.38b"
+  ],
+  "lines_deva": [
+   "साध्याश्चाप्यपरे सन्ति व्याधयो मृदुसंमताः",
+   "यत्नायत्नकृतं येषु कर्म सिध्यत्यसंशयम्"
+  ],
+  "lines_iast": [
+   "sādhyāścāpyapare santi vyādhayo mṛdusaṃmatāḥ",
+   "yatnāyatnakṛtaṃ yeṣu karma sidhyatyasaṃśayam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "39",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "asādhyāścāpare",
+      "words": [
+       {
+        "w": "asādhyāḥ",
+        "gloss": "incurable",
+        "gram": "m. nom. pl., gerundive (kṛtya) √sādh"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "apare",
+        "gloss": "others",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "santi",
+      "words": [
+       {
+        "w": "santi",
+        "gloss": "there are",
+        "gram": "3 pl. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "vyādhayo",
+      "words": [
+       {
+        "w": "vyādhayaḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "yāpyasaṃjñitāḥ",
+      "words": [
+       {
+        "w": "yāpya-saṃjñitāḥ",
+        "gloss": "called palliable (yāpya)",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "susādhvapi",
+      "words": [
+       {
+        "w": "su-sādhu",
+        "gloss": "very well",
+        "gram": "ind. (adv.)"
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṛtaṃ",
+      "words": [
+       {
+        "w": "kṛtam",
+        "gloss": "done",
+        "gram": "n. nom. sg., ppp. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "yeṣu",
+      "words": [
+       {
+        "w": "yeṣu",
+        "gloss": "in which",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "karma",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "action",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yātrākaraṃ",
+      "words": [
+       {
+        "w": "yātrā-karam",
+        "gloss": "bringing maintenance",
+        "gram": "n. nom. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhavet",
+      "words": [
+       {
+        "w": "bhavet",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और दूसरे रोग असाध्य हैं जिन्हें याप्य कहा जाता है, जिनमें भली-भाँति किया गया कर्म भी निर्वाह करने वाला होता है।",
+  "english": "And there are other diseases, incurable, called palliable (yāpya), in which action, even when done very well, would bring about maintenance (yātrā).",
+  "text_flags": [],
+  "notes": "yātrā \"going on, maintenance\" is taken as the keeping-going of life; the unit does not say more.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.18.39a",
+   "01.18.39b"
+  ],
+  "lines_deva": [
+   "असाध्याश्चापरे सन्ति व्याधयो याप्यसंज्ञिताः",
+   "सुसाध्वपि कृतं येषु कर्म यात्राकरं भवेत्"
+  ],
+  "lines_iast": [
+   "asādhyāścāpare santi vyādhayo yāpyasaṃjñitāḥ",
+   "susādhvapi kṛtaṃ yeṣu karma yātrākaraṃ bhavet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "40",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "santi",
+      "words": [
+       {
+        "w": "santi",
+        "gloss": "there are",
+        "gram": "3 pl. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "cāpyapare",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       },
+       {
+        "w": "apare",
+        "gloss": "others",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "rogā",
+      "words": [
+       {
+        "w": "rogāḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "yeṣ",
+      "words": [
+       {
+        "w": "yeṣu",
+        "gloss": "in which",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "karema",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "action",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sidhyati",
+      "words": [
+       {
+        "w": "sidhyati",
+        "gloss": "succeeds",
+        "gram": "3 sg. pres. √sidh"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "api",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yatnakṛtaṃ",
+      "words": [
+       {
+        "w": "yatna-kṛtam",
+        "gloss": "done with effort",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vālairna",
+      "words": [
+       {
+        "w": "vālaiḥ",
+        "gloss": "by the unwise (bāla)",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tān",
+      "words": [
+       {
+        "w": "tān",
+        "gloss": "them",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vidvānupācaret",
+      "words": [
+       {
+        "w": "vidvān",
+        "gloss": "the learned one",
+        "gram": "m. nom. sg., perf. act. part. √vid"
+       },
+       {
+        "w": "upācaret",
+        "gloss": "should treat",
+        "gram": "3 sg. opt. upa-ā-√car"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और दूसरे भी रोग हैं, जिनमें मूर्खों द्वारा यत्न से किया गया कर्म भी सफल नहीं होता; विद्वान् उनकी चिकित्सा न करे।",
+  "english": "And there are also other diseases in which action does not succeed, even when done with effort by the unwise; the learned one should not treat them.",
+  "text_flags": [
+   {
+    "src": "yeṣ",
+    "suggest": "yeṣu",
+    "why": "yeṣ is not a form; yeṣu (in which) as in units 38 and 39 (yeṣu karma); the syllable count of the pāda is unchanged"
+   },
+   {
+    "src": "karema",
+    "suggest": "karma",
+    "why": "karema is not a form here; karma (action) as in the parallel lines of units 38 and 39, subject of sidhyati"
+   }
+  ],
+  "notes": "vālaiḥ is taken as bālaiḥ \"by the unwise\" (v and b interchange in spelling; vāla \"hair, tail\" gives no sense); the printed spelling is kept. Grammatically bālaiḥ is the agent of yatnakṛtam; it could also be read with the contrast to vidvān, i.e. such diseases are attempted only by the unwise. The unit does not settle this.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.18.40a",
+   "01.18.40b"
+  ],
+  "lines_deva": [
+   "सन्ति चाप्यपरे रोगा येष् करेम न सिध्यति",
+   "अपि यत्नकृतं वालैर्न तान् विद्वानुपाचरेत्"
+  ],
+  "lines_iast": [
+   "santi cāpyapare rogā yeṣ karema na sidhyati",
+   "api yatnakṛtaṃ vālairna tān vidvānupācaret"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "41",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sādhyāścaivāpyasādhyāśca",
+      "words": [
+       {
+        "w": "sādhyāḥ",
+        "gloss": "curable",
+        "gram": "m. nom. pl., gerundive (kṛtya) √sādh"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "just, indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       },
+       {
+        "w": "asādhyāḥ",
+        "gloss": "incurable",
+        "gram": "m. nom. pl., gerundive (kṛtya) √sādh"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vyādhayo",
+      "words": [
+       {
+        "w": "vyādhayaḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dvividhāḥ",
+      "words": [
+       {
+        "w": "dvi-vidhāḥ",
+        "gloss": "of two kinds",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "smṛtāḥ",
+      "words": [
+       {
+        "w": "smṛtāḥ",
+        "gloss": "are held",
+        "gram": "m. nom. pl., ppp. √smṛ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mṛdudāruṇabhedena",
+      "words": [
+       {
+        "w": "mṛdu-dāruṇa-bhedena",
+        "gloss": "by the division into mild and dreadful",
+        "gram": "m. inst. sg., tat-puruṣa (dvandva first member)"
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "they",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhavanti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "become",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "caturvidhāḥ",
+      "words": [
+       {
+        "w": "catur-vidhāḥ",
+        "gloss": "of four kinds",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रोग साध्य और असाध्य, दो प्रकार के माने गए हैं; मृदु और दारुण के भेद से वे चार प्रकार के हो जाते हैं।",
+  "english": "Diseases are held to be of two kinds, curable and incurable; by the division into mild and dreadful they become of four kinds.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.18.41a",
+   "01.18.41b"
+  ],
+  "lines_deva": [
+   "साध्याश्चैवाप्यसाध्याश्च व्याधयो द्विविधाः स्मृताः",
+   "मृदुदारुणभेदेन ते भवन्ति चतुर्विधाः"
+  ],
+  "lines_iast": [
+   "sādhyāścaivāpyasādhyāśca vyādhayo dvividhāḥ smṛtāḥ",
+   "mṛdudāruṇabhedena te bhavanti caturvidhāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "42",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ta",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "they",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "evāparisaṃkhyeyā",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "just, indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "aparisaṃkhyeyāḥ",
+        "gloss": "innumerable",
+        "gram": "m. nom. pl., gerundive (kṛtya) a-pari-sam-√khyā"
+       }
+      ]
+     },
+     {
+      "src": "bhidyamānā",
+      "words": [
+       {
+        "w": "bhidyamānāḥ",
+        "gloss": "being divided",
+        "gram": "m. nom. pl., pres. pass. part. √bhid"
+       }
+      ]
+     },
+     {
+      "src": "bhavanti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "become",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "rujāvarṇasamutthānasthānasaṃsthānanāmabhiḥ",
+      "words": [
+       {
+        "w": "rujā-varṇa-samutthāna-sthāna-saṃsthāna-nāmabhiḥ",
+        "gloss": "by pain, colour, origin, site, form and name",
+        "gram": "n. inst. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे ही रुजा, वर्ण, समुत्थान, स्थान, संस्थान और नाम के अनुसार विभक्त होने पर असंख्य हो जाते हैं।",
+  "english": "These same, being divided by pain, colour, origin (samutthāna), site, form and name, indeed become innumerable.",
+  "text_flags": [],
+  "notes": "The dvandva rujā-...-nāmabhiḥ takes its gender from the last member nāman (n.).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.18.42a",
+   "01.18.42b"
+  ],
+  "lines_deva": [
+   "त एवापरिसंख्येया भिद्यमाना भवन्ति हि",
+   "रुजावर्णसमुत्थानस्थानसंस्थाननामभिः"
+  ],
+  "lines_iast": [
+   "ta evāparisaṃkhyeyā bhidyamānā bhavanti hi",
+   "rujāvarṇasamutthānasthānasaṃsthānanāmabhiḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "43",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vyavasthākaraṇaṃ",
+      "words": [
+       {
+        "w": "vyavasthā-karaṇam",
+        "gloss": "the making of an arrangement",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "teṣāṃ",
+      "words": [
+       {
+        "w": "teṣām",
+        "gloss": "of them",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "yathāsthūleṣu",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       },
+       {
+        "w": "sthūleṣu",
+        "gloss": "in broad terms",
+        "gram": "m./n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "saṃgrahaḥ",
+      "words": [
+       {
+        "w": "saṃgrahaḥ",
+        "gloss": "summary",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prakṛtisāmānyaṃ",
+      "words": [
+       {
+        "w": "prakṛti-sāmānyam",
+        "gloss": "the sameness of basic nature",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vikāreṣūpadiśyate",
+      "words": [
+       {
+        "w": "vikāreṣu",
+        "gloss": "regarding the disorders",
+        "gram": "m. loc. pl."
+       },
+       {
+        "w": "upadiśyate",
+        "gloss": "is taught",
+        "gram": "3 sg. pres. pass. upa-√diś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जैसे उनकी व्यवस्था करने के लिए स्थूल (वर्गों) में संग्रह होता है, उसी प्रकार विकारों में प्रकृति की समानता का उपदेश किया जाता है।",
+  "english": "Just as a summary in broad terms serves to arrange them, so the sameness of basic nature (prakṛti) is taught regarding the disorders.",
+  "text_flags": [],
+  "notes": "Hard verse. Literally: \"the making of arrangement of them is a summary in broad [terms]; so the sameness of prakṛti is taught in disorders.\" yathāsthūleṣu may also be one word, \"according to the broad [categories]\". prakṛti here is taken as the basic nature of the disorders (cf. vikāraprakṛtīḥ in unit 46); the unit does not define it.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.18.43a",
+   "01.18.43b"
+  ],
+  "lines_deva": [
+   "व्यवस्थाकरणं तेषां यथास्थूलेषु संग्रहः",
+   "तथा प्रकृतिसामान्यं विकारेषूपदिश्यते"
+  ],
+  "lines_iast": [
+   "vyavasthākaraṇaṃ teṣāṃ yathāsthūleṣu saṃgrahaḥ",
+   "tathā prakṛtisāmānyaṃ vikāreṣūpadiśyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "44",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vikāranāmākuśalo",
+      "words": [
+       {
+        "w": "vikāra-nāma-akuśalaḥ",
+        "gloss": "unskilled in the names of disorders",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jihrīyāt",
+      "words": [
+       {
+        "w": "jihrīyāt",
+        "gloss": "should feel ashamed",
+        "gram": "3 sg. opt. √hrī"
+       }
+      ]
+     },
+     {
+      "src": "kadācana",
+      "words": [
+       {
+        "w": "kadācana",
+        "gloss": "ever",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sarvavikārāṇāṃ",
+      "words": [
+       {
+        "w": "sarva-vikārāṇām",
+        "gloss": "of all disorders",
+        "gram": "m. gen. pl., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "nāmato'sti",
+      "words": [
+       {
+        "w": "nāmataḥ",
+        "gloss": "by name",
+        "gram": "ind. (abl. sense)"
+       },
+       {
+        "w": "asti",
+        "gloss": "is",
+        "gram": "3 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "dhruvā",
+      "words": [
+       {
+        "w": "dhruvā",
+        "gloss": "fixed",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthitiḥ",
+      "words": [
+       {
+        "w": "sthitiḥ",
+        "gloss": "status",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विकारों के नाम न जानने वाले को कभी लज्जित नहीं होना चाहिए, क्योंकि सब विकारों की नाम के अनुसार कोई निश्चित स्थिति नहीं है।",
+  "english": "One who is not skilled in the names of disorders should never feel ashamed, for there is no fixed status by name for all disorders.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.18.44a",
+   "01.18.44b"
+  ],
+  "lines_deva": [
+   "विकारनामाकुशलो न जिह्रीयात् कदाचन",
+   "न हि सर्वविकाराणां नामतोऽस्ति ध्रुवा स्थितिः"
+  ],
+  "lines_iast": [
+   "vikāranāmākuśalo na jihrīyāt kadācana",
+   "na hi sarvavikārāṇāṃ nāmato'sti dhruvā sthitiḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "45",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "same",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kupito",
+      "words": [
+       {
+        "w": "kupitaḥ",
+        "gloss": "aggravated",
+        "gram": "m. nom. sg., ppp. √kup"
+       }
+      ]
+     },
+     {
+      "src": "doṣaḥ",
+      "words": [
+       {
+        "w": "doṣaḥ",
+        "gloss": "doṣa",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "samutthānaviśeṣataḥ",
+      "words": [
+       {
+        "w": "samutthāna-viśeṣataḥ",
+        "gloss": "by the particularity of origin",
+        "gram": "ind. (abl. sense), tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sthānāntaragataścaiva",
+      "words": [
+       {
+        "w": "sthāna-antara-gataḥ",
+        "gloss": "gone to another site",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "just, indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "janayatyāmayān",
+      "words": [
+       {
+        "w": "janayati",
+        "gloss": "produces",
+        "gram": "3 sg. pres. caus. √jan"
+       },
+       {
+        "w": "āmayān",
+        "gloss": "diseases",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "bahūn",
+      "words": [
+       {
+        "w": "bahūn",
+        "gloss": "many",
+        "gram": "m. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वही कुपित दोष समुत्थान की विशेषता से और भिन्न स्थान में जाकर अनेक रोग उत्पन्न करता है।",
+  "english": "That same aggravated doṣa, through the particularity of its origin (samutthāna) and by going to another site, produces many diseases.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.18.45a",
+   "01.18.45b"
+  ],
+  "lines_deva": [
+   "स एव कुपितो दोषः समुत्थानविशेषतः",
+   "स्थानान्तरगतश्चैव जनयत्यामयान् बहून्"
+  ],
+  "lines_iast": [
+   "sa eva kupito doṣaḥ samutthānaviśeṣataḥ",
+   "sthānāntaragataścaiva janayatyāmayān bahūn"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "46",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmādvikāraprakṛtīradhiṣṭhānāntarāṇi",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind."
+       },
+       {
+        "w": "vikāra-prakṛtīḥ",
+        "gloss": "the basic natures of disorders",
+        "gram": "f. acc. pl., tat-puruṣa"
+       },
+       {
+        "w": "adhiṣṭhāna-antarāṇi",
+        "gloss": "the different sites",
+        "gram": "n. acc. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "samutthānaviśeṣāṃśca",
+      "words": [
+       {
+        "w": "samutthāna-viśeṣān",
+        "gloss": "the particular origins",
+        "gram": "m. acc. pl., tat-puruṣa"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "buddhvā",
+      "words": [
+       {
+        "w": "buddhvā",
+        "gloss": "having understood",
+        "gram": "abs. √budh"
+       }
+      ]
+     },
+     {
+      "src": "karma",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "action",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "samācaret",
+      "words": [
+       {
+        "w": "samācaret",
+        "gloss": "one should undertake",
+        "gram": "3 sg. opt. sam-ā-√car"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए विकारों की प्रकृतियों, अधिष्ठानों के भेदों और समुत्थान की विशेषताओं को जानकर कर्म करना चाहिए।",
+  "english": "Therefore, having understood the basic natures (prakṛti) of disorders, their different sites and their particular origins, one should undertake action.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.18.46a",
+   "01.18.46b"
+  ],
+  "lines_deva": [
+   "तस्माद्विकारप्रकृतीरधिष्ठानान्तराणि च",
+   "समुत्थानविशेषांश्च बुद्ध्वा कर्म समाचरेत्"
+  ],
+  "lines_iast": [
+   "tasmādvikāraprakṛtīradhiṣṭhānāntarāṇi ca",
+   "samutthānaviśeṣāṃśca buddhvā karma samācaret"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "47",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hyetastritayaṃ",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       },
+       {
+        "w": "etat",
+        "gloss": "this",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "tritayam",
+        "gloss": "triad",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jñātvā",
+      "words": [
+       {
+        "w": "jñātvā",
+        "gloss": "having known",
+        "gram": "abs. √jñā"
+       }
+      ]
+     },
+     {
+      "src": "karmāṇyārabhate",
+      "words": [
+       {
+        "w": "karmāṇi",
+        "gloss": "actions",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "ārabhate",
+        "gloss": "undertakes",
+        "gram": "3 sg. pres. ā-√rabh"
+       }
+      ]
+     },
+     {
+      "src": "bhiṣak",
+      "words": [
+       {
+        "w": "bhiṣak",
+        "gloss": "physician",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "jñānapūrvaṃ",
+      "words": [
+       {
+        "w": "jñāna-pūrvam",
+        "gloss": "preceded by knowledge",
+        "gram": "ind. (adv.), bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "yathānyāyaṃ",
+      "words": [
+       {
+        "w": "yathā-nyāyam",
+        "gloss": "in due order",
+        "gram": "ind., avyayībhāva"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "karmasu",
+      "words": [
+       {
+        "w": "karmasu",
+        "gloss": "in actions",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "muhyati",
+      "words": [
+       {
+        "w": "muhyati",
+        "gloss": "is confused",
+        "gram": "3 sg. pres. √muh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि जो चिकित्सक इस त्रितय को जानकर, ज्ञानपूर्वक और यथान्याय कर्मों का आरम्भ करता है, वह कर्मों में मोहित नहीं होता।",
+  "english": "For the physician who, having known this triad, undertakes actions with prior knowledge and in due order, is not confused in his actions.",
+  "text_flags": [
+   {
+    "src": "hyetastritayaṃ",
+    "suggest": "hyetattritayaṃ",
+    "why": "possible: etas is not an accusative that can agree with tritayam (n.); etat + tritayam gives hyetattritayaṃ, and the metre is unchanged"
+   }
+  ],
+  "notes": "The triad (tritaya) is taken as the three things named in unit 46: basic natures of disorders, sites and particular origins.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.18.47a",
+   "01.18.47b"
+  ],
+  "lines_deva": [
+   "यो ह्येतस्त्रितयं ज्ञात्वा कर्माण्यारभते भिषक्",
+   "ज्ञानपूर्वं यथान्यायं स कर्मसु न मुह्यति"
+  ],
+  "lines_iast": [
+   "yo hyetastritayaṃ jñātvā karmāṇyārabhate bhiṣak",
+   "jñānapūrvaṃ yathānyāyaṃ sa karmasu na muhyati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "48",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nityāḥ",
+      "words": [
+       {
+        "w": "nityāḥ",
+        "gloss": "ever present",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "prāṇabhṛtāṃ",
+      "words": [
+       {
+        "w": "prāṇa-bhṛtām",
+        "gloss": "of living beings",
+        "gram": "m. gen. pl., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "dehe",
+      "words": [
+       {
+        "w": "dehe",
+        "gloss": "in the body",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vātapittakaphāstrayaḥ",
+      "words": [
+       {
+        "w": "vāta-pitta-kaphāḥ",
+        "gloss": "Vāta, Pitta and Kapha",
+        "gram": "m. nom. pl., dvandva"
+       },
+       {
+        "w": "trayaḥ",
+        "gloss": "the three",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vikṛtāḥ",
+      "words": [
+       {
+        "w": "vikṛtāḥ",
+        "gloss": "disturbed",
+        "gram": "m. nom. pl., ppp. vi-√kṛ"
+       }
+      ]
+     },
+     {
+      "src": "prakṛtisthā",
+      "words": [
+       {
+        "w": "prakṛti-sthāḥ",
+        "gloss": "in their normal state",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tān",
+      "words": [
+       {
+        "w": "tān",
+        "gloss": "them",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "bubhutseta",
+      "words": [
+       {
+        "w": "bubhutseta",
+        "gloss": "should seek to know",
+        "gram": "3 sg. opt. desid. √budh"
+       }
+      ]
+     },
+     {
+      "src": "paṇḍitaḥ",
+      "words": [
+       {
+        "w": "paṇḍitaḥ",
+        "gloss": "the learned one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्राणियों के देह में वात, पित्त और कफ, ये तीनों सदा रहते हैं; वे विकृत हों या प्रकृति में स्थित, विद्वान् उन्हें जानने की इच्छा करे।",
+  "english": "Vāta, Pitta and Kapha, the three, are always present in the body of living beings; whether disturbed or in their normal state, the learned one should seek to know them.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.18.48a",
+   "01.18.48b"
+  ],
+  "lines_deva": [
+   "नित्याः प्राणभृतां देहे वातपित्तकफास्त्रयः",
+   "विकृताः प्रकृतिस्था वा तान् बुभुत्सेत पण्डितः"
+  ],
+  "lines_iast": [
+   "nityāḥ prāṇabhṛtāṃ dehe vātapittakaphāstrayaḥ",
+   "vikṛtāḥ prakṛtisthā vā tān bubhutseta paṇḍitaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "49",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "utsāhocchvāsaniḥśvāsaceṣṭā",
+      "words": [
+       {
+        "w": "utsāha-ucchvāsa-niḥśvāsa-ceṣṭāḥ",
+        "gloss": "enthusiasm, inhalation, exhalation, movement",
+        "gram": "f. nom. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "dhātugatiḥ",
+      "words": [
+       {
+        "w": "dhātu-gatiḥ",
+        "gloss": "course of the dhātus",
+        "gram": "f. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "samā",
+      "words": [
+       {
+        "w": "samā",
+        "gloss": "even",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "samo",
+      "words": [
+       {
+        "w": "samaḥ",
+        "gloss": "even",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mokṣo",
+      "words": [
+       {
+        "w": "mokṣaḥ",
+        "gloss": "release",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gatimatāṃ",
+      "words": [
+       {
+        "w": "gatimatām",
+        "gloss": "of the moving things",
+        "gram": "m./n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "vāyoḥ",
+      "words": [
+       {
+        "w": "vāyoḥ",
+        "gloss": "of Vāta (vāyu)",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "karmāvikārajam",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "action",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "avikāra-jam",
+        "gloss": "born of the undisturbed state",
+        "gram": "n. nom. sg., upapada tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उत्साह, उच्छ्वास, निःश्वास, चेष्टा, धातुओं की सम गति और गतिशील पदार्थों का सम मोक्ष: यह वायु का अविकार से उत्पन्न कर्म है।",
+  "english": "Enthusiasm, inhalation, exhalation, movement, the even course of the dhātus and the even release of things that move: this is the action of Vāta (vāyu) born of its undisturbed state.",
+  "text_flags": [],
+  "notes": "ceṣṭā before dh is read as the plural ceṣṭāḥ ending a dvandva (visarga dropped before a voiced consonant). gatimatām \"of those having movement\": the unit does not say which things are meant.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.18.49a",
+   "01.18.49b"
+  ],
+  "lines_deva": [
+   "उत्साहोच्छ्वासनिःश्वासचेष्टा धातुगतिः समा",
+   "समो मोक्षो गतिमतां वायोः कर्माविकारजम्"
+  ],
+  "lines_iast": [
+   "utsāhocchvāsaniḥśvāsaceṣṭā dhātugatiḥ samā",
+   "samo mokṣo gatimatāṃ vāyoḥ karmāvikārajam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "50",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "darśanaṃ",
+      "words": [
+       {
+        "w": "darśanam",
+        "gloss": "vision",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "paktirūṣmā",
+      "words": [
+       {
+        "w": "paktiḥ",
+        "gloss": "digestion",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ūṣmā",
+        "gloss": "heat (ūṣman)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṣuttṛṣṇā",
+      "words": [
+       {
+        "w": "kṣut",
+        "gloss": "hunger",
+        "gram": "f. nom. sg. (kṣudh)"
+       },
+       {
+        "w": "tṛṣṇā",
+        "gloss": "thirst",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dehamārdavam",
+      "words": [
+       {
+        "w": "deha-mārdavam",
+        "gloss": "softness of the body",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "prabhā",
+      "words": [
+       {
+        "w": "prabhā",
+        "gloss": "lustre",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prasādo",
+      "words": [
+       {
+        "w": "prasādaḥ",
+        "gloss": "cheerfulness",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "medhā",
+      "words": [
+       {
+        "w": "medhā",
+        "gloss": "intelligence",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pittakarmāvikārajam",
+      "words": [
+       {
+        "w": "pitta-karma",
+        "gloss": "the action of Pitta",
+        "gram": "n. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "avikāra-jam",
+        "gloss": "born of the undisturbed state",
+        "gram": "n. nom. sg., upapada tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दर्शन, पक्ति, ऊष्मा, भूख और प्यास, देह की मृदुता, प्रभा, प्रसाद और मेधा: यह पित्त का अविकार से उत्पन्न कर्म है।",
+  "english": "Vision, digestion, heat (ūṣman), hunger and thirst, softness of the body, lustre, cheerfulness (prasāda) and intelligence: this is the action of Pitta born of its undisturbed state.",
+  "text_flags": [],
+  "notes": "kṣuttṛṣṇā is read as two nominatives of the list, kṣut (kṣudh) and tṛṣṇā. prasāda may mean clarity or cheerfulness (of mind or complexion); the unit does not specify.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.18.50a",
+   "01.18.50b"
+  ],
+  "lines_deva": [
+   "दर्शनं पक्तिरूष्मा च क्षुत्तृष्णा देहमार्दवम्",
+   "प्रभा प्रसादो मेधा च पित्तकर्माविकारजम्"
+  ],
+  "lines_iast": [
+   "darśanaṃ paktirūṣmā ca kṣuttṛṣṇā dehamārdavam",
+   "prabhā prasādo medhā ca pittakarmāvikārajam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "51",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sneho",
+      "words": [
+       {
+        "w": "snehaḥ",
+        "gloss": "unctuousness",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bandhaḥ",
+      "words": [
+       {
+        "w": "bandhaḥ",
+        "gloss": "binding",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthiratvaṃ",
+      "words": [
+       {
+        "w": "sthiratvam",
+        "gloss": "firmness",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gaurvaṃ",
+      "words": [
+       {
+        "w": "gauravam",
+        "gloss": "heaviness",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛṣatā",
+      "words": [
+       {
+        "w": "vṛṣatā",
+        "gloss": "virility",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "balam",
+      "words": [
+       {
+        "w": "balam",
+        "gloss": "strength",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kṣamā",
+      "words": [
+       {
+        "w": "kṣamā",
+        "gloss": "forbearance",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhṛtiralobhaśca",
+      "words": [
+       {
+        "w": "dhṛtiḥ",
+        "gloss": "steadiness",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "alobhaḥ",
+        "gloss": "absence of greed",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaphakarmāvikārajam",
+      "words": [
+       {
+        "w": "kapha-karma",
+        "gloss": "the action of Kapha",
+        "gram": "n. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "avikāra-jam",
+        "gloss": "born of the undisturbed state",
+        "gram": "n. nom. sg., upapada tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्नेह, बन्ध, स्थिरता, गौरव, वृषता, बल, क्षमा, धृति और अलोभ: यह कफ का अविकार से उत्पन्न कर्म है।",
+  "english": "Unctuousness, binding, firmness, heaviness, virility, strength, forbearance, steadiness and absence of greed: this is the action of Kapha born of its undisturbed state.",
+  "text_flags": [
+   {
+    "src": "gaurvaṃ",
+    "suggest": "gauravaṃ",
+    "why": "gaurva is not a word; gaurava (heaviness) fits the list of Kapha qualities, and with it the line has 16 syllables instead of 15"
+   }
+  ],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.18.51a",
+   "01.18.51b"
+  ],
+  "lines_deva": [
+   "स्नेहो बन्धः स्थिरत्वं च गौर्वं वृषता बलम्",
+   "क्षमा धृतिरलोभश्च कफकर्माविकारजम्"
+  ],
+  "lines_iast": [
+   "sneho bandhaḥ sthiratvaṃ ca gaurvaṃ vṛṣatā balam",
+   "kṣamā dhṛtiralobhaśca kaphakarmāvikārajam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "52",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vāte",
+      "words": [
+       {
+        "w": "vāte",
+        "gloss": "Vāta",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pitte",
+      "words": [
+       {
+        "w": "pitte",
+        "gloss": "Pitta",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaphe",
+      "words": [
+       {
+        "w": "kaphe",
+        "gloss": "Kapha",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "caiva",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "just, indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṣīṇe",
+      "words": [
+       {
+        "w": "kṣīṇe",
+        "gloss": "being diminished",
+        "gram": "m./n. loc. sg., ppp. √kṣi"
+       }
+      ]
+     },
+     {
+      "src": "lakṣaṇamucyate",
+      "words": [
+       {
+        "w": "lakṣaṇam",
+        "gloss": "the sign",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ucyate",
+        "gloss": "is stated",
+        "gram": "3 sg. pres. pass. √vac"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "karmaṇaḥ",
+      "words": [
+       {
+        "w": "karmaṇaḥ",
+        "gloss": "from action",
+        "gram": "n. abl. sg. (with prākṛtāt)"
+       }
+      ]
+     },
+     {
+      "src": "prākṛtāddhānirvṛddhirvāpi",
+      "words": [
+       {
+        "w": "prākṛtāt",
+        "gloss": "from the normal",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "hāniḥ",
+        "gloss": "loss",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "vṛddhiḥ",
+        "gloss": "increase",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "virodhinām",
+      "words": [
+       {
+        "w": "virodhinām",
+        "gloss": "of the opposing ones",
+        "gram": "m. gen. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वात, पित्त और कफ के क्षीण होने पर लक्षण कहा जाता है: प्राकृत कर्म की हानि, या फिर विरोधियों की वृद्धि।",
+  "english": "When Vāta, Pitta and Kapha are diminished, the sign is stated: a loss of their normal action, or else an increase of the opposing ones.",
+  "text_flags": [],
+  "notes": "kṣīṇe is singular, taken with each of the three locatives in turn. karmaṇaḥ prākṛtāt is one ablative phrase: \"a loss from the normal action\". virodhinām \"of the opposing ones\" is not specified in the unit.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.18.52a",
+   "01.18.52b"
+  ],
+  "lines_deva": [
+   "वाते पित्ते कफे चैव क्षीणे लक्षणमुच्यते",
+   "कर्मणः प्राकृताद्धानिर्वृद्धिर्वापि विरोधिनाम्"
+  ],
+  "lines_iast": [
+   "vāte pitte kaphe caiva kṣīṇe lakṣaṇamucyate",
+   "karmaṇaḥ prākṛtāddhānirvṛddhirvāpi virodhinām"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "53",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "doṣaprakṛtivaiśeṣyaṃ",
+      "words": [
+       {
+        "w": "doṣa-prakṛti-vaiśeṣyam",
+        "gloss": "the heightening of the doṣa's normal nature",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "niyataṃ",
+      "words": [
+       {
+        "w": "niyatam",
+        "gloss": "definite",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛddhilakṣaṇam",
+      "words": [
+       {
+        "w": "vṛddhi-lakṣaṇam",
+        "gloss": "the sign of increase",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "doṣāṇāṃ",
+      "words": [
+       {
+        "w": "doṣāṇām",
+        "gloss": "of the doṣas",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "prakṛtirhānirvṛddhiścaivaṃ",
+      "words": [
+       {
+        "w": "prakṛtiḥ",
+        "gloss": "normal state",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "hāniḥ",
+        "gloss": "diminution",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "vṛddhiḥ",
+        "gloss": "increase",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "evam",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pakrīkṣyate",
+      "words": [
+       {
+        "w": "parīkṣyate",
+        "gloss": "is examined",
+        "gram": "3 sg. pres. pass. pari-√īkṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोष की प्रकृति का विशेष रूप से बढ़ जाना वृद्धि का निश्चित लक्षण है। इस प्रकार दोषों की प्रकृति, हानि और वृद्धि की परीक्षा की जाती है।",
+  "english": "The definite sign of increase is a heightening of the doṣa's normal nature. Thus the normal state, the diminution and the increase of the doṣas are examined.",
+  "text_flags": [
+   {
+    "src": "pakrīkṣyate",
+    "suggest": "parīkṣyate",
+    "why": "pakrīkṣyate is not a form; parīkṣyate (is examined) fits the grammar and sense, with the same 16-syllable line"
+   }
+  ],
+  "notes": "vaiśeṣya \"distinctiveness, heightening\" is taken as an excess of the doṣa's own normal features, in contrast with the loss described in unit 52.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.18.53a",
+   "01.18.53b"
+  ],
+  "lines_deva": [
+   "दोषप्रकृतिवैशेष्यं नियतं वृद्धिलक्षणम्",
+   "दोषाणां प्रकृतिर्हानिर्वृद्धिश्चैवं पक्रीक्ष्यते"
+  ],
+  "lines_iast": [
+   "doṣaprakṛtivaiśeṣyaṃ niyataṃ vṛddhilakṣaṇam",
+   "doṣāṇāṃ prakṛtirhānirvṛddhiścaivaṃ pakrīkṣyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "54",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ślokāḥ",
+      "words": [
+       {
+        "w": "ślokāḥ",
+        "gloss": "verses",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "saṃkhyāṃ",
+      "words": [
+       {
+        "w": "saṃkhyām",
+        "gloss": "the number",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nimittaṃ",
+      "words": [
+       {
+        "w": "nimittam",
+        "gloss": "the cause",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rūpāṇi",
+      "words": [
+       {
+        "w": "rūpāṇi",
+        "gloss": "the forms",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "śothānāṃ",
+      "words": [
+       {
+        "w": "śothānām",
+        "gloss": "of swellings",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "sādhyatāṃ",
+      "words": [
+       {
+        "w": "sādhyatām",
+        "gloss": "curability",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "teṣāṃ",
+      "words": [
+       {
+        "w": "teṣām",
+        "gloss": "of those",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "teṣāṃ",
+      "words": [
+       {
+        "w": "teṣām",
+        "gloss": "(and) those",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "vikārāṇāṃ",
+      "words": [
+       {
+        "w": "vikārāṇām",
+        "gloss": "of disorders",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "śothāṃstāṃstāṃśca",
+      "words": [
+       {
+        "w": "śothān",
+        "gloss": "the swellings",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "tān",
+        "gloss": "those",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "tān",
+        "gloss": "(and) those",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pūrvajān",
+      "words": [
+       {
+        "w": "pūrva-jān",
+        "gloss": "arising first",
+        "gram": "m. acc. pl., upapada tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यहाँ श्लोक: शोथों की संख्या, निमित्त, रूप, साध्यता और असाध्यता, और उन-उन विकारों के पहले उत्पन्न होने वाले उन-उन शोथों को,",
+  "english": "Here, the verses: The number, cause and forms of swellings, their curability and its absence, and those various swellings that arise before those various disorders,",
+  "text_flags": [],
+  "notes": "The summary sentence runs through units 54 to 56 (objects in the accusative, verb vyākhyātavān in 56). \"sādhyatāṃ na ca\" is read as \"curability and not [curability]\"; the construction is elliptical. pūrvajān \"arising first\" is taken as the swellings that precede the disorders named in this chapter; the unit does not make the relation explicit.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.18.54a",
+   "01.18.54b",
+   "01.18.54c"
+  ],
+  "lines_deva": [
+   "तत्र श्लोकाः",
+   "संख्यां निमित्तं रूपाणि शोथानां साध्यतां न च",
+   "तेषां तेषां विकाराणां शोथांस्तांस्तांश्च पूर्वजान्"
+  ],
+  "lines_iast": [
+   "tatra ślokāḥ",
+   "saṃkhyāṃ nimittaṃ rūpāṇi śothānāṃ sādhyatāṃ na ca",
+   "teṣāṃ teṣāṃ vikārāṇāṃ śothāṃstāṃstāṃśca pūrvajān"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "55",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vidhibhedaṃ",
+      "words": [
+       {
+        "w": "vidhi-bhedam",
+        "gloss": "the division of kinds",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vikārāṇāṃ",
+      "words": [
+       {
+        "w": "vikārāṇām",
+        "gloss": "of disorders",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "trividhā",
+      "words": [
+       {
+        "w": "trividham",
+        "gloss": "threefold",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bodhyasaṃgraham",
+      "words": [
+       {
+        "w": "bodhya-saṃgraham",
+        "gloss": "the summary of what is to be known",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "prākṛtaṃ",
+      "words": [
+       {
+        "w": "prākṛtam",
+        "gloss": "the normal",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "karma",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "action",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "doṣāṇāṃ",
+      "words": [
+       {
+        "w": "doṣāṇām",
+        "gloss": "of the doṣas",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "lakṣaṇaṃ",
+      "words": [
+       {
+        "w": "lakṣaṇam",
+        "gloss": "the sign",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hānivṛddhiṣu",
+      "words": [
+       {
+        "w": "hāni-vṛddhiṣu",
+        "gloss": "in diminution and increase",
+        "gram": "f. loc. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विकारों के प्रकारों का भेद, जानने योग्य त्रिविध संग्रह, दोषों का प्राकृत कर्म और उनकी हानि और वृद्धि में लक्षण,",
+  "english": "the division of disorders into kinds, the threefold summary of what is to be known, the normal action of the doṣas, and the sign in their diminution and increase,",
+  "text_flags": [
+   {
+    "src": "trividhā",
+    "suggest": "trividhaṃ",
+    "why": "possible: trividhā does not agree with bodhyasaṃgraham (m. acc. sg.); trividham \"threefold\" agrees and matches the triad (tritaya) of units 46 and 47, with the same metre"
+   }
+  ],
+  "notes": "Continues unit 54. vidhibheda is taken as the division of diseases into the kinds of units 37 to 41 (dreadful/mild, curable, yāpya, rejected). bodhya is a gerundive (kṛtya) of √budh used as the first member.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.18.55a",
+   "01.18.55b"
+  ],
+  "lines_deva": [
+   "विधिभेदं विकाराणां त्रिविधा बोध्यसंग्रहम्",
+   "प्राकृतं कर्म दोषाणां लक्षणं हानिवृद्धिषु"
+  ],
+  "lines_iast": [
+   "vidhibhedaṃ vikārāṇāṃ trividhā bodhyasaṃgraham",
+   "prākṛtaṃ karma doṣāṇāṃ lakṣaṇaṃ hānivṛddhiṣu"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "56",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vītamoharajodoṣalobhamānamadaspṛhaḥ",
+      "words": [
+       {
+        "w": "vīta-moha-rajaḥ-doṣa-lobha-māna-mada-spṛhaḥ",
+        "gloss": "free from delusion, rajas, fault, greed, pride, arrogance and craving",
+        "gram": "m. nom. sg., bahuvrīhi (dvandva members)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vyākhyātavāṃstriśothīye",
+      "words": [
+       {
+        "w": "vyākhyātavān",
+        "gloss": "explained",
+        "gram": "m. nom. sg., past act. part. vi-ā-√khyā"
+       },
+       {
+        "w": "triśothīye",
+        "gloss": "in the Triśothīya",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rogādhyāye",
+      "words": [
+       {
+        "w": "roga-adhyāye",
+        "gloss": "in the chapter on diseases",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "punarvasuḥ",
+      "words": [
+       {
+        "w": "punarvasuḥ",
+        "gloss": "Punarvasu",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मोह, रज, दोष, लोभ, मान, मद और स्पृहा से रहित पुनर्वसु ने त्रिशोथीय नामक रोगाध्याय में व्याख्या की।",
+  "english": "Punarvasu, free from delusion, rajas, fault, greed, pride, arrogance and craving, has explained [these] in the Triśothīya chapter on diseases.",
+  "text_flags": [],
+  "notes": "Closes the sentence begun in unit 54. rajo-doṣa may also be one item, \"the fault of rajas\".",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.18.56a",
+   "01.18.56b"
+  ],
+  "lines_deva": [
+   "वीतमोहरजोदोषलोभमानमदस्पृहः",
+   "व्याख्यातवांस्त्रिशोथीये रोगाध्याये पुनर्वसुः"
+  ],
+  "lines_iast": [
+   "vītamoharajodoṣalobhamānamadaspṛhaḥ",
+   "vyākhyātavāṃstriśothīye rogādhyāye punarvasuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "P1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ityagniveśakṛte",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus (closing marker)",
+        "gram": "ind."
+       },
+       {
+        "w": "agniveśa-kṛte",
+        "gloss": "composed by Agniveśa",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tantre",
+      "words": [
+       {
+        "w": "tantre",
+        "gloss": "in the treatise",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "carakapratisaṃskṛte",
+      "words": [
+       {
+        "w": "caraka-pratisaṃskṛte",
+        "gloss": "redacted by Caraka",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ślokasthāne",
+      "words": [
+       {
+        "w": "śloka-sthāne",
+        "gloss": "in the Śloka section (Ślokasthāna)",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "triśothīyo",
+      "words": [
+       {
+        "w": "triśothīyaḥ",
+        "gloss": "Triśothīya",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāmāṣṭādaśo'dhyāyaḥ",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "named",
+        "gram": "ind."
+       },
+       {
+        "w": "aṣṭādaśaḥ",
+        "gloss": "eighteenth",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "adhyāyaḥ",
+        "gloss": "chapter",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार अग्निवेश द्वारा रचित, चरक द्वारा प्रतिसंस्कृत तन्त्र के श्लोकस्थान में त्रिशोथीय नामक अठारहवाँ अध्याय।",
+  "english": "Thus, in the treatise composed by Agniveśa and redacted by Caraka, in the Śloka section (Ślokasthāna), the eighteenth chapter named Triśothīya.",
+  "text_flags": [],
+  "notes": "Chapter colophon; the Sanskrit has no verb and the translation keeps it verbless.",
+  "confidence": "high",
+  "type": "prose",
+  "line_ids": [
+   "01.18.P1"
+  ],
+  "lines_deva": [
+   "इत्यग्निवेशकृते तन्त्रे चरकप्रतिसंस्कृते श्लोकस्थाने त्रिशोथीयो नामाष्टादशोऽध्यायः"
+  ],
+  "lines_iast": [
+   "ityagniveśakṛte tantre carakapratisaṃskṛte ślokasthāne triśothīyo nāmāṣṭādaśo'dhyāyaḥ"
+  ],
+  "uncertain": []
+ }
+]

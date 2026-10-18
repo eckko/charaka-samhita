@@ -1,0 +1,209 @@
+[
+ {
+  "n": "33",
+  "field": "text_flags.0.why",
+  "old": "possible: the ablative utsedhasāmānyāt (as in unit 8 of this chapter) joined to adhimāṃsa gives -sāmānyād adhi- with long ā; the printed short a leaves sāmānya without a case",
+  "new": "sāmānyad is not a form: a d before adhi- can only be the ablative -āt (utsedhasāmānyāt, 'because of the common feature of elevation') in sandhi, which needs long ā; a + a would give ā with no d. The printed short a leaves sāmānya without a case; the metre is unchanged",
+  "why": "reviewer (minor): The flag is sound on grammar alone, but its 'why' cites 'unit 8 of this chapter', which is not in this chunk (and no utsedhasāmānyāt occurs in chunk 1's input either): an outside or memory-sourced parallel. Restate on grammar and drop 'possible', since no sandhi yields -ad here."
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "जिसके वात, पित्त और कफ, तीनों एक साथ कुपित होकर, जलन उत्पन्न करते हुए और ऊपर उठे हुए, जिह्वा के मूल में ठहर जाते हैं,",
+  "new": "जिसके वात, पित्त और कफ, तीनों एक साथ कुपित होकर, जलते हुए और ऊपर उठे हुए, जिह्वा के मूल में ठहर जाते हैं,",
+  "why": "reviewer (minor): Hindi takes vidahantaḥ as transitive ('causing burning') while the English has intransitive 'burning'; the two layers should give the same reading (the note keeps the alternative)."
+ },
+ {
+  "n": "35",
+  "field": "word.gram",
+  "word": "bhṛśam",
+  "old": "ind. (adv.)",
+  "new": "m. acc. sg. (adj. with śotham; or adv.)",
+  "why": "reviewer (minor): gram says adverb (ind.) but the gloss 'intense' and both translations ('an intense swelling', तीव्र शोथ) take it as an adjective with śotham."
+ },
+ {
+  "n": "36",
+  "field": "word.gloss",
+  "word": "jantoḥ",
+  "old": "person",
+  "new": "of the person",
+  "why": "reviewer (minor): Genitive glossed as a bare noun."
+ },
+ {
+  "n": "37",
+  "field": "english",
+  "old": "For there are diseases of this kind, curable yet considered harsh, which would kill if left untreated, or again through wrong conduct.",
+  "new": "For there are diseases of this kind, curable yet considered dreadful, which would kill if left untreated, or again through wrong conduct.",
+  "why": "reviewer (error): GLOSSARY: dāruṇa said of a disease = dreadful (harsh only for qualities in guṇa lists)."
+ },
+ {
+  "n": "37",
+  "field": "word.gloss",
+  "word": "dāruṇa-saṃmatāḥ",
+  "old": "considered harsh",
+  "new": "considered dreadful",
+  "why": "reviewer (error): GLOSSARY: dāruṇa said of a disease = dreadful (harsh only for qualities in guṇa lists)."
+ },
+ {
+  "n": "37",
+  "field": "word.gloss",
+  "word": "vā",
+  "old": "or (repeated)",
+  "new": "(repeated vā, probably a dittography; see text_flags)",
+  "why": "reviewer (minor): Rule 2: words carry the corrected form; the dittographic second vā is glossed as if it were a real word ('or (repeated)')."
+ },
+ {
+  "n": "39",
+  "field": "english",
+  "old": "And there are other diseases, incurable, called palliable (yāpya), in which action, even when done very well, would only keep things going (yātrā).",
+  "new": "And there are other diseases, incurable, called palliable (yāpya), in which action, even when done very well, would bring about maintenance (yātrā).",
+  "why": "reviewer (minor): 'only' / केवल is not in the Sanskrit (the draft's own note admits it); 'keep things going' is loose for yātrākaram."
+ },
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "और दूसरे रोग असाध्य हैं जिन्हें याप्य कहा जाता है, जिनमें भली-भाँति किया गया कर्म भी केवल यात्रा चलाने वाला होता है।",
+  "new": "और दूसरे रोग असाध्य हैं जिन्हें याप्य कहा जाता है, जिनमें भली-भाँति किया गया कर्म भी निर्वाह करने वाला होता है।",
+  "why": "reviewer (minor): 'only' / केवल is not in the Sanskrit (the draft's own note admits it); 'keep things going' is loose for yātrākaram."
+ },
+ {
+  "n": "39",
+  "field": "notes",
+  "old": "yātrā \"going on, maintenance\" is taken as the keeping-going of life; the unit does not say more. \"only\" / \"केवल\" renders the contrast with curing implied by asādhyāḥ; it is not a separate word in the Sanskrit.",
+  "new": "yātrā \"going on, maintenance\" is taken as the keeping-going of life; the unit does not say more.",
+  "why": "reviewer (minor): 'only' / केवल is not in the Sanskrit (the draft's own note admits it); 'keep things going' is loose for yātrākaram."
+ },
+ {
+  "n": "40",
+  "field": "text_flags.0.why",
+  "old": "yeṣ is not a form; yeṣu (in which) as in units 38 and 39 (yeṣu karma), and the line then has 16 syllables",
+  "new": "yeṣ is not a form; yeṣu (in which) as in units 38 and 39 (yeṣu karma); the syllable count of the pāda is unchanged",
+  "why": "reviewer (minor): The 'why' says 'the line then has 16 syllables', implying a metrical gain; the printed line already counts 16 (yeṣ one syllable, karema three), so the metre gives no evidence. The parallels 38 and 39 alone support both flags, which stand."
+ },
+ {
+  "n": "40",
+  "field": "notes",
+  "old": "vālaiḥ is taken as bālaiḥ \"by the unwise\" (v and b interchange in spelling; vāla \"hair, tail\" gives no sense); the printed spelling is kept. Grammatically bālaiḥ qualifies yatnakṛtam; it could also be read with the contrast to vidvān, i.e. such diseases are attempted only by the unwise. The unit does not settle this.",
+  "new": "vālaiḥ is taken as bālaiḥ \"by the unwise\" (v and b interchange in spelling; vāla \"hair, tail\" gives no sense); the printed spelling is kept. Grammatically bālaiḥ is the agent of yatnakṛtam; it could also be read with the contrast to vidvān, i.e. such diseases are attempted only by the unwise. The unit does not settle this.",
+  "why": "reviewer (minor): vālaiḥ/bālaiḥ is a v/b orthographic alternation (as cch/cc in picchana, Sū 18 chunk 1): no text_flag is needed and the printed spelling stays in w, which the draft does. But the note says bālaiḥ 'qualifies' yatnakṛtam; it is the agent of kṛtam."
+ },
+ {
+  "n": "41",
+  "field": "english",
+  "old": "Diseases are held to be of two kinds, curable and incurable; by the division into mild and harsh they become of four kinds.",
+  "new": "Diseases are held to be of two kinds, curable and incurable; by the division into mild and dreadful they become of four kinds.",
+  "why": "reviewer (error): GLOSSARY: dāruṇa said of a disease = dreadful."
+ },
+ {
+  "n": "41",
+  "field": "word.gloss",
+  "word": "mṛdu-dāruṇa-bhedena",
+  "old": "by the division into mild and harsh",
+  "new": "by the division into mild and dreadful",
+  "why": "reviewer (error): GLOSSARY: dāruṇa said of a disease = dreadful."
+ },
+ {
+  "n": "43",
+  "field": "confidence",
+  "old": "low",
+  "new": "medium",
+  "why": "reviewer (minor): Reviewed: yathā (+ sthūleṣu) ... tathā is a sound correlative reading, the alternative is noted, and every word is parsed correctly; the reading is defensible, so 'low' understates it. Hindi वर्गों is an understood word and should be bracketed."
+ },
+ {
+  "n": "43",
+  "field": "hindi",
+  "old": "जैसे उनकी व्यवस्था करने के लिए स्थूल वर्गों में संग्रह होता है, उसी प्रकार विकारों में प्रकृति की समानता का उपदेश किया जाता है।",
+  "new": "जैसे उनकी व्यवस्था करने के लिए स्थूल (वर्गों) में संग्रह होता है, उसी प्रकार विकारों में प्रकृति की समानता का उपदेश किया जाता है।",
+  "why": "reviewer (minor): Reviewed: yathā (+ sthūleṣu) ... tathā is a sound correlative reading, the alternative is noted, and every word is parsed correctly; the reading is defensible, so 'low' understates it. Hindi वर्गों is an understood word and should be bracketed."
+ },
+ {
+  "n": "49",
+  "field": "notes",
+  "old": "ceṣṭā before dh is read as the plural ceṣṭāḥ ending a dvandva (visarga dropped before a voiced consonant); a singular reading ceṣṭā would make it a dvandva with the gender of its last member. gatimatām \"of those having movement\": the unit does not say which things are meant.",
+  "new": "ceṣṭā before dh is read as the plural ceṣṭāḥ ending a dvandva (visarga dropped before a voiced consonant). gatimatām \"of those having movement\": the unit does not say which things are meant.",
+  "why": "reviewer (minor): The plural reading (ceṣṭāḥ, -āḥ > -ā before dh) is right, but the note's alternative 'a singular reading ceṣṭā would make it a dvandva with the gender of its last member' contradicts the GLOSSARY rule (singular dvandvas are samāhāra, neuter)."
+ },
+ {
+  "n": "50",
+  "field": "lines.0.tokens.3.words",
+  "old": [
+   {
+    "w": "kṣut-tṛṣṇā",
+    "gloss": "hunger and thirst",
+    "gram": "f. nom. sg., dvandva (singular with the gender of the last member)"
+   }
+  ],
+  "new": [
+   {
+    "w": "kṣut",
+    "gloss": "hunger",
+    "gram": "f. nom. sg. (kṣudh)"
+   },
+   {
+    "w": "tṛṣṇā",
+    "gloss": "thirst",
+    "gram": "f. nom. sg."
+   }
+  ],
+  "why": "reviewer (error): Singular feminine 'dvandva' breaks the GLOSSARY rule (singular dvandvas are samāhāra, neuter). As decided in the Sū 16 review, the printed kṣuttṛṣṇā is two nominatives of the list: kṣut (kṣudh, f.) + tṛṣṇā (f.); no compound is needed. The note's dvandva sentences go."
+ },
+ {
+  "n": "50",
+  "field": "notes",
+  "old": "kṣuttṛṣṇā is a singular dvandva with the feminine ending of tṛṣṇā, not the neuter of a samāhāra dvandva; the print is kept. It could also be read kṣuttṛṣṇāḥ (plural, visarga dropped before d). prasāda may mean clarity or cheerfulness (of mind or complexion); the unit does not specify.",
+  "new": "kṣuttṛṣṇā is read as two nominatives of the list, kṣut (kṣudh) and tṛṣṇā. prasāda may mean clarity or cheerfulness (of mind or complexion); the unit does not specify.",
+  "why": "reviewer (error): Singular feminine 'dvandva' breaks the GLOSSARY rule (singular dvandvas are samāhāra, neuter). As decided in the Sū 16 review, the printed kṣuttṛṣṇā is two nominatives of the list: kṣut (kṣudh, f.) + tṛṣṇā (f.); no compound is needed. The note's dvandva sentences go."
+ },
+ {
+  "n": "52",
+  "field": "word.gram",
+  "word": "karmaṇaḥ",
+  "old": "n. gen. sg.",
+  "new": "n. abl. sg. (with prākṛtāt)",
+  "why": "reviewer (error): karmaṇaḥ is labelled genitive while prākṛtāt is ablative, and the note has to 'combine' the cases. karmaṇaḥ is equally the ablative and simply agrees with prākṛtāt: 'a falling-off from the normal action'."
+ },
+ {
+  "n": "52",
+  "field": "word.gloss",
+  "word": "karmaṇaḥ",
+  "old": "of action",
+  "new": "from action",
+  "why": "reviewer (error): karmaṇaḥ is labelled genitive while prākṛtāt is ablative, and the note has to 'combine' the cases. karmaṇaḥ is equally the ablative and simply agrees with prākṛtāt: 'a falling-off from the normal action'."
+ },
+ {
+  "n": "52",
+  "field": "notes",
+  "old": "kṣīṇe is singular, taken with each of the three locatives in turn. karmaṇaḥ prākṛtāt combines genitive and ablative: \"loss of action, from the normal [level]\". virodhinām \"of the opposing ones\" is not specified in the unit.",
+  "new": "kṣīṇe is singular, taken with each of the three locatives in turn. karmaṇaḥ prākṛtāt is one ablative phrase: \"a loss from the normal action\". virodhinām \"of the opposing ones\" is not specified in the unit.",
+  "why": "reviewer (error): karmaṇaḥ is labelled genitive while prākṛtāt is ablative, and the note has to 'combine' the cases. karmaṇaḥ is equally the ablative and simply agrees with prākṛtāt: 'a falling-off from the normal action'."
+ },
+ {
+  "n": "54",
+  "field": "english",
+  "old": "Here, the verses: The number, cause and forms of swellings, their curability and its absence, and those various swellings that arise first in those various disorders,",
+  "new": "Here, the verses: The number, cause and forms of swellings, their curability and its absence, and those various swellings that arise before those various disorders,",
+  "why": "reviewer (minor): The English does not match the note or the Hindi (उन-उन विकारों के पहले): pūrvajān with the genitive means arising before those disorders, not 'first in' them."
+ },
+ {
+  "n": "54",
+  "field": "confidence",
+  "old": "low",
+  "new": "medium",
+  "why": "reviewer (minor): Reviewed: every word parses; the only real doubt is the elliptical 'sādhyatāṃ na ca', which the note flags. medium is honest."
+ },
+ {
+  "n": "55",
+  "field": "notes",
+  "old": "Continues unit 54. vidhibheda is taken as the division of diseases into the kinds of units 37 to 41 (harsh/mild, curable, yāpya, rejected). bodhya is a gerundive (kṛtya) of √budh used as the first member.",
+  "new": "Continues unit 54. vidhibheda is taken as the division of diseases into the kinds of units 37 to 41 (dreadful/mild, curable, yāpya, rejected). bodhya is a gerundive (kṛtya) of √budh used as the first member.",
+  "why": "reviewer (minor): Note must use the fixed rendering for dāruṇa of diseases."
+ },
+ {
+  "n": "56",
+  "field": "word.w",
+  "word": "tri-śothīye",
+  "old": "tri-śothīye",
+  "new": "triśothīye",
+  "why": "reviewer (minor): GLOSSARY: chapter names in -īya are derived words, not split into compound members (cf. triśothīyaḥ in P1, left whole)."
+ }
+]

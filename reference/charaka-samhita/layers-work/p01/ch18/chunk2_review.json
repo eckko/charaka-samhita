@@ -1,0 +1,494 @@
+{
+ "units": [
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "utsedhasāmānyad",
+     "problem": "The flag is sound on grammar alone, but its 'why' cites 'unit 8 of this chapter', which is not in this chunk (and no utsedhasāmānyāt occurs in chunk 1's input either): an outside or memory-sourced parallel. Restate on grammar and drop 'possible', since no sandhi yields -ad here.",
+     "fix": "sāmānyad is not a form: a d before adhi- can only be the ablative -āt (utsedhasāmānyāt, 'because of the common feature of elevation') in sandhi, which needs long ā; a + a would give ā with no d. The printed short a leaves sāmānya without a case; the metre is unchanged",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "set",
+      "field": "text_flags.0.why",
+      "value": "sāmānyad is not a form: a d before adhi- can only be the ablative -āt (utsedhasāmānyāt, 'because of the common feature of elevation') in sandhi, which needs long ā; a + a would give ā with no d. The printed short a leaves sāmānya without a case; the metre is unchanged"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जलन उत्पन्न करते हुए",
+     "problem": "Hindi takes vidahantaḥ as transitive ('causing burning') while the English has intransitive 'burning'; the two layers should give the same reading (the note keeps the alternative).",
+     "fix": "जलते हुए",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जलन उत्पन्न करते हुए",
+      "new": "जलते हुए"
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "bhṛśam",
+     "problem": "gram says adverb (ind.) but the gloss 'intense' and both translations ('an intense swelling', तीव्र शोथ) take it as an adjective with śotham.",
+     "fix": "gram: m. acc. sg. (adj. with śotham; or adv.)",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "word",
+      "match_w": "bhṛśam",
+      "field": "gram",
+      "value": "m. acc. sg. (adj. with śotham; or adv.)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "jantoḥ",
+     "problem": "Genitive glossed as a bare noun.",
+     "fix": "of the person",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "word",
+      "match_w": "jantoḥ",
+      "field": "gloss",
+      "value": "of the person"
+     }
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "considered harsh",
+     "problem": "GLOSSARY: dāruṇa said of a disease = dreadful (harsh only for qualities in guṇa lists).",
+     "fix": "considered dreadful",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "37",
+       "op": "replace",
+       "field": "english",
+       "old": "considered harsh",
+       "new": "considered dreadful"
+      },
+      {
+       "n": "37",
+       "op": "word",
+       "match_w": "dāruṇa-saṃmatāḥ",
+       "field": "gloss",
+       "value": "considered dreadful"
+      }
+     ]
+    },
+    {
+     "field": "gloss",
+     "where": "second vā",
+     "problem": "Rule 2: words carry the corrected form; the dittographic second vā is glossed as if it were a real word ('or (repeated)').",
+     "fix": "gloss of the second vā: (repeated vā, probably a dittography; see text_flags)",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "word",
+      "match_w": "vā",
+      "occurrence": 2,
+      "field": "gloss",
+      "value": "(repeated vā, probably a dittography; see text_flags)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "would only keep things going (yātrā)",
+     "problem": "'only' / केवल is not in the Sanskrit (the draft's own note admits it); 'keep things going' is loose for yātrākaram.",
+     "fix": "in which action, even when done very well, would bring about maintenance (yātrā).",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "39",
+       "op": "replace",
+       "field": "english",
+       "old": "would only keep things going (yātrā).",
+       "new": "would bring about maintenance (yātrā)."
+      },
+      {
+       "n": "39",
+       "op": "replace",
+       "field": "hindi",
+       "old": "भी केवल यात्रा चलाने वाला होता है।",
+       "new": "भी निर्वाह करने वाला होता है।"
+      },
+      {
+       "n": "39",
+       "op": "set",
+       "field": "notes",
+       "value": "yātrā \"going on, maintenance\" is taken as the keeping-going of life; the unit does not say more."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "yeṣ -> yeṣu",
+     "problem": "The 'why' says 'the line then has 16 syllables', implying a metrical gain; the printed line already counts 16 (yeṣ one syllable, karema three), so the metre gives no evidence. The parallels 38 and 39 alone support both flags, which stand.",
+     "fix": "yeṣ is not a form; yeṣu (in which) as in units 38 and 39 (yeṣu karma); the syllable count of the pāda is unchanged",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "set",
+      "field": "text_flags.0.why",
+      "value": "yeṣ is not a form; yeṣu (in which) as in units 38 and 39 (yeṣu karma); the syllable count of the pāda is unchanged"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "vālaiḥ",
+     "problem": "vālaiḥ/bālaiḥ is a v/b orthographic alternation (as cch/cc in picchana, Sū 18 chunk 1): no text_flag is needed and the printed spelling stays in w, which the draft does. But the note says bālaiḥ 'qualifies' yatnakṛtam; it is the agent of kṛtam.",
+     "fix": "replace 'Grammatically bālaiḥ qualifies yatnakṛtam' with 'Grammatically bālaiḥ is the agent of yatnakṛtam'",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "replace",
+      "field": "notes",
+      "old": "Grammatically bālaiḥ qualifies yatnakṛtam",
+      "new": "Grammatically bālaiḥ is the agent of yatnakṛtam"
+     }
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "mild and harsh",
+     "problem": "GLOSSARY: dāruṇa said of a disease = dreadful.",
+     "fix": "by the division into mild and dreadful",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "41",
+       "op": "replace",
+       "field": "english",
+       "old": "mild and harsh",
+       "new": "mild and dreadful"
+      },
+      {
+       "n": "41",
+       "op": "word",
+       "match_w": "mṛdu-dāruṇa-bhedena",
+       "field": "gloss",
+       "value": "by the division into mild and dreadful"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "confidence",
+     "where": "unit",
+     "problem": "Reviewed: yathā (+ sthūleṣu) ... tathā is a sound correlative reading, the alternative is noted, and every word is parsed correctly; the reading is defensible, so 'low' understates it. Hindi वर्गों is an understood word and should be bracketed.",
+     "fix": "confidence medium; Hindi स्थूल (वर्गों) में",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "43",
+       "op": "set",
+       "field": "confidence",
+       "value": "medium"
+      },
+      {
+       "n": "43",
+       "op": "replace",
+       "field": "hindi",
+       "old": "स्थूल वर्गों में",
+       "new": "स्थूल (वर्गों) में"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "ceṣṭā",
+     "problem": "The plural reading (ceṣṭāḥ, -āḥ > -ā before dh) is right, but the note's alternative 'a singular reading ceṣṭā would make it a dvandva with the gender of its last member' contradicts the GLOSSARY rule (singular dvandvas are samāhāra, neuter).",
+     "fix": "drop the singular-reading clause",
+     "severity": "minor",
+     "patch": {
+      "n": "49",
+      "op": "set",
+      "field": "notes",
+      "value": "ceṣṭā before dh is read as the plural ceṣṭāḥ ending a dvandva (visarga dropped before a voiced consonant). gatimatām \"of those having movement\": the unit does not say which things are meant."
+     }
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "kṣuttṛṣṇā",
+     "problem": "Singular feminine 'dvandva' breaks the GLOSSARY rule (singular dvandvas are samāhāra, neuter). As decided in the Sū 16 review, the printed kṣuttṛṣṇā is two nominatives of the list: kṣut (kṣudh, f.) + tṛṣṇā (f.); no compound is needed. The note's dvandva sentences go.",
+     "fix": "words: kṣut 'hunger' [f. nom. sg. of kṣudh] + tṛṣṇā 'thirst' [f. nom. sg.]; notes without the dvandva sentences",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "50",
+       "op": "set",
+       "field": "lines.0.tokens.3.words",
+       "value": [
+        {
+         "w": "kṣut",
+         "gloss": "hunger",
+         "gram": "f. nom. sg. (kṣudh)"
+        },
+        {
+         "w": "tṛṣṇā",
+         "gloss": "thirst",
+         "gram": "f. nom. sg."
+        }
+       ]
+      },
+      {
+       "n": "50",
+       "op": "set",
+       "field": "notes",
+       "value": "kṣuttṛṣṇā is read as two nominatives of the list, kṣut (kṣudh) and tṛṣṇā. prasāda may mean clarity or cheerfulness (of mind or complexion); the unit does not specify."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "karmaṇaḥ",
+     "problem": "karmaṇaḥ is labelled genitive while prākṛtāt is ablative, and the note has to 'combine' the cases. karmaṇaḥ is equally the ablative and simply agrees with prākṛtāt: 'a falling-off from the normal action'.",
+     "fix": "gram: n. abl. sg. (with prākṛtāt); gloss: from action; note sentence replaced",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "52",
+       "op": "word",
+       "match_w": "karmaṇaḥ",
+       "field": "gram",
+       "value": "n. abl. sg. (with prākṛtāt)"
+      },
+      {
+       "n": "52",
+       "op": "word",
+       "match_w": "karmaṇaḥ",
+       "field": "gloss",
+       "value": "from action"
+      },
+      {
+       "n": "52",
+       "op": "replace",
+       "field": "notes",
+       "old": "karmaṇaḥ prākṛtāt combines genitive and ablative: \"loss of action, from the normal [level]\".",
+       "new": "karmaṇaḥ prākṛtāt is one ablative phrase: \"a loss from the normal action\"."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "54",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "that arise first in those various disorders",
+     "problem": "The English does not match the note or the Hindi (उन-उन विकारों के पहले): pūrvajān with the genitive means arising before those disorders, not 'first in' them.",
+     "fix": "those various swellings that arise before those various disorders,",
+     "severity": "minor",
+     "patch": {
+      "n": "54",
+      "op": "replace",
+      "field": "english",
+      "old": "that arise first in those various disorders,",
+      "new": "that arise before those various disorders,"
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "unit",
+     "problem": "Reviewed: every word parses; the only real doubt is the elliptical 'sādhyatāṃ na ca', which the note flags. medium is honest.",
+     "fix": "confidence medium",
+     "severity": "minor",
+     "patch": {
+      "n": "54",
+      "op": "set",
+      "field": "confidence",
+      "value": "medium"
+     }
+    }
+   ]
+  },
+  {
+   "n": "55",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "harsh/mild",
+     "problem": "Note must use the fixed rendering for dāruṇa of diseases.",
+     "fix": "(dreadful/mild, curable, yāpya, rejected)",
+     "severity": "minor",
+     "patch": {
+      "n": "55",
+      "op": "replace",
+      "field": "notes",
+      "old": "(harsh/mild,",
+      "new": "(dreadful/mild,"
+     }
+    }
+   ]
+  },
+  {
+   "n": "56",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "tri-śothīye",
+     "problem": "GLOSSARY: chapter names in -īya are derived words, not split into compound members (cf. triśothīyaḥ in P1, left whole).",
+     "fix": "w: triśothīye",
+     "severity": "minor",
+     "patch": {
+      "n": "56",
+      "op": "word",
+      "match_w": "tri-śothīye",
+      "field": "w",
+      "value": "triśothīye"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P1",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "30 units reviewed; 18 issues (4 error, 14 minor), all with machine patches, 0 MANUAL. text_flags: 13 proposed, 13 kept, 0 dropped. 28 śaniḥ>śanaiḥ, paritudana>paritudan (pāda 9>8 syllables); 31 duaraṃ>udaraṃ; 32 jāyae>jāyate; 34 samucchiritāḥ>samucchritāḥ (9>8); 40 yeṣ>yeṣu, karema>karma (parallels 38/39; metre claim removed from the why); 51 gaurvaṃ>gauravaṃ (7>8); 53 pakrīkṣyate>parīkṣyate (5th syllable pak heavy). 'possible' ones: 33 sāmānyad>sāmānyād kept and made firm on grammar (no sandhi gives -ad), its out-of-chunk 'unit 8' parallel removed; 37 vā vā>vā kept as possible (pāda 9>8, even-pāda 5-6-7 short-long-short restored); 47 etas>etat kept as possible (etas cannot agree with tritayam n.); 55 trividhā>trividhaṃ kept as possible (no agreement in the accusative list). 40 vālaiḥ/bālaiḥ: v/b orthographic alternation, no flag (as picchana in chunk 1), printed spelling kept in w. Decisions: 50 kṣuttṛṣṇā split into kṣut + tṛṣṇā (Sū 16 ruling), dvandva note removed; 49 ceṣṭāḥ plural dvandva correct, singular-dvandva clause in the note removed; dāruṇa of diseases = dreadful (37, 41, 55 note); 52 karmaṇaḥ is ablative with prākṛtāt; 36 anukrāntaḥ = attended to (anu-√kram ppp), accepted, note contrasting anupakrāntāḥ (37) kept, confidence medium kept; 37 mithyācāra = wrong conduct, whose conduct left open in notes, accepted; 43 low>medium (yathā...tathā reading sound, alternative noted); 54 low>medium, English 'arise first in' corrected to 'arise before'. No notes cite commentators or other editions; no modern identifications. No regrouping suggested. Layers remain unreviewed AI drafts until read by a person."
+}
