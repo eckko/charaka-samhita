@@ -1,0 +1,354 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "ataścātimātraṃ doṣavanti sauhityopayuktānyanyatra vyāyāmāgnibalāt",
+     "problem": "atimātram most naturally qualifies doṣavanti ('excessively harmful'), since sauhityopayuktāni already says 'taken to satiety'; 'taken to satiety in excess' doubles the excess. 'except with strength from exercise and of the fire' is unclear English.",
+     "fix": "and hence, taken to satiety, they are excessively harmful, except where there is strength from exercise and strength of the fire",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "english",
+      "old": "and hence, taken to satiety in excess, they are harmful, except with strength from exercise and of the fire",
+      "new": "and hence, taken to satiety, they are excessively harmful, except where there is strength from exercise and strength of the fire"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अतिमात्रा में सौहित्य तक सेवन किए जाने पर दोषयुक्त होते हैं",
+     "problem": "Same construal as the English: atimātram goes with doṣavanti.",
+     "fix": "सौहित्य तक सेवन किए जाने पर अत्यधिक दोषयुक्त होते हैं",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अतिमात्रा में सौहित्य तक सेवन किए जाने पर दोषयुक्त होते हैं",
+      "new": "सौहित्य तक सेवन किए जाने पर अत्यधिक दोषयुक्त होते हैं"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "और यहाँ (श्लोक) हैं",
+     "problem": "Bracketed supply in the Hindi (brief: no bracketed glosses in Hindi).",
+     "fix": "और यहाँ श्लोक हैं",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और यहाँ (श्लोक) हैं",
+      "new": "और यहाँ श्लोक हैं"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kṛśam",
+     "problem": "Gloss imports the commentators' 'of an emaciated (animal)' and disagrees with the English 'lean meat'; the note already gives the commentary reading.",
+     "fix": "lean, emaciated",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "kṛśam",
+      "field": "gloss",
+      "value": "lean, emaciated"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आन्तरिक्ष पय",
+     "problem": "In Hindi पय reads as milk; the draft itself (note, English) takes payaḥ here as rain-water. The glossary rule payas = milk does not apply to āntarīkṣa payas.",
+     "fix": "आन्तरिक्ष जल",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आन्तरिक्ष पय",
+      "new": "आन्तरिक्ष जल"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "malināṃ",
+     "problem": "The word was silently normalised to malinānām, which does not match the printed malināṃ, and no text_flag was added (the note even says it is not flagged). Either keep the printed form in `w` or flag it; since the note argues the short form is metrical, keep it.",
+     "fix": "w = malinām",
+     "severity": "error",
+     "patch": {
+      "n": "18",
+      "op": "word",
+      "match_w": "malinānām",
+      "field": "gram",
+      "value": "n. gen. pl. (metrically short for malinānām)"
+     }
+    },
+    {
+     "field": "split",
+     "where": "malināṃ",
+     "problem": "Second step of the same fix: set `w` to the printed form (apply after the gram patch).",
+     "fix": "malinām",
+     "severity": "error",
+     "patch": {
+      "n": "18",
+      "op": "word",
+      "match_w": "malinānām",
+      "field": "w",
+      "value": "malinām"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "vartiṃ madhurakaiḥ kṛtvā snaihikīṃ dhūmamācaret",
+     "problem": "snaihikīm (f. acc. sg.) agrees with vartim (f. acc. sg.), not with dhūmam (m.): 'having made the unctuous wick'. Same pattern as prāyogikīm with vartim in 24-25. The draft attaches snaihikī to the smoke and explains the mismatch away in the note.",
+     "fix": "having made the unctuous (snaihikī) wick with the madhuraka (sweet) drugs, one should practise smoking.",
+     "severity": "error",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "english",
+      "old": "having made a wick with the madhuraka (sweet) drugs, one should practise the unctuous (snaihikī) smoke.",
+      "new": "having made the unctuous (snaihikī) wick with the madhuraka (sweet) drugs, one should practise smoking."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मधुरकों से वर्ति बनाकर स्नैहिकी धूम का सेवन करे।",
+     "problem": "Same agreement error: स्नैहिकी goes with वर्ति.",
+     "fix": "मधुरकों से स्नैहिकी वर्ति बनाकर धूम का सेवन करे।",
+     "severity": "error",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मधुरकों से वर्ति बनाकर स्नैहिकी धूम का सेवन करे।",
+      "new": "मधुरकों से स्नैहिकी वर्ति बनाकर धूम का सेवन करे।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "dhūmam is masculine while snaihikīm is feminine ...",
+     "problem": "The note's 'used loosely' explanation is unnecessary once snaihikīm is taken with vartim.",
+     "fix": "Correction (review): snaihikīm agrees with vartim ('the unctuous wick'), as prāyogikīm does in 25a; the remark that it goes loosely with dhūmam is withdrawn.",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "append_note",
+      "text": "Correction (review): snaihikīm agrees with vartim ('the unctuous wick'), as prāyogikīm does in 25a; the remark that it goes loosely with dhūmam is withdrawn."
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "At most, the wise man should be one who drinks at two times, at the times of the day.",
+     "problem": "Awkward and repetitive; dvikālapāyī ... ahnaḥ kāleṣu = drinks (smoke) at two of the times in a day.",
+     "fix": "At most, the wise man should drink (smoke) at two of the times in a day.",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "replace",
+      "field": "english",
+      "old": "At most, the wise man should be one who drinks at two times, at the times of the day.",
+      "new": "At most, the wise man should drink (smoke) at two of the times in a day."
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "38 units reviewed: 31 ok, 7 fix. Errors: 4 (unit 18 split: printed malināṃ silently normalised to malinānām without a flag, 2 patch steps; unit 26 english+hindi: snaihikīm agrees with vartim, not dhūmam). Minor: 7 (6 english/hindi atimātram construal; 9 bracket in Hindi; 10 kṛśam gloss vs English; 12 Hindi पय for rain-water; 26 note correction; 36 English wording). Text flags in P2 (vikṛti-tila), 12 (ṣaṣṭikān), 23 (śukabarha) look right. Unit 11 GROUPING note on the missing first half-verse is honestly hedged; reviewer recalls the same half (kūrcikāṃś ca kilāṭāṃś ca śaukaraṃ gavyamāhiṣe) but cannot verify without a second source. No regrouping suggested: the half-verse offset from 18b on is the edition's numbering and is documented. Low confidence on 33 and 36 is appropriate. AI review, not read by a person."
+}
