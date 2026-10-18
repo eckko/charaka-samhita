@@ -1,0 +1,98 @@
+[
+ {
+  "n": "5",
+  "field": "word.gram",
+  "word": "cikitsā-artham",
+  "old": "ind. (tat-puruṣa)",
+  "new": "n. acc. sg. (adverbial), tat-puruṣa",
+  "why": "reviewer (minor): Labelled 'ind.'; artham here is n. acc. sg. used adverbially at the end of a tat-puruṣa, not an indeclinable."
+ },
+ {
+  "n": "6",
+  "field": "notes",
+  "old": "śirorujā: rujā as a feminine noun \"pain\"; many printed texts read śiroruk ca here, same sense. liṅgam is singular in the text, rendered \"signs\" for the list. mūtrakṛcchra is usually equated with dysuria (standard). vaṃkṣaṇa printed with anusvāra, restored as vaṅkṣaṇa.",
+  "new": "śirorujā: rujā as a feminine noun \"pain\". liṅgam is singular in the text, rendered \"signs\" for the list. mūtrakṛcchra is usually equated with dysuria (standard). vaṃkṣaṇa printed with anusvāra, restored as vaṅkṣaṇa.",
+  "why": "reviewer (error): Invented variant: no witness is cited and the draft has no access to other editions; the brief forbids variants not in the input."
+ },
+ {
+  "n": "9",
+  "field": "notes",
+  "old": "varti literally \"wick\"; here the rectal suppository. pramāthin: a drug or food that drastically clears matter accumulated in the channels (Caraka defines it elsewhere); not glossed further in this verse. hitam is singular, agreeing with the nearest item.",
+  "new": "varti literally \"wick\"; here the rectal suppository. pramāthin: a drug or food that drastically clears matter accumulated in the channels; not glossed further in this verse. hitam is singular, agreeing with the nearest item.",
+  "why": "reviewer (minor): Unsupported cross-reference; the well-known definition of pramāthin is not given in this verse and the location is not stated. Keep only what the line supports."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "छर्दि के वेग को रोकने से कण्डू, कोठ, अरुचि, व्यंग, शोथ, पाण्डुरोग, ज्वर, कुष्ठ, हृल्लास और विसर्प रोग होते हैं।",
+  "new": "छर्दि के वेग को रोकने से कण्डू, कोठ, अरुचि, व्यंग, शोथ, पाण्डुरोग, ज्वर, कुष्ठ, हृल्लास और वीसर्प रोग होते हैं।",
+  "why": "reviewer (minor): Printed text has vīsarpa (long ī); Hindi should keep the printed Sanskrit term."
+ },
+ {
+  "n": "23",
+  "field": "english",
+  "old": "Yawning, body-ache, drowsiness (tandrā), disease of the head and heaviness of the eyes arise from suppression of sleep; there, sleep and gentle massages (saṃvāhana).",
+  "new": "Yawning, body-ache, drowsiness (tandrā), disease of the head and heaviness of the eyes arise from suppression of sleep; there, sleep and massages (saṃvāhana).",
+  "why": "reviewer (minor): 'gentle' is an addition not in the text (gloss is just 'massages')."
+ },
+ {
+  "n": "23",
+  "field": "word.gram",
+  "word": "jṛmbhā-aṅga-mardaḥ",
+  "old": "m. nom. sg. dvandva",
+  "new": "m. nom. sg. (list compound; dvandva sense, singular as printed)",
+  "why": "reviewer (minor): A dvandva of two items would be dual (or n. sg. samāhāra); m. nom. sg. as printed should be marked as a loose list form, not a regular dvandva."
+ },
+ {
+  "n": "23",
+  "field": "word.w",
+  "word": "śiro-rogaḥ",
+  "old": "śiro-rogaḥ",
+  "new": "śiras-rogaḥ",
+  "why": "reviewer (minor): Inconsistent with the chunk's own convention (śiras-rujā in 7.6, śiraḥ-śūlam in 7.8/7.16): the stem should be shown undone."
+ },
+ {
+  "n": "26",
+  "field": "word.gram",
+  "word": "hita-arthī",
+  "old": "m. nom. sg. upapada tat-puruṣa",
+  "new": "m. nom. sg. ṣaṣṭhī tat-puruṣa (arthin)",
+  "why": "reviewer (minor): arthin is a taddhita (artha + in), not a kṛt final; 'upapada tat-puruṣa' is the wrong compound label."
+ },
+ {
+  "n": "27",
+  "field": "word.gram",
+  "word": "nairlajjya-īrṣyā-atirāgāṇām",
+  "old": "dvandva, gen. pl.",
+  "new": "dvandva, m. gen. pl.",
+  "why": "reviewer (minor): Gender missing; the dvandva takes the gender of its last member atirāga."
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "जो शारीरिक चेष्टा स्थिरता के लिए और बल बढ़ाने वाली होती है, वह व्यायाम कहलाती है; उसे मात्रा के अनुसार करना चाहिए।",
+  "new": "जो शारीरिक चेष्टा स्थिरता के लिए और बल बढ़ाने वाली होती है, वह शारीरिक व्यायाम कहलाती है; उसे मात्रा के अनुसार करना चाहिए।",
+  "why": "reviewer (minor): Drops deha- of dehavyāyāma (the English keeps 'bodily exercise')."
+ },
+ {
+  "n": "31",
+  "field": "notes",
+  "old": "yā ceṣṭā may also be split yā ca iṣṭā (\"which is also desired / agreeable\"); some commentators read it that way. The repeated ceṣṭā is not rendered twice.",
+  "new": "yā ceṣṭā may also be split yā ca iṣṭā (\"which is also desired / agreeable\"). The repeated ceṣṭā is not rendered twice.",
+  "why": "reviewer (minor): Attribution to commentators is unverified here; the alternative split yā ca iṣṭā is valid sandhi and can stand on its own."
+ },
+ {
+  "n": "33",
+  "field": "notes",
+  "old": "raktapitta: bleeding disorder, haemorrhage from body orifices (standard). pratāmaka: a variety of dyspnoea (tamaka-śvāsa with fainting); often printed pratamaka; the long ā here fits the even-line cadence, so no flag. jāyate is singular in the text.",
+  "new": "raktapitta: bleeding disorder, haemorrhage from body orifices (standard). pratāmaka: a variety of dyspnoea (tamaka-śvāsa with fainting); the long ā here fits the even-line cadence, so no flag. jāyate is singular in the text.",
+  "why": "reviewer (minor): Claim about other printings is not supported by the input; the metrical argument alone justifies no flag."
+ },
+ {
+  "n": "33.1",
+  "field": "notes",
+  "old": "The edition prints these two lines in round brackets with their own dandas and no verse number, marking them as an addition found in some manuscripts. hṛdayādyuparodha: a feeling of pressure in the heart region and other parts; commentators read the verse as the signs of exercise done to the proper limit.",
+  "new": "The edition prints these two lines in round brackets with their own dandas and no verse number, probably marking them as an addition (the edition does not state the reason). hṛdayādyuparodha: a feeling of pressure in the heart region and other parts; commentators read the verse as the signs of exercise done to the proper limit.",
+  "why": "reviewer (minor): The edition does not say why it brackets the lines; the reason is inferred. Say so."
+ }
+]

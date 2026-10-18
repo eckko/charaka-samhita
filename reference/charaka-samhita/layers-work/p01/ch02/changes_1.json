@@ -1,0 +1,75 @@
+[
+ {
+  "n": "7",
+  "field": "word.gram",
+  "word": "jīmūtam",
+  "old": "n. acc. sg.",
+  "new": "m. acc. sg.",
+  "why": "reviewer (minor): jīmūta is masculine in the dictionaries (as nimba is labelled here). The -am form is m. acc. sg."
+ },
+ {
+  "n": "11",
+  "field": "notes",
+  "old": "Accusative list running to 13a, the object of yuñjyāt in 13b. With bṛhatī and śvadaṃṣṭrā of 12a these make up the group later called daśamūla (ten roots); the text here does not name the group. Identifications: pāṭalā = Stereospermum suaveolens, Hindi पाढ़ल (standard); agnimantha = Premna serratifolia (P. integrifolia), Hindi अरणी (standard); bilva = Aegle marmelos, Hindi बेल (standard); śyonāka = Oroxylum indicum, Hindi सोनापाठा (standard); kāśmarya = Gmelina arborea, Hindi गम्भारी (standard); śālaparṇī = Desmodium gangeticum, Hindi सरिवन (standard); pṛśniparṇī = Uraria picta, Hindi पिठवन (standard); nidigdhikā = kaṇṭakārī, Solanum virginianum, Hindi कटेरी (standard).",
+  "new": "Accusative list running to 13a, the object of yuñjyāt in 13b. With bṛhatī and śvadaṃṣṭrā of 12a these make up the group of ten roots that 27 calls daśamūlī; the text here does not name the group. Identifications: pāṭalā = Stereospermum suaveolens, Hindi पाढ़ल (standard); agnimantha = Premna serratifolia (P. integrifolia), Hindi अरणी (standard); bilva = Aegle marmelos, Hindi बेल (standard); śyonāka = Oroxylum indicum, Hindi सोनापाठा (standard); kāśmarya = Gmelina arborea, Hindi गम्भारी (standard); śālaparṇī = Desmodium gangeticum, Hindi सरिवन (standard); pṛśniparṇī = Uraria picta, Hindi पिठवन (standard); nidigdhikā = kaṇṭakārī, Solanum virginianum, Hindi कटेरी (standard).",
+  "why": "reviewer (minor): 'later called' suggests a later tradition, but this very chapter names the group daśamūlī in 27."
+ },
+ {
+  "n": "20",
+  "field": "word.w",
+  "word": "śālaparṇī-balā-bilvaiḥ",
+  "old": "śālaparṇī-balā-bilvaiḥ",
+  "new": "śālaparṇī-balā-vilvaiḥ",
+  "why": "reviewer (minor): The printed text has vilvaiḥ. The w silently changes it to b-, while the note says it is not flagged. Either keep the printed spelling in w or add a text_flag; keeping the spelling fits the note."
+ },
+ {
+  "n": "21",
+  "field": "notes",
+  "old": "cchāge: the cch is regular sandhi after the vowel of ardhodake; the word is chāge. ardhodaka: milk mixed with half its quantity of water (commentators); the text says only \"half water\". Identifications: hrīvera = disputed (Pavonia odorata or Plectranthus vettiveroides, Hindi सुगंधबाला, proposed); utpala = blue water-lily, a Nymphaea species, Hindi नीलकमल (standard).",
+  "new": "cchāge: the cch is the optional doubling of ch after a long vowel (the e of ardhodake); the word is chāge. ardhodaka: milk mixed with half its quantity of water (commentators); the text says only \"half water\". Identifications: hrīvera = disputed (Pavonia odorata or Plectranthus vettiveroides, Hindi सुगंधबाला, proposed); utpala = blue water-lily, a Nymphaea species, Hindi नीलकमल (standard).",
+  "why": "reviewer (minor): After a long vowel such as e, doubling ch to cch is optional, not required (it is required only after a short vowel)."
+ },
+ {
+  "n": "29",
+  "field": "word.gloss",
+  "word": "abhayā-pippalī-mūla-viśvaiḥ",
+  "old": "with abhayā, pippalīmūla and viśvā",
+  "new": "with abhayā, pippalīmūla and viśva",
+  "why": "reviewer (error): The stem is viśva (n., dry ginger, = viśvabheṣaja), not viśvā: a feminine ā-stem would give -viśvābhiḥ, while the printed -viśvaiḥ needs an a-stem. viśvā (f.) is a different drug (usually ativiṣā). Same error in English, Hindi and notes."
+ },
+ {
+  "n": "29",
+  "field": "english",
+  "old": "With alkali (kṣāra), citraka, hiṅgu and amlavetasa it is considered breaking (bhedin); with abhayā, pippalīmūla and viśvā, it moves Vāta downward (vātānulomana).",
+  "new": "With alkali (kṣāra), citraka, hiṅgu and amlavetasa it is considered breaking (bhedin); with abhayā, pippalīmūla and viśva, it moves Vāta downward (vātānulomana).",
+  "why": "reviewer (error): viśvā should be viśva (see gloss)."
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "क्षार, चित्रक, हिङ्गु और अम्लवेतस से यह भेदिनी मानी गई है; अभया, पिप्पलीमूल और विश्वा से वातानुलोमनी।",
+  "new": "क्षार, चित्रक, हिङ्गु और अम्लवेतस से यह भेदिनी मानी गई है; अभया, पिप्पलीमूल और विश्व से वातानुलोमनी।",
+  "why": "reviewer (error): विश्वा should be विश्व (stem viśva, n.)."
+ },
+ {
+  "n": "29",
+  "field": "notes",
+  "old": "Two gruels. bhedin: breaking up hard faeces, purgative. Identifications: hiṅgu = asafoetida, Ferula assa-foetida, Hindi हींग (standard); amlavetasa = disputed (Garcinia pedunculata and Rheum species proposed); abhayā = harītakī, Terminalia chebula, Hindi हरड़ (standard); viśvā = dry ginger, Hindi सोंठ (standard).",
+  "new": "Two gruels. bhedin: breaking up hard faeces, purgative. Identifications: hiṅgu = asafoetida, Ferula assa-foetida, Hindi हींग (standard); amlavetasa = disputed (Garcinia pedunculata and Rheum species proposed); abhayā = harītakī, Terminalia chebula, Hindi हरड़ (standard); viśva (n.) = dry ginger, Hindi सोंठ (standard).",
+  "why": "reviewer (error): Dry ginger is viśva (n.); viśvā (f.) names another drug."
+ },
+ {
+  "n": "34",
+  "field": "notes",
+  "old": "'tatra ślokaḥ' is the lead-in to the closing summary, kept as line a as the edition groups it; the summary runs to 36. The count is correct: units 18 to 33 give 28 gruels (18: one; 19 to 33: two each, 19 counting the gruel of 19a and the peyā of 19b).",
+  "new": "'tatra ślokaḥ' is the lead-in to the closing summary, kept as line a as the edition groups it; the summary runs to 36. The count is correct: units 18 to 33 give 28 gruels (18, 20, 21 and 23: one each; 19, 22 and 24 to 33: two each, 19 counting the gruel of 19a and the peyā of 19b).",
+  "why": "reviewer (error): Wrong count breakdown: 20, 21 and 23 each give only one gruel. One for 18 plus two each for 19 to 33 would be 31, not 28. The correct tally is 4 x 1 + 12 x 2 = 28."
+ },
+ {
+  "n": "P1",
+  "field": "english",
+  "old": "Thus, in the Ślokasthāna of the treatise composed by Agniveśa and redacted by Caraka, the second chapter, named Apāmārgataṇḍulīya.",
+  "new": "Thus, in the Śloka section (Ślokasthāna) of the treatise composed by Agniveśa and redacted by Caraka, the second chapter, named Apāmārgataṇḍulīya.",
+  "why": "reviewer (minor): The glossary has sthāna = section, and the gloss here says 'in the Śloka section', but the English leaves it untranslated."
+ }
+]

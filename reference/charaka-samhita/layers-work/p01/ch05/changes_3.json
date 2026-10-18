@@ -1,0 +1,53 @@
+[
+ {
+  "n": "78",
+  "field": "word.gram",
+  "word": "hanvoḥ",
+  "old": "m. gen. du.",
+  "new": "f./m. gen. du.",
+  "why": "reviewer (minor): hanu is chiefly feminine (also m.); 'm.' alone is too narrow"
+ },
+ {
+  "n": "80",
+  "field": "hindi",
+  "old": "तैल-गण्डूष-धारण से दाँतों में शूल नहीं होता, न अम्ल से वे हर्षित होते हैं, और वे अत्यन्त कठोर भक्ष्यों को भी चबा लेते हैं।",
+  "new": "तैल-गण्डूष-धारण से दाँतों में शूल नहीं होता, न अम्ल से उनमें सिहरन होती है, और वे अत्यन्त कठोर भक्ष्यों को भी चबा लेते हैं।",
+  "why": "reviewer (error): हर्षित in modern Hindi means 'delighted'; it gives the opposite impression of dantaharṣa (teeth set on edge, tingling sensitivity)"
+ },
+ {
+  "n": "80",
+  "field": "notes",
+  "old": "Subject 'teeth' is carried over from 79b. hṛṣyante: 'dantaharṣa', the teeth being set on edge (hypersensitivity); Hindi uses हर्षित in this technical sense. 'parān' taken adverbially-adjectivally as 'extremely (hard)'; alternatively 'other (hard) foods'.",
+  "new": "Subject 'teeth' is carried over from 79b. hṛṣyante: 'dantaharṣa', the teeth being set on edge (hypersensitivity); Hindi renders it as सिहरन (tingling). 'parān' taken adverbially-adjectivally as 'extremely (hard)'; alternatively 'other (hard) foods'.",
+  "why": "reviewer (minor): note defends the misleading Hindi word"
+ },
+ {
+  "n": "87",
+  "field": "word.gram",
+  "word": "śīlayet",
+  "old": "3 sg. opt. caus. √śīl",
+  "new": "3 sg. opt. √śīl (cl. 10)",
+  "why": "reviewer (minor): śīlayati is a class-10 verb, not a causative"
+ },
+ {
+  "n": "94",
+  "field": "english",
+  "old": "Bathing is purifying, aphrodisiac (vṛṣya), promotes life, removes fatigue, sweat and dirt, restores bodily strength, and is supremely productive of ojas.",
+  "new": "Bathing is purifying, aphrodisiac (vṛṣya), promotes life, removes fatigue, sweat and dirt, restores bodily strength, and is supremely productive of ojas (vital essence).",
+  "why": "reviewer (minor): first use of ojas in the chunk has no gloss (brief: technical term glossed on first use)"
+ },
+ {
+  "n": "96",
+  "field": "english",
+  "old": "The use of perfumes and garlands is aphrodisiac, fragrance, promotes life, is pleasing, gives nourishment and strength, is cheerfulness, and destroys misfortune (alakṣmī).",
+  "new": "The use of perfumes and garlands is aphrodisiac, yields fragrance, promotes life, is pleasing, gives nourishment and strength, yields cheerfulness, and destroys misfortune (alakṣmī).",
+  "why": "reviewer (minor): abstract-noun predicates rendered as bare nouns make ungrammatical English; the sense (yields fragrance/cheerfulness) is already stated in notes"
+ },
+ {
+  "n": "103",
+  "field": "hindi",
+  "old": "जैसे नगरी नगर के प्रति और रथी रथ के प्रति, वैसे ही बुद्धिमान् को अपने शरीर के कृत्यों में सावधान रहना चाहिए।",
+  "new": "जैसे नगर का स्वामी नगर के प्रति और रथी रथ के प्रति, वैसे ही बुद्धिमान् को अपने शरीर के कृत्यों में सावधान रहना चाहिए।",
+  "why": "reviewer (error): Sanskrit nagarī (nom. of nagarin, m.) = lord of the city; Hindi नगरी means 'city' (f.), so the Hindi says 'as a city toward the city'"
+ }
+]

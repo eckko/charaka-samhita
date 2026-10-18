@@ -19,3 +19,14 @@ Draft status: AI drafts, not read by a person.
 - mūlinī = root-drug (मूलिनी); phalinī = fruit-drug (फलिनी); sneha = fat/unctuous (स्नेह); kuṣṭha, udara, gulma kept as Sanskrit; śvāsa = dyspnoea; kāsa = cough; anuvāsana = unctuous enema; nirūha = decoction enema; śirovirecana = head-evacuation
 - Hindi keeps the Sanskrit term (e.g. क्षीर) instead of an explanation "अर्थात् …"; plant identifications in notes only, not in gloss/translation
 - samīraṇa = Vāta (samīraṇa); kopayati (causative of kup) = aggravate (कुपित करना)
+- vega = urge (वेग); nigraha/dhāraṇa/vidhāraṇa = suppression (रोकना); sveda = sweating (स्वेद); abhyaṅga = oil massage (अभ्यङ्ग); avagāhana = immersion bath; varti = suppository (वर्ति); dhūma = medicated smoking (धूम); nāvana = nasal therapy; laṅghana = lightening; saṃvāhana = massage
+- śūla = pain (शूल); aṅgamarda = body-ache (अङ्गमर्द); aruci = loss of taste (अरुचि); bhrama = giddiness (भ्रम); śrama = fatigue (श्रम); klama = exhaustion (क्लम); chardi = vomiting (छर्दि); hṛdroga = heart disease (हृद्रोग)
+- vātaghna = Vāta-destroying; vātānulomana = moving Vāta downward; agni = digestive fire (agni, अग्नि); vyāyāma = exercise (व्यायाम); grāmyadharma = sexual intercourse (grāmyadharma)
+- disease names stay Sanskrit: pāṇḍu, ardita, ardhāvabhedaka, raktapitta, pratāmaka, vīsarpa, mūtrakṛcchra, kuṣṭha, gulma
+- sauhitya = satiety (सौहित्य); ūrdhvajatru = above the collar-bones (ऊर्ध्वजत्रु); dhūmanetra = smoking-pipe; abhyaṅga=massage; gaṇḍūṣa = held in mouth, kavala = moved in mouth; alakṣmī = misfortune
+- hṛṣyante/dantaharṣa = teeth set on edge, Hindi सिहरन (never हर्षित); vṛṣya = aphrodisiac; āyuṣya = promoting life; ojas = ojas (vital essence), glossed at first use
+- nagarin = city-lord (नगर का स्वामी, not नगरी); rathin = chariot-owner (रथी); gṛdhrasī = gṛdhrasī (identifications in notes only); niṣevaṇa = use; pādatra = footwear; dantapavana = tooth-stick
+- bhavati cātra = "And here there is:"; tatra ślokāḥ = "Here, the verses:"; vāyu/māruta in Hindi = वायु/मारुत
+- yavāgū = gruel (यवागू); peyā = thin gruel (पेया); takra = buttermilk (तक्र); niryūha = soup/decoction; māṃsarasa = meat-juice; pañcakarma = the five procedures (पञ्चकर्म); atisāra = diarrhoea; viṣamajvara = irregular fever; āmāśaya, pakvāśaya kept as Sanskrit
+- dīpana = stimulating digestion; pācana = digesting; grāhin/sāṃgrāhika = binding; bṛṃhaṇa = nourishing; karśana = reducing; virūkṣaṇa = drying; bhedin = breaking (purgative); vyāpad = ill effect
+- nāgara/viśva (n.) = dry ginger (Sanskrit name kept); Ślokasthāna = Śloka section (Ślokasthāna); śleṣman in Hindi = श्लेष्मा
