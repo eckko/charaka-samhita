@@ -1,0 +1,5572 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athāta",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now",
+        "gram": "ind."
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ātreyabhadrakāpyīyamadhyāyaṃ",
+      "words": [
+       {
+        "w": "ātreyabhadrakāpyīyam",
+        "gloss": "on Ātreya and Bhadrakāpya (Ātreyabhadrakāpyīya)",
+        "gram": "m. acc. sg., chapter name"
+       },
+       {
+        "w": "adhyāyam",
+        "gloss": "chapter",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyāsyāmaḥ",
+      "words": [
+       {
+        "w": "vyākhyāsyāmaḥ",
+        "gloss": "we shall expound",
+        "gram": "1 pl. fut. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब इसके बाद हम आत्रेयभद्रकाप्यीय अध्याय की व्याख्या करेंगे।",
+  "english": "Now, therefore, we shall expound the chapter on Ātreya and Bhadrakāpya (Ātreyabhadrakāpyīya).",
+  "text_flags": [],
+  "notes": "Prose opening formula (typed as 'verse'). The chapter name Ātreyabhadrakāpyīya is a derived title word and is not split; it takes up the names ātreyaḥ and bhadrakāpyaḥ of unit 3.",
+  "confidence": "high"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ha",
+      "words": [
+       {
+        "w": "ha",
+        "gloss": "indeed (particle)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "smāha",
+      "words": [
+       {
+        "w": "sma",
+        "gloss": "(past particle)",
+        "gram": "ind."
+       },
+       {
+        "w": "āha",
+        "gloss": "said",
+        "gram": "3 sg. pf. √ah"
+       }
+      ]
+     },
+     {
+      "src": "bhagavānātreyaḥ",
+      "words": [
+       {
+        "w": "bhagavān",
+        "gloss": "the venerable",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ātreyaḥ",
+        "gloss": "Ātreya (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ऐसा भगवान् आत्रेय ने कहा।",
+  "english": "Thus said the venerable Ātreya.",
+  "text_flags": [],
+  "notes": "Prose formula (typed as 'verse').",
+  "confidence": "high"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ātreyo",
+      "words": [
+       {
+        "w": "ātreyaḥ",
+        "gloss": "Ātreya (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhadrakāpyaśca",
+      "words": [
+       {
+        "w": "bhadrakāpyaḥ",
+        "gloss": "Bhadrakāpya (name)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śākunteyastathaiva",
+      "words": [
+       {
+        "w": "śākunteyaḥ",
+        "gloss": "Śākunteya (name)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "just (emphatic)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pūrṇākṣaścaiva",
+      "words": [
+       {
+        "w": "pūrṇākṣaḥ",
+        "gloss": "Pūrṇākṣa (name)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "just (emphatic)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "maudgalyo",
+      "words": [
+       {
+        "w": "maudgalyaḥ",
+        "gloss": "Maudgalya (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hiraṇyākṣaśca",
+      "words": [
+       {
+        "w": "hiraṇyākṣaḥ",
+        "gloss": "Hiraṇyākṣa (name)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kauśikaḥ",
+      "words": [
+       {
+        "w": "kauśikaḥ",
+        "gloss": "Kauśika (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आत्रेय, भद्रकाप्य, और उसी प्रकार शाकुन्तेय, और पूर्णाक्ष मौद्गल्य, और हिरण्याक्ष कौशिक,",
+  "english": "Ātreya, Bhadrakāpya, and likewise Śākunteya, and Pūrṇākṣa Maudgalya, and Hiraṇyākṣa Kauśika,",
+  "text_flags": [],
+  "notes": "SENTENCE (no regrouping needed): units 3 to 6 are one sentence; the names in units 3 to 5 are the subject of samīyuḥ in unit 6. Maudgalya and Kauśika are taken as second names of Pūrṇākṣa and Hiraṇyākṣa (as the pairs recur in units P2 and P3).",
+  "confidence": "high"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kumāraśirā",
+      "words": [
+       {
+        "w": "kumāraśirāḥ",
+        "gloss": "Kumāraśiras (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāma",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "by name",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bharadvājaḥ",
+      "words": [
+       {
+        "w": "bharadvājaḥ",
+        "gloss": "Bharadvāja (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "cānaghaḥ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anaghaḥ",
+        "gloss": "sinless",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śrīmān",
+      "words": [
+       {
+        "w": "śrīmān",
+        "gloss": "illustrious",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāryovidaścaiva",
+      "words": [
+       {
+        "w": "vāryovidaḥ",
+        "gloss": "Vāryovida (name)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "just (emphatic)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rājā",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "matimatāṃ",
+      "words": [
+       {
+        "w": "matimatām",
+        "gloss": "of the intelligent",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "varaḥ",
+      "words": [
+       {
+        "w": "varaḥ",
+        "gloss": "the best",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और वह निष्पाप भरद्वाज जो कुमारशिरा नाम वाला है, और श्रीमान् राजा वार्योविद, जो बुद्धिमानों में श्रेष्ठ है,",
+  "english": "and the sinless Bharadvāja who is named Kumāraśiras, and the illustrious king Vāryovida, the best of the intelligent,",
+  "text_flags": [],
+  "notes": "SENTENCE: continues units 3 to 6.",
+  "confidence": "high"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nimiśca",
+      "words": [
+       {
+        "w": "nimiḥ",
+        "gloss": "Nimi (name)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rājā",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaideho",
+      "words": [
+       {
+        "w": "vaidehaḥ",
+        "gloss": "of Videha",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "baḍiśaśca",
+      "words": [
+       {
+        "w": "baḍiśaḥ",
+        "gloss": "Baḍiśa (name)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mahāmatiḥ",
+      "words": [
+       {
+        "w": "mahā-matiḥ",
+        "gloss": "of great intellect",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kāṅkāyanaśca",
+      "words": [
+       {
+        "w": "kāṅkāyanaḥ",
+        "gloss": "Kāṅkāyana (name)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bāhlīko",
+      "words": [
+       {
+        "w": "bāhlīkaḥ",
+        "gloss": "of Bāhlīka",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bāhlīkabhiṣajāṃ",
+      "words": [
+       {
+        "w": "bāhlīka-bhiṣajām",
+        "gloss": "of the physicians of Bāhlīka",
+        "gram": "m. gen. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "varaḥ",
+      "words": [
+       {
+        "w": "varaḥ",
+        "gloss": "the best",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और विदेह के राजा निमि, और महामति बडिश, और बाह्लीक कांकायन, जो बाह्लीक के वैद्यों में श्रेष्ठ है,",
+  "english": "and Nimi, the king of Videha, and Baḍiśa of great intellect, and Kāṅkāyana of Bāhlīka, the best of the physicians of Bāhlīka,",
+  "text_flags": [],
+  "notes": "SENTENCE: continues units 3 to 6. Bāhlīka is taken as the name of a land, as the line itself pairs bāhlīka with 'its physicians'.",
+  "confidence": "high"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ete",
+      "words": [
+       {
+        "w": "ete",
+        "gloss": "these",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śrutavayovṛddhā",
+      "words": [
+       {
+        "w": "śruta-vayas-vṛddhāḥ",
+        "gloss": "advanced in learning and age",
+        "gram": "m. nom. pl., tat-puruṣa with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "jitātmāno",
+      "words": [
+       {
+        "w": "jita-ātmānaḥ",
+        "gloss": "self-controlled",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "maharṣayaḥ",
+      "words": [
+       {
+        "w": "mahā-ṛṣayaḥ",
+        "gloss": "great sages",
+        "gram": "m. nom. pl., karmadhāraya"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vane",
+      "words": [
+       {
+        "w": "vane",
+        "gloss": "in the forest",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "caitrarathe",
+      "words": [
+       {
+        "w": "caitrarathe",
+        "gloss": "Caitraratha (name of the forest)",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ramye",
+      "words": [
+       {
+        "w": "ramye",
+        "gloss": "delightful",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "samīyurvijihīrṣavaḥ",
+      "words": [
+       {
+        "w": "samīyuḥ",
+        "gloss": "came together",
+        "gram": "3 pl. pf. sam-√i"
+       },
+       {
+        "w": "vijihīrṣavaḥ",
+        "gloss": "wishing to stroll about",
+        "gram": "m. nom. pl., desid. adj. vi-√hṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विद्या और आयु में बढ़े हुए, जितात्मा ये महर्षि रमणीय चैत्ररथ वन में विहार करने की इच्छा से एकत्र हुए।",
+  "english": "these great sages, advanced in learning and age and self-controlled, came together in the delightful Caitraratha forest, wishing to stroll about.",
+  "text_flags": [],
+  "notes": "SENTENCE: ends the sentence of units 3 to 6.",
+  "confidence": "high"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "teṣāṃ",
+      "words": [
+       {
+        "w": "teṣām",
+        "gloss": "among them",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "tatropaviṣṭānāmiyamarthavatī",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       },
+       {
+        "w": "upaviṣṭānām",
+        "gloss": "seated",
+        "gram": "m. gen. pl., ppp. upa-√viś"
+       },
+       {
+        "w": "iyam",
+        "gloss": "this",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "arthavatī",
+        "gloss": "meaningful",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kathā",
+      "words": [
+       {
+        "w": "kathā",
+        "gloss": "discussion",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "babhūvārthavidāṃ",
+      "words": [
+       {
+        "w": "babhūva",
+        "gloss": "arose",
+        "gram": "3 sg. pf. √bhū"
+       },
+       {
+        "w": "artha-vidām",
+        "gloss": "knowers of meaning",
+        "gram": "m. gen. pl., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "samyagrasāhāraviniścaye",
+      "words": [
+       {
+        "w": "samyak",
+        "gloss": "properly",
+        "gram": "ind."
+       },
+       {
+        "w": "rasa-āhāra-viniścaye",
+        "gloss": "on the determination of taste and food",
+        "gram": "m. loc. sg., tat-puruṣa with dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वहाँ बैठे हुए उन अर्थ के ज्ञाताओं में रस और आहार के सम्यक् निर्णय के विषय में यह सार्थक चर्चा हुई।",
+  "english": "Among them, the knowers of meaning, seated there, this meaningful discussion arose on the proper determination of taste and food.",
+  "text_flags": [],
+  "notes": "samyak may also go with babhūva ('the discussion arose properly'); it is taken with viniścaye.",
+  "confidence": "high"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "eka",
+      "words": [
+       {
+        "w": "ekaḥ",
+        "gloss": "one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "alone (restrictive)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rasa",
+      "words": [
+       {
+        "w": "rasaḥ",
+        "gloss": "taste",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ityuvāca",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(end of quotation)",
+        "gram": "ind."
+       },
+       {
+        "w": "uvāca",
+        "gloss": "said",
+        "gram": "3 sg. pf. √vac"
+       }
+      ]
+     },
+     {
+      "src": "bhadrakāpyaḥ",
+      "words": [
+       {
+        "w": "bhadrakāpyaḥ",
+        "gloss": "Bhadrakāpya (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaṃ",
+      "words": [
+       {
+        "w": "yam",
+        "gloss": "which",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pañcānāmindriyārthānāmanyatamaṃ",
+      "words": [
+       {
+        "w": "pañcānām",
+        "gloss": "of the five",
+        "gram": "gen. pl."
+       },
+       {
+        "w": "indriya-arthānām",
+        "gloss": "sense-objects",
+        "gram": "m. gen. pl., tat-puruṣa"
+       },
+       {
+        "w": "anyatamam",
+        "gloss": "one",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jihvāvaiṣayikaṃ",
+      "words": [
+       {
+        "w": "jihvā-vaiṣayikam",
+        "gloss": "the domain of the tongue",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhāvamācakṣate",
+      "words": [
+       {
+        "w": "bhāvam",
+        "gloss": "entity",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ācakṣate",
+        "gloss": "call",
+        "gram": "3 pl. pres. ā-√cakṣ"
+       }
+      ]
+     },
+     {
+      "src": "kuśalāḥ",
+      "words": [
+       {
+        "w": "kuśalāḥ",
+        "gloss": "the skilled",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "punarudakādananya",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again",
+        "gram": "ind."
+       },
+       {
+        "w": "udakāt",
+        "gloss": "from water",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "ananyaḥ",
+        "gloss": "not other",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(end of quotation)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "\"रस एक ही है,\" भद्रकाप्य ने कहा, \"जिसे कुशल जन पाँच इन्द्रियार्थों में से एक, जिह्वा का विषय होने वाला भाव कहते हैं; और वह फिर जल से भिन्न नहीं है।\"",
+  "english": "\"Taste is one alone,\" said Bhadrakāpya, \"the entity which the skilled call one of the five sense-objects, the domain of the tongue; and that, again, is not other than water.\"",
+  "text_flags": [],
+  "notes": "Prose (typed as 'verse'). eva in an exclusive claim is rendered 'alone'. jihvāvaiṣayika: vaiṣayika is a derivative of viṣaya ('pertaining to the domain').",
+  "confidence": "high"
+ },
+ {
+  "n": "P1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dvau",
+      "words": [
+       {
+        "w": "dvau",
+        "gloss": "two",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "rasāviti",
+      "words": [
+       {
+        "w": "rasau",
+        "gloss": "tastes",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "iti",
+        "gloss": "(end of quotation)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śākunteyo",
+      "words": [
+       {
+        "w": "śākunteyaḥ",
+        "gloss": "Śākunteya (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "brāhmaṇaḥ",
+      "words": [
+       {
+        "w": "brāhmaṇaḥ",
+        "gloss": "the brāhmaṇa",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "chedanīya",
+      "words": [
+       {
+        "w": "chedanīyaḥ",
+        "gloss": "the cutting (taste)",
+        "gram": "m. nom. sg., kṛtya form √chid, active sense"
+       }
+      ]
+     },
+     {
+      "src": "upaśamanīyaśceti",
+      "words": [
+       {
+        "w": "upaśamanīyaḥ",
+        "gloss": "the pacifying (taste)",
+        "gram": "m. nom. sg., kṛtya form upa-√śam, active sense"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "(end of quotation)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "\"रस दो हैं,\" शाकुन्तेय ब्राह्मण (ने कहा), \"छेदनीय और उपशमनीय।\"",
+  "english": "\"There are two tastes,\" (said) the brāhmaṇa Śākunteya, \"the cutting (chedanīya) and the pacifying (upaśamanīya).\"",
+  "text_flags": [],
+  "notes": "The verb 'said' is understood from uvāca of unit 8. chedanīya and upaśamanīya have the form of gerundives (kṛtya) but are used in an active sense ('that cuts', 'that pacifies'); 'cutting' is the literal rendering of chedana (depletion).",
+  "confidence": "high"
+ },
+ {
+  "n": "P2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "trayo",
+      "words": [
+       {
+        "w": "trayaḥ",
+        "gloss": "three",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "rasā",
+      "words": [
+       {
+        "w": "rasāḥ",
+        "gloss": "tastes",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(end of quotation)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pūrṇākṣo",
+      "words": [
+       {
+        "w": "pūrṇākṣaḥ",
+        "gloss": "Pūrṇākṣa (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "maudgalyaḥ",
+      "words": [
+       {
+        "w": "maudgalyaḥ",
+        "gloss": "Maudgalya (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "chedanīyopaśamanīyasādhāraṇā",
+      "words": [
+       {
+        "w": "chedanīya-upaśamanīya-sādhāraṇāḥ",
+        "gloss": "cutting, pacifying and common",
+        "gram": "m. nom. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(end of quotation)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "\"रस तीन हैं,\" पूर्णाक्ष मौद्गल्य (ने कहा), \"छेदनीय, उपशमनीय और साधारण।\"",
+  "english": "\"There are three tastes,\" (said) Pūrṇākṣa Maudgalya, \"the cutting, the pacifying and the common (sādhāraṇa).\"",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "P3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "catvāro",
+      "words": [
+       {
+        "w": "catvāraḥ",
+        "gloss": "four",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "rasā",
+      "words": [
+       {
+        "w": "rasāḥ",
+        "gloss": "tastes",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(end of quotation)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hiraṇyākṣaḥ",
+      "words": [
+       {
+        "w": "hiraṇyākṣaḥ",
+        "gloss": "Hiraṇyākṣa (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kauśikaḥ",
+      "words": [
+       {
+        "w": "kauśikaḥ",
+        "gloss": "Kauśika (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "svādurhitaśca",
+      "words": [
+       {
+        "w": "svāduḥ",
+        "gloss": "palatable",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "hitaḥ",
+        "gloss": "wholesome",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svādurahitaścāsvādurhitaścāsvādurahitaśceti",
+      "words": [
+       {
+        "w": "svāduḥ",
+        "gloss": "palatable",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ahitaḥ",
+        "gloss": "unwholesome",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asvāduḥ",
+        "gloss": "unpalatable",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "hitaḥ",
+        "gloss": "wholesome",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asvāduḥ",
+        "gloss": "unpalatable",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ahitaḥ",
+        "gloss": "unwholesome",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "(end of quotation)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "\"रस चार हैं,\" हिरण्याक्ष कौशिक (ने कहा), \"स्वादु और हितकर, स्वादु और अहितकर, अस्वादु और हितकर, तथा अस्वादु और अहितकर।\"",
+  "english": "\"There are four tastes,\" (said) Hiraṇyākṣa Kauśika, \"the palatable and wholesome, the palatable and unwholesome, the unpalatable and wholesome, and the unpalatable and unwholesome.\"",
+  "text_flags": [],
+  "notes": "svādu here is 'palatable' (paired with asvādu), not the taste name 'sweet'.",
+  "confidence": "high"
+ },
+ {
+  "n": "P4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pañca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "rasā",
+      "words": [
+       {
+        "w": "rasāḥ",
+        "gloss": "tastes",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(end of quotation)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kumāraśirā",
+      "words": [
+       {
+        "w": "kumāraśirāḥ",
+        "gloss": "Kumāraśiras (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bharadvājaḥ",
+      "words": [
+       {
+        "w": "bharadvājaḥ",
+        "gloss": "Bharadvāja (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhaumaudakāgneyavāyavyāntarikṣāḥ",
+      "words": [
+       {
+        "w": "bhauma-audaka-āgneya-vāyavya-āntarikṣāḥ",
+        "gloss": "earthy, watery, fiery, airy, of the sky",
+        "gram": "m. nom. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "|ṣaḍrasā",
+      "words": [
+       {
+        "w": "ṣaṭ",
+        "gloss": "six",
+        "gram": "nom. pl."
+       },
+       {
+        "w": "rasāḥ",
+        "gloss": "tastes",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(end of quotation)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vāryovido",
+      "words": [
+       {
+        "w": "vāryovidaḥ",
+        "gloss": "Vāryovida (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājarṣiḥ",
+      "words": [
+       {
+        "w": "rāja-ṛṣiḥ",
+        "gloss": "royal sage",
+        "gram": "m. nom. sg., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "gurulaghuśītoṣṇasnigdharūkṣāḥ",
+      "words": [
+       {
+        "w": "guru-laghu-śīta-uṣṇa-snigdha-rūkṣāḥ",
+        "gloss": "heavy, light, cold, hot, unctuous, dry",
+        "gram": "m. nom. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "\"रस पाँच हैं,\" कुमारशिरा भरद्वाज (ने कहा), \"भौम, औदक, आग्नेय, वायव्य और आन्तरिक्ष।\" \"रस छह हैं,\" राजर्षि वार्योविद (ने कहा), \"गुरु, लघु, शीत, उष्ण, स्निग्ध और रूक्ष।\"",
+  "english": "\"There are five tastes,\" (said) Kumāraśiras Bharadvāja, \"the earthy, the watery, the fiery, the airy and the ethereal (of the sky).\" \"There are six tastes,\" (said) the royal sage Vāryovida, \"the heavy, the light, the cold, the hot, the unctuous and the dry.\"",
+  "text_flags": [],
+  "notes": "This prose unit holds two statements (five tastes, six tastes) separated by a printed '|' attached to ṣaḍrasā; the '|' is left out of the split. ṣaḍ rasāḥ is two words (numeral and noun), parallel to pañca rasāḥ. vāyavya is 'of air' (the element), āntarikṣa 'of the sky/atmosphere'.",
+  "confidence": "high"
+ },
+ {
+  "n": "P5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sapta",
+      "words": [
+       {
+        "w": "sapta",
+        "gloss": "seven",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "rasā",
+      "words": [
+       {
+        "w": "rasāḥ",
+        "gloss": "tastes",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(end of quotation)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nimirvaidehaḥ",
+      "words": [
+       {
+        "w": "nimiḥ",
+        "gloss": "Nimi (name)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "vaidehaḥ",
+        "gloss": "of Videha",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhurāmlalavaṇakaṭutiktakaṣāyakṣārāḥ",
+      "words": [
+       {
+        "w": "madhura-amla-lavaṇa-kaṭu-tikta-kaṣāya-kṣārāḥ",
+        "gloss": "sweet, sour, salty, pungent, bitter, astringent, alkali",
+        "gram": "m. nom. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "\"रस सात हैं,\" विदेह के निमि (ने कहा), \"मधुर, अम्ल, लवण, कटु, तिक्त, कषाय और क्षार।\"",
+  "english": "\"There are seven tastes,\" (said) Nimi of Videha, \"sweet, sour, salty, pungent, bitter, astringent and alkali (kṣāra).\"",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "P6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aṣṭau",
+      "words": [
+       {
+        "w": "aṣṭau",
+        "gloss": "eight",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "rasā",
+      "words": [
+       {
+        "w": "rasāḥ",
+        "gloss": "tastes",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(end of quotation)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "baḍiśo",
+      "words": [
+       {
+        "w": "baḍiśaḥ",
+        "gloss": "Baḍiśa (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhāmārgavaḥ",
+      "words": [
+       {
+        "w": "dhāmārgavaḥ",
+        "gloss": "Dhāmārgava (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhurāmlalavaṇakaṭutiktakaṣāyakṣārāvyaktāḥ",
+      "words": [
+       {
+        "w": "madhura-amla-lavaṇa-kaṭu-tikta-kaṣāya-kṣāra-avyaktāḥ",
+        "gloss": "sweet ... alkali, unmanifest",
+        "gram": "m. nom. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "\"रस आठ हैं,\" बडिश धामार्गव (ने कहा), \"मधुर, अम्ल, लवण, कटु, तिक्त, कषाय, क्षार और अव्यक्त।\"",
+  "english": "\"There are eight tastes,\" (said) Baḍiśa Dhāmārgava, \"sweet, sour, salty, pungent, bitter, astringent, alkali and the unmanifest (avyakta).\"",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "P7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aparisaṃkhyeyā",
+      "words": [
+       {
+        "w": "aparisaṃkhyeyāḥ",
+        "gloss": "countless",
+        "gram": "m. nom. pl., negated gerundive (kṛtya) a-pari-sam-√khyā"
+       }
+      ]
+     },
+     {
+      "src": "rasā",
+      "words": [
+       {
+        "w": "rasāḥ",
+        "gloss": "tastes",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(end of quotation)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kāṅkāyano",
+      "words": [
+       {
+        "w": "kāṅkāyanaḥ",
+        "gloss": "Kāṅkāyana (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bāhlīkabhiṣak",
+      "words": [
+       {
+        "w": "bāhlīka-bhiṣak",
+        "gloss": "physician of Bāhlīka",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "āśrayaguṇakarmasaṃsvādaviśeṣāṇāmaparisaṃkhyeyatvāt",
+      "words": [
+       {
+        "w": "āśraya-guṇa-karma-saṃsvāda-viśeṣāṇām",
+        "gloss": "of the particulars of substrata, qualities, actions and savour",
+        "gram": "m. gen. pl., tat-puruṣa with dvandva"
+       },
+       {
+        "w": "aparisaṃkhyeyatvāt",
+        "gloss": "because of countlessness",
+        "gram": "n. abl. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "\"रस असंख्येय हैं,\" बाह्लीक के वैद्य कांकायन (ने कहा), \"क्योंकि आश्रय, गुण, कर्म और संस्वाद के विशेष असंख्येय हैं।\"",
+  "english": "\"The tastes are countless,\" (said) Kāṅkāyana, the physician of Bāhlīka, \"because the particulars of the substrata (āśraya), qualities, actions and savour (saṃsvāda) are countless.\"",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ṣaḍeva",
+      "words": [
+       {
+        "w": "ṣaṭ",
+        "gloss": "six",
+        "gram": "nom. pl."
+       },
+       {
+        "w": "eva",
+        "gloss": "alone (restrictive)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rasā",
+      "words": [
+       {
+        "w": "rasāḥ",
+        "gloss": "tastes",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ityuvāca",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(end of quotation)",
+        "gram": "ind."
+       },
+       {
+        "w": "uvāca",
+        "gloss": "said",
+        "gram": "3 sg. pf. √vac"
+       }
+      ]
+     },
+     {
+      "src": "bhagavānātreyaḥ",
+      "words": [
+       {
+        "w": "bhagavān",
+        "gloss": "the venerable",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ātreyaḥ",
+        "gloss": "Ātreya (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "punarvasuḥ",
+      "words": [
+       {
+        "w": "punarvasuḥ",
+        "gloss": "Punarvasu (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhurāmlalavaṇakaṭutiktakaṣāyāḥ",
+      "words": [
+       {
+        "w": "madhura-amla-lavaṇa-kaṭu-tikta-kaṣāyāḥ",
+        "gloss": "sweet, sour, salty, pungent, bitter, astringent",
+        "gram": "m. nom. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "\"रस छह ही हैं,\" भगवान् पुनर्वसु आत्रेय ने कहा, \"मधुर, अम्ल, लवण, कटु, तिक्त और कषाय।\"",
+  "english": "\"The tastes are six alone,\" said the venerable Punarvasu Ātreya, \"sweet, sour, salty, pungent, bitter and astringent.\"",
+  "text_flags": [],
+  "notes": "Prose (typed as 'verse'). eva in an exclusive claim is rendered 'alone'.",
+  "confidence": "high"
+ },
+ {
+  "n": "P8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "teṣāṃ",
+      "words": [
+       {
+        "w": "teṣām",
+        "gloss": "of these",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ṣaṇṇāṃ",
+      "words": [
+       {
+        "w": "ṣaṇṇām",
+        "gloss": "six",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "rasānāṃ",
+      "words": [
+       {
+        "w": "rasānām",
+        "gloss": "of tastes",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "yonirudakaṃ",
+      "words": [
+       {
+        "w": "yoniḥ",
+        "gloss": "source",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "udakam",
+        "gloss": "water",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "chedanopaśamane",
+      "words": [
+       {
+        "w": "chedana-upaśamane",
+        "gloss": "cutting and pacifying",
+        "gram": "n. nom. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "dve",
+      "words": [
+       {
+        "w": "dve",
+        "gloss": "two",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "karmaṇī",
+      "words": [
+       {
+        "w": "karmaṇī",
+        "gloss": "actions",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "tayormiśrībhāvāt",
+      "words": [
+       {
+        "w": "tayoḥ",
+        "gloss": "of these two",
+        "gram": "n. gen. du."
+       },
+       {
+        "w": "miśrī-bhāvāt",
+        "gloss": "from mixing",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "sādhāraṇatvaṃ",
+      "words": [
+       {
+        "w": "sādhāraṇatvam",
+        "gloss": "commonness",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "svādvasvādutā",
+      "words": [
+       {
+        "w": "svādu-asvādutā",
+        "gloss": "palatability and unpalatability",
+        "gram": "f. nom. sg., abstract in -tā from a dvandva"
+       }
+      ]
+     },
+     {
+      "src": "bhaktiḥ",
+      "words": [
+       {
+        "w": "bhaktiḥ",
+        "gloss": "liking",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hitāhitau",
+      "words": [
+       {
+        "w": "hita-ahitau",
+        "gloss": "wholesome and unwholesome",
+        "gram": "m. nom. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "prabhāvau",
+      "words": [
+       {
+        "w": "prabhāvau",
+        "gloss": "effects (prabhāva)",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "pañcamahābhūtavikārāstvāśrayāḥ",
+      "words": [
+       {
+        "w": "pañca-mahā-bhūta-vikārāḥ",
+        "gloss": "modifications of the five great elements",
+        "gram": "m. nom. pl., tat-puruṣa"
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "āśrayāḥ",
+        "gloss": "substrata",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "prakṛtivikṛtivicāradeśakālavaśāḥ",
+      "words": [
+       {
+        "w": "prakṛti-vikṛti-vicāra-deśa-kāla-vaśāḥ",
+        "gloss": "dependent on nature, modification, vicāra, place, time",
+        "gram": "m. nom. pl., bahuvrīhi with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "teṣvāśrayeṣu",
+      "words": [
+       {
+        "w": "teṣu",
+        "gloss": "in these",
+        "gram": "m. loc. pl."
+       },
+       {
+        "w": "āśrayeṣu",
+        "gloss": "substrata",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "dravyasaṃjñakeṣu",
+      "words": [
+       {
+        "w": "dravya-saṃjñakeṣu",
+        "gloss": "called substances",
+        "gram": "m. loc. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "guṇā",
+      "words": [
+       {
+        "w": "guṇāḥ",
+        "gloss": "qualities",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "gurulaghuśītoṣṇasnigdharūkṣādyāḥ",
+      "words": [
+       {
+        "w": "guru-laghu-śīta-uṣṇa-snigdha-rūkṣa-ādyāḥ",
+        "gloss": "heavy, light, cold, hot, unctuous, dry and the rest",
+        "gram": "m. nom. pl., bahuvrīhi with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "kṣaraṇāt",
+      "words": [
+       {
+        "w": "kṣaraṇāt",
+        "gloss": "from wearing away",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣāraḥ",
+      "words": [
+       {
+        "w": "kṣāraḥ",
+        "gloss": "alkali (kṣāra)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāsau",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "asau",
+        "gloss": "it",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rasaḥ",
+      "words": [
+       {
+        "w": "rasaḥ",
+        "gloss": "taste",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dravyaṃ",
+      "words": [
+       {
+        "w": "dravyam",
+        "gloss": "substance",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tadanekarasasamutpannamanekarasaṃ",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "it",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "aneka-rasa-samutpannam",
+        "gloss": "produced from many tastes",
+        "gram": "n. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "aneka-rasam",
+        "gloss": "having many tastes",
+        "gram": "n. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "kaṭukalavaṇabhūyiṣṭhamanekendriyārthasamanvitaṃ",
+      "words": [
+       {
+        "w": "kaṭuka-lavaṇa-bhūyiṣṭham",
+        "gloss": "mostly pungent and salty",
+        "gram": "n. nom. sg., bahuvrīhi"
+       },
+       {
+        "w": "aneka-indriya-artha-samanvitam",
+        "gloss": "accompanied by many sense-objects",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "karaṇābhinirvṛttam;",
+      "words": [
+       {
+        "w": "karaṇa-abhinirvṛttam",
+        "gloss": "produced by a process",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "avyaktībhāvastu",
+      "words": [
+       {
+        "w": "avyaktī-bhāvaḥ",
+        "gloss": "unmanifestness",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "khalu",
+      "words": [
+       {
+        "w": "khalu",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rasānāṃ",
+      "words": [
+       {
+        "w": "rasānām",
+        "gloss": "of tastes",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "prakṛtau",
+      "words": [
+       {
+        "w": "prakṛtau",
+        "gloss": "in the source (prakṛti)",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavatyanurase'nurasasamanvite",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "occurs",
+        "gram": "3 sg. pres. √bhū"
+       },
+       {
+        "w": "anurase",
+        "gloss": "that is a subsidiary taste",
+        "gram": "n. loc. sg."
+       },
+       {
+        "w": "anurasa-samanvite",
+        "gloss": "accompanied by a subsidiary taste",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dravye",
+      "words": [
+       {
+        "w": "dravye",
+        "gloss": "in a substance",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "aparisaṃkhyeyatvaṃ",
+      "words": [
+       {
+        "w": "aparisaṃkhyeyatvam",
+        "gloss": "countlessness",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "punasteṣāmāśrayādīnāṃ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again",
+        "gram": "ind."
+       },
+       {
+        "w": "teṣām",
+        "gloss": "of those",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "āśraya-ādīnām",
+        "gloss": "substrata and the rest",
+        "gram": "m. gen. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "bhāvānāṃ",
+      "words": [
+       {
+        "w": "bhāvānām",
+        "gloss": "of the entities",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "viśeṣāparisaṃkhyeyeatvānna",
+      "words": [
+       {
+        "w": "viśeṣa-aparisaṃkhyeyatvāt",
+        "gloss": "because of countless particulars",
+        "gram": "n. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yuktam",
+      "words": [
+       {
+        "w": "yuktam",
+        "gloss": "proper",
+        "gram": "n. nom. sg., ppp. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "ekaiko'pi",
+      "words": [
+       {
+        "w": "ekaikaḥ",
+        "gloss": "each one",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hyeṣāmāśrayādīnāṃ",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       },
+       {
+        "w": "eṣām",
+        "gloss": "of these",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "āśraya-ādīnām",
+        "gloss": "substrata and the rest",
+        "gram": "m. gen. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "bhāvānāṃ",
+      "words": [
+       {
+        "w": "bhāvānām",
+        "gloss": "of the entities",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "veśeṣānāśrayate",
+      "words": [
+       {
+        "w": "viśeṣān",
+        "gloss": "particulars",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "āśrayate",
+        "gloss": "takes on",
+        "gram": "3 sg. pres. ā-√śri"
+       }
+      ]
+     },
+     {
+      "src": "viśeṣāparisaṃkhyeyatvāt",
+      "words": [
+       {
+        "w": "viśeṣa-aparisaṃkhyeyatvāt",
+        "gloss": "because particulars are countless",
+        "gram": "n. abl. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tasmādanyatvamupapadyate",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "from that",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "anyatvam",
+        "gloss": "otherness",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "upapadyate",
+        "gloss": "follows",
+        "gram": "3 sg. pres. upa-√pad"
+       }
+      ]
+     },
+     {
+      "src": "parasparasaṃsṛṣṭabhūyiṣṭhatvānna",
+      "words": [
+       {
+        "w": "paraspara-saṃsṛṣṭa-bhūyiṣṭhatvāt",
+        "gloss": "because of being mostly combined with one another",
+        "gram": "n. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "caiṣāmabhinirvṛtterguṇaprakṛtīnāmaparisaṃkhyeyatvaṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eṣām",
+        "gloss": "of these",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "abhinirvṛtteḥ",
+        "gloss": "from production",
+        "gram": "f. abl. sg."
+       },
+       {
+        "w": "guṇa-prakṛtīnām",
+        "gloss": "whose nature is qualities",
+        "gram": "m. gen. pl., bahuvrīhi"
+       },
+       {
+        "w": "aparisaṃkhyeyatvam",
+        "gloss": "countlessness",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "arises",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "tasmānna",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind."
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃsṛṣṭānāṃ",
+      "words": [
+       {
+        "w": "saṃsṛṣṭānām",
+        "gloss": "of combined",
+        "gram": "m. gen. pl., ppp. sam-√sṛj"
+       }
+      ]
+     },
+     {
+      "src": "rasānāṃ",
+      "words": [
+       {
+        "w": "rasānām",
+        "gloss": "tastes",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "karmopadiśanti",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "action",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "upadiśanti",
+        "gloss": "teach",
+        "gram": "3 pl. pres. upa-√diś"
+       }
+      ]
+     },
+     {
+      "src": "buddhimantaḥ",
+      "words": [
+       {
+        "w": "buddhimantaḥ",
+        "gloss": "the intelligent",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उन छह रसों की योनि जल है। छेदन और उपशमन, ये दो कर्म हैं; उन दोनों के मिश्रण से साधारणता होती है। स्वादुता और अस्वादुता रुचि है; हित और अहित प्रभाव हैं। आश्रय तो पाँच महाभूतों के विकार हैं, जो प्रकृति, विकृति, विचार, देश और काल के अधीन हैं। द्रव्य नाम वाले उन आश्रयों में गुरु, लघु, शीत, उष्ण, स्निग्ध, रूक्ष आदि गुण होते हैं। क्षरण के कारण क्षार (कहलाता है); वह रस नहीं है; वह द्रव्य है, जो अनेक रसों से उत्पन्न, अनेक रसों वाला, अधिकतर कटु और लवण, अनेक इन्द्रियार्थों से युक्त और करण से निर्मित है। रसों की अव्यक्तता तो प्रकृति में, अथवा अनुरस रूप या अनुरस से युक्त द्रव्य में होती है। फिर, उन आश्रय आदि भावों के विशेषों के असंख्येय होने के कारण (रसों की) असंख्येयता ठीक नहीं है; क्योंकि इन आश्रय आदि भावों में से एक-एक भी विशेषों को ग्रहण करता है, क्योंकि विशेष असंख्येय हैं, और उससे (रस का) अन्यत्व सिद्ध नहीं होता, क्योंकि ये अधिकतर परस्पर संसृष्ट रहते हैं; और उत्पत्ति के कारण इन गुणप्रकृति वालों की असंख्येयता नहीं होती। इसलिए बुद्धिमान् संसृष्ट रसों का कर्म नहीं बताते।",
+  "english": "Of these six tastes the source is water. Cutting and pacifying are the two actions; from the mixing of the two comes commonness (sādhāraṇatva). Palatability and unpalatability are (a matter of) liking (bhakti); wholesome and unwholesome are the effects (prabhāva). The substrata (āśraya), however, are modifications of the five great elements, dependent on nature, modification, vicāra, place and time. In these substrata, called substances (dravya), are the qualities (guṇa) heavy, light, cold, hot, unctuous, dry and the rest. Alkali (kṣāra) is so called from wearing away (kṣaraṇa); it is not a taste: it is a substance, produced from many tastes, having many tastes, mostly pungent and salty, accompanied by many sense-objects, produced by a process (karaṇa). Unmanifestness of the tastes, however, occurs in their source (prakṛti), or in a substance that is a subsidiary taste (anurasa) or is accompanied by a subsidiary taste. Again, countlessness (of the tastes) because the particulars of those entities, the substrata and the rest, are countless is not proper: for each one of these entities, the substrata and the rest, takes on particulars, since particulars are countless, and otherness (of taste) does not follow from that, because they are for the most part combined with one another; nor does countlessness arise, from their production, for these (tastes) whose nature is qualities. Therefore the intelligent do not teach the action of combined tastes.",
+  "text_flags": [
+   {
+    "src": "viśeṣāparisaṃkhyeyeatvānna",
+    "suggest": "viśeṣāparisaṃkhyeyatvānna",
+    "why": "'aparisaṃkhyeyeatva' is not a form (stray e before atva); the same compound is printed correctly as viśeṣāparisaṃkhyeyatvāt later in this unit"
+   },
+   {
+    "src": "veśeṣānāśrayate",
+    "suggest": "viśeṣānāśrayate",
+    "why": "'veśeṣa' is not a word; viśeṣa (particular) is the word used throughout this unit (viśeṣāparisaṃkhyeyatvāt in the same sentence)"
+   }
+  ],
+  "notes": "The unit answers the views of units 8 and P1 to P7 point by point (water, cutting/pacifying, commonness, palatability, wholesomeness, the five elements, the qualities, kṣāra, avyakta, countlessness). vicāra in prakṛtivikṛtivicāra- is kept in Sanskrit: its sense here (consideration, combination or processing) is not certain from the chunk. prakṛti 'source' may refer to the source water named at the start of the unit or to the original state; anurase may mean 'in (a substance where the taste is only) subsidiary'. The attachment of parasparasaṃsṛṣṭabhūyiṣṭhatvāt is ambiguous: it is taken as the reason for 'otherness does not follow'; it can also be read as the reason for the following clause. guṇaprakṛtīnām is taken as a bahuvrīhi 'whose nature is qualities' agreeing with eṣām (the tastes); a reading 'of the qualities and natures' is possible, so this clause is uncertain. karaṇa 'process' = preparation by a procedure; the ';' attached to karaṇābhinirvṛttam is left out of the split.",
+  "confidence": "medium"
+ },
+ {
+  "n": "P9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "taccaiva",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "very",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kāraṇamapekṣamāṇāḥ",
+      "words": [
+       {
+        "w": "kāraṇam",
+        "gloss": "reason",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "apekṣamāṇāḥ",
+        "gloss": "considering",
+        "gram": "m. nom. pl., pres. part. mid. apa-√īkṣ"
+       }
+      ]
+     },
+     {
+      "src": "ṣaṣṇāṃ",
+      "words": [
+       {
+        "w": "ṣaṇṇām",
+        "gloss": "of the six",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "rasānāṃ",
+      "words": [
+       {
+        "w": "rasānām",
+        "gloss": "tastes",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "paraspareṇāsaṃsṛṣṭānāṃ",
+      "words": [
+       {
+        "w": "paraspareṇa",
+        "gloss": "with one another",
+        "gram": "ind. (inst.)"
+       },
+       {
+        "w": "asaṃsṛṣṭānām",
+        "gloss": "not combined",
+        "gram": "m. gen. pl., neg. ppp. sam-√sṛj"
+       }
+      ]
+     },
+     {
+      "src": "lakṣaṇapṛthaktvamupadekṣyāmaḥ",
+      "words": [
+       {
+        "w": "lakṣaṇa-pṛthaktvam",
+        "gloss": "the separate characteristics",
+        "gram": "n. acc. sg., tat-puruṣa"
+       },
+       {
+        "w": "upadekṣyāmaḥ",
+        "gloss": "we shall teach",
+        "gram": "1 pl. fut. upa-√diś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और उसी कारण को ध्यान में रखते हुए हम परस्पर असंसृष्ट छह रसों के लक्षणों का पृथक् रूप से उपदेश करेंगे।",
+  "english": "And with that very reason in view, we shall teach the separate characteristics of the six tastes not combined with one another.",
+  "text_flags": [
+   {
+    "src": "ṣaṣṇāṃ",
+    "suggest": "ṣaṇṇāṃ",
+    "why": "'ṣaṣṇām' is not a form; the genitive of ṣaṣ is ṣaṇṇām, printed so in unit P8 (teṣāṃ ṣaṇṇāṃ rasānāṃ)"
+   }
+  ],
+  "notes": "lakṣaṇapṛthaktva, literally 'separateness of characteristics', is rendered 'the separate characteristics'.",
+  "confidence": "high"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "agre",
+      "words": [
+       {
+        "w": "agre",
+        "gloss": "first",
+        "gram": "ind. (loc.)"
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tāvaddravyabhedamabhipretya",
+      "words": [
+       {
+        "w": "tāvat",
+        "gloss": "for now",
+        "gram": "ind."
+       },
+       {
+        "w": "dravya-bhedam",
+        "gloss": "the division of substances",
+        "gram": "m. acc. sg., tat-puruṣa"
+       },
+       {
+        "w": "abhipretya",
+        "gloss": "with regard to",
+        "gram": "abs. abhi-pra-√i"
+       }
+      ]
+     },
+     {
+      "src": "kiṃcidabhidhāsyāmaḥ",
+      "words": [
+       {
+        "w": "kiṃcit",
+        "gloss": "something",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "abhidhāsyāmaḥ",
+        "gloss": "we shall say",
+        "gram": "1 pl. fut. abhi-√dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु पहले तो द्रव्यों के भेद को लक्ष्य करके हम कुछ कहेंगे।",
+  "english": "But first, for now, we shall say something with regard to the division of substances.",
+  "text_flags": [],
+  "notes": "Prose (typed as 'verse').",
+  "confidence": "high"
+ },
+ {
+  "n": "P10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sarvā",
+      "words": [
+       {
+        "w": "sarvam",
+        "gloss": "all",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dravyaṃ",
+      "words": [
+       {
+        "w": "dravyam",
+        "gloss": "substance",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāñcabhautikamasminnarthe",
+      "words": [
+       {
+        "w": "pāñcabhautikam",
+        "gloss": "made of the five elements",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "asmin",
+        "gloss": "in this",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "arthe",
+        "gloss": "context",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "taccetanāvadacenaṃ",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "it",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "cetanāvat",
+        "gloss": "sentient",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "acetanam",
+        "gloss": "insentient",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "its",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "guṇāḥ",
+      "words": [
+       {
+        "w": "guṇāḥ",
+        "gloss": "qualities",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śabdādayo",
+      "words": [
+       {
+        "w": "śabda-ādayaḥ",
+        "gloss": "sound and the rest",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "gurvādayaśca",
+      "words": [
+       {
+        "w": "guru-ādayaḥ",
+        "gloss": "heavy and the rest",
+        "gram": "m. nom. pl., bahuvrīhi"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dravyāntāḥ",
+      "words": [
+       {
+        "w": "drava-antāḥ",
+        "gloss": "ending with fluid",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "karma",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "action",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pañcavidhamuktaṃ",
+      "words": [
+       {
+        "w": "pañca-vidham",
+        "gloss": "fivefold",
+        "gram": "n. nom. sg., bahuvrīhi"
+       },
+       {
+        "w": "uktam",
+        "gloss": "stated",
+        "gram": "n. nom. sg., ppp. √vac"
+       }
+      ]
+     },
+     {
+      "src": "vamanādi",
+      "words": [
+       {
+        "w": "vamana-ādi",
+        "gloss": "emesis and the rest",
+        "gram": "n. nom. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रसंग में सब द्रव्य पाञ्चभौतिक है; वह चेतन और अचेतन है। उसके गुण शब्द आदि और गुरु आदि से लेकर द्रव तक हैं; कर्म पाँच प्रकार का कहा गया है, वमन आदि।",
+  "english": "In this context every substance is made of the five elements (pāñcabhautika); it is sentient and insentient. Its qualities are sound and the rest, and heavy and the rest ending with fluid (drava); action is stated to be fivefold, emesis and the rest.",
+  "text_flags": [
+   {
+    "src": "sarvā",
+    "suggest": "sarvaṃ",
+    "why": "sarvā (f.) does not agree with dravyaṃ (n.); sarvaṃ dravyaṃ gives the agreement the sentence needs"
+   },
+   {
+    "src": "taccetanāvadacenaṃ",
+    "suggest": "taccetanāvadacetanaṃ",
+    "why": "'acenam' is not a word; acetanam (insentient) is the counterpart of cetanāvat in the same phrase (cetanāvad ... ca)"
+   },
+   {
+    "src": "dravyāntāḥ",
+    "suggest": "dravāntāḥ",
+    "why": "possible: qualities 'ending with dravya (substance)' gives no sense, since a substance is not a quality; drava (fluid) is a quality, listed among the qualities in unit 11 (dravasnighda...)"
+   }
+  ],
+  "notes": "pāñcabhautika is a derived word, not split. The dravyāntāḥ flag is only possible: the printed form may also be read as 'qualities that end in (inhere in) substance', which is strained.",
+  "confidence": "medium"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "among them",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dravyāṇi",
+      "words": [
+       {
+        "w": "dravyāṇi",
+        "gloss": "substances",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "gurukharakaṭhinamandasthiraviśadasāndrasthūlagandhaguṇabahulāni",
+      "words": [
+       {
+        "w": "guru-khara-kaṭhina-manda-sthira-viśada-sāndra-sthūla-gandha-guṇa-bahulāni",
+        "gloss": "abounding in the qualities heavy ... smell",
+        "gram": "n. nom. pl., bahuvrīhi with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "pārthivāni",
+      "words": [
+       {
+        "w": "pārthivāni",
+        "gloss": "earthy",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tānyupacayasaṅghātagauravasthairyakarāṇi",
+      "words": [
+       {
+        "w": "tāni",
+        "gloss": "they",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "upacaya-saṅghāta-gaurava-sthairya-karāṇi",
+        "gloss": "producing increase, compactness, heaviness, stability",
+        "gram": "n. nom. pl., upapada tat-puruṣa with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "dravasnighdaśītamandamṛdupicchilarasaguṇabahulānyāpyāni",
+      "words": [
+       {
+        "w": "drava-snigdha-śīta-manda-mṛdu-picchila-rasa-guṇa-bahulāni",
+        "gloss": "abounding in the qualities fluid ... taste",
+        "gram": "n. nom. pl., bahuvrīhi with dvandva"
+       },
+       {
+        "w": "āpyāni",
+        "gloss": "watery",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tānyupakledasgnehabandhaviṣyandamārdaprahlādakarāṇi",
+      "words": [
+       {
+        "w": "tāni",
+        "gloss": "they",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "upakleda-sneha-bandha-viṣyanda-mārdava-prahlāda-karāṇi",
+        "gloss": "producing moistening, unctuousness, binding, liquefaction, softness, refreshment",
+        "gram": "n. nom. pl., upapada tat-puruṣa with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "uṣṇatīkṣṇasūkṣmalaghurūkṣaviśadarūpaguṇabahulānyāgneyāni",
+      "words": [
+       {
+        "w": "uṣṇa-tīkṣṇa-sūkṣma-laghu-rūkṣa-viśada-rūpa-guṇa-bahulāni",
+        "gloss": "abounding in the qualities hot ... form",
+        "gram": "n. nom. pl., bahuvrīhi with dvandva"
+       },
+       {
+        "w": "āgneyāni",
+        "gloss": "fiery",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tāni",
+      "words": [
+       {
+        "w": "tāni",
+        "gloss": "they",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dāhapākaprabhāprakāśavarṇakarāṇi",
+      "words": [
+       {
+        "w": "dāha-pāka-prabhā-prakāśa-varṇa-karāṇi",
+        "gloss": "producing burning, pāka, lustre, light, colour",
+        "gram": "n. nom. pl., upapada tat-puruṣa with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "laghuśītarūkṣakharaviśadasūkṣmasparśaguṇabahulāni",
+      "words": [
+       {
+        "w": "laghu-śīta-rūkṣa-khara-viśada-sūkṣma-sparśa-guṇa-bahulāni",
+        "gloss": "abounding in the qualities light ... touch",
+        "gram": "n. nom. pl., bahuvrīhi with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "vāyavyāni",
+      "words": [
+       {
+        "w": "vāyavyāni",
+        "gloss": "airy",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tāni",
+      "words": [
+       {
+        "w": "tāni",
+        "gloss": "they",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "raukṣyaglānivicāravaiśadyalāghavakarāṇi",
+      "words": [
+       {
+        "w": "raukṣya-glāni-vicāra-vaiśadya-lāghava-karāṇi",
+        "gloss": "producing dryness, weariness, movement, non-sliminess, lightness",
+        "gram": "n. nom. pl., upapada tat-puruṣa with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "mṛdulaghusūkṣmaślakṣṇaśabdaguṇabahulānyākāśātmakāni",
+      "words": [
+       {
+        "w": "mṛdu-laghu-sūkṣma-ślakṣṇa-śabda-guṇa-bahulāni",
+        "gloss": "abounding in the qualities soft ... sound",
+        "gram": "n. nom. pl., bahuvrīhi with dvandva"
+       },
+       {
+        "w": "ākāśa-ātmakāni",
+        "gloss": "of the nature of space",
+        "gram": "n. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "tāni",
+      "words": [
+       {
+        "w": "tāni",
+        "gloss": "they",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mārdavasauṣiryalāghavakarāṇi",
+      "words": [
+       {
+        "w": "mārdava-sauṣirya-lāghava-karāṇi",
+        "gloss": "producing softness, porosity, lightness",
+        "gram": "n. nom. pl., upapada tat-puruṣa with dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनमें जो द्रव्य गुरु, खर, कठिन, मन्द, स्थिर, विशद, सान्द्र, स्थूल और गन्ध गुणों की बहुलता वाले हैं, वे पार्थिव हैं; वे उपचय, संघात, गुरुता और स्थिरता करते हैं। जो द्रव, स्निग्ध, शीत, मन्द, मृदु, पिच्छिल और रस गुणों की बहुलता वाले हैं, वे आप्य हैं; वे उपक्लेद, स्नेह, बन्ध, विष्यन्द, मृदुता और प्रसन्नता करते हैं। जो उष्ण, तीक्ष्ण, सूक्ष्म, लघु, रूक्ष, विशद और रूप गुणों की बहुलता वाले हैं, वे आग्नेय हैं; वे दाह, पाक, प्रभा, प्रकाश और वर्ण करते हैं। जो लघु, शीत, रूक्ष, खर, विशद, सूक्ष्म और स्पर्श गुणों की बहुलता वाले हैं, वे वायव्य हैं; वे रूक्षता, ग्लानि, विचरण, विशदता और लघुता करते हैं। जो मृदु, लघु, सूक्ष्म, श्लक्ष्ण और शब्द गुणों की बहुलता वाले हैं, वे आकाशात्मक हैं; वे मृदुता, सुषिरता और लघुता करते हैं।",
+  "english": "Among them, substances abounding in the qualities heavy, rough, hard, slow, stable, non-slimy, dense, gross and smell are earthy (pārthiva); they produce increase (upacaya), compactness, heaviness and stability. Those abounding in the qualities fluid, unctuous, cold, slow, soft, slimy and taste are watery (āpya); they produce moistening (upakleda), unctuousness, binding, liquefaction (viṣyanda), softness and refreshment. Those abounding in the qualities hot, sharp, subtle, light, dry, non-slimy and form (rūpa) are fiery (āgneya); they produce burning, pāka (cooking, digestion), lustre, light and colour. Those abounding in the qualities light, cold, dry, rough, non-slimy, subtle and touch are airy (vāyavya); they produce dryness, weariness (glāni), movement (vicāra), non-sliminess and lightness. Those abounding in the qualities soft, light, subtle, smooth and sound are of the nature of space (ākāśa); they produce softness, porosity and lightness.",
+  "text_flags": [
+   {
+    "src": "dravasnighdaśītamandamṛdupicchilarasaguṇabahulānyāpyāni",
+    "suggest": "dravasnigdhaśītamandamṛdupicchilarasaguṇabahulānyāpyāni",
+    "why": "'snighda' is a transposition; snigdha (unctuous) is the quality word (printed snigdha in unit P8, gurulaghuśītoṣṇasnigdharūkṣādyāḥ)"
+   },
+   {
+    "src": "tānyupakledasgnehabandhaviṣyandamārdaprahlādakarāṇi",
+    "suggest": "tānyupakledasnehabandhaviṣyandamārdavaprahlādakarāṇi",
+    "why": "'sgneha' is not a word (sneha, unctuousness, the action matching snigdha); 'mārda' is not a word: mārdava (softness), printed mārdava in the last clause of this unit, matches the quality mṛdu of the same list"
+   }
+  ],
+  "notes": "Prose (typed as 'verse'). upakleda is rendered 'moistening' (the action of the watery substances), distinct from kleda. pāka of fiery substances is kept Sanskrit ('cooking, digestion'). vicāra of airy substances is taken as 'movement' (literally 'moving about'). rūpa, sparśa, śabda, gandha, rasa are the sense-qualities form, touch, sound, smell and taste.",
+  "confidence": "high"
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anenopadeśena",
+      "words": [
+       {
+        "w": "anena",
+        "gloss": "by this",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "upadeśena",
+        "gloss": "teaching",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "nānauṣadhibhūtaṃ",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "anauṣadhi-bhūtam",
+        "gloss": "that is not a medicine",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "jagati",
+      "words": [
+       {
+        "w": "jagati",
+        "gloss": "in the world",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kiṃciddravyamupalabhyate",
+      "words": [
+       {
+        "w": "kiṃcit",
+        "gloss": "any",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "dravyam",
+        "gloss": "substance",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "upalabhyate",
+        "gloss": "is found",
+        "gram": "3 sg. pres. pass. upa-√labh"
+       }
+      ]
+     },
+     {
+      "src": "tāṃ",
+      "words": [
+       {
+        "w": "tām",
+        "gloss": "that",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tāṃ",
+      "words": [
+       {
+        "w": "tām",
+        "gloss": "that",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yuktimarthaṃ",
+      "words": [
+       {
+        "w": "yuktim",
+        "gloss": "rational planning (yukti)",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "artham",
+        "gloss": "purpose",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "taṃ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "that",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tamabhipretya",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "that",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "abhipretya",
+        "gloss": "with regard to",
+        "gram": "abs. abhi-pra-√i"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस उपदेश के अनुसार जगत् में कोई द्रव्य ऐसा नहीं मिलता जो औषध न हो, उस-उस युक्ति और उस-उस प्रयोजन को लक्ष्य करके।",
+  "english": "By this teaching, no substance is found in the world that is not a medicine, with regard to this or that rational planning (yukti) and this or that purpose.",
+  "text_flags": [],
+  "notes": "Prose (typed as 'verse'). nānauṣadhibhūtam is split na + anauṣadhibhūtam ('not non-medicine'); the double negation gives 'no substance ... that is not a medicine'. A split nānā-auṣadhibhūtam ('various medicines') does not fit the sentence.",
+  "confidence": "high"
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kevalaṃ",
+      "words": [
+       {
+        "w": "kevalam",
+        "gloss": "only",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "guṇaprabhāvādeva",
+      "words": [
+       {
+        "w": "guṇa-prabhāvāt",
+        "gloss": "through the power (prabhāva) of qualities",
+        "gram": "m. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "eva",
+        "gloss": "alone",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dravyāṇi",
+      "words": [
+       {
+        "w": "dravyāṇi",
+        "gloss": "substances",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kārmukāṇi",
+      "words": [
+       {
+        "w": "kārmukāṇi",
+        "gloss": "effective",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhavanti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "dravyāṇi",
+      "words": [
+       {
+        "w": "dravyāṇi",
+        "gloss": "substances",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dravyaprabhāvādguṇaprabhāvāddravyaguṇaprabhāvācca",
+      "words": [
+       {
+        "w": "dravya-prabhāvāt",
+        "gloss": "through the power of the substance",
+        "gram": "m. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "guṇa-prabhāvāt",
+        "gloss": "through the power of qualities",
+        "gram": "m. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "dravya-guṇa-prabhāvāt",
+        "gloss": "through the power of substance and qualities",
+        "gram": "m. abl. sg., tat-puruṣa with dvandva"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tasmiṃstasmin",
+      "words": [
+       {
+        "w": "tasmin",
+        "gloss": "in that",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "tasmin",
+        "gloss": "in that",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāle",
+      "words": [
+       {
+        "w": "kāle",
+        "gloss": "time",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tattadadhikaraṇamāsādya",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "adhikaraṇam",
+        "gloss": "site",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "āsādya",
+        "gloss": "having reached",
+        "gram": "abs. caus. ā-√sad"
+       }
+      ]
+     },
+     {
+      "src": "ṭaṃ",
+      "words": [
+       {
+        "w": "tām",
+        "gloss": "that",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tāṃ",
+      "words": [
+       {
+        "w": "tām",
+        "gloss": "that",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yuktimarthaṃ",
+      "words": [
+       {
+        "w": "yuktim",
+        "gloss": "rational planning (yukti)",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "artham",
+        "gloss": "purpose",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "taṃ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "that",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tamabhipretya",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "that",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "abhipretya",
+        "gloss": "with regard to",
+        "gram": "abs. abhi-pra-√i"
+       }
+      ]
+     },
+     {
+      "src": "yat",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "what",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kurvanti",
+      "words": [
+       {
+        "w": "kurvanti",
+        "gloss": "they do",
+        "gram": "3 pl. pres. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "tat",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "karma",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "action",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yena",
+      "words": [
+       {
+        "w": "yena",
+        "gloss": "by which",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "kuvanti",
+      "words": [
+       {
+        "w": "kurvanti",
+        "gloss": "they do",
+        "gram": "3 pl. pres. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "tadvīryaṃ",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "vīryam",
+        "gloss": "potency (vīrya)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yatra",
+      "words": [
+       {
+        "w": "yatra",
+        "gloss": "where",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kurvanti",
+      "words": [
+       {
+        "w": "kurvanti",
+        "gloss": "they do",
+        "gram": "3 pl. pres. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "tadadhikaraṇaṃ",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "adhikaraṇam",
+        "gloss": "site",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yadā",
+      "words": [
+       {
+        "w": "yadā",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kurvanti",
+      "words": [
+       {
+        "w": "kurvanti",
+        "gloss": "they do",
+        "gram": "3 pl. pres. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kālaḥ",
+      "words": [
+       {
+        "w": "kālaḥ",
+        "gloss": "time",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "how",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kurvanti",
+      "words": [
+       {
+        "w": "kurvanti",
+        "gloss": "they do",
+        "gram": "3 pl. pres. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "upāyaḥ",
+      "words": [
+       {
+        "w": "upāyaḥ",
+        "gloss": "means",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yat",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "what",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sādhayanti",
+      "words": [
+       {
+        "w": "sādhayanti",
+        "gloss": "they accomplish",
+        "gram": "3 pl. pres. caus. √sādh"
+       }
+      ]
+     },
+     {
+      "src": "tat",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "phalam",
+      "words": [
+       {
+        "w": "phalam",
+        "gloss": "result",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु द्रव्य केवल गुणों के प्रभाव से ही कार्यकारी नहीं होते; क्योंकि द्रव्य, द्रव्य के प्रभाव से, गुणों के प्रभाव से और द्रव्य तथा गुणों के प्रभाव से, उस-उस काल में, उस-उस अधिकरण को पाकर, उस-उस युक्ति और उस-उस प्रयोजन को लक्ष्य करके जो करते हैं, वह कर्म है; जिससे करते हैं, वह वीर्य है; जहाँ करते हैं, वह अधिकरण है; जब करते हैं, वह काल है; जैसे करते हैं, वह उपाय है; जो सिद्ध करते हैं, वह फल है।",
+  "english": "But substances are not effective only through the power (prabhāva) of their qualities alone; for what substances do, through the power of the substance, through the power of the qualities, and through the power of substance and qualities, at this or that time, having reached this or that site, with regard to this or that rational planning (yukti) and this or that purpose, that is action (karma); that by which they do it is potency (vīrya); where they do it is the site (adhikaraṇa); when they do it is the time (kāla); how they do it is the means (upāya); what they accomplish is the result (phala).",
+  "text_flags": [
+   {
+    "src": "ṭaṃ",
+    "suggest": "tāṃ",
+    "why": "'ṭam' is not a word; the phrase tāṃ tāṃ yuktim is printed in unit 12 (tāṃ tāṃ yuktimarthaṃ ca taṃ tam), and the feminine tām agrees with yuktim"
+   },
+   {
+    "src": "kuvanti",
+    "suggest": "kurvanti",
+    "why": "'kuvanti' is not a form; kurvanti is printed five times in this unit in the same yat/yena/yatra... series"
+   }
+  ],
+  "notes": "Prose (typed as 'verse'). kevalam and eva are both rendered ('only ... alone'); together they make one restrictive claim. āsādya: absolutive of ā-√sad (causative form 'having reached').",
+  "confidence": "high"
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhedaścaiṣāṃ",
+      "words": [
+       {
+        "w": "bhedaḥ",
+        "gloss": "division",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eṣām",
+        "gloss": "of these",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "triṣaṣṭividhavikalpo",
+      "words": [
+       {
+        "w": "triṣaṣṭi-vidha-vikalpaḥ",
+        "gloss": "with sixty-three kinds of gradation",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "dravyadeśakālaprabhāvādbhavati",
+      "words": [
+       {
+        "w": "dravya-deśa-kāla-prabhāvāt",
+        "gloss": "through the power of substance, place and time",
+        "gram": "m. abl. sg., tat-puruṣa with dvandva"
+       },
+       {
+        "w": "bhavati",
+        "gloss": "comes about",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "tamupadekṣyāmaḥ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "it",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "upadekṣyāmaḥ",
+        "gloss": "we shall teach",
+        "gram": "1 pl. fut. upa-√diś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और इन (रसों) का भेद, जिसके तिरसठ प्रकार के विकल्प हैं, द्रव्य, देश और काल के प्रभाव से होता है; उसका हम उपदेश करेंगे।",
+  "english": "And the division of these (tastes), with sixty-three kinds of gradation (vikalpa), comes about through the power of substance, place and time; we shall teach it.",
+  "text_flags": [],
+  "notes": "Prose (typed as 'verse'). eṣām is taken as 'of these (tastes)', the topic of the chapter.",
+  "confidence": "high"
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "svāduramlādibhiryogaṃ",
+      "words": [
+       {
+        "w": "svāduḥ",
+        "gloss": "sweet",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "amla-ādibhiḥ",
+        "gloss": "with sour and the rest",
+        "gram": "m. inst. pl., bahuvrīhi"
+       },
+       {
+        "w": "yogam",
+        "gloss": "combination",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śeṣairamlādayaḥ",
+      "words": [
+       {
+        "w": "śeṣaiḥ",
+        "gloss": "with the remaining",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "amla-ādayaḥ",
+        "gloss": "sour and the rest",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "pṛthak",
+      "words": [
+       {
+        "w": "pṛthak",
+        "gloss": "separately",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yānti",
+      "words": [
+       {
+        "w": "yānti",
+        "gloss": "go into",
+        "gram": "3 pl. pres. √yā"
+       }
+      ]
+     },
+     {
+      "src": "pañcadaśaitāni",
+      "words": [
+       {
+        "w": "pañcadaśa",
+        "gloss": "fifteen",
+        "gram": "nom. pl."
+       },
+       {
+        "w": "etāni",
+        "gloss": "these",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dravyāṇi",
+      "words": [
+       {
+        "w": "dravyāṇi",
+        "gloss": "substances",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dvirasāni",
+      "words": [
+       {
+        "w": "dvi-rasāni",
+        "gloss": "of two tastes",
+        "gram": "n. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मधुर, अम्ल आदि के साथ, और अम्ल आदि शेष (रसों) के साथ पृथक्-पृथक् योग को प्राप्त होते हैं; ये पन्द्रह द्रव्य दो रसों वाले हैं।",
+  "english": "Sweet with sour and the rest, and sour and the rest with the remaining ones, go separately into combination; these are the fifteen substances of two tastes.",
+  "text_flags": [],
+  "notes": "svādu here is the taste 'sweet'. The singular svāduḥ and plural amlādayaḥ share the plural verb yānti. COUNT: 5 + 4 + 3 + 2 + 1 = 15 pairs.",
+  "confidence": "high"
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pṛthagamlādiyuktasya",
+      "words": [
+       {
+        "w": "pṛthak",
+        "gloss": "separately",
+        "gram": "ind."
+       },
+       {
+        "w": "amla-ādi-yuktasya",
+        "gloss": "joined with sour and the rest",
+        "gram": "m. gen. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "yogaḥ",
+      "words": [
+       {
+        "w": "yogaḥ",
+        "gloss": "combination",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śeṣaiḥ",
+      "words": [
+       {
+        "w": "śeṣaiḥ",
+        "gloss": "with the remaining",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "pṛthagbhavet",
+      "words": [
+       {
+        "w": "pṛthak",
+        "gloss": "separately",
+        "gram": "ind."
+       },
+       {
+        "w": "bhavet",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √bhū"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "madhurasya",
+      "words": [
+       {
+        "w": "madhurasya",
+        "gloss": "of sweet",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tathāmlasya",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       },
+       {
+        "w": "amlasya",
+        "gloss": "of sour",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "lavaṇasya",
+      "words": [
+       {
+        "w": "lavaṇasya",
+        "gloss": "of salty",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaṭostathā",
+      "words": [
+       {
+        "w": "kaṭoḥ",
+        "gloss": "of pungent",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मधुर का, अम्ल आदि से पृथक्-पृथक् युक्त होकर, शेष (रसों) के साथ पृथक् योग होता है; उसी प्रकार अम्ल का, लवण का, और उसी प्रकार कटु का।",
+  "english": "Sweet, joined separately with sour and the rest, would combine separately with the remaining ones; likewise sour, salty and likewise pungent.",
+  "text_flags": [],
+  "notes": "SENTENCE (no regrouping needed): units 16 and 17 are one sentence (the twenty three-taste substances). COUNT: 10 + 6 + 3 + 1 = 20, as stated in unit 17.",
+  "confidence": "high"
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "trirasāni",
+      "words": [
+       {
+        "w": "tri-rasāni",
+        "gloss": "of three tastes",
+        "gram": "n. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "yathāsṃkhyaṃ",
+      "words": [
+       {
+        "w": "yathā-saṃkhyam",
+        "gloss": "in due number",
+        "gram": "ind., avyayībhāva"
+       }
+      ]
+     },
+     {
+      "src": "dravyāṇyuktāni",
+      "words": [
+       {
+        "w": "dravyāṇi",
+        "gloss": "substances",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "uktāni",
+        "gloss": "stated",
+        "gram": "n. nom. pl., ppp. √vac"
+       }
+      ]
+     },
+     {
+      "src": "viṃśatiḥ",
+      "words": [
+       {
+        "w": "viṃśatiḥ",
+        "gloss": "twenty",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vakṣyante",
+      "words": [
+       {
+        "w": "vakṣyante",
+        "gloss": "will be told",
+        "gram": "3 pl. fut. pass. √vac"
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "catuṣkeṇa",
+      "words": [
+       {
+        "w": "catuṣkeṇa",
+        "gloss": "by the set of four",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "dravyāṇi",
+      "words": [
+       {
+        "w": "dravyāṇi",
+        "gloss": "substances",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "daśa",
+      "words": [
+       {
+        "w": "daśa",
+        "gloss": "ten",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pañca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तीन रसों वाले द्रव्य संख्या के क्रम से बीस कहे गए हैं; और चार (रसों) के समूह से दस और पाँच द्रव्य कहे जाएँगे।",
+  "english": "substances of three tastes, in due number, are stated as twenty; and ten and five substances will be told by the set of four (tastes).",
+  "text_flags": [
+   {
+    "src": "yathāsṃkhyaṃ",
+    "suggest": "yathāsaṃkhyaṃ",
+    "why": "'sṃ' (anusvāra with no vowel) is not possible; yathāsaṃkhyam (in due number) is the word, and the metre needs the vowel a (8 syllables in the first quarter)"
+   }
+  ],
+  "notes": "vakṣyante is taken as future passive ('will be told'); the form is also the middle future 'they will tell'.",
+  "confidence": "high"
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "svādvamlau",
+      "words": [
+       {
+        "w": "svādu-amlau",
+        "gloss": "sweet and sour",
+        "gram": "m. nom. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "sahitau",
+      "words": [
+       {
+        "w": "sahitau",
+        "gloss": "together",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "yogaṃ",
+      "words": [
+       {
+        "w": "yogam",
+        "gloss": "combination",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "lavaṇādyaiḥ",
+      "words": [
+       {
+        "w": "lavaṇa-ādyaiḥ",
+        "gloss": "with salty and the rest",
+        "gram": "m. inst. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "pṛthaggattau",
+      "words": [
+       {
+        "w": "pṛthak",
+        "gloss": "separately",
+        "gram": "ind."
+       },
+       {
+        "w": "gatau",
+        "gloss": "having gone",
+        "gram": "m. nom. du., ppp. √gam"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yogaṃ",
+      "words": [
+       {
+        "w": "yogam",
+        "gloss": "combination",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śeṣaiḥ",
+      "words": [
+       {
+        "w": "śeṣaiḥ",
+        "gloss": "with the remaining",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "pṛthagyātaścatuṣkarasaṃkhyayā",
+      "words": [
+       {
+        "w": "pṛthak",
+        "gloss": "separately",
+        "gram": "ind."
+       },
+       {
+        "w": "yātaḥ",
+        "gloss": "go into",
+        "gram": "3 du. pres. √yā"
+       },
+       {
+        "w": "catuṣka-rasa-saṃkhyayā",
+        "gloss": "by the count of four-taste sets",
+        "gram": "f. inst. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मधुर और अम्ल साथ मिलकर, लवण आदि के साथ पृथक्-पृथक् योग को प्राप्त होकर, शेष (रसों) के साथ पृथक् योग को प्राप्त होते हैं, चार रसों की संख्या के अनुसार।",
+  "english": "Sweet and sour together, having gone separately into combination with salty and the rest, go separately into combination with the remaining ones, by the count of four tastes.",
+  "text_flags": [
+   {
+    "src": "pṛthaggattau",
+    "suggest": "pṛthaggatau",
+    "why": "'gattau' is not a form; gatau (nom. du. ppp. √gam, agreeing with svādvamlau ... sahitau) fits the grammar"
+   }
+  ],
+  "notes": "COUNT: sweet and sour with two of the remaining four = 6 four-taste substances.",
+  "confidence": "high"
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sahitau",
+      "words": [
+       {
+        "w": "sahitau",
+        "gloss": "together",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "svādulavaṇau",
+      "words": [
+       {
+        "w": "svādu-lavaṇau",
+        "gloss": "sweet and salty",
+        "gram": "m. nom. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "tadvat",
+      "words": [
+       {
+        "w": "tadvat",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaṭvādibhiḥ",
+      "words": [
+       {
+        "w": "kaṭu-ādibhiḥ",
+        "gloss": "with pungent and the rest",
+        "gram": "m. inst. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "pṛthak",
+      "words": [
+       {
+        "w": "pṛthak",
+        "gloss": "separately",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yuktau",
+      "words": [
+       {
+        "w": "yuktau",
+        "gloss": "joined",
+        "gram": "m. nom. du., ppp. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "śeṣaiḥ",
+      "words": [
+       {
+        "w": "śeṣaiḥ",
+        "gloss": "with the remaining",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "pṛthagyogaṃ",
+      "words": [
+       {
+        "w": "pṛthak",
+        "gloss": "separately",
+        "gram": "ind."
+       },
+       {
+        "w": "yogam",
+        "gloss": "combination",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yātaḥ",
+      "words": [
+       {
+        "w": "yātaḥ",
+        "gloss": "go into",
+        "gram": "3 du. pres. √yā"
+       }
+      ]
+     },
+     {
+      "src": "svādūṣaṇau",
+      "words": [
+       {
+        "w": "svādu-ūṣaṇau",
+        "gloss": "sweet and pungent",
+        "gram": "m. nom. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसी प्रकार मधुर और लवण साथ मिलकर, कटु आदि से पृथक्-पृथक् युक्त होकर, शेष (रसों) के साथ पृथक् योग को प्राप्त होते हैं; उसी प्रकार मधुर और कटु।",
+  "english": "Likewise sweet and salty together, joined separately with pungent and the rest, go separately into combination with the remaining ones; so too sweet and pungent (ūṣaṇa).",
+  "text_flags": [],
+  "notes": "ūṣaṇa is a synonym of kaṭu (pungent) here. COUNT: sweet and salty 3, sweet and pungent 1.",
+  "confidence": "high"
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kaṭvādyairamlalavaṇau",
+      "words": [
+       {
+        "w": "kaṭu-ādyaiḥ",
+        "gloss": "with pungent and the rest",
+        "gram": "m. inst. pl., bahuvrīhi"
+       },
+       {
+        "w": "amla-lavaṇau",
+        "gloss": "sour and salty",
+        "gram": "m. nom. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "saṃyuktau",
+      "words": [
+       {
+        "w": "saṃyuktau",
+        "gloss": "joined",
+        "gram": "m. nom. du., ppp. sam-√yuj"
+       }
+      ]
+     },
+     {
+      "src": "sahitau",
+      "words": [
+       {
+        "w": "sahitau",
+        "gloss": "together",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "pṛthak",
+      "words": [
+       {
+        "w": "pṛthak",
+        "gloss": "separately",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yātaḥ",
+      "words": [
+       {
+        "w": "yātaḥ",
+        "gloss": "go into",
+        "gram": "3 du. pres. √yā"
+       }
+      ]
+     },
+     {
+      "src": "śeṣaiḥ",
+      "words": [
+       {
+        "w": "śeṣaiḥ",
+        "gloss": "with the remaining",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "pṛthagyogaṃ",
+      "words": [
+       {
+        "w": "pṛthak",
+        "gloss": "separately",
+        "gram": "ind."
+       },
+       {
+        "w": "yogam",
+        "gloss": "combination",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śeṣairamlakaṭū",
+      "words": [
+       {
+        "w": "śeṣaiḥ",
+        "gloss": "with the remaining",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "amla-kaṭū",
+        "gloss": "sour and pungent",
+        "gram": "m. nom. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अम्ल और लवण साथ मिलकर, कटु आदि से पृथक्-पृथक् युक्त होकर, शेष (रसों) के साथ पृथक् योग को प्राप्त होते हैं; उसी प्रकार अम्ल और कटु शेष (रसों) के साथ।",
+  "english": "Sour and salty together, joined separately with pungent and the rest, go separately into combination with the remaining ones; likewise sour and pungent with the remaining ones.",
+  "text_flags": [],
+  "notes": "COUNT: sour and salty 3, sour and pungent 1.",
+  "confidence": "high"
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yujyate",
+      "words": [
+       {
+        "w": "yujyate",
+        "gloss": "are joined",
+        "gram": "3 sg. pres. pass. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaṣāyeṇa",
+      "words": [
+       {
+        "w": "kaṣāyeṇa",
+        "gloss": "with astringent",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "satiktau",
+      "words": [
+       {
+        "w": "sa-tiktau",
+        "gloss": "together with bitter",
+        "gram": "m. nom. du., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "lavaṇoṣaṇau",
+      "words": [
+       {
+        "w": "lavaṇa-ūṣaṇau",
+        "gloss": "salty and pungent",
+        "gram": "m. nom. du., dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ṣaṭ",
+      "words": [
+       {
+        "w": "ṣaṭ",
+        "gloss": "six",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pañcarasānyāhurekaikasyāpavarjanāt",
+      "words": [
+       {
+        "w": "pañca-rasāni",
+        "gloss": "of five tastes",
+        "gram": "n. acc. pl., bahuvrīhi"
+       },
+       {
+        "w": "āhuḥ",
+        "gloss": "they say",
+        "gram": "3 pl. pf. √ah"
+       },
+       {
+        "w": "ekaikasya",
+        "gloss": "of each one",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "apavarjanāt",
+        "gloss": "by leaving out",
+        "gram": "n. abl. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और तिक्त सहित लवण और कटु कषाय के साथ युक्त होते हैं। और एक-एक को छोड़ देने से पाँच रसों वाले (द्रव्य) छह कहे गए हैं।",
+  "english": "And salty and pungent (ūṣaṇa), together with bitter, are joined with astringent. And they say there are six (substances) of five tastes, by leaving out each one.",
+  "text_flags": [],
+  "notes": "The singular yujyate has the dual subject lavaṇoṣaṇau; the dual would be yujyete, which the metre would also allow. This is noted, not flagged, since the chunk gives no other evidence. COUNT: 6 + 3 + 1 + 3 + 1 + 1 = 15 four-taste substances (units 18 to 21), as stated in unit 17.",
+  "confidence": "high"
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ṣaṭ",
+      "words": [
+       {
+        "w": "ṣaṭ",
+        "gloss": "six",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "caivaikarasāni",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       },
+       {
+        "w": "eka-rasāni",
+        "gloss": "of one taste",
+        "gram": "n. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "syurekaṃ",
+      "words": [
+       {
+        "w": "syuḥ",
+        "gloss": "would be",
+        "gram": "3 pl. opt. √as"
+       },
+       {
+        "w": "ekam",
+        "gloss": "one",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṣaḍrasameva",
+      "words": [
+       {
+        "w": "ṣaṭ-rasam",
+        "gloss": "of six tastes",
+        "gram": "n. nom. sg., bahuvrīhi"
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "triṣaṣṭirdravyāṇāṃ",
+      "words": [
+       {
+        "w": "triṣaṣṭiḥ",
+        "gloss": "sixty-three",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "dravyāṇām",
+        "gloss": "of substances",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "nirdiṣṭā",
+      "words": [
+       {
+        "w": "nirdiṣṭā",
+        "gloss": "indicated",
+        "gram": "f. nom. sg., ppp. nis-√diś"
+       }
+      ]
+     },
+     {
+      "src": "rasasaṃkhyayā",
+      "words": [
+       {
+        "w": "rasa-saṃkhyayā",
+        "gloss": "by the count of tastes",
+        "gram": "f. inst. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और एक रस वाले (द्रव्य) छह होते हैं, और छह रसों वाला एक ही; इस प्रकार रसों की संख्या के अनुसार द्रव्यों के तिरसठ (भेद) बताए गए हैं।",
+  "english": "And there are six of one taste, and just one of six tastes; thus sixty-three (kinds) of substances are indicated by the count of tastes.",
+  "text_flags": [],
+  "notes": "COUNT: 15 + 20 + 15 + 6 + 6 + 1 = 63. The Hindi 'ही' renders eva with ekam.",
+  "confidence": "high"
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "triṣaṣṭiḥ",
+      "words": [
+       {
+        "w": "triṣaṣṭiḥ",
+        "gloss": "sixty-three",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "syāttvasaṃkhyeyā",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √as"
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "asaṃkhyeyā",
+        "gloss": "countless",
+        "gram": "f. nom. sg., negated gerundive (kṛtya) sam-√khyā"
+       }
+      ]
+     },
+     {
+      "src": "rasānurasakalpanāt",
+      "words": [
+       {
+        "w": "rasa-anurasa-kalpanāt",
+        "gloss": "by the reckoning of tastes and subsidiary tastes",
+        "gram": "n. abl. sg., tat-puruṣa with dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "rasāstaratamābhyāṃ",
+      "words": [
+       {
+        "w": "rasāḥ",
+        "gloss": "tastes",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "tara-tamābhyām",
+        "gloss": "by more and most degrees",
+        "gram": "m. inst. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "tāṃ",
+      "words": [
+       {
+        "w": "tām",
+        "gloss": "that",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃkhyāmatipatanti",
+      "words": [
+       {
+        "w": "saṃkhyām",
+        "gloss": "count",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "atipatanti",
+        "gloss": "go beyond",
+        "gram": "3 pl. pres. ati-√pat"
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु रस और अनुरस की कल्पना से तिरसठ (की संख्या) असंख्येय हो जाती है; क्योंकि रस तर और तम (भेदों) के द्वारा उस संख्या को पार कर जाते हैं।",
+  "english": "But the sixty-three would become countless through the reckoning of tastes and subsidiary tastes (anurasa); for the tastes, by degrees of 'more' and 'most' (tara, tama), go beyond that count.",
+  "text_flags": [],
+  "notes": "tara and tama are the comparative and superlative suffixes, used as nouns for degrees of intensity; taratama may also be read as a neuter dvandva.",
+  "confidence": "high"
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "saṃyogāḥ",
+      "words": [
+       {
+        "w": "saṃyogāḥ",
+        "gloss": "combinations",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "saptapañcāśat",
+      "words": [
+       {
+        "w": "saptapañcāśat",
+        "gloss": "fifty-seven",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kalpanā",
+      "words": [
+       {
+        "w": "kalpanā",
+        "gloss": "arrangement",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "triṣaṣṭidhā",
+      "words": [
+       {
+        "w": "triṣaṣṭidhā",
+        "gloss": "sixty-threefold",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "rasānāṃ",
+      "words": [
+       {
+        "w": "rasānām",
+        "gloss": "of tastes",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yogyatvāt",
+      "words": [
+       {
+        "w": "yogyatvāt",
+        "gloss": "because of suitability",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "kalpitā",
+      "words": [
+       {
+        "w": "kalpitā",
+        "gloss": "devised",
+        "gram": "f. nom. sg., ppp. caus. √kḷp"
+       }
+      ]
+     },
+     {
+      "src": "rasacintakaiḥ",
+      "words": [
+       {
+        "w": "rasa-cintakaiḥ",
+        "gloss": "by those who reflect on tastes",
+        "gram": "m. inst. pl., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "संयोग सत्तावन हैं, किन्तु कल्पना तिरसठ प्रकार की है; वहाँ रसों की योग्यता के कारण रस का चिन्तन करने वालों ने (इसे) कल्पित किया है।",
+  "english": "The combinations are fifty-seven, but the arrangement (kalpanā) is sixty-threefold; it has been devised by those who reflect on tastes, because of the suitability of the tastes there.",
+  "text_flags": [],
+  "notes": "fifty-seven = the combinations of two or more tastes (15 + 20 + 15 + 6 + 1); with the 6 single tastes the arrangement is 63 (unit 22). tatra 'there' is taken as 'in that matter' (in the arrangement or its use).",
+  "confidence": "high"
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kvacideko",
+      "words": [
+       {
+        "w": "kvacit",
+        "gloss": "in some cases",
+        "gram": "ind."
+       },
+       {
+        "w": "ekaḥ",
+        "gloss": "one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rasaḥ",
+      "words": [
+       {
+        "w": "rasaḥ",
+        "gloss": "taste",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kalpyaḥ",
+      "words": [
+       {
+        "w": "kalpyaḥ",
+        "gloss": "to be employed",
+        "gram": "m. nom. sg., gerundive (kṛtya) √kḷp"
+       }
+      ]
+     },
+     {
+      "src": "saṃyuktāśca",
+      "words": [
+       {
+        "w": "saṃyuktāḥ",
+        "gloss": "combined",
+        "gram": "m. nom. pl., ppp. sam-√yuj"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rasāḥ",
+      "words": [
+       {
+        "w": "rasāḥ",
+        "gloss": "tastes",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kvacit",
+      "words": [
+       {
+        "w": "kvacit",
+        "gloss": "in some cases",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "doṣaiṣadhādīn",
+      "words": [
+       {
+        "w": "doṣa-auṣadha-ādīn",
+        "gloss": "doṣa, medicine and the rest",
+        "gram": "m. acc. pl., bahuvrīhi with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "saṃcintya",
+      "words": [
+       {
+        "w": "saṃcintya",
+        "gloss": "having considered",
+        "gram": "abs. sam-√cint"
+       }
+      ]
+     },
+     {
+      "src": "bhiṣajā",
+      "words": [
+       {
+        "w": "bhiṣajā",
+        "gloss": "by the physician",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "siddhimicchatā",
+      "words": [
+       {
+        "w": "siddhim",
+        "gloss": "success",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "icchatā",
+        "gloss": "desiring",
+        "gram": "m. inst. sg., pres. part. √iṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सिद्धि चाहने वाले वैद्य को दोष, औषध आदि का विचार करके कहीं एक रस की कल्पना करनी चाहिए और कहीं संयुक्त रसों की।",
+  "english": "A physician who desires success, after considering doṣa, medicine and the rest, is to employ a single taste in some cases and combined tastes in others.",
+  "text_flags": [
+   {
+    "src": "doṣaiṣadhādīn",
+    "suggest": "doṣauṣadhādīn",
+    "why": "'aiṣadha' is not a word; doṣa + auṣadha (medicine) gives doṣauṣadha by sandhi, and the line keeps 16 syllables either way"
+   }
+  ],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dravyāṇi",
+      "words": [
+       {
+        "w": "dravyāṇi",
+        "gloss": "substances",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "dvirasādīni",
+      "words": [
+       {
+        "w": "dvi-rasa-ādīni",
+        "gloss": "of two tastes and the rest",
+        "gram": "n. acc. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "saṃyuktāṃśca",
+      "words": [
+       {
+        "w": "saṃyuktān",
+        "gloss": "combined",
+        "gram": "m. acc. pl., ppp. sam-√yuj"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rasān",
+      "words": [
+       {
+        "w": "rasān",
+        "gloss": "tastes",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "budhāḥ",
+      "words": [
+       {
+        "w": "budhāḥ",
+        "gloss": "the wise",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "rasānekaikaśo",
+      "words": [
+       {
+        "w": "rasān",
+        "gloss": "tastes",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "ekaikaśaḥ",
+        "gloss": "one by one",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vāpi",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kalpayanti",
+      "words": [
+       {
+        "w": "kalpayanti",
+        "gloss": "employ",
+        "gram": "3 pl. pres. caus. √kḷp"
+       }
+      ]
+     },
+     {
+      "src": "gadān",
+      "words": [
+       {
+        "w": "gadān",
+        "gloss": "diseases",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "prati",
+      "words": [
+       {
+        "w": "prati",
+        "gloss": "against",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बुद्धिमान् रोगों के प्रति दो रसों आदि वाले द्रव्यों की, और संयुक्त रसों की, अथवा एक-एक रस की भी कल्पना करते हैं।",
+  "english": "The wise employ, against diseases, substances of two tastes and the rest, and combined tastes, or also tastes one by one.",
+  "text_flags": [],
+  "notes": "vā api is rendered 'or also' (Hindi अथवा ... भी).",
+  "confidence": "high"
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "syādrasavikalpajñaḥ",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √as"
+       },
+       {
+        "w": "rasa-vikalpa-jñaḥ",
+        "gloss": "knower of the gradations of tastes",
+        "gram": "m. nom. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "syācca",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √as"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "doṣavikalpavit",
+      "words": [
+       {
+        "w": "doṣa-vikalpa-vit",
+        "gloss": "knower of the gradations of doṣas",
+        "gram": "m. nom. sg., upapada tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "muhyedvikārāṇāṃ",
+      "words": [
+       {
+        "w": "muhyet",
+        "gloss": "would be confused",
+        "gram": "3 sg. opt. √muh"
+       },
+       {
+        "w": "vikārāṇām",
+        "gloss": "of disorders",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "hetuliṅgopaśāntiṣu",
+      "words": [
+       {
+        "w": "hetu-liṅga-upaśāntiṣu",
+        "gloss": "about cause, sign and alleviation",
+        "gram": "f. loc. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो रसों के विकल्पों का ज्ञाता हो और दोषों के विकल्पों का ज्ञाता हो, वह विकारों के हेतु, लिङ्ग और उपशान्ति के विषय में मोहित नहीं होगा।",
+  "english": "He who knows the gradations (vikalpa) of tastes and knows the gradations of the doṣas would not be confused about the causes, signs and alleviation of disorders.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vyaktaḥ",
+      "words": [
+       {
+        "w": "vyaktaḥ",
+        "gloss": "manifest",
+        "gram": "m. nom. sg., ppp. vi-√añj"
+       }
+      ]
+     },
+     {
+      "src": "śuṣkasya",
+      "words": [
+       {
+        "w": "śuṣkasya",
+        "gloss": "of the dry",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "cādau",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ādau",
+        "gloss": "at the beginning",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "raso",
+      "words": [
+       {
+        "w": "rasaḥ",
+        "gloss": "taste",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dravyasya",
+      "words": [
+       {
+        "w": "dravyasya",
+        "gloss": "of the substance",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "lakṣyate",
+      "words": [
+       {
+        "w": "lakṣyate",
+        "gloss": "is perceived",
+        "gram": "3 sg. pres. pass. √lakṣ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "viparyayeṇānuraso",
+      "words": [
+       {
+        "w": "viparyayeṇa",
+        "gloss": "by the opposite",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "anurasaḥ",
+        "gloss": "subsidiary taste",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rso",
+      "words": [
+       {
+        "w": "rasaḥ",
+        "gloss": "taste",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāsti",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "asti",
+        "gloss": "is",
+        "gram": "3 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saptamaḥ",
+      "words": [
+       {
+        "w": "saptamaḥ",
+        "gloss": "seventh",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "द्रव्य का जो रस सूखी अवस्था में और आरम्भ में व्यक्त होता है, वह रस के रूप में लक्षित होता है; इसके विपरीत अनुरस है; क्योंकि सातवाँ रस नहीं है।",
+  "english": "The taste of a substance that is manifest in it when dry and at the beginning is perceived as the taste (rasa); the subsidiary taste (anurasa) is the opposite; for there is no seventh taste.",
+  "text_flags": [
+   {
+    "src": "rso",
+    "suggest": "raso",
+    "why": "'rso' (r with no vowel before s) is not a word; rasaḥ (taste) fits the sense, and the half-line then has 16 syllables (15 with rso)"
+   }
+  ],
+  "notes": "'at the beginning' (ādau) is taken as the first perception of the taste; 'perceived as the taste' supplies the sense of lakṣyate with rasaḥ. The opposite (viparyayeṇa) is taken as 'not manifest, in the dry state or at the beginning'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "parāparatve",
+      "words": [
+       {
+        "w": "para-aparatve",
+        "gloss": "remoteness and nearness (paratva, aparatva)",
+        "gram": "n. nom. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "yuktiśca",
+      "words": [
+       {
+        "w": "yuktiḥ",
+        "gloss": "rational planning (yukti)",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃkhyā",
+      "words": [
+       {
+        "w": "saṃkhyā",
+        "gloss": "number",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃyoga",
+      "words": [
+       {
+        "w": "saṃyogaḥ",
+        "gloss": "conjunction",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "just (emphatic)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vibhāgaśca",
+      "words": [
+       {
+        "w": "vibhāgaḥ",
+        "gloss": "disjunction",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pṛthaktvaṃ",
+      "words": [
+       {
+        "w": "pṛthaktvam",
+        "gloss": "separateness",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "parimāṇamathāpi",
+      "words": [
+       {
+        "w": "parimāṇam",
+        "gloss": "measure",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "atha",
+        "gloss": "then",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "परत्व और अपरत्व, और युक्ति, संख्या और संयोग, और विभाग, और पृथक्त्व, और परिमाण भी,",
+  "english": "Remoteness and nearness (paratva and aparatva), rational planning (yukti), number, conjunction, disjunction, separateness and also measure,",
+  "text_flags": [],
+  "notes": "SENTENCE: this list has no verb and continues beyond this unit, which is the last of the chunk. parāparatve is a dvandva in the dual (paratva and aparatva), the -tva of the second member serving both. paratva/aparatva may also mean 'superiority and inferiority'; 'remoteness and nearness' is the literal sense. eva in saṃyoga eva ca is a filler emphatic, not translated separately.",
+  "confidence": "high"
+ }
+]
