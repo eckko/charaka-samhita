@@ -11,3 +11,5 @@ Draft status: AI drafts, not read by a person.
 - śamana = pacifying; śodhana = purifying; sneha = unctuous substance; bheṣaja/auṣadha = medicine; siddhi = success
 - Vāsava = Vāsava (Indra), epithet first
 - Chapter colophons stay verbless: no "thus ends" in English, no "समाप्त" in Hindi
+- śakra = Śakra (Hindi शक्र, not इन्द्र); Indra's epithets (Śatakratu, Sahasrākṣa, Śacīpati, Balahantṛ, Amaraprabhu) and pitāmaha = the Grandsire (पितामह) stay epithets, name only in notes
+- maharṣi = great sage (महर्षि); devarṣi = divine sage (देवर्षि); tantra = treatise (तन्त्र)

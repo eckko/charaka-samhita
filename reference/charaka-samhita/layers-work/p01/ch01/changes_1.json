@@ -1,0 +1,159 @@
+[
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "yathā-proktam",
+  "old": "n. acc. sg. / adv. (ppp pra-√vac)",
+  "new": "adv. or m. acc. sg. (with āyurvedam); ppp pra-√vac",
+  "why": "reviewer (minor): Gram 'n. acc. sg. / adv.' does not fit the adjectival reading given in notes: agreeing with āyurvedam it is m. acc. sg."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "अश्विनीकुमारों से भगवान् इन्द्र ने उसे पूर्ण रूप से प्राप्त किया; इसलिए ऋषियों के कहने पर भरद्वाज इन्द्र के पास गए।",
+  "new": "अश्विनीकुमारों से भगवान् शक्र ने उसे पूर्ण रूप से प्राप्त किया; इसलिए ऋषियों के कहने पर भरद्वाज इन्द्र के पास गए।",
+  "why": "reviewer (minor): Hindi replaces the printed name Śakra with Indra (English keeps Śakra). Keep the name as printed (LAYER_NOTES 3)."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "अश्विनीकुमारों से भगवान् शक्र ने उसे पूर्ण रूप से प्राप्त किया; इसलिए ऋषियों के कहने पर भरद्वाज इन्द्र के पास गए।",
+  "new": "अश्विनीकुमारों से भगवान् शक्र ने उसे पूर्ण रूप से प्राप्त किया; इसलिए ऋषियों के कहने पर भरद्वाज शक्र के पास गए।",
+  "why": "reviewer (minor): Same: śakram rendered इन्द्र."
+ },
+ {
+  "n": "6",
+  "field": "word.w",
+  "word": "tapa-upavāsa-adhyayana-brahmacarya-vrata-āyuṣām",
+  "old": "tapa-upavāsa-adhyayana-brahmacarya-vrata-āyuṣām",
+  "new": "tapas-upavāsa-adhyayana-brahmacarya-vrata-āyuṣām",
+  "why": "reviewer (minor): Dictionary-form member of tapopavāsa is tapas- (stem), not tapa-; the rule is to restore original forms."
+ },
+ {
+  "n": "9",
+  "field": "notes",
+  "old": "bhikṣur ātreyaḥ is taken as \"Ātreya the mendicant\" (Bhikṣu Ātreya), distinct from the Ātreya of unit 8. Some editions read pārīkṣi for pārikṣi; kept as printed.",
+  "new": "bhikṣur ātreyaḥ is taken as \"Ātreya the mendicant\" (Bhikṣu Ātreya), distinct from the Ātreya of unit 8.",
+  "why": "reviewer (error): Variant reading asserted without any source in the input (no source_notes); the brief forbids invented variants."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "रोग इस आरोग्य के, कल्याण के और जीवन के भी नाशक हैं। मनुष्यों के सामने यह बड़ी बाधा उत्पन्न हो गई है।",
+  "new": "रोग इस आरोग्य के, कल्याण के और जीवन के भी नाशक हैं। मनुष्यों के लिए यह बड़ी बाधा उत्पन्न हो गई है।",
+  "why": "reviewer (minor): manuṣyāṇām antarāyaḥ is 'an obstacle for/of human beings'; 'सामने' (in front of) adds an image not in the text."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "इनके शमन का क्या उपाय हो सकता है?\" ऐसा कहकर वे ध्यान में स्थित हो गए; तब उन्होंने ध्यान की दृष्टि से इन्द्र को शरण के रूप में देखा।",
+  "new": "इनके शमन का क्या उपाय हो सकता है?\" ऐसा कहकर वे ध्यान में स्थित हो गए; तब उन्होंने ध्यान की दृष्टि से शक्र को शरण के रूप में देखा।",
+  "why": "reviewer (minor): śakram rendered इन्द्र; keep the printed name Śakra."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "\"देवताओं के स्वामी वे ही शमन का उपाय ठीक-ठीक बताएँगे। शचीपति से पूछने के लिए सहस्राक्ष के भवन में कौन जाए?\"",
+  "new": "\"देवताओं के स्वामी वे शमन का उपाय ठीक-ठीक बताएँगे। शचीपति से पूछने के लिए सहस्राक्ष के भवन में कौन जाए?\"",
+  "why": "reviewer (error): 'ही' adds emphasis ('he alone') not in sa vakṣyati."
+ },
+ {
+  "n": "18",
+  "field": "english",
+  "old": "\"He, the lord of the immortals, will tell us properly the means of allaying them. Who should go to the abode of the thousand-eyed one to ask the husband of Śacī?\"",
+  "new": "\"He, the lord of the immortals, will properly tell the means of allaying them. Who should go to the abode of the thousand-eyed one to ask the husband of Śacī?\"",
+  "why": "reviewer (minor): 'us' is not in the Sanskrit (no pronoun)."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "\"इस कार्य के लिए मुझे नियुक्त किया जाए\", यह वचन भरद्वाज ने सबसे पहले कहा; इसलिए ऋषियों ने उन्हें ही नियुक्त किया।",
+  "new": "\"इस कार्य के लिए मुझे नियुक्त किया जाए\", यह वचन भरद्वाज ने सबसे पहले कहा; इसलिए ऋषियों ने उन्हें नियुक्त किया।",
+  "why": "reviewer (error): 'ही' adds emphasis ('him alone'); the text has only sa niyojitaḥ."
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "Having gone to Śakra's abode, he saw the slayer of Bala, seated amid the hosts of gods and sages, blazing like fire.",
+  "new": "Having gone to Śakra's abode, he saw the slayer of Bala, in the midst of the hosts of gods and sages, blazing like fire.",
+  "why": "reviewer (error): 'seated' is added: madhyaga means 'being/going in the midst', posture not stated."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "इन्द्र के भवन में जाकर उन्होंने देवताओं और ऋषियों के समूह के मध्य स्थित, अग्नि के समान दीप्त, बल के संहारक इन्द्र को देखा।",
+  "new": "शक्र के भवन में जाकर उन्होंने देवताओं और ऋषियों के समूह के मध्य स्थित, अग्नि के समान दीप्त, बल के संहारक इन्द्र को देखा।",
+  "why": "reviewer (minor): śakrabhavanam: keep the printed name Śakra."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "शक्र के भवन में जाकर उन्होंने देवताओं और ऋषियों के समूह के मध्य स्थित, अग्नि के समान दीप्त, बल के संहारक इन्द्र को देखा।",
+  "new": "शक्र के भवन में जाकर उन्होंने देवताओं और ऋषियों के समूह के मध्य स्थित, अग्नि के समान दीप्त, बल के संहारक को देखा।",
+  "why": "reviewer (minor): The name Indra is added to the epithet balahantāram; epithets stay epithets (name in notes, which already has it)."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "उनकी विशाल बुद्धि को जानकर भगवान् शतक्रतु इन्द्र ने उन परम ऋषि को थोड़े शब्दों में आयुर्वेद का उपदेश दिया।",
+  "new": "उनकी विशाल बुद्धि को जानकर भगवान् शतक्रतु ने उन परम ऋषि को थोड़े शब्दों में आयुर्वेद का उपदेश दिया।",
+  "why": "reviewer (minor): The name Indra is added inline to the epithet Śatakratu (the note already identifies him)."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "यह वही हेतु, लिङ्ग और औषध का ज्ञान है, जो स्वस्थ और रोगी दोनों का परम आश्रय है, जो तीन सूत्रों वाला, शाश्वत और पुण्य है, और जिसे पितामह ब्रह्मा ने जाना था।",
+  "new": "यह हेतु, लिङ्ग और औषध का ज्ञान है, जो स्वस्थ और रोगी दोनों का परम आश्रय है, जो तीन सूत्रों वाला, शाश्वत और पुण्य है, और जिसे पितामह ब्रह्मा ने जाना था।",
+  "why": "reviewer (error): 'वही' adds emphasis ('that very') not in the Sanskrit (plain apposition)."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "यह हेतु, लिङ्ग और औषध का ज्ञान है, जो स्वस्थ और रोगी दोनों का परम आश्रय है, जो तीन सूत्रों वाला, शाश्वत और पुण्य है, और जिसे पितामह ब्रह्मा ने जाना था।",
+  "new": "यह हेतु, लिङ्ग और औषध का ज्ञान है, जो स्वस्थ और रोगी दोनों का परम आश्रय है, जो तीन सूत्रों वाला, शाश्वत और पुण्य है, और जिसे पितामह ने जाना था।",
+  "why": "reviewer (minor): Name Brahmā added inline to the epithet pitāmaha; the identification belongs in notes (already there)."
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "Through it Bharadvāja obtained a boundless life filled with happiness; and he taught it to the sages exactly, adding nothing and leaving nothing out.",
+  "new": "Through it Bharadvāja obtained a boundless life filled with happiness; and he taught it to the sages, adding nothing and leaving nothing out.",
+  "why": "reviewer (minor): 'exactly' is an interpretive addition summarising anadhikam/anavaśeṣayan, which are already translated."
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "तब भेल आदि ने अपने-अपने तन्त्र रचे, और उन मेधावी शिष्यों ने अपनी रचनाएँ ऋषि-समूह सहित आत्रेय को सुनाईं।",
+  "new": "तब भेल आदि ने अपने-अपने तन्त्र रचे, और उन मेधावियों ने अपनी रचनाएँ ऋषि-समूह सहित आत्रेय को सुनाईं।",
+  "why": "reviewer (minor): 'शिष्यों' (disciples) is added; the text has only sumedhasaḥ 'the intelligent ones'."
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "पुण्यकर्मा शिष्यों द्वारा विषयों का सूत्ररूप में किया गया संयोजन सुनकर ऋषि प्रसन्न हुए और \"यह ठीक प्रकार से सूत्रित है\" कहकर उन्होंने उनका अनुमोदन किया।",
+  "new": "उन पुण्यकर्माओं द्वारा विषयों का सूत्ररूप में किया गया संयोजन सुनकर ऋषि प्रसन्न हुए और \"यह ठीक प्रकार से सूत्रित है\" कहकर उन्होंने उनका अनुमोदन किया।",
+  "why": "reviewer (minor): 'शिष्यों' added; the text has puṇyakarmaṇām only (the referent is given in notes)."
+ },
+ {
+  "n": "34",
+  "field": "word.gram",
+  "word": "sūtritam",
+  "old": "n. nom. sg. ppp",
+  "new": "n. nom. sg. ppp √sūtr (denom.)",
+  "why": "reviewer (minor): Root missing for the ppp."
+ },
+ {
+  "n": "35",
+  "field": "english",
+  "old": "All of them praised those well-wishers of all beings, and cried aloud together, \"Well done! Here is compassion for living beings!\"",
+  "new": "All of them praised those well-wishers of all beings, and cried aloud together, \"Well done, compassion for living beings!\"",
+  "why": "reviewer (minor): 'Here is' is not in the Sanskrit; sādhu bhūteṣv anukrośaḥ is an exclamation praising compassion for beings."
+ },
+ {
+  "n": "36",
+  "field": "english",
+  "old": "The divine sages abiding in heaven heard that holy cry of the supreme sages, and, together with the gods, hearing it they rejoiced greatly.",
+  "new": "The divine sages abiding in heaven, together with the gods, heard that holy cry of the supreme sages, and hearing it they rejoiced greatly.",
+  "why": "reviewer (minor): sāmarāḥ qualifies the subject of both verbs (heard and rejoiced); the draft attaches it only to rejoicing."
+ }
+]
