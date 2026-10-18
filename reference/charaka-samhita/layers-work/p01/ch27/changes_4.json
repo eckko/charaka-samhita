@@ -1,0 +1,240 @@
+[
+ {
+  "n": "122",
+  "field": "word.gloss",
+  "word": "tadvat",
+  "old": "likewise",
+  "new": "(variant:) likewise",
+  "why": "reviewer (minor): Line c is printed inside round brackets: by the bracket rule (glossary, Sū 20 ch1 and Sū 25 ch2) its words are glossed '(variant:)'."
+ },
+ {
+  "n": "122",
+  "field": "word.gloss",
+  "word": "syāt",
+  "old": "would be",
+  "new": "(variant:) would be",
+  "why": "reviewer (minor): Line c is printed inside round brackets: by the bracket rule (glossary, Sū 20 ch1 and Sū 25 ch2) its words are glossed '(variant:)'."
+ },
+ {
+  "n": "122",
+  "field": "word.gloss",
+  "word": "raktanālasya",
+  "old": "of raktanāla",
+  "new": "(variant:) of raktanāla",
+  "why": "reviewer (minor): Line c is printed inside round brackets: by the bracket rule (glossary, Sū 20 ch1 and Sū 25 ch2) its words are glossed '(variant:)'."
+ },
+ {
+  "n": "122",
+  "field": "word.gloss",
+  "word": "rūkṣam",
+  "old": "dry",
+  "new": "(variant:) dry",
+  "why": "reviewer (minor): Line c is printed inside round brackets: by the bracket rule (glossary, Sū 20 ch1 and Sū 25 ch2) its words are glossed '(variant:)'."
+ },
+ {
+  "n": "122",
+  "field": "word.gloss",
+  "word": "amlam",
+  "old": "sour",
+  "new": "(variant:) sour",
+  "why": "reviewer (minor): Line c is printed inside round brackets: by the bracket rule (glossary, Sū 20 ch1 and Sū 25 ch2) its words are glossed '(variant:)'."
+ },
+ {
+  "n": "122",
+  "field": "word.gloss",
+  "word": "viśeṣataḥ",
+  "old": "especially",
+  "new": "(variant:) especially",
+  "why": "reviewer (minor): Line c is printed inside round brackets: by the bracket rule (glossary, Sū 20 ch1 and Sū 25 ch2) its words are glossed '(variant:)'."
+ },
+ {
+  "n": "122",
+  "field": "word.gloss",
+  "word": "śākam",
+  "old": "greens (śāka)",
+  "new": "pot-herb",
+  "why": "reviewer (minor): Consistency with chunk 3 of this chapter (śāka = pot-herb, śākavarga = group of pot-herbs)."
+ },
+ {
+  "n": "122",
+  "field": "hindi",
+  "old": "वह बहुत उष्ण नहीं, कफ और वात का नाशक, ग्राही और मदात्यय में प्रशस्त है। सार्षप शाक त्रिदोषकारक और मल-मूत्र को बाँधने वाला कहा जाता है। वैसा ही रक्तनाल का (शाक) होगा, विशेष रूप से रूक्ष और अम्ल।",
+  "new": "वह बहुत उष्ण नहीं, कफ और वात का नाशक, ग्राही और मदात्यय में प्रशस्त है। सार्षप शाक त्रिदोषकारक और मल-मूत्र को बाँधने वाला कहा जाता है।",
+  "why": "reviewer (error): The bracketed line c is translated as part of the text; the '(variant:)' rule leaves bracketed printed matter out of the translation (as kākāṇḍomā(lā) in 34, laṭṭa(ṭū)ṣaka in 51 and simbi(ñci)tikā in 142 of this chapter)."
+ },
+ {
+  "n": "122",
+  "field": "english",
+  "old": "It is not too hot, destroys Kapha and Vāta, is binding and recommended in madātyaya. The greens (śāka) of sarṣapa are said to cause the three doṣas and to keep faeces and urine bound. Likewise would be (the greens) of raktanāla, dry and sour especially.",
+  "new": "It is not too hot, destroys Kapha and Vāta, is binding and recommended in madātyaya. The pot-herb (śāka) of sarṣapa is said to cause the three doṣas and to keep faeces and urine bound.",
+  "why": "reviewer (error): Same: the bracketed line c is left out of the translation (its sense goes in notes); śāka = pot-herb as in chunk 3."
+ },
+ {
+  "n": "122",
+  "field": "notes",
+  "old": "SENTENCE: line a completes the amlikā tuber of 121b. Line c is printed inside round brackets (perhaps an added or doubtful line), with its '|' inside the bracket; it is split and translated like the rest. tridoṣa is read as a bahuvrīhi 'causing (vitiating) the three doṣas'. sarṣapa = mustard (standard). raktanāla kept Sanskrit (literally 'red-stalk'), no identification; its gender is not shown by the genitive. madātyaya kept Sanskrit.",
+  "new": "SENTENCE: line a completes the amlikā tuber of 121b. Line c is printed inside round brackets (with its '|' inside the bracket): the edition's bracketed alternative, split as printed, glossed '(variant:)' and left out of the translations; its sense is 'Likewise would be (the pot-herb) of raktanāla, especially dry and sour.' tridoṣa is read as a bahuvrīhi 'causing (vitiating) the three doṣas'. sarṣapa = mustard (standard). raktanāla kept Sanskrit (literally 'red-stalk'), no identification; its gender is not shown by the genitive. madātyaya kept Sanskrit.",
+  "why": "reviewer (minor): Speculation about the line's status; must follow the '(variant:)' rule instead."
+ },
+ {
+  "n": "123",
+  "field": "text_flags.0.why",
+  "old": "f. nom. pl. of bahu is bahvyaḥ (as gurvyaḥ, printed gurvya, in 124a); the printed bahvayo gives 9 syllables in the pāda, bahvyo gives 8",
+  "new": "bahvayaḥ is no form of bahu: the f. nom. pl. is bahvyaḥ (as gurvyaḥ, printed gurvya, in 124a); with bahvayo the pāda has 9 syllables, with bahvyo the required 8 (bah vyo 'nyāś cha tra jā ta yaḥ: syllables 5-7 tra jā ta = ⏑ – ⏑, as an even pāda requires)",
+  "why": "reviewer (minor): Accepted: bahvayaḥ is no form of bahu (f. nom. pl. bahvyaḥ, as gurvyaḥ in 124a); count 9 -> 8 verified. Name the weights as the metre rule asks."
+ },
+ {
+  "n": "123",
+  "field": "notes",
+  "old": "SENTENCE: line b runs into 124a. tadvat compares piṇḍāluka with the item before it (122). chatra = mushroom is the plain sense of the word; sarpacchatraka is literally 'snake-mushroom', no identification. piṇḍāluka kept Sanskrit.",
+  "new": "SENTENCE: line b runs into 124a. tadvat compares piṇḍāluka with an item before it; the text does not say which (the sārṣapa pot-herb of 122b, or raktanāla of the bracketed 122c). chatra = mushroom is the plain sense of the word; sarpacchatraka is literally 'snake-mushroom', no identification. piṇḍāluka kept Sanskrit.",
+  "why": "reviewer (minor): The referent is not certain once 122c is a bracketed variant; say so."
+ },
+ {
+  "n": "124",
+  "field": "word.gloss",
+  "word": "śāka-vargaḥ",
+  "old": "group of vegetables (śāka)",
+  "new": "group of pot-herbs",
+  "why": "reviewer (minor): Consistency with chunk 3 (88: śākavarga = the group of pot-herbs)."
+ },
+ {
+  "n": "124",
+  "field": "english",
+  "old": "are cold, cause pīnasa, and are sweet and indeed heavy. This is the fourth, the group of vegetables (śāka), based on leaves, tubers and fruits.",
+  "new": "are cold, cause pīnasa, and are sweet and indeed heavy. This is the fourth group, that of pot-herbs (śākavarga), based on leaves, tubers and fruits.",
+  "why": "reviewer (minor): Consistency with chunk 3 ('this third group, that of meats'; śākavarga = group of pot-herbs)."
+ },
+ {
+  "n": "125",
+  "field": "english",
+  "old": "Now the group of fruits: thirst, burning, fever, dyspnoea, raktapitta, kṣata (wound) and kṣaya (wasting), Vāta-Pitta, udāvarta, hoarseness (svarabheda), madātyaya,",
+  "new": "Now the group of fruits (phalavarga): thirst, burning, fever, dyspnoea, raktapitta, kṣata (wound) and kṣaya (wasting), Vāta-Pitta, udāvarta, hoarseness (svarabheda), madātyaya,",
+  "why": "reviewer (minor): Heading accepted (extra-metrical; line a has 16 syllables without it, verified); add the Sanskrit name as chunk 3 does for śākavarga."
+ },
+ {
+  "n": "130",
+  "field": "word.gloss",
+  "word": "tāla-śasyāni",
+  "old": "kernels (śasya) of tāla",
+  "new": "fruits (śasya) of tāla",
+  "why": "reviewer (minor): 'kernel' is an interpretation; śasya = crop, produce, fruit."
+ },
+ {
+  "n": "130",
+  "field": "english",
+  "old": "Cooked tāla kernels (śasya) and nārikela fruits are nourishing, unctuous, cold, strengthening and sweet.",
+  "new": "Cooked tāla fruits (śasya) and nārikela fruits are nourishing, unctuous, cold, strengthening and sweet.",
+  "why": "reviewer (minor): Translation adds 'kernel', which the word does not say."
+ },
+ {
+  "n": "130",
+  "field": "notes",
+  "old": "śasya ordinarily means grain or crop; the edible kernel of the tāla fruit is taken here. siddhāni 'prepared, cooked' is read with tālaśasyāni; it could also cover both items. tāla = palmyra palm, nārikela = coconut (standard).",
+  "new": "śasya: crop, produce or fruit; 'fruit' is taken here (this is the group of fruits). siddhāni 'prepared, cooked' is read with tālaśasyāni; it could also cover both items. tāla = palmyra palm, nārikela = coconut (standard).",
+  "why": "reviewer (minor): Interpretation not in the text."
+ },
+ {
+  "n": "137",
+  "field": "text_flags.0.why",
+  "old": "guru + api gives gurv api (u before a vowel becomes v); the printed guruvapi gives 9 syllables in the pāda, gurvapi gives 8",
+  "new": "guru + api gives gurv api (u before a vowel becomes v); the printed guruvapi gives 9 syllables in the pāda, gurvapi the required 8 (vi ṣa ghnaṃ grā hi gur va pi: syllables 5-7 hi gur va = ⏑ – ⏑, as an even pāda requires)",
+  "why": "reviewer (minor): Accepted (guru + api = gurv api; count 9 -> 8 verified). Name the weights."
+ },
+ {
+  "n": "140",
+  "field": "text_flags.0.why",
+  "old": "possible: there is no stem jāmbara; jāmbava (the fruit of the jambū) suits this list of fruits, and र for व is an easy slip in the Devanagari",
+  "new": "possible: jāmbara is not a word; jāmbava (vṛddhi derivative of jambū, 'fruit of the jambū') fits this group of fruits (heading 125); jām ba raṃ and jām ba vaṃ have the same weights (– ⏑ –), so the metre does not decide",
+  "why": "reviewer (minor): Accepted as possible, but the 'why' rests on script similarity; name the evidence the rule allows (grammar, the chunk) and state that the metre does not decide."
+ },
+ {
+  "n": "141",
+  "field": "word.gloss",
+  "word": "virudhyate",
+  "old": "is opposed",
+  "new": "is incompatible",
+  "why": "reviewer (minor): Glossary (Sū 26 ch4): virudhyate = is incompatible."
+ },
+ {
+  "n": "141",
+  "field": "english",
+  "old": "Badara is sweet, unctuous, breaking (bhedana) and overcomes Vāta and Pitta; dried, it destroys Kapha and Vāta and is not contrary in Pitta.",
+  "new": "Badara is sweet, unctuous, breaking (bhedana) and overcomes Vāta and Pitta; dried, it destroys Kapha and Vāta and is not incompatible in Pitta.",
+  "why": "reviewer (minor): Glossary: virudhyate = is incompatible."
+ },
+ {
+  "n": "141",
+  "field": "hindi",
+  "old": "बदर मधुर, स्निग्ध, भेदन और वात-पित्त को जीतने वाला है; सूखा होने पर वह कफ-वात का नाशक है और पित्त में विरोधी नहीं होता।",
+  "new": "बदर मधुर, स्निग्ध, भेदन और वात-पित्त को जीतने वाला है; सूखा होने पर वह कफ-वात का नाशक है और पित्त में विरुद्ध नहीं होता।",
+  "why": "reviewer (minor): Glossary: viruddha = विरुद्ध."
+ },
+ {
+  "n": "142",
+  "field": "word.gloss",
+  "word": "simbitikā-phalam",
+  "old": "fruit of simbitikā (variant: ñci in brackets)",
+  "new": "fruit of simbitikā (variant: with ñci)",
+  "why": "reviewer (minor): Format of the bracket rule as used in this chapter (51 'variant: with ṭū', 53 'variant: with na')."
+ },
+ {
+  "n": "142",
+  "field": "notes",
+  "old": "The printed simbi(ñci)tikā carries the edition's bracketed alternative 'ñci' (perhaps siñcitikā); the unbracketed simbitikā is used, and the bracket is left out of the translation (without it the line has 16 syllables). SENTENCE: the five names of line b take their qualities in 143a. todanadhanvanam is read as a samāhāra dvandva of two names. All names kept Sanskrit, no identifications.",
+  "new": "The printed simbi(ñci)tikā carries the edition's bracketed alternative 'ñci' (its exact extent is not clear); the unbracketed simbitikā is used, and the bracket is left out of the translation (without it the line has 16 syllables). SENTENCE: the five names of line b take their qualities in 143a. todanadhanvanam is read as a samāhāra dvandva of two names. All names kept Sanskrit, no identifications.",
+  "why": "reviewer (minor): A guessed reading of the variant; not evidenced."
+ },
+ {
+  "n": "149",
+  "field": "word.gloss",
+  "word": "svara-bheda-kapha-utkleda-pitta-roga-vināśanam",
+  "old": "destroying hoarseness, excess moisture of Kapha and diseases of Pitta",
+  "new": "destroying hoarseness, moistness of Kapha and diseases of Pitta",
+  "why": "reviewer (error): Glossary: kleda = moistness, never 'excess moisture'; utkleda aligned."
+ },
+ {
+  "n": "149",
+  "field": "english",
+  "old": "and destroys hoarseness, the excess moisture (utkleda) of Kapha and the diseases of Pitta. Sour, astringent and sweet, Vāta-destroying, binding, stimulating digestion,",
+  "new": "and destroys hoarseness, the moistness (utkleda) of Kapha and the diseases of Pitta. Sour, astringent and sweet, Vāta-destroying, binding, stimulating digestion,",
+  "why": "reviewer (error): Glossary: kleda = moistness, never 'excess moisture'; utkleda aligned."
+ },
+ {
+  "n": "149",
+  "field": "notes",
+  "old": "SENTENCE: line a completes bibhītaka (148b); line b begins the qualities of dāḍima (150a). kaphotkleda may also be read as two items, Kapha and utkleda (excess moisture).",
+  "new": "SENTENCE: line a completes bibhītaka (148b); line b begins the qualities of dāḍima (150a). kaphotkleda may also be read as two items, Kapha and utkleda (moistness).",
+  "why": "reviewer (minor): Same glossary rule."
+ },
+ {
+  "n": "150",
+  "field": "word.gloss",
+  "word": "kapha-pitta-avirodhi",
+  "old": "not opposed to Kapha and Pitta",
+  "new": "not incompatible with Kapha and Pitta",
+  "why": "reviewer (minor): Glossary (Sū 26 ch4): virodha words = incompatible."
+ },
+ {
+  "n": "150",
+  "field": "english",
+  "old": "unctuous and hot is dāḍima; it is cordial (hṛdya) and not opposed to Kapha and Pitta. But the dāḍima that is dry and sour aggravates Pitta and Vāta (anila).",
+  "new": "unctuous and hot is dāḍima; it is cordial (hṛdya) and not incompatible with Kapha and Pitta. But the dāḍima that is dry and sour aggravates Pitta and Vāta (anila).",
+  "why": "reviewer (minor): Glossary: viruddha/virudhyate = incompatible."
+ },
+ {
+  "n": "155",
+  "field": "word.gram",
+  "word": "śvāsa-hikkā-arśasām",
+  "old": "gen. pl., dvandva",
+  "new": "n. gen. pl., dvandva",
+  "why": "reviewer (minor): Gender missing: an itaretara dvandva takes the gender of its last member (arśas, n.)."
+ },
+ {
+  "n": "159",
+  "field": "hindi",
+  "old": "श्लेष्मातक का फल कफकारक, मधुर, शीतल और गुरु है; अङ्कोट का फल कफकारक, गुरु, विष्टम्भी और अग्नि को दबाने वाला है।",
+  "new": "श्लेष्मातक का फल कफकारक, मधुर, शीतल और गुरु है; अङ्कोट का फल कफकारक, गुरु, विष्टम्भी और अग्नि को जीतने वाला है।",
+  "why": "reviewer (minor): -jit is rendered जीतने वाला everywhere else in the chunk (138, 141, 146); keep it literal."
+ }
+]

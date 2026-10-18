@@ -1,0 +1,660 @@
+{
+ "units": [
+  {
+   "n": "120",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "121",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "122",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "tadvat",
+     "problem": "Line c is printed inside round brackets: by the bracket rule (glossary, Sū 20 ch1 and Sū 25 ch2) its words are glossed '(variant:)'.",
+     "fix": "(variant:) likewise",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "tadvat",
+      "field": "gloss",
+      "value": "(variant:) likewise",
+      "n": "122"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "syāt",
+     "problem": "Line c is printed inside round brackets: by the bracket rule (glossary, Sū 20 ch1 and Sū 25 ch2) its words are glossed '(variant:)'.",
+     "fix": "(variant:) would be",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "syāt",
+      "field": "gloss",
+      "value": "(variant:) would be",
+      "n": "122"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "raktanālasya",
+     "problem": "Line c is printed inside round brackets: by the bracket rule (glossary, Sū 20 ch1 and Sū 25 ch2) its words are glossed '(variant:)'.",
+     "fix": "(variant:) of raktanāla",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "raktanālasya",
+      "field": "gloss",
+      "value": "(variant:) of raktanāla",
+      "n": "122"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "rūkṣam",
+     "problem": "Line c is printed inside round brackets: by the bracket rule (glossary, Sū 20 ch1 and Sū 25 ch2) its words are glossed '(variant:)'.",
+     "fix": "(variant:) dry",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "rūkṣam",
+      "field": "gloss",
+      "value": "(variant:) dry",
+      "n": "122"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "amlam",
+     "problem": "Line c is printed inside round brackets: by the bracket rule (glossary, Sū 20 ch1 and Sū 25 ch2) its words are glossed '(variant:)'.",
+     "fix": "(variant:) sour",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "amlam",
+      "field": "gloss",
+      "value": "(variant:) sour",
+      "n": "122"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "viśeṣataḥ",
+     "problem": "Line c is printed inside round brackets: by the bracket rule (glossary, Sū 20 ch1 and Sū 25 ch2) its words are glossed '(variant:)'.",
+     "fix": "(variant:) especially",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "viśeṣataḥ",
+      "field": "gloss",
+      "value": "(variant:) especially",
+      "n": "122"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "śākam",
+     "problem": "Consistency with chunk 3 of this chapter (śāka = pot-herb, śākavarga = group of pot-herbs).",
+     "fix": "pot-herb",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "śākam",
+      "field": "gloss",
+      "value": "pot-herb",
+      "n": "122"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वैसा ही रक्तनाल का (शाक) होगा, विशेष रूप से रूक्ष और अम्ल।",
+     "problem": "The bracketed line c is translated as part of the text; the '(variant:)' rule leaves bracketed printed matter out of the translation (as kākāṇḍomā(lā) in 34, laṭṭa(ṭū)ṣaka in 51 and simbi(ñci)tikā in 142 of this chapter).",
+     "fix": "वह बहुत उष्ण नहीं, कफ और वात का नाशक, ग्राही और मदात्यय में प्रशस्त है। सार्षप शाक त्रिदोषकारक और मल-मूत्र को बाँधने वाला कहा जाता है।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "वह बहुत उष्ण नहीं, कफ और वात का नाशक, ग्राही और मदात्यय में प्रशस्त है। सार्षप शाक त्रिदोषकारक और मल-मूत्र को बाँधने वाला कहा जाता है।",
+      "n": "122"
+     }
+    },
+    {
+     "field": "english",
+     "where": "Likewise would be (the greens) of raktanāla, dry and sour especially.",
+     "problem": "Same: the bracketed line c is left out of the translation (its sense goes in notes); śāka = pot-herb as in chunk 3.",
+     "fix": "It is not too hot, destroys Kapha and Vāta, is binding and recommended in madātyaya. The pot-herb (śāka) of sarṣapa is said to cause the three doṣas and to keep faeces and urine bound.",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "It is not too hot, destroys Kapha and Vāta, is binding and recommended in madātyaya. The pot-herb (śāka) of sarṣapa is said to cause the three doṣas and to keep faeces and urine bound.",
+      "n": "122"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "Line c is printed inside round brackets (perhaps an added or doubtful line) ... split and translated like the rest",
+     "problem": "Speculation about the line's status; must follow the '(variant:)' rule instead.",
+     "fix": "SENTENCE: line a completes the amlikā tuber of 121b. Line c is printed inside round brackets (with its '|' inside the bracket): the edition's bracketed alternative, split as printed, glossed '(variant:)' and left out of the translations; its sense is 'Likewise would be (the pot-herb) of raktanāla, especially dry and sour.' tridoṣa is read as a bahuvrīhi 'causing (vitiating) the three doṣas'. sarṣapa = mustard (standard). raktanāla kept Sanskrit (literally 'red-stalk'), no identification; its gender is not shown by the genitive. madātyaya kept Sanskrit.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "notes",
+      "value": "SENTENCE: line a completes the amlikā tuber of 121b. Line c is printed inside round brackets (with its '|' inside the bracket): the edition's bracketed alternative, split as printed, glossed '(variant:)' and left out of the translations; its sense is 'Likewise would be (the pot-herb) of raktanāla, especially dry and sour.' tridoṣa is read as a bahuvrīhi 'causing (vitiating) the three doṣas'. sarṣapa = mustard (standard). raktanāla kept Sanskrit (literally 'red-stalk'), no identification; its gender is not shown by the genitive. madātyaya kept Sanskrit.",
+      "n": "122"
+     }
+    }
+   ]
+  },
+  {
+   "n": "123",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "bahvayo -> bahvyo",
+     "problem": "Accepted: bahvayaḥ is no form of bahu (f. nom. pl. bahvyaḥ, as gurvyaḥ in 124a); count 9 -> 8 verified. Name the weights as the metre rule asks.",
+     "fix": "rewrite why",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "text_flags.0.why",
+      "value": "bahvayaḥ is no form of bahu: the f. nom. pl. is bahvyaḥ (as gurvyaḥ, printed gurvya, in 124a); with bahvayo the pāda has 9 syllables, with bahvyo the required 8 (bah vyo 'nyāś cha tra jā ta yaḥ: syllables 5-7 tra jā ta = ⏑ – ⏑, as an even pāda requires)",
+      "n": "123"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "tadvat ... (122)",
+     "problem": "The referent is not certain once 122c is a bracketed variant; say so.",
+     "fix": "tadvat compares piṇḍāluka with an item before it; the text does not say which (the sārṣapa pot-herb of 122b, or raktanāla of the bracketed 122c).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "tadvat compares piṇḍāluka with the item before it (122).",
+      "new": "tadvat compares piṇḍāluka with an item before it; the text does not say which (the sārṣapa pot-herb of 122b, or raktanāla of the bracketed 122c).",
+      "n": "123"
+     }
+    }
+   ]
+  },
+  {
+   "n": "124",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "śāka-vargaḥ",
+     "problem": "Consistency with chunk 3 (88: śākavarga = the group of pot-herbs).",
+     "fix": "group of pot-herbs",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "śāka-vargaḥ",
+      "field": "gloss",
+      "value": "group of pot-herbs",
+      "n": "124"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the group of vegetables (śāka)",
+     "problem": "Consistency with chunk 3 ('this third group, that of meats'; śākavarga = group of pot-herbs).",
+     "fix": "This is the fourth group, that of pot-herbs (śākavarga), based on leaves, tubers and fruits.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "This is the fourth, the group of vegetables (śāka), based on leaves, tubers and fruits.",
+      "new": "This is the fourth group, that of pot-herbs (śākavarga), based on leaves, tubers and fruits.",
+      "n": "124"
+     }
+    }
+   ]
+  },
+  {
+   "n": "125",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Now the group of fruits:",
+     "problem": "Heading accepted (extra-metrical; line a has 16 syllables without it, verified); add the Sanskrit name as chunk 3 does for śākavarga.",
+     "fix": "Now the group of fruits (phalavarga):",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Now the group of fruits:",
+      "new": "Now the group of fruits (phalavarga):",
+      "n": "125"
+     }
+    }
+   ]
+  },
+  {
+   "n": "126",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "127",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "128",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "129",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "130",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "tāla-śasyāni",
+     "problem": "'kernel' is an interpretation; śasya = crop, produce, fruit.",
+     "fix": "fruits (śasya) of tāla",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "tāla-śasyāni",
+      "field": "gloss",
+      "value": "fruits (śasya) of tāla",
+      "n": "130"
+     }
+    },
+    {
+     "field": "english",
+     "where": "tāla kernels (śasya)",
+     "problem": "Translation adds 'kernel', which the word does not say.",
+     "fix": "Cooked tāla fruits (śasya)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Cooked tāla kernels (śasya)",
+      "new": "Cooked tāla fruits (śasya)",
+      "n": "130"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "edible kernel",
+     "problem": "Interpretation not in the text.",
+     "fix": "śasya: crop, produce or fruit; 'fruit' is taken here (this is the group of fruits).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "śasya ordinarily means grain or crop; the edible kernel of the tāla fruit is taken here.",
+      "new": "śasya: crop, produce or fruit; 'fruit' is taken here (this is the group of fruits).",
+      "n": "130"
+     }
+    }
+   ]
+  },
+  {
+   "n": "131",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "132",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "133",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "134",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "135",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "136",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "137",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "guruvapi -> gurvapi",
+     "problem": "Accepted (guru + api = gurv api; count 9 -> 8 verified). Name the weights.",
+     "fix": "rewrite why",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "text_flags.0.why",
+      "value": "guru + api gives gurv api (u before a vowel becomes v); the printed guruvapi gives 9 syllables in the pāda, gurvapi the required 8 (vi ṣa ghnaṃ grā hi gur va pi: syllables 5-7 hi gur va = ⏑ – ⏑, as an even pāda requires)",
+      "n": "137"
+     }
+    }
+   ]
+  },
+  {
+   "n": "138",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "139",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "140",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "jāmbaraṃ -> jāmbavaṃ",
+     "problem": "Accepted as possible, but the 'why' rests on script similarity; name the evidence the rule allows (grammar, the chunk) and state that the metre does not decide.",
+     "fix": "rewrite why",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "text_flags.0.why",
+      "value": "possible: jāmbara is not a word; jāmbava (vṛddhi derivative of jambū, 'fruit of the jambū') fits this group of fruits (heading 125); jām ba raṃ and jām ba vaṃ have the same weights (– ⏑ –), so the metre does not decide",
+      "n": "140"
+     }
+    }
+   ]
+  },
+  {
+   "n": "141",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "virudhyate",
+     "problem": "Glossary (Sū 26 ch4): virudhyate = is incompatible.",
+     "fix": "is incompatible",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "virudhyate",
+      "field": "gloss",
+      "value": "is incompatible",
+      "n": "141"
+     }
+    },
+    {
+     "field": "english",
+     "where": "not contrary",
+     "problem": "Glossary: virudhyate = is incompatible.",
+     "fix": "is not incompatible in Pitta",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "is not contrary in Pitta",
+      "new": "is not incompatible in Pitta",
+      "n": "141"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "विरोधी",
+     "problem": "Glossary: viruddha = विरुद्ध.",
+     "fix": "पित्त में विरुद्ध नहीं होता",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "पित्त में विरोधी नहीं होता",
+      "new": "पित्त में विरुद्ध नहीं होता",
+      "n": "141"
+     }
+    }
+   ]
+  },
+  {
+   "n": "142",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "simbitikā-phalam",
+     "problem": "Format of the bracket rule as used in this chapter (51 'variant: with ṭū', 53 'variant: with na').",
+     "fix": "fruit of simbitikā (variant: with ñci)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "simbitikā-phalam",
+      "field": "gloss",
+      "value": "fruit of simbitikā (variant: with ñci)",
+      "n": "142"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "(perhaps siñcitikā)",
+     "problem": "A guessed reading of the variant; not evidenced.",
+     "fix": "'ñci' (its exact extent is not clear); the unbracketed",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "'ñci' (perhaps siñcitikā); the unbracketed",
+      "new": "'ñci' (its exact extent is not clear); the unbracketed",
+      "n": "142"
+     }
+    }
+   ]
+  },
+  {
+   "n": "143",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "144",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "145",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "146",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "147",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "148",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "149",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "svara-bheda-kapha-utkleda-pitta-roga-vināśanam",
+     "problem": "Glossary: kleda = moistness, never 'excess moisture'; utkleda aligned.",
+     "fix": "destroying hoarseness, moistness of Kapha and diseases of Pitta",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "svara-bheda-kapha-utkleda-pitta-roga-vināśanam",
+      "field": "gloss",
+      "value": "destroying hoarseness, moistness of Kapha and diseases of Pitta",
+      "n": "149"
+     }
+    },
+    {
+     "field": "english",
+     "where": "excess moisture (utkleda)",
+     "problem": "Glossary: kleda = moistness, never 'excess moisture'; utkleda aligned.",
+     "fix": "the moistness (utkleda) of Kapha",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the excess moisture (utkleda) of Kapha",
+      "new": "the moistness (utkleda) of Kapha",
+      "n": "149"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "utkleda (excess moisture)",
+     "problem": "Same glossary rule.",
+     "fix": "utkleda (moistness)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "utkleda (excess moisture)",
+      "new": "utkleda (moistness)",
+      "n": "149"
+     }
+    }
+   ]
+  },
+  {
+   "n": "150",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kapha-pitta-avirodhi",
+     "problem": "Glossary (Sū 26 ch4): virodha words = incompatible.",
+     "fix": "not incompatible with Kapha and Pitta",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kapha-pitta-avirodhi",
+      "field": "gloss",
+      "value": "not incompatible with Kapha and Pitta",
+      "n": "150"
+     }
+    },
+    {
+     "field": "english",
+     "where": "not opposed",
+     "problem": "Glossary: viruddha/virudhyate = incompatible.",
+     "fix": "not incompatible with Kapha and Pitta",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "not opposed to Kapha and Pitta",
+      "new": "not incompatible with Kapha and Pitta",
+      "n": "150"
+     }
+    }
+   ]
+  },
+  {
+   "n": "151",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "152",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "153",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "154",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "155",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "śvāsa-hikkā-arśasām",
+     "problem": "Gender missing: an itaretara dvandva takes the gender of its last member (arśas, n.).",
+     "fix": "n. gen. pl., dvandva",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "śvāsa-hikkā-arśasām",
+      "field": "gram",
+      "value": "n. gen. pl., dvandva",
+      "n": "155"
+     }
+    }
+   ]
+  },
+  {
+   "n": "156",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "157",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "158",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "159",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दबाने वाला",
+     "problem": "-jit is rendered जीतने वाला everywhere else in the chunk (138, 141, 146); keep it literal.",
+     "fix": "अग्नि को जीतने वाला",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अग्नि को दबाने वाला",
+      "new": "अग्नि को जीतने वाला",
+      "n": "159"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Chunk 4 (Sū 27, 120-159, 40 units): 13 of 40 units need fixes; 4 errors, 28 minor; every issue carries a patch, 0 MANUAL items. No regrouping. Errors: bracketed line 122c was translated (now '(variant:)' glosses, out of the translations, sense in notes, consistent with 34, 51, 53 and 142); utkleda 'excess moisture' -> 'moistness (utkleda)' per the kleda rule (149). All 5 text_flags accepted: 123 bahvayo->bahvyo (grammar, 124a gurvya parallel, 9->8, weights added), 137 guruvapi->gurvapi (sandhi, 9->8, weights added), 140 jāmbaraṃ->jāmbavaṃ possible (why rewritten: derivative of jambū, fruit group; metre does not decide), 148 -sṛṅgāṃsa->-sṛṅmāṃsa possible (sandhi, 139 māṃsa), 159 viṣṭmbhi->viṣṭambhi (128/131/136/140, 15->16). Heading 'atha phalavargaḥ---' accepted as an extra-metrical prose heading (16 syllables without it, verified), English gets '(phalavarga)' as chunk 3 does. Consistency: śāka = pot-herb, śākavarga = group of pot-herbs (122, 124) as in chunk 3; virudhyate/avirodhin = incompatible (141, 150). Unclear referents judged acceptable as drafted, each noted: 128 (shared qualities vs phalgu only), 132 (amlam with parūṣaka), 134 (which quality goes with which kind), 148a (āmalaka, alt. bibhītaka), 149a (bibhītaka), 151 (pūrvam), 155a (karcūra vs mātuluṅga); 123 tadvat referent note made open. Plant notes are plain common names tagged standard (mustard, grape, date, palmyra palm, coconut, jujube, wood-apple, bael, mango, jackfruit, banana, pomegranate, citron, orange); translations carry none (chatra = mushroom is the plain word); 130 'kernel' removed. No notes cite commentators, other editions or memory (122 and 142 speculation removed). Unreviewed AI draft."
+}
