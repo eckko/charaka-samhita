@@ -1,0 +1,150 @@
+[
+ {
+  "n": "4",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "saviṣaprāṇisaṃṣṭrādantaviṣāṇanakhanipātairvā",
+    "suggest": "saviṣaprāṇidaṃṣṭrādantaviṣāṇanakhanipātairvā",
+    "why": "saṃṣṭrā is not a word; daṃṣṭrā (fang) fits the list of biting and striking parts (teeth, horns, nails)"
+   },
+   {
+    "src": "tatrāgantavaśchedanabhedanakṣaṇanabhañjanapicchanotpeṣaṇaprahāravadhabandhanaveṣṭanavyadhanapīḍanādibhirvā",
+    "suggest": "tatrāgantavaśchedanabhedanakṣaṇanabhañjanapiccanotpeṣaṇaprahāravadhabandhanaveṣṭanavyadhanapīḍanādibhirvā",
+    "why": "possible: picchana is no regular formation; piccana (√picc, to press flat, crush) fits the list of injuries"
+   }
+  ],
+  "new": [
+   {
+    "src": "saviṣaprāṇisaṃṣṭrādantaviṣāṇanakhanipātairvā",
+    "suggest": "saviṣaprāṇidaṃṣṭrādantaviṣāṇanakhanipātairvā",
+    "why": "saṃṣṭrā is not a word; daṃṣṭrā (fang) fits the list of biting and striking parts (teeth, horns, nails)"
+   }
+  ],
+  "why": "reviewer (error): Flag without evidence: nothing in the chunk or in grammar shows picchana to be wrong (cch/cc is an orthographic alternation, the word fits the list as printed). Drop the flag and keep the printed spelling in words."
+ },
+ {
+  "n": "4",
+  "field": "word.w",
+  "word": "chedana-bhedana-kṣaṇana-bhañjana-piccana-utpeṣaṇa-prahāra-vadha-bandhana-veṣṭana-vyadhana-pīḍana-ādibhiḥ",
+  "old": "chedana-bhedana-kṣaṇana-bhañjana-piccana-utpeṣaṇa-prahāra-vadha-bandhana-veṣṭana-vyadhana-pīḍana-ādibhiḥ",
+  "new": "chedana-bhedana-kṣaṇana-bhañjana-picchana-utpeṣaṇa-prahāra-vadha-bandhana-veṣṭana-vyadhana-pīḍana-ādibhiḥ",
+  "why": "reviewer (error): Flag without evidence: nothing in the chunk or in grammar shows picchana to be wrong (cch/cc is an orthographic alternation, the word fits the list as printed). Drop the flag and keep the printed spelling in words."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "वे फिर आरम्भ में ही अपने-अपने कारणों और लक्षणों से पहचाने जाते हैं, जो निज शोथ के लक्षणों से अंशतः विपरीत होते हैं; और बन्धन, मन्त्र, अगद, प्रलेप, प्रताप, निर्वापण आदि उपक्रमों से उपचार किए जाने पर वे शान्त हो जाते हैं।",
+  "new": "वे फिर आरम्भ में अपने-अपने कारणों और लक्षणों से पहचाने जाते हैं, जो निज शोथ के लक्षणों से अंशतः विपरीत होते हैं; और बन्धन, मन्त्र, अगद, प्रलेप, प्रताप, निर्वापण आदि उपक्रमों से उपचार किए जाने पर वे शान्त हो जाते हैं।",
+  "why": "reviewer (minor): ही adds emphasis not in the Sanskrit (ādau)."
+ },
+ {
+  "n": "5",
+  "field": "notes",
+  "old": "nijavyañjanaikadeśaviparītaiḥ is read as qualifying hetuvyañjanaiḥ: the signs of exogenous swellings are partly contrary to those of the endogenous.",
+  "new": "nijavyañjanaikadeśaviparītaiḥ is read as qualifying hetuvyañjanaiḥ: the signs of exogenous swellings are partly contrary to those of the endogenous. Grammatically nijavyañjanaikadeśaviparītaiḥ could also qualify upakramaiḥ ('with measures partly contrary to the signs of the endogenous').",
+  "why": "reviewer (minor): The instrumental can grammatically also go with the following upakramaiḥ; the alternative should be stated."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "निज शोथ फिर स्नेहन, स्वेदन, वमन, विरेचन, आस्थापन, अनुवासन और शिरोविरेचन के अनुचित प्रयोग से, या मिथ्या संसर्जन से; या छर्दि, अलसक, विसूचिका, श्वास, कास, अतिसार, शोष, पाण्डुरोग, उदर, ज्वर, प्रदर, भगन्दर और अर्श रोगों से हुए अत्यधिक कृशता से; या कुष्ठ, कण्डू, पिडका आदि से; या छर्दि, छींक, डकार, शुक्र, अधोवायु, मूत्र और मल के वेगों को रोकने से; या कर्म, रोग, उपवास और मार्ग चलने से कृश हुए व्यक्ति द्वारा सहसा अति गुरु, अम्ल, लवण, पिष्टान्न, फल, शाक, राग, दही, हरितक, मद्य, मन्दक, विरूढ, नए शूकधान्य और शमीधान्य, तथा आनूप और औदक मांस के सेवन से; मिट्टी, कीचड़ और ढेले खाने से; अधिक लवण खाने से; गर्भ के दबाव से; आम गर्भ के गिरने से; और प्रसूता स्त्रियों में मिथ्या उपचार से तथा दोषों के उदीर्ण होने से उत्पन्न होते हैं। इस प्रकार सामान्य हेतु कहा गया।",
+  "new": "निज शोथ फिर स्नेहन, स्वेदन, वमन, विरेचन, आस्थापन, अनुवासन और शिरोविरेचन के अनुचित प्रयोग से, या मिथ्या संसर्जन से; या छर्दि, अलसक, विसूचिका, श्वास, कास, अतिसार, शोष, पाण्डुरोग, उदर, ज्वर, प्रदर, भगन्दर और अर्श रोगों से हुई अत्यधिक कृशता से; या कुष्ठ, कण्डू, पिडका आदि से; या छर्दि, छींक, डकार, शुक्र, अधोवायु, मूत्र और मल के वेगों को रोकने से; या कर्म, रोग, उपवास और मार्ग चलने से कृश हुए व्यक्ति द्वारा सहसा अति गुरु, अम्ल, लवण, पिष्टान्न, फल, शाक, राग, दही, हरितक, मद्य, मन्दक, विरूढ, नए शूकधान्य और शमीधान्य, तथा आनूप और औदक मांस के सेवन से; मिट्टी, कीचड़ और ढेले खाने से; अधिक लवण खाने से; गर्भ के दबाव से; आम गर्भ के गिरने से; और प्रसूता स्त्रियों में मिथ्या उपचार से तथा दोषों के उदीर्ण होने से उत्पन्न होते हैं। इस प्रकार सामान्य हेतु कहा गया।",
+  "why": "reviewer (minor): कृशता is feminine: हुई, not हुए."
+ },
+ {
+  "n": "6",
+  "field": "notes",
+  "old": "karma here is rendered 'action'; it may refer to the therapeutic procedures listed at the start of the unit. ati- is read as governing the whole list of foods (excessive use); it may qualify only guru. sahasā is read with the list of foods. udīrṇadoṣatvāt may belong only to the women after delivery or be a separate general cause. śotha and śopha are used interchangeably (both 'swelling'). Disease names (alasaka, visūcikā, pāṇḍu, udara, pradara, bhagandara, arśas, kuṣṭha) and the foods rāga and mandaka are kept in Sanskrit.",
+  "new": "karma here is rendered 'action'; it may refer to the therapeutic procedures listed at the start of the unit. ati- is read as governing the whole list of foods (excessive use); it may qualify only guru. sahasā is read with the list of foods. udīrṇadoṣatvāt may belong only to the women after delivery or be a separate general cause. śotha and śopha are used interchangeably (both 'swelling'). Disease names (alasaka, visūcikā, pāṇḍu, udara, pradara, bhagandara, arśas, kuṣṭha) and the foods rāga and mandaka are kept in Sanskrit. -arśovikārātikarśanaiḥ may also be read as a dvandva: 'by the disorders vomiting ... arśas, or by excessive emaciation'. karma could also mean physical work.",
+  "why": "reviewer (minor): Reviewer decisions: karma kept as 'action' (fixed rendering) and ati- read as governing the use of the whole food list (cf. lavaṇātibhakṣaṇa) are accepted with the draft's alternatives; but the compound -vikāra-atikarśanaiḥ also allows a dvandva reading that should be noted."
+ },
+ {
+  "n": "7-2",
+  "field": "word.gram",
+  "word": "dūyate",
+  "old": "3 sg. pres. √du",
+  "new": "3 sg. pres. √dū",
+  "why": "reviewer (minor): dūyate is from √dū (4th class ātm., 'to suffer pain'), not √du."
+ },
+ {
+  "n": "7-2",
+  "field": "hindi",
+  "old": "उष्ण, तीक्ष्ण, कटु, क्षार, लवण, अम्ल भोजन और अजीर्ण में भोजन से तथा अग्नि और धूप के ताप से कुपित पित्त त्वचा, मांस और रक्त को अभिभूत करके शोथ उत्पन्न करता है। वह शीघ्र उठने और शीघ्र शान्त होने वाला होता है; काली, पीली, नीली या ताम्र आभा वाला, उष्ण, मृदु, कपिल या ताम्र वर्ण के रोमों वाला होता है; वह जलता है, पीड़ा देता है, धुआँ-सा उठता प्रतीत होता है, ऊष्मा छोड़ता है, पसीजता है, गीला होता है, और स्पर्श तथा उष्णता को सहन नहीं करता: यह पित्तशोथ है।",
+  "new": "उष्ण, तीक्ष्ण, कटु, क्षार, लवण, अम्ल भोजन और अजीर्ण में भोजन से तथा अग्नि और धूप के ताप से कुपित पित्त त्वचा, मांस और रक्त को अभिभूत करके शोथ उत्पन्न करता है। वह शीघ्र उठने और शीघ्र शान्त होने वाला होता है; काली, पीली, नीली या ताम्र आभा वाला, उष्ण, मृदु, कपिल या ताम्र वर्ण के रोमों वाला होता है; वह जलता है, दुखता है, धुआँ-सा उठता प्रतीत होता है, ऊष्मा छोड़ता है, पसीजता है, गीला होता है, और स्पर्श तथा उष्णता को सहन नहीं करता: यह पित्तशोथ है।",
+  "why": "reviewer (error): dūyate means the swelling smarts/feels pain, not that it gives pain."
+ },
+ {
+  "n": "10",
+  "field": "notes",
+  "old": "snehoṣṇamardanābhyām is dual: read as two means, 'unctuous warmth' (sneha-uṣṇa) and 'massage' (mardana); it could also be 'unctuous and warm massage'.",
+  "new": "snehoṣṇamardanābhyām is dual: read as two means, 'unctuous warmth' (sneha-uṣṇa) and 'massage' (mardana); the dual excludes a single 'unctuous and warm massage'.",
+  "why": "reviewer (minor): The dual -ābhyām requires two means; a single 'unctuous and warm massage' is excluded by the grammar. The draft's main reading (two means) is right."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "The swelling of one afflicted with thirst and fever which smarts, then burns, sweats, becomes moist and is foul-smelling is known as the Pitta swelling (śvayathu).",
+  "new": "The swelling of one afflicted with thirst and fever which smarts, then burns, sweats, becomes moist and has an odour is known as the Pitta swelling (śvayathu).",
+  "why": "reviewer (minor): gandhī means 'having an odour'; 'foul' is added (the draft's own note says so)."
+ },
+ {
+  "n": "11",
+  "field": "word.gloss",
+  "word": "gandhī",
+  "old": "foul-smelling",
+  "new": "having an odour",
+  "why": "reviewer (minor): gandhī means 'having an odour'; 'foul' is added (the draft's own note says so)."
+ },
+ {
+  "n": "11",
+  "field": "notes",
+  "old": "gandhī (having a smell) is rendered 'foul-smelling'; the word itself means 'having an odour'.",
+  "new": "gandhī is rendered literally 'having an odour'.",
+  "why": "reviewer (minor): gandhī means 'having an odour'; 'foul' is added (the draft's own note says so)."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "प्यास और ज्वर से पीड़ित व्यक्ति का जो शोथ पीड़ा देता है, फिर जलता है, पसीजता है, गीला होता है और गन्धयुक्त होता है, वह पैत्त श्वयथु माना गया है।",
+  "new": "प्यास और ज्वर से पीड़ित व्यक्ति का जो शोथ दुखता है, फिर जलता है, पसीजता है, गीला होता है और गन्धयुक्त होता है, वह पैत्त श्वयथु माना गया है।",
+  "why": "reviewer (error): dūyate: the swelling smarts, it does not give pain."
+ },
+ {
+  "n": "11",
+  "field": "word.gram",
+  "word": "dūyate",
+  "old": "3 sg. pres. √du",
+  "new": "3 sg. pres. √dū",
+  "why": "reviewer (minor): root is √dū, not √du."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "जिस शोथ को शस्त्र या कुश से काटने पर उसमें से रक्त न बहे, और कठिनाई से चिपचिपा पिच्छा स्रवित हो, वह भी कफ से उत्पन्न है।",
+  "new": "जिस शोथ को शस्त्र या कुश से काटने पर उसमें से रक्त न बहे, और कठिनाई से चिपचिपी पिच्छा रिसे, वह भी कफ से उत्पन्न है।",
+  "why": "reviewer (minor): picchā is feminine (keep it so in Hindi) and स्रवित हो is stilted for sravati."
+ },
+ {
+  "n": "24",
+  "field": "notes",
+  "old": "piḍakā may be singular or a collective; rendered as the disease name.",
+  "new": "piḍakā may be singular or a collective; rendered as the disease name. tvaci rakte has no 'and' in the text; it may also mean 'in the blood in the skin'.",
+  "why": "reviewer (minor): 'in the skin and blood' supplies an 'and'; the asyndetic pair should be noted."
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "In whom aggravated Pitta settles in the temples, in him a harsh swelling named śaṅkhaka arises.",
+  "new": "In whom aggravated Pitta settles in the temples, in him a dreadful swelling named śaṅkhaka arises.",
+  "why": "reviewer (minor): Glossary 'dāruṇa = harsh' is for a quality in guṇa lists; said of a disease it means dreadful, severe."
+ },
+ {
+  "n": "26",
+  "field": "word.gloss",
+  "word": "dāruṇaḥ",
+  "old": "harsh",
+  "new": "dreadful",
+  "why": "reviewer (minor): Glossary 'dāruṇa = harsh' is for a quality in guṇa lists; said of a disease it means dreadful, severe."
+ }
+]
