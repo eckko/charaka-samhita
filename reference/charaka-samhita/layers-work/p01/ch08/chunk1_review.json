@@ -1,0 +1,574 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "pañca-mahā-bhūta-vikāra-...",
+     "problem": "Glossary has vikāra = disorder; 'modifications' (of the elements) is right here; keep and extend glossary.",
+     "fix": "keep; extend glossary",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "P1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tad-svabhāvāt",
+     "problem": "tat-svabhāva 'its nature' is a tat-puruṣa, not a 'bahuvrīhi abstract'.",
+     "fix": "m. abl. sg. (tat-puruṣa); gloss 'because of its nature'",
+     "severity": "minor",
+     "patch": {
+      "n": "P1",
+      "op": "word",
+      "match_w": "tad-svabhāvāt",
+      "field": "gram",
+      "value": "m. abl. sg. (tat-puruṣa)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "tad-svabhāvāt",
+     "problem": "Follows from the tat-puruṣa.",
+     "fix": "because of its nature",
+     "severity": "minor",
+     "patch": {
+      "n": "P1",
+      "op": "word",
+      "match_w": "tad-svabhāvāt",
+      "field": "gloss",
+      "value": "because of its nature"
+     }
+    },
+    {
+     "field": "english",
+     "where": "because of having that nature",
+     "problem": "Follows from the tat-puruṣa.",
+     "fix": "because of its nature",
+     "severity": "minor",
+     "patch": {
+      "n": "P1",
+      "op": "replace",
+      "field": "english",
+      "old": "because of having that nature",
+      "new": "because of its nature"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "mindfulness (smṛti)",
+     "problem": "Glossary has smṛti = memory; 'keeping to mindfulness' suits sadvṛtta, so keep it and add a glossary entry (see summary), or change to 'memory'.",
+     "fix": "keep; extend glossary",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "excretory passages",
+     "problem": "Glossary: malāyana = channel of waste.",
+     "fix": "frequently keep the channels of waste (malāyana) and the feet clean",
+     "severity": "error",
+     "patch": {
+      "n": "18",
+      "op": "replace",
+      "field": "english",
+      "old": "frequently keep the excretory passages and the feet clean",
+      "new": "frequently keep the channels of waste (malāyana) and the feet clean"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "mala-ayaneṣu",
+     "problem": "Glossary: malāyana = channel of waste.",
+     "fix": "in the channels of waste",
+     "severity": "error",
+     "patch": {
+      "n": "18",
+      "op": "word",
+      "match_w": "mala-ayaneṣu",
+      "field": "gloss",
+      "value": "in the channels of waste"
+     }
+    },
+    {
+     "field": "english",
+     "where": "perform ablution (upasparśa)",
+     "problem": "The bracket gives a noun (upasparśa) that is not printed; the text has the verb upaspṛśet.",
+     "fix": "perform ablution at the two times",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "replace",
+      "field": "english",
+      "old": "perform ablution (upasparśa) at the two times",
+      "new": "perform ablution at the two times"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "apasavyam: (sava = left)",
+     "problem": "Wrong etymology: 'left' is savya, not sava.",
+     "fix": "(savya = left)",
+     "severity": "error",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "notes",
+      "old": "(sava = left)",
+      "new": "(savya = left)"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "jala-ugra-vegam",
+     "problem": "Head member vega is masculine; 'n. acc. sg. (bahuvrīhi-like)' is wrong for the natural tat-puruṣa 'fierce current of water'.",
+     "fix": "m. acc. sg. (tat-puruṣa); gloss 'the fierce current of water'",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "word",
+      "match_w": "jala-ugra-vegam",
+      "field": "gram",
+      "value": "m. acc. sg. (tat-puruṣa)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "jala-ugra-vegam",
+     "problem": "Gloss should match the tat-puruṣa.",
+     "fix": "the fierce current of water",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "word",
+      "match_w": "jala-ugra-vegam",
+      "field": "gloss",
+      "value": "the fierce current of water"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "baked foods (bhakṣya)",
+     "problem": "bhakṣya means 'eatables, food to be chewed'; 'baked' is an added interpretation.",
+     "fix": "eatables (bhakṣya)",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "english",
+      "old": "baked foods (bhakṣya)",
+      "new": "eatables (bhakṣya)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "māṃsa-haritaka-śuṣka-śāka-phala-bhakṣyebhyaḥ",
+     "problem": "'baked foods' is interpretive.",
+     "fix": "meat, greens, dried vegetables, fruits and eatables",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "word",
+      "match_w": "māṃsa-haritaka-śuṣka-śāka-phala-bhakṣyebhyaḥ",
+      "field": "gloss",
+      "value": "meat, greens, dried vegetables, fruits and eatables"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "confidence",
+     "where": "maṅgalākriyāsu",
+     "problem": "The unit carries a 'possible typo' emendation read firmly in words; 'high' overstates.",
+     "fix": "medium",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "set",
+      "field": "confidence",
+      "value": "medium"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "may also be divided",
+     "problem": "The note says the three-item division is an alternative, but the gloss and translation already use it.",
+     "fix": "is divided",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "notes",
+      "old": "may also be divided",
+      "new": "is divided"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "usually taken as an eclipse (probable)",
+     "problem": "Rests on later interpretation/memory not shown in the input (glossary: no unsourced 'commentators say' notes). Remove.",
+     "fix": "the line does not say more.",
+     "severity": "error",
+     "patch": {
+      "n": "24",
+      "op": "set",
+      "field": "notes",
+      "value": "Prose, not a verse. abhyuditāsu dikṣu: \"when the quarters are lit up (abhyudita)\"; the cause is not stated. mahāgrahopagamana: literally \"approach of a great planet\"; the line does not say more. nātyuccarinātinīcaiḥ is read as nātyuccair nātinīcaiḥ (see text_flags). avapatitam: \"with (syllables) dropped\"."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "ati-uccaiḥ / ati-nīcaiḥ",
+     "problem": "These agree with svaraiḥ ('with too high, too low tones'), as the English takes them; labelled 'ind.'.",
+     "fix": "m. inst. pl. (agreeing with svaraiḥ)",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "word",
+      "match_w": "ati-uccaiḥ",
+      "field": "gram",
+      "value": "m. inst. pl. (agreeing with svaraiḥ)"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "ati-nīcaiḥ",
+     "problem": "As above.",
+     "fix": "m. inst. pl. (agreeing with svaraiḥ)",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "word",
+      "match_w": "ati-nīcaiḥ",
+      "field": "gram",
+      "value": "m. inst. pl. (agreeing with svaraiḥ)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "nātisamayaṃ",
+     "problem": "ati is split off as a free word; as printed it is the prefix of one word atisamaya (sense unclear, as the notes say). Rework the split by hand.",
+     "fix": "na + ati-samayam {agreement (samaya; force of ati unclear) | m. acc. sg.}",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Not being impure, one should offer",
+     "problem": "na + optative is a prohibition, rendered as such in the identical construction of unit 23 (nāśucir ... abhinirvartayet); 'Not being impure' takes na with aśuciḥ against the pattern.",
+     "fix": "One should not, while impure, offer oblations",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "english",
+      "old": "Not being impure, one should offer oblations",
+      "new": "One should not, while impure, offer oblations"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अशुचि न होकर ... होम करे",
+     "problem": "Same as English.",
+     "fix": "अशुचि होकर ... होम न करे",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अशुचि न होकर, उत्तम आज्य, अक्षत, तिल, कुश और सर्षपों से अग्नि में होम करे,",
+      "new": "अशुचि होकर उत्तम आज्य, अक्षत, तिल, कुश और सर्षपों से अग्नि में होम न करे,"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "āpo hi ṣṭhā: the opening words of a mantra",
+     "problem": "Rests on memory of a Vedic mantra not shown in the input. Remove the claim.",
+     "fix": "āpo hi ṣṭhā: a formula quoted with iti; the line quotes no more of it.",
+     "severity": "error",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "notes",
+      "old": "āpo hi ṣṭhā: the opening words of a mantra, quoted with iti.",
+      "new": "āpo hi ṣṭhā: a formula quoted with iti; the line quotes no more of it."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "nāśuciḥ ... taken as \"not being impure\"",
+     "problem": "Update to match the prohibitive reading.",
+     "fix": "nāśuciḥ: na + aśuciḥ with the optative, a prohibition (\"one should not, while impure, offer ...\"), as in 8.23; the rite itself is prescribed for one who is pure.",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "notes",
+      "old": "nāśuciḥ: na + aśuciḥ, taken as \"not being impure\"; it could also be read as a prohibition (\"one should not, while impure, offer ...\"), but the blessings that follow show a prescribed rite.",
+      "new": "nāśuciḥ: na + aśuciḥ with the optative, a prohibition (\"one should not, while impure, offer ...\"), as in 8.23; the rite itself is prescribed for one who is pure."
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "equanimity",
+     "problem": "Glossary has upekṣā = disregard (from the physician's four attitudes); here, among virtues with maitrī and kāruṇya, 'equanimity' fits but the Sanskrit should be shown and the glossary extended (see summary).",
+     "fix": "equanimity (upekṣā)",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "replace",
+      "field": "english",
+      "old": "equanimity and tranquillity",
+      "new": "equanimity (upekṣā) and tranquillity"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the four causes",
+     "problem": "Glossary: catuṣṭaya = set of four.",
+     "fix": "the set of four causes",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "english",
+      "old": "the four causes",
+      "new": "the set of four causes"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "hetu-catuṣṭayam",
+     "problem": "Glossary: catuṣṭaya = set of four.",
+     "fix": "the set of four causes",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "word",
+      "match_w": "hetu-catuṣṭayam",
+      "field": "gloss",
+      "value": "the set of four causes"
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "in the Ślokasthāna",
+     "problem": "Glossary: Ślokasthāna = Śloka section (Ślokasthāna).",
+     "fix": "in the Śloka section (Ślokasthāna) of the treatise",
+     "severity": "minor",
+     "patch": {
+      "n": "P5",
+      "op": "replace",
+      "field": "english",
+      "old": "in the Ślokasthāna of the treatise",
+      "new": "in the Śloka section (Ślokasthāna) of the treatise"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P6",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "5 errors, 22 minor across 14 of 40 units. All 16 text_flags checked and upheld: each rests on grammar or on evidence inside the chunk (sattvasaṃjñakaḥ, bavanti, manortho, sātmaya, upadekṣayāmo, upasprśet, dargeṣu, mahotsāḥ, kulacchāyām, nocchair, mṛdgīyāt, catyuṣpatha, sarpibhyaḥ, udakāntaritāt, maṅgalākriyāsu, nātyuccari); none relies on another edition or memory. Errors: malāyana not rendered per glossary (18, english+gloss); wrong etymology sava for savya (19 notes); two notes resting on outside knowledge to remove (24 'usually taken as an eclipse', 28 'opening words of a mantra'). No regrouping suggested. Glossary additions proposed: upekṣā among virtues = equanimity (upekṣā); smṛti in sadvṛtta = mindfulness (smṛti); vikāra of the elements = modification; kriyā (activity of a substance) = activity (kriyā); śleṣman as bodily discharge = phlegm (श्लेष्मा); upacāra of persons = behaviour/manners; vāyu/agni/soma/arka as objects one faces = wind/fire/moon/sun; Agni, Vāyu, Viṣṇu, Indra named as deities in mantras = names; malāyana = channels of waste (already, apply); pañcapañcaka = the five pentads; sadvṛtta lists: hetau īrṣyuḥ = emulous in the means."
+}
