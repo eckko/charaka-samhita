@@ -1,0 +1,175 @@
+[
+ {
+  "n": "10",
+  "field": "english",
+  "old": "Among these, the disorders are common (sāmānyaja, 'arising in common') and specific (nānātmaja, 'arising from distinct selves').",
+  "new": "Among these, the disorders are common (sāmānyaja, 'arising in common') and specific (nānātmaja, 'arising from separate natures').",
+  "why": "reviewer (minor): nānātman here is 'of separate nature' (each doṣa by itself, as P2/P3/14/17 show); 'distinct selves' is an odd and misleading rendering of ātman."
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "nānā-ātma-jāḥ",
+  "old": "arising from distinct selves (nānātmaja)",
+  "new": "arising from separate natures (nānātmaja)",
+  "why": "reviewer (minor): nānātman here is 'of separate nature' (each doṣa by itself, as P2/P3/14/17 show); 'distinct selves' is an odd and misleading rendering of ātman."
+ },
+ {
+  "n": "P3",
+  "field": "text_flags.1.suggest",
+  "old": "vakṣodgharṣaśca,",
+  "new": "vakṣa-udgharṣaśca, (written with hiatus)",
+  "why": "reviewer (minor): The flag's reasoning uses a non-existent a-stem 'vakṣa'; the stem is vakṣas (cf. vakṣastodaśca in the same list). vakṣas + udgharṣa regularly gives vakṣa-udgharṣa (hiatus after loss of s); vakṣodgharṣa is not the regular result. The flag itself (irregular -au-) stands as 'possible'."
+ },
+ {
+  "n": "P3",
+  "field": "text_flags.1.why",
+  "old": "possible: vakṣa + udgharṣa should give vakṣodgharṣa by regular sandhi; -au- is irregular",
+  "new": "possible: the stem is vakṣas (cf. vakṣastodaśca in this list); vakṣas + udgharṣa regularly gives vakṣa-udgharṣa (hiatus after loss of s); the printed -au- fits no sandhi rule",
+  "why": "reviewer (minor): The flag's reasoning uses a non-existent a-stem 'vakṣa'; the stem is vakṣas (cf. vakṣastodaśca in the same list). vakṣas + udgharṣa regularly gives vakṣa-udgharṣa (hiatus after loss of s); vakṣodgharṣa is not the regular result. The flag itself (irregular -au-) stands as 'possible'."
+ },
+ {
+  "n": "P3",
+  "field": "text_flags.2.suggest",
+  "old": "vakṣoparodhaśca,",
+  "new": "vakṣa-uparodhaśca, (written with hiatus)",
+  "why": "reviewer (minor): Same faulty reasoning as the previous flag (a-stem vakṣa assumed)."
+ },
+ {
+  "n": "P3",
+  "field": "text_flags.2.why",
+  "old": "possible: vakṣa + uparodha should give vakṣoparodha by regular sandhi; -au- is irregular",
+  "new": "possible: the stem is vakṣas (cf. vakṣastodaśca in this list); vakṣas + uparodha regularly gives vakṣa-uparodha (hiatus after loss of s); the printed -au- fits no sandhi rule",
+  "why": "reviewer (minor): Same faulty reasoning as the previous flag (a-stem vakṣa assumed)."
+ },
+ {
+  "n": "P3",
+  "field": "english",
+  "old": "Namely: splitting of the nails, vipādikā, pain in the feet, slipping of the feet, numbness of the feet, vātakhuḍḍatā, stiffness of the ankles, cramping of the calves, gṛdhrasī, splitting pain in the knees, loosening of the knees, stiffness of the thighs, weakness of the thighs, lameness, falling of the anus, pain in the anus, jerking of the testicles, stiffness of the penis, distension (ānāha) in the groins, splitting pain in the hips, breaking up of the stool, udāvarta, limping, being hunchbacked, being dwarfed, stiffness of the trika, stiffness of the back, crushing pain in the sides, griping of the belly, stupor of the heart, racing of the heart, grating pain in the chest, constriction of the chest, pricking pain in the chest, wasting of the arms, stiffness of the neck, manyāstambha, impairment of the throat, splitting pain in the jaw, splitting of the lips, splitting pain in the eyes, splitting pain in the teeth, looseness of the teeth, dumbness, obstruction of speech, an astringent taste in the mouth, dryness of the mouth, inability to perceive taste, loss of smell, pain in the ear, hearing sounds that are not there, hearing only what is loud, deafness, stiffness of the eyelids, contraction of the eyelids, timira, pain in the eyes, distortion of the eyes, distortion of the eyebrows, splitting pain in the temples, splitting pain in the forehead, headache, cracking of the scalp, ardita, disease of one limb, disease of all the limbs, pakṣavadha (stroke of one side), ākṣepaka (convulsion), daṇḍaka (stick-like rigidity), darkness (tamas), giddiness, trembling, yawning, hiccup, dejection, excessive prattle, dryness, harshness, a dusky and reddish appearance, sleeplessness and unsteadiness of mind. Thus the eighty Vāta disorders, the most evident among the innumerable Vāta disorders, have been expounded.",
+  "new": "Namely: splitting of the nails, vipādikā, pain in the feet, slipping of the feet, numbness of the feet, vātakhuḍḍatā, stiffness of the ankles, cramping of the calves, gṛdhrasī, splitting pain in the knees, loosening of the knees, stiffness of the thighs, weakness of the thighs, lameness, falling of the anus, pain in the anus, jerking of the testicles, stiffness of the penis, distension (ānāha) in the groins, splitting pain in the hips, breaking up of the stool, udāvarta, limping, being hunchbacked, being dwarfed, stiffness of the trika, stiffness of the back, crushing pain in the sides, griping of the belly, stupor of the heart, racing of the heart, grating pain in the chest, constriction of the chest, pricking pain in the chest, wasting of the arms, stiffness of the neck, manyāstambha, impairment of the throat, splitting pain in the jaw, splitting of the lips, splitting pain in the eyes, splitting pain in the teeth, looseness of the teeth, dumbness, obstruction of speech, an astringent taste in the mouth, dryness of the mouth, inability to perceive taste, loss of smell, pain in the ear, hearing sounds that are not there, hearing only what is loud, deafness, stiffness of the eyelids, contraction of the eyelids, timira, pain in the eyes, distortion of the eyes, distortion of the eyebrows, splitting pain in the temples, splitting pain in the forehead, headache, cracking of the scalp, ardita, disease of one limb, disease of all the limbs, pakṣavadha (striking down of one side), ākṣepaka (convulsion), daṇḍaka (stick-like rigidity), darkness (tamas), giddiness, trembling, yawning, hiccup, dejection, excessive prattle, dryness, harshness, a dusky and reddish appearance, sleeplessness and unsteadiness of mind. Thus the eighty Vāta disorders, the most evident among the innumerable Vāta disorders, have been expounded.",
+  "why": "reviewer (minor): 'stroke' reads as a modern disease identification (POLICY); vadha is literally 'striking, destruction'."
+ },
+ {
+  "n": "P3",
+  "field": "word.gloss",
+  "word": "pakṣa-vadhaḥ",
+  "old": "stroke of one side (pakṣavadha)",
+  "new": "striking down of one side (pakṣavadha)",
+  "why": "reviewer (minor): 'stroke' reads as a modern disease identification (POLICY); vadha is literally 'striking, destruction'."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "इन सभी कहे गए वात-विकारों में और अन्य न कहे गए विकारों में वायु का यह अपरिणामी आत्मरूप है और कर्म का यह स्वलक्षण है, जिसे या जिसके किसी अवयव को देखकर कुशल वैद्य सन्देह से मुक्त होकर उसे वात-विकार ही निश्चित करते हैं। जैसे: रूक्षता, शीतता, लघुता, विशदता, गति, अमूर्तता और अस्थिरता, ये वायु के आत्मरूप हैं। और ऐसा होने के कारण, शरीर के उस-उस अवयव में प्रवेश करते हुए वायु के कर्म का यह स्वलक्षण होता है। जैसे: स्रंस, भ्रंश, फैलना, रुकावट, भेद, शिथिलता, सिहरन, प्यास, कम्प, ऐंठन, चलना, चुभन, पीड़ा, चेष्टा आदि; तथा खरता, परुषता, विशदता, सुषिरता, अरुण वर्ण, मुख का कषाय और विरस होना, सूखना, शूल, सुन्नता, सिकुड़ना, जकड़ना, लँगड़ाना आदि वायु के कर्म हैं। इनसे युक्त विकार को वात-विकार ही निश्चित करना चाहिए।",
+  "new": "इन सभी कहे गए वात-विकारों में और अन्य न कहे गए विकारों में वायु का यह अपरिणामी आत्मरूप है और कर्म का यह स्वलक्षण है, जिसे या जिसके किसी अवयव को देखकर कुशल जन सन्देह से मुक्त होकर उसे वात-विकार ही निश्चित करते हैं। जैसे: रूक्षता, शीतता, लघुता, विशदता, गति, अमूर्तता और अस्थिरता, ये वायु के आत्मरूप हैं। और ऐसा होने के कारण, शरीर के उस-उस अवयव में प्रवेश करते हुए वायु के कर्म का यह स्वलक्षण होता है। जैसे: स्रंस, भ्रंश, फैलना, रुकावट, भेद, शिथिलता, सिहरन, प्यास, कम्प, ऐंठन, चलना, चुभन, पीड़ा, चेष्टा आदि; तथा खरता, परुषता, विशदता, सुषिरता, अरुण वर्ण, मुख का कषाय और विरस होना, सूखना, शूल, सुन्नता, सिकुड़ना, जकड़ना, लँगड़ाना आदि वायु के कर्म हैं। इनसे युक्त विकार को वात-विकार ही निश्चित करना चाहिए।",
+  "why": "reviewer (minor): Hindi adds वैद्य; the Sanskrit has only kuśalāḥ 'the skilled'."
+ },
+ {
+  "n": "14",
+  "field": "word.gloss",
+  "word": "jīva-ādānam",
+  "old": "jīvādāna (loss of the life-fluid)",
+  "new": "jīvādāna (taking away of the life, jīva)",
+  "why": "reviewer (minor): The gloss 'loss of the life-fluid' is the interpretation the unit's own note says is avoided; keep a literal gloss."
+ },
+ {
+  "n": "14",
+  "field": "notes",
+  "old": "VARIANTS: the text prints two bracketed items, (aṅgasvedaśca) after atisvedaśca and (māṃsadāhaśca) after tvagdāhaśca, and kakṣā(kṣyā) with an alternative spelling kakṣyā; these look like the edition's alternative readings. They are split as printed but left out of the count and the translation; without them the list has exactly forty items. Kept in Sanskrit with literal glosses: oṣa, ploṣa, dāha, davathu, dhūmaka, amlaka and vidāha are near-synonyms for kinds of heat and burning and are not distinguished in the chunk. Kept Sanskrit without identification (glossary): raktapitta, nīlikā, kakṣā, kāmalā, koṭha. pāka is rendered 'inflammation (pāka)'; its literal sense is 'ripening, cooking'. jīvādāna is literally 'taking away of the life (jīva)'; 'loss of the life-fluid' is an interpretation of jīva, so the term is kept. tamaḥpraveśa is literal ('entering darkness').",
+  "new": "VARIANTS: the text prints two bracketed items, (aṅgasvedaśca) after atisvedaśca and (māṃsadāhaśca) after tvagdāhaśca, and kakṣā(kṣyā) with an alternative spelling kakṣyā; these look like the edition's alternative readings. They are split as printed but left out of the count and the translation; without them the list has exactly forty items. Kept in Sanskrit with literal glosses: oṣa, ploṣa, dāha, davathu, dhūmaka, amlaka and vidāha are near-synonyms for kinds of heat and burning and are not distinguished in the chunk. Kept Sanskrit without identification (glossary): raktapitta, nīlikā, kakṣā, kāmalā, koṭha. pāka is rendered 'inflammation (pāka)'; its literal sense is 'ripening, cooking'. jīvādāna is literally 'taking away of the life (jīva)'; 'loss of the life-fluid' is an interpretation of jīva, so the term is kept. tamaḥpraveśa is literal ('entering darkness'). In āsyavipāka the member vipāka has the sense of pāka (inflammation), not the post-digestive vipāka.",
+  "why": "reviewer (minor): The bracket '(pāka)' sits on a word that is vi-pāka; a reader may confuse it with vipāka (post-digestive effect)."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "इन सभी कहे गए पित्त-विकारों में और अन्य न कहे गए विकारों में पित्त का यह अपरिणामी आत्मरूप है और कर्म का यह स्वलक्षण है, जिसे या जिसके किसी अवयव को देखकर कुशल वैद्य सन्देह से मुक्त होकर उसे पित्त-विकार ही निश्चित करते हैं। जैसे: उष्णता, तीक्ष्णता, द्रवता, अधिक स्निग्ध न होना, श्वेत और अरुण को छोड़कर वर्ण, विस्र गन्ध, कटु और अम्ल दो रस, और सरता, ये पित्त के आत्मरूप हैं। और ऐसा होने के कारण, शरीर के उस-उस अवयव में प्रवेश करते हुए पित्त के कर्म का यह स्वलक्षण होता है। जैसे: दाह, उष्णता, पाक, स्वेद, क्लेद, कोथ, खुजली, स्राव, लालिमा और अपने-अपने अनुसार गन्ध, वर्ण और रस को उत्पन्न करना पित्त के कर्म हैं। इनसे युक्त विकार को पित्त-विकार ही निश्चित करना चाहिए।",
+  "new": "इन सभी कहे गए पित्त-विकारों में और अन्य न कहे गए विकारों में पित्त का यह अपरिणामी आत्मरूप है और कर्म का यह स्वलक्षण है, जिसे या जिसके किसी अवयव को देखकर कुशल जन सन्देह से मुक्त होकर उसे पित्त-विकार ही निश्चित करते हैं। जैसे: उष्णता, तीक्ष्णता, द्रवता, अधिक स्निग्ध न होना, श्वेत और अरुण को छोड़कर वर्ण, विस्र गन्ध, कटु और अम्ल दो रस, और सरता, ये पित्त के आत्मरूप हैं। और ऐसा होने के कारण, शरीर के उस-उस अवयव में प्रवेश करते हुए पित्त के कर्म का यह स्वलक्षण होता है। जैसे: दाह, उष्णता, पाक, स्वेद, क्लेद, कोथ, खुजली, स्राव, लालिमा और अपने-अपने अनुसार गन्ध, वर्ण और रस को उत्पन्न करना पित्त के कर्म हैं। इनसे युक्त विकार को पित्त-विकार ही निश्चित करना चाहिए।",
+  "why": "reviewer (minor): Hindi adds वैद्य; the Sanskrit has only kuśalāḥ 'the skilled'."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "इन सभी कहे गए श्लेष्मा-विकारों में और अन्य न कहे गए विकारों में श्लेष्मा का यह अपरिणामी आत्मरूप है और कर्म का यह स्वलक्षण है, जिसे या जिसके किसी अवयव को देखकर कुशल वैद्य सन्देह से मुक्त होकर उसे श्लेष्मा-विकार ही निश्चित करते हैं। जैसे: स्नेह, शीतता, शुक्लता, गुरुता, मधुरता, स्थिरता, पिच्छिलता और मार्त्स्न्य, ये श्लेष्मा के आत्मरूप हैं। और ऐसा होने के कारण, शरीर के उस-उस अवयव में प्रवेश करते हुए श्लेष्मा के कर्म का यह स्वलक्षण होता है। जैसे: श्वेतता, शीतता, खुजली, स्थिरता, गुरुता, स्नेह, सुन्नता, क्लेद, उपदेह, बन्ध, मधुरता और देर से कार्य करना श्लेष्मा के कर्म हैं। इनसे युक्त विकार को श्लेष्मा-विकार ही निश्चित करना चाहिए।",
+  "new": "इन सभी कहे गए श्लेष्मा-विकारों में और अन्य न कहे गए विकारों में श्लेष्मा का यह अपरिणामी आत्मरूप है और कर्म का यह स्वलक्षण है, जिसे या जिसके किसी अवयव को देखकर कुशल जन सन्देह से मुक्त होकर उसे श्लेष्मा-विकार ही निश्चित करते हैं। जैसे: स्नेह, शीतता, शुक्लता, गुरुता, मधुरता, स्थिरता, पिच्छिलता और मार्त्स्न्य, ये श्लेष्मा के आत्मरूप हैं। और ऐसा होने के कारण, शरीर के उस-उस अवयव में प्रवेश करते हुए श्लेष्मा के कर्म का यह स्वलक्षण होता है। जैसे: श्वेतता, शीतता, खुजली, स्थिरता, गुरुता, स्नेह, सुन्नता, क्लेद, उपदेह, बन्ध, मधुरता और देर से कार्य करना श्लेष्मा के कर्म हैं। इनसे युक्त विकार को श्लेष्मा-विकार ही निश्चित करना चाहिए।",
+  "why": "reviewer (minor): Hindi adds वैद्य; the Sanskrit has only kuśalāḥ 'the skilled'."
+ },
+ {
+  "n": "18",
+  "field": "notes",
+  "old": "mārtsnya (from mṛtsnā, fine clay) is rendered 'smoothness'; the exact nuance is uncertain. bandha 'binding' is kept literal. The Devanagari line should be checked for the same typos as the IAST (sht, ṃ, mādhuraya, karmāṇiḥ).",
+  "new": "mārtsnya (from mṛtsnā, fine clay) is rendered 'smoothness'; the exact nuance is uncertain. bandha 'binding' is kept literal. The Devanagari line has the same typos (स्ह्तैर्य, कर्ंअणः, माधुरय, कर्माणिः).",
+  "why": "reviewer (minor): The reviewer checked: lines_deva has the same typos, so the open request can be closed."
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "And here there are: The physician should first examine the disease, right after that the medicine, and then, afterwards, carry out the treatment, guided by knowledge.",
+  "new": "And here there are: The physician should first examine the disease, right after that the medicine, and then, afterwards, carry out the action (karma), guided by knowledge.",
+  "why": "reviewer (minor): Fixed rendering karma = action (LAYER_NOTES 6); 'treatment' is an interpretation."
+ },
+ {
+  "n": "20",
+  "field": "word.gloss",
+  "word": "karma",
+  "old": "the treatment",
+  "new": "the action (karma)",
+  "why": "reviewer (minor): Fixed rendering karma = action (LAYER_NOTES 6); 'treatment' is an interpretation."
+ },
+ {
+  "n": "20",
+  "field": "notes",
+  "old": "bhavanti cātra = 'And here there are:' (glossary). parīkṣeta is supplied again with auṣadham. karma (action) is rendered 'treatment' since the physician carries it out; 'action' is the literal sense.",
+  "new": "bhavanti cātra = 'And here there are:' (glossary). parīkṣeta is supplied again with auṣadham. karma is rendered 'action' (fixed rendering); here it is the physician's treatment.",
+  "why": "reviewer (minor): Fixed rendering karma = action (LAYER_NOTES 6); 'treatment' is an interpretation."
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "But the physician who begins treatments without knowing the disease, even if he knows the rules of medicines, his success is by chance.",
+  "new": "But the physician who begins actions (karma) without knowing the disease, even if he knows the rules of medicines, his success is by chance.",
+  "why": "reviewer (minor): Fixed rendering karma = action."
+ },
+ {
+  "n": "21",
+  "field": "word.gloss",
+  "word": "karmāṇi",
+  "old": "treatments",
+  "new": "actions (karma)",
+  "why": "reviewer (minor): Fixed rendering karma = action."
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "किन्तु जो चिकित्सक रोग को जाने बिना कर्म आरम्भ करता है, वह औषधों के विधान को जानने वाला होने पर भी, उसकी सिद्धि संयोग से होती है।",
+  "new": "किन्तु जो चिकित्सक रोग को जाने बिना कर्म आरम्भ करता है, औषधों के विधान को जानने वाला होने पर भी उसकी सिद्धि संयोग से होती है।",
+  "why": "reviewer (minor): Hindi has a dangling वह ... उसकी (two subjects); smoother without वह."
+ },
+ {
+  "n": "23",
+  "field": "notes",
+  "old": "GROUPING: units 23 (from line 2), 24 and 25 are one sentence (the chapter summary); saṃprakāśitaḥ (sg.) and nirdiṣṭāḥ (unit 25) govern the list. tatra ślokāḥ = 'Here, the verses:' (glossary). The list points to units 3 (summary, origin, seat), 4 (gateways), 5 (impelling cause, preraṇa = īraṇa) and 6 (no confusion, binding).",
+  "new": "SENTENCE (no regrouping needed): units 23 (from line 2), 24 and 25 are one sentence (the chapter summary); saṃprakāśitaḥ (sg.) and nirdiṣṭāḥ (unit 25) govern the list. tatra ślokāḥ = 'Here, the verses:' (glossary). The list points to units 3 (summary, origin, seat), 4 (gateways), 5 (impelling cause, preraṇa = īraṇa) and 6 (no confusion, binding).",
+  "why": "reviewer (minor): The edition's verse grouping is correct (three numbered verses); the note only says the sentence runs on. The 'GROUPING:' keyword signals a regrouping request and should not be used."
+ },
+ {
+  "n": "24",
+  "field": "notes",
+  "old": "Continues the sentence of unit 23 (GROUPING: see unit 23). apariṇāmi may qualify both rūpam and karma (cf. units 12, 15, 18, where the own form is called apariṇāmi); by grammar it is attached to karma ... yat here.",
+  "new": "Continues the sentence of unit 23 (see unit 23). apariṇāmi may qualify both rūpam and karma (cf. units 12, 15, 18, where the own form is called apariṇāmi); by grammar it is attached to karma ... yat here.",
+  "why": "reviewer (minor): Not a grouping error; see unit 23."
+ },
+ {
+  "n": "25",
+  "field": "notes",
+  "old": "Ends the sentence of units 23-24 (GROUPING: see unit 23). mahati rogāṇām adhyāye ('in the chapter of the great diseases') names this chapter (Mahāroga, unit 1) with its words separated for the metre. tattvadarśin is not named.",
+  "new": "Ends the sentence of units 23-24 (see unit 23). mahati rogāṇām adhyāye ('in the chapter of the great diseases') names this chapter (Mahāroga, unit 1) with its words separated for the metre. tattvadarśin is not named.",
+  "why": "reviewer (minor): Not a grouping error; see unit 23."
+ },
+ {
+  "n": "25",
+  "field": "notes",
+  "old": "Ends the sentence of units 23-24 (see unit 23). mahati rogāṇām adhyāye ('in the chapter of the great diseases') names this chapter (Mahāroga, unit 1) with its words separated for the metre. tattvadarśin is not named.",
+  "new": "Ends the sentence of units 23-24 (see unit 23). mahati rogāṇām adhyāye ('in the chapter of the great diseases') names this chapter (Mahāroga, unit 1) with its words separated for the metre. tattvadarśin is not named. Literally 'in the great chapter of the diseases' (mahati agrees with adhyāye).",
+  "why": "reviewer (minor): By grammar mahati agrees with adhyāye ('in the great chapter of diseases'); the English reads it as the chapter name. Acceptable given units 1 and P4, but the literal sense should be stated."
+ }
+]
