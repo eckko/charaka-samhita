@@ -1,0 +1,298 @@
+{
+ "units": [
+  {
+   "n": "75",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "76",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "77",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "78",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "hanvoḥ",
+     "problem": "hanu is chiefly feminine (also m.); 'm.' alone is too narrow",
+     "fix": "f./m. gen. du.",
+     "severity": "minor",
+     "patch": {
+      "n": "78",
+      "op": "word",
+      "match_w": "hanvoḥ",
+      "field": "gram",
+      "value": "f./m. gen. du."
+     }
+    }
+   ]
+  },
+  {
+   "n": "79",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "80",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "न अम्ल से वे हर्षित होते हैं",
+     "problem": "हर्षित in modern Hindi means 'delighted'; it gives the opposite impression of dantaharṣa (teeth set on edge, tingling sensitivity)",
+     "fix": "न अम्ल से उनमें सिहरन होती है",
+     "severity": "error",
+     "patch": {
+      "n": "80",
+      "op": "replace",
+      "field": "hindi",
+      "old": "न अम्ल से वे हर्षित होते हैं",
+      "new": "न अम्ल से उनमें सिहरन होती है"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "Hindi uses हर्षित in this technical sense",
+     "problem": "note defends the misleading Hindi word",
+     "fix": "Hindi renders it as सिहरन (tingling).",
+     "severity": "minor",
+     "patch": {
+      "n": "80",
+      "op": "replace",
+      "field": "notes",
+      "old": "Hindi uses हर्षित in this technical sense",
+      "new": "Hindi renders it as सिहरन (tingling)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "81",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "82",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "83",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "84",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "85",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "86",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "87",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "śīlayet",
+     "problem": "śīlayati is a class-10 verb, not a causative",
+     "fix": "3 sg. opt. √śīl (cl. 10)",
+     "severity": "minor",
+     "patch": {
+      "n": "87",
+      "op": "word",
+      "match_w": "śīlayet",
+      "field": "gram",
+      "value": "3 sg. opt. √śīl (cl. 10)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "88",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "89",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "90",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "91",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "92",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "93",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "94",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "productive of ojas",
+     "problem": "first use of ojas in the chunk has no gloss (brief: technical term glossed on first use)",
+     "fix": "supremely productive of ojas (vital essence).",
+     "severity": "minor",
+     "patch": {
+      "n": "94",
+      "op": "replace",
+      "field": "english",
+      "old": "supremely productive of ojas.",
+      "new": "supremely productive of ojas (vital essence)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "95",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "96",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "is aphrodisiac, fragrance, ... is cheerfulness",
+     "problem": "abstract-noun predicates rendered as bare nouns make ungrammatical English; the sense (yields fragrance/cheerfulness) is already stated in notes",
+     "fix": "The use of perfumes and garlands is aphrodisiac, yields fragrance, promotes life, is pleasing, gives nourishment and strength, yields cheerfulness, and destroys misfortune (alakṣmī).",
+     "severity": "minor",
+     "patch": {
+      "n": "96",
+      "op": "set",
+      "field": "english",
+      "value": "The use of perfumes and garlands is aphrodisiac, yields fragrance, promotes life, is pleasing, gives nourishment and strength, yields cheerfulness, and destroys misfortune (alakṣmī)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "97",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "98",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "99",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "100",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "101",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "102",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "103",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जैसे नगरी नगर के प्रति",
+     "problem": "Sanskrit nagarī (nom. of nagarin, m.) = lord of the city; Hindi नगरी means 'city' (f.), so the Hindi says 'as a city toward the city'",
+     "fix": "जैसे नगर का स्वामी नगर के प्रति",
+     "severity": "error",
+     "patch": {
+      "n": "103",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जैसे नगरी नगर के प्रति",
+      "new": "जैसे नगर का स्वामी नगर के प्रति"
+     }
+    }
+   ]
+  },
+  {
+   "n": "104",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "105",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "106",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "107",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "108",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "109",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "110",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "111",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P3",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "38 units reviewed. 2 errors (Hindi: 80 हर्षित for teeth set on edge; 103 नगरी read as 'city' for nagarin 'city-lord'), 5 minor (gram 78 hanvoḥ gender, 87 śīlayet not causative; English 94 ojas unglossed, 96 bare-noun predicates; note 80). Text flags checked and agreed: 84 vādhiryaṃ>bādhiryaṃ, 89 aṅga>abhyaṅga (metre 15>16), 90 viṣevaṇāt>niṣevaṇāt, 96 āyuṣayaṃ>āyuṣyaṃ and ghraṃ>ghnaṃ, 100 spraśana>sparśana, 105 possible missing ca (15 syllables, confirmed), 108 yadyaṅguṇaṃ>yadyadguṇaṃ (द्ग misread as ङ्ग). No regrouping needed; 77 (three lines) and the running sentences 75-77, 78-80, 85-86, 105-111 are correctly handled. Draft is an unreviewed AI draft; this review is AI too."
+}

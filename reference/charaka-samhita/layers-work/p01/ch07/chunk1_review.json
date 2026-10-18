@@ -1,0 +1,380 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "cikitsā-artham",
+     "problem": "Labelled 'ind.'; artham here is n. acc. sg. used adverbially at the end of a tat-puruṣa, not an indeclinable.",
+     "fix": "n. acc. sg. (adverbial), tat-puruṣa",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "cikitsā-artham",
+      "field": "gram",
+      "value": "n. acc. sg. (adverbial), tat-puruṣa"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "many printed texts read śiroruk ca here",
+     "problem": "Invented variant: no witness is cited and the draft has no access to other editions; the brief forbids variants not in the input.",
+     "fix": "Delete the sentence about śiroruk ca.",
+     "severity": "error",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "notes",
+      "old": "; many printed texts read śiroruk ca here, same sense",
+      "new": ""
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "(Caraka defines it elsewhere)",
+     "problem": "Unsupported cross-reference; the well-known definition of pramāthin is not given in this verse and the location is not stated. Keep only what the line supports.",
+     "fix": "Remove the parenthesis.",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "notes",
+      "old": " (Caraka defines it elsewhere)",
+      "new": ""
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "विसर्प",
+     "problem": "Printed text has vīsarpa (long ī); Hindi should keep the printed Sanskrit term.",
+     "fix": "वीसर्प",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "hindi",
+      "old": "विसर्प",
+      "new": "वीसर्प"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "gentle massages (saṃvāhana)",
+     "problem": "'gentle' is an addition not in the text (gloss is just 'massages').",
+     "fix": "massages (saṃvāhana)",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "english",
+      "old": "gentle massages (saṃvāhana)",
+      "new": "massages (saṃvāhana)"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "jṛmbhā-aṅga-mardaḥ",
+     "problem": "A dvandva of two items would be dual (or n. sg. samāhāra); m. nom. sg. as printed should be marked as a loose list form, not a regular dvandva.",
+     "fix": "m. nom. sg. (list compound; dvandva sense, singular as printed)",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "word",
+      "match_w": "jṛmbhā-aṅga-mardaḥ",
+      "field": "gram",
+      "value": "m. nom. sg. (list compound; dvandva sense, singular as printed)"
+     }
+    },
+    {
+     "field": "split",
+     "where": "śiro-rogaḥ",
+     "problem": "Inconsistent with the chunk's own convention (śiras-rujā in 7.6, śiraḥ-śūlam in 7.8/7.16): the stem should be shown undone.",
+     "fix": "śiras-rogaḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "word",
+      "match_w": "śiro-rogaḥ",
+      "field": "w",
+      "value": "śiras-rogaḥ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "hita-arthī",
+     "problem": "arthin is a taddhita (artha + in), not a kṛt final; 'upapada tat-puruṣa' is the wrong compound label.",
+     "fix": "m. nom. sg. ṣaṣṭhī tat-puruṣa (arthin)",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "word",
+      "match_w": "hita-arthī",
+      "field": "gram",
+      "value": "m. nom. sg. ṣaṣṭhī tat-puruṣa (arthin)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "nairlajjya-īrṣyā-atirāgāṇām",
+     "problem": "Gender missing; the dvandva takes the gender of its last member atirāga.",
+     "fix": "dvandva, m. gen. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "word",
+      "match_w": "nairlajjya-īrṣyā-atirāgāṇām",
+      "field": "gram",
+      "value": "dvandva, m. gen. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "probable misreading of the scan",
+     "problem": "The witness is a volunteer-typed text checked by script, not a scan (LAYER_NOTES 2); call it a typing slip.",
+     "fix": "...keeps 8 syllables; probable typing slip. The doubled s (ssy) is also irregular.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वह व्यायाम कहलाती है",
+     "problem": "Drops deha- of dehavyāyāma (the English keeps 'bodily exercise').",
+     "fix": "वह शारीरिक व्यायाम कहलाती है",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वह व्यायाम कहलाती है",
+      "new": "वह शारीरिक व्यायाम कहलाती है"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "some commentators read it that way",
+     "problem": "Attribution to commentators is unverified here; the alternative split yā ca iṣṭā is valid sandhi and can stand on its own.",
+     "fix": "Delete '; some commentators read it that way'.",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "notes",
+      "old": "; some commentators read it that way",
+      "new": ""
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "often printed pratamaka",
+     "problem": "Claim about other printings is not supported by the input; the metrical argument alone justifies no flag.",
+     "fix": "Replace 'often printed pratamaka; the long ā' with 'the long ā'.",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "replace",
+      "field": "notes",
+      "old": "often printed pratamaka; the long ā",
+      "new": "the long ā"
+     }
+    }
+   ]
+  },
+  {
+   "n": "33.1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "marking them as an addition found in some manuscripts",
+     "problem": "The edition does not say why it brackets the lines; the reason is inferred. Say so.",
+     "fix": "probably marking them as an addition (the edition does not state the reason)",
+     "severity": "minor",
+     "patch": {
+      "n": "33.1",
+      "op": "replace",
+      "field": "notes",
+      "old": "marking them as an addition found in some manuscripts",
+      "new": "probably marking them as an addition (the edition does not state the reason)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "1 error, 13 minor across 35 units; no regrouping suggested. Draft is careful: all text_flags checked and accepted (nā->na x2 in 7.4, vātājāḥ, ādhyaṃ, kārśay/aṅamarda, baṣpa, hṛroga, vātadhnyaḥ, vegānigraha, aścastānām, puruṣāssya->paruṣasya). Main problem: an invented variant (śiroruk ca) in 7.6 notes; other issues are compound labels, one added adjective, a dropped 'bodily' in Hindi, and unsupported attributions in notes. AI review, not read by a person."
+}
