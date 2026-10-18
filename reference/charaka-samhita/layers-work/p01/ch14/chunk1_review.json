@@ -1,0 +1,383 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वात (अनिल)",
+     "severity": "minor",
+     "problem": "Hindi brackets a gloss of a Sanskrit term (GLOSSARY: Hindi brackets only for an understood word; vāyu/māruta-type words keep the Sanskrit word in Hindi).",
+     "fix": "अनिल",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वात (अनिल)",
+      "new": "अनिल"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "(the seat of Kapha) ... (the seat of Vāta)",
+     "severity": "minor",
+     "problem": "The parenthetical doctrine of the seats of Kapha and Vāta is imported from outside the verse; the order-based reading needs only the verse.",
+     "fix": "Probably to be read in order: drying first for Vāta in the āmāśaya, oleation first for Kapha in the pakvāśaya; the verse states the two kinds in the same order as the two conditions.",
+     "patch": {
+      "n": "9",
+      "op": "set",
+      "field": "notes",
+      "value": "Probably to be read in order: drying first for Vāta in the āmāśaya, oleation first for Kapha in the pakvāśaya; the verse states the two kinds in the same order as the two conditions."
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "śeṣam",
+     "severity": "error",
+     "problem": "śeṣa is an adjective usable in the masculine; śeṣam here is m. acc. sg. agreeing with aṅgāvayavam ('the remaining parts of the body'). The n. label and the note about a gender mismatch are wrong.",
+     "fix": "gram 'm. acc. sg.'; note replaced",
+     "patch": [
+      {
+       "n": "10",
+       "op": "word",
+       "match_w": "śeṣam",
+       "field": "gram",
+       "value": "m. acc. sg."
+      },
+      {
+       "n": "10",
+       "op": "set",
+       "field": "notes",
+       "value": "śeṣam (m. acc. sg.) agrees with aṅgāvayavam: 'the remaining parts of the body'."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "tasya-aśitīye",
+     "severity": "minor",
+     "problem": "Tasyāśitīya is a derivative in -īya from the phrase tasya aśita, not a compound; 'aśitīye' is not a word by itself. The note's 'it is named in this verse' is redundant.",
+     "fix": "w 'tasyāśitīye', gram 'm. loc. sg. (chapter name, derivative in -īya)'; note reworded",
+     "patch": [
+      {
+       "n": "15",
+       "op": "word",
+       "match_w": "tasya-aśitīye",
+       "field": "gram",
+       "value": "m. loc. sg. (chapter name, derivative in -īya)"
+      },
+      {
+       "n": "15",
+       "op": "word",
+       "match_w": "tasya-aśitīye",
+       "field": "w",
+       "value": "tasyāśitīye"
+      },
+      {
+       "n": "15",
+       "op": "set",
+       "field": "notes",
+       "value": "Tasyāśitīya is the name of a chapter, a derivative in -īya from the words tasya aśita; it is not split into compound members."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "kṣatānāmāḍyarogiṇām",
+     "severity": "minor",
+     "problem": "Flag upheld (āḍya is not a Sanskrit word; āḍhya is). The 'why' should cite the checkable evidence instead of a vague 'elsewhere': the same edition prints आढ्यवात at 06.28.66a (text/ch06.28.md).",
+     "fix": "why reworded",
+     "patch": {
+      "n": "18",
+      "op": "set",
+      "field": "text_flags.0.why",
+      "value": "āḍya is not a Sanskrit word; āḍhya 'rich' gives āḍhyaroga. The same edition prints āḍhya in āḍhyavāta at 06.28.66a (text/ch06.28.md). Probable typo of ḍ for ḍh."
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "pūṭaka",
+     "severity": "minor",
+     "problem": "Draft is right not to correct: in this even pāda the 6th syllable must be long (ka-rī-ṣā-ya-sa-PŪ-ṭa-kaiḥ), so puṭaka would break the metre. But pūṭaka is not a known word in this form, so the gloss 'packets' is conjectural and should say so.",
+     "fix": "append note",
+     "patch": {
+      "n": "26",
+      "op": "append_note",
+      "text": "pūṭaka is not a known word in this form; the meaning 'packet' rests on reading it as puṭaka and is conjectural."
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कफ प्रकृति वालों / वात प्रकृति वालों",
+     "severity": "minor",
+     "problem": "ślaiṣmika/vātika do not say 'constitution' (prakṛti); Hindi should stay as general as the English 'of Kapha type'.",
+     "fix": "कफ-प्रधान व्यक्तियों / वात-प्रधान व्यक्तियों",
+     "patch": [
+      {
+       "n": "27",
+       "op": "replace",
+       "field": "hindi",
+       "old": "कफ प्रकृति वालों",
+       "new": "कफ-प्रधान व्यक्तियों"
+      },
+      {
+       "n": "27",
+       "op": "replace",
+       "field": "hindi",
+       "old": "वात प्रकृति वालों",
+       "new": "वात-प्रधान व्यक्तियों"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "bhiṣak-tamaḥ",
+     "severity": "minor",
+     "problem": "-tama is a superlative suffix, not a compound member (GLOSSARY: derived words are not compounds).",
+     "fix": "w 'bhiṣaktamaḥ', gram 'm. nom. sg. (superlative in -tama)'",
+     "patch": [
+      {
+       "n": "30",
+       "op": "word",
+       "match_w": "bhiṣak-tamaḥ",
+       "field": "gram",
+       "value": "m. nom. sg. (superlative in -tama)"
+      },
+      {
+       "n": "30",
+       "op": "word",
+       "match_w": "bhiṣak-tamaḥ",
+       "field": "w",
+       "value": "bhiṣaktamaḥ"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "स्नेह, किण्व और लवण सहित उपनाह",
+     "severity": "minor",
+     "problem": "Hindi attaches 'with fat, kiṇva and salt' to the poultice and 'with sour' only to barley; the Sanskrit instrumentals (and the English) qualify the wheat pieces and barley powders.",
+     "fix": "गेहूँ के टुकड़ों से और जौ के चूर्णों से, जो अम्ल से युक्त और स्नेह, किण्व तथा लवण सहित हों, उपनाह प्रशस्त है।",
+     "patch": {
+      "n": "35",
+      "op": "set",
+      "field": "hindi",
+      "value": "गेहूँ के टुकड़ों से और जौ के चूर्णों से, जो अम्ल से युक्त और स्नेह, किण्व तथा लवण सहित हों, उपनाह प्रशस्त है।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "upanāhayet",
+     "severity": "minor",
+     "problem": "upanāhayati is the causative of upa-√nah, not a denominative.",
+     "fix": "3 sg. opt. caus. upa-√nah",
+     "patch": {
+      "n": "36",
+      "op": "word",
+      "match_w": "upanāhayet",
+      "field": "gram",
+      "value": "3 sg. opt. caus. upa-√nah"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "gandhaiḥ surāyāḥ kiṇvena",
+     "severity": "minor",
+     "problem": "The genitive surāyāḥ can go with gandhaiḥ as well as with kiṇvena; the alternative should be noted.",
+     "fix": "append note",
+     "patch": {
+      "n": "36",
+      "op": "append_note",
+      "text": "surāyāḥ may also go with gandhaiḥ ('with the fragrant parts of surā')."
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Chunk 1 (Sū 14.1-36): 1 error, 10 minor; no regrouping suggested. check_chunk.py: 0 errors, 1 harmless warning (unit 15 yo->yaḥ). Error: unit 10 śeṣam is m. acc. sg. agreeing with aṅgāvayavam (gram and note). Judged points: unit 18 āḍya->āḍhya flag upheld (non-word; edition prints āḍhyavāta at 06.28.66a), why reworded. Unit 17 bradhna: low confidence, untranslated term and the bahuvrīhi/three-member alternatives in notes are honest; no identification given; kept. Unit 26 pūṭaka: no correction is right (even-pāda 6th syllable must be long), note added that the 'packet' meaning is conjectural. Plant identifications in units 25, 31, 32, 33, 36 are in notes only and tagged standard/probable or 'unidentified', as GLOSSARY policy allows; kept. No commentator/edition citations found; one imported doctrine (seats of doṣas, unit 9) removed. pratiśyāya = coryza kept for consistency with Sū 7 (ch07 unit 22)."
+}

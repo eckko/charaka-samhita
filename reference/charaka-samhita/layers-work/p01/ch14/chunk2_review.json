@@ -1,0 +1,313 @@
+{
+ "units": [
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kauśeya-āvika-śāṭakaiḥ",
+     "problem": "kauśeya and āvika are adjectives (silken, woollen) qualifying śāṭaka, so the outer compound is a karmadhāraya, not a tat-puruṣa.",
+     "fix": "m. inst. pl., dvandva then karmadhāraya",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "word",
+      "match_w": "kauśeya-āvika-śāṭakaiḥ",
+      "field": "gram",
+      "value": "m. inst. pl., dvandva then karmadhāraya"
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "saṅkara-svedaḥ",
+     "problem": "Wrong case label: the form is saṅkarasvedaḥ (nominative, -aḥ > -a before iti), as the draft's own note says; it is not accusative.",
+     "fix": "m. nom. sg. (predicate with iti), tat-puruṣa",
+     "severity": "error",
+     "patch": {
+      "n": "41",
+      "op": "word",
+      "match_w": "saṅkara-svedaḥ",
+      "field": "gram",
+      "value": "m. nom. sg. (predicate with iti), tat-puruṣa"
+     }
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "vātikottaravātikānām",
+     "problem": "\"predominant Vāta\" for uttaravātika is a provisional rendering with no support in the chunk; and the parallel opening of unit 43 (svedanadravyāṇāṃ punar mūla…ādīnām) supports reading the genitive with mūlādīnām, while unit 27 (vātikān samupācaret) supports the patient reading. The note should give both pieces of evidence and mark the rendering provisional.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "append_note",
+      "text": "Evidence both ways in this chapter: unit 27 uses vātika of patients (vātikān samupācaret); unit 43 opens with a genitive qualifying the drugs (svedanadravyāṇāṃ punar mūla…ādīnām), parallel to vātikottaravātikānāṃ punar mūlādīnām here. \"predominant Vāta\" for uttaravātika is provisional."
+     }
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "\"Gentle one, enter",
+     "problem": "GLOSSARY fixes saumya = O gentle one (हे सौम्य).",
+     "fix": "\"O gentle one, enter",
+     "severity": "minor",
+     "patch": {
+      "n": "46",
+      "op": "replace",
+      "field": "english",
+      "old": "\"Gentle one, enter",
+      "new": "\"O gentle one, enter"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सौम्य! कल्याण",
+     "problem": "GLOSSARY fixes saumya = हे सौम्य.",
+     "fix": "हे सौम्य! कल्याण",
+     "severity": "minor",
+     "patch": {
+      "n": "46",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सौम्य! कल्याण",
+      "new": "हे सौम्य! कल्याण"
+     }
+    },
+    {
+     "field": "english",
+     "where": "Vāta-removing fat",
+     "problem": "\"fat\" is not in the Sanskrit (vātaharābhyaktagātram); the note says it is understood, so mark it as supplied.",
+     "fix": "Vāta-removing (fat)",
+     "severity": "minor",
+     "patch": {
+      "n": "46",
+      "op": "replace",
+      "field": "english",
+      "old": "Vāta-removing fat",
+      "new": "Vāta-removing (fat)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "kauśeya/kauṣeya spellings both occur in this chunk.",
+     "problem": "Misplaced: neither spelling occurs in unit 46 (the remark belongs to unit 48, which already has it).",
+     "fix": "delete the sentence",
+     "severity": "minor",
+     "patch": {
+      "n": "46",
+      "op": "set",
+      "field": "notes",
+      "value": "One long prose passage (labelled \"verse\" in the input). Measures kept as Sanskrit: aratni (a cubit), kiṣku (a measure, values not given in the text), muhūrta (a period of time). kandu: a vessel or oven (kept as Sanskrit). ākapāṭāt \"up to the door\" is taken as \"leaving the doorway free\". vātaharābhyaktagātram: the substantive \"fat\" is understood (compare units 43-44). Plant identifications: khadira = Acacia catechu (standard); aśvakarṇa = identity disputed."
+     }
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "if kaurava is kept, the word is unexplained",
+     "problem": "kaurava is a real word (\"of the Kurus\"), so the flag rests on sense alone; the note should say so instead of calling kaurava unexplained. Flag kept as \"possible\", confidence medium is right.",
+     "fix": "The translation follows the suggested reading raurava (a sense-only emendation; no parallel in this chunk). If kaurava is kept, it would mean \"of the Kurus\" (a skin from the Kuru country), a sense the text does not explain.",
+     "severity": "minor",
+     "patch": {
+      "n": "49",
+      "op": "set",
+      "field": "notes",
+      "value": "The translation follows the suggested reading raurava (a sense-only emendation; no parallel in this chunk). If kaurava is kept, it would mean \"of the Kurus\" (a skin from the Kuru country), a sense the text does not explain."
+     }
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "53",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "54",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "56",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "57",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "58",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "59",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "60",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "61",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "62",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "यथोक्त रीति से तैयार करे",
+     "problem": "yathoktām is f. acc. agreeing with śayyām (the bed, unit 61), not an adverb \"in the described way\".",
+     "fix": "यथोक्त (शय्या) तैयार करे",
+     "severity": "minor",
+     "patch": {
+      "n": "62",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यथोक्त रीति से तैयार करे",
+      "new": "यथोक्त (शय्या) तैयार करे"
+     }
+    }
+   ]
+  },
+  {
+   "n": "63",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "64",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "65",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "66",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "67",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "68",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "69",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "70",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "71",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P1",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "36 units reviewed word by word; 1 error, 8 minor (all with patches); no regrouping. check_chunk.py: 0 errors, 1 false-positive warning (68 yo->yaḥ). text_flags (8): 38 bidāha->vidāha (b/v orthographic, ok), 42 missing word-space (grammar: two locatives + vā, ok), 43 -saṃsthānanā->-saṃsthānayā and pariṇṇāha->pariṇāha (ok), 46 kṛṭāgārasḥyāntaḥ->kūṭāgārasyāntaḥ, śaumya->saumya, piṇḍivakā->piṇḍikā (in-unit parallels, ok), 49 kaurava->raurava (sense-only; kept as 'possible', note reworded). Plant notes arka, urubūka, karañja, khadira, kuṣṭha (tagged standard), pañcāṅgula (probable), aśvakarṇa (disputed) are in notes only and tagged: comply with GLOSSARY POLICY. No notes cite commentators or other editions. Unit 61 dhītīkā rightly low confidence, kept Sanskrit; golaka, kandu, kiṣku, varṣaṇikā kept Sanskrit (ok). Units 41-46 are prose typed 'verse'; drafts say so; not a regrouping issue. MANUAL: 44 vātikottaravātikānām reading (patients vs drugs) and uttaravātika meaning; 49 kaurava/raurava needs a scan or second witness; 61 dhītīkā meaning; 53 golaka meaning. Layers remain unreviewed AI drafts."
+}

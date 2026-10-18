@@ -1,0 +1,120 @@
+[
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "स्नेहन के पश्चात् प्रयुक्त स्वेद द्वारा वात (अनिल) के वश में आ जाने पर मल, मूत्र और वीर्य किसी प्रकार भी अटकते नहीं।",
+  "new": "स्नेहन के पश्चात् प्रयुक्त स्वेद द्वारा अनिल के वश में आ जाने पर मल, मूत्र और वीर्य किसी प्रकार भी अटकते नहीं।",
+  "why": "reviewer (minor): Hindi brackets a gloss of a Sanskrit term (GLOSSARY: Hindi brackets only for an understood word; vāyu/māruta-type words keep the Sanskrit word in Hindi)."
+ },
+ {
+  "n": "9",
+  "field": "notes",
+  "old": "Probably to be read in order: drying first for Vāta in the āmāśaya (the seat of Kapha), oleation first for Kapha in the pakvāśaya (the seat of Vāta); the verse itself states the two kinds in the same order as the two conditions.",
+  "new": "Probably to be read in order: drying first for Vāta in the āmāśaya, oleation first for Kapha in the pakvāśaya; the verse states the two kinds in the same order as the two conditions.",
+  "why": "reviewer (minor): The parenthetical doctrine of the seats of Kapha and Vāta is imported from outside the verse; the order-based reading needs only the verse."
+ },
+ {
+  "n": "10",
+  "field": "word.gram",
+  "word": "śeṣam",
+  "old": "n. acc. sg.",
+  "new": "m. acc. sg.",
+  "why": "reviewer (error): śeṣa is an adjective usable in the masculine; śeṣam here is m. acc. sg. agreeing with aṅgāvayavam ('the remaining parts of the body'). The n. label and the note about a gender mismatch are wrong."
+ },
+ {
+  "n": "10",
+  "field": "notes",
+  "old": "śeṣam (n.) and aṅgāvayavam (m.) differ in gender; śeṣam may be a separate noun ('the rest, i.e. the parts of the body') in apposition.",
+  "new": "śeṣam (m. acc. sg.) agrees with aṅgāvayavam: 'the remaining parts of the body'.",
+  "why": "reviewer (error): śeṣa is an adjective usable in the masculine; śeṣam here is m. acc. sg. agreeing with aṅgāvayavam ('the remaining parts of the body'). The n. label and the note about a gender mismatch are wrong."
+ },
+ {
+  "n": "15",
+  "field": "word.gram",
+  "word": "tasya-aśitīye",
+  "old": "m. loc. sg.",
+  "new": "m. loc. sg. (chapter name, derivative in -īya)",
+  "why": "reviewer (minor): Tasyāśitīya is a derivative in -īya from the phrase tasya aśita, not a compound; 'aśitīye' is not a word by itself. The note's 'it is named in this verse' is redundant."
+ },
+ {
+  "n": "15",
+  "field": "word.w",
+  "word": "tasya-aśitīye",
+  "old": "tasya-aśitīye",
+  "new": "tasyāśitīye",
+  "why": "reviewer (minor): Tasyāśitīya is a derivative in -īya from the phrase tasya aśita, not a compound; 'aśitīye' is not a word by itself. The note's 'it is named in this verse' is redundant."
+ },
+ {
+  "n": "15",
+  "field": "notes",
+  "old": "tasyāśitīya is the name of a chapter, formed from its opening words (tasya aśita...); it is named in this verse.",
+  "new": "Tasyāśitīya is the name of a chapter, a derivative in -īya from the words tasya aśita; it is not split into compound members.",
+  "why": "reviewer (minor): Tasyāśitīya is a derivative in -īya from the phrase tasya aśita, not a compound; 'aśitīye' is not a word by itself. The note's 'it is named in this verse' is redundant."
+ },
+ {
+  "n": "18",
+  "field": "text_flags.0.why",
+  "old": "āḍya is not a word; āḍhya 'rich' is meant (this text spells it āḍhya in āḍhyavāta elsewhere); probable typo of ḍ for ḍh.",
+  "new": "āḍya is not a Sanskrit word; āḍhya 'rich' gives āḍhyaroga. The same edition prints āḍhya in āḍhyavāta at 06.28.66a (text/ch06.28.md). Probable typo of ḍ for ḍh.",
+  "why": "reviewer (minor): Flag upheld (āḍya is not a Sanskrit word; āḍhya is). The 'why' should cite the checkable evidence instead of a vague 'elsewhere': the same edition prints आढ्यवात at 06.28.66a (text/ch06.28.md)."
+ },
+ {
+  "n": "26",
+  "field": "notes",
+  "old": "Sentence continues into unit 27 (svedayet). pūṭaka is taken as puṭaka 'packet, bundle'; the long ū is kept as printed and the metre of the line needs a long syllable there, so no correction is suggested.",
+  "new": "Sentence continues into unit 27 (svedayet). pūṭaka is taken as puṭaka 'packet, bundle'; the long ū is kept as printed and the metre of the line needs a long syllable there, so no correction is suggested. pūṭaka is not a known word in this form; the meaning 'packet' rests on reading it as puṭaka and is conjectural.",
+  "why": "reviewer (minor): Draft is right not to correct: in this even pāda the 6th syllable must be long (ka-rī-ṣā-ya-sa-PŪ-ṭa-kaiḥ), so puṭaka would break the metre. But pūṭaka is not a known word in this form, so the gloss 'packets' is conjectural and should say so."
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "कफ प्रकृति वालों को पूर्व वालों से स्वेद दे, और वात प्रकृति वालों की चिकित्सा करे। ये द्रव्य यथायोग्य प्रस्तरों में भी प्रशस्त हैं।",
+  "new": "कफ-प्रधान व्यक्तियों को पूर्व वालों से स्वेद दे, और वात प्रकृति वालों की चिकित्सा करे। ये द्रव्य यथायोग्य प्रस्तरों में भी प्रशस्त हैं।",
+  "why": "reviewer (minor): ślaiṣmika/vātika do not say 'constitution' (prakṛti); Hindi should stay as general as the English 'of Kapha type'."
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "कफ-प्रधान व्यक्तियों को पूर्व वालों से स्वेद दे, और वात प्रकृति वालों की चिकित्सा करे। ये द्रव्य यथायोग्य प्रस्तरों में भी प्रशस्त हैं।",
+  "new": "कफ-प्रधान व्यक्तियों को पूर्व वालों से स्वेद दे, और वात-प्रधान व्यक्तियों की चिकित्सा करे। ये द्रव्य यथायोग्य प्रस्तरों में भी प्रशस्त हैं।",
+  "why": "reviewer (minor): ślaiṣmika/vātika do not say 'constitution' (prakṛti); Hindi should stay as general as the English 'of Kapha type'."
+ },
+ {
+  "n": "30",
+  "field": "word.gram",
+  "word": "bhiṣak-tamaḥ",
+  "old": "m. nom. sg.",
+  "new": "m. nom. sg. (superlative in -tama)",
+  "why": "reviewer (minor): -tama is a superlative suffix, not a compound member (GLOSSARY: derived words are not compounds)."
+ },
+ {
+  "n": "30",
+  "field": "word.w",
+  "word": "bhiṣak-tamaḥ",
+  "old": "bhiṣak-tamaḥ",
+  "new": "bhiṣaktamaḥ",
+  "why": "reviewer (minor): -tama is a superlative suffix, not a compound member (GLOSSARY: derived words are not compounds)."
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "गेहूँ के टुकड़ों से, अम्ल से युक्त जौ के चूर्णों से, स्नेह, किण्व और लवण सहित उपनाह प्रशस्त है।",
+  "new": "गेहूँ के टुकड़ों से और जौ के चूर्णों से, जो अम्ल से युक्त और स्नेह, किण्व तथा लवण सहित हों, उपनाह प्रशस्त है।",
+  "why": "reviewer (minor): Hindi attaches 'with fat, kiṇva and salt' to the poultice and 'with sour' only to barley; the Sanskrit instrumentals (and the English) qualify the wheat pieces and barley powders."
+ },
+ {
+  "n": "36",
+  "field": "word.gram",
+  "word": "upanāhayet",
+  "old": "3 sg. opt. denom. upa-√nah",
+  "new": "3 sg. opt. caus. upa-√nah",
+  "why": "reviewer (minor): upanāhayati is the causative of upa-√nah, not a denominative."
+ },
+ {
+  "n": "36",
+  "field": "notes",
+  "old": "yuktayā agrees with umayā (f.). kuṣṭha here is the drug, not the skin disease. Identifications: jīvantī = Leptadenia reticulata, probable; śatapuṣpā = dill (Anethum sp.), probable; umā = linseed (Linum usitatissimum), probable; kuṣṭha = Saussurea costus, standard.",
+  "new": "yuktayā agrees with umayā (f.). kuṣṭha here is the drug, not the skin disease. Identifications: jīvantī = Leptadenia reticulata, probable; śatapuṣpā = dill (Anethum sp.), probable; umā = linseed (Linum usitatissimum), probable; kuṣṭha = Saussurea costus, standard. surāyāḥ may also go with gandhaiḥ ('with the fragrant parts of surā').",
+  "why": "reviewer (minor): The genitive surāyāḥ can go with gandhaiḥ as well as with kiṇvena; the alternative should be noted."
+ }
+]

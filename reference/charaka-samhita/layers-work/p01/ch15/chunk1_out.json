@@ -1,0 +1,7327 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athāta",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now",
+        "gram": "ind."
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "upakalpanīyamadhyāyaṃ",
+      "words": [
+       {
+        "w": "upakalpanīyam",
+        "gloss": "on what is to be prepared (Upakalpanīya)",
+        "gram": "m. acc. sg., gerundive (kṛtya) of caus. upa-√kḷp, used as chapter name"
+       },
+       {
+        "w": "adhyāyam",
+        "gloss": "chapter",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyāsyāmaḥ",
+      "words": [
+       {
+        "w": "vyākhyāsyāmaḥ",
+        "gloss": "we shall expound",
+        "gram": "1 pl. fut. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब इसके बाद हम उपकल्पनीय अध्याय की व्याख्या करेंगे।",
+  "english": "Now, therefore, we shall expound the chapter on what is to be prepared (Upakalpanīya).",
+  "text_flags": [],
+  "notes": "Prose opening formula of the chapter; the unit is typed as a verse in the input but is a prose line.",
+  "confidence": "high"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ha",
+      "words": [
+       {
+        "w": "ha",
+        "gloss": "(particle)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "smāha",
+      "words": [
+       {
+        "w": "sma",
+        "gloss": "(particle, with present = past)",
+        "gram": "ind."
+       },
+       {
+        "w": "āha",
+        "gloss": "said",
+        "gram": "3 sg. pf. √ah"
+       }
+      ]
+     },
+     {
+      "src": "bhagavānātreyaḥ",
+      "words": [
+       {
+        "w": "bhagavān",
+        "gloss": "the venerable",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ātreyaḥ",
+        "gloss": "Ātreya",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ऐसा भगवान् आत्रेय ने कहा।",
+  "english": "Thus said the venerable Ātreya.",
+  "text_flags": [],
+  "notes": "Prose formula; ha and sma are particles, not rendered separately.",
+  "confidence": "high"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iha",
+      "words": [
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "khalu",
+      "words": [
+       {
+        "w": "khalu",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rājānāṃ",
+      "words": [
+       {
+        "w": "rājānam",
+        "gloss": "a king",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ājamātramanyaṃ",
+      "words": [
+       {
+        "w": "rāja-mātram",
+        "gloss": "one equal to a king",
+        "gram": "m. acc. sg., tat-puruṣa"
+       },
+       {
+        "w": "anyam",
+        "gloss": "another",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vipuladravyaṃ",
+      "words": [
+       {
+        "w": "vipula-dravyam",
+        "gloss": "having abundant wealth",
+        "gram": "m. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vamanaṃ",
+      "words": [
+       {
+        "w": "vamanam",
+        "gloss": "emesis",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "virecanaṃ",
+      "words": [
+       {
+        "w": "virecanam",
+        "gloss": "purgation",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pāyayitukāmena",
+      "words": [
+       {
+        "w": "pāyayitu-kāmena",
+        "gloss": "wishing to make drink",
+        "gram": "m. inst. sg., bahuvrīhi (inf. caus. √pā)"
+       }
+      ]
+     },
+     {
+      "src": "bhiṣajā",
+      "words": [
+       {
+        "w": "bhiṣajā",
+        "gloss": "by the physician",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāgevaiṣadhapānāt",
+      "words": [
+       {
+        "w": "prāk",
+        "gloss": "before",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       },
+       {
+        "w": "auṣadha-pānāt",
+        "gloss": "the drinking of the medicine",
+        "gram": "n. abl. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "saṃbhārā",
+      "words": [
+       {
+        "w": "saṃbhārāḥ",
+        "gloss": "requisites",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "upakalpanīyā",
+      "words": [
+       {
+        "w": "upakalpanīyāḥ",
+        "gloss": "to be prepared",
+        "gram": "m. nom. pl., gerundive (kṛtya) of caus. upa-√kḷp"
+       }
+      ]
+     },
+     {
+      "src": "bhavanti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "samyakcaiva",
+      "words": [
+       {
+        "w": "samyak",
+        "gloss": "properly",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gacchatyauṣadhe",
+      "words": [
+       {
+        "w": "gacchati",
+        "gloss": "going on",
+        "gram": "n. loc. sg., pres. part. √gam (loc. absolute)"
+       },
+       {
+        "w": "auṣadhe",
+        "gloss": "the medicine",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratibhogārthāḥ,",
+      "words": [
+       {
+        "w": "prati-bhoga-arthāḥ",
+        "gloss": "serving for attendant use",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sannikṛṣṭe",
+      "words": [
+       {
+        "w": "sannikṛṣṭe",
+        "gloss": "pressing, close",
+        "gram": "m. loc. sg., ppp. sam-ni-√kṛṣ"
+       }
+      ]
+     },
+     {
+      "src": "kāle",
+      "words": [
+       {
+        "w": "kāle",
+        "gloss": "time",
+        "gram": "m. loc. sg. (loc. absolute)"
+       }
+      ]
+     },
+     {
+      "src": "prādurbhūtāyāmāpadi",
+      "words": [
+       {
+        "w": "prādurbhūtāyām",
+        "gloss": "having arisen",
+        "gram": "f. loc. sg., ppp. prādur-√bhū"
+       },
+       {
+        "w": "āpadi",
+        "gloss": "emergency",
+        "gram": "f. loc. sg. (loc. absolute)"
+       }
+      ]
+     },
+     {
+      "src": "sataypi",
+      "words": [
+       {
+        "w": "sati",
+        "gloss": "being available",
+        "gram": "n. loc. sg., pres. part. √as"
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "krayākraye",
+      "words": [
+       {
+        "w": "kraya-ākraye",
+        "gloss": "buying and market (sense uncertain)",
+        "gram": "n. loc. sg., samāhāra dvandva"
+       }
+      ]
+     },
+     {
+      "src": "sukaramāṃśu",
+      "words": [
+       {
+        "w": "sukaram",
+        "gloss": "easy",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "āśu",
+        "gloss": "quickly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃbharaṇamauṣadhānāṃ",
+      "words": [
+       {
+        "w": "saṃbharaṇam",
+        "gloss": "collecting",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "auṣadhānām",
+        "gloss": "of medicines",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "yathāvaditi",
+      "words": [
+       {
+        "w": "yathāvat",
+        "gloss": "properly",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "(end of the statement)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यहाँ, राजा को, या राजा के समान को, या अन्य विपुल धन वाले को वमन या विरेचन पिलाने की इच्छा वाले वैद्य को औषध-पान से पहले ही सामग्रियाँ तैयार करनी होती हैं; क्योंकि औषध के ठीक प्रकार से चलने पर भी वे प्रतिभोग के लिए होती हैं; क्योंकि समय निकट आ जाने पर और आपत्ति उत्पन्न हो जाने पर, खरीद की सुविधा होने पर भी, औषधों का यथावत् संग्रह शीघ्र सुकर नहीं होता।",
+  "english": "Here, the physician who wishes to make a king, or one equal to a king, or another person of abundant wealth drink emesis or purgation is to have the requisites prepared even before the drinking of the medicine; for even when the medicine goes on properly they serve for attendant use (pratibhoga); for when the time is pressing and an emergency has arisen, the proper collecting of medicines is not easy to do quickly, even when buying is possible.",
+  "text_flags": [
+   {
+    "src": "rājānāṃ",
+    "suggest": "rājānaṃ",
+    "why": "The accusative singular of rājan is rājānam (short a before the ending); rājānām with long ā is no form, and the sentence needs one king in the accusative beside rājamātram and anyam."
+   },
+   {
+    "src": "ājamātramanyaṃ",
+    "suggest": "rājamātramanyaṃ",
+    "why": "ājamātra gives no sense; unit 18 of this chapter has the same list with rājamātraḥ (\"one equal to a king\"), so the initial r appears to have been lost in typing."
+   },
+   {
+    "src": "prāgevaiṣadhapānāt",
+    "suggest": "prāgevauṣadhapānāt",
+    "why": "eva + auṣadha gives evauṣadha by sandhi; aiṣadha is no word (auṣadha is spelled correctly elsewhere in the unit)."
+   },
+   {
+    "src": "sataypi",
+    "suggest": "satyapi",
+    "why": "sati + api gives satyapi; the printed order of the letters y and a is transposed."
+   },
+   {
+    "src": "sukaramāṃśu",
+    "suggest": "sukaramāśu",
+    "why": "āśu (\"quickly\") has no anusvāra; āṃśu is no word here."
+   }
+  ],
+  "notes": "Prose passage, typed as a verse unit in the input. krayākraya is taken as kraya + ākraya (\"buying\" and \"market\"); the exact sense of the second member is uncertain, but the clause clearly means that buying is possible. pratibhoga is rendered literally (\"attendant use\"); unit 7 of this chapter repeats it (yaccā pratibhogārthaṃ) beside \"equipment for counteracting ill effects\", which suggests the two purposes of the requisites. The clause samyakcaiva hi gacchatyauṣadhe pratibhogārthāḥ names only the case of the medicine going properly; the text as given has no matching clause for the medicine going wrong.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "evaṃvādinaṃ",
+      "words": [
+       {
+        "w": "evam-vādinam",
+        "gloss": "speaking thus",
+        "gram": "m. acc. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhagavantamātreyamagniveśa",
+      "words": [
+       {
+        "w": "bhagavantam",
+        "gloss": "the venerable",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ātreyam",
+        "gloss": "Ātreya",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "agniveśaḥ",
+        "gloss": "Agniveśa",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "uvāca",
+      "words": [
+       {
+        "w": "uvāca",
+        "gloss": "said",
+        "gram": "3 sg. pf. √vac"
+       }
+      ]
+     },
+     {
+      "src": "nanu",
+      "words": [
+       {
+        "w": "nanu",
+        "gloss": "surely",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhagavan",
+      "words": [
+       {
+        "w": "bhagavan",
+        "gloss": "O venerable one",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ādāveva",
+      "words": [
+       {
+        "w": "ādau",
+        "gloss": "at the outset",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jñānavatā",
+      "words": [
+       {
+        "w": "jñānavatā",
+        "gloss": "by one who has knowledge",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "in such a way",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pratividhātavyaṃ",
+      "words": [
+       {
+        "w": "pratividhātavyam",
+        "gloss": "arrangements are to be made",
+        "gram": "n. nom. sg., gerundive (kṛtya) prati-vi-√dhā (impersonal)"
+       }
+      ]
+     },
+     {
+      "src": "yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "that",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prativihite",
+      "words": [
+       {
+        "w": "prativihite",
+        "gloss": "the arrangements having been made",
+        "gram": "n. loc. sg., ppp. prati-vi-√dhā (loc. absolute)"
+       }
+      ]
+     },
+     {
+      "src": "sidhyedevauṣadhamekāntena",
+      "words": [
+       {
+        "w": "sidhyet",
+        "gloss": "would succeed",
+        "gram": "3 sg. opt. √sidh"
+       },
+       {
+        "w": "eva",
+        "gloss": "surely",
+        "gram": "ind."
+       },
+       {
+        "w": "auṣadham",
+        "gloss": "the medicine",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ekāntena",
+        "gloss": "invariably",
+        "gram": "m. inst. sg. (adverbial)"
+       }
+      ]
+     },
+     {
+      "src": "samyakprayoganimittā",
+      "words": [
+       {
+        "w": "samyak-prayoga-nimittā",
+        "gloss": "caused by proper administration",
+        "gram": "f. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sarvakarmaṇāṃ",
+      "words": [
+       {
+        "w": "sarva-karmaṇām",
+        "gloss": "of all procedures",
+        "gram": "n. gen. pl., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "siddhiriṣṭā",
+      "words": [
+       {
+        "w": "siddhiḥ",
+        "gloss": "success",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "iṣṭā",
+        "gloss": "is held",
+        "gram": "f. nom. sg., ppp. √iṣ"
+       }
+      ]
+     },
+     {
+      "src": "vyāpaccāsamyakprayogānimittā",
+      "words": [
+       {
+        "w": "vyāpat",
+        "gloss": "ill effect",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asamyak-prayoga-nimittā",
+        "gloss": "caused by improper administration",
+        "gram": "f. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "atha",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "samyagasamyak",
+      "words": [
+       {
+        "w": "samyak",
+        "gloss": "properly",
+        "gram": "ind."
+       },
+       {
+        "w": "asamyak",
+        "gloss": "improperly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and, or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "samārabdhaṃ",
+      "words": [
+       {
+        "w": "samārabdham",
+        "gloss": "undertaken",
+        "gram": "n. nom. sg., ppp. sam-ā-√rabh"
+       }
+      ]
+     },
+     {
+      "src": "karma",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "procedure",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "siddhyaṃti",
+      "words": [
+       {
+        "w": "sidhyati",
+        "gloss": "succeeds",
+        "gram": "3 sg. pres. √sidh"
+       }
+      ]
+     },
+     {
+      "src": "vyāpadyate",
+      "words": [
+       {
+        "w": "vyāpadyate",
+        "gloss": "fails",
+        "gram": "3 sg. pres. ātm. vi-ā-√pad"
+       }
+      ]
+     },
+     {
+      "src": "vāniyamena",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "aniyamena",
+        "gloss": "without any rule",
+        "gram": "m. inst. sg. (adverbial)"
+       }
+      ]
+     },
+     {
+      "src": "tulyaṃ",
+      "words": [
+       {
+        "w": "tulyam",
+        "gloss": "equal",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "jñānamajñaneneti",
+      "words": [
+       {
+        "w": "jñānam",
+        "gloss": "knowledge",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ajñānena",
+        "gloss": "with ignorance",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "(end of the speech)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ऐसा कहते हुए भगवान् आत्रेय से अग्निवेश ने कहा: भगवन्, निश्चय ही ज्ञानवान् को आरम्भ में ही ऐसी व्यवस्था करनी चाहिए कि व्यवस्था कर लेने पर औषध एकान्त रूप से सिद्ध हो; क्योंकि सब कर्मों की सिद्धि सम्यक् प्रयोग के कारण मानी गई है, और व्यापत्ति असम्यक् प्रयोग के कारण। अब यदि सम्यक् या असम्यक् प्रकार से आरम्भ किया गया कर्म बिना किसी नियम के सिद्ध होता है या विफल होता है, तो ज्ञान अज्ञान के तुल्य होता है।",
+  "english": "To the venerable Ātreya, speaking thus, Agniveśa said: \"Surely, O venerable one, one who has knowledge should make arrangements at the very outset in such a way that, the arrangements made, the medicine would surely succeed invariably; for the success of all procedures is held to be caused by proper administration, and ill effect by improper administration. Now if a procedure undertaken properly or improperly succeeds or fails without any rule, knowledge is equal to ignorance.\"",
+  "text_flags": [
+   {
+    "src": "vyāpaccāsamyakprayogānimittā",
+    "suggest": "vyāpaccāsamyakprayoganimittā",
+    "why": "possible: the parallel compound in the same sentence is samyakprayoganimittā with short a; a long ā before nimitta has no grammatical basis."
+   },
+   {
+    "src": "siddhyaṃti",
+    "suggest": "sidhyati",
+    "why": "The subject karma is singular and the paired verb vyāpadyate is singular; the anusvāra makes the form look plural, so a typing slip for sidhyati (the spelling with ddh also occurs) is likely."
+   },
+   {
+    "src": "jñānamajñaneneti",
+    "suggest": "jñānamajñāneneti",
+    "why": "The noun is ajñāna (\"ignorance\"), the negative of jñāna printed just before it; the short a in ajñanena is a typing slip."
+   }
+  ],
+  "notes": "Prose passage, typed as a verse unit in the input. In samyagasamyak ca, ca joins the two alternatives (\"properly or improperly\").",
+  "confidence": "high"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tamuvāca",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "to him",
+        "gram": "m. acc. sg. pron."
+       },
+       {
+        "w": "uvāca",
+        "gloss": "said",
+        "gram": "3 sg. pf. √vac"
+       }
+      ]
+     },
+     {
+      "src": "bhagavānātreyaḥ",
+      "words": [
+       {
+        "w": "bhagavān",
+        "gloss": "the venerable",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ātreyaḥ",
+        "gloss": "Ātreya",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śakyaṃ",
+      "words": [
+       {
+        "w": "śakyam",
+        "gloss": "it is possible",
+        "gram": "n. nom. sg., gerundive (kṛtya) √śak"
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "in such a way",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pratividhātumasmābhirasmadvidharivāpyagniveśa",
+      "words": [
+       {
+        "w": "pratividhātum",
+        "gloss": "to make arrangements",
+        "gram": "inf. prati-vi-√dhā"
+       },
+       {
+        "w": "asmābhiḥ",
+        "gloss": "by us",
+        "gram": "1 pl. inst. pron."
+       },
+       {
+        "w": "asmad-vidhaiḥ",
+        "gloss": "by those like us",
+        "gram": "m. inst. pl., bahuvrīhi"
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       },
+       {
+        "w": "agniveśa",
+        "gloss": "O Agniveśa",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "that",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prativihite",
+      "words": [
+       {
+        "w": "prativihite",
+        "gloss": "the arrangements having been made",
+        "gram": "n. loc. sg., ppp. prati-vi-√dhā (loc. absolute)"
+       }
+      ]
+     },
+     {
+      "src": "sidhyedevauṣadhamekāntena",
+      "words": [
+       {
+        "w": "sidhyet",
+        "gloss": "would succeed",
+        "gram": "3 sg. opt. √sidh"
+       },
+       {
+        "w": "eva",
+        "gloss": "surely",
+        "gram": "ind."
+       },
+       {
+        "w": "auṣadham",
+        "gloss": "the medicine",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ekāntena",
+        "gloss": "invariably",
+        "gram": "m. inst. sg. (adverbial)"
+       }
+      ]
+     },
+     {
+      "src": "tacca",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prayogasauṣṭhavamupadeṣṭuṃ",
+      "words": [
+       {
+        "w": "prayoga-sauṣṭhavam",
+        "gloss": "excellence of administration",
+        "gram": "n. acc. sg., tat-puruṣa"
+       },
+       {
+        "w": "upadeṣṭum",
+        "gloss": "to teach",
+        "gram": "inf. upa-√diś"
+       }
+      ]
+     },
+     {
+      "src": "yathāvat",
+      "words": [
+       {
+        "w": "yathāvat",
+        "gloss": "properly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nahi",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaścidasti",
+      "words": [
+       {
+        "w": "kaścit",
+        "gloss": "anyone",
+        "gram": "m. nom. sg. pron."
+       },
+       {
+        "w": "asti",
+        "gloss": "is",
+        "gram": "3 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "ya",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg. rel. pron."
+       }
+      ]
+     },
+     {
+      "src": "etadevamupadiṣṭamupadhārayitumutsaheta",
+      "words": [
+       {
+        "w": "etat",
+        "gloss": "this",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "evam",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "upadiṣṭam",
+        "gloss": "taught",
+        "gram": "n. acc. sg., ppp. upa-√diś"
+       },
+       {
+        "w": "upadhārayitum",
+        "gloss": "to grasp",
+        "gram": "inf. caus. upa-√dhṛ"
+       },
+       {
+        "w": "utsaheta",
+        "gloss": "would be able",
+        "gram": "3 sg. opt. ātm. ut-√sah"
+       }
+      ]
+     },
+     {
+      "src": "upadhārya",
+      "words": [
+       {
+        "w": "upadhārya",
+        "gloss": "having grasped",
+        "gram": "abs. caus. upa-√dhṛ"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pratipattuṃ",
+      "words": [
+       {
+        "w": "pratipattum",
+        "gloss": "to carry out",
+        "gram": "inf. prati-√pad"
+       }
+      ]
+     },
+     {
+      "src": "prayoktuṃ",
+      "words": [
+       {
+        "w": "prayoktum",
+        "gloss": "to apply",
+        "gram": "inf. pra-√yuj"
+       }
+      ]
+     },
+     {
+      "src": "vā;",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sūkṣmāṇi",
+      "words": [
+       {
+        "w": "sūkṣmāṇi",
+        "gloss": "subtle",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "doṣabheṣajadeśakālabalaśarīrāhārasātmyasattvaprakṛtivayasāmavasthānatarāṇi",
+      "words": [
+       {
+        "w": "doṣa-bheṣaja-deśa-kāla-bala-śarīra-āhāra-sātmya-sattva-prakṛti-vayasām",
+        "gloss": "of doṣa, medicine, place, time, strength, body, diet, suitability, mind, constitution and age",
+        "gram": "n. gen. pl., dvandva"
+       },
+       {
+        "w": "avasthā-antarāṇi",
+        "gloss": "different states",
+        "gram": "n. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "yānyanucintyamānāni",
+      "words": [
+       {
+        "w": "yāni",
+        "gloss": "which",
+        "gram": "n. nom. pl. rel. pron."
+       },
+       {
+        "w": "anucintyamānāni",
+        "gloss": "being thought over",
+        "gram": "n. nom. pl., pres. pass. part. anu-√cint"
+       }
+      ]
+     },
+     {
+      "src": "vimalavipulabuddherapi",
+      "words": [
+       {
+        "w": "vimala-vipula-buddheḥ",
+        "gloss": "of one whose intellect is clear and vast",
+        "gram": "m. gen. sg., bahuvrīhi"
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "buddhimākulīkuryuḥ",
+      "words": [
+       {
+        "w": "buddhim",
+        "gloss": "intellect",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "ākulī-kuryuḥ",
+        "gloss": "would confuse",
+        "gram": "3 pl. opt. ākulī-√kṛ (cvi)"
+       }
+      ]
+     },
+     {
+      "src": "kiṃ",
+      "words": [
+       {
+        "w": "kim",
+        "gloss": "how much",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "punaralpabuddheḥ",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "more",
+        "gram": "ind."
+       },
+       {
+        "w": "alpa-buddheḥ",
+        "gloss": "of one of little intellect",
+        "gram": "m. gen. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "tasmādubhayametadyathāvadupadekṣyāmaḥ",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind."
+       },
+       {
+        "w": "ubhayam",
+        "gloss": "both",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "etat",
+        "gloss": "this",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "yathāvat",
+        "gloss": "properly",
+        "gram": "ind."
+       },
+       {
+        "w": "upadekṣyāmaḥ",
+        "gloss": "we shall teach",
+        "gram": "1 pl. fut. upa-√diś"
+       }
+      ]
+     },
+     {
+      "src": "samyakprayogaṃ",
+      "words": [
+       {
+        "w": "samyak-prayogam",
+        "gloss": "proper administration",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cauṣadhānāṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "auṣadhānām",
+        "gloss": "of medicines",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "vyāpannānāṃ",
+      "words": [
+       {
+        "w": "vyāpannānām",
+        "gloss": "of those that have gone wrong",
+        "gram": "n. gen. pl., ppp. vi-ā-√pad"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vyāpatsādhanāni",
+      "words": [
+       {
+        "w": "vyāpat-sādhanāni",
+        "gloss": "remedies for ill effects",
+        "gram": "n. acc. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "siddhiṣūttarakālam",
+      "words": [
+       {
+        "w": "siddhiṣu",
+        "gloss": "in the Siddhi (section)",
+        "gram": "f. loc. pl."
+       },
+       {
+        "w": "uttara-kālam",
+        "gloss": "later",
+        "gram": "ind. (adverbial acc.)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उससे भगवान् आत्रेय ने कहा: अग्निवेश, हमारे द्वारा या हमारे जैसे लोगों द्वारा भी ऐसी व्यवस्था करना सम्भव है कि व्यवस्था कर लेने पर औषध एकान्त रूप से सिद्ध हो, और उस प्रयोग-सौष्ठव का यथावत् उपदेश करना भी; क्योंकि ऐसा कोई नहीं है जो इस प्रकार उपदेश किए गए इसको धारण कर सके, या धारण करके वैसा आचरण कर सके या प्रयोग कर सके। क्योंकि दोष, भेषज, देश, काल, बल, शरीर, आहार, सात्म्य, सत्त्व, प्रकृति और वय की भिन्न-भिन्न अवस्थाएँ सूक्ष्म हैं, जिनका चिन्तन करने पर वे निर्मल और विपुल बुद्धि वाले की बुद्धि को भी व्याकुल कर दें, फिर अल्प बुद्धि वाले का क्या कहना। इसलिए हम इन दोनों का यथावत् उपदेश करेंगे: औषधों का सम्यक् प्रयोग, और बाद में सिद्धि-स्थान में व्यापन्न औषधों की व्यापत्तियों के साधन।",
+  "english": "The venerable Ātreya said to him: \"It is possible, O Agniveśa, for us or also for those like us to make arrangements in such a way that, the arrangements made, the medicine would surely succeed invariably, and to teach that excellence of administration properly; for there is no one who would be able to grasp this when thus taught, or, having grasped it, to carry it out so or to apply it. For subtle are the different states of doṣa, medicine, place, time, strength, body, diet, suitability (sātmya), mind (sattva), constitution (prakṛti) and age, which, when thought over, would confuse the intellect even of one whose intellect is clear and vast, how much more of one of little intellect. Therefore we shall teach both of these properly: the proper administration of medicines, and, later in the Siddhi (section), the remedies for the ill effects of those that have gone wrong.\"",
+  "text_flags": [
+   {
+    "src": "pratividhātumasmābhirasmadvidharivāpyagniveśa",
+    "suggest": "pratividhātumasmābhirasmadvidhairvāpyagniveśa",
+    "why": "possible: asmadvidhar is no form; the instrumental plural asmadvidhaiḥ (parallel to asmābhiḥ) followed by vā gives asmadvidhairvā, and the printed -dharivā looks like a transposition of those letters."
+   },
+   {
+    "src": "doṣabheṣajadeśakālabalaśarīrāhārasātmyasattvaprakṛtivayasāmavasthānatarāṇi",
+    "suggest": "doṣabheṣajadeśakālabalaśarīrāhārasātmyasattvaprakṛtivayasāmavasthāntarāṇi",
+    "why": "The same compound in unit 17 of this chapter is printed avasthāntarāṇi (avasthā + antara); avasthānatarāṇi is no word."
+   }
+  ],
+  "notes": "Prose passage, typed as a verse unit in the input. The nahi clause is rendered with its literal \"for\"; its sense is that the full arrangement is possible to teach but no one could grasp and apply it. siddhiṣu is a plural locative, taken as a reference to the Siddhi section; it could also mean \"in the (chapters on) successes\".",
+  "confidence": "medium"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "idānīṃ",
+      "words": [
+       {
+        "w": "idānīm",
+        "gloss": "now",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tāvat",
+      "words": [
+       {
+        "w": "tāvat",
+        "gloss": "first",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃbhārān",
+      "words": [
+       {
+        "w": "saṃbhārān",
+        "gloss": "requisites",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vividhānapi",
+      "words": [
+       {
+        "w": "vividhān",
+        "gloss": "various",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "api",
+        "gloss": "though",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "samāsenopadekṣyāmaḥ",
+      "words": [
+       {
+        "w": "samāsena",
+        "gloss": "in brief",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "upadekṣyāmaḥ",
+        "gloss": "we shall teach",
+        "gram": "1 pl. fut. upa-√diś"
+       }
+      ]
+     },
+     {
+      "src": "tadyathā",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "yathā",
+        "gloss": "as follows",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dṛḍhaṃ",
+      "words": [
+       {
+        "w": "dṛḍham",
+        "gloss": "sturdy",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nivātaṃ",
+      "words": [
+       {
+        "w": "nivātam",
+        "gloss": "sheltered from wind",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pravātaikaeśaṃ",
+      "words": [
+       {
+        "w": "pravāta-eka-deśam",
+        "gloss": "having one part open to the wind",
+        "gram": "n. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sukhapravicāramanupatyakaṃ",
+      "words": [
+       {
+        "w": "sukha-pravicāram",
+        "gloss": "easy to move about in",
+        "gram": "n. acc. sg., bahuvrīhi"
+       },
+       {
+        "w": "an-upatyakam",
+        "gloss": "not at the foot of a hill",
+        "gram": "n. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "dhūmātapajalarajasāmanabhigamanīyamaniṣṭhānāṃ",
+      "words": [
+       {
+        "w": "dhūma-ātapa-jala-rajasām",
+        "gloss": "by smoke, sun, water and dust",
+        "gram": "n. gen. pl., dvandva"
+       },
+       {
+        "w": "an-abhigamanīyam",
+        "gloss": "not to be reached",
+        "gram": "n. acc. sg., gerundive (kṛtya) abhi-√gam"
+       },
+       {
+        "w": "aniṣṭānām",
+        "gloss": "by unwelcome",
+        "gram": "m. gen. pl., ppp. √iṣ with negative"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śabdasparśarasarūpagandhānāṃ",
+      "words": [
+       {
+        "w": "śabda-sparśa-rasa-rūpa-gandhānām",
+        "gloss": "sounds, touches, tastes, sights and smells",
+        "gram": "m. gen. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "sodapānodūkhalamusalavarcaḥssthānasnānabhūmimahānasaṃ",
+      "words": [
+       {
+        "w": "sa-udapāna-udūkhala-musala-varcaḥ-sthāna-snāna-bhūmi-mahānasam",
+        "gloss": "having a well, mortar, pestle, latrine, bathing place and kitchen",
+        "gram": "n. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vāstuvidyākuśalaḥ",
+      "words": [
+       {
+        "w": "vāstu-vidyā-kuśalaḥ",
+        "gloss": "one skilled in the science of building",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "praśastaṃ",
+      "words": [
+       {
+        "w": "praśastam",
+        "gloss": "commendable",
+        "gram": "n. acc. sg., ppp. pra-√śaṃs"
+       }
+      ]
+     },
+     {
+      "src": "gṛhameva",
+      "words": [
+       {
+        "w": "gṛham",
+        "gloss": "house",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tāvat",
+      "words": [
+       {
+        "w": "tāvat",
+        "gloss": "first",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pūrvamupakalpayet",
+      "words": [
+       {
+        "w": "pūrvam",
+        "gloss": "before (all)",
+        "gram": "ind."
+       },
+       {
+        "w": "upakalpayet",
+        "gloss": "should prepare",
+        "gram": "3 sg. opt. caus. upa-√kḷp"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब पहले हम विविध होने पर भी सामग्रियों का संक्षेप से उपदेश करेंगे। जैसे: वास्तुविद्या-कुशल सबसे पहले एक प्रशस्त घर तैयार करे, जो दृढ़ हो, वायु-रहित हो, जिसका एक भाग खुली वायु वाला हो, जिसमें सुख से घूमा जा सके, जो पहाड़ की तलहटी में न हो, जिस तक धुआँ, धूप, जल और धूल न पहुँच सकें, न अप्रिय शब्द, स्पर्श, रस, रूप और गन्ध, और जिसमें कुआँ, ओखली, मूसल, शौच-स्थान, स्नान-भूमि और रसोई हो।",
+  "english": "Now first we shall teach in brief the requisites, various though they are. Namely: one skilled in the science of building should first of all prepare a commendable house that is sturdy, sheltered from wind, with one part open to the wind, easy to move about in, not at the foot of a hill, not to be reached by smoke, sun, water and dust, nor by unwelcome sounds, touches, tastes, sights and smells, and having a well, mortar, pestle, latrine, bathing place and kitchen.",
+  "text_flags": [
+   {
+    "src": "pravātaikaeśaṃ",
+    "suggest": "pravātaikadeśaṃ",
+    "why": "eka + deśa (\"one part\") is needed by the sense; aikaeśa is no word, and the d appears to have been lost in typing."
+   },
+   {
+    "src": "dhūmātapajalarajasāmanabhigamanīyamaniṣṭhānāṃ",
+    "suggest": "dhūmātapajalarajasāmanabhigamanīyamaniṣṭānāṃ",
+    "why": "possible: aniṣṭa (\"unwelcome\", from √iṣ) fits the sounds, touches and the rest; aniṣṭhā (\"non-steadiness\") does not agree with them."
+   },
+   {
+    "src": "sodapānodūkhalamusalavarcaḥssthānasnānabhūmimahānasaṃ",
+    "suggest": "sodapānodūkhalamusalavarcaḥsthānasnānabhūmimahānasaṃ",
+    "why": "varcas + sthāna gives varcaḥsthāna; the doubled s after the visarga is a typing slip."
+   }
+  ],
+  "notes": "Prose passage, typed as a verse unit in the input. The genitives (dhūma... and śabda...) give the agents with the gerundive anabhigamanīyam (\"not to be reached by\"). upatyakā is land at the foot of a mountain.",
+  "confidence": "high"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tataḥ",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śīlaśaucācārānurāgadākṣyaprādakṣiṇyopapannānupacārakuśalān",
+      "words": [
+       {
+        "w": "śīla-śauca-ācāra-anurāga-dākṣya-prādakṣiṇya-upapannān",
+        "gloss": "endowed with good character, purity, good conduct, attachment, dexterity and courtesy",
+        "gram": "m. acc. pl., tat-puruṣa with dvandva"
+       },
+       {
+        "w": "upacāra-kuśalān",
+        "gloss": "skilled in nursing care",
+        "gram": "m. acc. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sarvakarmasu",
+      "words": [
+       {
+        "w": "sarva-karmasu",
+        "gloss": "in all tasks",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "paryavadātān",
+      "words": [
+       {
+        "w": "paryavadātān",
+        "gloss": "well versed",
+        "gram": "m. acc. pl., ppp. pari-ava-√dai"
+       }
+      ]
+     },
+     {
+      "src": "sūpaudanapācakasnāpakasaṃvāhakotthāpakasaṃveśakauṣadhāpeṣakāṃśca",
+      "words": [
+       {
+        "w": "sūpa-odana-pācaka-snāpaka-saṃvāhaka-utthāpaka-saṃveśaka-auṣadha-āpeṣakān",
+        "gloss": "cooks of soup and rice, bathers, masseurs, lifters, those who lay down, grinders of medicine",
+        "gram": "m. acc. pl., dvandva"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paricārakān",
+      "words": [
+       {
+        "w": "paricārakān",
+        "gloss": "attendants",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sarvakarmasvapratikūlān",
+      "words": [
+       {
+        "w": "sarva-karmasu",
+        "gloss": "in all tasks",
+        "gram": "n. loc. pl."
+       },
+       {
+        "w": "apratikūlān",
+        "gloss": "not unwilling",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gītavāditrollāpakaślokagāthākhyāyiketihāsapurāṇakuśalānabhiprāyajñānanumatāṃśca",
+      "words": [
+       {
+        "w": "gīta-vāditra-ullāpaka-śloka-gāthā-ākhyāyikā-itihāsa-purāṇa-kuśalān",
+        "gloss": "skilled in song, instrumental music, ullāpaka, verses, gāthās, tales, itihāsa and purāṇa",
+        "gram": "m. acc. pl., tat-puruṣa with dvandva"
+       },
+       {
+        "w": "abhiprāya-jñān",
+        "gloss": "knowing intentions",
+        "gram": "m. acc. pl., upapada tat-puruṣa"
+       },
+       {
+        "w": "anumatān",
+        "gloss": "approved",
+        "gram": "m. acc. pl., ppp. anu-√man"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "deśakālavidaḥ",
+      "words": [
+       {
+        "w": "deśa-kāla-vidaḥ",
+        "gloss": "knowing place and time",
+        "gram": "m. acc. pl., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pāriṣadyāṃśca",
+      "words": [
+       {
+        "w": "pāriṣadyān",
+        "gloss": "companions (of the assembly)",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "lāvakapiñjalaśaśahariṇaiṇakālapucchakamṛgamātṛkorabhrān",
+      "words": [
+       {
+        "w": "lāva-kapiñjala-śaśa-hariṇa-eṇa-kālapucchaka-mṛgamātṛka-urabhrān",
+        "gloss": "lāva birds, kapiñjala birds, hares, hariṇa deer, eṇa deer, kālapucchaka deer, mṛgamātṛka deer and rams",
+        "gram": "m. acc. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "gāṃ",
+      "words": [
+       {
+        "w": "gām",
+        "gloss": "a cow",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dogdhrīṃ",
+      "words": [
+       {
+        "w": "dogdhrīm",
+        "gloss": "yielding milk",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śīlavatīmanāturāṃ",
+      "words": [
+       {
+        "w": "śīlavatīm",
+        "gloss": "gentle",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "anāturām",
+        "gloss": "healthy",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jīvadvatsāṃ",
+      "words": [
+       {
+        "w": "jīvat-vatsām",
+        "gloss": "whose calf is living",
+        "gram": "f. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "suprativihitatṛṇaśaraṇapānīyāṃ,",
+      "words": [
+       {
+        "w": "su-prativihita-tṛṇa-śaraṇa-pānīyām",
+        "gloss": "well provided with grass, shelter and drinking water",
+        "gram": "f. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "pātryācamanīyodakoṣṭhamaṇikaghaṭapiṭharaparyogakumbhīkumbhakuṇḍaśarāvadarvīkaṭodañcanaparipacanamanthānacarmacelasūtrakārpāsorṇādīni",
+      "words": [
+       {
+        "w": "pātrī-ācamanīya-udaka-koṣṭha-maṇika-ghaṭa-piṭhara-paryoga-kumbhī-kumbha-kuṇḍa-śarāva-darvī-kaṭa-udañcana-paripacana-manthāna-carma-cela-sūtra-kārpāsa-ūrṇā-ādīni",
+        "gloss": "dishes, rinsing vessels, water tanks, maṇika jars, pots, piṭhara pans, paryoga vessels, kumbhī pots, jars, basins, saucers, ladles, mats, buckets, cooking pans, churners, leather, cloth, thread, cotton, wool and the like",
+        "gram": "n. acc. pl., dvandva ending in ādi (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śayanāsanādīni",
+      "words": [
+       {
+        "w": "śayana-āsana-ādīni",
+        "gloss": "beds, seats and the like",
+        "gram": "n. acc. pl., dvandva ending in ādi (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "copanyastabhṛṅgārapratigrāaṇi",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "upanyasta-bhṛṅgāra-pratigrahāṇi",
+        "gloss": "with ewers and receptacles placed near",
+        "gram": "n. acc. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "suprayuktāstaraṇottarapracchadopadhānāni",
+      "words": [
+       {
+        "w": "su-prayukta-āstaraṇa-uttarapracchada-upadhānāni",
+        "gloss": "with well-arranged spreads, upper covers and pillows",
+        "gram": "n. acc. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sopāśrayāṇi",
+      "words": [
+       {
+        "w": "sa-upāśrayāṇi",
+        "gloss": "with back-rests",
+        "gram": "n. acc. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "saṃveśanopaveśanasnehasvedābhyaṅgapradehapariṣekānulepanavamanavirecanāsthāpanānuvāsanaśirovirecanamūtroccārakarmaṇāmupacārasukhāni",
+      "words": [
+       {
+        "w": "saṃveśana-upaveśana-sneha-sveda-abhyaṅga-pradeha-pariṣeka-anulepana-vamana-virecana-āsthāpana-anuvāsana-śirovirecana-mūtra-uccāra-karmaṇām",
+        "gloss": "for the acts of lying down, sitting, oleation, sweating, oil massage, plaster, affusion, anointing, emesis, purgation, decoction enema, unctuous enema, head-evacuation, urination and defecation",
+        "gram": "n. gen. pl., tat-puruṣa with dvandva"
+       },
+       {
+        "w": "upacāra-sukhāni",
+        "gloss": "convenient for use",
+        "gram": "n. acc. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "suprakṣālitopadhānāśca",
+      "words": [
+       {
+        "w": "su-prakṣālita-upadhānāḥ",
+        "gloss": "with well-washed upper stones",
+        "gram": "f. acc. pl., bahuvrīhi"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "suślakṣṇasvaramadhyamā",
+      "words": [
+       {
+        "w": "su-ślakṣṇa-khara-madhyamāḥ",
+        "gloss": "very smooth, rough and medium",
+        "gram": "f. acc. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "dṛṣadaḥ,",
+      "words": [
+       {
+        "w": "dṛṣadaḥ",
+        "gloss": "grinding stones",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "śastrāṇi",
+      "words": [
+       {
+        "w": "śastrāṇi",
+        "gloss": "knives (surgical instruments)",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "copakaraṇārthāni",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "upakaraṇa-arthāni",
+        "gloss": "serving as equipment",
+        "gram": "n. acc. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "dhūmanetraṃ",
+      "words": [
+       {
+        "w": "dhūma-netram",
+        "gloss": "smoking pipe",
+        "gram": "n. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bastinetraṃ",
+      "words": [
+       {
+        "w": "basti-netram",
+        "gloss": "enema nozzle",
+        "gram": "n. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "cottarabastikaṃca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "uttarabastikam",
+        "gloss": "uttarabasti nozzle",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kuśahastakaṃ",
+      "words": [
+       {
+        "w": "kuśa-hastakam",
+        "gloss": "handful of kuśa grass",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tulāṃ",
+      "words": [
+       {
+        "w": "tulām",
+        "gloss": "a balance",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mānabhāṇḍaṃ",
+      "words": [
+       {
+        "w": "māna-bhāṇḍam",
+        "gloss": "measuring vessel",
+        "gram": "n. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ghṛtatailavasāmajjakṣaudraphāṇitalavaṇendhanodakamadhusīdhusurāsauvīrakatuṣodakamaireyamedakadadhidadhimaṇḍodasviddhānyāmlamūtrāṇi",
+      "words": [
+       {
+        "w": "ghṛta-taila-vasā-majja-kṣaudra-phāṇita-lavaṇa-indhana-udaka-madhu-sīdhu-surā-sauvīraka-tuṣodaka-maireya-medaka-dadhi-dadhimaṇḍa-udasvit-dhānyāmla-mūtrāṇi",
+        "gloss": "ghee, oil, muscle-fat, marrow, honey, phāṇita, salt, fuel, water, madhu, sīdhu, surā, sauvīraka, tuṣodaka, maireya, medaka, curd, curd-scum, udasvit, sour gruel and urines",
+        "gram": "n. acc. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śāliṣaṣṭikamudgamāṣayavatilakulatthabadaramṛdvīkākāśmaryaparūṣakābhayāmalakabibhītakāni",
+      "words": [
+       {
+        "w": "śāli-ṣaṣṭika-mudga-māṣa-yava-tila-kulattha-badara-mṛdvīkā-kāśmarya-parūṣaka-abhayā-āmalaka-bibhītakāni",
+        "gloss": "śāli rice, ṣaṣṭika rice, mudga, māṣa, barley, sesame, kulattha, badara, grapes, kāśmarya, parūṣaka, abhayā, āmalaka and bibhītaka",
+        "gram": "n. acc. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "nānāvidhāni",
+      "words": [
+       {
+        "w": "nānāvidhāni",
+        "gloss": "of various kinds",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "snehasvedopakaraṇāni",
+      "words": [
+       {
+        "w": "sneha-sveda-upakaraṇāni",
+        "gloss": "serving as means of oleation and sweating",
+        "gram": "n. acc. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "dravyāṇi",
+      "words": [
+       {
+        "w": "dravyāṇi",
+        "gloss": "substances",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "tathaivordhvaharānulomikobhayabhāñji",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       },
+       {
+        "w": "ūrdhvahara-ānulomika-ubhayabhāñji",
+        "gloss": "removing upward, moving downward, and acting both ways",
+        "gram": "n. acc. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "saṃgrahanīyadīpanīyapācanīyopaśamanīyavātaharādisamākhyātāni",
+      "words": [
+       {
+        "w": "saṃgrahaṇīya-dīpanīya-pācanīya-upaśamanīya-vātahara-ādi-samākhyātāni",
+        "gloss": "named binding, stimulating digestion, digesting, pacifying, Vāta-removing and so on",
+        "gram": "n. acc. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "cauṣadhāni;",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "auṣadhāni",
+        "gloss": "medicines",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "yaccānyadapi",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "whatever",
+        "gram": "n. acc. sg. rel. pron."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anyat",
+        "gloss": "other",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kiñcidvyāpadaḥ",
+      "words": [
+       {
+        "w": "kiñcit",
+        "gloss": "any",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "vyāpadaḥ",
+        "gloss": "ill effects",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "parisaṃkhyāya",
+      "words": [
+       {
+        "w": "parisaṃkhyāya",
+        "gloss": "having reckoned up",
+        "gram": "abs. pari-sam-√khyā"
+       }
+      ]
+     },
+     {
+      "src": "pratīkārārthamupakaraṇaṃ",
+      "words": [
+       {
+        "w": "pratīkāra-artham",
+        "gloss": "for counteracting",
+        "gram": "ind. (adverbial acc.)"
+       },
+       {
+        "w": "upakaraṇam",
+        "gloss": "equipment",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidyāt",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "he would know of",
+        "gram": "3 sg. opt. √vid"
+       }
+      ]
+     },
+     {
+      "src": "yaccā",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "whatever",
+        "gram": "n. acc. sg. rel. pron."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pratibhogārthaṃ",
+      "words": [
+       {
+        "w": "prati-bhoga-artham",
+        "gloss": "for attendant use",
+        "gram": "n. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "tattadupakalpayet",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "tat",
+        "gloss": "that (each)",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "upakalpayet",
+        "gloss": "should prepare",
+        "gram": "3 sg. opt. caus. upa-√kḷp"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "फिर शील, शौच, आचार, अनुराग, दक्षता और विनम्रता से युक्त, उपचार में कुशल, सब कर्मों में निपुण, दाल और भात पकाने वाले, स्नान कराने वाले, संवाहन करने वाले, उठाने वाले, लिटाने वाले और औषध पीसने वाले परिचारकों को, जो सब कर्मों में प्रतिकूल न हों; तथा गीत, वाद्य, उल्लापक, श्लोक, गाथा, आख्यायिका, इतिहास और पुराण में कुशल, अभिप्राय को जानने वाले, अनुमत, और देश-काल को जानने वाले पारिषद्यों को; तथा लाव, कपिञ्जल, शश, हरिण, एण, कालपुच्छक, मृगमातृक और उरभ्र को; दूध देने वाली, शीलवती, नीरोग, जीवित बछड़े वाली, जिसके लिए घास, आश्रय और पानी की अच्छी व्यवस्था हो ऐसी गाय को; पात्री, आचमनीय, उदक-कोष्ठ, मणिक, घट, पिठर, पर्योग, कुम्भी, कुम्भ, कुण्ड, शराव, दर्वी, कट, उदञ्चन, परिपचन, मन्थान, चर्म, चेल, सूत्र, कपास, ऊन आदि को; और शयन, आसन आदि को, जिनके पास भृङ्गार और प्रतिग्रह रखे हों, जिन पर बिछौने, ऊपर की चादर और तकिए अच्छी प्रकार लगे हों, जो आश्रय-सहित हों, और जो संवेशन, उपवेशन, स्नेह, स्वेद, अभ्यङ्ग, प्रदेह, परिषेक, अनुलेपन, वमन, विरेचन, आस्थापन, अनुवासन, शिरोविरेचन, मूत्र और मल-त्याग के कर्मों के लिए उपयोग में सुखद हों; अच्छी प्रकार धोए गए ऊपरी पत्थरों वाली, बहुत चिकनी, खुरदरी और मध्यम सिलों को; उपकरण के रूप में शस्त्रों को, धूमनेत्र, बस्तिनेत्र, उत्तरबस्तिक, कुश-हस्तक, तुला और मान-भाण्ड को; घृत, तेल, वसा, मज्जा, क्षौद्र, फाणित, लवण, ईंधन, जल, मधु, सीधु, सुरा, सौवीरक, तुषोदक, मैरेय, मेदक, दही, दधिमण्ड, उदश्वित्, धान्याम्ल और मूत्रों को; तथा शालि, षष्टिक, मुद्ग, माष, यव, तिल, कुलत्थ, बदर, मृद्वीका, काश्मर्य, परूषक, अभया, आमलक और बिभीतक को, और नाना प्रकार के स्नेह और स्वेद के साधन रूप द्रव्यों को; तथा ऊर्ध्वहर, अनुलोमिक और उभयभाक्, तथा संग्रहणीय, दीपनीय, पाचनीय, उपशमनीय, वातहर आदि नाम वाली औषधियों को; और अन्य भी जो कुछ उपकरण व्यापत्तियों की गणना करके प्रतीकार के लिए वह जाने, और जो प्रतिभोग के लिए हो, वह-वह तैयार करे।",
+  "english": "Then he should prepare: attendants endowed with good character, purity, good conduct, attachment, dexterity and courtesy, skilled in nursing care, well versed in all tasks, cooks of soup and rice, bathers, masseurs, lifters, those who lay the patient down and grinders of medicine, not unwilling in any task; likewise companions skilled in song, instrumental music, ullāpaka, verses, gāthās, tales (ākhyāyikā), itihāsa and purāṇa, knowing intentions, approved and knowing place and time; likewise lāva birds, kapiñjala birds, hares, hariṇa deer, eṇa deer, kālapucchaka deer, mṛgamātṛka deer and rams; a cow yielding milk, gentle, healthy, with a living calf, well provided with grass, shelter and drinking water; dishes, rinsing vessels, water tanks, maṇika jars, pots, piṭhara pans, paryoga vessels, kumbhī pots, jars, basins, saucers, ladles, mats, buckets, cooking pans, churners, leather, cloth, thread, cotton, wool and the like; and beds, seats and the like, with ewers and receptacles placed near, with well-arranged spreads, upper covers and pillows, with back-rests, convenient for use in the acts of lying down, sitting, oleation, sweating, oil massage, plaster, affusion, anointing, emesis, purgation, decoction enema, unctuous enema, head-evacuation, urination and defecation; grinding stones, very smooth, rough and medium, with well-washed upper stones; knives serving as equipment, a smoking pipe, an enema nozzle, an uttarabasti nozzle, a handful of kuśa grass, a balance and a measuring vessel; ghee, oil, muscle-fat, marrow, honey (kṣaudra), phāṇita, salt, fuel, water, madhu, sīdhu, surā, sauvīraka, tuṣodaka, maireya, medaka, curd, curd-scum, udasvit, sour gruel (dhānyāmla) and urines; likewise śāli rice, ṣaṣṭika rice, mudga, māṣa, barley, sesame, kulattha, badara, grapes, kāśmarya, parūṣaka, abhayā, āmalaka and bibhītaka, and substances of various kinds serving as means of oleation and sweating; and likewise medicines that remove upward, move downward, and act both ways, and those named binding, stimulating digestion, digesting, pacifying, Vāta-removing and so on; and whatever other equipment he would know of for counteracting ill effects, having reckoned them up, and whatever serves for attendant use: each such thing he should prepare.",
+  "text_flags": [
+   {
+    "src": "copanyastabhṛṅgārapratigrāaṇi",
+    "suggest": "copanyastabhṛṅgārapratigrahāṇi",
+    "why": "pratigraha (\"receptacle\") occurs in unit 11 of this chapter (pratigrahāṃś, lālāṭapratigrahe); the printed grāaṇi has lost the h and has a doubled vowel."
+   },
+   {
+    "src": "suślakṣṇasvaramadhyamā",
+    "suggest": "suślakṣṇakharamadhyamā",
+    "why": "possible: svara (\"voice\") gives no sense among qualities of grinding stones; khara (\"rough\") makes a series smooth, rough and medium."
+   },
+   {
+    "src": "saṃgrahanīyadīpanīyapācanīyopaśamanīyavātaharādisamākhyātāni",
+    "suggest": "saṃgrahaṇīyadīpanīyapācanīyopaśamanīyavātaharādisamākhyātāni",
+    "why": "In saṃgrahaṇīya the n follows r with only gutturals, labials and vowels between, so it must be retroflex ṇ (internal sandhi)."
+   },
+   {
+    "src": "yaccā",
+    "suggest": "yacca",
+    "why": "yat + ca gives yacca; the long ā has no basis, and the same phrase in this unit is printed yaccānyadapi."
+   }
+  ],
+  "notes": "Prose passage, typed as a verse unit in the input; all the accusatives are objects of the closing upakalpayet. lāvakapiñjala is split lāva + kapiñjala (two birds). Names of vessels (maṇika, piṭhara, paryoga, kumbhī), drinks (madhu, sīdhu, surā, sauvīraka, tuṣodaka, maireya, medaka, udasvit) and plants (mudga, māṣa, kulattha, badara, kāśmarya, parūṣaka, abhayā, āmalaka, bibhītaka) are kept in Sanskrit; badara = jujube (standard). ullāpaka is kept in Sanskrit (some kind of talk or recitation). upadhāna of a grinding stone is taken as the upper stone used for grinding. vidyāt is read with parisaṃkhyāya: \"whatever he would know (to be needed), having reckoned up the ill effects\".",
+  "confidence": "medium"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatastaṃ",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       },
+       {
+        "w": "tam",
+        "gloss": "that",
+        "gram": "m. acc. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "puruṣaṃ",
+      "words": [
+       {
+        "w": "puruṣam",
+        "gloss": "person",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yathoktābhyāṃ",
+      "words": [
+       {
+        "w": "yathā-uktābhyām",
+        "gloss": "as described",
+        "gram": "m. inst. du."
+       }
+      ]
+     },
+     {
+      "src": "snehasvedābhyāṃ",
+      "words": [
+       {
+        "w": "sneha-svedābhyām",
+        "gloss": "with oleation and sweating",
+        "gram": "m. inst. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "yathārhamupapādayet",
+      "words": [
+       {
+        "w": "yathārham",
+        "gloss": "as is fitting",
+        "gram": "ind."
+       },
+       {
+        "w": "upapādayet",
+        "gloss": "should treat",
+        "gram": "3 sg. opt. caus. upa-√pad"
+       }
+      ]
+     },
+     {
+      "src": "taṃ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "cedasminnantare",
+      "words": [
+       {
+        "w": "cet",
+        "gloss": "if",
+        "gram": "ind."
+       },
+       {
+        "w": "asmin",
+        "gloss": "in this",
+        "gram": "n. loc. sg. pron."
+       },
+       {
+        "w": "antare",
+        "gloss": "interval",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mānasaḥ",
+      "words": [
+       {
+        "w": "mānasaḥ",
+        "gloss": "mental",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śarīro",
+      "words": [
+       {
+        "w": "śārīraḥ",
+        "gloss": "bodily",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vyādhiḥ",
+      "words": [
+       {
+        "w": "vyādhiḥ",
+        "gloss": "disease",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaścittīvrataraḥ",
+      "words": [
+       {
+        "w": "kaścit",
+        "gloss": "some",
+        "gram": "m. nom. sg. pron."
+       },
+       {
+        "w": "tīvrataraḥ",
+        "gloss": "more severe",
+        "gram": "m. nom. sg., comparative"
+       }
+      ]
+     },
+     {
+      "src": "sahasābhyāgacchettameya",
+      "words": [
+       {
+        "w": "sahasā",
+        "gloss": "suddenly",
+        "gram": "ind."
+       },
+       {
+        "w": "abhyāgacchet",
+        "gloss": "should come upon",
+        "gram": "3 sg. opt. abhi-ā-√gam"
+       },
+       {
+        "w": "tam",
+        "gloss": "that",
+        "gram": "m. acc. sg. pron."
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tāvadasyopāvartayituṃ",
+      "words": [
+       {
+        "w": "tāvat",
+        "gloss": "first",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg. pron."
+       },
+       {
+        "w": "upāvartayitum",
+        "gloss": "to turn back",
+        "gram": "inf. caus. upa-ā-√vṛt"
+       }
+      ]
+     },
+     {
+      "src": "yateta",
+      "words": [
+       {
+        "w": "yateta",
+        "gloss": "should strive",
+        "gram": "3 sg. opt. ātm. √yat"
+       }
+      ]
+     },
+     {
+      "src": "tatastamupāvartya",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       },
+       {
+        "w": "tam",
+        "gloss": "that",
+        "gram": "m. acc. sg. pron."
+       },
+       {
+        "w": "upāvartya",
+        "gloss": "having turned back",
+        "gram": "abs. caus. upa-ā-√vṛt"
+       }
+      ]
+     },
+     {
+      "src": "tāvantamevainaṃ",
+      "words": [
+       {
+        "w": "tāvantam",
+        "gloss": "that much",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       },
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "kālaṃ",
+      "words": [
+       {
+        "w": "kālam",
+        "gloss": "time",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tathāvidhenaiva",
+      "words": [
+       {
+        "w": "tathāvidhena",
+        "gloss": "of that kind",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "karmaṇopācaret",
+      "words": [
+       {
+        "w": "karmaṇā",
+        "gloss": "with procedure",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "upācaret",
+        "gloss": "should treat",
+        "gram": "3 sg. opt. upa-ā-√car"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "फिर उस पुरुष को यथोक्त स्नेह और स्वेद से यथायोग्य उपचारित करे। यदि इस बीच में उस पर कोई अधिक तीव्र मानस या शारीर व्याधि सहसा आ जाए, तो पहले उसकी उसी व्याधि को लौटाने का यत्न करे; फिर उसे लौटाकर उतने ही काल तक उसका उसी प्रकार के कर्म से उपचार करे।",
+  "english": "Then he should treat that person, as is fitting, with oleation and sweating as described. If in this interval some more severe disease, mental or bodily, should suddenly come upon him, he should first strive to turn back just that disease of his; then, having turned it back, he should treat him for just as long a time with just such a procedure.",
+  "text_flags": [
+   {
+    "src": "śarīro",
+    "suggest": "śārīro",
+    "why": "possible: paired with mānasaḥ (\"mental\") the adjective śārīraḥ (\"bodily\") is needed; śarīraḥ would be the noun \"body\"."
+   },
+   {
+    "src": "sahasābhyāgacchettameya",
+    "suggest": "sahasābhyāgacchettameva",
+    "why": "tam + eva (\"just that\") gives tameva; tameya is no form."
+   }
+  ],
+  "notes": "Prose passage, typed as a verse unit in the input. tāvantam eva kālam tathāvidhena eva karmaṇā is rendered literally; it seems to mean that the oleation and sweating are carried on again for as long a time as before.",
+  "confidence": "medium"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatastaṃ",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       },
+       {
+        "w": "tam",
+        "gloss": "that",
+        "gram": "m. acc. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "puruṣaṃ",
+      "words": [
+       {
+        "w": "puruṣam",
+        "gloss": "person",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "snehasvedopapannamanupahatamanasamabhisamīkṣya",
+      "words": [
+       {
+        "w": "sneha-sveda-upapannam",
+        "gloss": "furnished with oleation and sweating",
+        "gram": "m. acc. sg., tat-puruṣa"
+       },
+       {
+        "w": "anupahata-manasam",
+        "gloss": "whose mind is unimpaired",
+        "gram": "m. acc. sg., bahuvrīhi"
+       },
+       {
+        "w": "abhisamīkṣya",
+        "gloss": "having observed",
+        "gram": "abs. abhi-sam-√īkṣ"
+       }
+      ]
+     },
+     {
+      "src": "sukhoṣitaṃ",
+      "words": [
+       {
+        "w": "sukha-uṣitam",
+        "gloss": "who has passed the night comfortably",
+        "gram": "m. acc. sg., ppp. √vas"
+       }
+      ]
+     },
+     {
+      "src": "suprajīrṇabhaktaṃ",
+      "words": [
+       {
+        "w": "su-prajīrṇa-bhaktam",
+        "gloss": "whose food is well digested",
+        "gram": "m. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "śiraḥsnātamanuliptagātraṃ",
+      "words": [
+       {
+        "w": "śiraḥ-snātam",
+        "gloss": "bathed including the head",
+        "gram": "m. acc. sg., tat-puruṣa"
+       },
+       {
+        "w": "anulipta-gātram",
+        "gloss": "whose limbs are anointed",
+        "gram": "m. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sragviṇamanupahatavastrasaṃvītaṃ",
+      "words": [
+       {
+        "w": "sragviṇam",
+        "gloss": "garlanded",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "anupahata-vastra-saṃvītam",
+        "gloss": "clad in unsoiled clothes",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "devatāgnidvijaguruvṛddhavaidyānarcitavantamiṣṭe",
+      "words": [
+       {
+        "w": "devatā-agni-dvija-guru-vṛddha-vaidyān",
+        "gloss": "gods, fire, the twice-born, teachers, elders and physicians",
+        "gram": "m. acc. pl., dvandva"
+       },
+       {
+        "w": "arcitavantam",
+        "gloss": "who has worshipped",
+        "gram": "m. acc. sg., past act. part. √arc"
+       },
+       {
+        "w": "iṣṭe",
+        "gloss": "on a desired",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nakṣatratithikaraṇamuhūrte",
+      "words": [
+       {
+        "w": "nakṣatra-tithi-karaṇa-muhūrte",
+        "gloss": "asterism, lunar day, karaṇa and muhūrta",
+        "gram": "n. loc. sg., samāhāra dvandva"
+       }
+      ]
+     },
+     {
+      "src": "kārayitvā",
+      "words": [
+       {
+        "w": "kārayitvā",
+        "gloss": "having caused to perform",
+        "gram": "abs. caus. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "brāhmaṇān",
+      "words": [
+       {
+        "w": "brāhmaṇān",
+        "gloss": "brahmins",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "svastivācanaṃ",
+      "words": [
+       {
+        "w": "svasti-vācanam",
+        "gloss": "recitation of blessings (svasti)",
+        "gram": "n. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "prayuktābhirāśīrbhirabhimantritāṃ",
+      "words": [
+       {
+        "w": "prayuktābhiḥ",
+        "gloss": "pronounced",
+        "gram": "f. inst. pl., ppp. pra-√yuj"
+       },
+       {
+        "w": "āśīrbhiḥ",
+        "gloss": "with benedictions",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "abhimantritām",
+        "gloss": "consecrated",
+        "gram": "f. acc. sg., ppp. abhi-√mantr"
+       }
+      ]
+     },
+     {
+      "src": "madhumadhukasaindhavaphāṇitopahitāṃ",
+      "words": [
+       {
+        "w": "madhu-madhuka-saindhava-phāṇita-upahitām",
+        "gloss": "mixed with honey, madhuka, rock salt and phāṇita",
+        "gram": "f. acc. sg., tat-puruṣa with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "madanaphalakaṣāyamātrāṃ",
+      "words": [
+       {
+        "w": "madanaphala-kaṣāya-mātrām",
+        "gloss": "a measure of madanaphala extract (kaṣāya)",
+        "gram": "f. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pāyayet",
+      "words": [
+       {
+        "w": "pāyayet",
+        "gloss": "should make drink",
+        "gram": "3 sg. opt. caus. √pā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "फिर उस पुरुष को, जो स्नेह और स्वेद से युक्त हो, जिसका मन अनुपहत हो, जिसने रात सुख से बिताई हो, जिसका भोजन अच्छी प्रकार पच गया हो, जिसने सिर सहित स्नान किया हो, जिसके अङ्गों पर अनुलेप लगा हो, जो माला पहने हो, जो अनुपहत वस्त्र पहने हो, और जिसने देवता, अग्नि, द्विज, गुरु, वृद्ध और वैद्यों की पूजा कर ली हो, ऐसा देखकर, इष्ट नक्षत्र, तिथि, करण और मुहूर्त में ब्राह्मणों से स्वस्तिवाचन कराकर, प्रयुक्त आशीर्वादों से अभिमन्त्रित, मधु, मधुक, सैन्धव और फाणित मिलाई हुई मदनफल-कषाय की मात्रा पिलाए।",
+  "english": "Then, having observed that person to be furnished with oleation and sweating, of unimpaired mind, to have passed the night comfortably, his food well digested, bathed including the head, his limbs anointed, garlanded, clad in unsoiled clothes, and to have worshipped the gods, fire, the twice-born, teachers, elders and physicians, he should, on a desired asterism, lunar day, karaṇa and muhūrta, having had brahmins perform the recitation of blessings (svasti), make him drink a measure of madanaphala extract (kaṣāya), consecrated with benedictions pronounced, and mixed with honey, madhuka, rock salt and phāṇita.",
+  "text_flags": [],
+  "notes": "Prose passage, typed as a verse unit in the input. kārayitvā takes a double accusative (brāhmaṇān, svastivācanam). madanaphala and madhuka are kept in Sanskrit (identifications not given). kaṣāya here is the medicinal extract, not the taste.",
+  "confidence": "high"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "madanaphalakaṣāyamātrāpramāṇaṃ",
+      "words": [
+       {
+        "w": "madanaphala-kaṣāya-mātrā-pramāṇam",
+        "gloss": "the size of the measure of madanaphala extract",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "khalu",
+      "words": [
+       {
+        "w": "khalu",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sarvasaṃśodhanamātrāpramāṇāni",
+      "words": [
+       {
+        "w": "sarva-saṃśodhana-mātrā-pramāṇāni",
+        "gloss": "the sizes of the measures of all purifying drugs",
+        "gram": "n. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pratipuruṣamapekṣitavyāni",
+      "words": [
+       {
+        "w": "pratipuruṣam",
+        "gloss": "for each person",
+        "gram": "ind., avyayībhāva"
+       },
+       {
+        "w": "apekṣitavyāni",
+        "gloss": "to be considered",
+        "gram": "n. nom. pl., gerundive (kṛtya) apa-√īkṣ"
+       }
+      ]
+     },
+     {
+      "src": "bhavanti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "yāvaddhi",
+      "words": [
+       {
+        "w": "yāvat",
+        "gloss": "as much as",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg. rel. pron."
+       }
+      ]
+     },
+     {
+      "src": "saṃśodhanaṃ",
+      "words": [
+       {
+        "w": "saṃśodhanam",
+        "gloss": "purifying drug",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pītaṃ",
+      "words": [
+       {
+        "w": "pītam",
+        "gloss": "drunk",
+        "gram": "n. nom. sg., ppp. √pā"
+       }
+      ]
+     },
+     {
+      "src": "vaikārikadoṣaharaṇāyopapadyate",
+      "words": [
+       {
+        "w": "vaikārika-doṣa-haraṇāya",
+        "gloss": "for removing the morbid doṣas",
+        "gram": "n. dat. sg., tat-puruṣa"
+       },
+       {
+        "w": "upapadyate",
+        "gloss": "suffices",
+        "gram": "3 sg. pres. ātm. upa-√pad"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cātiyogāyogāya",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "atiyoga-ayogāya",
+        "gloss": "for excessive or deficient action",
+        "gram": "n. dat. sg., samāhāra dvandva"
+       }
+      ]
+     },
+     {
+      "src": "tāvadasya",
+      "words": [
+       {
+        "w": "tāvat",
+        "gloss": "that much",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "mātrāpramāṇaṃ",
+      "words": [
+       {
+        "w": "mātrā-pramāṇam",
+        "gloss": "size of the measure",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "veditavyaṃ",
+      "words": [
+       {
+        "w": "veditavyam",
+        "gloss": "to be known",
+        "gram": "n. nom. sg., gerundive (kṛtya) √vid"
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मदनफल-कषाय की मात्रा का प्रमाण, और सब संशोधनों की मात्राओं के प्रमाण, प्रत्येक पुरुष के अनुसार विचारणीय होते हैं; क्योंकि जिसका जितना संशोधन पिया जाकर विकार करने वाले दोषों को हरने के लिए पर्याप्त होता है, और अतियोग या अयोग के लिए नहीं, उतना उसकी मात्रा का प्रमाण जानना चाहिए।",
+  "english": "But the size of the measure of madanaphala extract, and the sizes of the measures of all purifying drugs, are to be considered for each person; for as much purifying drug as, when drunk by someone, suffices for removing the morbid doṣas and not for excessive or deficient action, that much is to be known as the size of his measure.",
+  "text_flags": [],
+  "notes": "Prose passage, typed as a verse unit in the input. vaikārika doṣa is rendered \"morbid doṣas\" (doṣas that cause disorder, vikāra).",
+  "confidence": "high"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pītavantaṃ",
+      "words": [
+       {
+        "w": "pītavantam",
+        "gloss": "who has drunk",
+        "gram": "m. acc. sg., past act. part. √pā"
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "khalvenaṃ",
+      "words": [
+       {
+        "w": "khalu",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "muhūrtamanukāṃkṣeta",
+      "words": [
+       {
+        "w": "muhūrtam",
+        "gloss": "for a muhūrta",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "anukāṅkṣeta",
+        "gloss": "should wait for",
+        "gram": "3 sg. opt. ātm. anu-√kāṅkṣ"
+       }
+      ]
+     },
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "his",
+        "gram": "m. gen. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "yadā",
+      "words": [
+       {
+        "w": "yadā",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jānīyāt",
+      "words": [
+       {
+        "w": "jānīyāt",
+        "gloss": "he should know",
+        "gram": "3 sg. opt. √jñā"
+       }
+      ]
+     },
+     {
+      "src": "svedaprādurbhāveṇa",
+      "words": [
+       {
+        "w": "sveda-prādurbhāveṇa",
+        "gloss": "by the appearance of sweat",
+        "gram": "m. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "doṣaṃ",
+      "words": [
+       {
+        "w": "doṣam",
+        "gloss": "the doṣa",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pravilayanamāpadyamānaṃ",
+      "words": [
+       {
+        "w": "pravilayanam",
+        "gloss": "liquefaction",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "āpadyamānam",
+        "gloss": "undergoing",
+        "gram": "m. acc. sg., pres. part. ātm. ā-√pad"
+       }
+      ]
+     },
+     {
+      "src": "lomaharṣeṇa",
+      "words": [
+       {
+        "w": "loma-harṣeṇa",
+        "gloss": "by horripilation",
+        "gram": "m. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sthānebhyaḥ",
+      "words": [
+       {
+        "w": "sthānebhyaḥ",
+        "gloss": "from its sites",
+        "gram": "n. abl. pl."
+       }
+      ]
+     },
+     {
+      "src": "pracalitaṃ",
+      "words": [
+       {
+        "w": "pracalitam",
+        "gloss": "dislodged",
+        "gram": "m. acc. sg., ppp. pra-√cal"
+       }
+      ]
+     },
+     {
+      "src": "kukṣisamādhmāpanena",
+      "words": [
+       {
+        "w": "kukṣi-samādhmāpanena",
+        "gloss": "by distension of the abdomen",
+        "gram": "n. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kukṣimanugataṃ",
+      "words": [
+       {
+        "w": "kukṣim",
+        "gloss": "the abdomen",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "anugatam",
+        "gloss": "having reached",
+        "gram": "m. acc. sg., ppp. anu-√gam"
+       }
+      ]
+     },
+     {
+      "src": "hṛllāsāsyasravaṇābhyāmapi",
+      "words": [
+       {
+        "w": "hṛllāsa-āsya-sravaṇābhyām",
+        "gloss": "by nausea and flow from the mouth",
+        "gram": "n. inst. du., dvandva"
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cordhvamukhībhūtām",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ūrdhva-mukhībhūtam",
+        "gloss": "turned upward",
+        "gram": "m. acc. sg., ppp. ūrdhvamukhī-√bhū (cvi)"
+       }
+      ]
+     },
+     {
+      "src": "athāsmai",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "then",
+        "gram": "ind."
+       },
+       {
+        "w": "asmai",
+        "gloss": "to him",
+        "gram": "m. dat. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "jānusamamasaṃabādhaṃ",
+      "words": [
+       {
+        "w": "jānu-samam",
+        "gloss": "knee-high",
+        "gram": "n. acc. sg., tat-puruṣa"
+       },
+       {
+        "w": "asaṃbādham",
+        "gloss": "uncramped",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "suprayuktāstaraṇottarapracchadopadhānaṃ",
+      "words": [
+       {
+        "w": "su-prayukta-āstaraṇa-uttarapracchada-upadhānam",
+        "gloss": "with well-arranged spread, upper cover and pillow",
+        "gram": "n. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sopāśrayamāsanamupaveṣṭuṃ",
+      "words": [
+       {
+        "w": "sa-upāśrayam",
+        "gloss": "with a back-rest",
+        "gram": "n. acc. sg., bahuvrīhi"
+       },
+       {
+        "w": "āsanam",
+        "gloss": "seat",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "upaveṣṭum",
+        "gloss": "to sit on",
+        "gram": "inf. upa-√viś"
+       }
+      ]
+     },
+     {
+      "src": "prayacchet",
+      "words": [
+       {
+        "w": "prayacchet",
+        "gloss": "should give",
+        "gram": "3 sg. opt. pra-√yam"
+       }
+      ]
+     },
+     {
+      "src": "pratigrahāṃścopacārayet",
+      "words": [
+       {
+        "w": "pratigrahān",
+        "gloss": "receptacles",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "upacārayet",
+        "gloss": "should have brought near",
+        "gram": "3 sg. opt. caus. upa-√car"
+       }
+      ]
+     },
+     {
+      "src": "lālāṭapratigrahe",
+      "words": [
+       {
+        "w": "lālāṭa-pratigrahe",
+        "gloss": "in holding the forehead",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pārśvopagrahaṇe",
+      "words": [
+       {
+        "w": "pārśva-upagrahaṇe",
+        "gloss": "in supporting the sides",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "nābhiprapīḍane",
+      "words": [
+       {
+        "w": "nābhi-prapīḍane",
+        "gloss": "in pressing the navel",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pṛṣṭhonmardane",
+      "words": [
+       {
+        "w": "pṛṣṭha-unmardane",
+        "gloss": "in rubbing the back",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "cānapatrapaṇīyāḥ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anapatrapaṇīyāḥ",
+        "gloss": "before whom one need not feel ashamed",
+        "gram": "m. nom. pl., gerundive (kṛtya) apa-√trap with negative"
+       }
+      ]
+     },
+     {
+      "src": "suhṛdo'numatāḥ",
+      "words": [
+       {
+        "w": "suhṛdaḥ",
+        "gloss": "friends",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "anumatāḥ",
+        "gloss": "approved",
+        "gram": "m. nom. pl., ppp. anu-√man"
+       }
+      ]
+     },
+     {
+      "src": "prayateran",
+      "words": [
+       {
+        "w": "prayateran",
+        "gloss": "should exert themselves",
+        "gram": "3 pl. opt. ātm. pra-√yat"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और उसके पी लेने पर एक मुहूर्त तक प्रतीक्षा करे। जब वह जाने कि उसका दोष स्वेद के प्रकट होने से पिघल रहा है, रोमाञ्च से अपने स्थानों से चल पड़ा है, कुक्षि के फूलने से कुक्षि में पहुँच गया है, और हृल्लास तथा मुख से स्राव होने से ऊपर की ओर मुख किए हुए हो गया है, तब उसे बैठने के लिए घुटने के बराबर ऊँचा, खुला, अच्छी प्रकार बिछे बिछौने, ऊपर की चादर और तकिए वाला, आश्रय-सहित आसन दे, और प्रतिग्रह पास रखवाए। ललाट को थामने में, पार्श्वों को सहारा देने में, नाभि को दबाने में और पीठ को मलने में ऐसे अनुमत सुहृद् यत्न करें जिनसे लज्जा न करनी पड़े।",
+  "english": "And when he has drunk, one should wait a muhūrta. When he knows that his doṣa is undergoing liquefaction, by the appearance of sweat; is dislodged from its sites, by horripilation; has reached the abdomen, by the distension of the abdomen; and has turned upward, by nausea and flow from the mouth: then he should give him, to sit on, a seat knee-high, uncramped, with a well-arranged spread, upper cover and pillow, and with a back-rest, and should have receptacles brought near. Approved friends before whom he need not feel ashamed should exert themselves in holding his forehead, supporting his sides, pressing his navel and rubbing his back.",
+  "text_flags": [
+   {
+    "src": "cordhvamukhībhūtām",
+    "suggest": "cordhvamukhībhūtam",
+    "why": "The participle must agree with doṣam (masculine accusative singular) like pravilayanam āpadyamānam, pracalitam and anugatam; the feminine ending -ām has nothing to agree with."
+   },
+   {
+    "src": "jānusamamasaṃabādhaṃ",
+    "suggest": "jānusamamasaṃbādhaṃ",
+    "why": "asaṃbādha (\"uncramped\") is the word; the extra a after the anusvāra is a typing slip."
+   }
+  ],
+  "notes": "Prose passage, typed as a verse unit in the input. lālāṭa is the vṛddhi adjective \"of the forehead\"; the compound is rendered \"holding the forehead\" (lalāṭa would give the same sense). muhūrta is kept in Sanskrit (a short period of time). The receptacles (pratigraha) are for what is vomited.",
+  "confidence": "high"
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athainamanuśiṣyāt",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "then",
+        "gram": "ind."
+       },
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg. pron."
+       },
+       {
+        "w": "anuśiṣyāt",
+        "gloss": "should instruct",
+        "gram": "3 sg. opt. anu-√śās"
+       }
+      ]
+     },
+     {
+      "src": "vivṛtoṣṭhatālukaṇṭho",
+      "words": [
+       {
+        "w": "vivṛta-oṣṭha-tālu-kaṇṭhaḥ",
+        "gloss": "with lips, palate and throat opened",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "nātimahatā",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "ati-mahatā",
+        "gloss": "very great",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyāyāmena",
+      "words": [
+       {
+        "w": "vyāyāmena",
+        "gloss": "effort",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vegānudīrṇānudīrayan",
+      "words": [
+       {
+        "w": "vegān",
+        "gloss": "urges",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "udīrṇān",
+        "gloss": "arisen",
+        "gram": "m. acc. pl., ppp. ud-√īr"
+       },
+       {
+        "w": "udīrayan",
+        "gloss": "urging on",
+        "gram": "m. nom. sg., pres. part. caus. ud-√īr"
+       }
+      ]
+     },
+     {
+      "src": "kiñcidavanamya",
+      "words": [
+       {
+        "w": "kiñcit",
+        "gloss": "a little",
+        "gram": "ind."
+       },
+       {
+        "w": "avanamya",
+        "gloss": "having bent",
+        "gram": "abs. ava-√nam"
+       }
+      ]
+     },
+     {
+      "src": "grīvāmūrdhvaśarīramupavegamapravṛttān",
+      "words": [
+       {
+        "w": "grīvām",
+        "gloss": "neck",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "ūrdhva-śarīram",
+        "gloss": "upper body",
+        "gram": "n. acc. sg., karmadhāraya"
+       },
+       {
+        "w": "upavegam",
+        "gloss": "at each approach of an urge",
+        "gram": "ind. (adverbial acc.)"
+       },
+       {
+        "w": "apravṛttān",
+        "gloss": "not flowing",
+        "gram": "m. acc. pl., ppp. pra-√vṛt with negative"
+       }
+      ]
+     },
+     {
+      "src": "pravartayan",
+      "words": [
+       {
+        "w": "pravartayan",
+        "gloss": "setting going",
+        "gram": "m. nom. sg., pres. part. caus. pra-√vṛt"
+       }
+      ]
+     },
+     {
+      "src": "suparilikhitanakhābhyāmaṅgulibhyāmutpalakumudasaugandhikanālairvā",
+      "words": [
+       {
+        "w": "su-parilikhita-nakhābhyām",
+        "gloss": "whose nails are well pared",
+        "gram": "f. inst. du., bahuvrīhi"
+       },
+       {
+        "w": "aṅgulibhyām",
+        "gloss": "with two fingers",
+        "gram": "f. inst. du."
+       },
+       {
+        "w": "utpala-kumuda-saugandhika-nālaiḥ",
+        "gloss": "with stalks of utpala, kumuda or saugandhika",
+        "gram": "m. inst. pl., tat-puruṣa with dvandva"
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaṇṭhamabhispṛśan",
+      "words": [
+       {
+        "w": "kaṇṭham",
+        "gloss": "throat",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "abhispṛśan",
+        "gloss": "touching",
+        "gram": "m. nom. sg., pres. part. abhi-√spṛś"
+       }
+      ]
+     },
+     {
+      "src": "sukhaṃ",
+      "words": [
+       {
+        "w": "sukham",
+        "gloss": "comfortably",
+        "gram": "ind. (adverbial acc.)"
+       }
+      ]
+     },
+     {
+      "src": "pravartayasveti",
+      "words": [
+       {
+        "w": "pravartayasva",
+        "gloss": "let flow",
+        "gram": "2 sg. impv. ātm. caus. pra-√vṛt"
+       },
+       {
+        "w": "iti",
+        "gloss": "(end of the instruction)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "tathāvidhaṃ",
+      "words": [
+       {
+        "w": "tathāvidham",
+        "gloss": "in that way",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kuryāt",
+      "words": [
+       {
+        "w": "kuryāt",
+        "gloss": "should do",
+        "gram": "3 sg. opt. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "tato'sya",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "vegān",
+      "words": [
+       {
+        "w": "vegān",
+        "gloss": "urges",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "pratigrahagatānavekṣetāvahitaḥ",
+      "words": [
+       {
+        "w": "pratigraha-gatān",
+        "gloss": "come into the receptacle",
+        "gram": "m. acc. pl., tat-puruṣa"
+       },
+       {
+        "w": "avekṣeta",
+        "gloss": "should observe",
+        "gram": "3 sg. opt. ātm. ava-√īkṣ"
+       },
+       {
+        "w": "avahitaḥ",
+        "gloss": "attentive",
+        "gram": "m. nom. sg., ppp. ava-√dhā"
+       }
+      ]
+     },
+     {
+      "src": "vegaviśeṣadarśanāddhi",
+      "words": [
+       {
+        "w": "vega-viśeṣa-darśanāt",
+        "gloss": "from seeing the particulars of the urges",
+        "gram": "n. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kuśalo",
+      "words": [
+       {
+        "w": "kuśalaḥ",
+        "gloss": "the skilled one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yogāyogātiyogaviśeṣānupalabheta",
+      "words": [
+       {
+        "w": "yoga-ayoga-atiyoga-viśeṣān",
+        "gloss": "the particulars of proper, deficient and excessive action",
+        "gram": "m. acc. pl., tat-puruṣa with dvandva"
+       },
+       {
+        "w": "upalabheta",
+        "gloss": "would perceive",
+        "gram": "3 sg. opt. ātm. upa-√labh"
+       }
+      ]
+     },
+     {
+      "src": "vegaviśeṣānupalabheta",
+      "words": [
+       {
+        "w": "vega-viśeṣān",
+        "gloss": "the particulars of the urges",
+        "gram": "m. acc. pl., tat-puruṣa"
+       },
+       {
+        "w": "upalabheta",
+        "gloss": "would perceive",
+        "gram": "3 sg. opt. ātm. upa-√labh"
+       }
+      ]
+     },
+     {
+      "src": "vegaviśeṣadarśī",
+      "words": [
+       {
+        "w": "vega-viśeṣa-darśī",
+        "gloss": "one who sees the particulars of the urges",
+        "gram": "m. nom. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "moreover",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṛtyaṃ",
+      "words": [
+       {
+        "w": "kṛtyam",
+        "gloss": "what is to be done",
+        "gram": "n. acc. sg., gerundive (kṛtya) √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "yathārhamavabudhyeta",
+      "words": [
+       {
+        "w": "yathārham",
+        "gloss": "as is fitting",
+        "gram": "ind."
+       },
+       {
+        "w": "avabudhyeta",
+        "gloss": "would understand",
+        "gram": "3 sg. opt. ātm. ava-√budh"
+       }
+      ]
+     },
+     {
+      "src": "lakṣaṇena",
+      "words": [
+       {
+        "w": "lakṣaṇena",
+        "gloss": "by the signs",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tasmādvegānavekṣetāvahitaḥ",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind."
+       },
+       {
+        "w": "vegān",
+        "gloss": "urges",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "avekṣeta",
+        "gloss": "should observe",
+        "gram": "3 sg. opt. ātm. ava-√īkṣ"
+       },
+       {
+        "w": "avahitaḥ",
+        "gloss": "attentive",
+        "gram": "m. nom. sg., ppp. ava-√dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "फिर उसे निर्देश दे: होंठ, तालु और कण्ठ खोलकर, बहुत अधिक श्रम के बिना, उठे हुए वेगों को प्रेरित करते हुए, गर्दन और ऊपरी शरीर को थोड़ा झुकाकर, प्रत्येक वेग आने पर न निकलने वाले वेगों को प्रवृत्त करते हुए, अच्छी प्रकार कटे नखों वाली दो उँगलियों से या उत्पल, कुमुद अथवा सौगन्धिक की नालों से कण्ठ को छूते हुए सुख से प्रवृत्त करो। वह वैसा करे। फिर सावधान होकर प्रतिग्रह में आए उसके वेगों को देखे; क्योंकि वेगों के विशेषों को देखने से कुशल योग, अयोग और अतियोग के विशेषों को जान ले; और वेगों के विशेष देखने वाला लक्षण से यथायोग्य करने योग्य कर्म को समझ ले; इसलिए सावधान होकर वेगों को देखे।",
+  "english": "Then he should instruct him: \"With lips, palate and throat opened, with not very great effort, urging on the urges that have arisen, bending the neck and upper body a little, setting going at each approach of an urge those that do not flow, touching the throat with two fingers whose nails are well pared, or with stalks of utpala, kumuda or saugandhika, let them flow comfortably.\" He should do so. Then, attentive, one should observe his urges that have come into the receptacle; for from seeing the particulars of the urges the skilled one would perceive the particulars of proper, deficient and excessive action; and one who sees the particulars of the urges would, moreover, understand from the signs what is to be done, as is fitting. Therefore, attentive, he should observe the urges.",
+  "text_flags": [
+   {
+    "src": "vegaviśeṣānupalabheta",
+    "suggest": "(omit: repeated words)",
+    "why": "The token repeats the end of the preceding phrase (…viśeṣānupalabheta) and adds nothing to the syntax; the following vegaviśeṣadarśī begins a new clause. It looks like a dittography in typing; it is split but not translated."
+   }
+  ],
+  "notes": "Prose passage, typed as a verse unit in the input. The instruction is quoted from pravartayasva back to vivṛtoṣṭha. The repeated token vegaviśeṣānupalabheta is left untranslated (see text_flags); if it is genuine it would only restate \"he would perceive the particulars of the urges\". utpala, kumuda and saugandhika are kinds of water-lily kept in Sanskrit.",
+  "confidence": "medium"
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatrāmūnyayogayogātiyogaviśeṣajñānāni",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       },
+       {
+        "w": "amūni",
+        "gloss": "these",
+        "gram": "n. nom. pl. pron."
+       },
+       {
+        "w": "ayoga-yoga-atiyoga-viśeṣa-jñānāni",
+        "gloss": "means of knowing the particulars of deficient, proper and excessive action",
+        "gram": "n. nom. pl., tat-puruṣa with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "bhavanti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "tadyathā",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "yathā",
+        "gloss": "as follows",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "apravṛttiḥ",
+      "words": [
+       {
+        "w": "apravṛttiḥ",
+        "gloss": "non-flow",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kutaścit",
+      "words": [
+       {
+        "w": "kutaścit",
+        "gloss": "from anywhere",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kevalasya",
+      "words": [
+       {
+        "w": "kevalasya",
+        "gloss": "alone",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāpyauṣadhasya",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       },
+       {
+        "w": "auṣadhasya",
+        "gloss": "of the medicine",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vibhraṃśo",
+      "words": [
+       {
+        "w": "vibhraṃśaḥ",
+        "gloss": "coming out",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vibandho",
+      "words": [
+       {
+        "w": "vibandhaḥ",
+        "gloss": "obstruction",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vegānāmayogalakṣaṇāni",
+      "words": [
+       {
+        "w": "vegānām",
+        "gloss": "of the urges",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "ayoga-lakṣaṇāni",
+        "gloss": "signs of deficient action",
+        "gram": "n. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhavanti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "kāle",
+      "words": [
+       {
+        "w": "kāle",
+        "gloss": "in time",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pravṛttiranatimahatī",
+      "words": [
+       {
+        "w": "pravṛttiḥ",
+        "gloss": "flow",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "anati-mahatī",
+        "gloss": "not very great",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyathā",
+      "words": [
+       {
+        "w": "vyathā",
+        "gloss": "distress",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yathākramaṃ",
+      "words": [
+       {
+        "w": "yathākramam",
+        "gloss": "in due sequence",
+        "gram": "ind., avyayībhāva"
+       }
+      ]
+     },
+     {
+      "src": "doṣaharaṇaṃ",
+      "words": [
+       {
+        "w": "doṣa-haraṇam",
+        "gloss": "removal of the doṣas",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "svayaṃ",
+      "words": [
+       {
+        "w": "svayam",
+        "gloss": "by itself",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cāvasthānamiti",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "avasthānam",
+        "gloss": "stopping",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "(end of the list)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yogalakṣaṇāni",
+      "words": [
+       {
+        "w": "yoga-lakṣaṇāni",
+        "gloss": "signs of proper action",
+        "gram": "n. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhavanti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "yogena",
+      "words": [
+       {
+        "w": "yogena",
+        "gloss": "through proper action",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "doṣapramāṇaviśeṣeṇa",
+      "words": [
+       {
+        "w": "doṣa-pramāṇa-viśeṣeṇa",
+        "gloss": "by the particular quantity of doṣa",
+        "gram": "m. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tīkṣṇamṛdumadhyavibhāgo",
+      "words": [
+       {
+        "w": "tīkṣṇa-mṛdu-madhya-vibhāgaḥ",
+        "gloss": "division into strong, mild and medium",
+        "gram": "m. nom. sg., tat-puruṣa with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "jñeyaḥ",
+      "words": [
+       {
+        "w": "jñeyaḥ",
+        "gloss": "to be known",
+        "gram": "m. nom. sg., gerundive (kṛtya) √jñā"
+       }
+      ]
+     },
+     {
+      "src": "yogādhikyena",
+      "words": [
+       {
+        "w": "yoga-ādhikyena",
+        "gloss": "by excess of action",
+        "gram": "n. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "phenilaraktācandrikopagamanamityatiyogalakṣaṇāni",
+      "words": [
+       {
+        "w": "phenila-rakta-candrikā-upagamanam",
+        "gloss": "the coming of frothy blood and candrikās",
+        "gram": "n. nom. sg., tat-puruṣa with dvandva"
+       },
+       {
+        "w": "iti",
+        "gloss": "(end of the list)",
+        "gram": "ind."
+       },
+       {
+        "w": "atiyoga-lakṣaṇāni",
+        "gloss": "signs of excessive action",
+        "gram": "n. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhavanti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वहाँ ये अयोग, योग और अतियोग के विशेषों को जानने के साधन हैं। जैसे: कहीं से भी प्रवृत्ति न होना, या केवल औषध का निकल आना, वेगों का रुकना, ये अयोग के लक्षण हैं। समय पर प्रवृत्ति, बहुत अधिक व्यथा न होना, क्रम से दोषों का हरण, और अपने आप रुक जाना, ये योग के लक्षण हैं। योग से, दोष के प्रमाण के विशेष से, तीक्ष्ण, मृदु और मध्य का विभाग जानना चाहिए। योग की अधिकता से झागदार रक्त और चन्द्रिकाओं का आना, ये अतियोग के लक्षण हैं।",
+  "english": "There, these are the means of knowing the particulars of deficient, proper and excessive action. Namely: no flow from anywhere, or the coming out of the medicine alone, and obstruction of the urges, are the signs of deficient action. Flow in time, distress that is not very great, removal of the doṣas in due sequence, and stopping by itself, are the signs of proper action. Through proper action, by the particular quantity of doṣa, the division into strong, mild and medium is to be known. By excess of action, the coming of frothy blood and candrikās: these are the signs of excessive action.",
+  "text_flags": [
+   {
+    "src": "phenilaraktācandrikopagamanamityatiyogalakṣaṇāni",
+    "suggest": "phenilaraktacandrikopagamanamityatiyogalakṣaṇāni",
+    "why": "possible: rakta + candrikā gives raktacandrikā; a long ā after rakta has no grammatical basis (ācandrikā is no word)."
+   }
+  ],
+  "notes": "Prose passage, typed as a verse unit in the input. candrikā (literally \"moonlight\") is kept in Sanskrit; it seems to name shining patches in what is vomited.",
+  "confidence": "medium"
+ },
+ {
+  "n": "P1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatrātiyogāyoganimittānimānupadravān",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       },
+       {
+        "w": "atiyoga-ayoga-nimittān",
+        "gloss": "caused by excessive or deficient action",
+        "gram": "m. acc. pl., bahuvrīhi"
+       },
+       {
+        "w": "imān",
+        "gloss": "these",
+        "gram": "m. acc. pl. pron."
+       },
+       {
+        "w": "upadravān",
+        "gloss": "complications",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vidyāt",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "he should know",
+        "gram": "3 sg. opt. √vid"
+       }
+      ]
+     },
+     {
+      "src": "ādhmānaṃ",
+      "words": [
+       {
+        "w": "ādhmānam",
+        "gloss": "distension (ādhmāna)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "parikartikā",
+      "words": [
+       {
+        "w": "parikartikā",
+        "gloss": "cutting pain (parikartikā)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "parisrāvo",
+      "words": [
+       {
+        "w": "parisrāvaḥ",
+        "gloss": "oozing (parisrāva)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hṛdayogasaraṇamaṅgagraho",
+      "words": [
+       {
+        "w": "hṛdaya-upasaraṇam",
+        "gloss": "approach to the heart (hṛdayopasaraṇa)",
+        "gram": "n. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "aṅga-grahaḥ",
+        "gloss": "stiffness of the limbs",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "jīvādānaṃ",
+      "words": [
+       {
+        "w": "jīva-ādānam",
+        "gloss": "jīvādāna (taking away of life)",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vibhraṃśaḥ",
+      "words": [
+       {
+        "w": "vibhraṃśaḥ",
+        "gloss": "displacement (vibhraṃśa)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "stambhaḥ",
+      "words": [
+       {
+        "w": "stambhaḥ",
+        "gloss": "rigidity",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "klamaścetyupadravāḥ",
+      "words": [
+       {
+        "w": "klamaḥ",
+        "gloss": "exhaustion",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "(end of the list)",
+        "gram": "ind."
+       },
+       {
+        "w": "upadravāḥ",
+        "gloss": "complications",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वहाँ अतियोग और अयोग के कारण होने वाले इन उपद्रवों को जाने: आध्मान, परिकर्तिका, परिस्राव, हृदयोपसरण, अङ्गग्रह, जीवादान, विभ्रंश, स्तम्भ और क्लम, ये उपद्रव हैं।",
+  "english": "There he should know these complications caused by excessive or deficient action: distension (ādhmāna), cutting pain (parikartikā), oozing (parisrāva), approach to the heart (hṛdayopasaraṇa), stiffness of the limbs, jīvādāna (literally \"taking away of life\"), displacement (vibhraṃśa), rigidity and exhaustion (klama): these are the complications.",
+  "text_flags": [
+   {
+    "src": "hṛdayogasaraṇamaṅgagraho",
+    "suggest": "hṛdayopasaraṇamaṅgagraho",
+    "why": "possible: hṛdaya + ogasaraṇa gives no word; hṛdaya + upasaraṇa (\"approach\") gives hṛdayopasaraṇa, differing by one letter (g for p)."
+   }
+  ],
+  "notes": "The names of the complications are kept in Sanskrit with literal glosses; their clinical sense is not stated in this chunk. vibhraṃśa also occurs in unit 13 as \"coming out\" (of the medicine); here, in the list of complications, it is rendered \"displacement\".",
+  "confidence": "medium"
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yogena",
+      "words": [
+       {
+        "w": "yogena",
+        "gloss": "with proper action",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "khalvenaṃ",
+      "words": [
+       {
+        "w": "khalu",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "charditavantamabhisamīkṣya",
+      "words": [
+       {
+        "w": "charditavantam",
+        "gloss": "who has vomited",
+        "gram": "m. acc. sg., past act. part. √chṛd"
+       },
+       {
+        "w": "abhisamīkṣya",
+        "gloss": "having observed",
+        "gram": "abs. abhi-sam-√īkṣ"
+       }
+      ]
+     },
+     {
+      "src": "suprakṣālitapāṇipādāsyaṃ",
+      "words": [
+       {
+        "w": "su-prakṣālita-pāṇi-pāda-āsyam",
+        "gloss": "whose hands, feet and face are well washed",
+        "gram": "m. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "muhūrtamāśvāsya",
+      "words": [
+       {
+        "w": "muhūrtam",
+        "gloss": "for a muhūrta",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āśvāsya",
+        "gloss": "having let rest",
+        "gram": "abs. caus. ā-√śvas"
+       }
+      ]
+     },
+     {
+      "src": "snaihikavairecanikopaśamanīyānāṃ",
+      "words": [
+       {
+        "w": "snaihika-vairecanika-upaśamanīyānām",
+        "gloss": "unctuous, evacuative and pacifying",
+        "gram": "m. gen. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "dhūmānāmanyatamaṃ",
+      "words": [
+       {
+        "w": "dhūmānām",
+        "gloss": "of the smokings",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "anyatamam",
+        "gloss": "any one",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sāmarthyataḥ",
+      "words": [
+       {
+        "w": "sāmarthyataḥ",
+        "gloss": "according to suitability",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pāyayitvā",
+      "words": [
+       {
+        "w": "pāyayitvā",
+        "gloss": "having made drink",
+        "gram": "abs. caus. √pā"
+       }
+      ]
+     },
+     {
+      "src": "punarevodakamupasparśayet",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "again",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       },
+       {
+        "w": "udakam",
+        "gloss": "water",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "upasparśayet",
+        "gloss": "should make rinse with",
+        "gram": "3 sg. opt. caus. upa-√spṛś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और उसे योग के साथ वमन कर चुका देखकर, उसके हाथ, पैर और मुख अच्छी प्रकार धुलवाकर, एक मुहूर्त विश्राम कराकर, स्नैहिक, वैरेचनिक और उपशमनीय धूमों में से किसी एक को सामर्थ्य के अनुसार पिलाकर, फिर से जल से आचमन कराए।",
+  "english": "And having observed that he has vomited with proper action, his hands, feet and face well washed, having let him rest a muhūrta, and having made him drink any one of the unctuous, evacuative and pacifying smokings according to suitability, he should again have him rinse with water.",
+  "text_flags": [],
+  "notes": "Prose passage, typed as a verse unit in the input. upasparśayet (caus. of upa-√spṛś) is \"make him touch water\", that is, rinse the mouth. sāmarthyataḥ may also mean \"according to capacity\".",
+  "confidence": "high"
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "upaspṛṣṭodakaṃ",
+      "words": [
+       {
+        "w": "upaspṛṣṭa-udakam",
+        "gloss": "who has rinsed with water",
+        "gram": "m. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "cainaṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "nivātamāgāramanupraveśya",
+      "words": [
+       {
+        "w": "nivātam",
+        "gloss": "windless",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "āgāram",
+        "gloss": "room",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "anupraveśya",
+        "gloss": "having made enter",
+        "gram": "abs. caus. anu-pra-√viś"
+       }
+      ]
+     },
+     {
+      "src": "saṃveśya",
+      "words": [
+       {
+        "w": "saṃveśya",
+        "gloss": "having laid down",
+        "gram": "abs. caus. sam-√viś"
+       }
+      ]
+     },
+     {
+      "src": "cānuśiṣyāt",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anuśiṣyāt",
+        "gloss": "should instruct",
+        "gram": "3 sg. opt. anu-√śās"
+       }
+      ]
+     },
+     {
+      "src": "uccairbhāsyamatyāśanamatisthānamaticaṅgkramaṇaṃ",
+      "words": [
+       {
+        "w": "uccaiḥ",
+        "gloss": "loud",
+        "gram": "ind."
+       },
+       {
+        "w": "bhāṣyam",
+        "gloss": "speech",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ati-aśanam",
+        "gloss": "over-eating",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ati-sthānam",
+        "gloss": "excessive standing",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ati-caṅkramaṇam",
+        "gloss": "excessive walking",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "krodhaśokahimātapāvaśyāyātipravātān",
+      "words": [
+       {
+        "w": "krodha-śoka-hima-ātapa-avaśyāya-atipravātān",
+        "gloss": "anger, grief, cold, sun, dew and strong wind",
+        "gram": "m. acc. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "yānayānaṃ",
+      "words": [
+       {
+        "w": "yāna-yānam",
+        "gloss": "going in vehicles",
+        "gram": "n. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "grāmyadharmamasvapanaṃ",
+      "words": [
+       {
+        "w": "grāmya-dharmam",
+        "gloss": "sexual intercourse (grāmyadharma)",
+        "gram": "m. acc. sg., karmadhāraya"
+       },
+       {
+        "w": "asvapanam",
+        "gloss": "not sleeping",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "niśi",
+      "words": [
+       {
+        "w": "niśi",
+        "gloss": "at night",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "divā",
+      "words": [
+       {
+        "w": "divā",
+        "gloss": "by day",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svapnaṃ",
+      "words": [
+       {
+        "w": "svapnam",
+        "gloss": "sleep",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "viruddhājīrṇāsātmyākālapramitātihīnaguruviṣamabhojanavegasandhāraṇodīraṇamiti",
+      "words": [
+       {
+        "w": "viruddha-ajīrṇa-asātmya-akāla-pramita-atihīna-guru-viṣama-bhojana-vega-sandhāraṇa-udīraṇam",
+        "gloss": "incompatible, undigested-state, unsuitable, untimely, limited, very deficient, heavy and irregular eating, and suppression and forcing of urges",
+        "gram": "n. acc. sg., samāhāra dvandva with tat-puruṣa members"
+       },
+       {
+        "w": "iti",
+        "gloss": "(end of the list)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhāvānetānmanasāpyasevamānaḥ",
+      "words": [
+       {
+        "w": "bhāvān",
+        "gloss": "things",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "etān",
+        "gloss": "these",
+        "gram": "m. acc. pl. pron."
+       },
+       {
+        "w": "manasā",
+        "gloss": "with the mind",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       },
+       {
+        "w": "asevamānaḥ",
+        "gloss": "not indulging in",
+        "gram": "m. nom. sg., pres. part. ātm. √sev with negative"
+       }
+      ]
+     },
+     {
+      "src": "sarvamaho",
+      "words": [
+       {
+        "w": "sarvam",
+        "gloss": "whole",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ahaḥ",
+        "gloss": "day",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gamayasvetei",
+      "words": [
+       {
+        "w": "gamayasva",
+        "gloss": "pass",
+        "gram": "2 sg. impv. ātm. caus. √gam"
+       },
+       {
+        "w": "iti",
+        "gloss": "(end of the instruction)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और जल से आचमन कर चुके उसे वायु-रहित घर में प्रवेश कराकर और लिटाकर निर्देश दे: ऊँचा बोलना, अधिक खाना, अधिक खड़े रहना, अधिक घूमना, क्रोध, शोक, शीत, धूप, ओस और तेज़ हवा, सवारी पर चलना, ग्राम्यधर्म, रात में न सोना, दिन में सोना, विरुद्ध, अजीर्ण में, असात्म्य, अकाल, परिमित, अति हीन, गुरु और विषम भोजन, तथा वेगों को रोकना और बलपूर्वक प्रवृत्त करना, इन भावों का मन से भी सेवन न करते हुए पूरा दिन बिताओ।",
+  "english": "And having made him, who has rinsed with water, enter a windless room and lie down, he should instruct him: \"Not indulging even with the mind in these things: loud speech, over-eating, excessive standing, excessive walking, anger, grief, cold, sun, dew and strong wind, going in vehicles, sexual intercourse (grāmyadharma), not sleeping at night, sleep by day, incompatible, undigested-state, unsuitable, untimely, limited, very deficient, heavy and irregular eating, and suppression and forcing of urges, pass the whole day.\"",
+  "text_flags": [
+   {
+    "src": "uccairbhāsyamatyāśanamatisthānamaticaṅgkramaṇaṃ",
+    "suggest": "uccairbhāṣyamatyaśanamatisthānamaticaṅkramaṇaṃ",
+    "why": "Three slips in one token: bhāṣya (\"speech\", √bhāṣ) needs ṣ (bhāsya means \"to be made bright\", possible slip); ati + aśana gives atyaśana with short a (āśana is no word here); caṅkramaṇa (\"walking\") has no g before k."
+   },
+   {
+    "src": "gamayasvetei",
+    "suggest": "gamayasveti",
+    "why": "gamayasva + iti gives gamayasveti; the final extra i is a typing slip."
+   }
+  ],
+  "notes": "Prose passage, typed as a verse unit in the input. In the long compound, ajīrṇa-bhojana is eating while there is indigestion, and pramita-bhojana is taken as \"limited\" (scanty) eating; both are uncertain renderings. The compound is a singular collective (samāhāra) dvandva of the eating faults and the two faults with urges.",
+  "confidence": "medium"
+ },
+ {
+  "n": "P2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kuryāt",
+      "words": [
+       {
+        "w": "kuryāt",
+        "gloss": "should do",
+        "gram": "3 sg. opt. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह वैसा करे।",
+  "english": "He should do so.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athainaṃ",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "then",
+        "gram": "ind."
+       },
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "sāyāhne",
+      "words": [
+       {
+        "w": "sāyāhne",
+        "gloss": "in the evening",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pare",
+      "words": [
+       {
+        "w": "pare",
+        "gloss": "on the next",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāhni",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "ahni",
+        "gloss": "day",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sukhodakapariṣiktaṃ",
+      "words": [
+       {
+        "w": "sukha-udaka-pariṣiktam",
+        "gloss": "bathed with pleasant water",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "purāṇānāṃ",
+      "words": [
+       {
+        "w": "purāṇānām",
+        "gloss": "old",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "lohitaśālitaṇḍulānāṃ",
+      "words": [
+       {
+        "w": "lohita-śāli-taṇḍulānām",
+        "gloss": "of grains of red śāli rice",
+        "gram": "m. gen. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "svavaklinnāṃ",
+      "words": [
+       {
+        "w": "su-avaklinnām",
+        "gloss": "well softened",
+        "gram": "f. acc. sg., ppp. ava-√klid"
+       }
+      ]
+     },
+     {
+      "src": "maṇḍapūrvāṃ",
+      "words": [
+       {
+        "w": "maṇḍa-pūrvām",
+        "gloss": "preceded by its maṇḍa",
+        "gram": "f. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sukhoṣṇāṃ",
+      "words": [
+       {
+        "w": "sukha-uṣṇām",
+        "gloss": "comfortably warm",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yavāgūṃ",
+      "words": [
+       {
+        "w": "yavāgūm",
+        "gloss": "gruel",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāyayedagnibalamabhisamīkṣya",
+      "words": [
+       {
+        "w": "pāyayet",
+        "gloss": "should make drink",
+        "gram": "3 sg. opt. caus. √pā"
+       },
+       {
+        "w": "agni-balam",
+        "gloss": "strength of the digestive fire",
+        "gram": "n. acc. sg., tat-puruṣa"
+       },
+       {
+        "w": "abhisamīkṣya",
+        "gloss": "having observed",
+        "gram": "abs. abhi-sam-√īkṣ"
+       }
+      ]
+     },
+     {
+      "src": "evaṃ",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dvitīye",
+      "words": [
+       {
+        "w": "dvitīye",
+        "gloss": "at the second",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tṛtīye",
+      "words": [
+       {
+        "w": "tṛtīye",
+        "gloss": "at the third",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cānnakāle",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anna-kāle",
+        "gloss": "mealtime",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "caturthe",
+      "words": [
+       {
+        "w": "caturthe",
+        "gloss": "at the fourth",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvannakāle",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "anna-kāle",
+        "gloss": "mealtime",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tathāvidhānāmeva",
+      "words": [
+       {
+        "w": "tathāvidhānām",
+        "gloss": "of such",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śālitaṇḍulānāmutsvinnāṃ",
+      "words": [
+       {
+        "w": "śāli-taṇḍulānām",
+        "gloss": "of śāli rice grains",
+        "gram": "m. gen. pl., tat-puruṣa"
+       },
+       {
+        "w": "utsvinnām",
+        "gloss": "well boiled",
+        "gram": "f. acc. sg., ppp. ut-√svid"
+       }
+      ]
+     },
+     {
+      "src": "vilepīmuṣṇodakadvitīyāmasnehalavaṇāmalpasnehalavaṇāṃ",
+      "words": [
+       {
+        "w": "vilepīm",
+        "gloss": "thick gruel (vilepī)",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "uṣṇa-udaka-dvitīyām",
+        "gloss": "accompanied by hot water",
+        "gram": "f. acc. sg., bahuvrīhi"
+       },
+       {
+        "w": "a-sneha-lavaṇām",
+        "gloss": "without fat and salt",
+        "gram": "f. acc. sg., bahuvrīhi"
+       },
+       {
+        "w": "alpa-sneha-lavaṇām",
+        "gloss": "with little fat and salt",
+        "gram": "f. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhojayet",
+      "words": [
+       {
+        "w": "bhojayet",
+        "gloss": "should feed",
+        "gram": "3 sg. opt. caus. √bhuj"
+       }
+      ]
+     },
+     {
+      "src": "evaṃ",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pañcame",
+      "words": [
+       {
+        "w": "pañcame",
+        "gloss": "at the fifth",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṣaṣṭhe",
+      "words": [
+       {
+        "w": "ṣaṣṭhe",
+        "gloss": "at the sixth",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cānnakāle",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anna-kāle",
+        "gloss": "mealtime",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "saptame",
+      "words": [
+       {
+        "w": "saptame",
+        "gloss": "at the seventh",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvannakāle",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "anna-kāle",
+        "gloss": "mealtime",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tathāvidhānāmeva",
+      "words": [
+       {
+        "w": "tathāvidhānām",
+        "gloss": "of such",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śālīnāṃ",
+      "words": [
+       {
+        "w": "śālīnām",
+        "gloss": "of śāli rice",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "dviprasṛtaṃ",
+      "words": [
+       {
+        "w": "dvi-prasṛtam",
+        "gloss": "measuring two prasṛtas",
+        "gram": "m. acc. sg., bahuvrīhi (dvigu member)"
+       }
+      ]
+     },
+     {
+      "src": "susvinnamodanamuṣṇodakānupānaṃ",
+      "words": [
+       {
+        "w": "su-svinnam",
+        "gloss": "well boiled",
+        "gram": "m. acc. sg., ppp. √svid"
+       },
+       {
+        "w": "odanam",
+        "gloss": "boiled rice",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "uṣṇa-udaka-anupānam",
+        "gloss": "with hot water as after-drink",
+        "gram": "m. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "tanunā",
+      "words": [
+       {
+        "w": "tanunā",
+        "gloss": "thin",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tanusnehalavaṇopapannena",
+      "words": [
+       {
+        "w": "tanu-sneha-lavaṇa-upapannena",
+        "gloss": "furnished with a little fat and salt",
+        "gram": "m. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "mudgayūṣeṇa",
+      "words": [
+       {
+        "w": "mudga-yūṣeṇa",
+        "gloss": "with mudga soup (yūṣa)",
+        "gram": "m. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhojayet,",
+      "words": [
+       {
+        "w": "bhojayet",
+        "gloss": "should feed",
+        "gram": "3 sg. opt. caus. √bhuj"
+       }
+      ]
+     },
+     {
+      "src": "evamaṣṭame",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "aṣṭame",
+        "gloss": "at the eighth",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "navame",
+      "words": [
+       {
+        "w": "navame",
+        "gloss": "at the ninth",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cānnakāle",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anna-kāle",
+        "gloss": "mealtime",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "daśame",
+      "words": [
+       {
+        "w": "daśame",
+        "gloss": "at the tenth",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvannakāle",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "anna-kāle",
+        "gloss": "mealtime",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "lāvakapiñjalādīnāmanyatamasya",
+      "words": [
+       {
+        "w": "lāva-kapiñjala-ādīnām",
+        "gloss": "of lāva, kapiñjala and the like",
+        "gram": "m. gen. pl., dvandva ending in ādi (bahuvrīhi)"
+       },
+       {
+        "w": "anyatamasya",
+        "gloss": "of any one",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "māṃsarasenaudakalāvaṇikena",
+      "words": [
+       {
+        "w": "māṃsa-rasena",
+        "gloss": "with meat-juice",
+        "gram": "m. inst. sg., tat-puruṣa"
+       },
+       {
+        "w": "audakalāvaṇikena",
+        "gloss": "made with water and salt",
+        "gram": "m. inst. sg., taddhita from udaka-lavaṇa"
+       }
+      ]
+     },
+     {
+      "src": "nātisāravatā",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "ati-sāravatā",
+        "gloss": "very thick",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhojayedusṇodakānupānam",
+      "words": [
+       {
+        "w": "bhojayet",
+        "gloss": "should feed",
+        "gram": "3 sg. opt. caus. √bhuj"
+       },
+       {
+        "w": "uṣṇa-udaka-anupānam",
+        "gloss": "with hot water as after-drink",
+        "gram": "ind. (adverbial acc.), bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "evamekādaśe",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "ekādaśe",
+        "gloss": "at the eleventh",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvādaśe",
+      "words": [
+       {
+        "w": "dvādaśe",
+        "gloss": "at the twelfth",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cānnakāle",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anna-kāle",
+        "gloss": "mealtime",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ata",
+      "words": [
+       {
+        "w": "ataḥ",
+        "gloss": "from this",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ūrdhvamannaguṇān",
+      "words": [
+       {
+        "w": "ūrdhvam",
+        "gloss": "onward",
+        "gram": "ind."
+       },
+       {
+        "w": "anna-guṇān",
+        "gloss": "qualities of food",
+        "gram": "m. acc. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "krameṇopabhuñjānaḥ",
+      "words": [
+       {
+        "w": "krameṇa",
+        "gloss": "gradually",
+        "gram": "m. inst. sg. (adverbial)"
+       },
+       {
+        "w": "upabhuñjānaḥ",
+        "gloss": "enjoying",
+        "gram": "m. nom. sg., pres. part. ātm. upa-√bhuj"
+       }
+      ]
+     },
+     {
+      "src": "saptarātreṇa",
+      "words": [
+       {
+        "w": "sapta-rātreṇa",
+        "gloss": "in seven nights",
+        "gram": "m. inst. sg., dvigu"
+       }
+      ]
+     },
+     {
+      "src": "prakṛtibhojanamāgacchet",
+      "words": [
+       {
+        "w": "prakṛti-bhojanam",
+        "gloss": "normal diet",
+        "gram": "n. acc. sg., tat-puruṣa"
+       },
+       {
+        "w": "āgacchet",
+        "gloss": "should come to",
+        "gram": "3 sg. opt. ā-√gam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "फिर उसे सायंकाल या अगले दिन, सुखद जल से नहलाकर, पुराने लाल शालि चावलों की, अच्छी प्रकार गली हुई, पहले मण्ड वाली, सुखोष्ण यवागू, अग्नि-बल देखकर पिलाए। इसी प्रकार दूसरे और तीसरे अन्नकाल में; परन्तु चौथे अन्नकाल में उसी प्रकार के शालि चावलों की अच्छी प्रकार उबली हुई विलेपी, गरम जल के साथ, बिना स्नेह और लवण के या थोड़े स्नेह और लवण के साथ खिलाए। इसी प्रकार पाँचवें और छठे अन्नकाल में; परन्तु सातवें अन्नकाल में उसी प्रकार के शालि चावलों का दो प्रसृत अच्छी प्रकार उबला ओदन, गरम जल के अनुपान के साथ, थोड़े स्नेह और लवण से युक्त पतले मुद्ग-यूष के साथ खिलाए। इसी प्रकार आठवें और नौवें अन्नकाल में; परन्तु दसवें अन्नकाल में लाव, कपिञ्जल आदि में से किसी एक के जल और लवण से बने, बहुत गाढ़े नहीं, मांसरस के साथ गरम जल के अनुपान से खिलाए। इसी प्रकार ग्यारहवें और बारहवें अन्नकाल में। इसके आगे क्रम से अन्न के गुणों का उपभोग करता हुआ वह सात रातों में प्रकृत भोजन पर आ जाए।",
+  "english": "Then, in the evening or on the next day, having bathed him with pleasant water, he should make him drink gruel of old red śāli rice grains, well softened, preceded by its maṇḍa, comfortably warm, having observed the strength of his digestive fire. So at the second and the third mealtime; but at the fourth mealtime he should feed him a well-boiled thick gruel (vilepī) of the same kind of śāli rice grains, accompanied by hot water, without fat and salt or with little fat and salt. So at the fifth and the sixth mealtime; but at the seventh mealtime he should feed him well-boiled rice of the same kind of śāli, measuring two prasṛtas, with hot water as after-drink, with thin mudga soup (yūṣa) furnished with a little fat and salt. So at the eighth and the ninth mealtime; but at the tenth mealtime he should feed him with the meat-juice of any one of lāva, kapiñjala and the like, made with water and salt and not very thick, with hot water as after-drink. So at the eleventh and the twelfth mealtime. From then onward, gradually enjoying the qualities of food, he should come to his normal diet in seven nights.",
+  "text_flags": [
+   {
+    "src": "bhojayedusṇodakānupānam",
+    "suggest": "bhojayeduṣṇodakānupānam",
+    "why": "The same word earlier in this unit is printed uṣṇodakānupānaṃ with ṣ; usṇa is a typing slip."
+   }
+  ],
+  "notes": "Prose passage, typed as a verse unit in the input. sāyāhne pare vāhni is read \"in the evening (of the day of emesis) or on the next day\". maṇḍa-pūrvā: the thin liquid part of the gruel is given first. prasṛta is a measure (value not given here). The meal sequence follows the text: three mealtimes each of gruel, vilepī, rice with mudga soup and meat-juice.",
+  "confidence": "medium"
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athainaṃ",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "then",
+        "gram": "ind."
+       },
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "punareva",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "again",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "snehasvedābhyāmupapādyānupahatmanasamabhisamīkṣya",
+      "words": [
+       {
+        "w": "sneha-svedābhyām",
+        "gloss": "with oleation and sweating",
+        "gram": "m. inst. du., dvandva"
+       },
+       {
+        "w": "upapādya",
+        "gloss": "having treated",
+        "gram": "abs. caus. upa-√pad"
+       },
+       {
+        "w": "anupahata-manasam",
+        "gloss": "whose mind is unimpaired",
+        "gram": "m. acc. sg., bahuvrīhi"
+       },
+       {
+        "w": "abhisamīkṣya",
+        "gloss": "having observed",
+        "gram": "abs. abhi-sam-√īkṣ"
+       }
+      ]
+     },
+     {
+      "src": "sukhoṣitaṃ",
+      "words": [
+       {
+        "w": "sukha-uṣitam",
+        "gloss": "who has passed the night comfortably",
+        "gram": "m. acc. sg., ppp. √vas"
+       }
+      ]
+     },
+     {
+      "src": "suprajīrṇabhaktaṃ",
+      "words": [
+       {
+        "w": "su-prajīrṇa-bhaktam",
+        "gloss": "whose food is well digested",
+        "gram": "m. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "kṛtahomabalimaṅgalajapaprāyaścittamiṣṭe",
+      "words": [
+       {
+        "w": "kṛta-homa-bali-maṅgala-japa-prāyaścittam",
+        "gloss": "who has performed oblation, offering, auspicious rites, muttered prayer and expiation",
+        "gram": "m. acc. sg., bahuvrīhi"
+       },
+       {
+        "w": "iṣṭe",
+        "gloss": "on a desired",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tithinakṣatrakaraṇamuhūrte",
+      "words": [
+       {
+        "w": "tithi-nakṣatra-karaṇa-muhūrte",
+        "gloss": "lunar day, asterism, karaṇa and muhūrta",
+        "gram": "n. loc. sg., samāhāra dvandva"
+       }
+      ]
+     },
+     {
+      "src": "brāhmaṇān",
+      "words": [
+       {
+        "w": "brāhmaṇān",
+        "gloss": "brahmins",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "svasti",
+      "words": [
+       {
+        "w": "svasti",
+        "gloss": "blessing (svasti)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vācayitvā",
+      "words": [
+       {
+        "w": "vācayitvā",
+        "gloss": "having caused to recite",
+        "gram": "abs. caus. √vac"
+       }
+      ]
+     },
+     {
+      "src": "trivṛtkalkamakṣamātraṃ",
+      "words": [
+       {
+        "w": "trivṛt-kalkam",
+        "gloss": "paste of trivṛt",
+        "gram": "m. acc. sg., tat-puruṣa"
+       },
+       {
+        "w": "akṣa-mātram",
+        "gloss": "of the measure of one akṣa",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "yathārhāloḍanaprativinītaṃ",
+      "words": [
+       {
+        "w": "yathārha-āloḍana-prativinītam",
+        "gloss": "prepared with a suitable liquid for stirring",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pāyayet",
+      "words": [
+       {
+        "w": "pāyayet",
+        "gloss": "should make drink",
+        "gram": "3 sg. opt. caus. √pā"
+       }
+      ]
+     },
+     {
+      "src": "prasamīkṣya",
+      "words": [
+       {
+        "w": "prasamīkṣya",
+        "gloss": "having carefully considered",
+        "gram": "abs. pra-sam-√īkṣ"
+       }
+      ]
+     },
+     {
+      "src": "doṣabheṣajadeśakālabalaśarīrāhārasātmyasattvaprakṛtivayasāmavasthāntarāṇi",
+      "words": [
+       {
+        "w": "doṣa-bheṣaja-deśa-kāla-bala-śarīra-āhāra-sātmya-sattva-prakṛti-vayasām",
+        "gloss": "of doṣa, medicine, place, time, strength, body, diet, suitability, mind, constitution and age",
+        "gram": "n. gen. pl., dvandva"
+       },
+       {
+        "w": "avasthā-antarāṇi",
+        "gloss": "different states",
+        "gram": "n. acc. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vikārāṃśca",
+      "words": [
+       {
+        "w": "vikārān",
+        "gloss": "disorders",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "samyak",
+      "words": [
+       {
+        "w": "samyak",
+        "gloss": "properly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viriktaṃ",
+      "words": [
+       {
+        "w": "viriktam",
+        "gloss": "purged",
+        "gram": "m. acc. sg., ppp. vi-√ric"
+       }
+      ]
+     },
+     {
+      "src": "cainaṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "vamanoktena",
+      "words": [
+       {
+        "w": "vamana-uktena",
+        "gloss": "stated for emesis",
+        "gram": "m. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "dhūmavarjena",
+      "words": [
+       {
+        "w": "dhūma-varjena",
+        "gloss": "excluding smoking",
+        "gram": "m. inst. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vidhinopapādayedābalavarṇaprakṛtilābhāt,",
+      "words": [
+       {
+        "w": "vidhinā",
+        "gloss": "by the procedure",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "upapādayet",
+        "gloss": "should treat",
+        "gram": "3 sg. opt. caus. upa-√pad"
+       },
+       {
+        "w": "ā",
+        "gloss": "until",
+        "gram": "ind."
+       },
+       {
+        "w": "bala-varṇa-prakṛti-lābhāt",
+        "gloss": "the regaining of strength, complexion and normal state",
+        "gram": "m. abl. sg., tat-puruṣa with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "balavarṇopapannaṃ",
+      "words": [
+       {
+        "w": "bala-varṇa-upapannam",
+        "gloss": "endowed with strength and complexion",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "cainamanupahatamanasamabhisamīkṣya",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg. pron."
+       },
+       {
+        "w": "anupahata-manasam",
+        "gloss": "whose mind is unimpaired",
+        "gram": "m. acc. sg., bahuvrīhi"
+       },
+       {
+        "w": "abhisamīkṣya",
+        "gloss": "having observed",
+        "gram": "abs. abhi-sam-√īkṣ"
+       }
+      ]
+     },
+     {
+      "src": "sukhoṣitaṃ",
+      "words": [
+       {
+        "w": "sukha-uṣitam",
+        "gloss": "who has passed the night comfortably",
+        "gram": "m. acc. sg., ppp. √vas"
+       }
+      ]
+     },
+     {
+      "src": "suprajīrṇabhaktaṃ",
+      "words": [
+       {
+        "w": "su-prajīrṇa-bhaktam",
+        "gloss": "whose food is well digested",
+        "gram": "m. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "śiraḥsnātamanuliptagātraṃ",
+      "words": [
+       {
+        "w": "śiraḥ-snātam",
+        "gloss": "bathed including the head",
+        "gram": "m. acc. sg., tat-puruṣa"
+       },
+       {
+        "w": "anulipta-gātram",
+        "gloss": "whose limbs are anointed",
+        "gram": "m. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sragviṇamanupahatavasgrasaṃvītamanurūpālaṅkārālaṅkṛtaṃ",
+      "words": [
+       {
+        "w": "sragviṇam",
+        "gloss": "garlanded",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "anupahata-vastra-saṃvītam",
+        "gloss": "clad in unsoiled clothes",
+        "gram": "m. acc. sg., tat-puruṣa"
+       },
+       {
+        "w": "anurūpa-alaṅkāra-alaṅkṛtam",
+        "gloss": "adorned with fitting ornaments",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "suhṛdyāṃ",
+      "words": [
+       {
+        "w": "suhṛdām",
+        "gloss": "to friends",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "darśayitvā",
+      "words": [
+       {
+        "w": "darśayitvā",
+        "gloss": "having shown",
+        "gram": "abs. caus. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "jñātīnāṃ",
+      "words": [
+       {
+        "w": "jñātīnām",
+        "gloss": "to kinsmen",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "darśayet",
+      "words": [
+       {
+        "w": "darśayet",
+        "gloss": "should show",
+        "gram": "3 sg. opt. caus. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "athainaṃ",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "then",
+        "gram": "ind."
+       },
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "kāmeṣvavasṛjet",
+      "words": [
+       {
+        "w": "kāmeṣu",
+        "gloss": "to his pleasures",
+        "gram": "m. loc. pl."
+       },
+       {
+        "w": "avasṛjet",
+        "gloss": "should release",
+        "gram": "3 sg. opt. ava-√sṛj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "फिर उसे फिर से स्नेह और स्वेद से उपचारित करके, यह देखकर कि उसका मन अनुपहत है, उसने रात सुख से बिताई है, उसका भोजन अच्छी प्रकार पच गया है, और उसने होम, बलि, मङ्गल, जप और प्रायश्चित्त कर लिए हैं, इष्ट तिथि, नक्षत्र, करण और मुहूर्त में ब्राह्मणों से स्वस्ति वचन कराकर, दोष, भेषज, देश, काल, बल, शरीर, आहार, सात्म्य, सत्त्व, प्रकृति और वय की भिन्न-भिन्न अवस्थाओं और विकारों का भली-भाँति विचार करके, यथायोग्य आलोडन-द्रव से तैयार किया हुआ एक अक्ष मात्रा त्रिवृत्-कल्क पिलाए। और सम्यक् विरिक्त हुए उसका वमन के लिए कही गई, धूम को छोड़कर, विधि से उपचार करे, जब तक बल, वर्ण और प्रकृति की प्राप्ति न हो जाए। और बल और वर्ण से युक्त, अनुपहत मन वाले, रात सुख से बिताए हुए, अच्छी प्रकार पचे भोजन वाले, सिर सहित नहाए, अङ्गों पर अनुलेप लगाए, माला पहने, अनुपहत वस्त्र पहने, और अनुरूप अलंकारों से अलंकृत उसे देखकर, सुहृदों को दिखाकर, ज्ञातियों को दिखाए। फिर उसे कामों के लिए छोड़ दे।",
+  "english": "Then, having again treated him with oleation and sweating, and having observed him to be of unimpaired mind, to have passed the night comfortably, his food well digested, and to have performed oblation, offering, auspicious rites, muttered prayer and expiation, on a desired lunar day, asterism, karaṇa and muhūrta, having had brahmins recite blessings (svasti), he should make him drink a paste (kalka) of trivṛt, of the measure of one akṣa, prepared with a suitable liquid for stirring, having carefully considered the different states of doṣa, medicine, place, time, strength, body, diet, suitability, mind, constitution and age, and the disorders. And him, properly purged, he should treat by the procedure stated for emesis, smoking excepted, until he regains strength, complexion and his normal state. And having observed him endowed with strength and complexion, of unimpaired mind, having passed the night comfortably, his food well digested, bathed including the head, his limbs anointed, garlanded, clad in unsoiled clothes and adorned with fitting ornaments, having shown him to his friends he should show him to his kinsmen. Then he should release him to his pleasures.",
+  "text_flags": [
+   {
+    "src": "snehasvedābhyāmupapādyānupahatmanasamabhisamīkṣya",
+    "suggest": "snehasvedābhyāmupapādyānupahatamanasamabhisamīkṣya",
+    "why": "anupahata-manas (\"of unimpaired mind\") is printed in full later in this unit and in unit 9 (anupahatamanasam); the a of -hata- is lost here."
+   },
+   {
+    "src": "sragviṇamanupahatavasgrasaṃvītamanurūpālaṅkārālaṅkṛtaṃ",
+    "suggest": "sragviṇamanupahatavastrasaṃvītamanurūpālaṅkārālaṅkṛtaṃ",
+    "why": "Unit 9 has the same phrase anupahatavastrasaṃvītaṃ; vasgra is a slip for vastra (\"clothes\")."
+   },
+   {
+    "src": "suhṛdyāṃ",
+    "suggest": "suhṛdāṃ",
+    "why": "possible: the parallel jñātīnāṃ is a genitive plural, and suhṛdām (gen. pl. of suhṛd) fits \"having shown him to his friends\"; suhṛdyām would be a feminine adjective \"dear to the heart\" with nothing to agree with."
+   }
+  ],
+  "notes": "Prose passage, typed as a verse unit in the input. trivṛt is kept in Sanskrit (identification not given); akṣa is a measure (value not given). The genitives suhṛdām and jñātīnām are used in the sense of a dative (\"to\"). kāmeṣu avasṛjet: release him to his desired activities. samyak is read with viriktam (\"properly purged\"); it could also close the preceding prasamīkṣya clause (\"having considered ... properly\").",
+  "confidence": "medium"
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhavanti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "there are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "cātra",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "atra",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "anena",
+      "words": [
+       {
+        "w": "anena",
+        "gloss": "by this",
+        "gram": "m. inst. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "vidhinā",
+      "words": [
+       {
+        "w": "vidhinā",
+        "gloss": "procedure",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājā",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "a king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājamātro'thavā",
+      "words": [
+       {
+        "w": "rāja-mātraḥ",
+        "gloss": "one equal to a king",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "athavā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again, also",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "m. gen. sg. rel. pron."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vipulaṃ",
+      "words": [
+       {
+        "w": "vipulam",
+        "gloss": "abundant",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dravyaṃ",
+      "words": [
+       {
+        "w": "dravyam",
+        "gloss": "wealth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "saṃśodhanamarhati",
+      "words": [
+       {
+        "w": "saṃśodhanam",
+        "gloss": "purification",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "arhati",
+        "gloss": "is fit for",
+        "gram": "3 sg. pres. √arh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और यहाँ (श्लोक) हैं: राजा, अथवा राजा के समान, या जिसका धन विपुल हो, वह इस विधि से संशोधन के योग्य है।",
+  "english": "And here there are: A king, or one equal to a king, or he whose wealth is abundant, is fit for purification by this procedure.",
+  "text_flags": [],
+  "notes": "The first line is the lead-in formula bhavanti cātra. dravya here is wealth (as in vipuladravya, unit 3), not \"substance\". punaḥ is not rendered separately (it adds \"again\" or \"also\" to athavā).",
+  "confidence": "high"
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "daridrastvāpadaṃ",
+      "words": [
+       {
+        "w": "daridraḥ",
+        "gloss": "a poor man",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "āpadam",
+        "gloss": "emergency",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāpya",
+      "words": [
+       {
+        "w": "prāpya",
+        "gloss": "having met",
+        "gram": "abs. pra-√āp"
+       }
+      ]
+     },
+     {
+      "src": "prāptakālaṃ",
+      "words": [
+       {
+        "w": "prāpta-kālam",
+        "gloss": "timely",
+        "gram": "n. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "viśodhanam",
+      "words": [
+       {
+        "w": "viśodhanam",
+        "gloss": "purifying drug",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pibet",
+      "words": [
+       {
+        "w": "pibet",
+        "gloss": "should drink",
+        "gram": "3 sg. opt. √pā"
+       }
+      ]
+     },
+     {
+      "src": "kāmamasaṃbhṛtya",
+      "words": [
+       {
+        "w": "kāmam",
+        "gloss": "freely",
+        "gram": "ind."
+       },
+       {
+        "w": "asaṃbhṛtya",
+        "gloss": "without collecting",
+        "gram": "abs. sam-√bhṛ with negative"
+       }
+      ]
+     },
+     {
+      "src": "saṃbhārānapi",
+      "words": [
+       {
+        "w": "saṃbhārān",
+        "gloss": "requisites",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "durlabhān",
+      "words": [
+       {
+        "w": "durlabhān",
+        "gloss": "hard to obtain",
+        "gram": "m. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "परन्तु दरिद्र आपत्ति आने पर, दुर्लभ सामग्रियों का भी संग्रह किए बिना, समयोचित विशोधन इच्छानुसार पी ले।",
+  "english": "But a poor man, meeting an emergency, may freely drink a timely purifying drug, without collecting even the requisites, which are hard to obtain.",
+  "text_flags": [],
+  "notes": "kāmam is taken as \"freely, as he pleases\"; it can also be concessive (\"indeed\"). api is read with saṃbhārān (\"even the requisites\").",
+  "confidence": "high"
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sarvamanuṣyāṇāṃ",
+      "words": [
+       {
+        "w": "sarva-manuṣyāṇām",
+        "gloss": "of all men",
+        "gram": "m. gen. pl., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "santi",
+      "words": [
+       {
+        "w": "santi",
+        "gloss": "are",
+        "gram": "3 pl. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "sarve",
+      "words": [
+       {
+        "w": "sarve",
+        "gloss": "all",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "paricchadāḥ",
+      "words": [
+       {
+        "w": "paricchadāḥ",
+        "gloss": "appurtenances",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rogā",
+      "words": [
+       {
+        "w": "rogāḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bādhante",
+      "words": [
+       {
+        "w": "bādhante",
+        "gloss": "afflict",
+        "gram": "3 pl. pres. ātm. √bādh"
+       }
+      ]
+     },
+     {
+      "src": "daridrānapi",
+      "words": [
+       {
+        "w": "daridrān",
+        "gloss": "the poor",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dāruṇāḥ",
+      "words": [
+       {
+        "w": "dāruṇāḥ",
+        "gloss": "harsh",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि सब मनुष्यों के पास सब साधन नहीं होते; और ऐसा नहीं कि दारुण रोग दरिद्रों को भी पीड़ित न करें।",
+  "english": "For not all men have all the appurtenances; and it is not that harsh diseases do not afflict the poor also.",
+  "text_flags": [],
+  "notes": "The double negative (na ... na bādhante) is an affirmation: harsh diseases do afflict the poor too.",
+  "confidence": "high"
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yadyacchakyaṃ",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg. rel. pron."
+       },
+       {
+        "w": "yat",
+        "gloss": "which (each)",
+        "gram": "n. nom. sg. rel. pron."
+       },
+       {
+        "w": "śakyam",
+        "gloss": "possible",
+        "gram": "n. nom. sg., gerundive (kṛtya) √śak"
+       }
+      ]
+     },
+     {
+      "src": "manuṣyeṇa",
+      "words": [
+       {
+        "w": "manuṣyeṇa",
+        "gloss": "for a man",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "kartumauṣadhamāpadi",
+      "words": [
+       {
+        "w": "kartum",
+        "gloss": "to make",
+        "gram": "inf. √kṛ"
+       },
+       {
+        "w": "auṣadham",
+        "gloss": "medicine",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "āpadi",
+        "gloss": "in an emergency",
+        "gram": "f. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tattat",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg. pron."
+       },
+       {
+        "w": "tat",
+        "gloss": "that (each)",
+        "gram": "n. nom. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "sevyaṃ",
+      "words": [
+       {
+        "w": "sevyam",
+        "gloss": "to be used",
+        "gram": "n. nom. sg., gerundive (kṛtya) √sev"
+       }
+      ]
+     },
+     {
+      "src": "yathāśakti",
+      "words": [
+       {
+        "w": "yathāśakti",
+        "gloss": "according to ability",
+        "gram": "ind., avyayībhāva"
+       }
+      ]
+     },
+     {
+      "src": "vasanānyaśanāni",
+      "words": [
+       {
+        "w": "vasanāni",
+        "gloss": "clothes",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "aśanāni",
+        "gloss": "foods",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मनुष्य के लिए आपत्ति में जो-जो औषध करना सम्भव हो, वह-वह, और वस्त्र और भोजन, यथाशक्ति सेवन करने चाहिए।",
+  "english": "Whatever medicine it is possible for a man to make in an emergency, that should be used according to his ability, and clothes and foods.",
+  "text_flags": [],
+  "notes": "vasanāni aśanāni ca are taken with sevyam: clothes and foods too are to be used according to one's means.",
+  "confidence": "high"
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "malāpahaṃ",
+      "words": [
+       {
+        "w": "mala-apaham",
+        "gloss": "removing waste",
+        "gram": "n. acc. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "rogaharaṃ",
+      "words": [
+       {
+        "w": "roga-haram",
+        "gloss": "removing disease",
+        "gram": "n. acc. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "balavarṇaprasādanam",
+      "words": [
+       {
+        "w": "bala-varṇa-prasādanam",
+        "gloss": "brightening strength and complexion",
+        "gram": "n. acc. sg., tat-puruṣa with dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pītvā",
+      "words": [
+       {
+        "w": "pītvā",
+        "gloss": "having drunk",
+        "gram": "abs. √pā"
+       }
+      ]
+     },
+     {
+      "src": "saṃśodhanaṃ",
+      "words": [
+       {
+        "w": "saṃśodhanam",
+        "gloss": "purifying drug",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "samyagāyuṣā",
+      "words": [
+       {
+        "w": "samyak",
+        "gloss": "properly",
+        "gram": "ind."
+       },
+       {
+        "w": "āyuṣā",
+        "gloss": "with life",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "yujyate",
+      "words": [
+       {
+        "w": "yujyate",
+        "gloss": "is joined",
+        "gram": "3 sg. pres. pass. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "ciram",
+      "words": [
+       {
+        "w": "ciram",
+        "gloss": "for long",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मल को दूर करने वाला, रोग को हरने वाला, और बल और वर्ण को निखारने वाला संशोधन सम्यक् रूप से पीकर दीर्घ काल तक आयु से युक्त होता है।",
+  "english": "Having properly drunk a purifying drug that removes waste, removes disease and brightens strength and complexion, one is joined with life for long.",
+  "text_flags": [],
+  "notes": "The subject of yujyate is not expressed in the verse; the translations leave it implicit.",
+  "confidence": "high"
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ślokāḥ",
+      "words": [
+       {
+        "w": "ślokāḥ",
+        "gloss": "verses",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "īśvarāṇāṃ",
+      "words": [
+       {
+        "w": "īśvarāṇām",
+        "gloss": "for lords",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "vasumatāṃ",
+      "words": [
+       {
+        "w": "vasumatām",
+        "gloss": "for the wealthy",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "vamanaṃ",
+      "words": [
+       {
+        "w": "vamanam",
+        "gloss": "emesis",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "savirecanam",
+      "words": [
+       {
+        "w": "sa-virecanam",
+        "gloss": "together with purgation",
+        "gram": "n. nom. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "saṃbhārā",
+      "words": [
+       {
+        "w": "saṃbhārāḥ",
+        "gloss": "requisites",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "which",
+        "gram": "m. nom. pl. rel. pron."
+       }
+      ]
+     },
+     {
+      "src": "yadarthaṃ",
+      "words": [
+       {
+        "w": "yad-artham",
+        "gloss": "for what purpose",
+        "gram": "ind. (adverbial acc.)"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "samānīya",
+      "words": [
+       {
+        "w": "samānīya",
+        "gloss": "having brought together",
+        "gram": "abs. sam-ā-√nī"
+       }
+      ]
+     },
+     {
+      "src": "prayojayet",
+      "words": [
+       {
+        "w": "prayojayet",
+        "gloss": "should employ",
+        "gram": "3 sg. opt. caus. pra-√yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यहाँ श्लोक हैं: ईश्वरों और धनवानों के लिए विरेचन सहित वमन; कौन-सी सामग्रियाँ हैं और किस प्रयोजन से उन्हें एकत्र करके प्रयोग करे;",
+  "english": "Here, the verses: Emesis together with purgation for lords and the wealthy; which requisites there are, and for what purpose one should bring them together and employ them;",
+  "text_flags": [],
+  "notes": "Lead-in tatra ślokāḥ followed by the chapter summary, which runs on to unit 25.",
+  "confidence": "high"
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "how",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prayojyā",
+      "words": [
+       {
+        "w": "prayojyā",
+        "gloss": "to be administered",
+        "gram": "f. nom. sg., gerundive (kṛtya) caus. pra-√yuj"
+       }
+      ]
+     },
+     {
+      "src": "mātrā",
+      "words": [
+       {
+        "w": "mātrā",
+        "gloss": "measure",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yā",
+        "gloss": "which",
+        "gram": "f. nom. sg. rel. pron."
+       }
+      ]
+     },
+     {
+      "src": "yadayogasya",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "what",
+        "gram": "n. nom. sg. rel. pron."
+       },
+       {
+        "w": "ayogasya",
+        "gloss": "of deficient action",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "lakṣaṇam",
+      "words": [
+       {
+        "w": "lakṣaṇam",
+        "gloss": "sign",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yogātiyogayoryacca",
+      "words": [
+       {
+        "w": "yoga-atiyogayoḥ",
+        "gloss": "of proper and excessive action",
+        "gram": "m. gen. du., dvandva"
+       },
+       {
+        "w": "yat",
+        "gloss": "what",
+        "gram": "n. nom. sg. rel. pron."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "doṣā",
+      "words": [
+       {
+        "w": "doṣāḥ",
+        "gloss": "faults (doṣa)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "which",
+        "gram": "m. nom. pl. rel. pron."
+       }
+      ]
+     },
+     {
+      "src": "cāpyupadravāḥ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       },
+       {
+        "w": "upadravāḥ",
+        "gloss": "complications",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कौन-सी मात्रा कैसे प्रयोग करनी चाहिए, अयोग का क्या लक्षण है, और योग और अतियोग का क्या, और कौन-से दोष और उपद्रव हैं;",
+  "english": "how the measure that is to be administered is to be used, and which it is; what the sign of deficient action is, and what that of proper and excessive action; and which faults (doṣa) and complications there are;",
+  "text_flags": [],
+  "notes": "doṣāḥ here may be the faults of improper administration rather than the bodily doṣas; the summary does not say which. yathā prayojyā mātrā yā is compressed: \"how and which measure is to be administered\".",
+  "confidence": "medium"
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yadasevyaṃ",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "what",
+        "gram": "n. nom. sg. rel. pron."
+       },
+       {
+        "w": "asevyam",
+        "gloss": "not to be indulged in",
+        "gram": "n. nom. sg., gerundive (kṛtya) √sev with negative"
+       }
+      ]
+     },
+     {
+      "src": "viśuddhena",
+      "words": [
+       {
+        "w": "viśuddhena",
+        "gloss": "by the purified one",
+        "gram": "m. inst. sg., ppp. vi-√śudh"
+       }
+      ]
+     },
+     {
+      "src": "yaśca",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "m. nom. sg. rel. pron."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃsarjanakramaḥ",
+      "words": [
+       {
+        "w": "saṃsarjana-kramaḥ",
+        "gloss": "sequence of resuming diet (saṃsarjana)",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tat",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "sarvaṃ",
+      "words": [
+       {
+        "w": "sarvam",
+        "gloss": "all",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kalpanādhyāye",
+      "words": [
+       {
+        "w": "kalpanā-adhyāye",
+        "gloss": "in the chapter on preparation",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vyājahāra",
+      "words": [
+       {
+        "w": "vyājahāra",
+        "gloss": "declared",
+        "gram": "3 sg. pf. vi-ā-√hṛ"
+       }
+      ]
+     },
+     {
+      "src": "punarvasuḥ",
+      "words": [
+       {
+        "w": "punarvasuḥ",
+        "gloss": "Punarvasu",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विशुद्ध हुए को क्या सेवन नहीं करना चाहिए, और संसर्जन-क्रम क्या है, वह सब पुनर्वसु ने कल्पना-अध्याय में कहा।",
+  "english": "what is not to be indulged in by one who has been purified, and what the sequence of resuming diet (saṃsarjanakrama) is: all that Punarvasu declared in the chapter on preparation.",
+  "text_flags": [],
+  "notes": "kalpanādhyāya (\"the chapter on preparation\") here names this chapter, whose colophon title is Upakalpanīya. saṃsarjanakrama is the graded meal sequence described in unit 16.",
+  "confidence": "high"
+ },
+ {
+  "n": "P3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ityagniveśakṛte",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "agniveśa-kṛte",
+        "gloss": "composed by Agniveśa",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tantre",
+      "words": [
+       {
+        "w": "tantre",
+        "gloss": "in the treatise",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "carakapratisaṃskṛte",
+      "words": [
+       {
+        "w": "caraka-pratisaṃskṛte",
+        "gloss": "redacted by Caraka",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ślokasthāne",
+      "words": [
+       {
+        "w": "śloka-sthāne",
+        "gloss": "in the Śloka section",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "upakalpanīyo",
+      "words": [
+       {
+        "w": "upakalpanīyaḥ",
+        "gloss": "Upakalpanīya (on what is to be prepared)",
+        "gram": "m. nom. sg., gerundive (kṛtya) of caus. upa-√kḷp, used as chapter name"
+       }
+      ]
+     },
+     {
+      "src": "nāma",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "named",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pañcadaśo'dhyāyaḥ",
+      "words": [
+       {
+        "w": "pañcadaśaḥ",
+        "gloss": "fifteenth",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "adhyāyaḥ",
+        "gloss": "chapter",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार अग्निवेश द्वारा रचित और चरक द्वारा प्रतिसंस्कृत तन्त्र के श्लोकस्थान में उपकल्पनीय नामक पन्द्रहवाँ अध्याय।",
+  "english": "Thus, in the Śloka section (Ślokasthāna) of the treatise composed by Agniveśa and redacted by Caraka, the fifteenth chapter, named Upakalpanīya (on what is to be prepared).",
+  "text_flags": [],
+  "notes": "Chapter colophon; the Sanskrit has no verb and the translation keeps it verbless.",
+  "confidence": "high"
+ }
+]

@@ -1,0 +1,400 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "units 1-8 (prose lines typed as verse)",
+     "problem": "Units 1 to 8 are prose lines but carry type 'verse' in the input; the draft notes it only for unit 1. Fix at unit build (type 'prose'), not in the draft.",
+     "fix": "set type to 'prose' for 1, 2, 3, 4, 5, 6, 7-1, 7-2, 7-3, 7, 8 at unit build",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "picchana -> piccana",
+     "problem": "Flag without evidence: nothing in the chunk or in grammar shows picchana to be wrong (cch/cc is an orthographic alternation, the word fits the list as printed). Drop the flag and keep the printed spelling in words.",
+     "fix": "drop text_flag 2; w with -picchana-",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "4",
+       "op": "set",
+       "field": "text_flags",
+       "value": [
+        {
+         "src": "saviṣaprāṇisaṃṣṭrādantaviṣāṇanakhanipātairvā",
+         "suggest": "saviṣaprāṇidaṃṣṭrādantaviṣāṇanakhanipātairvā",
+         "why": "saṃṣṭrā is not a word; daṃṣṭrā (fang) fits the list of biting and striking parts (teeth, horns, nails)"
+        }
+       ]
+      },
+      {
+       "n": "4",
+       "op": "word",
+       "match_w": "chedana-bhedana-kṣaṇana-bhañjana-piccana-utpeṣaṇa-prahāra-vadha-bandhana-veṣṭana-vyadhana-pīḍana-ādibhiḥ",
+       "field": "w",
+       "value": "chedana-bhedana-kṣaṇana-bhañjana-picchana-utpeṣaṇa-prahāra-vadha-bandhana-veṣṭana-vyadhana-pīḍana-ādibhiḥ"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आरम्भ में ही",
+     "problem": "ही adds emphasis not in the Sanskrit (ādau).",
+     "fix": "आरम्भ में",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आरम्भ में ही",
+      "new": "आरम्भ में"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "nijavyañjanaikadeśaviparītaiḥ",
+     "problem": "The instrumental can grammatically also go with the following upakramaiḥ; the alternative should be stated.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "append_note",
+      "text": "Grammatically nijavyañjanaikadeśaviparītaiḥ could also qualify upakramaiḥ ('with measures partly contrary to the signs of the endogenous')."
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "रोगों से हुए अत्यधिक कृशता से",
+     "problem": "कृशता is feminine: हुई, not हुए.",
+     "fix": "रोगों से हुई अत्यधिक कृशता से",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "hindi",
+      "old": "रोगों से हुए अत्यधिक कृशता से",
+      "new": "रोगों से हुई अत्यधिक कृशता से"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "-arśovikārātikarśanaiḥ; karma",
+     "problem": "Reviewer decisions: karma kept as 'action' (fixed rendering) and ati- read as governing the use of the whole food list (cf. lavaṇātibhakṣaṇa) are accepted with the draft's alternatives; but the compound -vikāra-atikarśanaiḥ also allows a dvandva reading that should be noted.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "append_note",
+      "text": "-arśovikārātikarśanaiḥ may also be read as a dvandva: 'by the disorders vomiting ... arśas, or by excessive emaciation'. karma could also mean physical work."
+     }
+    }
+   ]
+  },
+  {
+   "n": "7-1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7-2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dūyate",
+     "problem": "dūyate is from √dū (4th class ātm., 'to suffer pain'), not √du.",
+     "fix": "3 sg. pres. √dū",
+     "severity": "minor",
+     "patch": {
+      "n": "7-2",
+      "op": "word",
+      "match_w": "dūyate",
+      "field": "gram",
+      "value": "3 sg. pres. √dū"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पीड़ा देता है",
+     "problem": "dūyate means the swelling smarts/feels pain, not that it gives pain.",
+     "fix": "दुखता है",
+     "severity": "error",
+     "patch": {
+      "n": "7-2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पीड़ा देता है",
+      "new": "दुखता है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7-3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "it could also be 'unctuous and warm massage'",
+     "problem": "The dual -ābhyām requires two means; a single 'unctuous and warm massage' is excluded by the grammar. The draft's main reading (two means) is right.",
+     "fix": "; the dual excludes a single 'unctuous and warm massage'.",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "notes",
+      "old": "; it could also be 'unctuous and warm massage'.",
+      "new": "; the dual excludes a single 'unctuous and warm massage'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "is foul-smelling",
+     "problem": "gandhī means 'having an odour'; 'foul' is added (the draft's own note says so).",
+     "fix": "has an odour",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "11",
+       "op": "replace",
+       "field": "english",
+       "old": "is foul-smelling",
+       "new": "has an odour"
+      },
+      {
+       "n": "11",
+       "op": "word",
+       "match_w": "gandhī",
+       "field": "gloss",
+       "value": "having an odour"
+      },
+      {
+       "n": "11",
+       "op": "set",
+       "field": "notes",
+       "value": "gandhī is rendered literally 'having an odour'."
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "जो शोथ पीड़ा देता है",
+     "problem": "dūyate: the swelling smarts, it does not give pain.",
+     "fix": "जो शोथ दुखता है",
+     "severity": "error",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जो शोथ पीड़ा देता है",
+      "new": "जो शोथ दुखता है"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "dūyate",
+     "problem": "root is √dū, not √du.",
+     "fix": "3 sg. pres. √dū",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "word",
+      "match_w": "dūyate",
+      "field": "gram",
+      "value": "3 sg. pres. √dū"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "चिपचिपा पिच्छा स्रवित हो",
+     "problem": "picchā is feminine (keep it so in Hindi) and स्रवित हो is stilted for sravati.",
+     "fix": "चिपचिपी पिच्छा रिसे",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "hindi",
+      "old": "चिपचिपा पिच्छा स्रवित हो",
+      "new": "चिपचिपी पिच्छा रिसे"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "tvaci rakte",
+     "problem": "'in the skin and blood' supplies an 'and'; the asyndetic pair should be noted.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "append_note",
+      "text": "tvaci rakte has no 'and' in the text; it may also mean 'in the blood in the skin'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "a harsh swelling",
+     "problem": "Glossary 'dāruṇa = harsh' is for a quality in guṇa lists; said of a disease it means dreadful, severe.",
+     "fix": "a dreadful swelling",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "26",
+       "op": "replace",
+       "field": "english",
+       "old": "a harsh swelling",
+       "new": "a dreadful swelling"
+      },
+      {
+       "n": "26",
+       "op": "word",
+       "match_w": "dāruṇaḥ",
+       "field": "gloss",
+       "value": "dreadful"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "30 units reviewed; 15 issues (3 error, 12 minor), 14 with machine patches, 1 MANUAL (units 1-8 typed verse, are prose: fix at unit build). text_flags: 33 proposed, 32 accepted (evidence in chunk parallels, metre or grammar), 1 dropped (unit 4 picchana->piccana: no evidence; printed spelling restored in words). Decisions: 7-2 suṣūyata kept as printed in src with the conjecture mṛṣyate in words, flagged 'possible' (not a form; sense fixed by contrast with sparśoṣṇasahaḥ in 7-3; -ta before iti fits an ātmanepada -te verb), confidence medium kept; unit 6 karma = action (fixed rendering, alternatives in notes), ati- read as governing the use of the whole food list, alternative already noted; unit 4 sāgaraviṣa = sea-poison (tat-puruṣa), 'poisonous sea-wind' alternative kept in notes; plant identifications bhallātaka = Semecarpus anacardium and ātmaguptā = Mucuna pruriens are tagged 'standard' in notes: allowed by GLOSSARY POLICY, kept; unit 10 dual = two means (unctuous-warm application and massage), note's one-means alternative corrected; unit 16 strīmukhāt = 'from a woman's face', literal reading kept; kākala kept Sanskrit; dāruṇa = harsh for qualities, dreadful for a disease (unit 26 fixed); antāya = 'leads to the end', death only in notes; picchā = slimy fluid (picchā); bare ';' tokens glossed '(punctuation)'/'punct.' accepted. No notes cite commentators, other editions or memory; no modern disease identifications. No regrouping suggested. Layers remain unreviewed AI drafts until read by a person."
+}

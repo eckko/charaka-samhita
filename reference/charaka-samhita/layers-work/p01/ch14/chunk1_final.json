@@ -1,0 +1,3986 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athātaḥ",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now",
+        "gram": "ind."
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "therefore, hence",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svedādhyāyaṃ",
+      "words": [
+       {
+        "w": "sveda-adhyāyam",
+        "gloss": "the chapter on sweating (sveda)",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vyākhyāsyāmaḥ",
+      "words": [
+       {
+        "w": "vyākhyāsyāmaḥ",
+        "gloss": "we shall expound",
+        "gram": "1 pl. fut. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब इसके बाद हम स्वेद-अध्याय की व्याख्या करेंगे।",
+  "english": "Now, therefore, we shall expound the chapter on sweating (sveda).",
+  "text_flags": [],
+  "notes": "Prose opening formula of the chapter; the unit is typed as a verse in the input but is a prose line.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.14.1"
+  ],
+  "lines_deva": [
+   "अथातः स्वेदाध्यायं व्याख्यास्यामः"
+  ],
+  "lines_iast": [
+   "athātaḥ svedādhyāyaṃ vyākhyāsyāmaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ha",
+      "words": [
+       {
+        "w": "ha",
+        "gloss": "indeed (particle)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "smāha",
+      "words": [
+       {
+        "w": "sma",
+        "gloss": "particle giving past sense",
+        "gram": "ind."
+       },
+       {
+        "w": "āha",
+        "gloss": "said",
+        "gram": "3 sg. pf. √ah"
+       }
+      ]
+     },
+     {
+      "src": "bhagavānātreyaḥ",
+      "words": [
+       {
+        "w": "bhagavān",
+        "gloss": "the venerable",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ātreyaḥ",
+        "gloss": "Ātreya (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ऐसा भगवान् आत्रेय ने कहा।",
+  "english": "Thus said the venerable Ātreya.",
+  "text_flags": [],
+  "notes": "Prose formula; ha and sma are particles, not rendered separately.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.14.2"
+  ],
+  "lines_deva": [
+   "इति ह स्माह भगवानात्रेयः"
+  ],
+  "lines_iast": [
+   "iti ha smāha bhagavānātreyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ataḥ",
+      "words": [
+       {
+        "w": "ataḥ",
+        "gloss": "now, hereafter",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svedāḥ",
+      "words": [
+       {
+        "w": "svedāḥ",
+        "gloss": "sweating procedures",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pravakṣyante",
+      "words": [
+       {
+        "w": "pravakṣyante",
+        "gloss": "will be expounded",
+        "gram": "3 pl. fut. ātm. (passive sense) pra-√vac"
+       }
+      ]
+     },
+     {
+      "src": "yairyathāvatprayojitaiḥ",
+      "words": [
+       {
+        "w": "yaiḥ",
+        "gloss": "by which",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "yathāvat",
+        "gloss": "properly",
+        "gram": "ind."
+       },
+       {
+        "w": "prayojitaiḥ",
+        "gloss": "applied",
+        "gram": "m. inst. pl., ppp. caus. pra-√yuj"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "svedasādhyāḥ",
+      "words": [
+       {
+        "w": "sveda-sādhyāḥ",
+        "gloss": "curable by sweating",
+        "gram": "m. nom. pl., tat-puruṣa (sādhya gerundive (kṛtya) √sādh)"
+       }
+      ]
+     },
+     {
+      "src": "praśāmyanti",
+      "words": [
+       {
+        "w": "praśāmyanti",
+        "gloss": "subside",
+        "gram": "3 pl. pres. pra-√śam"
+       }
+      ]
+     },
+     {
+      "src": "gadā",
+      "words": [
+       {
+        "w": "gadāḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vātakaphātmakāḥ",
+      "words": [
+       {
+        "w": "vāta-kapha-ātmakāḥ",
+        "gloss": "of the nature of Vāta and Kapha",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब स्वेदों का वर्णन किया जाएगा, जिनका यथोचित प्रयोग करने पर स्वेद से साध्य, वात और कफ स्वरूप वाले रोग शान्त हो जाते हैं।",
+  "english": "Now the sweating procedures will be expounded, by which, when properly applied, the diseases curable by sweating, which are of the nature of Vāta and Kapha, subside.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.14.3a",
+   "01.14.3b"
+  ],
+  "lines_deva": [
+   "अतः स्वेदाः प्रवक्ष्यन्ते यैर्यथावत्प्रयोजितैः",
+   "स्वेदसाध्याः प्रशाम्यन्ति गदा वातकफात्मकाः"
+  ],
+  "lines_iast": [
+   "ataḥ svedāḥ pravakṣyante yairyathāvatprayojitaiḥ",
+   "svedasādhyāḥ praśāmyanti gadā vātakaphātmakāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "snehapūrvaṃ",
+      "words": [
+       {
+        "w": "sneha-pūrvam",
+        "gloss": "preceded by oleation",
+        "gram": "adv. (n. acc. sg.), bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "prayuktena",
+      "words": [
+       {
+        "w": "prayuktena",
+        "gloss": "applied",
+        "gram": "m. inst. sg., ppp. pra-√yuj"
+       }
+      ]
+     },
+     {
+      "src": "svedenāvajite'nile",
+      "words": [
+       {
+        "w": "svedena",
+        "gloss": "by sweating",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "avajite",
+        "gloss": "subdued",
+        "gram": "m. loc. sg., ppp. ava-√ji"
+       },
+       {
+        "w": "anile",
+        "gloss": "Vāta (anila)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "purīṣamūtraretāṃsi",
+      "words": [
+       {
+        "w": "purīṣa-mūtra-retāṃsi",
+        "gloss": "faeces, urine and semen",
+        "gram": "n. nom. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sajjanti",
+      "words": [
+       {
+        "w": "sajjanti",
+        "gloss": "get stuck",
+        "gram": "3 pl. pres. √sañj"
+       }
+      ]
+     },
+     {
+      "src": "kathaṃcana",
+      "words": [
+       {
+        "w": "kathaṃcana",
+        "gloss": "in any way at all",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्नेहन के पश्चात् प्रयुक्त स्वेद द्वारा अनिल के वश में आ जाने पर मल, मूत्र और वीर्य किसी प्रकार भी अटकते नहीं।",
+  "english": "When Vāta (anila) has been subdued by sweating applied after oleation, faeces, urine and semen do not get stuck in any way at all.",
+  "text_flags": [],
+  "notes": "avajite 'nile is a locative absolute.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.14.4a",
+   "01.14.4b"
+  ],
+  "lines_deva": [
+   "स्नेहपूर्वं प्रयुक्तेन स्वेदेनावजितेऽनिले",
+   "पुरीषमूत्ररेतांसि न सज्जन्ति कथंचन"
+  ],
+  "lines_iast": [
+   "snehapūrvaṃ prayuktena svedenāvajite'nile",
+   "purīṣamūtraretāṃsi na sajjanti kathaṃcana"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śuṣkāṇyapi",
+      "words": [
+       {
+        "w": "śuṣkāṇi",
+        "gloss": "dry",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kāṣṭhāni",
+      "words": [
+       {
+        "w": "kāṣṭhāni",
+        "gloss": "pieces of wood",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "snehasvedopapādanaiḥ",
+      "words": [
+       {
+        "w": "sneha-sveda-upapādanaiḥ",
+        "gloss": "by the application of oleation and sweating",
+        "gram": "n. inst. pl., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "namayanti",
+      "words": [
+       {
+        "w": "namayanti",
+        "gloss": "they bend",
+        "gram": "3 pl. pres. caus. √nam"
+       }
+      ]
+     },
+     {
+      "src": "yathānyāyaṃ",
+      "words": [
+       {
+        "w": "yathā-nyāyam",
+        "gloss": "properly, as is due",
+        "gram": "ind., avyayībhāva"
+       }
+      ]
+     },
+     {
+      "src": "kiṃ",
+      "words": [
+       {
+        "w": "kim",
+        "gloss": "how (much more)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "punarjīvato",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "again, more",
+        "gram": "ind."
+       },
+       {
+        "w": "jīvataḥ",
+        "gloss": "living",
+        "gram": "m. acc. pl., pres. part. √jīv"
+       }
+      ]
+     },
+     {
+      "src": "narān",
+      "words": [
+       {
+        "w": "narān",
+        "gloss": "men",
+        "gram": "m. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि स्नेहन और स्वेदन के प्रयोग से सूखी लकड़ियों को भी यथोचित रूप से झुका देते हैं, तो जीवित मनुष्यों का तो कहना ही क्या।",
+  "english": "For even dry pieces of wood are bent properly by the application of oleation and sweating; how much more living men!",
+  "text_flags": [],
+  "notes": "namayanti has an unexpressed subject ('they', people); rendered as a passive in English. kiṃ punar = 'how much more'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.14.5a",
+   "01.14.5b"
+  ],
+  "lines_deva": [
+   "शुष्काण्यपि हि काष्ठानि स्नेहस्वेदोपपादनैः",
+   "नमयन्ति यथान्यायं किं पुनर्जीवतो नरान्"
+  ],
+  "lines_iast": [
+   "śuṣkāṇyapi hi kāṣṭhāni snehasvedopapādanaiḥ",
+   "namayanti yathānyāyaṃ kiṃ punarjīvato narān"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rogartuvyādhitāpekṣo",
+      "words": [
+       {
+        "w": "roga-ṛtu-vyādhita-apekṣaḥ",
+        "gloss": "having regard to the disease, season and patient",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "nātyuṣṇo'timṛdurna",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "ati-uṣṇaḥ",
+        "gloss": "too hot",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ati-mṛduḥ",
+        "gloss": "too mild",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dravyavān",
+      "words": [
+       {
+        "w": "dravyavān",
+        "gloss": "provided with substances",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kalpito",
+      "words": [
+       {
+        "w": "kalpitaḥ",
+        "gloss": "arranged, applied",
+        "gram": "m. nom. sg., ppp. caus. √kḷp"
+       }
+      ]
+     },
+     {
+      "src": "deśe",
+      "words": [
+       {
+        "w": "deśe",
+        "gloss": "at the region, place",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "svedaḥ",
+      "words": [
+       {
+        "w": "svedaḥ",
+        "gloss": "sweating",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāryakaro",
+      "words": [
+       {
+        "w": "kārya-karaḥ",
+        "gloss": "effective (accomplishing the task)",
+        "gram": "m. nom. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "mataḥ",
+      "words": [
+       {
+        "w": "mataḥ",
+        "gloss": "is held",
+        "gram": "m. nom. sg., ppp. √man"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रोग, ऋतु और रोगी की अपेक्षा रखने वाला, न अधिक उष्ण और न अधिक मृदु, द्रव्यों से युक्त और स्थान पर कल्पित स्वेद कार्यकारी माना गया है।",
+  "english": "Sweating that has regard to the disease, the season and the patient, is neither too hot nor too mild, is provided with substances and is applied at the region, is held to be effective.",
+  "text_flags": [],
+  "notes": "deśe may mean the place where sweating is done or the region of the body to be sweated.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.14.6a",
+   "01.14.6b"
+  ],
+  "lines_deva": [
+   "रोगर्तुव्याधितापेक्षो नात्युष्णोऽतिमृदुर्न च",
+   "द्रव्यवान् कल्पितो देशे स्वेदः कार्यकरो मतः"
+  ],
+  "lines_iast": [
+   "rogartuvyādhitāpekṣo nātyuṣṇo'timṛdurna ca",
+   "dravyavān kalpito deśe svedaḥ kāryakaro mataḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vyādhau",
+      "words": [
+       {
+        "w": "vyādhau",
+        "gloss": "when the disease",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śīte",
+      "words": [
+       {
+        "w": "śīte",
+        "gloss": "is cold",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śarīre",
+      "words": [
+       {
+        "w": "śarīre",
+        "gloss": "the body",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mahān",
+      "words": [
+       {
+        "w": "mahān",
+        "gloss": "strong, great",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "svedo",
+      "words": [
+       {
+        "w": "svedaḥ",
+        "gloss": "sweating",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mahābale",
+      "words": [
+       {
+        "w": "mahā-bale",
+        "gloss": "of great strength",
+        "gram": "n./m. loc. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "durbale",
+      "words": [
+       {
+        "w": "durbale",
+        "gloss": "when weak",
+        "gram": "loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "durbalaḥ",
+      "words": [
+       {
+        "w": "durbalaḥ",
+        "gloss": "weak",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "svedo",
+      "words": [
+       {
+        "w": "svedaḥ",
+        "gloss": "sweating",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhyame",
+      "words": [
+       {
+        "w": "madhyame",
+        "gloss": "when moderate",
+        "gram": "loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhyamo",
+      "words": [
+       {
+        "w": "madhyamaḥ",
+        "gloss": "moderate",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hitaḥ",
+      "words": [
+       {
+        "w": "hitaḥ",
+        "gloss": "beneficial",
+        "gram": "m. nom. sg., ppp. √dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब रोग शीत हो और शरीर महाबलवान् हो, तब तीव्र स्वेद हितकर है; दुर्बल में दुर्बल स्वेद और मध्यम में मध्यम स्वेद हितकर है।",
+  "english": "When the disease is cold and the body is of great strength, strong sweating is beneficial; when weak, weak sweating; when moderate, moderate sweating.",
+  "text_flags": [],
+  "notes": "Locative absolutes. mahābale may qualify śarīre only (as translated) or both vyādhau and śarīre ('when the disease and the body are cold and strong'); durbale and madhyame likewise refer to the strength of the disease and/or body.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.14.7a",
+   "01.14.7b"
+  ],
+  "lines_deva": [
+   "व्याधौ शीते शरीरे च महान् स्वेदो महाबले",
+   "दुर्बले दुर्बलः स्वेदो मध्यमे मध्यमो हितः"
+  ],
+  "lines_iast": [
+   "vyādhau śīte śarīre ca mahān svedo mahābale",
+   "durbale durbalaḥ svedo madhyame madhyamo hitaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vātaśleṣmaṇi",
+      "words": [
+       {
+        "w": "vāta-śleṣmaṇi",
+        "gloss": "in Vāta-Kapha (śleṣman)",
+        "gram": "n. loc. sg., samāhāra dvandva"
+       }
+      ]
+     },
+     {
+      "src": "vāte",
+      "words": [
+       {
+        "w": "vāte",
+        "gloss": "in Vāta",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaphe",
+      "words": [
+       {
+        "w": "kaphe",
+        "gloss": "in Kapha",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sveda",
+      "words": [
+       {
+        "w": "svedaḥ",
+        "gloss": "sweating",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iṣyate",
+      "words": [
+       {
+        "w": "iṣyate",
+        "gloss": "is desired",
+        "gram": "3 sg. pres. pass. √iṣ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "snigdharūkṣastathā",
+      "words": [
+       {
+        "w": "snigdha-rūkṣaḥ",
+        "gloss": "both unctuous and dry",
+        "gram": "m. nom. sg., karmadhāraya (dvandva-type adj.)"
+       },
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "snigdho",
+      "words": [
+       {
+        "w": "snigdhaḥ",
+        "gloss": "unctuous",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rūkṣaścāpyupakalpitaḥ",
+      "words": [
+       {
+        "w": "rūkṣaḥ",
+        "gloss": "dry",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       },
+       {
+        "w": "upakalpitaḥ",
+        "gloss": "prepared",
+        "gram": "m. nom. sg., ppp. caus. upa-√kḷp"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वात-कफ में, वात में अथवा कफ में स्वेद इष्ट है, जो स्निग्ध-रूक्ष, उसी प्रकार स्निग्ध, और रूक्ष रूप में तैयार किया गया हो।",
+  "english": "In Vāta-Kapha (śleṣman), in Vāta, or in Kapha, sweating is desired that is prepared both unctuous and dry, likewise unctuous, and dry.",
+  "text_flags": [],
+  "notes": "The three kinds of sweating in line 2 correspond in order to the three conditions in line 1.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.14.8a",
+   "01.14.8b"
+  ],
+  "lines_deva": [
+   "वातश्लेष्मणि वाते वा कफे वा स्वेद इष्यते",
+   "स्निग्धरूक्षस्तथा स्निग्धो रूक्षश्चाप्युपकल्पितः"
+  ],
+  "lines_iast": [
+   "vātaśleṣmaṇi vāte vā kaphe vā sveda iṣyate",
+   "snigdharūkṣastathā snigdho rūkṣaścāpyupakalpitaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āmāśayagate",
+      "words": [
+       {
+        "w": "āmāśaya-gate",
+        "gloss": "situated in the āmāśaya",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vāte",
+      "words": [
+       {
+        "w": "vāte",
+        "gloss": "when Vāta",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaphe",
+      "words": [
+       {
+        "w": "kaphe",
+        "gloss": "when Kapha",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pakvāśayāśrite",
+      "words": [
+       {
+        "w": "pakvāśaya-āśrite",
+        "gloss": "resting in the pakvāśaya",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "rūkṣapūrvo",
+      "words": [
+       {
+        "w": "rūkṣa-pūrvaḥ",
+        "gloss": "preceded by drying",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "hitaḥ",
+      "words": [
+       {
+        "w": "hitaḥ",
+        "gloss": "beneficial",
+        "gram": "m. nom. sg., ppp. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "svedaḥ",
+      "words": [
+       {
+        "w": "svedaḥ",
+        "gloss": "sweating",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "snehapūrvastathaiva",
+      "words": [
+       {
+        "w": "sneha-pūrvaḥ",
+        "gloss": "preceded by oleation",
+        "gram": "m. nom. sg., bahuvrīhi"
+       },
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "just (emphatic)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आमाशय में स्थित वात में और पक्वाशय में आश्रित कफ में रूक्षण-पूर्वक स्वेद हितकर है, और उसी प्रकार स्नेहन-पूर्वक भी।",
+  "english": "When Vāta is situated in the āmāśaya, and when Kapha rests in the pakvāśaya, sweating preceded by drying is beneficial, and likewise preceded by oleation.",
+  "text_flags": [],
+  "notes": "Probably to be read in order: drying first for Vāta in the āmāśaya, oleation first for Kapha in the pakvāśaya; the verse states the two kinds in the same order as the two conditions.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.14.9a",
+   "01.14.9b"
+  ],
+  "lines_deva": [
+   "आमाशयगते वाते कफे पक्वाशयाश्रिते",
+   "रूक्षपूर्वो हितः स्वेदः स्नेहपूर्वस्तथैव च"
+  ],
+  "lines_iast": [
+   "āmāśayagate vāte kaphe pakvāśayāśrite",
+   "rūkṣapūrvo hitaḥ svedaḥ snehapūrvastathaiva ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vṛṣaṇau",
+      "words": [
+       {
+        "w": "vṛṣaṇau",
+        "gloss": "the testicles",
+        "gram": "m. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "hṛdayaṃ",
+      "words": [
+       {
+        "w": "hṛdayam",
+        "gloss": "the heart",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dṛṣṭī",
+      "words": [
+       {
+        "w": "dṛṣṭī",
+        "gloss": "the eyes",
+        "gram": "f. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "svedayenmṛdu",
+      "words": [
+       {
+        "w": "svedayet",
+        "gloss": "one should sweat",
+        "gram": "3 sg. opt. caus. √svid"
+       },
+       {
+        "w": "mṛdu",
+        "gloss": "mildly",
+        "gram": "adv. (n. acc. sg.)"
+       }
+      ]
+     },
+     {
+      "src": "naiva",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "at all (emphatic)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "madhyamaṃ",
+      "words": [
+       {
+        "w": "madhyamam",
+        "gloss": "moderately",
+        "gram": "adv. (n. acc. sg.)"
+       }
+      ]
+     },
+     {
+      "src": "vaṃkṣaṇau",
+      "words": [
+       {
+        "w": "vaṃkṣaṇau",
+        "gloss": "the groins",
+        "gram": "m. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "śeṣamaṅgāvayavamiṣṭataḥ",
+      "words": [
+       {
+        "w": "śeṣam",
+        "gloss": "the remaining",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "aṅga-avayavam",
+        "gloss": "parts of the body",
+        "gram": "m. acc. sg., tat-puruṣa"
+       },
+       {
+        "w": "iṣṭataḥ",
+        "gloss": "as desired",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अण्डकोषों, हृदय और नेत्रों को मृदु स्वेद दे या बिल्कुल न दे; वंक्षणों को मध्यम, और शेष अंग-अवयवों को इच्छानुसार।",
+  "english": "One should sweat the testicles, the heart and the eyes mildly or not at all; the groins moderately; the remaining parts of the body as desired.",
+  "text_flags": [],
+  "notes": "śeṣam (m. acc. sg.) agrees with aṅgāvayavam: 'the remaining parts of the body'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.14.10a",
+   "01.14.10b"
+  ],
+  "lines_deva": [
+   "वृषणौ हृदयं दृष्टी स्वेदयेन्मृदु नैव वा",
+   "मध्यमं वंक्षणौ शेषमङ्गावयवमिष्टतः"
+  ],
+  "lines_iast": [
+   "vṛṣaṇau hṛdayaṃ dṛṣṭī svedayenmṛdu naiva vā",
+   "madhyamaṃ vaṃkṣaṇau śeṣamaṅgāvayavamiṣṭataḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "suśuddhairnaktakaiḥ",
+      "words": [
+       {
+        "w": "su-śuddhaiḥ",
+        "gloss": "very clean",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "naktakaiḥ",
+        "gloss": "with cloths",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "piṇḍyā",
+      "words": [
+       {
+        "w": "piṇḍyā",
+        "gloss": "with a lump",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "godhūmānāmathāpi",
+      "words": [
+       {
+        "w": "godhūmānām",
+        "gloss": "of wheat",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "atha",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "padmotpalapalāśairvā",
+      "words": [
+       {
+        "w": "padma-utpala-palāśaiḥ",
+        "gloss": "with leaves of lotus and water-lily",
+        "gram": "n. inst. pl., tat-puruṣa (padma-utpala dvandva)"
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svedyaḥ",
+      "words": [
+       {
+        "w": "svedyaḥ",
+        "gloss": "the one to be sweated",
+        "gram": "m. nom. sg., gerundive (kṛtya) caus. √svid"
+       }
+      ]
+     },
+     {
+      "src": "saṃvṛtya",
+      "words": [
+       {
+        "w": "saṃvṛtya",
+        "gloss": "having covered",
+        "gram": "abs. sam-√vṛ"
+       }
+      ]
+     },
+     {
+      "src": "cakṣuṣī",
+      "words": [
+       {
+        "w": "cakṣuṣī",
+        "gloss": "the two eyes",
+        "gram": "n. acc. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "भली भाँति स्वच्छ कपड़ों से, अथवा गेहूँ के पिण्ड से, अथवा कमल और उत्पल के पत्तों से दोनों नेत्रों को ढककर स्वेद देना चाहिए।",
+  "english": "Having covered the eyes with very clean cloths, or with a lump of wheat, or with leaves of lotus (padma) and water-lily (utpala), one is to be sweated.",
+  "text_flags": [],
+  "notes": "palāśa here taken as 'leaf'; it could also be read as the palāśa tree ('with padma, utpala and palāśa'). svedyaḥ 'the one to be sweated' is the subject; English renders it 'one is to be sweated'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.14.11a",
+   "01.14.11b"
+  ],
+  "lines_deva": [
+   "सुशुद्धैर्नक्तकैः पिण्ड्या गोधूमानामथापि वा",
+   "पद्मोत्पलपलाशैर्वा स्वेद्यः संवृत्य चक्षुषी"
+  ],
+  "lines_iast": [
+   "suśuddhairnaktakaiḥ piṇḍyā godhūmānāmathāpi vā",
+   "padmotpalapalāśairvā svedyaḥ saṃvṛtya cakṣuṣī"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "muktāvalībhiḥ",
+      "words": [
+       {
+        "w": "muktā-āvalībhiḥ",
+        "gloss": "with strings of pearls",
+        "gram": "f. inst. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "śītābhiḥ",
+      "words": [
+       {
+        "w": "śītābhiḥ",
+        "gloss": "cool",
+        "gram": "f. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "śītalairbhājanairapi",
+      "words": [
+       {
+        "w": "śītalaiḥ",
+        "gloss": "cool",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "bhājanaiḥ",
+        "gloss": "with vessels",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "jalārdrairjalajairhastaiḥ",
+      "words": [
+       {
+        "w": "jala-ārdraiḥ",
+        "gloss": "wet with water",
+        "gram": "m./n. inst. pl., tat-puruṣa"
+       },
+       {
+        "w": "jala-jaiḥ",
+        "gloss": "with water-born things",
+        "gram": "m./n. inst. pl., upapada tat-puruṣa"
+       },
+       {
+        "w": "hastaiḥ",
+        "gloss": "with hands",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "svidyato",
+      "words": [
+       {
+        "w": "svidyataḥ",
+        "gloss": "of one being sweated",
+        "gram": "m. gen. sg., pres. part. √svid"
+       }
+      ]
+     },
+     {
+      "src": "hṛdayaṃ",
+      "words": [
+       {
+        "w": "hṛdayam",
+        "gloss": "the heart",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "spṛśet",
+      "words": [
+       {
+        "w": "spṛśet",
+        "gloss": "one should touch",
+        "gram": "3 sg. opt. √spṛś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसे स्वेद दिया जा रहा हो उसके हृदय को शीतल मोतियों की मालाओं से, शीतल पात्रों से भी, जल से भीगे जलज पदार्थों से और हाथों से स्पर्श करे।",
+  "english": "One should touch the heart of the one being sweated with cool strings of pearls, with cool vessels too, with water-born things (jalaja) wet with water, and with hands.",
+  "text_flags": [],
+  "notes": "jalaja ('water-born') is commonly used of the lotus. jalārdraiḥ may qualify jalajaiḥ only or also hastaiḥ ('with water-wet hands').",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.14.12a",
+   "01.14.12b"
+  ],
+  "lines_deva": [
+   "मुक्तावलीभिः शीताभिः शीतलैर्भाजनैरपि",
+   "जलार्द्रैर्जलजैर्हस्तैः स्विद्यतो हृदयं स्पृशेत्"
+  ],
+  "lines_iast": [
+   "muktāvalībhiḥ śītābhiḥ śītalairbhājanairapi",
+   "jalārdrairjalajairhastaiḥ svidyato hṛdayaṃ spṛśet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śītaśūlavyuparame",
+      "words": [
+       {
+        "w": "śīta-śūla-vyuparame",
+        "gloss": "on the cessation of cold and pain",
+        "gram": "m. loc. sg., tat-puruṣa (śīta-śūla dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "stambhagauravanigrahe",
+      "words": [
+       {
+        "w": "stambha-gaurava-nigrahe",
+        "gloss": "on the checking of stiffness and heaviness",
+        "gram": "m. loc. sg., tat-puruṣa (stambha-gaurava dvandva)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "saṃjāte",
+      "words": [
+       {
+        "w": "saṃjāte",
+        "gloss": "having arisen",
+        "gram": "m./n. loc. sg., ppp. sam-√jan"
+       }
+      ]
+     },
+     {
+      "src": "mārdave",
+      "words": [
+       {
+        "w": "mārdave",
+        "gloss": "softness",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "svede",
+      "words": [
+       {
+        "w": "svede",
+        "gloss": "sweat",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "svedanādviratirmatā",
+      "words": [
+       {
+        "w": "svedanāt",
+        "gloss": "from sweating",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "viratiḥ",
+        "gloss": "cessation",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "matā",
+        "gloss": "is approved",
+        "gram": "f. nom. sg., ppp. √man"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शीत और शूल के शान्त हो जाने पर, स्तम्भ और भारीपन के रुक जाने पर, मृदुता और स्वेद उत्पन्न हो जाने पर स्वेदन से विराम मान्य है।",
+  "english": "When cold and pain (śūla) have ceased, when stiffness and heaviness are checked, and when softness and sweat have arisen, cessation of sweating is approved.",
+  "text_flags": [],
+  "notes": "Locative absolutes; saṃjāte goes with both mārdave and svede. svede here is the sweat appearing on the body.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.14.13a",
+   "01.14.13b"
+  ],
+  "lines_deva": [
+   "शीतशूलव्युपरमे स्तम्भगौरवनिग्रहे",
+   "संजाते मार्दवे स्वेदे स्वेदनाद्विरतिर्मता"
+  ],
+  "lines_iast": [
+   "śītaśūlavyuparame stambhagauravanigrahe",
+   "saṃjāte mārdave svede svedanādviratirmatā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pittaprakopo",
+      "words": [
+       {
+        "w": "pitta-prakopaḥ",
+        "gloss": "aggravation of Pitta",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "mūrcchā",
+      "words": [
+       {
+        "w": "mūrcchā",
+        "gloss": "fainting",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śarīrasadanaṃ",
+      "words": [
+       {
+        "w": "śarīra-sadanam",
+        "gloss": "weariness of the body",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tṛṣā",
+      "words": [
+       {
+        "w": "tṛṣā",
+        "gloss": "thirst",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dāhaḥ",
+      "words": [
+       {
+        "w": "dāhaḥ",
+        "gloss": "burning sensation",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "svarāṅgadaurbalyamatisvinnasya",
+      "words": [
+       {
+        "w": "svara-aṅga-daurbalyam",
+        "gloss": "weakness of voice and limbs",
+        "gram": "n. nom. sg., tat-puruṣa (svara-aṅga dvandva)"
+       },
+       {
+        "w": "ati-svinnasya",
+        "gloss": "of one over-sweated",
+        "gram": "m. gen. sg., ppp. √svid"
+       }
+      ]
+     },
+     {
+      "src": "lakṣaṇam",
+      "words": [
+       {
+        "w": "lakṣaṇam",
+        "gloss": "the sign",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पित्त का प्रकोप, मूर्च्छा, शरीर की शिथिलता, प्यास, दाह, स्वर और अंगों की दुर्बलता अतिस्विन्न का लक्षण है।",
+  "english": "Aggravation of Pitta, fainting, weariness of the body, thirst, burning, and weakness of voice and limbs are the sign of one over-sweated.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.14.14a",
+   "01.14.14b"
+  ],
+  "lines_deva": [
+   "पित्तप्रकोपो मूर्च्छा च शरीरसदनं तृषा",
+   "दाहः स्वराङ्गदौर्बल्यमतिस्विन्नस्य लक्षणम्"
+  ],
+  "lines_iast": [
+   "pittaprakopo mūrcchā ca śarīrasadanaṃ tṛṣā",
+   "dāhaḥ svarāṅgadaurbalyamatisvinnasya lakṣaṇam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "uktastasyāśitīye",
+      "words": [
+       {
+        "w": "uktaḥ",
+        "gloss": "stated",
+        "gram": "m. nom. sg., ppp. √vac"
+       },
+       {
+        "w": "tasyāśitīye",
+        "gloss": "in the Tasyāśitīya (chapter name)",
+        "gram": "m. loc. sg. (chapter name, derivative in -īya)"
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "graiṣmikaḥ",
+      "words": [
+       {
+        "w": "graiṣmikaḥ",
+        "gloss": "of summer",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvaśo",
+      "words": [
+       {
+        "w": "sarvaśaḥ",
+        "gloss": "in full",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vidhiḥ",
+      "words": [
+       {
+        "w": "vidhiḥ",
+        "gloss": "regimen",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "so'tisvinnasya",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ati-svinnasya",
+        "gloss": "for one over-sweated",
+        "gram": "m. gen. sg., ppp. √svid"
+       }
+      ]
+     },
+     {
+      "src": "kartavyo",
+      "words": [
+       {
+        "w": "kartavyaḥ",
+        "gloss": "is to be applied",
+        "gram": "m. nom. sg., gerundive (kṛtya) √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "madhuraḥ",
+      "words": [
+       {
+        "w": "madhuraḥ",
+        "gloss": "sweet",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "snigdhaśītalaḥ",
+      "words": [
+       {
+        "w": "snigdha-śītalaḥ",
+        "gloss": "unctuous and cool",
+        "gram": "m. nom. sg., karmadhāraya (dvandva-type adj.)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तस्याशितीय में जो ग्रीष्म-सम्बन्धी विधि पूर्ण रूप से कही गई है, वह मधुर, स्निग्ध और शीतल विधि अतिस्विन्न के लिए करनी चाहिए।",
+  "english": "The summer regimen which is stated in full in the Tasyāśitīya, sweet, unctuous and cool, is to be applied for one over-sweated.",
+  "text_flags": [],
+  "notes": "Tasyāśitīya is the name of a chapter, a derivative in -īya from the words tasya aśita; it is not split into compound members.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.14.15a",
+   "01.14.15b"
+  ],
+  "lines_deva": [
+   "उक्तस्तस्याशितीये यो ग्रैष्मिकः सर्वशो विधिः",
+   "सोऽतिस्विन्नस्य कर्तव्यो मधुरः स्निग्धशीतलः"
+  ],
+  "lines_iast": [
+   "uktastasyāśitīye yo graiṣmikaḥ sarvaśo vidhiḥ",
+   "so'tisvinnasya kartavyo madhuraḥ snigdhaśītalaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kaṣāyamadyanityānāṃ",
+      "words": [
+       {
+        "w": "kaṣāya-madya-nityānām",
+        "gloss": "of those habitually taking kaṣāya and wine",
+        "gram": "m. gen. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "garbhiṇyā",
+      "words": [
+       {
+        "w": "garbhiṇyāḥ",
+        "gloss": "of a pregnant woman",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "raktapittinām",
+      "words": [
+       {
+        "w": "raktapittinām",
+        "gloss": "of those with raktapitta",
+        "gram": "m. gen. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pittināṃ",
+      "words": [
+       {
+        "w": "pittinām",
+        "gloss": "of those afflicted by Pitta",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "sātisārāṇāṃ",
+      "words": [
+       {
+        "w": "sa-atisārāṇām",
+        "gloss": "of those with diarrhoea",
+        "gram": "m. gen. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "rūkṣāṇāṃ",
+      "words": [
+       {
+        "w": "rūkṣāṇām",
+        "gloss": "of the dry (non-oleated)",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "madhumehinām",
+      "words": [
+       {
+        "w": "madhumehinām",
+        "gloss": "of those with madhumeha",
+        "gram": "m. gen. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कषाय और मद्य का नित्य सेवन करने वालों, गर्भिणी, रक्तपित्त के रोगियों, पित्त-पीड़ितों, अतिसार वालों, रूक्षों और मधुमेह के रोगियों का,",
+  "english": "Of those habitually taking kaṣāya and wine, of a pregnant woman, of those with raktapitta, of those afflicted by Pitta, of those with diarrhoea, of the dry, of those with madhumeha,",
+  "text_flags": [],
+  "notes": "The sentence of units 16 to 19 is one list of genitives ending in na svedam avatārayet (unit 19). kaṣāya may be astringent substances or decoctions (kaṣāya); kept in Sanskrit. madhumeha and raktapitta kept as Sanskrit disease names.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.14.16a",
+   "01.14.16b"
+  ],
+  "lines_deva": [
+   "कषायमद्यनित्यानां गर्भिण्या रक्तपित्तिनाम्",
+   "पित्तिनां सातिसाराणां रूक्षाणां मधुमेहिनाम्"
+  ],
+  "lines_iast": [
+   "kaṣāyamadyanityānāṃ garbhiṇyā raktapittinām",
+   "pittināṃ sātisārāṇāṃ rūkṣāṇāṃ madhumehinām"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vidagdhabhraṣṭabradhnānāṃ",
+      "words": [
+       {
+        "w": "vidagdha-bhraṣṭa-bradhnānām",
+        "gloss": "of those whose bradhna is inflamed and displaced",
+        "gram": "m. gen. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "viṣamadyavikāriṇām",
+      "words": [
+       {
+        "w": "viṣa-madya-vikāriṇām",
+        "gloss": "of those with disorders from poison or wine",
+        "gram": "m. gen. pl., tat-puruṣa (viṣa-madya dvandva)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śrāntānāṃ",
+      "words": [
+       {
+        "w": "śrāntānām",
+        "gloss": "of the fatigued",
+        "gram": "m. gen. pl., ppp. √śram"
+       }
+      ]
+     },
+     {
+      "src": "naṣṭasaṃjñānāṃ",
+      "words": [
+       {
+        "w": "naṣṭa-saṃjñānām",
+        "gloss": "of those who have lost consciousness",
+        "gram": "m. gen. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sthūlānāṃ",
+      "words": [
+       {
+        "w": "sthūlānām",
+        "gloss": "of the obese",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "pittamehinām",
+      "words": [
+       {
+        "w": "pitta-mehinām",
+        "gloss": "of those with Pitta-type meha",
+        "gram": "m. gen. pl., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिनका ब्रध्न विदग्ध और भ्रष्ट हो गया हो उनका, विष और मद्य के विकार वालों, थके हुओं, संज्ञाहीनों, स्थूलों और पित्तमेह वालों का,",
+  "english": "of those whose bradhna is inflamed and displaced, of those with disorders from poison or wine, of the fatigued, of those who have lost consciousness, of the obese, of those with Pitta-type meha,",
+  "text_flags": [],
+  "notes": "bradhna is uncertain in meaning here; the split as a bahuvrīhi ('whose bradhna is vidagdha and bhraṣṭa') is one reading, three separate members ('the burnt, the fallen, those with bradhna') is another. vidagdha can mean 'burnt, inflamed' or 'improperly digested'.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "01.14.17a",
+   "01.14.17b"
+  ],
+  "lines_deva": [
+   "विदग्धभ्रष्टब्रध्नानां विषमद्यविकारिणाम्",
+   "श्रान्तानां नष्टसंज्ञानां स्थूलानां पित्तमेहिनाम्"
+  ],
+  "lines_iast": [
+   "vidagdhabhraṣṭabradhnānāṃ viṣamadyavikāriṇām",
+   "śrāntānāṃ naṣṭasaṃjñānāṃ sthūlānāṃ pittamehinām"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tṛṣyatāṃ",
+      "words": [
+       {
+        "w": "tṛṣyatām",
+        "gloss": "of the thirsty",
+        "gram": "m. gen. pl., pres. part. √tṛṣ"
+       }
+      ]
+     },
+     {
+      "src": "kṣudhitānāṃ",
+      "words": [
+       {
+        "w": "kṣudhitānām",
+        "gloss": "of the hungry",
+        "gram": "m. gen. pl., ppp. √kṣudh"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kruddhānāṃ",
+      "words": [
+       {
+        "w": "kruddhānām",
+        "gloss": "of the angry",
+        "gram": "m. gen. pl., ppp. √krudh"
+       }
+      ]
+     },
+     {
+      "src": "śocatāmapi",
+      "words": [
+       {
+        "w": "śocatām",
+        "gloss": "of the grieving",
+        "gram": "m. gen. pl., pres. part. √śuc"
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kāmalyudariṇāṃ",
+      "words": [
+       {
+        "w": "kāmali-udariṇām",
+        "gloss": "of those with kāmalā and udara",
+        "gram": "m. gen. pl., dvandva (kāmalin, udarin)"
+       }
+      ]
+     },
+     {
+      "src": "caiva",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "also (emphatic)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṣatānāmāḍyarogiṇām",
+      "words": [
+       {
+        "w": "kṣatānām",
+        "gloss": "of the injured (kṣata)",
+        "gram": "m. gen. pl., ppp. √kṣaṇ"
+       },
+       {
+        "w": "āḍhya-rogiṇām",
+        "gloss": "of those with āḍhyaroga",
+        "gram": "m. gen. pl., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्यासे, भूखे, क्रुद्ध और शोक करने वालों का भी, कामला और उदर रोग वालों का, क्षत वालों का, आढ्यरोग वालों का,",
+  "english": "of the thirsty, the hungry, the angry and the grieving too, of those with kāmalā and udara, of the injured (kṣata), of those with āḍhyaroga,",
+  "text_flags": [
+   {
+    "src": "kṣatānāmāḍyarogiṇām",
+    "suggest": "kṣatānāmāḍhyarogiṇām",
+    "why": "āḍya is not a Sanskrit word; āḍhya 'rich' gives āḍhyaroga. The same edition prints āḍhya in āḍhyavāta at 06.28.66a (text/ch06.28.md). Probable typo of ḍ for ḍh."
+   }
+  ],
+  "notes": "āḍhyaroga, literally 'disease of the rich', kept as a Sanskrit disease name.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.14.18a",
+   "01.14.18b"
+  ],
+  "lines_deva": [
+   "तृष्यतां क्षुधितानां च क्रुद्धानां शोचतामपि",
+   "कामल्युदरिणां चैव क्षतानामाड्यरोगिणाम्"
+  ],
+  "lines_iast": [
+   "tṛṣyatāṃ kṣudhitānāṃ ca kruddhānāṃ śocatāmapi",
+   "kāmalyudariṇāṃ caiva kṣatānāmāḍyarogiṇām"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "durbalātiviśuṣkāṇāmupakṣīṇaujasāṃ",
+      "words": [
+       {
+        "w": "durbala-ativiśuṣkāṇām",
+        "gloss": "of the weak and the very emaciated",
+        "gram": "m. gen. pl., dvandva"
+       },
+       {
+        "w": "upakṣīṇa-ojasām",
+        "gloss": "of those whose ojas is depleted",
+        "gram": "m. gen. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bhiṣak",
+      "words": [
+       {
+        "w": "bhiṣak",
+        "gloss": "the physician",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "taimirikāṇāṃ",
+      "words": [
+       {
+        "w": "taimirikāṇām",
+        "gloss": "of those with timira",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svedamavatārayet",
+      "words": [
+       {
+        "w": "svedam",
+        "gloss": "sweating",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "avatārayet",
+        "gloss": "should apply",
+        "gram": "3 sg. opt. caus. ava-√tṝ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दुर्बलों और अत्यन्त सूखे लोगों का, तथा जिनका ओज क्षीण हो गया हो उनका, और तिमिर रोग वालों का वैद्य स्वेदन न करे।",
+  "english": "of the weak and the very emaciated, likewise of those whose ojas (vital essence) is depleted, and of those with timira, the physician should not apply sweating.",
+  "text_flags": [],
+  "notes": "End of the list begun in unit 16. ativiśuṣka is literally 'very dried up'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.14.19a",
+   "01.14.19b"
+  ],
+  "lines_deva": [
+   "दुर्बलातिविशुष्काणामुपक्षीणौजसां तथा",
+   "भिषक् तैमिरिकाणां च न स्वेदमवतारयेत्"
+  ],
+  "lines_iast": [
+   "durbalātiviśuṣkāṇāmupakṣīṇaujasāṃ tathā",
+   "bhiṣak taimirikāṇāṃ ca na svedamavatārayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pratiśyāye",
+      "words": [
+       {
+        "w": "pratiśyāye",
+        "gloss": "in coryza (pratiśyāya)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kāse",
+      "words": [
+       {
+        "w": "kāse",
+        "gloss": "in cough",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hikkāśvāseṣvalāghave",
+      "words": [
+       {
+        "w": "hikkā-śvāseṣu",
+        "gloss": "in hiccup and dyspnoea",
+        "gram": "m. loc. pl., dvandva"
+       },
+       {
+        "w": "alāghave",
+        "gloss": "in heaviness (lack of lightness)",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "karṇamanyāśiraḥśūle",
+      "words": [
+       {
+        "w": "karṇa-manyā-śiraḥ-śūle",
+        "gloss": "in pain of ear, nape and head",
+        "gram": "n. loc. sg., tat-puruṣa (karṇa-manyā-śiras dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "svarabhede",
+      "words": [
+       {
+        "w": "svara-bhede",
+        "gloss": "in hoarseness",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "galagrahe",
+      "words": [
+       {
+        "w": "gala-grahe",
+        "gloss": "in seizure of the throat",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्रतिश्याय में, कास में, हिक्का और श्वास में, भारीपन में, कान, मन्या और सिर के शूल में, स्वरभेद में, गले के जकड़ने में,",
+  "english": "In coryza (pratiśyāya), in cough, in hiccup and dyspnoea, in heaviness, in pain of the ear, nape and head, in hoarseness, in seizure of the throat,",
+  "text_flags": [],
+  "notes": "Units 20 to 24 form one list of locatives ending in svedanaṃ hitam ucyate (unit 24). śūla is m. or n.; manyā here the nape/side of the neck.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.14.20a",
+   "01.14.20b"
+  ],
+  "lines_deva": [
+   "प्रतिश्याये च कासे च हिक्काश्वासेष्वलाघवे",
+   "कर्णमन्याशिरःशूले स्वरभेदे गलग्रहे"
+  ],
+  "lines_iast": [
+   "pratiśyāye ca kāse ca hikkāśvāseṣvalāghave",
+   "karṇamanyāśiraḥśūle svarabhede galagrahe"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "arditaikāṅgasarvāṅgapakṣāghāte",
+      "words": [
+       {
+        "w": "ardita-ekāṅga-sarvāṅga-pakṣāghāte",
+        "gloss": "in ardita, in (disorder of) one limb, of the whole body, and in pakṣāghāta",
+        "gram": "n. loc. sg., samāhāra dvandva"
+       }
+      ]
+     },
+     {
+      "src": "vināmake",
+      "words": [
+       {
+        "w": "vināmake",
+        "gloss": "in bending (of the body)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "koṣṭhānāhavibandheṣu",
+      "words": [
+       {
+        "w": "koṣṭha-ānāha-vibandheṣu",
+        "gloss": "in distension and constipation of the bowel",
+        "gram": "m. loc. pl., tat-puruṣa (ānāha-vibandha dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "mūtrāghāte",
+      "words": [
+       {
+        "w": "mūtra-āghāte",
+        "gloss": "in obstruction of urine",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vijṛmbhake",
+      "words": [
+       {
+        "w": "vijṛmbhake",
+        "gloss": "in yawning",
+        "gram": "m. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अर्दित, एकांग, सर्वांग और पक्षाघात में, विनामक में, कोष्ठ के आनाह और विबन्ध में, मूत्राघात में, विजृम्भक में,",
+  "english": "in ardita, in (disorder of) one limb or of the whole body, in pakṣāghāta, in vināmaka (bending), in distension (ānāha) and constipation of the bowel, in obstruction of urine (mūtrāghāta), in vijṛmbhaka (yawning),",
+  "text_flags": [],
+  "notes": "ekāṅga and sarvāṅga are elliptical (disease of one limb / of the whole body); pakṣāghāta is literally 'stroke of one side'. Disease names kept in Sanskrit.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.14.21a",
+   "01.14.21b"
+  ],
+  "lines_deva": [
+   "अर्दितैकाङ्गसर्वाङ्गपक्षाघाते विनामके",
+   "कोष्ठानाहविबन्धेषु मूत्राघाते विजृम्भके"
+  ],
+  "lines_iast": [
+   "arditaikāṅgasarvāṅgapakṣāghāte vināmake",
+   "koṣṭhānāhavibandheṣu mūtrāghāte vijṛmbhake"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pārśvapṛṣṭhakaṭīkukṣisaṃgrahe",
+      "words": [
+       {
+        "w": "pārśva-pṛṣṭha-kaṭī-kukṣi-saṃgrahe",
+        "gloss": "in stiffness of the flanks, back, waist and belly",
+        "gram": "m. loc. sg., tat-puruṣa (dvandva first member)"
+       }
+      ]
+     },
+     {
+      "src": "gṛdhrasīṣu",
+      "words": [
+       {
+        "w": "gṛdhrasīṣu",
+        "gloss": "in gṛdhrasī",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mūtrakṛcchre",
+      "words": [
+       {
+        "w": "mūtrakṛcchre",
+        "gloss": "in mūtrakṛcchra",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mahattve",
+      "words": [
+       {
+        "w": "mahattve",
+        "gloss": "in enlargement",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "muṣkayoraṅgamardake",
+      "words": [
+       {
+        "w": "muṣkayoḥ",
+        "gloss": "of the testicles",
+        "gram": "m. gen. du."
+       },
+       {
+        "w": "aṅga-mardake",
+        "gloss": "in body-ache",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पार्श्व, पीठ, कमर और कुक्षि की जकड़न में, गृध्रसी में, मूत्रकृच्छ्र में, अण्डकोषों की वृद्धि में, अङ्गमर्द में,",
+  "english": "in stiffness of the flanks, back, waist and belly, in gṛdhrasī, in mūtrakṛcchra, in enlargement of the testicles, in body-ache,",
+  "text_flags": [],
+  "notes": "saṃgraha 'seizing' taken as stiffness/catching.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.14.22a",
+   "01.14.22b"
+  ],
+  "lines_deva": [
+   "पार्श्वपृष्ठकटीकुक्षिसंग्रहे गृध्रसीषु च",
+   "मूत्रकृच्छ्रे महत्त्वे च मुष्कयोरङ्गमर्दके"
+  ],
+  "lines_iast": [
+   "pārśvapṛṣṭhakaṭīkukṣisaṃgrahe gṛdhrasīṣu ca",
+   "mūtrakṛcchre mahattve ca muṣkayoraṅgamardake"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pādajānūrujaṅghārtisaṃgrahe",
+      "words": [
+       {
+        "w": "pāda-jānu-ūru-jaṅghā-arti-saṃgrahe",
+        "gloss": "in pain and stiffness of the feet, knees, thighs and calves",
+        "gram": "n. loc. sg., tat-puruṣa (arti-saṃgraha samāhāra dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "śvayathāvapi",
+      "words": [
+       {
+        "w": "śvayathau",
+        "gloss": "in swelling",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "khallīṣvāmeṣu",
+      "words": [
+       {
+        "w": "khallīṣu",
+        "gloss": "in khallī",
+        "gram": "f. loc. pl."
+       },
+       {
+        "w": "āmeṣu",
+        "gloss": "in āma (conditions)",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "śīte",
+      "words": [
+       {
+        "w": "śīte",
+        "gloss": "in cold",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vepathau",
+      "words": [
+       {
+        "w": "vepathau",
+        "gloss": "in tremor",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vātakaṇṭake",
+      "words": [
+       {
+        "w": "vātakaṇṭake",
+        "gloss": "in vātakaṇṭaka",
+        "gram": "m. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पैर, घुटने, जाँघ और पिंडली की पीड़ा और जकड़न में, शोथ में भी, खल्ली में, आम में, शीत में, कम्पन में, वातकण्टक में,",
+  "english": "in pain and stiffness of the feet, knees, thighs and calves, in swelling too, in khallī, in āma conditions, in cold, in tremor, in vātakaṇṭaka,",
+  "text_flags": [],
+  "notes": "khallī and vātakaṇṭaka kept as Sanskrit disease names; āma is undigested matter.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.14.23a",
+   "01.14.23b"
+  ],
+  "lines_deva": [
+   "पादजानूरुजङ्घार्तिसंग्रहे श्वयथावपि",
+   "खल्लीष्वामेषु शीते च वेपथौ वातकण्टके"
+  ],
+  "lines_iast": [
+   "pādajānūrujaṅghārtisaṃgrahe śvayathāvapi",
+   "khallīṣvāmeṣu śīte ca vepathau vātakaṇṭake"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "saṃkocāyāmaśūleṣu",
+      "words": [
+       {
+        "w": "saṃkoca-āyāma-śūleṣu",
+        "gloss": "in contraction, extension and pain",
+        "gram": "m. loc. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "stambhagauravasuptiṣu",
+      "words": [
+       {
+        "w": "stambha-gaurava-suptiṣu",
+        "gloss": "in stiffness, heaviness and numbness",
+        "gram": "f. loc. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sarvāṅgeṣu",
+      "words": [
+       {
+        "w": "sarva-aṅgeṣu",
+        "gloss": "affecting the whole body",
+        "gram": "m. loc. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vikāreṣu",
+      "words": [
+       {
+        "w": "vikāreṣu",
+        "gloss": "in disorders",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "svedanaṃ",
+      "words": [
+       {
+        "w": "svedanam",
+        "gloss": "sweating",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hitamucyate",
+      "words": [
+       {
+        "w": "hitam",
+        "gloss": "beneficial",
+        "gram": "n. nom. sg., ppp. √dhā"
+       },
+       {
+        "w": "ucyate",
+        "gloss": "is said",
+        "gram": "3 sg. pres. pass. √vac"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "संकोच, आयाम और शूल में, स्तम्भ, भारीपन और सुन्नता में, सर्वांग विकारों में स्वेदन हितकर कहा गया है।",
+  "english": "in contraction, extension and pain, in stiffness, heaviness and numbness, and in disorders affecting the whole body, sweating is said to be beneficial.",
+  "text_flags": [],
+  "notes": "sarvāṅgeṣu vikāreṣu may also mean 'in disorders of all the limbs'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.14.24a",
+   "01.14.24b"
+  ],
+  "lines_deva": [
+   "संकोचायामशूलेषु स्तम्भगौरवसुप्तिषु",
+   "सर्वाङ्गेषु विकारेषु स्वेदनं हितमुच्यते"
+  ],
+  "lines_iast": [
+   "saṃkocāyāmaśūleṣu stambhagauravasuptiṣu",
+   "sarvāṅgeṣu vikāreṣu svedanaṃ hitamucyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tilamāṣakulatthāmlaghṛtatailāmiṣaudanaiḥ",
+      "words": [
+       {
+        "w": "tila-māṣa-kulattha-amla-ghṛta-taila-āmiṣa-odanaiḥ",
+        "gloss": "with sesame, māṣa, kulattha, sour (substances), ghee, oil, meat and boiled rice",
+        "gram": "m./n. inst. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pāyasaiḥ",
+      "words": [
+       {
+        "w": "pāyasaiḥ",
+        "gloss": "with milk-rice (pāyasa)",
+        "gram": "m./n. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṛśarairmāṃsaiḥ",
+      "words": [
+       {
+        "w": "kṛśaraiḥ",
+        "gloss": "with kṛśarā",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "māṃsaiḥ",
+        "gloss": "with meats",
+        "gram": "n. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "piṇḍasvedaṃ",
+      "words": [
+       {
+        "w": "piṇḍa-svedam",
+        "gloss": "bolus sweating",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "prayojayet",
+      "words": [
+       {
+        "w": "prayojayet",
+        "gloss": "should apply",
+        "gram": "3 sg. opt. caus. pra-√yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तिल, माष, कुलत्थ, अम्ल पदार्थ, घी, तेल, आमिष और ओदन से, पायस, कृशरा और मांस से पिण्डस्वेद का प्रयोग करे।",
+  "english": "One should apply bolus sweating (piṇḍasveda) with sesame, māṣa, kulattha, sour (substances), ghee, oil, meat (āmiṣa) and boiled rice, and with pāyasa, kṛśarā and meats.",
+  "text_flags": [],
+  "notes": "Identifications: māṣa = black gram (Vigna mungo), standard; kulattha = horse gram (Macrotyloma uniflorum), standard. amla may be sour substances in general.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.14.25a",
+   "01.14.25b"
+  ],
+  "lines_deva": [
+   "तिलमाषकुलत्थाम्लघृततैलामिषौदनैः",
+   "पायसैः कृशरैर्मांसैः पिण्डस्वेदं प्रयोजयेत्"
+  ],
+  "lines_iast": [
+   "tilamāṣakulatthāmlaghṛtatailāmiṣaudanaiḥ",
+   "pāyasaiḥ kṛśarairmāṃsaiḥ piṇḍasvedaṃ prayojayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gokharoṣṭravarāhāśvaśakṛdbhiḥ",
+      "words": [
+       {
+        "w": "go-khara-uṣṭra-varāha-aśva-śakṛdbhiḥ",
+        "gloss": "with dung of cow, donkey, camel, pig and horse",
+        "gram": "n. inst. pl., tat-puruṣa (dvandva first member)"
+       }
+      ]
+     },
+     {
+      "src": "satuṣairyavaiḥ",
+      "words": [
+       {
+        "w": "sa-tuṣaiḥ",
+        "gloss": "with husks",
+        "gram": "m. inst. pl., bahuvrīhi"
+       },
+       {
+        "w": "yavaiḥ",
+        "gloss": "with barley",
+        "gram": "m. inst. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sikatāpāṃśupāṣāṇakarīṣāyasapūṭakaiḥ",
+      "words": [
+       {
+        "w": "sikatā-pāṃśu-pāṣāṇa-karīṣa-āyasa-pūṭakaiḥ",
+        "gloss": "with packets of sand, dust, stone, dry dung and iron",
+        "gram": "m. inst. pl., tat-puruṣa (dvandva first member)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गाय, गधे, ऊँट, सूअर और घोड़े के गोबर-लीद से, भूसी सहित जौ से, बालू, धूल, पत्थर, करीष और लोहे की पोटलियों से —",
+  "english": "With the dung of cow, donkey, camel, pig and horse, with barley with its husks, with packets of sand, dust, stone, dry dung (karīṣa) and iron,",
+  "text_flags": [],
+  "notes": "Sentence continues into unit 27 (svedayet). pūṭaka is taken as puṭaka 'packet, bundle'; the long ū is kept as printed and the metre of the line needs a long syllable there, so no correction is suggested. pūṭaka is not a known word in this form; the meaning 'packet' rests on reading it as puṭaka and is conjectural.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.14.26a",
+   "01.14.26b"
+  ],
+  "lines_deva": [
+   "गोखरोष्ट्रवराहाश्वशकृद्भिः सतुषैर्यवैः",
+   "सिकतापांशुपाषाणकरीषायसपूटकैः"
+  ],
+  "lines_iast": [
+   "gokharoṣṭravarāhāśvaśakṛdbhiḥ satuṣairyavaiḥ",
+   "sikatāpāṃśupāṣāṇakarīṣāyasapūṭakaiḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ślaiṣmikān",
+      "words": [
+       {
+        "w": "ślaiṣmikān",
+        "gloss": "persons of Kapha type",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "svedayet",
+      "words": [
+       {
+        "w": "svedayet",
+        "gloss": "one should sweat",
+        "gram": "3 sg. opt. caus. √svid"
+       }
+      ]
+     },
+     {
+      "src": "pūrvairvātikān",
+      "words": [
+       {
+        "w": "pūrvaiḥ",
+        "gloss": "with the former",
+        "gram": "m./n. inst. pl."
+       },
+       {
+        "w": "vātikān",
+        "gloss": "persons of Vāta type",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "samupācaret",
+      "words": [
+       {
+        "w": "samupācaret",
+        "gloss": "one should treat",
+        "gram": "3 sg. opt. sam-upa-ā-√car"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dravyāṇyetāni",
+      "words": [
+       {
+        "w": "dravyāṇi",
+        "gloss": "substances",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "etāni",
+        "gloss": "these",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śasyante",
+      "words": [
+       {
+        "w": "śasyante",
+        "gloss": "are commended",
+        "gram": "3 pl. pres. pass. √śaṃs"
+       }
+      ]
+     },
+     {
+      "src": "yathāsvaṃ",
+      "words": [
+       {
+        "w": "yathā-svam",
+        "gloss": "each as appropriate",
+        "gram": "ind., avyayībhāva"
+       }
+      ]
+     },
+     {
+      "src": "prastareṣvapi",
+      "words": [
+       {
+        "w": "prastareṣu",
+        "gloss": "in spread-beds (prastara)",
+        "gram": "m. loc. pl."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कफ-प्रधान व्यक्तियों को पूर्व वालों से स्वेद दे, और वात-प्रधान व्यक्तियों की चिकित्सा करे। ये द्रव्य यथायोग्य प्रस्तरों में भी प्रशस्त हैं।",
+  "english": "one should sweat persons of Kapha type with the former, and treat persons of Vāta type. These substances are also commended, each as appropriate, in spread-beds (prastara).",
+  "text_flags": [],
+  "notes": "The line does not say with what the Vāta-type persons are treated. pūrvaiḥ may refer to the just-mentioned dry items (unit 26) or to the first list (unit 25); since the dung, sand and stone list is dry and the unit 25 list is unctuous, the sense favours unit 26 for Kapha types and unit 25 for Vāta types, but the text does not say so explicitly.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.14.27a",
+   "01.14.27b"
+  ],
+  "lines_deva": [
+   "श्लैष्मिकान् स्वेदयेत् पूर्वैर्वातिकान् समुपाचरेत्",
+   "द्रव्याण्येतानि शस्यन्ते यथास्वं प्रस्तरेष्वपि"
+  ],
+  "lines_iast": [
+   "ślaiṣmikān svedayet pūrvairvātikān samupācaret",
+   "dravyāṇyetāni śasyante yathāsvaṃ prastareṣvapi"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhūgṛheṣu",
+      "words": [
+       {
+        "w": "bhū-gṛheṣu",
+        "gloss": "in underground rooms",
+        "gram": "n. loc. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jentākeṣūṣṇagarbhagṛheṣu",
+      "words": [
+       {
+        "w": "jentākeṣu",
+        "gloss": "in jentākas (sweat-houses)",
+        "gram": "m. loc. pl."
+       },
+       {
+        "w": "uṣṇa-garbha-gṛheṣu",
+        "gloss": "in warm inner rooms",
+        "gram": "n. loc. pl., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vidhūmāṅgāratapteṣu",
+      "words": [
+       {
+        "w": "vidhūma-aṅgāra-tapteṣu",
+        "gloss": "heated by smokeless embers",
+        "gram": "n. loc. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "svabhyaktaḥ",
+      "words": [
+       {
+        "w": "su-abhyaktaḥ",
+        "gloss": "well anointed",
+        "gram": "m. nom. sg., ppp. abhi-√añj"
+       }
+      ]
+     },
+     {
+      "src": "svidyate",
+      "words": [
+       {
+        "w": "svidyate",
+        "gloss": "sweats",
+        "gram": "3 sg. pres. ātm. √svid"
+       }
+      ]
+     },
+     {
+      "src": "sukham",
+      "words": [
+       {
+        "w": "sukham",
+        "gloss": "comfortably",
+        "gram": "adv. (n. acc. sg.)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "भूमिगृहों में, जेन्ताकों में और धुआँ-रहित अंगारों से तपाए गए उष्ण गर्भगृहों में भली भाँति अभ्यंग किया हुआ व्यक्ति सुखपूर्वक स्वेद लेता है।",
+  "english": "In underground rooms, in jentākas, and in warm inner rooms heated by smokeless embers, one who is well anointed sweats comfortably.",
+  "text_flags": [],
+  "notes": "vidhūmāṅgāratapteṣu may qualify only uṣṇagarbhagṛheṣu or all three kinds of room.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.14.28a",
+   "01.14.28b"
+  ],
+  "lines_deva": [
+   "भूगृहेषु च जेन्ताकेषूष्णगर्भगृहेषु च",
+   "विधूमाङ्गारतप्तेषु स्वभ्यक्तः स्विद्यते सुखम्"
+  ],
+  "lines_iast": [
+   "bhūgṛheṣu ca jentākeṣūṣṇagarbhagṛheṣu ca",
+   "vidhūmāṅgāratapteṣu svabhyaktaḥ svidyate sukham"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "grāmyānūpaudakaṃ",
+      "words": [
+       {
+        "w": "grāmya-ānūpa-audakam",
+        "gloss": "of domestic, marsh and aquatic (animals)",
+        "gram": "n. nom. sg., dvandva (adj.)"
+       }
+      ]
+     },
+     {
+      "src": "māṃsaṃ",
+      "words": [
+       {
+        "w": "māṃsam",
+        "gloss": "meat",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "payo",
+      "words": [
+       {
+        "w": "payaḥ",
+        "gloss": "milk",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bastaśirastathā",
+      "words": [
+       {
+        "w": "basta-śiraḥ",
+        "gloss": "goat's head",
+        "gram": "n. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "varāhamadhyapittāsṛk",
+      "words": [
+       {
+        "w": "varāha-madhya-pitta-asṛk",
+        "gloss": "the middle part, bile and blood of the pig",
+        "gram": "n. nom. sg., tat-puruṣa (madhya-pitta-asṛk samāhāra dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "snehavattilataṇḍulāḥ",
+      "words": [
+       {
+        "w": "snehavat-tila-taṇḍulāḥ",
+        "gloss": "unctuous sesame and rice grains",
+        "gram": "m. nom. pl., karmadhāraya (tila-taṇḍula dvandva)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ग्राम्य, आनूप और औदक जीवों का मांस, दूध, बकरे का सिर तथा सूअर का मध्य भाग, पित्त और रक्त, स्नेहयुक्त तिल और चावल —",
+  "english": "Meat of domestic, marsh and aquatic animals, milk, likewise goat's head, the middle part, bile and blood of the pig, and unctuous sesame and rice grains:",
+  "text_flags": [],
+  "notes": "A list in the nominative, resumed by iti etāni in unit 30. snehavat may qualify tila-taṇḍulāḥ (as translated) or be a separate item ('fat, sesame and rice'). pitta here is the animal's bile.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.14.29a",
+   "01.14.29b"
+  ],
+  "lines_deva": [
+   "ग्राम्यानूपौदकं मांसं पयो बस्तशिरस्तथा",
+   "वराहमध्यपित्तासृक् स्नेहवत्तिलतण्डुलाः"
+  ],
+  "lines_iast": [
+   "grāmyānūpaudakaṃ māṃsaṃ payo bastaśirastathā",
+   "varāhamadhyapittāsṛk snehavattilataṇḍulāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ityetāni",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "etāni",
+        "gloss": "these",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "samutkvāthya",
+      "words": [
+       {
+        "w": "samutkvāthya",
+        "gloss": "having boiled together",
+        "gram": "abs. caus. sam-ud-√kvath"
+       }
+      ]
+     },
+     {
+      "src": "nāḍīsvedaṃ",
+      "words": [
+       {
+        "w": "nāḍī-svedam",
+        "gloss": "tube sweating (nāḍīsveda)",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "prayojayet",
+      "words": [
+       {
+        "w": "prayojayet",
+        "gloss": "should apply",
+        "gram": "3 sg. opt. caus. pra-√yuj"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "deśakālavibhāgajño",
+      "words": [
+       {
+        "w": "deśa-kāla-vibhāga-jñaḥ",
+        "gloss": "knowing the distinctions of place and time",
+        "gram": "m. nom. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "yuktyapekṣo",
+      "words": [
+       {
+        "w": "yukti-apekṣaḥ",
+        "gloss": "attentive to rational planning (yukti)",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "bhiṣaktamaḥ",
+      "words": [
+       {
+        "w": "bhiṣaktamaḥ",
+        "gloss": "the best physician",
+        "gram": "m. nom. sg. (superlative in -tama)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इन सबको भली भाँति उबालकर देश और काल के विभाग को जानने वाला, युक्ति की अपेक्षा रखने वाला श्रेष्ठ वैद्य नाडीस्वेद का प्रयोग करे।",
+  "english": "Having boiled these together, the best physician, knowing the distinctions of place and time and attentive to rational planning (yukti), should apply tube sweating (nāḍīsveda).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.14.30a",
+   "01.14.30b"
+  ],
+  "lines_deva": [
+   "इत्येतानि समुत्क्वाथ्य नाडीस्वेदं प्रयोजयेत्",
+   "देशकालविभागज्ञो युक्त्यपेक्षो भिषक्तमः"
+  ],
+  "lines_iast": [
+   "ityetāni samutkvāthya nāḍīsvedaṃ prayojayet",
+   "deśakālavibhāgajño yuktyapekṣo bhiṣaktamaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vāruṇāmṛtakairaṇḍaśigrumūlakasarṣapaiḥ",
+      "words": [
+       {
+        "w": "vāruṇa-amṛtaka-eraṇḍa-śigru-mūlaka-sarṣapaiḥ",
+        "gloss": "with vāruṇa, amṛtaka, eraṇḍa, śigru, mūlaka and sarṣapa",
+        "gram": "m. inst. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vāsāvaṃśakarañjārkapatrairaśmantakasya",
+      "words": [
+       {
+        "w": "vāsā-vaṃśa-karañja-arka-patraiḥ",
+        "gloss": "with leaves of vāsā, vaṃśa, karañja and arka",
+        "gram": "n. inst. pl., tat-puruṣa (dvandva first member)"
+       },
+       {
+        "w": "aśmantakasya",
+        "gloss": "of aśmantaka",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वारुण, अमृतक, एरण्ड, शिग्रु, मूलक और सर्षप से, वासा, वंश, करञ्ज और अर्क के पत्तों से तथा अश्मन्तक के (पत्तों से),",
+  "english": "With vāruṇa, amṛtaka, eraṇḍa, śigru, mūlaka and sarṣapa, with the leaves of vāsā, vaṃśa, karañja and arka, and of aśmantaka,",
+  "text_flags": [],
+  "notes": "Sentence continues into unit 32 (utkvāthya salilaṃ nāḍīsvedaṃ prayojayet). śigru-mūlaka could also be read 'root of śigru'. Identifications: eraṇḍa = castor (Ricinus communis), standard; śigru = drumstick tree (Moringa oleifera), standard; mūlaka = radish (Raphanus sativus), standard; sarṣapa = mustard (Brassica sp.), standard; vāsā = Adhatoda vasica, standard; vaṃśa = bamboo, standard; karañja = Pongamia pinnata, standard; arka = Calotropis sp., standard; vāruṇa (varuṇa) = Crataeva sp., probable; amṛtaka and aśmantaka unidentified here.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.14.31a",
+   "01.14.31b"
+  ],
+  "lines_deva": [
+   "वारुणामृतकैरण्डशिग्रुमूलकसर्षपैः",
+   "वासावंशकरञ्जार्कपत्रैरश्मन्तकस्य च"
+  ],
+  "lines_iast": [
+   "vāruṇāmṛtakairaṇḍaśigrumūlakasarṣapaiḥ",
+   "vāsāvaṃśakarañjārkapatrairaśmantakasya ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śobhāñjanakasaireyamālatīsurasārjakaiḥ",
+      "words": [
+       {
+        "w": "śobhāñjanaka-saireya-mālatī-surasā-arjakaiḥ",
+        "gloss": "of śobhāñjanaka, saireya, mālatī, surasā and arjaka",
+        "gram": "m./f. inst. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "patrairutkvāthya",
+      "words": [
+       {
+        "w": "patraiḥ",
+        "gloss": "with the leaves",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "utkvāthya",
+        "gloss": "having boiled",
+        "gram": "abs. caus. ud-√kvath"
+       }
+      ]
+     },
+     {
+      "src": "salilaṃ",
+      "words": [
+       {
+        "w": "salilam",
+        "gloss": "water",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāḍīsvedaṃ",
+      "words": [
+       {
+        "w": "nāḍī-svedam",
+        "gloss": "tube sweating",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "prayojayet",
+      "words": [
+       {
+        "w": "prayojayet",
+        "gloss": "should apply",
+        "gram": "3 sg. opt. caus. pra-√yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शोभाञ्जनक, सैरेय, मालती, सुरसा और अर्जक के पत्तों से जल को उबालकर नाडीस्वेद का प्रयोग करे।",
+  "english": "with the leaves of śobhāñjanaka, saireya, mālatī, surasā and arjaka, having boiled water, one should apply tube sweating.",
+  "text_flags": [],
+  "notes": "Identifications: śobhāñjanaka = a kind of Moringa, standard; surasā = holy basil (Ocimum tenuiflorum), standard; saireya(ka) = Barleria sp., probable; mālatī = Jasminum sp., probable; arjaka = a kind of Ocimum, probable.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.14.32a",
+   "01.14.32b"
+  ],
+  "lines_deva": [
+   "शोभाञ्जनकसैरेयमालतीसुरसार्जकैः",
+   "पत्रैरुत्क्वाथ्य सलिलं नाडीस्वेदं प्रयोजयेत्"
+  ],
+  "lines_iast": [
+   "śobhāñjanakasaireyamālatīsurasārjakaiḥ",
+   "patrairutkvāthya salilaṃ nāḍīsvedaṃ prayojayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhūtīkapañcamūlābhyāṃ",
+      "words": [
+       {
+        "w": "bhūtīka-pañcamūlābhyām",
+        "gloss": "with bhūtīka and the pañcamūla (five roots)",
+        "gram": "n. inst. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "surayā",
+      "words": [
+       {
+        "w": "surayā",
+        "gloss": "with surā",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadhimastunā",
+      "words": [
+       {
+        "w": "dadhi-mastunā",
+        "gloss": "with whey of curd",
+        "gram": "n. inst. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mūtrairamlaiśca",
+      "words": [
+       {
+        "w": "mūtraiḥ",
+        "gloss": "with urines",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "amlaiḥ",
+        "gloss": "with sour (liquids)",
+        "gram": "m./n. inst. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sasnehairnāḍīsvedaṃ",
+      "words": [
+       {
+        "w": "sa-snehaiḥ",
+        "gloss": "together with fat",
+        "gram": "m./n. inst. pl., bahuvrīhi"
+       },
+       {
+        "w": "nāḍī-svedam",
+        "gloss": "tube sweating",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "prayojayet",
+      "words": [
+       {
+        "w": "prayojayet",
+        "gloss": "should apply",
+        "gram": "3 sg. opt. caus. pra-√yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "भूतीक और पञ्चमूल से, सुरा से, दही के मस्तु से और स्नेहयुक्त मूत्रों और अम्ल पदार्थों से नाडीस्वेद का प्रयोग करे।",
+  "english": "With bhūtīka and the pañcamūla (five roots), with surā, with whey of curd (dadhimastu), and with urines and sour (liquids) together with fat, one should apply tube sweating.",
+  "text_flags": [],
+  "notes": "bhūtīka unidentified here. sasnehaiḥ may qualify both mūtraiḥ and amlaiḥ.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.14.33a",
+   "01.14.33b"
+  ],
+  "lines_deva": [
+   "भूतीकपञ्चमूलाभ्यां सुरया दधिमस्तुना",
+   "मूत्रैरम्लैश्च सस्नेहैर्नाडीस्वेदं प्रयोजयेत्"
+  ],
+  "lines_iast": [
+   "bhūtīkapañcamūlābhyāṃ surayā dadhimastunā",
+   "mūtrairamlaiśca sasnehairnāḍīsvedaṃ prayojayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "eta",
+      "words": [
+       {
+        "w": "ete",
+        "gloss": "these",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "very, same (emphatic)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "niryūhāḥ",
+      "words": [
+       {
+        "w": "niryūhāḥ",
+        "gloss": "decoctions (niryūha)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "prayojyā",
+      "words": [
+       {
+        "w": "prayojyāḥ",
+        "gloss": "are to be used",
+        "gram": "m. nom. pl., gerundive (kṛtya) caus. pra-√yuj"
+       }
+      ]
+     },
+     {
+      "src": "jalakoṣṭhake",
+      "words": [
+       {
+        "w": "jala-koṣṭhake",
+        "gloss": "in a water-tub",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "svedanārthaṃ",
+      "words": [
+       {
+        "w": "svedana-artham",
+        "gloss": "for sweating",
+        "gram": "adv. (m. acc. sg.), tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ghṛtakṣīratailakoṣṭhāṃśca",
+      "words": [
+       {
+        "w": "ghṛta-kṣīra-taila-koṣṭhān",
+        "gloss": "tubs of ghee, milk and oil",
+        "gram": "m. acc. pl., tat-puruṣa (dvandva first member)"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kārayet",
+      "words": [
+       {
+        "w": "kārayet",
+        "gloss": "should have made",
+        "gram": "3 sg. opt. caus. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और यही निर्यूह जलकोष्ठक में प्रयोग किए जाने चाहिए; स्वेदन के लिए घी, दूध और तेल के कोष्ठ भी बनवाए।",
+  "english": "And these same decoctions (niryūha) are to be used in a water-tub (jalakoṣṭhaka); for sweating one should also have tubs of ghee, milk and oil made.",
+  "text_flags": [],
+  "notes": "koṣṭha/koṣṭhaka here is a tub or tank, not the bowel. eta is ete with sandhi before eva. The Hindi 'भी' and English 'also' render ca.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.14.34a",
+   "01.14.34b"
+  ],
+  "lines_deva": [
+   "एत एव च निर्यूहाः प्रयोज्या जलकोष्ठके",
+   "स्वेदनार्थं घृतक्षीरतैलकोष्ठांश्च कारयेत्"
+  ],
+  "lines_iast": [
+   "eta eva ca niryūhāḥ prayojyā jalakoṣṭhake",
+   "svedanārthaṃ ghṛtakṣīratailakoṣṭhāṃśca kārayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "godhūmaśakalaiścūrṇairyavānāmamlasaṃyutaiḥ",
+      "words": [
+       {
+        "w": "godhūma-śakalaiḥ",
+        "gloss": "with pieces of wheat",
+        "gram": "m./n. inst. pl., tat-puruṣa"
+       },
+       {
+        "w": "cūrṇaiḥ",
+        "gloss": "with powders",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "yavānām",
+        "gloss": "of barley",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "amla-saṃyutaiḥ",
+        "gloss": "mixed with sour (substance)",
+        "gram": "m./n. inst. pl., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sasnehakiṇvalavaṇairupanāhaḥ",
+      "words": [
+       {
+        "w": "sa-sneha-kiṇva-lavaṇaiḥ",
+        "gloss": "with fat, kiṇva (ferment) and salt",
+        "gram": "m./n. inst. pl., bahuvrīhi"
+       },
+       {
+        "w": "upanāhaḥ",
+        "gloss": "poultice (upanāha)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "praśasyate",
+      "words": [
+       {
+        "w": "praśasyate",
+        "gloss": "is commended",
+        "gram": "3 sg. pres. pass. pra-√śaṃs"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गेहूँ के टुकड़ों से और जौ के चूर्णों से, जो अम्ल से युक्त और स्नेह, किण्व तथा लवण सहित हों, उपनाह प्रशस्त है।",
+  "english": "A poultice (upanāha) with pieces of wheat and with powders of barley, mixed with sour (substance) and with fat, kiṇva (ferment) and salt, is commended.",
+  "text_flags": [],
+  "notes": "amlasaṃyutaiḥ and sasneha-kiṇva-lavaṇaiḥ may qualify both godhūmaśakalaiḥ and cūrṇaiḥ.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.14.35a",
+   "01.14.35b"
+  ],
+  "lines_deva": [
+   "गोधूमशकलैश्चूर्णैर्यवानामम्लसंयुतैः",
+   "सस्नेहकिण्वलवणैरुपनाहः प्रशस्यते"
+  ],
+  "lines_iast": [
+   "godhūmaśakalaiścūrṇairyavānāmamlasaṃyutaiḥ",
+   "sasnehakiṇvalavaṇairupanāhaḥ praśasyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "36",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gandhaiḥ",
+      "words": [
+       {
+        "w": "gandhaiḥ",
+        "gloss": "with fragrant substances",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "surāyāḥ",
+      "words": [
+       {
+        "w": "surāyāḥ",
+        "gloss": "of surā",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "kiṇvena",
+      "words": [
+       {
+        "w": "kiṇvena",
+        "gloss": "with the ferment (kiṇva)",
+        "gram": "m./n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "jīvantyā",
+      "words": [
+       {
+        "w": "jīvantyā",
+        "gloss": "with jīvantī",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "śatapuṣpayā",
+      "words": [
+       {
+        "w": "śatapuṣpayā",
+        "gloss": "with śatapuṣpā",
+        "gram": "f. inst. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "umayā",
+      "words": [
+       {
+        "w": "umayā",
+        "gloss": "with umā",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "kuṣṭhatailābhyāṃ",
+      "words": [
+       {
+        "w": "kuṣṭha-tailābhyām",
+        "gloss": "with kuṣṭha and oil",
+        "gram": "n. inst. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "yuktayā",
+      "words": [
+       {
+        "w": "yuktayā",
+        "gloss": "combined",
+        "gram": "f. inst. sg., ppp. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "copanāhayet",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "upanāhayet",
+        "gloss": "should apply a poultice",
+        "gram": "3 sg. opt. caus. upa-√nah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गन्ध द्रव्यों से, सुरा के किण्व से, जीवन्ती से, शतपुष्पा से, और कुष्ठ तथा तेल से युक्त उमा से भी उपनाह करे।",
+  "english": "And one should apply a poultice with fragrant substances, with the ferment (kiṇva) of surā, with jīvantī, with śatapuṣpā, and with umā combined with kuṣṭha and oil.",
+  "text_flags": [],
+  "notes": "yuktayā agrees with umayā (f.). kuṣṭha here is the drug, not the skin disease. Identifications: jīvantī = Leptadenia reticulata, probable; śatapuṣpā = dill (Anethum sp.), probable; umā = linseed (Linum usitatissimum), probable; kuṣṭha = Saussurea costus, standard. surāyāḥ may also go with gandhaiḥ ('with the fragrant parts of surā').",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.14.36a",
+   "01.14.36b"
+  ],
+  "lines_deva": [
+   "गन्धैः सुरायाः किण्वेन जीवन्त्या शतपुष्पया",
+   "उमया कुष्ठतैलाभ्यां युक्तया चोपनाहयेत्"
+  ],
+  "lines_iast": [
+   "gandhaiḥ surāyāḥ kiṇvena jīvantyā śatapuṣpayā",
+   "umayā kuṣṭhatailābhyāṃ yuktayā copanāhayet"
+  ],
+  "uncertain": []
+ }
+]
