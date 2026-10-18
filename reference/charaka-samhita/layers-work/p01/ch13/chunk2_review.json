@@ -1,0 +1,346 @@
+{
+ "units": [
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "aruṣka(ā) / pāmā / vātaśoṇita identifications",
+     "problem": "Modern disease equivalents (boils of the scalp, scabies-like eruption, gout-like joint disease) are not in the input and rest on memory; GLOSSARY: disease names stay Sanskrit, no modern equivalents in notes unless the input gives them.",
+     "fix": "Sentence continues into unit 36 (verb pibeyuḥ). pramīḍha = past participle of pra-√mih, 'one who has urinated much'.",
+     "severity": "error",
+     "patch": {
+      "n": "35",
+      "op": "set",
+      "field": "notes",
+      "value": "Sentence continues into unit 36 (verb pibeyuḥ). pramīḍha = past participle of pra-√mih, 'one who has urinated much'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शोधन के लिए भी",
+     "problem": "'भी' (also) has no counterpart; ca is already rendered by 'और'.",
+     "fix": "और शोधन के लिए प्रयुक्त होती है",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शोधन के लिए भी प्रयुक्त",
+      "new": "शोधन के लिए प्रयुक्त"
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "nāḍī ... probable = sinus or fistulous tract (standard)",
+     "problem": "Modern disease identification from memory, not in the input; also self-contradictory tags (probable/standard).",
+     "fix": "End of the sentence begun in unit 44. nāḍī: literally 'tube, channel', here a disease name.",
+     "severity": "error",
+     "patch": {
+      "n": "46",
+      "op": "set",
+      "field": "notes",
+      "value": "End of the sentence begun in unit 44. nāḍī: literally 'tube, channel', here a disease name."
+     }
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "50",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "53",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "54",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "55",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "jaṭhara = udara (standard); gara = artificial (compounded) poison (standard); pratānta 'one with fainting fits'",
+     "problem": "These rest on commentary/memory not shown in the input (the jaṭhara=udara equation, the 'compounded' kind of poison, the 'fainting fits' sense of pratānta, which the gram pra-√tam does not give).",
+     "fix": "Continues the list from unit 54. jaṭhara: literally 'belly', here a disease of the belly. āma: undigested matter. gara: poison.",
+     "severity": "error",
+     "patch": {
+      "n": "55",
+      "op": "set",
+      "field": "notes",
+      "value": "Continues the list from unit 54. jaṭhara: literally 'belly', here a disease of the belly. āma: undigested matter. gara: poison."
+     }
+    }
+   ]
+  },
+  {
+   "n": "56",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "two readings of vartamāneṣu",
+     "problem": "Note says vartamāneṣu 'may also be read' as a locative absolute and then says that is the reading used; it is the only reading given, so the wording is confusing.",
+     "fix": "End of the sentence begun in unit 54. nastaḥ 'through the nose' (indeclinable) stands as first member. vartamāneṣu ... nastobastikarmasu is a locative absolute ('while nasal and enema procedures are going on'); the two 'na' are taken as 'not ... nor'.",
+     "severity": "minor",
+     "patch": {
+      "n": "56",
+      "op": "set",
+      "field": "notes",
+      "value": "End of the sentence begun in unit 54. nastaḥ 'through the nose' (indeclinable) stands as first member. vartamāneṣu ... nastobastikarmasu is a locative absolute ('while nasal and enema procedures are going on'); the two 'na' are taken as 'not ... nor'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "57",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पक्ता का मृदु होना",
+     "problem": "GLOSSARY: paktā = the digester (पचाने वाला); the Hindi leaves the bare Sanskrit agent noun पक्ता.",
+     "fix": "पचाने वाले का मृदु होना",
+     "severity": "minor",
+     "patch": {
+      "n": "57",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पक्ता का मृदु होना",
+      "new": "पचाने वाले का मृदु होना"
+     }
+    }
+   ]
+  },
+  {
+   "n": "58",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "those who are properly oleated",
+     "problem": "'properly' is added; snigdhānām is just 'of the oleated' (Hindi has no such word).",
+     "fix": "in those who are oleated",
+     "severity": "error",
+     "patch": {
+      "n": "58",
+      "op": "replace",
+      "field": "english",
+      "old": "those who are properly oleated",
+      "new": "those who are oleated"
+     }
+    }
+   ]
+  },
+  {
+   "n": "59",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "60",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "61",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "62",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "63",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "64",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "A man who has drunk fat, and also one who is partaking of fat in turn;",
+     "problem": "naraḥ is one subject; pītvā and pratibhuñjānaḥ both qualify the same man. 'and also one who' makes two persons, and eva is not rendered.",
+     "fix": "A man who has drunk fat, and who is indeed partaking of fat in turn: for from wrong management of fat dreadful diseases arise.",
+     "severity": "error",
+     "patch": {
+      "n": "64",
+      "op": "set",
+      "field": "english",
+      "value": "A man who has drunk fat, and who is indeed partaking of fat in turn: for from wrong management of fat dreadful diseases arise."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वह भी;",
+     "problem": "Same two-person reading; 'वह भी' is added.",
+     "fix": "जिस मनुष्य ने स्नेह पिया है और जो स्नेह का प्रतिभोजन कर ही रहा है; क्योंकि स्नेह के मिथ्या उपचार से दारुण रोग उत्पन्न होते हैं।",
+     "severity": "error",
+     "patch": {
+      "n": "64",
+      "op": "set",
+      "field": "hindi",
+      "value": "जिस मनुष्य ने स्नेह पिया है और जो स्नेह का प्रतिभोजन कर ही रहा है; क्योंकि स्नेह के मिथ्या उपचार से दारुण रोग उत्पन्न होते हैं।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "65",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "66",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "ulloḍitam",
+     "problem": "Participle given without its root.",
+     "fix": "n. acc. sg. p.p. ud-√luḍ",
+     "severity": "minor",
+     "patch": {
+      "n": "66",
+      "op": "word",
+      "match_w": "ulloḍitam",
+      "field": "gram",
+      "value": "n. acc. sg. p.p. ud-√luḍ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "67",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "68",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "for the grahaṇī",
+     "problem": "'for' is added; the line has no hi and the Hindi gives no causal word.",
+     "fix": "These never purge one with a hard bowel; the grahaṇī of one with a hard bowel has excessively strong Vāta (anila).",
+     "severity": "minor",
+     "patch": {
+      "n": "68",
+      "op": "replace",
+      "field": "english",
+      "old": "; for the grahaṇī",
+      "new": "; the grahaṇī"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "probable = duodenum and small intestine (disputed)",
+     "problem": "Modern anatomical identification from memory, not in the input.",
+     "fix": "grahaṇī: literally 'the holder', the seat of digestion.",
+     "severity": "error",
+     "patch": {
+      "n": "68",
+      "op": "set",
+      "field": "notes",
+      "value": "grahaṇī: literally 'the holder', the seat of digestion."
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Independent review of p01/ch13 chunk 2 (units 35-68). Errors: 4 notes resting on memory (modern disease/anatomy identifications in 35, 46, 68; commentary-type senses in 55) marked for removal; 1 unsupported English addition ('properly', 58); 1 mistranslation in English and Hindi of 64 (one subject read as two persons). Minor: Hindi 'भी' added (37), confusing note (56), पक्ता vs glossary पचाने वाला (57), missing root (66), English 'for' added (68). Text flags checked: 35 pamā->pāmā (lexical, no other word fits), 59 utkeśa->utkleśa (lexical, metre unaffected), 65 kroṣṭha->koṣṭha (in-chunk evidence 46, 50, 68): all kept. Plant identifications in 66-67 are tagged as the glossary allows and are kept. No regrouping suggested. AI review, not read by a person."
+}

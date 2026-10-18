@@ -63,3 +63,7 @@ Draft status: AI drafts, not read by a person.
 - svarasa = expressed juice; kalka = paste; śṛta = decoction; śīta = cold infusion; phāṇṭa = hot infusion (Sanskrit kept)
 - group names: jīvanīya = vitalizing; bṛṃhaṇīya = nourishing; lekhanīya = reducing; bhedanīya = breaking up; sandhānīya = uniting; -upaga = aiding; -nigrahaṇa = checking; -saṃgrahaṇīya = binding; -virajanīya = correcting the colour of; -praśamana = allaying; -sthāpana = stabilizing; udarda kept Sanskrit
 - yoga (of a drug count) = application; saṃyoga = combination; prayoga = administration; alpabuddhi = of little intellect; buddhimat = intelligent; kalpopaniṣad kept as name; drug names keep printed spelling unless the chunk shows the correction
+- abhiṣyandin/anabhiṣyandin = channel-clogging/not channel-clogging; accha (sneha) = plain (fat taken by itself); pramīḍha = one who has urinated much; mṛdukoṣṭha/krūrakoṣṭha = soft bowel/hard bowel (मृदु कोष्ठ/क्रूर कोष्ठ)
+- kept Sanskrit, no modern equivalents in notes: grahaṇī, nāḍī (disease), jaṭhara, gara, aruṣkā, pāmā, vātaśoṇita, kṛśarā; vasā = muscle-fat (वसा); majjan = marrow (मज्जा); mastu = whey; pāyasa = milk-rice; utkleśa = nausea (उत्क्लेश)
+- asnigdha/snigdha/atisnigdha lakṣaṇa = sign of the unoleated/oleated/over-oleated; kha = channels (छिद्र); parihāra = restrictions; hrasva/madhyama mātrā = small/medium measure; paktā in Hindi = पचाने वाला
+- plant identifications (tagged standard/probable/disputed) are allowed in notes only

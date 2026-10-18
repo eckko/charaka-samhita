@@ -1,0 +1,87 @@
+[
+ {
+  "n": "35",
+  "field": "notes",
+  "old": "Sentence continues into unit 36 (verb pibeyuḥ). aruṣka(ā): probable = boils/pustules of the scalp (probable). pāmā: probable = scabies-like eruption (probable). pramīḍha = past participle of pra-√mih, i.e. prameha patients (standard). vātaśoṇita: probable = gout-like joint disease (disputed).",
+  "new": "Sentence continues into unit 36 (verb pibeyuḥ). pramīḍha = past participle of pra-√mih, 'one who has urinated much'.",
+  "why": "reviewer (error): Modern disease equivalents (boils of the scalp, scabies-like eruption, gout-like joint disease) are not in the input and rest on memory; GLOSSARY: disease names stay Sanskrit, no modern equivalents in notes unless the input gives them."
+ },
+ {
+  "n": "37",
+  "field": "hindi",
+  "old": "यह मात्रा थोड़े विभ्रंश वाली है और अधिक बल हरने वाली नहीं है; यह सुखपूर्वक स्नेहन करती है और शोधन के लिए भी प्रयुक्त होती है।",
+  "new": "यह मात्रा थोड़े विभ्रंश वाली है और अधिक बल हरने वाली नहीं है; यह सुखपूर्वक स्नेहन करती है और शोधन के लिए प्रयुक्त होती है।",
+  "why": "reviewer (minor): 'भी' (also) has no counterpart; ca is already rendered by 'और'."
+ },
+ {
+  "n": "46",
+  "field": "notes",
+  "old": "End of the sentence begun in unit 44. nāḍī here as a disease: probable = sinus or fistulous tract (standard).",
+  "new": "End of the sentence begun in unit 44. nāḍī: literally 'tube, channel', here a disease name.",
+  "why": "reviewer (error): Modern disease identification from memory, not in the input; also self-contradictory tags (probable/standard)."
+ },
+ {
+  "n": "55",
+  "field": "notes",
+  "old": "Continues the list from unit 54. jaṭhara: an abdominal disease, the same as udara (standard). āma: undigested matter. gara: artificial (compounded) poison (standard). pratānta may also mean 'one with fainting fits'.",
+  "new": "Continues the list from unit 54. jaṭhara: literally 'belly', here a disease of the belly. āma: undigested matter. gara: poison.",
+  "why": "reviewer (error): These rest on commentary/memory not shown in the input (the jaṭhara=udara equation, the 'compounded' kind of poison, the 'fainting fits' sense of pratānta, which the gram pra-√tam does not give)."
+ },
+ {
+  "n": "56",
+  "field": "notes",
+  "old": "End of the sentence begun in unit 54. nastaḥ 'through the nose' (indeclinable) stands as first member. The two 'na' are taken as 'not ... nor'; vartamāneṣu may also be read with nastobastikarmasu as one locative absolute ('when nasal and enema procedures are going on'), which is the reading used here.",
+  "new": "End of the sentence begun in unit 54. nastaḥ 'through the nose' (indeclinable) stands as first member. vartamāneṣu ... nastobastikarmasu is a locative absolute ('while nasal and enema procedures are going on'); the two 'na' are taken as 'not ... nor'.",
+  "why": "reviewer (minor): Note says vartamāneṣu 'may also be read' as a locative absolute and then says that is the reading used; it is the only reading given, so the wording is confusing."
+ },
+ {
+  "n": "57",
+  "field": "hindi",
+  "old": "मल गाँठदार और रूक्ष होना, वायु का ठीक से न चलना, पक्ता का मृदु होना, और शरीर का खरापन तथा रूखापन, यह अस्निग्ध का लक्षण है।",
+  "new": "मल गाँठदार और रूक्ष होना, वायु का ठीक से न चलना, पचाने वाले का मृदु होना, और शरीर का खरापन तथा रूखापन, यह अस्निग्ध का लक्षण है।",
+  "why": "reviewer (minor): GLOSSARY: paktā = the digester (पचाने वाला); the Hindi leaves the bare Sanskrit agent noun पक्ता."
+ },
+ {
+  "n": "58",
+  "field": "english",
+  "old": "Downward movement of Vāta, kindled digestive fire, unctuous and unformed stool, and softness and unctuousness in the body arise in those who are properly oleated.",
+  "new": "Downward movement of Vāta, kindled digestive fire, unctuous and unformed stool, and softness and unctuousness in the body arise in those who are oleated.",
+  "why": "reviewer (error): 'properly' is added; snigdhānām is just 'of the oleated' (Hindi has no such word)."
+ },
+ {
+  "n": "64",
+  "field": "english",
+  "old": "A man who has drunk fat, and also one who is partaking of fat in turn; for from wrong management of fat dreadful diseases arise.",
+  "new": "A man who has drunk fat, and who is indeed partaking of fat in turn: for from wrong management of fat dreadful diseases arise.",
+  "why": "reviewer (error): naraḥ is one subject; pītvā and pratibhuñjānaḥ both qualify the same man. 'and also one who' makes two persons, and eva is not rendered."
+ },
+ {
+  "n": "64",
+  "field": "hindi",
+  "old": "वह मनुष्य जिसने स्नेह पिया हो, और जो स्नेह का प्रतिभोजन कर रहा हो, वह भी; क्योंकि स्नेह के मिथ्या उपचार से दारुण रोग उत्पन्न होते हैं।",
+  "new": "जिस मनुष्य ने स्नेह पिया है और जो स्नेह का प्रतिभोजन कर ही रहा है; क्योंकि स्नेह के मिथ्या उपचार से दारुण रोग उत्पन्न होते हैं।",
+  "why": "reviewer (error): Same two-person reading; 'वह भी' is added."
+ },
+ {
+  "n": "66",
+  "field": "word.gram",
+  "word": "ulloḍitam",
+  "old": "n. acc. sg. p.p.",
+  "new": "n. acc. sg. p.p. ud-√luḍ",
+  "why": "reviewer (minor): Participle given without its root."
+ },
+ {
+  "n": "68",
+  "field": "english",
+  "old": "These never purge one with a hard bowel; for the grahaṇī of one with a hard bowel has excessively strong Vāta (anila).",
+  "new": "These never purge one with a hard bowel; the grahaṇī of one with a hard bowel has excessively strong Vāta (anila).",
+  "why": "reviewer (minor): 'for' is added; the line has no hi and the Hindi gives no causal word."
+ },
+ {
+  "n": "68",
+  "field": "notes",
+  "old": "grahaṇī: the seat of digestion, probable = duodenum and small intestine (disputed).",
+  "new": "grahaṇī: literally 'the holder', the seat of digestion.",
+  "why": "reviewer (error): Modern anatomical identification from memory, not in the input."
+ }
+]
