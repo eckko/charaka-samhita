@@ -1,0 +1,133 @@
+[
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "जिन्होंने गणना योग्य तत्त्वों की गणना कर ली थी, ऐसे सांख्यों के साथ बैठे हुए पुनर्वसु से वह्निवेश ने जगत् के हित के लिए अपना संशय पूछा।",
+  "new": "जिन्होंने गणना योग्य (विषयों) की गणना कर ली थी, ऐसे सांख्यों के साथ बैठे हुए पुनर्वसु से वह्निवेश ने जगत् के हित के लिए अपना संशय पूछा।",
+  "why": "reviewer (error): तत्त्वों ('principles') is added; saṃkhyeya means only 'what is to be enumerated'. The addition imports a Sāṃkhya-system reading the line does not state."
+ },
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "sāṃkhya may mean followers of the Sāṃkhya system or, more generally, men skilled in enumeration/reasoning. vahni and agni are synonyms ('fire'), so Vahniveśa is a synonym-form of the name Agniveśa. papraccha takes two accusatives (the person asked, the thing asked).",
+  "new": "sāṃkhya may mean followers of the Sāṃkhya system or, more generally, men skilled in enumeration/reasoning. vahni and agni are synonyms ('fire'). papraccha takes two accusatives (the person asked, the thing asked).",
+  "why": "reviewer (minor): Identifying Vahniveśa with Agniveśa rests on knowledge outside the input (the chunk names only Vahniveśa); LAYER_NOTES rule 3. Remove the identification, keep the linguistic remark."
+ },
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "jagat-hita-artham",
+  "old": "adverbial acc. sg., tat-puruṣa",
+  "new": "n. acc. sg. (adverbial), tat-puruṣa",
+  "why": "reviewer (minor): gender missing; artha-compound used adverbially is n. acc. sg."
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "Units 4 to 8 are Agniveśa's list of questions. vicāraṇā is used in this chapter for sneha given combined with other foods or preparations (see units 23 to 26).",
+  "new": "Units 4 to 8 are Vahniveśa's list of questions. vicāraṇā is used in this chapter for sneha given combined with other foods or preparations (see units 23 to 26).",
+  "why": "reviewer (minor): The chunk names the questioner Vahniveśa (unit 3); 'Agniveśa' rests on outside knowledge."
+ },
+ {
+  "n": "8",
+  "field": "notes",
+  "old": "The '!' after prabho is a punctuation mark of the typed text. tat is taken with jñānam ('that knowledge'); it may also be read as 'that (all)' summing up the questions.",
+  "new": "The '!' after prabho is a punctuation mark of the typed text. tat is taken with jñānam ('that knowledge'); it may also be read as 'that (all)' summing up the questions. snehasya may also be taken with amitavijñāna ('O you of boundless knowledge of sneha').",
+  "why": "reviewer (minor): Alternative construal not mentioned: snehasya can depend on amitavijñāna."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "Then Punarvasu, the cutter of his doubt, replied: The source of the snehas, gentle one, is twofold: immobile and mobile.",
+  "new": "Then Punarvasu, the cutter of his doubt, replied: The source of the snehas, O gentle one, is twofold: immobile and mobile.",
+  "why": "reviewer (minor): Vocative saumya: keep 'O' as with other fixed vocatives (O king, O Bhārata) and as the gloss has it."
+ },
+ {
+  "n": "12",
+  "field": "notes",
+  "old": "Lines c and d are printed inside round brackets and end with '||)', marking them as an inserted passage in the typed edition; they are kept as printed. agryam in line b is taken with tilatailam of line a. The '(' and '||)' are print marks attached to the tokens.",
+  "new": "Lines c and d are printed inside round brackets and end with '||)', in the typed edition; the input does not say what the brackets mean; they are kept as printed. agryam in line b is taken with tilatailam of line a. The '(' and '||)' are print marks attached to the tokens.",
+  "why": "reviewer (minor): What the brackets mean is not shown in the input; calling them an inserted passage rests on knowledge of the edition."
+ },
+ {
+  "n": "13",
+  "field": "notes",
+  "old": "'Follows the processing' means that ghee takes on the properties of what it is processed with; the line itself says only saṃskārasya anuvartanāt.",
+  "new": "saṃskārasya anuvartanāt is rendered literally ('because it follows the processing'); the line does not say in what way ghee follows it.",
+  "why": "reviewer (minor): This explanation comes from commentary/memory, not from the line or the chunk."
+ },
+ {
+  "n": "14",
+  "field": "notes",
+  "old": "rasa here is the bodily rasa (the first dhātu), named with śukra and ojas, not taste.",
+  "new": "rasa here is the bodily rasa, named with śukra and ojas, not taste.",
+  "why": "reviewer (minor): 'the first dhātu' is outside doctrine not shown in the input; the context (with śukra and ojas) is enough."
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "A man with predominant Kapha who drinks sneha in cold weather or at night incurs distension (ānāha), loss of taste, pain or pallor (pāṇḍutā).",
+  "new": "A man with predominant Kapha, too, who drinks sneha in cold weather or at night incurs distension (ānāha), loss of taste, pain or pallor (pāṇḍutā).",
+  "why": "reviewer (minor): api in śleṣmādhiko'pi is dropped ('also', in parallel with the Vāta-Pitta person of unit 20)."
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "शीत (काल) में अथवा रात्रि में स्नेह पीने वाला श्लेष्मा की अधिकता वाला मनुष्य आनाह, अरुचि, शूल अथवा पाण्डुता को प्राप्त होता है।",
+  "new": "शीत (काल) में अथवा रात्रि में स्नेह पीने वाला श्लेष्मा की अधिकता वाला मनुष्य भी आनाह, अरुचि, शूल अथवा पाण्डुता को प्राप्त होता है।",
+  "why": "reviewer (minor): api ('also') not rendered."
+ },
+ {
+  "n": "22",
+  "field": "word.gram",
+  "word": "vasā-majjñoḥ",
+  "old": "loc. du., dvandva",
+  "new": "m. loc. du., dvandva",
+  "why": "reviewer (minor): gender missing; itaretara dvandva takes the gender of the last member majjan (m.)."
+ },
+ {
+  "n": "23",
+  "field": "notes",
+  "old": "Units 23 to 25 are one list, the twenty-four vicāraṇās counted in unit 25. rasa here is a food item (juice or soup, probably meat-juice), not taste.",
+  "new": "Units 23 to 25 are one list, the twenty-four vicāraṇās counted in unit 25. rasa here is a food item (juice or soup), not taste.",
+  "why": "reviewer (minor): Guess from outside knowledge; the line says only rasa."
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "But the sneha which is to be drunk plain (accha) they do not call a vicāraṇā; that, approved by physicians, is the primary mode (kalpa) of sneha.",
+  "new": "But the sneha which is to be drunk plain (accha) they do not call a vicāraṇā; that, recognised by physicians, is the primary mode (kalpa) of sneha.",
+  "why": "reviewer (minor): dṛṣṭa is 'seen, recognised'; 'approved' strengthens it (the Hindi has देखा गया)."
+ },
+ {
+  "n": "28",
+  "field": "word.gram",
+  "word": "prayojyāḥ",
+  "old": "f. nom. pl., gerundive (kṛtya) pra-√yuj",
+  "new": "f. nom. sg., gerundive (kṛtya) pra-√yuj (with bhavet)",
+  "why": "reviewer (error): The verb is bhavet (3 sg.), so the gerundive is f. nom. sg. as printed (prayojyā), agreeing with catuḥṣaṣṭiḥ; a plural subject with a singular verb is not the plain reading."
+ },
+ {
+  "n": "28",
+  "field": "word.w",
+  "word": "prayojyāḥ",
+  "old": "prayojyāḥ",
+  "new": "prayojyā",
+  "why": "reviewer (error): The w adds a visarga the singular construction does not need; keep the printed form."
+ },
+ {
+  "n": "28",
+  "field": "notes",
+  "old": "pravicāraṇā is taken as nominative plural (pravicāraṇāḥ, the visarga lost before the vowel of the next half-verse), agreeing with etāḥ. The accusative okartuvyādhipuruṣān expresses 'with regard to'. The sixty-four here (63 combinations with tastes + 1 plain) are a different count from the twenty-four of unit 25.",
+  "new": "pravicāraṇā is taken as nominative plural (pravicāraṇāḥ, the visarga lost before the vowel of the next half-verse), agreeing with etāḥ. The accusative okartuvyādhipuruṣān expresses 'with regard to'. The sixty-four here (63 combinations with tastes + 1 plain) are a different count from the twenty-four of unit 25. bhavet is singular, so prayojyā is f. nom. sg. agreeing with catuḥṣaṣṭiḥ; pravicāraṇā may likewise be read as printed, f. nom. sg., with etāḥ plural by sense.",
+  "why": "reviewer (minor): With bhavet singular, pravicāraṇā can stand as printed (f. nom. sg., agreeing with catuḥṣaṣṭiḥ); the note should give this as the plain reading or at least the alternative. Also the half-verse boundary is a weak place to assume a lost visarga."
+ },
+ {
+  "n": "29",
+  "field": "word.gram",
+  "word": "ahorātram",
+  "old": "acc. sg. (duration), dvandva (samāhāra)",
+  "new": "m. acc. sg. (duration), dvandva (samāhāra; masculine by rule)",
+  "why": "reviewer (minor): gender missing; the note says masculine, the gram should say it (exception to the glossary's 'samāhāra, neuter')."
+ }
+]

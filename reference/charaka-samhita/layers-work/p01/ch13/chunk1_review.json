@@ -1,0 +1,434 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "गणना योग्य तत्त्वों की",
+     "problem": "तत्त्वों ('principles') is added; saṃkhyeya means only 'what is to be enumerated'. The addition imports a Sāṃkhya-system reading the line does not state.",
+     "fix": "जिन्होंने गणना योग्य (विषयों) की गणना कर ली थी",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "गणना योग्य तत्त्वों की",
+      "new": "गणना योग्य (विषयों) की"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "so Vahniveśa is a synonym-form of the name Agniveśa",
+     "problem": "Identifying Vahniveśa with Agniveśa rests on knowledge outside the input (the chunk names only Vahniveśa); LAYER_NOTES rule 3. Remove the identification, keep the linguistic remark.",
+     "fix": "sāṃkhya may mean followers of the Sāṃkhya system or, more generally, men skilled in enumeration/reasoning. vahni and agni are synonyms ('fire'). papraccha takes two accusatives (the person asked, the thing asked).",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "set",
+      "field": "notes",
+      "value": "sāṃkhya may mean followers of the Sāṃkhya system or, more generally, men skilled in enumeration/reasoning. vahni and agni are synonyms ('fire'). papraccha takes two accusatives (the person asked, the thing asked)."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "jagat-hita-artham",
+     "problem": "gender missing; artha-compound used adverbially is n. acc. sg.",
+     "fix": "n. acc. sg. (adverbial), tat-puruṣa",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "jagat-hita-artham",
+      "field": "gram",
+      "value": "n. acc. sg. (adverbial), tat-puruṣa"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "Agniveśa's list of questions",
+     "problem": "The chunk names the questioner Vahniveśa (unit 3); 'Agniveśa' rests on outside knowledge.",
+     "fix": "Vahniveśa's list of questions",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "notes",
+      "old": "Agniveśa's",
+      "new": "Vahniveśa's"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "snehasyāmitavijñāna",
+     "problem": "Alternative construal not mentioned: snehasya can depend on amitavijñāna.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "append_note",
+      "text": "snehasya may also be taken with amitavijñāna ('O you of boundless knowledge of sneha')."
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "gentle one, is twofold",
+     "problem": "Vocative saumya: keep 'O' as with other fixed vocatives (O king, O Bhārata) and as the gloss has it.",
+     "fix": "O gentle one, is twofold",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "english",
+      "old": "gentle one, is",
+      "new": "O gentle one, is"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "marking them as an inserted passage in the typed edition",
+     "problem": "What the brackets mean is not shown in the input; calling them an inserted passage rests on knowledge of the edition.",
+     "fix": "printed inside round brackets and end with '||)' in the typed edition; the input does not say what the brackets mean",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "notes",
+      "old": "marking them as an inserted passage in the typed edition",
+      "new": "in the typed edition; the input does not say what the brackets mean"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "'Follows the processing' means that ghee takes on the properties of what it is processed with",
+     "problem": "This explanation comes from commentary/memory, not from the line or the chunk.",
+     "fix": "saṃskārasya anuvartanāt is rendered literally ('because it follows the processing'); the line does not say in what way ghee follows it.",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "set",
+      "field": "notes",
+      "value": "saṃskārasya anuvartanāt is rendered literally ('because it follows the processing'); the line does not say in what way ghee follows it."
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "(the first dhātu)",
+     "problem": "'the first dhātu' is outside doctrine not shown in the input; the context (with śukra and ojas) is enough.",
+     "fix": "rasa here is the bodily rasa, named with śukra and ojas, not taste.",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "notes",
+      "old": "the bodily rasa (the first dhātu), named",
+      "new": "the bodily rasa, named"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "A man with predominant Kapha who drinks",
+     "problem": "api in śleṣmādhiko'pi is dropped ('also', in parallel with the Vāta-Pitta person of unit 20).",
+     "fix": "A man with predominant Kapha, too, who drinks",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "english",
+      "old": "A man with predominant Kapha who drinks",
+      "new": "A man with predominant Kapha, too, who drinks"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "श्लेष्मा की अधिकता वाला मनुष्य",
+     "problem": "api ('also') not rendered.",
+     "fix": "श्लेष्मा की अधिकता वाला मनुष्य भी",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "hindi",
+      "old": "श्लेष्मा की अधिकता वाला मनुष्य",
+      "new": "श्लेष्मा की अधिकता वाला मनुष्य भी"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "vasā-majjñoḥ",
+     "problem": "gender missing; itaretara dvandva takes the gender of the last member majjan (m.).",
+     "fix": "m. loc. du., dvandva",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "word",
+      "match_w": "vasā-majjñoḥ",
+      "field": "gram",
+      "value": "m. loc. du., dvandva"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "probably meat-juice",
+     "problem": "Guess from outside knowledge; the line says only rasa.",
+     "fix": "rasa here is a food item (juice or soup), not taste.",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "notes",
+      "old": "(juice or soup, probably meat-juice)",
+      "new": "(juice or soup)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "approved by physicians",
+     "problem": "dṛṣṭa is 'seen, recognised'; 'approved' strengthens it (the Hindi has देखा गया).",
+     "fix": "recognised by physicians",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "english",
+      "old": "approved by physicians",
+      "new": "recognised by physicians"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "prayojyāḥ",
+     "problem": "The verb is bhavet (3 sg.), so the gerundive is f. nom. sg. as printed (prayojyā), agreeing with catuḥṣaṣṭiḥ; a plural subject with a singular verb is not the plain reading.",
+     "fix": "f. nom. sg., gerundive (kṛtya) pra-√yuj (with bhavet)",
+     "severity": "error",
+     "patch": {
+      "n": "28",
+      "op": "word",
+      "match_w": "prayojyāḥ",
+      "field": "gram",
+      "value": "f. nom. sg., gerundive (kṛtya) pra-√yuj (with bhavet)"
+     }
+    },
+    {
+     "field": "split",
+     "where": "prayojyāḥ",
+     "problem": "The w adds a visarga the singular construction does not need; keep the printed form.",
+     "fix": "prayojyā",
+     "severity": "error",
+     "patch": {
+      "n": "28",
+      "op": "word",
+      "match_w": "prayojyāḥ",
+      "field": "w",
+      "value": "prayojyā"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "pravicāraṇā is taken as nominative plural",
+     "problem": "With bhavet singular, pravicāraṇā can stand as printed (f. nom. sg., agreeing with catuḥṣaṣṭiḥ); the note should give this as the plain reading or at least the alternative. Also the half-verse boundary is a weak place to assume a lost visarga.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "append_note",
+      "text": "bhavet is singular, so prayojyā is f. nom. sg. agreeing with catuḥṣaṣṭiḥ; pravicāraṇā may likewise be read as printed, f. nom. sg., with etāḥ plural by sense."
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "ahorātram",
+     "problem": "gender missing; the note says masculine, the gram should say it (exception to the glossary's 'samāhāra, neuter').",
+     "fix": "m. acc. sg. (duration), dvandva (samāhāra; masculine by rule)",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "word",
+      "match_w": "ahorātram",
+      "field": "gram",
+      "value": "m. acc. sg. (duration), dvandva (samāhāra; masculine by rule)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Chunk 1 (Sū 13.1-34): 3 errors, 15 minor; no regrouping suggested. Errors: unit 3 Hindi adds तत्त्वों; unit 28 prayojyā is f. nom. sg. with bhavet (gram and w). Notes marked for removal/rewording as resting on knowledge outside the input: Vahniveśa=Agniveśa (units 3, 4), brackets as 'inserted passage' (12), ghee absorbing processed drugs (13), 'first dhātu' (14), 'probably meat-juice' (23). The text_flag va->vā (unit 20) stands: supported by grammar and the parallel vā in the same line. Plant identifications (unit 10), season/month equivalents (18) and uttarabasti (24) are kept, as DRAFT_BRIEF rule 7 and the glossary allow tagged standard identifications in notes. Glossary rules checked: no violations found beyond the ahorātra gender label. Confidence ratings are honest; no uncertain lines."
+}

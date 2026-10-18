@@ -1,0 +1,124 @@
+[
+ {
+  "n": "69",
+  "field": "notes",
+  "old": "grahaṇī is kept as Sanskrit (the seat of digestion holding the digestive fire). udīrṇapittālpakaphā and mandamārutā are bahuvrīhis agreeing with grahaṇī.",
+  "new": "grahaṇī is kept as Sanskrit (seat of digestion). udīrṇapittālpakaphā and mandamārutā are bahuvrīhis agreeing with grahaṇī.",
+  "why": "reviewer (minor): The function of grahaṇī as holder of the digestive fire is not stated in this chunk; it rests on other passages/tradition not shown in the input. Mark for removal."
+ },
+ {
+  "n": "76",
+  "field": "notes",
+  "old": "Completes the list begun in 75. jaṭhara here = disease of the abdomen (udara). staimitya: a feeling of numb heaviness, as if wrapped in wet cloth. vibhrama = error, wrong handling.",
+  "new": "Completes the list begun in 75. jaṭhara here = disease of the abdomen (udara). staimitya: a feeling of numb heaviness. vibhrama = error, wrong handling.",
+  "why": "reviewer (minor): 'as if wrapped in wet cloth' is a commentator's description, not in the input. Mark for removal."
+ },
+ {
+  "n": "77",
+  "field": "notes",
+  "old": "prati prati is read distributively ('case by case', 'according to each'). sraṃsana is a mild purgation that expels what is ready to pass.",
+  "new": "prati prati is read distributively ('case by case', 'according to each').",
+  "why": "reviewer (minor): The definition 'mild purgation that expels what is ready to pass' comes from a later text/commentary, not the input. Mark for removal."
+ },
+ {
+  "n": "80",
+  "field": "word.gram",
+  "word": "tri-aham",
+  "old": "n. acc. sg. (duration)",
+  "new": "m. acc. sg. dvigu (duration)",
+  "why": "reviewer (error): tryaha (period of three days) is masculine, like ekāha in 81 (compounds in -aha are masculine); 'n. acc. sg.' is wrong."
+ },
+ {
+  "n": "80",
+  "field": "notes",
+  "old": "snehavat, drava and uṣṇa are taken with rasaudanam. snehāt 'after the oleation' (ablative of starting point).",
+  "new": "snehavat, drava and uṣṇa are taken with rasaudanam. snehāt is the ablative with uparataḥ: 'having ceased from oleation for three nights'.",
+  "why": "reviewer (minor): snehāt is the ablative governed by uparataḥ ('having ceased from oleation'), not a loose 'after'; the English is near enough but the note's 'ablative of starting point' should say it depends on uparataḥ."
+ },
+ {
+  "n": "85",
+  "field": "notes",
+  "old": "Line b is printed as one unbroken word without spaces; the split is made inside the single token. pūrvam may mean 'before (the meal)'. kṛśarā: rice cooked with pulse; kāmbalikā: a sour preparation (kept as Sanskrit). phāṇita: inspissated sugar-cane juice. tila = sesame, Sesamum indicum, Hindi तिल (standard).",
+  "new": "Line b is printed as one unbroken word without spaces; the split is made inside the single token. pūrvam may mean 'before (the meal)'. kṛśarā: rice cooked with pulse; kāmbalikā: kept as Sanskrit. phāṇita: inspissated sugar-cane juice. tila = sesame, Sesamum indicum, Hindi तिल (standard).",
+  "why": "reviewer (minor): 'a sour preparation' is a commentator's explanation not supported by the input. Mark for removal (keep Sanskrit only)."
+ },
+ {
+  "n": "86",
+  "field": "notes",
+  "old": "bhṛtaiḥ (ppp. of √bhṛ 'borne, filled, nourished') is unclear here; 'prepared, cooked' is a guess from context and is marked uncertain. śṛṅgavera = fresh ginger, Zingiber officinale, Hindi अदरक (standard).",
+  "new": "bhṛtaiḥ (ppp. of √bhṛ 'borne, filled, nourished') is unclear here; 'prepared, cooked' is a guess from context and is marked uncertain. śṛṅgavera = fresh ginger, Zingiber officinale, Hindi अदरक (standard). bhṛtair māṃsaiḥ may also be construed with pibet rather than with bhojanam.",
+  "why": "reviewer (minor): The note marks bhṛta as uncertain but does not say that 'bhṛtair māṃsaiḥ' can also go with pibet (drink with meats) rather than with the later meal."
+ },
+ {
+  "n": "89",
+  "field": "word.w",
+  "word": "pāñca-prasṛtikī",
+  "old": "pāñca-prasṛtikī",
+  "new": "pāñcaprasṛtikī",
+  "why": "reviewer (minor): pāñcaprasṛtikī is a taddhita (vṛddhi) derivative of the dvigu pañca-prasṛta; 'pāñca' is not a compound member. Same in 90."
+ },
+ {
+  "n": "90",
+  "field": "word.w",
+  "word": "pāñca-prasṛtikī",
+  "old": "pāñca-prasṛtikī",
+  "new": "pāñcaprasṛtikī",
+  "why": "reviewer (minor): Same as 89: taddhita of pañca-prasṛta, not a compound with 'pāñca'."
+ },
+ {
+  "n": "92",
+  "field": "english",
+  "old": "He should oleate them, as appropriate, with fats that cause no disorder, prepared with pippalī or with harītakī, or also prepared with triphalā.",
+  "new": "He should oleate them, as appropriate, with fats that cause no disorder, prepared with pippalī and harītakī, or also prepared with triphalā.",
+  "why": "reviewer (minor): The Sanskrit has no 'or' between pippalī and harītakī (only triphalayāpi vā is the alternative); 'or' is added in English and 'या' in Hindi."
+ },
+ {
+  "n": "92",
+  "field": "hindi",
+  "old": "उन्हें यथायोग्य, विकार न करने वाले, पिप्पली या हरीतकी से सिद्ध, अथवा त्रिफला से भी सिद्ध स्नेहों द्वारा स्निग्ध करे।",
+  "new": "उन्हें यथायोग्य, विकार न करने वाले, पिप्पली और हरीतकी से सिद्ध, अथवा त्रिफला से भी सिद्ध स्नेहों द्वारा स्निग्ध करे।",
+  "why": "reviewer (minor): Same added 'or'."
+ },
+ {
+  "n": "92",
+  "field": "notes",
+  "old": "tān refers to the patients of 91b (those with kuṣṭha, śotha, prameha). Identifications: pippalī = long pepper, Piper longum, Hindi पीपल (standard); harītakī = Terminalia chebula, Hindi हरड़ (standard).",
+  "new": "tān refers to the patients of 91b (those with kuṣṭha, śotha, prameha). Identifications: pippalī = long pepper, Piper longum, Hindi पीपर (पिप्पली) (standard); harītakī = Terminalia chebula, Hindi हरड़ (standard).",
+  "why": "reviewer (minor): पीपल ordinarily names the peepal tree (Ficus religiosa); the Hindi for long pepper is पीपर / पिप्पली."
+ },
+ {
+  "n": "93",
+  "field": "notes",
+  "old": "vyoṣagarbha: with vyoṣa (the three pungents) as the paste in the preparation. Identifications: drākṣā = grape, Vitis vinifera (standard); āmalaka = Indian gooseberry, Phyllanthus emblica, Hindi आँवला (standard).",
+  "new": "vyoṣagarbha: with vyoṣa (the three pungents) inside it. Identifications: drākṣā = grape, Vitis vinifera (standard); āmalaka = Indian gooseberry, Phyllanthus emblica, Hindi आँवला (standard).",
+  "why": "reviewer (minor): 'as the paste in the preparation' (garbha = kalka) is a technical interpretation not shown in the input; the line only says 'with vyoṣa inside it'. Mark for removal."
+ },
+ {
+  "n": "97",
+  "field": "notes",
+  "old": "vākledya is split vā + akledya (negated absolutive of the causative of √klid, 'without wetting'); sravati belongs to the water of line a, sraṃsate to the fat.",
+  "new": "vākledya is split vā + akledya (negated absolutive of the causative of √klid, 'without wetting'); sravati belongs to the water of line a, sraṃsate to the fat. Alternatively vā + ākledya (abs. caus. ā-√klid, 'having (only) moistened' the clod), the grammatically regular form; a negated absolutive in -ya is irregular.",
+  "why": "reviewer (minor): A negated absolutive in -ya (a- + lyap) is irregular (nañ-compounds take -tvā); the grammatically regular split is vā + ākledya 'having moistened' (ā-√klid caus.): water poured hastily runs off after only wetting the clod. The note should give this alternative."
+ },
+ {
+  "n": "98",
+  "field": "notes",
+  "old": "tat (n.) refers to lavaṇa (salt). abhiṣyandin: causing oozing or moistening of the channels; vyavāyin: pervading the body before being digested.",
+  "new": "tat (n.) refers to lavaṇa (salt). abhiṣyandin: causing oozing or moistening; vyavāyin: pervading, spreading through the body.",
+  "why": "reviewer (minor): 'of the channels' and 'before being digested' are technical definitions from other texts/commentary, not in the input. Mark for removal."
+ },
+ {
+  "n": "100",
+  "field": "english",
+  "old": "The fats, the method of oleation, and the complete successful treatment (siddhi) of ill effects together with medicines: (all this) was declared, according to the questions, by the venerable Cāndrabhāgi.",
+  "new": "The fats, the method of oleation, and the complete success (siddhi) over ill effects together with medicines: (all this) was declared, according to the questions, by the venerable Cāndrabhāgi.",
+  "why": "reviewer (minor): Glossary: siddhi = success."
+ },
+ {
+  "n": "P2",
+  "field": "notes",
+  "old": "Chapter colophon; the Sanskrit has no verb and the translation keeps it verbless. Ślokasthāna is another name of the Sūtrasthāna; not flagged.",
+  "new": "Chapter colophon; the Sanskrit has no verb and the translation keeps it verbless.",
+  "why": "reviewer (minor): That Ślokasthāna is another name of the Sūtrasthāna is outside knowledge not shown in the input. Mark for removal."
+ }
+]

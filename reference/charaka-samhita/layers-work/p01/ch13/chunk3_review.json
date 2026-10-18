@@ -1,0 +1,439 @@
+{
+ "units": [
+  {
+   "n": "69",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "'holding the digestive fire'",
+     "problem": "The function of grahaṇī as holder of the digestive fire is not stated in this chunk; it rests on other passages/tradition not shown in the input. Mark for removal.",
+     "fix": "Drop '(the seat of digestion holding the digestive fire)'; keep 'grahaṇī is kept as Sanskrit (seat of digestion).'",
+     "severity": "minor",
+     "patch": {
+      "n": "69",
+      "op": "replace",
+      "field": "notes",
+      "old": "(the seat of digestion holding the digestive fire)",
+      "new": "(seat of digestion)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "70",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "71",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "72",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "73",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "74",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "sāme (suggest)",
+     "problem": "The metre shows the second quarter 'sāme viśeṣataḥ' is two syllables short, but nothing in the chunk shows the gap is before sāme; the location in 'suggest' is a guess.",
+     "fix": "suggest: '(two syllables missing in the second quarter, sāme viśeṣataḥ)'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "75",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "76",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "staimitya",
+     "problem": "'as if wrapped in wet cloth' is a commentator's description, not in the input. Mark for removal.",
+     "fix": "staimitya: numb heaviness.",
+     "severity": "minor",
+     "patch": {
+      "n": "76",
+      "op": "replace",
+      "field": "notes",
+      "old": "a feeling of numb heaviness, as if wrapped in wet cloth",
+      "new": "a feeling of numb heaviness"
+     }
+    }
+   ]
+  },
+  {
+   "n": "77",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "sraṃsana",
+     "problem": "The definition 'mild purgation that expels what is ready to pass' comes from a later text/commentary, not the input. Mark for removal.",
+     "fix": "Delete the sentence on sraṃsana.",
+     "severity": "minor",
+     "patch": {
+      "n": "77",
+      "op": "replace",
+      "field": "notes",
+      "old": " sraṃsana is a mild purgation that expels what is ready to pass.",
+      "new": ""
+     }
+    }
+   ]
+  },
+  {
+   "n": "78",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "79",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "80",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tri-aham",
+     "problem": "tryaha (period of three days) is masculine, like ekāha in 81 (compounds in -aha are masculine); 'n. acc. sg.' is wrong.",
+     "fix": "m. acc. sg. dvigu (duration)",
+     "severity": "error",
+     "patch": {
+      "n": "80",
+      "op": "word",
+      "match_w": "tri-aham",
+      "field": "gram",
+      "value": "m. acc. sg. dvigu (duration)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "snehāt ... trirātroparataḥ",
+     "problem": "snehāt is the ablative governed by uparataḥ ('having ceased from oleation'), not a loose 'after'; the English is near enough but the note's 'ablative of starting point' should say it depends on uparataḥ.",
+     "fix": "note: 'snehāt is the ablative with uparataḥ: having ceased from oleation for three nights.'",
+     "severity": "minor",
+     "patch": {
+      "n": "80",
+      "op": "replace",
+      "field": "notes",
+      "old": "snehāt 'after the oleation' (ablative of starting point).",
+      "new": "snehāt is the ablative with uparataḥ: 'having ceased from oleation for three nights'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "81",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "82",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "83",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "gavyājairabhramātsyāśca",
+     "problem": "Missing text_flag. āja + aurabhra gives ājaurabhra (a + au = au), so the printed 'ājair-' (Devanagari जै for जौ) is a slip; the draft silently uses aurabhra in the split and its own note derives aurabhra from urabhra. Metre unaffected.",
+     "fix": "text_flags: [{\"src\":\"gavyājairabhramātsyāśca\",\"suggest\":\"gavyājaurabhramātsyāśca\",\"why\":\"āja + aurabhra (from urabhra, sheep) gives ājaurabhra; printed ai for au is a possible typing slip (जै/जौ); metre unaffected.\"}]",
+     "severity": "error"
+    }
+   ]
+  },
+  {
+   "n": "84",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "85",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "kāmbalikā",
+     "problem": "'a sour preparation' is a commentator's explanation not supported by the input. Mark for removal (keep Sanskrit only).",
+     "fix": "kāmbalikā: kept as Sanskrit.",
+     "severity": "minor",
+     "patch": {
+      "n": "85",
+      "op": "replace",
+      "field": "notes",
+      "old": "kāmbalikā: a sour preparation (kept as Sanskrit).",
+      "new": "kāmbalikā: kept as Sanskrit."
+     }
+    }
+   ]
+  },
+  {
+   "n": "86",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "bhṛtair māṃsaiḥ",
+     "problem": "The note marks bhṛta as uncertain but does not say that 'bhṛtair māṃsaiḥ' can also go with pibet (drink with meats) rather than with the later meal.",
+     "fix": "Append: 'bhṛtair māṃsaiḥ may also be construed with pibet.'",
+     "severity": "minor",
+     "patch": {
+      "n": "86",
+      "op": "append_note",
+      "text": "bhṛtair māṃsaiḥ may also be construed with pibet rather than with bhojanam."
+     }
+    }
+   ]
+  },
+  {
+   "n": "87",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "88",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "89",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "pāñca-prasṛtikī",
+     "problem": "pāñcaprasṛtikī is a taddhita (vṛddhi) derivative of the dvigu pañca-prasṛta; 'pāñca' is not a compound member. Same in 90.",
+     "fix": "w: pāñcaprasṛtikī, gram: f. nom. sg. (taddhita from pañca-prasṛta)",
+     "severity": "minor",
+     "patch": {
+      "n": "89",
+      "op": "word",
+      "match_w": "pāñca-prasṛtikī",
+      "field": "w",
+      "value": "pāñcaprasṛtikī"
+     }
+    }
+   ]
+  },
+  {
+   "n": "90",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "pāñca-prasṛtikī",
+     "problem": "Same as 89: taddhita of pañca-prasṛta, not a compound with 'pāñca'.",
+     "fix": "w: pāñcaprasṛtikī",
+     "severity": "minor",
+     "patch": {
+      "n": "90",
+      "op": "word",
+      "match_w": "pāñca-prasṛtikī",
+      "field": "w",
+      "value": "pāñcaprasṛtikī"
+     }
+    }
+   ]
+  },
+  {
+   "n": "91",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "92",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "pippalībhir harītakyā",
+     "problem": "The Sanskrit has no 'or' between pippalī and harītakī (only triphalayāpi vā is the alternative); 'or' is added in English and 'या' in Hindi.",
+     "fix": "'prepared with pippalī and harītakī, or also prepared with triphalā'",
+     "severity": "minor",
+     "patch": {
+      "n": "92",
+      "op": "replace",
+      "field": "english",
+      "old": "prepared with pippalī or with harītakī",
+      "new": "prepared with pippalī and harītakī"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पिप्पली या हरीतकी",
+     "problem": "Same added 'or'.",
+     "fix": "पिप्पली और हरीतकी",
+     "severity": "minor",
+     "patch": {
+      "n": "92",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पिप्पली या हरीतकी",
+      "new": "पिप्पली और हरीतकी"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "Hindi पीपल",
+     "problem": "पीपल ordinarily names the peepal tree (Ficus religiosa); the Hindi for long pepper is पीपर / पिप्पली.",
+     "fix": "Hindi पीपर (पिप्पली)",
+     "severity": "minor",
+     "patch": {
+      "n": "92",
+      "op": "replace",
+      "field": "notes",
+      "old": "Hindi पीपल",
+      "new": "Hindi पीपर (पिप्पली)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "93",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "vyoṣagarbha",
+     "problem": "'as the paste in the preparation' (garbha = kalka) is a technical interpretation not shown in the input; the line only says 'with vyoṣa inside it'. Mark for removal.",
+     "fix": "vyoṣagarbha: with vyoṣa (the three pungents) inside it.",
+     "severity": "minor",
+     "patch": {
+      "n": "93",
+      "op": "replace",
+      "field": "notes",
+      "old": "as the paste in the preparation",
+      "new": "inside it"
+     }
+    }
+   ]
+  },
+  {
+   "n": "94",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "95",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "96",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "97",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "a-kledya",
+     "problem": "A negated absolutive in -ya (a- + lyap) is irregular (nañ-compounds take -tvā); the grammatically regular split is vā + ākledya 'having moistened' (ā-√klid caus.): water poured hastily runs off after only wetting the clod. The note should give this alternative.",
+     "fix": "Append: 'Alternatively vā + ākledya (abs. caus. ā-√klid, having (only) moistened), which is the regular form; a negated -ya absolutive is irregular.'",
+     "severity": "minor",
+     "patch": {
+      "n": "97",
+      "op": "append_note",
+      "text": "Alternatively vā + ākledya (abs. caus. ā-√klid, 'having (only) moistened' the clod), the grammatically regular form; a negated absolutive in -ya is irregular."
+     }
+    }
+   ]
+  },
+  {
+   "n": "98",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "abhiṣyandin / vyavāyin",
+     "problem": "'of the channels' and 'before being digested' are technical definitions from other texts/commentary, not in the input. Mark for removal.",
+     "fix": "abhiṣyandin: causing oozing or moistening; vyavāyin: pervading the body.",
+     "severity": "minor",
+     "patch": {
+      "n": "98",
+      "op": "replace",
+      "field": "notes",
+      "old": "causing oozing or moistening of the channels; vyavāyin: pervading the body before being digested.",
+      "new": "causing oozing or moistening; vyavāyin: pervading, spreading through the body."
+     }
+    }
+   ]
+  },
+  {
+   "n": "99",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "100",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "successful treatment (siddhi)",
+     "problem": "Glossary: siddhi = success.",
+     "fix": "'the complete success (siddhi) over ill effects'",
+     "severity": "minor",
+     "patch": {
+      "n": "100",
+      "op": "replace",
+      "field": "english",
+      "old": "the complete successful treatment (siddhi) of ill effects",
+      "new": "the complete success (siddhi) over ill effects"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "Ślokasthāna = Sūtrasthāna",
+     "problem": "That Ślokasthāna is another name of the Sūtrasthāna is outside knowledge not shown in the input. Mark for removal.",
+     "fix": "Delete the sentence.",
+     "severity": "minor",
+     "patch": {
+      "n": "P2",
+      "op": "replace",
+      "field": "notes",
+      "old": " Ślokasthāna is another name of the Sūtrasthāna; not flagged.",
+      "new": ""
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "2 errors, 17 minor across 16 units of 34. Errors: 83 missing text_flag (ājair- for ājaur-, silently corrected in split); 80 tryaha gender (m., not n.). Minor: memory/commentary-sourced notes marked for removal in 69, 76, 77, 85, 93, 98, P2; added 'or' in 92 (en+hi); Hindi पीपल for pippalī; pāñcaprasṛtikī split as compound (89, 90); 97 regular alternative vā+ākledya; 74 flag location guess; 86 construal; 100 siddhi glossary. Existing text_flags (74 metre gap, hantvā, 77 tatrapy-, 82 snehavityā) are supported by metre/grammar/in-chunk parallels. Regrouping: agree with the draft's GROUPING note for 90 (bracketed lines c-d as their own unit 90.1); no other regrouping. All layers remain unreviewed AI drafts."
+}
