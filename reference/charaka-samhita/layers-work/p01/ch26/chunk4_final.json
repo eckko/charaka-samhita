@@ -1,0 +1,4712 @@
+[
+ {
+  "n": "P29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mayūramāṃsameraṇḍasīsakāvasaktameraṇdāgnipluṣṭameraṇḍatailayuktaṃ",
+      "words": [
+       {
+        "w": "mayūra-māṃsam",
+        "gloss": "peacock meat",
+        "gram": "n. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "eraṇḍa-sīsaka-avasaktam",
+        "gloss": "fixed on a castor sīsaka",
+        "gram": "n. nom. sg., tat-puruṣa, ppp. ava-√sañj"
+       },
+       {
+        "w": "eraṇḍa-agni-pluṣṭam",
+        "gloss": "scorched on a castor fire",
+        "gram": "n. nom. sg., tat-puruṣa, ppp. √pluṣ"
+       },
+       {
+        "w": "eraṇḍa-taila-yuktam",
+        "gloss": "combined with castor oil",
+        "gram": "n. nom. sg., tat-puruṣa, ppp. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "sadyo",
+      "words": [
+       {
+        "w": "sadyaḥ",
+        "gloss": "at once",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vyāpādayati",
+      "words": [
+       {
+        "w": "vyāpādayati",
+        "gloss": "kills",
+        "gram": "3 sg. pres. caus. vi-ā-√pad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "एरण्ड के सीसक पर लगाया गया, एरण्ड की आग पर भूना गया और एरण्ड के तेल से युक्त मोर का मांस तुरन्त मार डालता है।",
+  "english": "Peacock meat fixed on a castor (eraṇḍa) sīsaka, scorched on a castor fire and combined with castor oil, kills at once.",
+  "text_flags": [
+   {
+    "src": "mayūramāṃsameraṇḍasīsakāvasaktameraṇdāgnipluṣṭameraṇḍatailayuktaṃ",
+    "suggest": "mayūramāṃsameraṇḍasīsakāvasaktameraṇḍāgnipluṣṭameraṇḍatailayuktaṃ",
+    "why": "the same word is printed eraṇḍa (retroflex ḍa) twice in this line; ṇd is a typing slip"
+   }
+  ],
+  "notes": "sīsaka ordinarily means lead; with avasakta 'fixed on, hung on' and the castor fire in the same line it seems here to mean a spit or skewer, but the meaning is uncertain and the word is kept in both translations. Prose line.",
+  "confidence": "medium",
+  "type": "prose",
+  "line_ids": [
+   "01.26.P29"
+  ],
+  "lines_deva": [
+   "मयूरमांसमेरण्डसीसकावसक्तमेरण्दाग्निप्लुष्टमेरण्डतैलयुक्तं सद्यो व्यापादयति"
+  ],
+  "lines_iast": [
+   "mayūramāṃsameraṇḍasīsakāvasaktameraṇdāgnipluṣṭameraṇḍatailayuktaṃ sadyo vyāpādayati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "P30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "hāridrakamāṃsaṃ",
+      "words": [
+       {
+        "w": "hāridraka-māṃsam",
+        "gloss": "hāridraka meat",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "hāridrasīsakāvasaktaṃ",
+      "words": [
+       {
+        "w": "hāridra-sīsaka-avasaktam",
+        "gloss": "fixed on a hāridra sīsaka",
+        "gram": "n. nom. sg., tat-puruṣa, ppp. ava-√sañj"
+       }
+      ]
+     },
+     {
+      "src": "hāridrāgnipluṣṭaṃ",
+      "words": [
+       {
+        "w": "hāridra-agni-pluṣṭam",
+        "gloss": "scorched on a hāridra fire",
+        "gram": "n. nom. sg., tat-puruṣa, ppp. √pluṣ"
+       }
+      ]
+     },
+     {
+      "src": "sadyo",
+      "words": [
+       {
+        "w": "sadyaḥ",
+        "gloss": "at once",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vyāpādayati",
+      "words": [
+       {
+        "w": "vyāpādayati",
+        "gloss": "kills",
+        "gram": "3 sg. pres. caus. vi-ā-√pad"
+       }
+      ]
+     },
+     {
+      "src": "tadeva",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "same, just",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhasmapāṃśuparidhvastaṃ",
+      "words": [
+       {
+        "w": "bhasma-pāṃśu-paridhvastam",
+        "gloss": "covered with ash and dust",
+        "gram": "n. nom. sg., tat-puruṣa (dvandva first member), ppp. pari-√dhvaṃs"
+       }
+      ]
+     },
+     {
+      "src": "sakṣaudraṃ",
+      "words": [
+       {
+        "w": "sa-kṣaudram",
+        "gloss": "with honey",
+        "gram": "n. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sadyo",
+      "words": [
+       {
+        "w": "sadyaḥ",
+        "gloss": "immediate",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "maraṇāya",
+      "words": [
+       {
+        "w": "maraṇāya",
+        "gloss": "for death",
+        "gram": "n. dat. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हारिद्रक का मांस, हारिद्र के सीसक पर लगाया गया और हारिद्र की आग पर भूना गया, तुरन्त मार डालता है; वही राख और धूल से ढका हुआ, शहद के साथ, तत्काल मृत्यु के लिए होता है।",
+  "english": "Hāridraka meat fixed on a hāridra sīsaka and scorched on a hāridra fire kills at once; that same (meat), covered with ash and dust and taken with honey, is for immediate death.",
+  "text_flags": [],
+  "notes": "hāridraka (the animal whose meat is meant) and hāridra (the wood of the spit and fire) are left unidentified; hāridra is formally 'of haridrā'. sīsaka as in P29: meaning uncertain (lead, or here a spit). Prose line.",
+  "confidence": "medium",
+  "type": "prose",
+  "line_ids": [
+   "01.26.P30"
+  ],
+  "lines_deva": [
+   "हारिद्रकमांसं हारिद्रसीसकावसक्तं हारिद्राग्निप्लुष्टं सद्यो व्यापादयति तदेव भस्मपांशुपरिध्वस्तं सक्षौद्रं सद्यो मरणाय"
+  ],
+  "lines_iast": [
+   "hāridrakamāṃsaṃ hāridrasīsakāvasaktaṃ hāridrāgnipluṣṭaṃ sadyo vyāpādayati tadeva bhasmapāṃśuparidhvastaṃ sakṣaudraṃ sadyo maraṇāya"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "P31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "matsyanistālanasiddhāḥ",
+      "words": [
+       {
+        "w": "matsya-nistālana-siddhāḥ",
+        "gloss": "prepared in the frying of fish",
+        "gram": "f. nom. pl., tat-puruṣa, ppp. √sidh"
+       }
+      ]
+     },
+     {
+      "src": "pippalyastathā",
+      "words": [
+       {
+        "w": "pippalyaḥ",
+        "gloss": "long peppers (pippalī)",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kākamācī",
+      "words": [
+       {
+        "w": "kākamācī",
+        "gloss": "kākamācī",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhu",
+      "words": [
+       {
+        "w": "madhu",
+        "gloss": "honey",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "maraṇāya",
+      "words": [
+       {
+        "w": "maraṇāya",
+        "gloss": "for death",
+        "gram": "n. dat. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मत्स्य-निस्तालन में सिद्ध की गई पिप्पलियाँ, तथा काकमाची और मधु (साथ में) मृत्यु के लिए होते हैं।",
+  "english": "Long peppers (pippalī) prepared in the frying of fish (matsyanistālana), and likewise kākamācī and honey (together), lead to death.",
+  "text_flags": [],
+  "notes": "nistālana is taken as 'frying' from the context of cooking; the medium (the oil or the pan used for the fish) is not stated, and the word's exact sense is uncertain. Whether kākamācī and honey are meant together (as a combination) or each separately is not explicit; the combination reading fits the list of incompatible pairs. pippalī = Piper longum (standard). Prose line.",
+  "confidence": "medium",
+  "type": "prose",
+  "line_ids": [
+   "01.26.P31"
+  ],
+  "lines_deva": [
+   "मत्स्यनिस्तालनसिद्धाः पिप्पल्यस्तथा काकमाची मधु च मरणाय"
+  ],
+  "lines_iast": [
+   "matsyanistālanasiddhāḥ pippalyastathā kākamācī madhu ca maraṇāya"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "P32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "madhu",
+      "words": [
+       {
+        "w": "madhu",
+        "gloss": "honey",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "coṣṇamuṣṇārtasya",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "uṣṇam",
+        "gloss": "hot",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "uṣṇa-ārtasya",
+        "gloss": "for one afflicted by heat",
+        "gram": "m. gen. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "madhu",
+      "words": [
+       {
+        "w": "madhu",
+        "gloss": "honey",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "maraṇāya",
+      "words": [
+       {
+        "w": "maraṇāya",
+        "gloss": "for death",
+        "gram": "n. dat. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और उष्ण मधु, और उष्णता से पीड़ित व्यक्ति के लिए मधु, मृत्यु के लिए होता है।",
+  "english": "Hot honey, and honey for one afflicted by heat, lead to death.",
+  "text_flags": [],
+  "notes": "The opening ca links this line to the preceding list. Prose line.",
+  "confidence": "high",
+  "type": "prose",
+  "line_ids": [
+   "01.26.P32"
+  ],
+  "lines_deva": [
+   "मधु चोष्णमुष्णार्तस्य च मधु मरणाय"
+  ],
+  "lines_iast": [
+   "madhu coṣṇamuṣṇārtasya ca madhu maraṇāya"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "P33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "madhusarpiṣī",
+      "words": [
+       {
+        "w": "madhu-sarpiṣī",
+        "gloss": "honey and ghee",
+        "gram": "n. nom. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "samadhṛte",
+      "words": [
+       {
+        "w": "sama-dhṛte",
+        "gloss": "in equal measure",
+        "gram": "n. nom. du., ppp. √dhṛ"
+       }
+      ]
+     },
+     {
+      "src": "madhu",
+      "words": [
+       {
+        "w": "madhu",
+        "gloss": "honey",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāri",
+      "words": [
+       {
+        "w": "vāri",
+        "gloss": "water",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "cāntarikṣaṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "āntarikṣam",
+        "gloss": "of the sky (rain)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "samadhṛtaṃ",
+      "words": [
+       {
+        "w": "sama-dhṛtam",
+        "gloss": "in equal measure",
+        "gram": "n. nom. sg., ppp. √dhṛ"
+       }
+      ]
+     },
+     {
+      "src": "madhu",
+      "words": [
+       {
+        "w": "madhu",
+        "gloss": "honey",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "puṣkarabījaṃ",
+      "words": [
+       {
+        "w": "puṣkara-bījam",
+        "gloss": "lotus seed",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "madhu",
+      "words": [
+       {
+        "w": "madhu",
+        "gloss": "honey",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pītvoṣṇodakaṃ",
+      "words": [
+       {
+        "w": "pītvā",
+        "gloss": "having drunk",
+        "gram": "abs. √pā"
+       },
+       {
+        "w": "uṣṇa-udakam",
+        "gloss": "hot water",
+        "gram": "n. nom. sg., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "bhallātakoṣṇodakaṃ",
+      "words": [
+       {
+        "w": "bhallātaka-uṣṇa-udakam",
+        "gloss": "bhallātaka with hot water",
+        "gram": "n. nom. sg., dvandva (samāhāra)"
+       }
+      ]
+     },
+     {
+      "src": "takrasiddhaḥ",
+      "words": [
+       {
+        "w": "takra-siddhaḥ",
+        "gloss": "prepared in buttermilk",
+        "gram": "m. nom. sg., tat-puruṣa, ppp. √sidh"
+       }
+      ]
+     },
+     {
+      "src": "kampillakaḥ",
+      "words": [
+       {
+        "w": "kampillakaḥ",
+        "gloss": "kampillaka",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "paryuṣitā",
+      "words": [
+       {
+        "w": "paryuṣitā",
+        "gloss": "stale",
+        "gram": "f. nom. sg., ppp. pari-√vas"
+       }
+      ]
+     },
+     {
+      "src": "kākamācī",
+      "words": [
+       {
+        "w": "kākamācī",
+        "gloss": "kākamācī",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "aṅgāraśūlyo",
+      "words": [
+       {
+        "w": "aṅgāra-śūlyaḥ",
+        "gloss": "roasted on a spit over charcoal",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhāsaśceti",
+      "words": [
+       {
+        "w": "bhāsaḥ",
+        "gloss": "bhāsa",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (closing the list)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viruddhāni",
+      "words": [
+       {
+        "w": "viruddhāni",
+        "gloss": "incompatible",
+        "gram": "n. nom. pl., ppp. vi-√rudh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "समान मात्रा में मधु और घी; मधु और आन्तरिक्ष जल समान मात्रा में; मधु और पुष्कर-बीज; मधु पीकर उष्ण जल; भल्लातक और उष्ण जल; तक्र में सिद्ध कम्पिल्लक; बासी काकमाची; और अङ्गारों पर सलाख पर भुना भास — ये विरुद्ध हैं।",
+  "english": "Honey and ghee in equal measure; honey and rain-water in equal measure; honey and lotus seed (puṣkarabīja); hot water after drinking honey; bhallātaka with hot water; kampillaka prepared in buttermilk; stale kākamācī; and bhāsa roasted on a spit over charcoal: these are incompatible.",
+  "text_flags": [],
+  "notes": "vāri āntarikṣam = rain-water (water from the sky). bhāsa is an animal whose meat is meant (roasted on a spit); left unidentified. bhallātakoṣṇodakam is split as one samāhāra unit 'bhallātaka with hot water' by analogy with the pairs before it. Prose line.",
+  "confidence": "medium",
+  "type": "prose",
+  "line_ids": [
+   "01.26.P33"
+  ],
+  "lines_deva": [
+   "मधुसर्पिषी समधृते मधु वारि चान्तरिक्षं समधृतं मधु पुष्करबीजं मधु पीत्वोष्णोदकं भल्लातकोष्णोदकं तक्रसिद्धः कम्पिल्लकः पर्युषिता काकमाची अङ्गारशूल्यो भासश्चेति विरुद्धानि"
+  ],
+  "lines_iast": [
+   "madhusarpiṣī samadhṛte madhu vāri cāntarikṣaṃ samadhṛtaṃ madhu puṣkarabījaṃ madhu pītvoṣṇodakaṃ bhallātakoṣṇodakaṃ takrasiddhaḥ kampillakaḥ paryuṣitā kākamācī aṅgāraśūlyo bhāsaśceti viruddhāni"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "P34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ityetadyathāpraśnamabhinirdiṣtāṃ",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "etat",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "yathā-praśnam",
+        "gloss": "according to the question",
+        "gram": "ind., avyayībhāva"
+       },
+       {
+        "w": "abhinirdiṣṭam",
+        "gloss": "set out",
+        "gram": "n. nom. sg., ppp. abhi-nis-√diś"
+       }
+      ]
+     },
+     {
+      "src": "bhavatīti",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is",
+        "gram": "3 sg. pres. √bhū"
+       },
+       {
+        "w": "iti",
+        "gloss": "(end of the statement)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार यह प्रश्न के अनुसार निर्दिष्ट हो गया है।",
+  "english": "Thus this has been set out according to the question.",
+  "text_flags": [
+   {
+    "src": "ityetadyathāpraśnamabhinirdiṣtāṃ",
+    "suggest": "ityetadyathāpraśnamabhinirdiṣṭaṃ",
+    "why": "the participle must agree with etad (n. nom. sg.), so -aṃ not -āṃ; and ṣt is not a possible cluster (ṣṭ)"
+   }
+  ],
+  "notes": "Prose line.",
+  "confidence": "high",
+  "type": "prose",
+  "line_ids": [
+   "01.26.P34"
+  ],
+  "lines_deva": [
+   "इत्येतद्यथाप्रश्नमभिनिर्दिष्तां भवतीति"
+  ],
+  "lines_iast": [
+   "ityetadyathāpraśnamabhinirdiṣtāṃ bhavatīti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "85",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhavanti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "there are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "cātra",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "atra",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yat",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "whatever",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kiñciddoṣamāsrāvya",
+      "words": [
+       {
+        "w": "kiñcit",
+        "gloss": "any",
+        "gram": "n. nom. sg. (indef., with yat)"
+       },
+       {
+        "w": "doṣam",
+        "gloss": "a doṣa",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āsrāvya",
+        "gloss": "having set flowing",
+        "gram": "abs. caus. ā-√sru"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nirharati",
+      "words": [
+       {
+        "w": "nirharati",
+        "gloss": "removes",
+        "gram": "3 sg. pres. nis-√hṛ"
+       }
+      ]
+     },
+     {
+      "src": "kāyataḥ",
+      "words": [
+       {
+        "w": "kāyataḥ",
+        "gloss": "from the body",
+        "gram": "ind. (abl. sense)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "āhārajātaṃ",
+      "words": [
+       {
+        "w": "āhāra-jātam",
+        "gloss": "kind of food",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tat",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvamahitāyopapadyate",
+      "words": [
+       {
+        "w": "sarvam",
+        "gloss": "all",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ahitāya",
+        "gloss": "for harm",
+        "gram": "n. dat. sg."
+       },
+       {
+        "w": "upapadyate",
+        "gloss": "turns out",
+        "gram": "3 sg. pres. mid. upa-√pad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और यहाँ (श्लोक) हैं: जो कोई भी आहार दोष को प्रवाहित करके उसे शरीर से बाहर नहीं निकालता, वह सब अहित के लिए होता है।",
+  "english": "And here there are: Whatever kind of food sets a doṣa flowing but does not remove it from the body, all that turns out to be harmful.",
+  "text_flags": [],
+  "notes": "āsrāvya (causative of ā-√sru) is taken literally as 'having set flowing', i.e. having stirred the doṣa from its place.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.26.85a",
+   "01.26.85b",
+   "01.26.85c"
+  ],
+  "lines_deva": [
+   "भवन्ति चात्र",
+   "यत् किञ्चिद्दोषमास्राव्य न निर्हरति कायतः",
+   "आहारजातं तत् सर्वमहितायोपपद्यते"
+  ],
+  "lines_iast": [
+   "bhavanti cātra",
+   "yat kiñciddoṣamāsrāvya na nirharati kāyataḥ",
+   "āhārajātaṃ tat sarvamahitāyopapadyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "86",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yaccāpi",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "what",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "deśakālāgnimātrāsātmyānilādibhiḥ",
+      "words": [
+       {
+        "w": "deśa-kāla-agni-mātrā-sātmya-anila-ādibhiḥ",
+        "gloss": "by place, time, digestive fire, measure, suitability, Vāta and the rest",
+        "gram": "m. inst. pl., dvandva ending in ādi (bahuvrīhi)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "saṃskārato",
+      "words": [
+       {
+        "w": "saṃskārataḥ",
+        "gloss": "by processing",
+        "gram": "ind. (-tas)"
+       }
+      ]
+     },
+     {
+      "src": "vīryataśca",
+      "words": [
+       {
+        "w": "vīryataḥ",
+        "gloss": "by potency (vīrya)",
+        "gram": "ind. (-tas)"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "koṣṭhāvasthākramairapi",
+      "words": [
+       {
+        "w": "koṣṭha-avasthā-kramaiḥ",
+        "gloss": "by bowel, state and sequence",
+        "gram": "m. inst. pl., dvandva"
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और जो भी देश, काल, अग्नि, मात्रा, सात्म्य, अनिल आदि से, संस्कार से और वीर्य से, तथा कोष्ठ, अवस्था और क्रम से भी (विरुद्ध हो),",
+  "english": "And that also which (is incompatible) by place, time, digestive fire, measure, suitability (sātmya), Vāta (anila) and the rest, by processing and by potency (vīrya), and also by bowel (koṣṭha), state and sequence,",
+  "text_flags": [],
+  "notes": "SENTENCE: 86 and 87 form one sentence; the main clause 'viruddhaṃ tac ca na hitam' is in 87. anila-ādi = Vāta and the other doṣas.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.26.86a",
+   "01.26.86b"
+  ],
+  "lines_deva": [
+   "यच्चापि देशकालाग्निमात्रासात्म्यानिलादिभिः",
+   "संस्कारतो वीर्यतश्च कोष्ठावस्थाक्रमैरपि"
+  ],
+  "lines_iast": [
+   "yaccāpi deśakālāgnimātrāsātmyānilādibhiḥ",
+   "saṃskārato vīryataśca koṣṭhāvasthākramairapi"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "87",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "parihāropacārābhyāṃ",
+      "words": [
+       {
+        "w": "parihāra-upacārābhyām",
+        "gloss": "by restriction and manner of use",
+        "gram": "m. inst. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "pākāt",
+      "words": [
+       {
+        "w": "pākāt",
+        "gloss": "by cooking",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃyogato'pi",
+      "words": [
+       {
+        "w": "saṃyogataḥ",
+        "gloss": "by combination",
+        "gram": "ind. (-tas)"
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "viruddhaṃ",
+      "words": [
+       {
+        "w": "viruddham",
+        "gloss": "incompatible",
+        "gram": "n. nom. sg., ppp. vi-√rudh"
+       }
+      ]
+     },
+     {
+      "src": "tacca",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hitaṃ",
+      "words": [
+       {
+        "w": "hitam",
+        "gloss": "wholesome",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hṛtsaṃpadvidhibhiśca",
+      "words": [
+       {
+        "w": "hṛt-saṃpad-vidhibhiḥ",
+        "gloss": "by heart, excellence and rule",
+        "gram": "m. inst. pl., dvandva"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yat",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "what",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "परिहार और उपचार से, पाक से और संयोग से भी (विरुद्ध हो), वह विरुद्ध है और हितकर नहीं है; तथा जो हृदय, सम्पत् और विधि से (विरुद्ध हो)।",
+  "english": "by restriction (parihāra) and manner of use (upacāra), by cooking and also by combination — that is incompatible and not wholesome, and (so is) what (is incompatible) by heart (hṛd), excellence (sampad) and rule (vidhi).",
+  "text_flags": [],
+  "notes": "SENTENCE: continues 86. COUNT: the list in 86-87 names eighteen kinds (place, time, agni, measure, sātmya, the doṣas, processing, potency, bowel, state, sequence, restriction, upacāra, cooking, combination, heart, excellence, rule). The definitions that follow (88-101) take them in this order, but upacāra has no separately named definition in this chunk; the second half of 98 (cold after ghee) may be meant for it. 'hṛtsaṃpadvidhibhiḥ' is grammatically gender-mixed; m. given for the plural compound.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.26.87a",
+   "01.26.87b"
+  ],
+  "lines_deva": [
+   "परिहारोपचाराभ्यां पाकात् संयोगतोऽपि च",
+   "विरुद्धं तच्च न हितं हृत्संपद्विधिभिश्च यत्"
+  ],
+  "lines_iast": [
+   "parihāropacārābhyāṃ pākāt saṃyogato'pi ca",
+   "viruddhaṃ tacca na hitaṃ hṛtsaṃpadvidhibhiśca yat"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "88",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viruddhaṃ",
+      "words": [
+       {
+        "w": "viruddham",
+        "gloss": "incompatible",
+        "gram": "n. nom. sg., ppp. vi-√rudh"
+       }
+      ]
+     },
+     {
+      "src": "deśatastāvadrūkṣatīkṣaṇādi",
+      "words": [
+       {
+        "w": "deśataḥ",
+        "gloss": "by place",
+        "gram": "ind. (-tas)"
+       },
+       {
+        "w": "tāvat",
+        "gloss": "first",
+        "gram": "ind."
+       },
+       {
+        "w": "rūkṣa-tīkṣṇa-ādi",
+        "gloss": "dry, sharp and the like",
+        "gram": "n. nom. sg., dvandva ending in ādi"
+       }
+      ]
+     },
+     {
+      "src": "dhanvani",
+      "words": [
+       {
+        "w": "dhanvani",
+        "gloss": "in a dry region",
+        "gram": "m. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ānūpe",
+      "words": [
+       {
+        "w": "ānūpe",
+        "gloss": "in a marshy region",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "snigdhaśītādi",
+      "words": [
+       {
+        "w": "snigdha-śīta-ādi",
+        "gloss": "unctuous, cold and the like",
+        "gram": "n. nom. sg., dvandva ending in ādi"
+       }
+      ]
+     },
+     {
+      "src": "bheṣajaṃ",
+      "words": [
+       {
+        "w": "bheṣajam",
+        "gloss": "medicine",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yanniṣevyate",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "niṣevyate",
+        "gloss": "is used",
+        "gram": "3 sg. pres. pass. ni-√sev"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पहले, देश से विरुद्ध: धन्व देश में रूक्ष, तीक्ष्ण आदि, और आनूप देश में स्निग्ध, शीत आदि जो भेषज सेवन किया जाता है।",
+  "english": "First, incompatible by place: the medicine, dry, sharp and the like, that is used in a dry region (dhanvan), or unctuous, cold and the like in a marshy region (ānūpa).",
+  "text_flags": [
+   {
+    "src": "deśatastāvadrūkṣatīkṣaṇādi",
+    "suggest": "deśatastāvadrūkṣatīkṣṇādi",
+    "why": "tīkṣaṇa is not a word (tīkṣṇa 'sharp'); with tīkṣaṇa the pāda has 9 syllables, with tīkṣṇa the required 8 (rū kṣa tīk ṣṇā di dhan va ni: syllables 5-7 di dhan va = ⏑ – ⏑, as an even pāda requires)"
+   }
+  ],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.26.88a",
+   "01.26.88b"
+  ],
+  "lines_deva": [
+   "विरुद्धं देशतस्तावद्रूक्षतीक्षणादि धन्वनि",
+   "आनूपे स्निग्धशीतादि भेषजं यन्निषेव्यते"
+  ],
+  "lines_iast": [
+   "viruddhaṃ deśatastāvadrūkṣatīkṣaṇādi dhanvani",
+   "ānūpe snigdhaśītādi bheṣajaṃ yanniṣevyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "89",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kālato'pi",
+      "words": [
+       {
+        "w": "kālataḥ",
+        "gloss": "by time",
+        "gram": "ind. (-tas)"
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viruddhaṃ",
+      "words": [
+       {
+        "w": "viruddham",
+        "gloss": "incompatible",
+        "gram": "n. nom. sg., ppp. vi-√rudh"
+       }
+      ]
+     },
+     {
+      "src": "yacchītarūkṣādisevanam",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "śīta-rūkṣa-ādi-sevanam",
+        "gloss": "use of cold, dry and the like",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śīte",
+      "words": [
+       {
+        "w": "śīte",
+        "gloss": "in the cold",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāle",
+      "words": [
+       {
+        "w": "kāle",
+        "gloss": "season",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tathoṣṇe",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       },
+       {
+        "w": "uṣṇe",
+        "gloss": "in the hot (season)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaṭukoṣṇādisevanam",
+      "words": [
+       {
+        "w": "kaṭuka-uṣṇa-ādi-sevanam",
+        "gloss": "use of pungent, hot and the like",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "काल से भी विरुद्ध वह है जो शीत काल में शीत, रूक्ष आदि का सेवन है, तथा उष्ण (काल) में कटु, उष्ण आदि का सेवन।",
+  "english": "Incompatible by time also is the use of cold, dry and similar things in the cold season, and likewise the use of pungent, hot and similar things in the hot (season).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.26.89a",
+   "01.26.89b"
+  ],
+  "lines_deva": [
+   "कालतोऽपि विरुद्धं यच्छीतरूक्षादिसेवनम्",
+   "शीते काले तथोष्णे च कटुकोष्णादिसेवनम्"
+  ],
+  "lines_iast": [
+   "kālato'pi viruddhaṃ yacchītarūkṣādisevanam",
+   "śīte kāle tathoṣṇe ca kaṭukoṣṇādisevanam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "90",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viruddhamanale",
+      "words": [
+       {
+        "w": "viruddham",
+        "gloss": "incompatible",
+        "gram": "n. nom. sg., ppp. vi-√rudh"
+       },
+       {
+        "w": "anale",
+        "gloss": "with the digestive fire (anala)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tadvadannapānaṃ",
+      "words": [
+       {
+        "w": "tadvat",
+        "gloss": "likewise",
+        "gram": "ind."
+       },
+       {
+        "w": "anna-pānam",
+        "gloss": "food and drink",
+        "gram": "n. nom. sg., dvandva (samāhāra)"
+       }
+      ]
+     },
+     {
+      "src": "caturvidhe",
+      "words": [
+       {
+        "w": "catur-vidhe",
+        "gloss": "fourfold",
+        "gram": "m. loc. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "madhusarpiḥ",
+      "words": [
+       {
+        "w": "madhu-sarpiḥ",
+        "gloss": "honey and ghee",
+        "gram": "n. nom. sg., dvandva (samāhāra)"
+       }
+      ]
+     },
+     {
+      "src": "samadhṛtaṃ",
+      "words": [
+       {
+        "w": "sama-dhṛtam",
+        "gloss": "in equal measure",
+        "gram": "n. nom. sg., ppp. √dhṛ"
+       }
+      ]
+     },
+     {
+      "src": "mātrayā",
+      "words": [
+       {
+        "w": "mātrayā",
+        "gloss": "by measure",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tadvirudhyate",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "virudhyate",
+        "gloss": "is incompatible",
+        "gram": "3 sg. pres. pass. vi-√rudh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसी प्रकार चार प्रकार के अनल से विरुद्ध अन्न-पान (होता है)। समान मात्रा में मधु और घी — वह मात्रा से विरुद्ध होता है।",
+  "english": "Likewise, (there is) food and drink incompatible with the fourfold digestive fire (anala). Honey and ghee in equal measure: that is incompatible by measure.",
+  "text_flags": [],
+  "notes": "The locative anale is taken as 'with regard to the digestive fire'; the four kinds of fire are not named in this chunk.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.26.90a",
+   "01.26.90b"
+  ],
+  "lines_deva": [
+   "विरुद्धमनले तद्वदन्नपानं चतुर्विधे",
+   "मधुसर्पिः समधृतं मात्रया तद्विरुध्यते"
+  ],
+  "lines_iast": [
+   "viruddhamanale tadvadannapānaṃ caturvidhe",
+   "madhusarpiḥ samadhṛtaṃ mātrayā tadvirudhyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "91",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kaṭukoṣṇādisātmyasya",
+      "words": [
+       {
+        "w": "kaṭuka-uṣṇa-ādi-sātmyasya",
+        "gloss": "for one to whom pungent, hot and the like are suitable",
+        "gram": "m. gen. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "svāduśītādisevanam",
+      "words": [
+       {
+        "w": "svādu-śīta-ādi-sevanam",
+        "gloss": "use of sweet, cold and the like",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yattat",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sātmyaviruddhaṃ",
+      "words": [
+       {
+        "w": "sātmya-viruddham",
+        "gloss": "incompatible with suitability",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viruddhaṃ",
+      "words": [
+       {
+        "w": "viruddham",
+        "gloss": "incompatible",
+        "gram": "n. nom. sg., ppp. vi-√rudh"
+       }
+      ]
+     },
+     {
+      "src": "tvanilādibhiḥ",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anila-ādibhiḥ",
+        "gloss": "with Vāta and the rest",
+        "gram": "m. inst. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कटु, उष्ण आदि जिसके लिए सात्म्य हों, उसके द्वारा मधुर, शीत आदि का जो सेवन है, वह सात्म्य-विरुद्ध है; और अनिल आदि से विरुद्ध —",
+  "english": "For one to whom pungent, hot and similar things are suitable (sātmya), the use of sweet, cold and similar things: that is incompatible with suitability. And incompatible with Vāta (anila) and the rest",
+  "text_flags": [],
+  "notes": "SENTENCE: the last clause (incompatible with Vāta and the rest) is completed by 92a.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.26.91a",
+   "01.26.91b"
+  ],
+  "lines_deva": [
+   "कटुकोष्णादिसात्म्यस्य स्वादुशीतादिसेवनम्",
+   "यत्तत् सात्म्यविरुद्धं तु विरुद्धं त्वनिलादिभिः"
+  ],
+  "lines_iast": [
+   "kaṭukoṣṇādisātmyasya svāduśītādisevanam",
+   "yattat sātmyaviruddhaṃ tu viruddhaṃ tvanilādibhiḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "92",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yā",
+        "gloss": "which",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "samānaguṇābhyāsaviruddhānnauṣadhikriyā",
+      "words": [
+       {
+        "w": "samāna-guṇa-abhyāsa-viruddha-anna-auṣadhi-kriyā",
+        "gloss": "use of food and herbs incompatible through habitual use of the same qualities",
+        "gram": "f. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "saṃskārato",
+      "words": [
+       {
+        "w": "saṃskārataḥ",
+        "gloss": "by processing",
+        "gram": "ind. (-tas)"
+       }
+      ]
+     },
+     {
+      "src": "viruddhaṃ",
+      "words": [
+       {
+        "w": "viruddham",
+        "gloss": "incompatible",
+        "gram": "n. nom. sg., ppp. vi-√rudh"
+       }
+      ]
+     },
+     {
+      "src": "tadyadbhojyaṃ",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "bhojyam",
+        "gloss": "food",
+        "gram": "n. nom. sg., gerundive (kṛtya) √bhuj"
+       }
+      ]
+     },
+     {
+      "src": "viṣavadbhavet",
+      "words": [
+       {
+        "w": "viṣavat",
+        "gloss": "like poison",
+        "gram": "ind."
+       },
+       {
+        "w": "bhavet",
+        "gloss": "would become",
+        "gram": "3 sg. opt. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "(वह है) जो (अनिल आदि के) समान गुणों के अभ्यास से विरुद्ध अन्न और औषधि का प्रयोग है। संस्कार से विरुद्ध वह है, जो भोज्य विष के समान हो जाए —",
+  "english": "is the use of food and herbs that is incompatible through habitual use of the same qualities (as Vāta and the rest). Incompatible by processing is that food which would become like poison,",
+  "text_flags": [],
+  "notes": "SENTENCE: 92a completes 91b; 92b runs on into 93a. The long compound is ambiguous: it may also be read as 'the use of food and medicine of the same qualities (as Vāta etc.), and incompatible (made so) by habitual use'. auṣadhi (herb) is kept as printed beside the more usual auṣadha (medicine); the sense is the same here.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.26.92a",
+   "01.26.92b"
+  ],
+  "lines_deva": [
+   "या समानगुणाभ्यासविरुद्धान्नौषधिक्रिया",
+   "संस्कारतो विरुद्धं तद्यद्भोज्यं विषवद्भवेत्"
+  ],
+  "lines_iast": [
+   "yā samānaguṇābhyāsaviruddhānnauṣadhikriyā",
+   "saṃskārato viruddhaṃ tadyadbhojyaṃ viṣavadbhavet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "93",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "eraṇḍasīsakāsaktaṃ",
+      "words": [
+       {
+        "w": "eraṇḍa-sīsaka-āsaktam",
+        "gloss": "fixed on a castor sīsaka",
+        "gram": "n. nom. sg., tat-puruṣa, ppp. ā-√sañj"
+       }
+      ]
+     },
+     {
+      "src": "śikhimāṃsaṃ",
+      "words": [
+       {
+        "w": "śikhi-māṃsam",
+        "gloss": "peacock meat",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "yathaiva",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for, indeed",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "viruddhaṃ",
+      "words": [
+       {
+        "w": "viruddham",
+        "gloss": "incompatible",
+        "gram": "n. nom. sg., ppp. vi-√rudh"
+       }
+      ]
+     },
+     {
+      "src": "vīryato",
+      "words": [
+       {
+        "w": "vīryataḥ",
+        "gloss": "by potency (vīrya)",
+        "gram": "ind. (-tas)"
+       }
+      ]
+     },
+     {
+      "src": "jñeyaṃ",
+      "words": [
+       {
+        "w": "jñeyam",
+        "gloss": "to be known",
+        "gram": "n. nom. sg., gerundive (kṛtya) √jñā"
+       }
+      ]
+     },
+     {
+      "src": "vīryataḥ",
+      "words": [
+       {
+        "w": "vīryataḥ",
+        "gloss": "in potency",
+        "gram": "ind. (-tas)"
+       }
+      ]
+     },
+     {
+      "src": "śītalātmakam",
+      "words": [
+       {
+        "w": "śītala-ātmakam",
+        "gloss": "cold by nature",
+        "gram": "n. nom. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ठीक जैसे एरण्ड के सीसक पर लगाया गया मोर का मांस। वीर्य से विरुद्ध उसे जानना चाहिए — जो वीर्य में शीतल स्वभाव वाला (द्रव्य)",
+  "english": "just as peacock meat fixed on a castor sīsaka. Incompatible by potency (vīrya) is to be known (this): what is cold in nature as to potency",
+  "text_flags": [],
+  "notes": "SENTENCE: 93a completes 92b; 93b runs on into 94a. śikhin 'the crested one' = peacock, as mayūra in P29 of this chunk (the same preparation). sīsaka: see P29.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.26.93a",
+   "01.26.93b"
+  ],
+  "lines_deva": [
+   "एरण्डसीसकासक्तं शिखिमांसं यथैव हि",
+   "विरुद्धं वीर्यतो ज्ञेयं वीर्यतः शीतलात्मकम्"
+  ],
+  "lines_iast": [
+   "eraṇḍasīsakāsaktaṃ śikhimāṃsaṃ yathaiva hi",
+   "viruddhaṃ vīryato jñeyaṃ vīryataḥ śītalātmakam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "94",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tat",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃyojyoṣṇavīryeṇa",
+      "words": [
+       {
+        "w": "saṃyojya",
+        "gloss": "having combined",
+        "gram": "abs. caus. sam-√yuj"
+       },
+       {
+        "w": "uṣṇa-vīryeṇa",
+        "gloss": "of hot potency",
+        "gram": "n. inst. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "dravyeṇa",
+      "words": [
+       {
+        "w": "dravyeṇa",
+        "gloss": "a substance",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "saha",
+      "words": [
+       {
+        "w": "saha",
+        "gloss": "with",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sevyate",
+      "words": [
+       {
+        "w": "sevyate",
+        "gloss": "is taken",
+        "gram": "3 sg. pres. pass. √sev"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "krūrakoṣṭhasya",
+      "words": [
+       {
+        "w": "krūra-koṣṭhasya",
+        "gloss": "for one with a hard bowel",
+        "gram": "m. gen. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "cātyalpaṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ati-alpam",
+        "gloss": "very little",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mandavīryamabhedanam",
+      "words": [
+       {
+        "w": "manda-vīryam",
+        "gloss": "of mild potency",
+        "gram": "n. nom. sg., bahuvrīhi"
+       },
+       {
+        "w": "abhedanam",
+        "gloss": "non-purgative",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसे उष्णवीर्य द्रव्य के साथ मिलाकर सेवन किया जाता है। और क्रूर कोष्ठ वाले के लिए अत्यल्प, मन्दवीर्य और अभेदक (द्रव्य),",
+  "english": "is taken combined with a substance of hot potency. And for one with a hard bowel (krūrakoṣṭha), (what is) very little, of mild potency and non-purgative,",
+  "text_flags": [],
+  "notes": "SENTENCE: 94a completes 93b; 94b runs on into 95a.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.26.94a",
+   "01.26.94b"
+  ],
+  "lines_deva": [
+   "तत् संयोज्योष्णवीर्येण द्रव्येण सह सेव्यते",
+   "क्रूरकोष्ठस्य चात्यल्पं मन्दवीर्यमभेदनम्"
+  ],
+  "lines_iast": [
+   "tat saṃyojyoṣṇavīryeṇa dravyeṇa saha sevyate",
+   "krūrakoṣṭhasya cātyalpaṃ mandavīryamabhedanam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "95",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mṛdukoṣṭhasya",
+      "words": [
+       {
+        "w": "mṛdu-koṣṭhasya",
+        "gloss": "for one with a soft bowel",
+        "gram": "m. gen. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "guru",
+      "words": [
+       {
+        "w": "guru",
+        "gloss": "heavy",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhedanīyaṃ",
+      "words": [
+       {
+        "w": "bhedanīyam",
+        "gloss": "purgative",
+        "gram": "n. nom. sg., gerundive (kṛtya) √bhid, used as adj."
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bahu",
+      "words": [
+       {
+        "w": "bahu",
+        "gloss": "much",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "etat",
+      "words": [
+       {
+        "w": "etat",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "koṣṭhaviruddhaṃ",
+      "words": [
+       {
+        "w": "koṣṭha-viruddham",
+        "gloss": "incompatible with the bowel",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viruddhaṃ",
+      "words": [
+       {
+        "w": "viruddham",
+        "gloss": "incompatible",
+        "gram": "n. nom. sg., ppp. vi-√rudh"
+       }
+      ]
+     },
+     {
+      "src": "syādavasthayā",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √as"
+       },
+       {
+        "w": "avasthayā",
+        "gloss": "by state",
+        "gram": "f. inst. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और मृदु कोष्ठ वाले के लिए गुरु, भेदक तथा अधिक — यह कोष्ठ-विरुद्ध है; और अवस्था से विरुद्ध होगा —",
+  "english": "and for one with a soft bowel (mṛdukoṣṭha), (what is) heavy, purgative and likewise much: this is incompatible with the bowel (koṣṭha). And incompatible by state (avasthā) would be",
+  "text_flags": [],
+  "notes": "SENTENCE: the last clause is completed by 96.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.26.95a",
+   "01.26.95b"
+  ],
+  "lines_deva": [
+   "मृदुकोष्ठस्य गुरु च भेदनीयं तथा बहु",
+   "एतत् कोष्ठविरुद्धं तु विरुद्धं स्यादवस्थया"
+  ],
+  "lines_iast": [
+   "mṛdukoṣṭhasya guru ca bhedanīyaṃ tathā bahu",
+   "etat koṣṭhaviruddhaṃ tu viruddhaṃ syādavasthayā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "96",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śramavyavāyavyāyāmasaktasyānilakopanam",
+      "words": [
+       {
+        "w": "śrama-vyavāya-vyāyāma-saktasya",
+        "gloss": "for one engaged in exertion, sexual intercourse and exercise",
+        "gram": "m. gen. sg., tat-puruṣa (dvandva first member)"
+       },
+       {
+        "w": "anila-kopanam",
+        "gloss": "aggravating Vāta",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "nidrālasasyālasasya",
+      "words": [
+       {
+        "w": "nidrā-alasasya",
+        "gloss": "for one languid with sleep",
+        "gram": "m. gen. sg., tat-puruṣa"
+       },
+       {
+        "w": "alasasya",
+        "gloss": "for the lazy",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhojanaṃ",
+      "words": [
+       {
+        "w": "bhojanam",
+        "gloss": "food",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śleṣmakopanam",
+      "words": [
+       {
+        "w": "śleṣma-kopanam",
+        "gloss": "aggravating Kapha (śleṣman)",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "श्रम, व्यवाय और व्यायाम में लगे हुए व्यक्ति के लिए अनिल को कुपित करने वाला (भोजन), और निद्रा से अलसाए आलसी व्यक्ति के लिए श्लेष्मा को कुपित करने वाला भोजन।",
+  "english": "food aggravating Vāta (anila) for one engaged in exertion (śrama), sexual intercourse (vyavāya) and exercise, and food aggravating Kapha (śleṣman) for one who is languid with sleep and lazy.",
+  "text_flags": [],
+  "notes": "SENTENCE: completes 95b. bhojanam is understood with anilakopanam too. nidrālasasya and alasasya are taken as two genitives describing one person.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.26.96a",
+   "01.26.96b"
+  ],
+  "lines_deva": [
+   "श्रमव्यवायव्यायामसक्तस्यानिलकोपनम्",
+   "निद्रालसस्यालसस्य भोजनं श्लेष्मकोपनम्"
+  ],
+  "lines_iast": [
+   "śramavyavāyavyāyāmasaktasyānilakopanam",
+   "nidrālasasyālasasya bhojanaṃ śleṣmakopanam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "97",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yaccānutsṛjya",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when, what",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anutsṛjya",
+        "gloss": "without voiding",
+        "gram": "abs. an-ud-√sṛj"
+       }
+      ]
+     },
+     {
+      "src": "viṇmūtraṃ",
+      "words": [
+       {
+        "w": "viṭ-mūtram",
+        "gloss": "faeces and urine",
+        "gram": "n. acc. sg., dvandva (samāhāra)"
+       }
+      ]
+     },
+     {
+      "src": "bhuṅkte",
+      "words": [
+       {
+        "w": "bhuṅkte",
+        "gloss": "eats",
+        "gram": "3 sg. pres. mid. √bhuj"
+       }
+      ]
+     },
+     {
+      "src": "yaścābubhukṣitaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "abubhukṣitaḥ",
+        "gloss": "not hungry",
+        "gram": "m. nom. sg., ppp. desid. √bhuj"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tacca",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kramaviruddhaṃ",
+      "words": [
+       {
+        "w": "krama-viruddham",
+        "gloss": "incompatible by sequence",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "syādyaccātikṣudvaśānugaḥ",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √as"
+       },
+       {
+        "w": "yat",
+        "gloss": "what",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ati-kṣut-vaśa-anugaḥ",
+        "gloss": "(one) under the sway of excessive hunger",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और जो मल-मूत्र का त्याग किए बिना खाता है, और जो भूख न होने पर खाता है, वह क्रम-विरुद्ध होता है; और जो अत्यधिक भूख के वश में होकर (खाता है)।",
+  "english": "And when one eats without voiding faeces and urine, and one who eats when not hungry: that would be incompatible by sequence (krama); and (so is it) when one (eats) under the sway of excessive hunger.",
+  "text_flags": [],
+  "notes": "The construction is loose: yat (n.) is paired with the masculine yaḥ and ...anugaḥ (the eater); 'one who eats' is understood in each clause. viṭ-mūtra is a samāhāra dvandva (neuter singular), as printed in one compound.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.26.97a",
+   "01.26.97b"
+  ],
+  "lines_deva": [
+   "यच्चानुत्सृज्य विण्मूत्रं भुङ्क्ते यश्चाबुभुक्षितः",
+   "तच्च क्रमविरुद्धं स्याद्यच्चातिक्षुद्वशानुगः"
+  ],
+  "lines_iast": [
+   "yaccānutsṛjya viṇmūtraṃ bhuṅkte yaścābubhukṣitaḥ",
+   "tacca kramaviruddhaṃ syādyaccātikṣudvaśānugaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "98",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "parihāraviruddhaṃ",
+      "words": [
+       {
+        "w": "parihāra-viruddham",
+        "gloss": "incompatible by restriction",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "varāhādīnniṣevya",
+      "words": [
+       {
+        "w": "varāha-ādīn",
+        "gloss": "boar and the like",
+        "gram": "m. acc. pl., bahuvrīhi"
+       },
+       {
+        "w": "niṣevya",
+        "gloss": "having eaten",
+        "gram": "abs. ni-√sev"
+       }
+      ]
+     },
+     {
+      "src": "yat",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when, what",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sevetoṣṇaṃ",
+      "words": [
+       {
+        "w": "seveta",
+        "gloss": "one takes",
+        "gram": "3 sg. opt. mid. √sev"
+       },
+       {
+        "w": "uṣṇam",
+        "gloss": "something hot",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ghṛtādīṃśca",
+      "words": [
+       {
+        "w": "ghṛta-ādīn",
+        "gloss": "ghee and the like",
+        "gram": "m. acc. pl., bahuvrīhi"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pītvā",
+      "words": [
+       {
+        "w": "pītvā",
+        "gloss": "having drunk",
+        "gram": "abs. √pā"
+       }
+      ]
+     },
+     {
+      "src": "śītaṃ",
+      "words": [
+       {
+        "w": "śītam",
+        "gloss": "something cold",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "niṣevate",
+      "words": [
+       {
+        "w": "niṣevate",
+        "gloss": "takes",
+        "gram": "3 sg. pres. mid. ni-√sev"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "परिहार से विरुद्ध वह है, जब कोई सूअर आदि का सेवन करके उष्ण का सेवन करे; और घी आदि पीकर शीतल का सेवन करता है।",
+  "english": "And incompatible by restriction (parihāra) is when, having eaten boar and the like, one takes something hot, and (when), having drunk ghee and the like, one takes something cold.",
+  "text_flags": [],
+  "notes": "The second clause (cold after ghee) is joined to parihāra by ca as printed; it may be the example meant for upacāra, which is listed in 87 but not separately named in this chunk.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.26.98a",
+   "01.26.98b"
+  ],
+  "lines_deva": [
+   "परिहारविरुद्धं तु वराहादीन्निषेव्य यत्",
+   "सेवेतोष्णं घृतादींश्च पीत्वा शीतं निषेवते"
+  ],
+  "lines_iast": [
+   "parihāraviruddhaṃ tu varāhādīnniṣevya yat",
+   "sevetoṣṇaṃ ghṛtādīṃśca pītvā śītaṃ niṣevate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "99",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viruddhaṃ",
+      "words": [
+       {
+        "w": "viruddham",
+        "gloss": "incompatible",
+        "gram": "n. nom. sg., ppp. vi-√rudh"
+       }
+      ]
+     },
+     {
+      "src": "pākataścāpi",
+      "words": [
+       {
+        "w": "pākataḥ",
+        "gloss": "by cooking",
+        "gram": "ind. (-tas)"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "duṣṭadurdārusādhitam",
+      "words": [
+       {
+        "w": "duṣṭa-dur-dāru-sādhitam",
+        "gloss": "prepared with spoiled, bad fuel-wood",
+        "gram": "n. nom. sg., tat-puruṣa, ppp. caus. √sādh"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "apakvataṇḍulātyarthapakvadagdhā",
+      "words": [
+       {
+        "w": "apakva-taṇḍula-atyartha-pakva-dagdham",
+        "gloss": "with rice left raw, overcooked or burnt",
+        "gram": "n. nom. sg., bahuvrīhi / dvandva of adjectives"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yadbhavet",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "what",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "bhavet",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √bhū"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "saṃyogato",
+      "words": [
+       {
+        "w": "saṃyogataḥ",
+        "gloss": "by combination",
+        "gram": "ind. (-tas)"
+       }
+      ]
+     },
+     {
+      "src": "viruddhaṃ",
+      "words": [
+       {
+        "w": "viruddham",
+        "gloss": "incompatible",
+        "gram": "n. nom. sg., ppp. vi-√rudh"
+       }
+      ]
+     },
+     {
+      "src": "tadyathāmlaṃ",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "yathā",
+        "gloss": "as, for example",
+        "gram": "ind."
+       },
+       {
+        "w": "amlam",
+        "gloss": "something sour",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "payasā",
+      "words": [
+       {
+        "w": "payasā",
+        "gloss": "milk",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "saha",
+      "words": [
+       {
+        "w": "saha",
+        "gloss": "with",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पाक से भी विरुद्ध वह है जो दूषित और बुरे ईंधन-काष्ठ से पकाया गया हो, और जो कच्चे चावल वाला, अत्यधिक पका हुआ या जला हुआ हो; संयोग से विरुद्ध वह है, जैसे दूध के साथ अम्ल।",
+  "english": "Incompatible by cooking also is what is prepared with spoiled, bad fuel-wood, and what is (cooked) with the rice left raw, overcooked or burnt; incompatible by combination is, for example, something sour with milk.",
+  "text_flags": [
+   {
+    "src": "apakvataṇḍulātyarthapakvadagdhā",
+    "suggest": "apakvataṇḍulātyarthapakvadagdhaṃ",
+    "why": "possible: the feminine ending -ā has nothing to agree with; yat and viruddham in the same verse are neuter"
+   }
+  ],
+  "notes": "The compound in 99b may be read as 'raw-rice, overcooked and burnt' (three faults) or with apakvataṇḍula as one item; the sense is the same.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.26.99a",
+   "01.26.99b",
+   "01.26.99c"
+  ],
+  "lines_deva": [
+   "विरुद्धं पाकतश्चापि दुष्टदुर्दारुसाधितम्",
+   "अपक्वतण्डुलात्यर्थपक्वदग्धा च यद्भवेत्",
+   "संयोगतो विरुद्धं तद्यथाम्लं पयसा सह"
+  ],
+  "lines_iast": [
+   "viruddhaṃ pākataścāpi duṣṭadurdārusādhitam",
+   "apakvataṇḍulātyarthapakvadagdhā ca yadbhavet",
+   "saṃyogato viruddhaṃ tadyathāmlaṃ payasā saha"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "100",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "amanorucitaṃ",
+      "words": [
+       {
+        "w": "a-manaḥ-rucitam",
+        "gloss": "not pleasing to the mind",
+        "gram": "n. nom. sg., tat-puruṣa (negative)"
+       }
+      ]
+     },
+     {
+      "src": "yacca",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "what",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hṛdviruddhaṃ",
+      "words": [
+       {
+        "w": "hṛt-viruddham",
+        "gloss": "incompatible with the heart",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "taducyate",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ucyate",
+        "gloss": "is called",
+        "gram": "3 sg. pres. pass. √vac"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "saṃpadviruddhaṃ",
+      "words": [
+       {
+        "w": "saṃpad-viruddham",
+        "gloss": "incompatible with excellence",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tadvidyādasaṃjātarasaṃ",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "vidyāt",
+        "gloss": "one should know",
+        "gram": "3 sg. opt. √vid"
+       },
+       {
+        "w": "a-saṃjāta-rasam",
+        "gloss": "whose taste has not developed",
+        "gram": "n. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yat",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "what",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और जो मन को रुचिकर न हो, वह हृदय-विरुद्ध कहा जाता है। सम्पत्-विरुद्ध उसे जानना चाहिए जिसका रस उत्पन्न न हुआ हो,",
+  "english": "And what is not pleasing to the mind is called incompatible with the heart (hṛd). One should know as incompatible with excellence (sampad) that whose taste has not developed,",
+  "text_flags": [],
+  "notes": "SENTENCE: the definition of sampad-viruddha continues in 101a.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.26.100a",
+   "01.26.100b"
+  ],
+  "lines_deva": [
+   "अमनोरुचितं यच्च हृद्विरुद्धं तदुच्यते",
+   "संपद्विरुद्धं तद्विद्यादसंजातरसं तु यत्"
+  ],
+  "lines_iast": [
+   "amanorucitaṃ yacca hṛdviruddhaṃ taducyate",
+   "saṃpadviruddhaṃ tadvidyādasaṃjātarasaṃ tu yat"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "101",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "atikrāntarasaṃ",
+      "words": [
+       {
+        "w": "atikrānta-rasam",
+        "gloss": "whose taste has passed its time",
+        "gram": "n. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vāpi",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vipannarasameva",
+      "words": [
+       {
+        "w": "vipanna-rasam",
+        "gloss": "whose taste is spoiled",
+        "gram": "n. acc. sg., bahuvrīhi"
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "jñeyaṃ",
+      "words": [
+       {
+        "w": "jñeyam",
+        "gloss": "to be known",
+        "gram": "n. nom. sg., gerundive (kṛtya) √jñā"
+       }
+      ]
+     },
+     {
+      "src": "vidhiviruddhaṃ",
+      "words": [
+       {
+        "w": "vidhi-viruddham",
+        "gloss": "incompatible with the rule",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhujyate",
+      "words": [
+       {
+        "w": "bhujyate",
+        "gloss": "is eaten",
+        "gram": "3 sg. pres. pass. √bhuj"
+       }
+      ]
+     },
+     {
+      "src": "nibhṛte",
+      "words": [
+       {
+        "w": "nibhṛte",
+        "gloss": "in privacy",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yat",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tadevaṃvidhamannaṃ",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "evaṃvidham",
+        "gloss": "of such kinds",
+        "gram": "n. nom. sg., bahuvrīhi"
+       },
+       {
+        "w": "annam",
+        "gloss": "food",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "syādviruddhamupayojitam",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √as"
+       },
+       {
+        "w": "viruddham",
+        "gloss": "incompatible",
+        "gram": "n. nom. sg., ppp. vi-√rudh"
+       },
+       {
+        "w": "upayojitam",
+        "gloss": "when used",
+        "gram": "n. nom. sg., ppp. caus. upa-√yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "या जिसका रस बीत चुका हो, या जिसका रस बिगड़ ही गया हो। और विधि-विरुद्ध उसे जानना चाहिए जो एकान्त में नहीं खाया जाता। इस प्रकार का अन्न प्रयोग किए जाने पर विरुद्ध होता है।",
+  "english": "or whose taste has passed its time, or whose taste is indeed spoiled. And to be known as incompatible with the rule (vidhi) is what is not eaten in privacy. Food of such kinds, when used, would be incompatible.",
+  "text_flags": [],
+  "notes": "SENTENCE: 101a completes 100b. evaṃvidham is taken as one word 'of such kind'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.26.101a",
+   "01.26.101b",
+   "01.26.101c"
+  ],
+  "lines_deva": [
+   "अतिक्रान्तरसं वापि विपन्नरसमेव वा",
+   "ज्ञेयं विधिविरुद्धं तु भुज्यते निभृते न यत्",
+   "तदेवंविधमन्नं स्याद्विरुद्धमुपयोजितम्"
+  ],
+  "lines_iast": [
+   "atikrāntarasaṃ vāpi vipannarasameva vā",
+   "jñeyaṃ vidhiviruddhaṃ tu bhujyate nibhṛte na yat",
+   "tadevaṃvidhamannaṃ syādviruddhamupayojitam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "102",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ṣāṇḍhyāndhyavīsarpadakodarāṇāṃ",
+      "words": [
+       {
+        "w": "ṣāṇḍhya-āndhya-vīsarpa-dakodarāṇām",
+        "gloss": "of impotence, blindness, vīsarpa and dakodara",
+        "gram": "n. gen. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "visphoṭakonmādabhagandarāṇām",
+      "words": [
+       {
+        "w": "visphoṭaka-unmāda-bhagandarāṇām",
+        "gloss": "of visphoṭaka, insanity and bhagandara",
+        "gram": "m. gen. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mūrcchāmadādhmānagalagrahāṇāṃ",
+      "words": [
+       {
+        "w": "mūrcchā-mada-ādhmāna-galagrahāṇām",
+        "gloss": "of fainting, intoxication, ādhmāna and galagraha",
+        "gram": "m. gen. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "pāṇḍvāmayasyāmaviṣasya",
+      "words": [
+       {
+        "w": "pāṇḍu-āmayasya",
+        "gloss": "of the disease pāṇḍu",
+        "gram": "m. gen. sg., karmadhāraya"
+       },
+       {
+        "w": "āma-viṣasya",
+        "gloss": "of āmaviṣa",
+        "gram": "n. gen. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "caiva",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विरुद्ध अन्न को नपुंसकता, अन्धता, वीसर्प, दकोदर, विस्फोटक, उन्माद, भगन्दर, मूर्च्छा, मद, आध्मान, गलग्रह, पाण्डु रोग और आमविष का,",
+  "english": "(Incompatible food, they declare, is the cause) of impotence (ṣāṇḍhya), blindness, vīsarpa, dakodara, visphoṭaka, insanity (unmāda), bhagandara, mūrcchā (fainting), mada (intoxication), ādhmāna, galagraha, the disease pāṇḍu, and āmaviṣa,",
+  "text_flags": [],
+  "notes": "SENTENCE: 102 and 103 form one sentence; the verb pravadanti is in 103b. Upajāti (indravajrā) metre; vīsarpa with long ī is required by the metre. dakodara is taken as daka-udara (udara with water); āmaviṣa as 'āma-poison'; names kept Sanskrit, no modern identifications. The gender given for the mixed dvandvas follows the last member.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.26.102a",
+   "01.26.102b"
+  ],
+  "lines_deva": [
+   "षाण्ढ्यान्ध्यवीसर्पदकोदराणां विस्फोटकोन्मादभगन्दराणाम्",
+   "मूर्च्छामदाध्मानगलग्रहाणां पाण्ड्वामयस्यामविषस्य चैव"
+  ],
+  "lines_iast": [
+   "ṣāṇḍhyāndhyavīsarpadakodarāṇāṃ visphoṭakonmādabhagandarāṇām",
+   "mūrcchāmadādhmānagalagrahāṇāṃ pāṇḍvāmayasyāmaviṣasya caiva"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "103",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kilāsakuṣṭhagrahaṇīgadānāṃ",
+      "words": [
+       {
+        "w": "kilāsa-kuṣṭha-grahaṇī-gadānām",
+        "gloss": "of kilāsa, kuṣṭha and grahaṇī disease",
+        "gram": "m. gen. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "śothāmlapittajvarapīnasānām",
+      "words": [
+       {
+        "w": "śotha-amlapitta-jvara-pīnasānām",
+        "gloss": "of swelling, amlapitta, fever and pīnasa",
+        "gram": "m. gen. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "santānadoṣasya",
+      "words": [
+       {
+        "w": "santāna-doṣasya",
+        "gloss": "of defects in offspring",
+        "gram": "m. gen. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tathaiva",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mṛtyorviruddhamannaṃ",
+      "words": [
+       {
+        "w": "mṛtyoḥ",
+        "gloss": "of death",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "viruddham",
+        "gloss": "incompatible",
+        "gram": "n. acc. sg., ppp. vi-√rudh"
+       },
+       {
+        "w": "annam",
+        "gloss": "food",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pravadanti",
+      "words": [
+       {
+        "w": "pravadanti",
+        "gloss": "they declare",
+        "gram": "3 pl. pres. pra-√vad"
+       }
+      ]
+     },
+     {
+      "src": "hetum",
+      "words": [
+       {
+        "w": "hetum",
+        "gloss": "the cause",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किलास, कुष्ठ और ग्रहणी रोग का, शोथ, अम्लपित्त, ज्वर और पीनस का, सन्तान-दोष का और उसी प्रकार मृत्यु का कारण बताते हैं।",
+  "english": "of kilāsa, kuṣṭha and grahaṇī disease, of swelling (śotha), amlapitta, fever (jvara) and pīnasa, of defects in offspring, and likewise of death.",
+  "text_flags": [],
+  "notes": "SENTENCE: completes 102. grahaṇī-gada may also be read with gada governing all three ('the diseases kilāsa, kuṣṭha and grahaṇī'). Disease names kept Sanskrit.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.26.103a",
+   "01.26.103b"
+  ],
+  "lines_deva": [
+   "किलासकुष्ठग्रहणीगदानां शोथाम्लपित्तज्वरपीनसानाम्",
+   "सन्तानदोषस्य तथैव मृत्योर्विरुद्धमन्नं प्रवदन्ति हेतुम्"
+  ],
+  "lines_iast": [
+   "kilāsakuṣṭhagrahaṇīgadānāṃ śothāmlapittajvarapīnasānām",
+   "santānadoṣasya tathaiva mṛtyorviruddhamannaṃ pravadanti hetum"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "104",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "eṣāṃ",
+      "words": [
+       {
+        "w": "eṣām",
+        "gloss": "of these",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "khalvapareṣāṃ",
+      "words": [
+       {
+        "w": "khalu",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "apareṣām",
+        "gloss": "of others",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vairodhikanimittānāṃ",
+      "words": [
+       {
+        "w": "vairodhika-nimittānām",
+        "gloss": "caused by incompatibility",
+        "gram": "m. gen. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vyādhīnāmime",
+      "words": [
+       {
+        "w": "vyādhīnām",
+        "gloss": "of diseases",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "ime",
+        "gloss": "these",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhāvāḥ",
+      "words": [
+       {
+        "w": "bhāvāḥ",
+        "gloss": "things, measures",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pratikārā",
+      "words": [
+       {
+        "w": "pratikārāḥ",
+        "gloss": "remedies",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhavanti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tadyathā",
+      "words": [
+       {
+        "w": "tat-yathā",
+        "gloss": "namely",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vamanaṃ",
+      "words": [
+       {
+        "w": "vamanam",
+        "gloss": "emesis",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "virecanaṃ",
+      "words": [
+       {
+        "w": "virecanam",
+        "gloss": "purgation",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tadvirodhināṃ",
+      "words": [
+       {
+        "w": "tat-virodhinām",
+        "gloss": "opposed to those",
+        "gram": "n. gen. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dravyāṇāṃ",
+      "words": [
+       {
+        "w": "dravyāṇām",
+        "gloss": "of substances",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "saṃśamanārthamupayogaḥ",
+      "words": [
+       {
+        "w": "saṃśamana-artham",
+        "gloss": "for pacifying",
+        "gram": "ind., tat-puruṣa"
+       },
+       {
+        "w": "upayogaḥ",
+        "gloss": "use",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tathāvidhaiśca",
+      "words": [
+       {
+        "w": "tathā-vidhaiḥ",
+        "gloss": "of that kind",
+        "gram": "n. inst. pl., bahuvrīhi"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dravyaiḥ",
+      "words": [
+       {
+        "w": "dravyaiḥ",
+        "gloss": "with substances",
+        "gram": "n. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "pūrvamabhisaṃskāraḥ",
+      "words": [
+       {
+        "w": "pūrvam",
+        "gloss": "beforehand",
+        "gram": "ind."
+       },
+       {
+        "w": "abhisaṃskāraḥ",
+        "gloss": "conditioning",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śarīrasyeti",
+      "words": [
+       {
+        "w": "śarīrasya",
+        "gloss": "of the body",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "(end of the statement)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इन और अन्य विरोध-जनित रोगों के ये भाव प्रतिकार हैं — जैसे वमन और विरेचन, और उनके विरोधी द्रव्यों का शमन के लिए प्रयोग, तथा वैसे द्रव्यों से पहले ही शरीर का संस्कार।",
+  "english": "Of these and of other diseases caused by incompatibility, the following are the remedies: namely, emesis and purgation, the use of substances opposed to those (incompatibles) for pacifying them, and the prior conditioning of the body with substances of that kind.",
+  "text_flags": [],
+  "notes": "This unit is prose typed as two verse lines (no metre). tadvirodhinām is taken as 'opposed to those (incompatible things)'; it may also mean 'opposed to those (diseases)'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.26.104a",
+   "01.26.104b"
+  ],
+  "lines_deva": [
+   "एषां खल्वपरेषां च वैरोधिकनिमित्तानां व्याधीनामिमे भावाः प्रतिकारा भवन्ति",
+   "तद्यथा वमनं विरेचनं च तद्विरोधिनां च द्रव्याणां संशमनार्थमुपयोगः तथाविधैश्च द्रव्यैः पूर्वमभिसंस्कारः शरीरस्येति"
+  ],
+  "lines_iast": [
+   "eṣāṃ khalvapareṣāṃ ca vairodhikanimittānāṃ vyādhīnāmime bhāvāḥ pratikārā bhavanti",
+   "tadyathā vamanaṃ virecanaṃ ca tadvirodhināṃ ca dravyāṇāṃ saṃśamanārthamupayogaḥ tathāvidhaiśca dravyaiḥ pūrvamabhisaṃskāraḥ śarīrasyeti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "105",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhavataścātra",
+      "words": [
+       {
+        "w": "bhavataḥ",
+        "gloss": "there are (two)",
+        "gram": "3 du. pres. √bhū"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "atra",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "viruddhāśanajān",
+      "words": [
+       {
+        "w": "viruddha-aśana-jān",
+        "gloss": "born of incompatible eating",
+        "gram": "m. acc. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "rogān",
+      "words": [
+       {
+        "w": "rogān",
+        "gloss": "diseases",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "pratihanti",
+      "words": [
+       {
+        "w": "pratihanti",
+        "gloss": "counters",
+        "gram": "3 sg. pres. prati-√han"
+       }
+      ]
+     },
+     {
+      "src": "vivecanam",
+      "words": [
+       {
+        "w": "vivecanam",
+        "gloss": "purgation (vivecana)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vamanaṃ",
+      "words": [
+       {
+        "w": "vamanam",
+        "gloss": "emesis",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śamanaṃ",
+      "words": [
+       {
+        "w": "śamanam",
+        "gloss": "pacifying",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "caiva",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pūrvaṃ",
+      "words": [
+       {
+        "w": "pūrvam",
+        "gloss": "beforehand",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hitasevanam",
+      "words": [
+       {
+        "w": "hita-sevanam",
+        "gloss": "use of what is wholesome",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और यहाँ दो (श्लोक) हैं: विरुद्ध भोजन से उत्पन्न रोगों को विवेचन, वमन और शमन, अथवा पहले से हितकर का सेवन नष्ट करता है।",
+  "english": "And here there are two: Purgation (vivecana), emesis and pacifying (śamana), or the prior use of what is wholesome, counters diseases born of incompatible eating.",
+  "text_flags": [],
+  "notes": "The singular verb pratihanti goes with each of the listed measures. vivecana (literally 'separating out') is taken as purgation, since emesis is named separately. The parallel list in 104 (vamana, virecana, saṃśamana, prior conditioning) supports vivecana = virecana.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.26.105a",
+   "01.26.105b",
+   "01.26.105c"
+  ],
+  "lines_deva": [
+   "भवतश्चात्र",
+   "विरुद्धाशनजान् रोगान् प्रतिहन्ति विवेचनम्",
+   "वमनं शमनं चैव पूर्वं वा हितसेवनम्"
+  ],
+  "lines_iast": [
+   "bhavataścātra",
+   "viruddhāśanajān rogān pratihanti vivecanam",
+   "vamanaṃ śamanaṃ caiva pūrvaṃ vā hitasevanam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "106",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sātmyato'lpatayā",
+      "words": [
+       {
+        "w": "sātmyataḥ",
+        "gloss": "through suitability (sātmya)",
+        "gram": "ind. (-tas)"
+       },
+       {
+        "w": "alpatayā",
+        "gloss": "through smallness (of quantity)",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāpi",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dīptāgnestaruṇasya",
+      "words": [
+       {
+        "w": "dīpta-agneḥ",
+        "gloss": "for one with keen digestive fire",
+        "gram": "m. gen. sg., bahuvrīhi"
+       },
+       {
+        "w": "taruṇasya",
+        "gloss": "for the young",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "snigdhavyāyāmabalināṃ",
+      "words": [
+       {
+        "w": "snigdha-vyāyāma-balinām",
+        "gloss": "for the unctuous, exercised and strong",
+        "gram": "m. gen. pl., compound in -balin (dvandva of qualities, or tat-puruṣa 'strong through unction and exercise'; see notes)"
+       }
+      ]
+     },
+     {
+      "src": "viruddhaṃ",
+      "words": [
+       {
+        "w": "viruddham",
+        "gloss": "the incompatible",
+        "gram": "n. nom. sg., ppp. vi-√rudh"
+       }
+      ]
+     },
+     {
+      "src": "vitathaṃ",
+      "words": [
+       {
+        "w": "vitatham",
+        "gloss": "ineffective",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavet",
+      "words": [
+       {
+        "w": "bhavet",
+        "gloss": "becomes",
+        "gram": "3 sg. opt. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सात्म्य होने से, अथवा अल्प मात्रा में होने से भी, और प्रदीप्त अग्नि वाले तथा युवा के लिए, तथा स्निग्ध, व्यायाम करने वाले और बलवान लोगों के लिए विरुद्ध निष्फल हो जाता है।",
+  "english": "Through suitability (sātmya), or also through small quantity, and for one with keen digestive fire and the young, and for those who are unctuous, used to exercise and strong, the incompatible becomes ineffective.",
+  "text_flags": [],
+  "notes": "snigdha-vyāyāma-balinām may also be read 'for those strong through unction and exercise'. vitatha literally 'untrue, futile'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.26.106a",
+   "01.26.106b"
+  ],
+  "lines_deva": [
+   "सात्म्यतोऽल्पतया वापि दीप्ताग्नेस्तरुणस्य च",
+   "स्निग्धव्यायामबलिनां विरुद्धं वितथं भवेत्"
+  ],
+  "lines_iast": [
+   "sātmyato'lpatayā vāpi dīptāgnestaruṇasya ca",
+   "snigdhavyāyāmabalināṃ viruddhaṃ vitathaṃ bhavet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "107",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ślokāḥ",
+      "words": [
+       {
+        "w": "ślokāḥ",
+        "gloss": "the verses",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "matirāsīnmaharṣīṇāṃ",
+      "words": [
+       {
+        "w": "matiḥ",
+        "gloss": "opinion",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "āsīt",
+        "gloss": "was",
+        "gram": "3 sg. impf. √as"
+       },
+       {
+        "w": "mahā-ṛṣīṇām",
+        "gloss": "of the great sages",
+        "gram": "m. gen. pl., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yā",
+        "gloss": "which",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yā",
+        "gloss": "which",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rasaviniścaye",
+      "words": [
+       {
+        "w": "rasa-viniścaye",
+        "gloss": "on the determination of taste",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dravyāṇi",
+      "words": [
+       {
+        "w": "dravyāṇi",
+        "gloss": "substances",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "guṇakramabhyāṃ",
+      "words": [
+       {
+        "w": "guṇa-karmabhyām",
+        "gloss": "by qualities and actions",
+        "gram": "n. inst. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "dravyasaṃkhyā",
+      "words": [
+       {
+        "w": "dravya-saṃkhyā",
+        "gloss": "the number of substances",
+        "gram": "f. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "rasāśrayā",
+      "words": [
+       {
+        "w": "rasa-āśrayā",
+        "gloss": "based on taste",
+        "gram": "f. nom. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यहाँ श्लोक हैं: रस-निर्णय के विषय में महर्षियों का जो-जो मत था; गुण और कर्म के अनुसार द्रव्य; रस पर आश्रित द्रव्य-संख्या;",
+  "english": "Here, the verses: whatever opinion the great sages each held on the determination of taste; substances by their qualities and actions; the number of substances based on taste;",
+  "text_flags": [
+   {
+    "src": "guṇakramabhyāṃ",
+    "suggest": "guṇakarmabhyāṃ",
+    "why": "krama + bhyām would give kramābhyām, so the printed form is not grammatical; guṇakarman (quality and action) appears in 110 of this chunk (guṇakarmaṇi); metre: printed syllables 5-7 ṇa kra ma = – ⏑ –, with karmabhyāṃ ṇa kar ma = ⏑ – –, the normal odd-pāda pattern (8 syllables either way)"
+   }
+  ],
+  "notes": "SENTENCE: the summary verses 107-113 form one sentence, a list of topics ending in 113 'all that the sage told in the Ātreyabhadrakāpyīya'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.26.107a",
+   "01.26.107b",
+   "01.26.107c"
+  ],
+  "lines_deva": [
+   "तत्र श्लोकाः",
+   "मतिरासीन्महर्षीणां या या रसविनिश्चये",
+   "द्रव्याणि गुणक्रमभ्यां द्रव्यसंख्या रसाश्रया"
+  ],
+  "lines_iast": [
+   "tatra ślokāḥ",
+   "matirāsīnmaharṣīṇāṃ yā yā rasaviniścaye",
+   "dravyāṇi guṇakramabhyāṃ dravyasaṃkhyā rasāśrayā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "108",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kāraṇaṃ",
+      "words": [
+       {
+        "w": "kāraṇam",
+        "gloss": "the reason",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rasasaṃkhyāyā",
+      "words": [
+       {
+        "w": "rasa-saṃkhyāyāḥ",
+        "gloss": "for the number of tastes",
+        "gram": "f. gen. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "rasānurasalakṣaṇam",
+      "words": [
+       {
+        "w": "rasa-anurasa-lakṣaṇam",
+        "gloss": "the characteristic of rasa and anurasa",
+        "gram": "n. nom. sg., tat-puruṣa (dvandva first member)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "parādīnāṃ",
+      "words": [
+       {
+        "w": "para-ādīnām",
+        "gloss": "beginning with para",
+        "gram": "m. gen. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "guṇānāṃ",
+      "words": [
+       {
+        "w": "guṇānām",
+        "gloss": "of the qualities",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "lakṣaṇāni",
+      "words": [
+       {
+        "w": "lakṣaṇāni",
+        "gloss": "characteristics",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pṛthakpṛthak",
+      "words": [
+       {
+        "w": "pṛthak",
+        "gloss": "separately",
+        "gram": "ind."
+       },
+       {
+        "w": "pṛthak",
+        "gloss": "separately",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रसों की संख्या का कारण; रस और अनुरस का लक्षण; और पर आदि गुणों के अलग-अलग लक्षण;",
+  "english": "the reason for the number of tastes; the characteristic of rasa and anurasa (subsidiary taste); and the characteristics of the qualities beginning with para, each separately;",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.26.108a",
+   "01.26.108b"
+  ],
+  "lines_deva": [
+   "कारणं रससंख्याया रसानुरसलक्षणम्",
+   "परादीनां गुणानां च लक्षणानि पृथक्पृथक्"
+  ],
+  "lines_iast": [
+   "kāraṇaṃ rasasaṃkhyāyā rasānurasalakṣaṇam",
+   "parādīnāṃ guṇānāṃ ca lakṣaṇāni pṛthakpṛthak"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "109",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pañcātmakānāṃ",
+      "words": [
+       {
+        "w": "pañca-ātmakānām",
+        "gloss": "composed of five",
+        "gram": "m. gen. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "ṣaṭtvaṃ",
+      "words": [
+       {
+        "w": "ṣaṭtvam",
+        "gloss": "being six",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rasānāṃ",
+      "words": [
+       {
+        "w": "rasānām",
+        "gloss": "of the tastes",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "yena",
+      "words": [
+       {
+        "w": "yena",
+        "gloss": "by which",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "hetunā",
+      "words": [
+       {
+        "w": "hetunā",
+        "gloss": "reason",
+        "gram": "m. inst. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ūrdhvānulomabhājaśca",
+      "words": [
+       {
+        "w": "ūrdhva-anuloma-bhājaḥ",
+        "gloss": "tending upward or downward",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yadguṇātiśayādrasāḥ",
+      "words": [
+       {
+        "w": "yat-guṇa-atiśayāt",
+        "gloss": "from excess of which quality",
+        "gram": "m. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "rasāḥ",
+        "gloss": "tastes",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और जिस कारण से पञ्चात्मक रस छह हैं; और जिस गुण की अधिकता से रस ऊर्ध्वगामी और अनुलोमगामी होते हैं;",
+  "english": "the reason by which the tastes, being composed of the five (pañcātmaka), are six; and from the excess of which quality the tastes tend upward or downward;",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.26.109a",
+   "01.26.109b"
+  ],
+  "lines_deva": [
+   "पञ्चात्मकानां षट्त्वं च रसानां येन हेतुना",
+   "ऊर्ध्वानुलोमभाजश्च यद्गुणातिशयाद्रसाः"
+  ],
+  "lines_iast": [
+   "pañcātmakānāṃ ṣaṭtvaṃ ca rasānāṃ yena hetunā",
+   "ūrdhvānulomabhājaśca yadguṇātiśayādrasāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "110",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ṣaṇṇāṃ",
+      "words": [
+       {
+        "w": "ṣaṇṇām",
+        "gloss": "of the six",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "rasānāṃ",
+      "words": [
+       {
+        "w": "rasānām",
+        "gloss": "of the tastes",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ṣaṭtve",
+      "words": [
+       {
+        "w": "ṣaṭtve",
+        "gloss": "in the sixfoldness",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "savibhaktā",
+      "words": [
+       {
+        "w": "sa-vibhaktāḥ",
+        "gloss": "with their subdivisions",
+        "gram": "f. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vibhaktayaḥ",
+      "words": [
+       {
+        "w": "vibhaktayaḥ",
+        "gloss": "the divisions",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "uddeśaścāpavādaśca",
+      "words": [
+       {
+        "w": "uddeśaḥ",
+        "gloss": "the general statement",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "apavādaḥ",
+        "gloss": "the exception",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dravyāṇāṃ",
+      "words": [
+       {
+        "w": "dravyāṇām",
+        "gloss": "of substances",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "guṇakarmaṇi",
+      "words": [
+       {
+        "w": "guṇa-karmaṇi",
+        "gloss": "on quality and action",
+        "gram": "n. loc. sg., dvandva (samāhāra)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "छह रसों के षट्त्व के विषय में उप-विभागों सहित विभाग; और द्रव्यों के गुण-कर्म के विषय में उद्देश और अपवाद;",
+  "english": "the divisions, with their subdivisions, regarding the sixfoldness of the six tastes; and the general statement and the exception about the quality and action of substances;",
+  "text_flags": [],
+  "notes": "savibhaktāḥ 'with their subdivisions' is a literal rendering; what the divisions are is not stated in this chunk.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.26.110a",
+   "01.26.110b"
+  ],
+  "lines_deva": [
+   "षण्णां रसानां षट्त्वे च सविभक्ता विभक्तयः",
+   "उद्देशश्चापवादश्च द्रव्याणां गुणकर्मणि"
+  ],
+  "lines_iast": [
+   "ṣaṇṇāṃ rasānāṃ ṣaṭtve ca savibhaktā vibhaktayaḥ",
+   "uddeśaścāpavādaśca dravyāṇāṃ guṇakarmaṇi"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "111",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pravarāvaramadhyatvaṃ",
+      "words": [
+       {
+        "w": "pravara-avara-madhya-tvam",
+        "gloss": "being highest, lowest or middle",
+        "gram": "n. nom. sg., dvandva + -tva"
+       }
+      ]
+     },
+     {
+      "src": "rasānām",
+      "words": [
+       {
+        "w": "rasānām",
+        "gloss": "of the tastes",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "gaurvādiṣu",
+      "words": [
+       {
+        "w": "gaurava-ādiṣu",
+        "gloss": "in heaviness and the rest",
+        "gram": "n. loc. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pākaprabhāvayorliṅgaṃ",
+      "words": [
+       {
+        "w": "pāka-prabhāvayoḥ",
+        "gloss": "of vipāka (pāka) and prabhāva",
+        "gram": "m. gen. du., dvandva"
+       },
+       {
+        "w": "liṅgam",
+        "gloss": "the sign",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vīryasaṃkhyāviniścayaḥ",
+      "words": [
+       {
+        "w": "vīrya-saṃkhyā-viniścayaḥ",
+        "gloss": "determination of the number of potencies",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गुरुता आदि में रसों का श्रेष्ठ, अवर और मध्य होना; पाक और प्रभाव का लक्षण; वीर्य-संख्या का निश्चय;",
+  "english": "the highest, lowest and middle rank of the tastes in heaviness and the rest; the sign of pāka (vipāka, post-digestive taste) and prabhāva (specific action); the determination of the number of vīryas (potencies);",
+  "text_flags": [
+   {
+    "src": "gaurvādiṣu",
+    "suggest": "gauravādiṣu",
+    "why": "gaurva is not a word (gaurava 'heaviness'); with gaurva the pāda has 7 syllables, with gaurava the required 8 (ra sā nāṃ gau ra vā di ṣu: syllables 5-7 ra vā di = ⏑ – ⏑, as an even pāda requires)"
+   }
+  ],
+  "notes": "rasānām is printed with m before a consonant (for ṃ); this is only spelling and is kept.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.26.111a",
+   "01.26.111b"
+  ],
+  "lines_deva": [
+   "प्रवरावरमध्यत्वं रसानाम् गौर्वादिषु",
+   "पाकप्रभावयोर्लिङ्गं वीर्यसंख्याविनिश्चयः"
+  ],
+  "lines_iast": [
+   "pravarāvaramadhyatvaṃ rasānām gaurvādiṣu",
+   "pākaprabhāvayorliṅgaṃ vīryasaṃkhyāviniścayaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "112",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ṣaṇṇāmāsvādyamānānāṃ",
+      "words": [
+       {
+        "w": "ṣaṇṇām",
+        "gloss": "of the six",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "āsvādyamānānām",
+        "gloss": "being tasted",
+        "gram": "m. gen. pl., pres. pass. part. caus. ā-√svad"
+       }
+      ]
+     },
+     {
+      "src": "rasānāṃ",
+      "words": [
+       {
+        "w": "rasānām",
+        "gloss": "of the tastes",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "yat",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "svalakṣaṇam",
+      "words": [
+       {
+        "w": "sva-lakṣaṇam",
+        "gloss": "own characteristic",
+        "gram": "n. nom. sg., karmadhāraya"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yadyadvirudhyate",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "whatever",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "yat",
+        "gloss": "whatever",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "virudhyate",
+        "gloss": "is incompatible",
+        "gram": "3 sg. pres. pass. vi-√rudh"
+       }
+      ]
+     },
+     {
+      "src": "yasmādyena",
+      "words": [
+       {
+        "w": "yasmāt",
+        "gloss": "with what",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "yena",
+        "gloss": "by what",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "yatkāri",
+      "words": [
+       {
+        "w": "yat-kāri",
+        "gloss": "producing what",
+        "gram": "n. nom. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "caiva",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yat",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चखे जाते हुए छह रसों का जो स्वलक्षण है; जो-जो जिससे विरुद्ध होता है, जिसके द्वारा, और जो जिस कार्य को करने वाला है;",
+  "english": "the own characteristic (svalakṣaṇa) of the six tastes as they are tasted; whatever is incompatible with whatever, through what, and what each one produces;",
+  "text_flags": [],
+  "notes": "The relative clauses in 112b are compressed; yasmāt is taken as 'with what' (the thing it conflicts with) and yena as 'through what (cause)'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.26.112a",
+   "01.26.112b"
+  ],
+  "lines_deva": [
+   "षण्णामास्वाद्यमानानां रसानां यत् स्वलक्षणम्",
+   "यद्यद्विरुध्यते यस्माद्येन यत्कारि चैव यत्"
+  ],
+  "lines_iast": [
+   "ṣaṇṇāmāsvādyamānānāṃ rasānāṃ yat svalakṣaṇam",
+   "yadyadvirudhyate yasmādyena yatkāri caiva yat"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "113",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vairodhikanimittānāṃ",
+      "words": [
+       {
+        "w": "vairodhika-nimittānām",
+        "gloss": "caused by incompatibility",
+        "gram": "m. gen. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vyāhīnāmauṣadhaṃ",
+      "words": [
+       {
+        "w": "vyādhīnām",
+        "gloss": "of diseases",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "auṣadham",
+        "gloss": "the medicine",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yat",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ātreyabhadrakāpyīye",
+      "words": [
+       {
+        "w": "ātreyabhadrakāpyīye",
+        "gloss": "in the Ātreyabhadrakāpyīya (chapter)",
+        "gram": "m. loc. sg. (chapter name)"
+       }
+      ]
+     },
+     {
+      "src": "tat",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvamavadanmuniḥ",
+      "words": [
+       {
+        "w": "sarvam",
+        "gloss": "all",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "avadat",
+        "gloss": "told",
+        "gram": "3 sg. impf. √vad"
+       },
+       {
+        "w": "muniḥ",
+        "gloss": "the sage",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और विरोध से उत्पन्न रोगों की जो औषध है — वह सब मुनि ने आत्रेयभद्रकाप्यीय में कहा।",
+  "english": "and the medicine for diseases caused by incompatibility: all that the sage told in the Ātreyabhadrakāpyīya.",
+  "text_flags": [
+   {
+    "src": "vyāhīnāmauṣadhaṃ",
+    "suggest": "vyādhīnāmauṣadhaṃ",
+    "why": "vyāhīnām is not a word; the same phrase vairodhikanimittānāṃ vyādhīnām is printed in 104 of this chunk"
+   }
+  ],
+  "notes": "avadan is avadat before muniḥ (t becomes n before a nasal); no error. Chapter name in -īya kept unsplit.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.26.113a",
+   "01.26.113b"
+  ],
+  "lines_deva": [
+   "वैरोधिकनिमित्तानां व्याहीनामौषधं च यत्",
+   "आत्रेयभद्रकाप्यीये तत् सर्वमवदन्मुनिः"
+  ],
+  "lines_iast": [
+   "vairodhikanimittānāṃ vyāhīnāmauṣadhaṃ ca yat",
+   "ātreyabhadrakāpyīye tat sarvamavadanmuniḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "P35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ityagniveśakṛte",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus (closing marker)",
+        "gram": "ind."
+       },
+       {
+        "w": "agniveśa-kṛte",
+        "gloss": "composed by Agniveśa",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tantre",
+      "words": [
+       {
+        "w": "tantre",
+        "gloss": "in the treatise",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "carakapratisaṃskṛte",
+      "words": [
+       {
+        "w": "caraka-pratisaṃskṛte",
+        "gloss": "redacted by Caraka",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ślokasthāne",
+      "words": [
+       {
+        "w": "śloka-sthāne",
+        "gloss": "in the Śloka section (Ślokasthāna)",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ātreyabhadrakāpyīyo",
+      "words": [
+       {
+        "w": "ātreyabhadrakāpyīyaḥ",
+        "gloss": "Ātreyabhadrakāpyīya",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāma",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "named",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣaḍviṃśo'dhyāyaḥ",
+      "words": [
+       {
+        "w": "ṣaḍviṃśaḥ",
+        "gloss": "twenty-sixth",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "adhyāyaḥ",
+        "gloss": "chapter",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार अग्निवेश द्वारा रचित, चरक द्वारा प्रतिसंस्कृत तन्त्र के श्लोकस्थान में आत्रेयभद्रकाप्यीय नामक छब्बीसवाँ अध्याय।",
+  "english": "Thus, in the treatise composed by Agniveśa and redacted by Caraka, in the Śloka section (Ślokasthāna), the twenty-sixth chapter named Ātreyabhadrakāpyīya.",
+  "text_flags": [],
+  "notes": "Chapter colophon (prose).",
+  "confidence": "high",
+  "type": "prose",
+  "line_ids": [
+   "01.26.P35"
+  ],
+  "lines_deva": [
+   "इत्यग्निवेशकृते तन्त्रे चरकप्रतिसंस्कृते श्लोकस्थाने आत्रेयभद्रकाप्यीयो नाम षड्विंशोऽध्यायः"
+  ],
+  "lines_iast": [
+   "ityagniveśakṛte tantre carakapratisaṃskṛte ślokasthāne ātreyabhadrakāpyīyo nāma ṣaḍviṃśo'dhyāyaḥ"
+  ],
+  "uncertain": []
+ }
+]

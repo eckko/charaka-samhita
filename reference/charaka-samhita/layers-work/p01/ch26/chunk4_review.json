@@ -430,8 +430,23 @@
   },
   {
    "n": "108",
-   "verdict": "ok",
-   "issues": []
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "anurasa (secondary taste)",
+     "problem": "GLOSSARY (Sū 26 ch1): anurasa = subsidiary taste (anurasa).",
+     "fix": "anurasa (subsidiary taste)",
+     "severity": "minor",
+     "patch": {
+      "n": "108",
+      "op": "replace",
+      "field": "english",
+      "old": "anurasa (secondary taste)",
+      "new": "anurasa (subsidiary taste)"
+     }
+    }
+   ]
   },
   {
    "n": "109",
@@ -492,5 +507,5 @@
    "issues": []
   }
  ],
- "summary": "Chunk 4 (Sū 26, P29-P35, 85-113): 16 of 36 units need fixes; 1 error, 19 minor; 1 MANUAL item (104 prose typed as verse). No regrouping. All 7 text_flags accepted: each has grammar or in-chunk evidence (P29 ṇd->ṇḍ, P34 -āṃ/ṣt, 88 tīkṣaṇa, 99 dagdhā (possible, neuter yat/viruddham), 107 guṇakramabhyāṃ, 111 gaurvādiṣu, 113 vyāhīnām vs 104); syllable counts for 88 and 111 verified and weights added; 107's 'metre unchanged' corrected. Plant identifications cut to pippalī only (POLICY). Judged acceptable as drafted: sīsaka kept Sanskrit (meaning uncertain, noted), nistālana 'frying' (uncertain, noted), upacāra 'manner of use' with 98b as its likely example, 92a compound (alternative in notes, medium), 106 vitatha 'ineffective'. No notes cite commentators or other editions."
+ "summary": "Chunk 4 (Sū 26, P29-P35, 85-113): 17 of 36 units need fixes; 1 error, 20 minor; 1 MANUAL item (104 prose typed as verse). No regrouping. All 7 text_flags accepted: each has grammar or in-chunk evidence (P29 ṇd->ṇḍ, P34 -āṃ/ṣt, 88 tīkṣaṇa, 99 dagdhā (possible, neuter yat/viruddham), 107 guṇakramabhyāṃ, 111 gaurvādiṣu, 113 vyāhīnām vs 104); syllable counts for 88 and 111 verified and weights added; 107's 'metre unchanged' corrected. Plant identifications cut to pippalī only (POLICY). Judged acceptable as drafted: sīsaka kept Sanskrit (meaning uncertain, noted), nistālana 'frying' (uncertain, noted), upacāra 'manner of use' with 98b as its likely example, 92a compound (alternative in notes, medium), 106 vitatha 'ineffective'. No notes cite commentators or other editions."
 }

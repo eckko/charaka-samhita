@@ -1,0 +1,166 @@
+[
+ {
+  "n": "P29",
+  "field": "notes",
+  "old": "sīsaka ordinarily means lead; with avasakta 'fixed on, hung on' and the castor fire in the same line it seems here to mean a spit or skewer, but the meaning is uncertain and the word is kept in both translations. eraṇḍa = Ricinus communis (standard). Prose line.",
+  "new": "sīsaka ordinarily means lead; with avasakta 'fixed on, hung on' and the castor fire in the same line it seems here to mean a spit or skewer, but the meaning is uncertain and the word is kept in both translations. Prose line.",
+  "why": "reviewer (minor): POLICY (minimal identifications): the translation already says 'castor'; the botanical name adds nothing the verse needs."
+ },
+ {
+  "n": "P31",
+  "field": "notes",
+  "old": "nistālana is taken as 'frying' from the context of cooking; the medium (the oil or the pan used for the fish) is not stated, and the word's exact sense is uncertain. Whether kākamācī and honey are meant together (as a combination) or each separately is not explicit; the combination reading fits the list of incompatible pairs. pippalī = Piper longum (standard); kākamācī = Solanum nigrum (standard). Prose line.",
+  "new": "nistālana is taken as 'frying' from the context of cooking; the medium (the oil or the pan used for the fish) is not stated, and the word's exact sense is uncertain. Whether kākamācī and honey are meant together (as a combination) or each separately is not explicit; the combination reading fits the list of incompatible pairs. pippalī = Piper longum (standard). Prose line.",
+  "why": "reviewer (minor): POLICY: keep only standard identifications that help (pippalī is on the glossary list); kākamācī stays Sanskrit without an identification."
+ },
+ {
+  "n": "P33",
+  "field": "notes",
+  "old": "vāri āntarikṣam = rain-water (water from the sky). bhāsa is an animal whose meat is meant (roasted on a spit); left unidentified. bhallātakoṣṇodakam is split as one samāhāra unit 'bhallātaka with hot water' by analogy with the pairs before it. Identifications: puṣkara = lotus, Nelumbo nucifera (probable); bhallātaka = Semecarpus anacardium (standard); kampillaka = Mallotus philippensis (probable); kākamācī = Solanum nigrum (standard). Prose line.",
+  "new": "vāri āntarikṣam = rain-water (water from the sky). bhāsa is an animal whose meat is meant (roasted on a spit); left unidentified. bhallātakoṣṇodakam is split as one samāhāra unit 'bhallātaka with hot water' by analogy with the pairs before it. Prose line.",
+  "why": "reviewer (minor): POLICY: 'probable' identifications (puṣkara, kampillaka) are dropped; bhallātaka and kākamācī stay Sanskrit, an identification is not needed for the verse."
+ },
+ {
+  "n": "P33",
+  "field": "hindi",
+  "old": "समान मात्रा में मधु और घी; मधु और आन्तरिक्ष जल समान मात्रा में; मधु और पुष्कर-बीज; मधु पीकर उष्ण जल; भल्लातक और उष्ण जल; तक्र में सिद्ध कम्पिल्लक; बासी काकमाची; और अङ्गारों पर सलाख में भुना भास — ये विरुद्ध हैं।",
+  "new": "समान मात्रा में मधु और घी; मधु और आन्तरिक्ष जल समान मात्रा में; मधु और पुष्कर-बीज; मधु पीकर उष्ण जल; भल्लातक और उष्ण जल; तक्र में सिद्ध कम्पिल्लक; बासी काकमाची; और अङ्गारों पर सलाख पर भुना भास — ये विरुद्ध हैं।",
+  "why": "reviewer (minor): A spit-roasted thing is roasted on (पर) a spit, not in it."
+ },
+ {
+  "n": "85",
+  "field": "word.gram",
+  "word": "kiñcit",
+  "old": "ind.",
+  "new": "n. nom. sg. (indef., with yat)",
+  "why": "reviewer (minor): In 'yat kiñcit ... āhārajātam' kiñcit is the indefinite pronoun agreeing with the neuter noun, not an indeclinable."
+ },
+ {
+  "n": "86",
+  "field": "hindi",
+  "old": "और जो भी देश, काल, अग्नि, मात्रा, सात्म्य, वात आदि से, संस्कार से और वीर्य से, तथा कोष्ठ, अवस्था और क्रम से भी (विरुद्ध हो),",
+  "new": "और जो भी देश, काल, अग्नि, मात्रा, सात्म्य, अनिल आदि से, संस्कार से और वीर्य से, तथा कोष्ठ, अवस्था और क्रम से भी (विरुद्ध हो),",
+  "why": "reviewer (minor): GLOSSARY: anila (doṣa) = Vāta (anila), Hindi अनिल (printed word kept)."
+ },
+ {
+  "n": "88",
+  "field": "text_flags.0.why",
+  "old": "tīkṣaṇa is not a word (tīkṣṇa 'sharp'); with tīkṣaṇa the pāda has 9 syllables, with tīkṣṇa the required 8",
+  "new": "tīkṣaṇa is not a word (tīkṣṇa 'sharp'); with tīkṣaṇa the pāda has 9 syllables, with tīkṣṇa the required 8 (rū kṣa tīk ṣṇā di dhan va ni: syllables 5-7 di dhan va = ⏑ – ⏑, as an even pāda requires)",
+  "why": "reviewer (minor): Accepted (no word tīkṣaṇa; count 9 -> 8). Per the glossary metre rule, name the weights: with tīkṣṇādi the even pāda is rū kṣa tīk ṣṇā di dhan va ni, syllables 5-7 di dhan va = ⏑ – ⏑ as required."
+ },
+ {
+  "n": "91",
+  "field": "hindi",
+  "old": "कटु, उष्ण आदि जिसके लिए सात्म्य हों, उसके द्वारा मधुर, शीत आदि का जो सेवन है, वह सात्म्य-विरुद्ध है; और वात आदि से विरुद्ध —",
+  "new": "कटु, उष्ण आदि जिसके लिए सात्म्य हों, उसके द्वारा मधुर, शीत आदि का जो सेवन है, वह सात्म्य-विरुद्ध है; और अनिल आदि से विरुद्ध —",
+  "why": "reviewer (minor): GLOSSARY: anila in Hindi = अनिल."
+ },
+ {
+  "n": "92",
+  "field": "english",
+  "old": "is the use of food and herbs that is incompatible through habitual use of the same qualities (as theirs). Incompatible by processing is that food which would become like poison,",
+  "new": "is the use of food and herbs that is incompatible through habitual use of the same qualities (as Vāta and the rest). Incompatible by processing is that food which would become like poison,",
+  "why": "reviewer (minor): 'theirs' is ambiguous (it can be read as the food's own qualities); the compound continues 91b 'viruddhaṃ tv anilādibhiḥ', so the referent is Vāta and the rest. The draft's reading of the compound is defensible and its alternative is rightly in notes; medium confidence is honest."
+ },
+ {
+  "n": "92",
+  "field": "hindi",
+  "old": "(वह है) जो समान गुणों के अभ्यास से विरुद्ध अन्न और औषधि का प्रयोग है। संस्कार से विरुद्ध वह है, जो भोज्य विष के समान हो जाए —",
+  "new": "(वह है) जो (अनिल आदि के) समान गुणों के अभ्यास से विरुद्ध अन्न और औषधि का प्रयोग है। संस्कार से विरुद्ध वह है, जो भोज्य विष के समान हो जाए —",
+  "why": "reviewer (minor): 'theirs' is ambiguous (it can be read as the food's own qualities); the compound continues 91b 'viruddhaṃ tv anilādibhiḥ', so the referent is Vāta and the rest. The draft's reading of the compound is defensible and its alternative is rightly in notes; medium confidence is honest."
+ },
+ {
+  "n": "96",
+  "field": "english",
+  "old": "food aggravating Vāta (anila) for one given to fatigue, sexual intercourse (vyavāya) and exercise, and food aggravating Kapha (śleṣman) for one who is languid with sleep and lazy.",
+  "new": "food aggravating Vāta (anila) for one engaged in exertion (śrama), sexual intercourse (vyavāya) and exercise, and food aggravating Kapha (śleṣman) for one who is languid with sleep and lazy.",
+  "why": "reviewer (minor): śrama here is an activity one is 'sakta' (devoted) to, beside vyavāya and vyāyāma: exertion, not the symptom fatigue; 'given to fatigue' misleads."
+ },
+ {
+  "n": "96",
+  "field": "word.gloss",
+  "word": "śrama-vyavāya-vyāyāma-saktasya",
+  "old": "for one given to fatigue, sexual intercourse and exercise",
+  "new": "for one engaged in exertion, sexual intercourse and exercise",
+  "why": "reviewer (minor): śrama here is an activity one is 'sakta' (devoted) to, beside vyavāya and vyāyāma: exertion, not the symptom fatigue; 'given to fatigue' misleads."
+ },
+ {
+  "n": "96",
+  "field": "hindi",
+  "old": "श्रम, व्यवाय और व्यायाम में लगे हुए व्यक्ति के लिए वात को कुपित करने वाला (भोजन), और निद्रा से अलसाए आलसी व्यक्ति के लिए कफ को कुपित करने वाला भोजन।",
+  "new": "श्रम, व्यवाय और व्यायाम में लगे हुए व्यक्ति के लिए अनिल को कुपित करने वाला (भोजन), और निद्रा से अलसाए आलसी व्यक्ति के लिए कफ को कुपित करने वाला भोजन।",
+  "why": "reviewer (minor): GLOSSARY: anila in Hindi = अनिल, śleṣman in Hindi = श्लेष्मा (printed words kept)."
+ },
+ {
+  "n": "96",
+  "field": "hindi",
+  "old": "श्रम, व्यवाय और व्यायाम में लगे हुए व्यक्ति के लिए अनिल को कुपित करने वाला (भोजन), और निद्रा से अलसाए आलसी व्यक्ति के लिए कफ को कुपित करने वाला भोजन।",
+  "new": "श्रम, व्यवाय और व्यायाम में लगे हुए व्यक्ति के लिए अनिल को कुपित करने वाला (भोजन), और निद्रा से अलसाए आलसी व्यक्ति के लिए श्लेष्मा को कुपित करने वाला भोजन।",
+  "why": "reviewer (minor): GLOSSARY: anila in Hindi = अनिल, śleṣman in Hindi = श्लेष्मा (printed words kept)."
+ },
+ {
+  "n": "96",
+  "field": "notes",
+  "old": "SENTENCE: completes 95b. bhojanam is understood with anilakopanam too. nidrālasasyālasasya may also be divided nidrā-ālasya (sleep and lethargy) + alasasya, or read as two genitives of one person; the sense is the same.",
+  "new": "SENTENCE: completes 95b. bhojanam is understood with anilakopanam too. nidrālasasya and alasasya are taken as two genitives describing one person.",
+  "why": "reviewer (error): Impossible split: nidrā-ālasya + alasasya would be printed nidrālasyālasasya; the printed nidrālasasya-alasasya allows only nidrā-alasa. The draft's own reading is right."
+ },
+ {
+  "n": "97",
+  "field": "english",
+  "old": "And when one eats without voiding faeces and urine, and one who eats when not hungry: that would be incompatible by sequence (krama); and (so is) what (is eaten by one) under the sway of excessive hunger.",
+  "new": "And when one eats without voiding faeces and urine, and one who eats when not hungry: that would be incompatible by sequence (krama); and (so is it) when one (eats) under the sway of excessive hunger.",
+  "why": "reviewer (minor): yat here is the conjunction 'when' as in 97a (yac cānutsṛjya ... bhuṅkte), not an object 'what is eaten'; the eater is ...anugaḥ (m.)."
+ },
+ {
+  "n": "102",
+  "field": "english",
+  "old": "(Incompatible food, they declare, is the cause) of impotence (ṣāṇḍhya), blindness, vīsarpa, dakodara, visphoṭaka, insanity (unmāda), bhagandara, fainting (mūrcchā), intoxication (mada), ādhmāna, galagraha, the disease pāṇḍu, and āmaviṣa,",
+  "new": "(Incompatible food, they declare, is the cause) of impotence (ṣāṇḍhya), blindness, vīsarpa, dakodara, visphoṭaka, insanity (unmāda), bhagandara, mūrcchā (fainting), mada (intoxication), ādhmāna, galagraha, the disease pāṇḍu, and āmaviṣa,",
+  "why": "reviewer (minor): GLOSSARY (Sū 24): English keeps mūrcchā/mada as the running word, the English sense in brackets."
+ },
+ {
+  "n": "105",
+  "field": "notes",
+  "old": "The singular verb pratihanti goes with each of the listed measures. vivecana (literally 'separating out') is taken as purgation, since emesis is named separately.",
+  "new": "The singular verb pratihanti goes with each of the listed measures. vivecana (literally 'separating out') is taken as purgation, since emesis is named separately. The parallel list in 104 (vamana, virecana, saṃśamana, prior conditioning) supports vivecana = virecana.",
+  "why": "reviewer (minor): Accepted; strengthen the in-chunk evidence: 104 lists the same measures as vamana, virecana, saṃśamana and prior conditioning, so vivecana here stands for virecana."
+ },
+ {
+  "n": "106",
+  "field": "word.gram",
+  "word": "snigdha-vyāyāma-balinām",
+  "old": "m. gen. pl., dvandva",
+  "new": "m. gen. pl., compound in -balin (dvandva of qualities, or tat-puruṣa 'strong through unction and exercise'; see notes)",
+  "why": "reviewer (minor): vyāyāma is a noun ('exercise'), so a plain dvandva 'unctuous, exercised and strong' is loose; the compound ends in balin and is as well read as 'strong through unction and exercise' (the draft's notes alternative). Translation acceptable; label the analysis honestly."
+ },
+ {
+  "n": "107",
+  "field": "text_flags.0.why",
+  "old": "krama + bhyām would give kramābhyām, so the printed form is not grammatical; guṇakarman (quality and action) appears in 110 of this chunk (guṇakarmaṇi); the metre is unchanged",
+  "new": "krama + bhyām would give kramābhyām, so the printed form is not grammatical; guṇakarman (quality and action) appears in 110 of this chunk (guṇakarmaṇi); metre: printed syllables 5-7 ṇa kra ma = – ⏑ –, with karmabhyāṃ ṇa kar ma = ⏑ – –, the normal odd-pāda pattern (8 syllables either way)",
+  "why": "reviewer (minor): Accepted on grammar (krama + bhyām = kramābhyām) and the chunk parallel (guṇakarmaṇi, 110). But the metre is not 'unchanged': the count stays 8, the weights change. Printed: dra vyā ṇi gu ṇa kra ma bhyāṃ, syllables 5-7 ṇa kra ma = – ⏑ –; with karmabhyāṃ: ṇa kar ma = ⏑ – –, the normal (pathyā) odd-pāda pattern. This supports the correction."
+ },
+ {
+  "n": "108",
+  "field": "english",
+  "old": "the reason for the number of tastes; the characteristic of rasa and anurasa (secondary taste); and the characteristics of the qualities beginning with para, each separately;",
+  "new": "the reason for the number of tastes; the characteristic of rasa and anurasa (subsidiary taste); and the characteristics of the qualities beginning with para, each separately;",
+  "why": "reviewer (minor): GLOSSARY (Sū 26 ch1): anurasa = subsidiary taste (anurasa)."
+ },
+ {
+  "n": "111",
+  "field": "text_flags.0.why",
+  "old": "gaurva is not a word (gaurava 'heaviness'); with gaurva the pāda has 7 syllables, with gaurava the required 8",
+  "new": "gaurva is not a word (gaurava 'heaviness'); with gaurva the pāda has 7 syllables, with gaurava the required 8 (ra sā nāṃ gau ra vā di ṣu: syllables 5-7 ra vā di = ⏑ – ⏑, as an even pāda requires)",
+  "why": "reviewer (minor): Accepted (count 7 -> 8 verified). Add weights: ra sā nāṃ gau ra vā di ṣu, syllables 5-7 ra vā di = ⏑ – ⏑ as an even pāda requires."
+ },
+ {
+  "n": "111",
+  "field": "english",
+  "old": "the highest, lowest and middle rank of the tastes in heaviness and the rest; the sign of vipāka (pāka, post-digestive taste) and prabhāva (specific action); the determination of the number of vīryas (potencies);",
+  "new": "the highest, lowest and middle rank of the tastes in heaviness and the rest; the sign of pāka (vipāka, post-digestive taste) and prabhāva (specific action); the determination of the number of vīryas (potencies);",
+  "why": "reviewer (minor): The text prints pāka; the running word should be the printed one, with vipāka as the gloss (Hindi already has पाक)."
+ }
+]
