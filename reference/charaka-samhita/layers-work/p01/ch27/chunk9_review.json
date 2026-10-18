@@ -1,0 +1,571 @@
+{
+ "units": [
+  {
+   "n": "320",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "SENTENCE: continues the account ... from 319.",
+     "problem": "320 is a complete sentence (parīkṣya anupibed hitam has its own verb), so 'SENTENCE:' is wrong, and the reference to 319 is outside this chunk.",
+     "fix": "drop that sentence",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "SENTENCE: continues the account of the after-drink (anupāna) from 319. ",
+      "new": "",
+      "n": "320"
+     }
+    }
+   ]
+  },
+  {
+   "n": "321",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "english",
+     "where": "param 'the best'",
+     "problem": "Judged acceptable: param as neuter predicate with masc. māṃsarasaḥ is explained in notes; māruta = Vāta (māruta) per glossary; Hindi मारुत per glossary.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "322",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मार्ग",
+     "problem": "adhvan here is travel/walking (English 'travel'); Hindi मार्ग alone means 'road' and does not say what exhausts.",
+     "fix": "मार्ग-गमन",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उपवास, मार्ग, बोलने",
+      "new": "उपवास, मार्ग-गमन, बोलने",
+      "n": "322"
+     }
+    },
+    {
+     "field": "split",
+     "where": "-karmabhiḥ",
+     "problem": "Judged acceptable: karma as a separate member (work) is defensible; the note gives the alternative that karman governs all members. māruta/ātapa = wind and sun with Hindi मारुत/धूप follows the Sū 22 decision. payas = milk (दूध) per glossary.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "323",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "english",
+     "where": "anu = afterwards",
+     "problem": "Judged acceptable: anu as adverb 'afterwards' fits (as after-drink); sthūla-deha bahuvrīhi correct; surā kept Sanskrit.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "324",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "english",
+     "where": "madya alone",
+     "problem": "Judged acceptable: madya kept Sanskrit in both layers; restrictive eva as 'alone' is within the glossary rule; the note gives the alternative construction of the instrumental. Medium confidence honest.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "325",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "vyavāyitā is the quality of spreading through the body before digestion",
+     "problem": "This definition is not in the Sanskrit of the chunk; it comes from outside knowledge (a later/other definition) and must be removed per POLICY. A literal gloss is enough.",
+     "fix": "vyavāyitā literally 'pervasiveness' (from vyavāyin 'pervading'); 'quick diffusion' is given.",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "vyavāyitā is the quality of spreading through the body before digestion (vyavāyin); 'quick diffusion' is given.",
+      "new": "vyavāyitā literally 'pervasiveness' (from vyavāyin 'pervading'); 'quick diffusion' is given.",
+      "n": "325"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "sukha-pariṇāmitām",
+     "problem": "Not a plain tat-puruṣa: it is the abstract in -tā of the compound sukha-pariṇāmin 'easily transformed'.",
+     "fix": "f. acc. sg., abstract (-tā) of sukha-pariṇāmin",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sukha-pariṇāmitām",
+      "field": "gram",
+      "value": "f. acc. sg., abstract (-tā) of sukha-pariṇāmin",
+      "n": "325"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "āśu-vyavāyitām",
+     "problem": "Same: abstract in -tā of āśu-vyavāyin.",
+     "fix": "f. acc. sg., abstract (-tā) of āśu-vyavāyin",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "āśu-vyavāyitām",
+      "field": "gram",
+      "value": "f. acc. sg., abstract (-tā) of āśu-vyavāyin",
+      "n": "325"
+     }
+    },
+    {
+     "field": "english",
+     "where": "tarpayati / kledayati / bṛṃhayati",
+     "problem": "Judged acceptable: tarpayati = replenishes, kledayati = moistens, bṛṃhayati = nourishes, all as fixed; Hindi तर्पण/क्लेदन/बृंहण consistent. Prose line in a verse unit noted.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "326",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "और आयु तथा बल के लिए होता है",
+     "problem": "The verb is supplied (English brackets '(serves)'); glossary: supplied words in Hindi go in brackets like the English.",
+     "fix": "और आयु तथा बल के लिए (होता है)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बल के लिए होता है।",
+      "new": "बल के लिए (होता है)।",
+      "n": "326"
+     }
+    },
+    {
+     "field": "english",
+     "where": "And here there is:",
+     "problem": "Judged acceptable: bhavati cātra rendered as fixed, Hindi और यहाँ (श्लोक) है: as in earlier chunks.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "327",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "nordhvāṅgamārutāviṣṭa → -āviṣṭā",
+     "problem": "Judged acceptable: Evidence is inside the chunk and grammar: the other subjects are nom. pl. (kāsinaḥ, kṣatāḥ) with pibeyuḥ in 328, and -āḥ before n gives -ā; metre cannot decide (8th syllable anceps), and the flag rightly says 'possible'. Accepted.",
+     "fix": "keep",
+     "severity": "minor"
+    },
+    {
+     "field": "text_flags",
+     "where": "gītabhāṣyāadhyayana → gītabhāṣyādhyayana",
+     "problem": "Judged acceptable: Metre checked: printed line has 17 syllables, corrected 16; even pāda 5-7 ra-si-kṣa = light-heavy-light (pathyā). Accepted.",
+     "fix": "keep",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "hikkā, śvāsa, kāsa kept as in the glossary.",
+     "problem": "Inaccurate meta-note: hikkā is not in the glossary and kāsa is translated 'cough', not kept. Remove.",
+     "fix": "drop the sentence",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": " hikkā, śvāsa, kāsa kept as in the glossary.",
+      "new": "",
+      "n": "327"
+     }
+    }
+   ]
+  },
+  {
+   "n": "328",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "kaṇṭorasi → kaṇṭhorasi",
+     "problem": "Judged acceptable: Evidence inside the chunk (uras paired, 'norasi kṣatāḥ' 327) and sense; count unchanged. Accepted. kaṇṭha-urasi as samāhāra n. loc. sg. correct; SENTENCE note with 327 correct; medium confidence honest.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "329",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "kātsnryena → kārtsnyena",
+     "problem": "Judged acceptable: Grammar: vṛddhi abstract of kṛtsna is kārtsnya; printed form is not a word; count unchanged. Accepted.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "330",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "english",
+     "where": "yathā ... yathā ... tathā",
+     "problem": "Judged acceptable: Loose correlation acknowledged in notes; na + anauṣadham split with the nānā- alternative noted; medium confidence honest.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "331",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "mātra → mātrā",
+     "problem": "Judged acceptable: Evidence inside the chunk (mātrā 340, 341, the list's headings) and grammar; metre neutral (2nd syllable free). Accepted. liṅgaḥ kept as printed, noted.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "332",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "SENTENCE / bhakṣyasaṃvidhi",
+     "problem": "Judged acceptable: Correct use of SENTENCE (subjects run into 333); uncertainty of saṃvidhi stated; anūpa/dhanvan as glossary. Medium confidence honest.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "333",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "guru-bhakṣyāḥ bahuvrīhi",
+     "problem": "Judged acceptable: Correct.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "334",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "english",
+     "where": "sakthimāṃsād guruḥ ...",
+     "problem": "Judged acceptable: Comparative force of guru + ablative correctly rendered; kroḍa kept with plain gloss.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "335",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "śroṇī 'the two hips'",
+     "problem": "śroṇī can equally be the singular of the ī-stem śroṇī 'hip/pelvis'; the dual reading is not forced. Note the alternative.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "śroṇī may also be the singular of the ī-stem śroṇī 'hip, pelvis'; the dual of śroṇi is given.",
+      "n": "335"
+     }
+    },
+    {
+     "field": "split",
+     "where": "yakṛdgudam",
+     "problem": "Judged acceptable: Split as two words yakṛt + gudam (no forced singular dvandva), in line with the two-noun pair rule; madhyam asthi alternative noted; medium confidence honest.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "336",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "mugāstathā → mudgāstathā",
+     "problem": "Judged acceptable: Metre with syllable weights: odd pāda 5-7 gha-vo-mu = light-heavy-light (ja), not an allowed odd-pāda pattern; mud- makes the 7th heavy (pathyā); sense: pulse paired with māṣāḥ. Accepted.",
+     "fix": "keep",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "lāva and kapiñjala are bird names",
+     "problem": "The chunk does not say they are birds; per the animal rule lāva and kapiñjala stay Sanskrit with no identification. mudga/māṣa plain names in notes are allowed; varāha/mahiṣa boar/buffalo correct.",
+     "fix": "lāva and kapiñjala kept Sanskrit (no identification).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "lāva and kapiñjala are bird names, kept Sanskrit.",
+      "new": "lāva and kapiñjala kept Sanskrit (no identification).",
+      "n": "336"
+     }
+    }
+   ]
+  },
+  {
+   "n": "337",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "viśiṣyante",
+     "problem": "Judged acceptable: The interpretive 'in lightness' stays in notes and the translation says only 'superior'; gurum distributive explained. Medium confidence honest.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "338",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "english",
+     "where": "liṅgasāmānye",
+     "problem": "Judged acceptable: Uncertain phrase rendered literally with doubt in notes; medium confidence honest.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "339",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "saṃskrārāt → saṃskārāt",
+     "problem": "Judged acceptable: Evidence inside the chunk (saṃskāro 331); count unchanged. Accepted. Inferred pairing of the examples is marked as inference in notes; medium confidence honest.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "340",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "uddiṣṭam agrees with kāraṇam",
+     "problem": "Judged acceptable: Correct.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "341",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तृप्ति (तक सेवन)",
+     "problem": "Judged acceptable: Supplied words bracketed; correct.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "342",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अग्नि ... जलती है",
+     "problem": "Judged acceptable: Feminine agreement per glossary; vyeti vi-√i correct.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "343",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "prāyeṇālapavbalān → prāyeṇālpabalān",
+     "problem": "Judged acceptable: Metre: printed pāda 9 syllables (half-line 17), corrected 8; even pāda 5-7 ba-lān-pra = light-heavy-light; chunk parallels alpāgnīnām 324, alpādāne 340. Accepted.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "344",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "mahodara",
+     "problem": "Judged acceptable: Bahuvrīhi correctly distinguished from the disease udara; khara = rough per glossary.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "345",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "nā (nṛ), mātrā-kālau",
+     "problem": "Judged acceptable: Correct; nā = a man (मनुष्य) per glossary.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "346",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "SENTENCE",
+     "problem": "Judged acceptable: Relative clause running into 347 correctly marked.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "347",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "antarād ṛte",
+     "problem": "Judged acceptable: Uncertain sense stated; niḥśreyasa = the highest good per glossary; medium confidence honest.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "348",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "ṣaḍtriṃśataṃ → ṣaṭtriṃśataṃ",
+     "problem": "Judged acceptable: Grammar: ṣ/ḍ before voiceless t must be ṭ; count unchanged. Accepted. jantu = person (जन्तु) per glossary.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "349",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "SENTENCE",
+     "problem": "Judged acceptable: List running into 350a correctly marked.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "350",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "yaca → yacca",
+     "problem": "Judged acceptable: Grammar plus chunk evidence (yaccoktaṃ 351); metre neutral. Accepted.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "351",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING:",
+     "problem": "Judged acceptable: Correct use: the edition's unit joins the last half-line of the passage 349-351a with the first half-line of the summary; right grouping 349ab-350ab-351a (passage) and 'tatra ślokaḥ' + 351c + 352ab (summary of three half-lines), as the note says. 'tatra ślokaḥ' = 'Here, the verse:' / 'यहाँ श्लोक है:' consistent with earlier chunks. Medium confidence honest.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "352",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "saguṇānyanupāanāni → saguṇānyanupānāni",
+     "problem": "Judged acceptable: Metre: printed pāda 9 syllables, corrected 8; chunk evidence anupāna 321, 325, 326. Accepted.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "P2",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "english",
+     "where": "colophon",
+     "problem": "Judged acceptable: Verbless, no 'thus ends'/समाप्त, matches earlier chapter colophons.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "Reviewed 34 units (320-352, P2). Fixes: 1 error, 8 minor, all with patches; 0 MANUAL items. All 11 text_flags accepted (each names chunk evidence, grammar or metre; 336 and 343 metre checked by syllable weight). Fixed renderings verified: tarpayati = replenishes, kledayati = moistens, madya kept Sanskrit, lāva/kapiñjala Sanskrit, varāha/mahiṣa boar/buffalo, two-noun pairs split, 'tatra ślokaḥ' = 'Here, the verse:'. No regrouping beyond the existing GROUPING note at 351 (correct). Removed: outside-sourced vyavāyitā definition (325), 'bird names' (336), wrong SENTENCE label citing 319 (320), wrong glossary meta-note (327)."
+}

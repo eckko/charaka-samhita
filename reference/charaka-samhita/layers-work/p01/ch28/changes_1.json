@@ -1,0 +1,163 @@
+[
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "kālavat",
+  "old": "at the proper time",
+  "new": "like time",
+  "why": "reviewer (error): Indeclinable -vat is the suffix of comparison ('like time'); it stands directly before anavasthita- and gives 'unceasing like time'. 'at the proper time' attached to yojayati is not supported by the word order; keep 'in due time' as the alternative in notes."
+ },
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "kālavat",
+  "old": "ind.",
+  "new": "ind. (-vat of comparison), with an-avasthita",
+  "why": "reviewer (minor): gram should show the comparative -vat and what it qualifies."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "(Food) of various kinds, eaten, drunk, licked and chewed, wholesome for a person, being properly digested by its own respective heat (ūṣman), whose strength is kindled by the inner fire, at the proper time endows the whole body, in which the transformation (pāka) of all the dhātus is unceasing and in which the heat of all the dhātus, Vāta (māruta) and the channels are unimpaired, with increase of body (upacaya), strength, complexion, happiness and life-span, and invigorates the dhātus of the body.",
+  "new": "(Food) of various kinds, eaten, drunk, licked and chewed, wholesome for a person, being properly digested by its own respective heat (ūṣman), whose strength is kindled by the inner fire, endows the whole body, in which the transformation (pāka) of all the dhātus is unceasing like time and in which the heat of all the dhātus, Vāta (māruta) and the channels are unimpaired, with increase of body (upacaya), strength, complexion, happiness and life-span, and invigorates the dhātus of the body.",
+  "why": "reviewer (error): Follow the comparative reading of kālavat."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "विविध प्रकार का खाया, पिया, चाटा और चबाया गया, प्राणी के लिए हितकर (आहार), भीतरी अग्नि से प्रदीप्त बल वाली अपनी-अपनी ऊष्मा से भली-भाँति पचता हुआ, समय पर, जिसमें सभी धातुओं का पाक निरन्तर होता रहता है और जिसकी सभी धातुओं की ऊष्मा, मारुत तथा स्रोत अक्षत हैं, ऐसे सम्पूर्ण शरीर को उपचय, बल, वर्ण, सुख और आयु से युक्त करता है और शरीर की धातुओं को ऊर्जा देता है।",
+  "new": "विविध प्रकार का खाया, पिया, चाटा और चबाया गया, प्राणी के लिए हितकर (आहार), भीतरी अग्नि से प्रदीप्त बल वाली अपनी-अपनी ऊष्मा से भली-भाँति पचता हुआ, जिसमें सभी धातुओं का पाक काल के समान निरन्तर चलता रहता है और जिसकी सभी धातुओं की ऊष्मा, मारुत तथा स्रोत अक्षत हैं, ऐसे सम्पूर्ण शरीर को उपचय, बल, वर्ण, सुख और आयु से युक्त करता है और शरीर की धातुओं को ऊर्जा देता है।",
+  "why": "reviewer (error): Same as the English: kālavat = like time (काल के समान)."
+ },
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "Prose line (typed as 'verse'). The two accusative bahuvrīhis (-pākam, -srotaḥ) are taken with śarīram; 'food' is understood as the subject. kālavat may also be taken with vipacyamānam ('being digested in due time'). anavasthita literally 'not standing still', rendered 'unceasing'.",
+  "new": "Prose line (typed as 'verse'). The two accusative bahuvrīhis (-pākam, -srotaḥ) are taken with śarīram; 'food' is understood as the subject. kālavat (indeclinable -vat of comparison) is taken with anavasthita ('unceasing like time'); it may also be read 'in due time' with vipacyamānam. anavasthita literally 'not standing still', rendered 'unceasing'.",
+  "why": "reviewer (minor): Note must match the new primary reading."
+ },
+ {
+  "n": "P4",
+  "field": "word.gram",
+  "word": "svam",
+  "old": "m. acc. sg.",
+  "new": "n. acc. sg.",
+  "why": "reviewer (error): svaṃ agrees with mānam (n. acc. sg.), not masculine."
+ },
+ {
+  "n": "P15",
+  "field": "word.gram",
+  "word": "deśa-kāla-saṃyoga-vīrya-pramāṇa-atiyogāt",
+  "old": "m. abl. sg., dvandva/tat-puruṣa",
+  "new": "m. abl. sg., tat-puruṣa (dvandva first member)",
+  "why": "reviewer (minor): The compound ends in singular m. abl. -atiyogāt, so atiyoga is the head of a tat-puruṣa whose first member is the dvandva deśa-…-pramāṇa; 'dvandva/tat-puruṣa' is a hedge, and a five-member dvandva would be plural."
+ },
+ {
+  "n": "P15",
+  "field": "word.gloss",
+  "word": "deśa-kāla-saṃyoga-vīrya-pramāṇa-atiyogāt",
+  "old": "through place, time, combination, potency (vīrya) and excess of quantity",
+  "new": "through excess of place, time, combination, potency and quantity",
+  "why": "reviewer (minor): Gloss follows the tat-puruṣa reading."
+ },
+ {
+  "n": "P15",
+  "field": "english",
+  "old": "For the same unwholesome thing becomes still more unwholesome through place, time, combination, potency (vīrya) and excess of quantity.",
+  "new": "For the same unwholesome thing becomes still more unwholesome through excess (atiyoga) of place, time, combination, potency (vīrya) and quantity.",
+  "why": "reviewer (error): English attaches atiyoga only to quantity, against the compound's structure and against the draft's own Hindi (… प्रमाण के अतियोग से)."
+ },
+ {
+  "n": "P15",
+  "field": "notes",
+  "old": "atiyoga 'excess' may attach to pramāṇa alone ('excessive quantity', as rendered) or to every member ('excess of place, time ...').",
+  "new": "atiyoga 'excess' is the head of the compound and is taken with every member ('excess of place, time ...', as rendered); restricting it to pramāṇa alone is a possible looser reading.",
+  "why": "reviewer (minor): Note must match the corrected reading."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "(ये) रस के दोष से उत्पन्न रोग हैं। अब रक्त के दोष से उत्पन्न (रोग) कहे जाएँगे: कुष्ठ, वीसर्प, पिडकाएँ, रक्तपित्त, असृग्दर,",
+  "new": "(ये) रस के दोष से उत्पन्न रोग हैं। रक्त के दोष से उत्पन्न (रोग) कहे जाएँगे: कुष्ठ, वीसर्प, पिडकाएँ, रक्तपित्त, असृग्दर,",
+  "why": "reviewer (minor): 'अब' (now) is added; no word for it in the Sanskrit and none in the English."
+ },
+ {
+  "n": "12",
+  "field": "word.gloss",
+  "word": "pipplavaḥ",
+  "old": "piplus (as printed)",
+  "new": "pipplus (name, as printed)",
+  "why": "reviewer (minor): Gloss spells the name 'piplus' while w keeps the printed pipplavaḥ; keep the printed spelling throughout (no flag: metre cannot decide, the first syllable is heavy either way)."
+ },
+ {
+  "n": "12",
+  "field": "english",
+  "old": "inflammation (pāka) of the anus, penis and mouth, plīhā (spleen), gulma and vidradhi (abscess), nīlikā, kāmalā, vyaṅga, piplus and tilakālakas,",
+  "new": "inflammation (pāka) of the anus, penis and mouth, plīhā (spleen), gulma and vidradhi (abscess), nīlikā, kāmalā, vyaṅga, pipplus and tilakālakas,",
+  "why": "reviewer (minor): Printed spelling pipplu kept, as in w (glossary: names keep printed spelling unless the chunk shows the correction)."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "गुदा, मेढ्र और मुख का पाक, प्लीहा, गुल्म और विद्रधि, नीलिका, कामला, व्यङ्ग, पिप्लु और तिलकालक,",
+  "new": "गुदा, मेढ्र और मुख का पाक, प्लीहा, गुल्म और विद्रधि, नीलिका, कामला, व्यङ्ग, पिप्प्लु और तिलकालक,",
+  "why": "reviewer (minor): Same: printed पिप्प्लव- kept."
+ },
+ {
+  "n": "12",
+  "field": "notes",
+  "old": "SENTENCE: continues the list of blood-born diseases. The printed pipplavaḥ (double p) is kept; the disease is elsewhere called piplu (plural piplavaḥ); the metre does not decide (the syllable is heavy either way), so no flag. tilakālaka is taken as one disease name; a division into tilaka + alaka is also conceivable. plīhā is printed as the name of a disease of the spleen. Metre: both half-lines 16 syllables.",
+  "new": "SENTENCE: continues the list of blood-born diseases. The printed pipplavaḥ (double p) is kept; the metre does not decide (the first syllable is heavy either way), so no flag. tilakālaka is taken as one disease name ('black like sesame'). plīhā is printed as the name of a disease of the spleen. Metre: both half-lines 16 syllables.",
+  "why": "reviewer (minor): 'elsewhere called piplu (plural piplavaḥ)' rests on memory of other passages; 'tilaka + alaka' is an unsupported division (alaka gives no disease sense). Removed."
+ },
+ {
+  "n": "13",
+  "field": "notes",
+  "old": "SENTENCE: 13a ends the blood list begun in 11b; the flesh list follows in 14. koṭhāsramaṇḍalam is a compound of two list items; given here as koṭha + asramaṇḍalam. The printed carmadalā is taken as feminine nom. sg. asra 'blood', maṇḍala 'circle'; the literal gloss is used. Metre: both half-lines 16 syllables.",
+  "new": "SENTENCE: 13a ends the blood list begun in 11b; the flesh list follows in 14. koṭhāsramaṇḍalam is a samāhāra dvandva (n. sg.) of two list items, koṭha and asramaṇḍala. The printed carmadalā is taken as feminine nom. sg. asra 'blood', maṇḍala 'circle'; the literal gloss is used. Metre: both half-lines 16 syllables.",
+  "why": "reviewer (minor): Match the corrected split."
+ },
+ {
+  "n": "13",
+  "field": "word.gloss",
+  "word": "carmadalā",
+  "old": "carmadala",
+  "new": "carmadalā (name)",
+  "why": "reviewer (minor): Gloss 'carmadala' differs from w and English carmadalā (printed f. ā-stem; a lost visarga is impossible before ś after ā here, so f. nom. sg. is right)."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "दद्रु, चर्मदला, श्वित्र, पामा, कोठ और अस्रमण्डल रक्त के दोष से उत्पन्न होते हैं। अब मांस के दोष से उत्पन्न (रोगों) को सुनो:",
+  "new": "दद्रु, चर्मदला, श्वित्र, पामा, कोठ और अस्रमण्डल रक्त के दोष से उत्पन्न होते हैं। मांस के दोष से उत्पन्न (रोगों) को सुनो:",
+  "why": "reviewer (minor): 'अब' added; no word for it in the Sanskrit or the English."
+ },
+ {
+  "n": "14",
+  "field": "notes",
+  "old": "SENTENCE: the flesh list runs into 15a ('vidyān māṃsāśrayān'). adhimāṃsārbudaṃ is a compound of two list items, given as adhimāṃsa + arbudam. galaśālūkaśuṇḍike: gala 'throat' is taken with both members (galaśālūka, galaśuṇḍikā). All names kept Sanskrit; literal glosses only. Metre: both half-lines 16 syllables.",
+  "new": "SENTENCE: the flesh list runs into 15a ('vidyān māṃsāśrayān'). adhimāṃsārbudaṃ is a samāhāra dvandva (n. sg.) of two list items, adhimāṃsa and arbuda. galaśālūkaśuṇḍike: gala 'throat' is taken with both members (galaśālūka, galaśuṇḍikā). All names kept Sanskrit; literal glosses only. Metre: both half-lines 16 syllables.",
+  "why": "reviewer (minor): Match the corrected split."
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "One should know (these) as based in flesh. Those based in fat we declare: the condemned (conditions), and those which are the prodromal signs of the pramehas.",
+  "new": "One should know (these) as based in flesh. Those based in fat we declare: the condemned (ones), and those which are the prodromal signs of the pramehas.",
+  "why": "reviewer (minor): The neuter ninditāni cannot agree with the masculine (roga) understood in medaḥsaṃśrayān, and the chunk names no noun for it; 'conditions' is an invented referent. Keep the substantive literal, as the gloss already does (glossary: a word used as a plural substantive gets no supplied noun)."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "इन्हें मांस पर आश्रित जानना चाहिए। मेद पर आश्रित (रोगों) को तो हम बताते हैं: निन्दित (अवस्थाएँ) और प्रमेहों के जो पूर्वरूप हैं।",
+  "new": "इन्हें मांस पर आश्रित जानना चाहिए। मेद पर आश्रित (रोगों) को तो हम बताते हैं: जो निन्दित हैं वे, और प्रमेहों के जो पूर्वरूप हैं।",
+  "why": "reviewer (minor): Same: no supplied noun."
+ },
+ {
+  "n": "15",
+  "field": "notes",
+  "old": "ninditāni 'the condemned (ones)' is translated literally; its referent is not stated in this chunk. 'conditions' / 'अवस्थाएँ' is supplied. The relative yāni ... ca has no correlative in the unit. Metre: both half-lines 16 syllables.",
+  "new": "ninditāni 'the condemned (ones)' is translated literally; its referent is not stated in this chunk. The relative yāni ... ca has no correlative in the unit. Metre: both half-lines 16 syllables.",
+  "why": "reviewer (minor): Remove the note about the supplied noun."
+ }
+]
