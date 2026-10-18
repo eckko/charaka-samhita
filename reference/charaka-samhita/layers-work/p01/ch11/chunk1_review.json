@@ -1,0 +1,589 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tasya",
+     "problem": "tasya refers to prāṇa (m.), 'life'; neuter label unsupported.",
+     "fix": "m. gen. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "P3",
+      "op": "word",
+      "match_w": "tasya",
+      "field": "gram",
+      "value": "m. gen. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "no equipment (upakaraṇa) ... seek equipment",
+     "problem": "Glossary: 'upakaraṇa in Sū 11 = means of living'; draft uses 'equipment'.",
+     "fix": "has no means of living (upakaraṇa). Therefore one should strive to seek the means of living.",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "english",
+      "old": "has no equipment (upakaraṇa). Therefore one should strive to seek equipment.",
+      "new": "has no means of living (upakaraṇa). Therefore one should strive to seek the means of living."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "anupakaraṇasya",
+     "problem": "Glossary rendering for Sū 11 is 'means of living'.",
+     "fix": "of one without the means of living",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "anupakaraṇasya",
+      "field": "gloss",
+      "value": "of one without the means of living"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "upakaraṇāni",
+     "problem": "Glossary rendering for Sū 11 is 'means of living'.",
+     "fix": "means of living",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "upakaraṇāni",
+      "field": "gloss",
+      "value": "means of living"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Note claims the glossary gives 'equipment'; the glossary gives 'means of living' for Sū 11. The note is false.",
+     "fix": "upakaraṇa is rendered 'means of living' (glossary, Sū 11).",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "set",
+      "field": "notes",
+      "value": "upakaraṇa is rendered 'means of living' (glossary, Sū 11)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "P4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the ways of gaining equipment",
+     "problem": "Glossary: upakaraṇa in Sū 11 = means of living.",
+     "fix": "the ways of gaining the means of living",
+     "severity": "error",
+     "patch": {
+      "n": "P4",
+      "op": "replace",
+      "field": "english",
+      "old": "the ways of gaining equipment",
+      "new": "the ways of gaining the means of living"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "upakaraṇa-upāyān",
+     "problem": "Glossary: upakaraṇa in Sū 11 = means of living.",
+     "fix": "the ways of gaining the means of living",
+     "severity": "error",
+     "patch": {
+      "n": "P4",
+      "op": "word",
+      "match_w": "upakaraṇa-upāyān",
+      "field": "gloss",
+      "value": "the ways of gaining the means of living"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "jīvatyanavāmataḥ / dīghajīvitaṃ",
+     "problem": "Both flags checked: correct by grammar (dīrgha as in P3/5; anavamata an-ava-√man). No change.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "P5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "devoted to perception (pratyakṣa) alone",
+     "problem": "'alone' is added interpretation; pratyakṣapara = devoted to perception.",
+     "fix": "devoted to perception (pratyakṣa),",
+     "severity": "minor",
+     "patch": {
+      "n": "P6",
+      "op": "replace",
+      "field": "english",
+      "old": "devoted to perception (pratyakṣa) alone,",
+      "new": "devoted to perception (pratyakṣa),"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "'alone' and 'others'",
+     "problem": "Note must follow the English fix.",
+     "fix": "'others' in the English and 'कुछ' in the second clause of the Hindi render the second 'santi'",
+     "severity": "minor",
+     "patch": {
+      "n": "P6",
+      "op": "replace",
+      "field": "notes",
+      "old": "'alone' and 'others' in the English, and 'कुछ' in the second clause of the Hindi, render the sense of pratyakṣapara and the second 'santi'",
+      "new": "'others' in the English and 'कुछ' in the second clause of the Hindi render the second 'santi'"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "jahyādviciktsāṃ -> jahyādvicikitsāṃ",
+     "problem": "Suggestion right, but 'why' gives the wrong root: vicikitsā is the desiderative of √kit (glossary: cikitsati = desiderative of √kit), not √cit.",
+     "fix": "why: viciktsā is not a word; vicikitsā 'doubt' (vi + desiderative of √kit) has the syllable -ki-. Probable typo.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "P8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कोई भी अवयव निरन्तर नहीं है",
+     "problem": "English takes nirantaram as 'at all'; Hindi निरन्तर reads as 'constantly' and disagrees with the English.",
+     "fix": "और सूक्ष्म आत्मा का कोई भी अवयव है ही नहीं।",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और सूक्ष्म आत्मा का कोई भी अवयव निरन्तर नहीं है।",
+      "new": "और सूक्ष्म आत्मा का कोई भी अवयव है ही नहीं।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "The Hindi keeps निरन्तर.",
+     "problem": "Follows the Hindi fix.",
+     "fix": "(delete sentence)",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "notes",
+      "old": " The Hindi keeps निरन्तर.",
+      "new": ""
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "yuktiścet -> yuktiśceti",
+     "problem": "Suggestion right by grammar, but the cited evidence is wrong: P1 ends in -eti without ca, and unit 32 has 'iti yuktiḥ', not 'ca iti'.",
+     "fix": "why: 'cet' (if) gives no sense at the close of the list; ca + iti gives ceti, closing the list of four. Probable typo: final -i dropped.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "vikālamamalaṃ -> trikālamamalaṃ",
+     "problem": "Checked: evidence is inside the chunk (trikāla in units 21, 25) and vikāla gives no sense with jñāna. Accept.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the churning stick (manthana) and the churning (manthāna)",
+     "problem": "Senses reversed: manthāna is the churning stick, manthana the act of churning. The draft's own note admits the difference is not stated, yet the English assigns it firmly the wrong way.",
+     "fix": "the churning (manthana) and the churning stick (manthāna)",
+     "severity": "error",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "english",
+      "old": "the churning stick (manthana) and the churning (manthāna)",
+      "new": "the churning (manthana) and the churning stick (manthāna)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "mathya-manthana-manthāna-saṃyogāt",
+     "problem": "Same reversal in the gloss order.",
+     "fix": "from the combination of the wood to be churned, the churning and the churning stick",
+     "severity": "error",
+     "patch": {
+      "n": "24",
+      "op": "word",
+      "match_w": "mathya-manthana-manthāna-saṃyogāt",
+      "field": "gloss",
+      "value": "from the combination of the wood to be churned, the churning and the churning stick"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the excellence of the four quarters",
+     "problem": "Glossary: catuṣpāda = the four limbs (of treatment) (चतुष्पाद); the specific entry overrides pāda = quarter.",
+     "fix": "the excellence of the four limbs (catuṣpāda)",
+     "severity": "error",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "english",
+      "old": "the excellence of the four quarters",
+      "new": "the excellence of the four limbs (catuṣpāda)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "catuḥ-pāda-saṃpat",
+     "problem": "Glossary catuṣpāda = the four limbs (of treatment).",
+     "fix": "the excellence of the four limbs (of treatment)",
+     "severity": "error",
+     "patch": {
+      "n": "24",
+      "op": "word",
+      "match_w": "catuḥ-pāda-saṃpat",
+      "field": "gloss",
+      "value": "the excellence of the four limbs (of treatment)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "चार पादों की सम्पत्ति",
+     "problem": "Glossary Hindi for catuṣpāda is चतुष्पाद; सम्पत्ति reads as 'property/wealth' in Hindi, sampad = excellence.",
+     "fix": "मथ्य, मन्थन और मन्थान के संयोग से अग्नि की उत्पत्ति होती है; युक्ति से युक्त चतुष्पाद की सम्पत् व्याधि को दूर करने वाली होती है।",
+     "severity": "error",
+     "patch": {
+      "n": "24",
+      "op": "set",
+      "field": "hindi",
+      "value": "मथ्य, मन्थन और मन्थान के संयोग से अग्नि की उत्पत्ति होती है; युक्ति से युक्त चतुष्पाद की सम्पत् व्याधि को दूर करने वाली होती है।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "(the lower fire-wood); 'the four quarters of treatment'",
+     "problem": "'the lower fire-wood' is not in the input (memory); 'four quarters' conflicts with the glossary.",
+     "fix": "mathya is a gerundive (kṛtya) of √math, 'what is to be churned'; the unit does not define manthana and manthāna, the usual senses (act of churning, churning stick) are used. catuṣpāda = the four limbs (of treatment).",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "set",
+      "field": "notes",
+      "value": "mathya is a gerundive (kṛtya) of √math, 'what is to be churned'; the unit does not define manthana and manthāna, the usual senses (act of churning, churning stick) are used. catuṣpāda = the four limbs (of treatment)."
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "mathyamanthanamanthānāsaṃyhogād...",
+     "problem": "Checked: stray h and long ā; correction to manthānasaṃyogād fits grammar and metre (8 syllables). No change.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "trivarga standardly means the three aims dharma, artha and kāma",
+     "problem": "The list of the three aims comes from outside the input (memory); keep only what the unit shows.",
+     "fix": "trivarga 'the triad' is not listed in this unit.",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "set",
+      "field": "notes",
+      "value": "trivarga 'the triad' is not listed in this unit."
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "divyacakṣubhiḥ in suggest",
+     "problem": "The suggest string changes cakṣubhiḥ to cakṣurbhiḥ while the why calls it only 'possible' and the words keep cakṣubhiḥ: suggest and words disagree. Keep only the certain correction (pūrvatarair) in suggest; mention cakṣurbhiḥ in notes.",
+     "fix": "suggest: pūrvatarairmaharṣibhirdivyacakṣubhirdṛṣṭvopadiṣṭaḥ",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pratyakṣam",
+     "problem": "An adverbial neuter is accusative, not nominative.",
+     "fix": "n. acc. sg. (as adv.)",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "word",
+      "match_w": "pratyakṣam",
+      "field": "gram",
+      "value": "n. acc. sg. (as adv.)"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "sama-darśane",
+     "problem": "As a noun 'when appearance is equal' it is a karmadhāraya, not a bahuvrīhi.",
+     "fix": "n. loc. sg., karmadhāraya",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "word",
+      "match_w": "sama-darśane",
+      "field": "gram",
+      "value": "n. loc. sg., karmadhāraya"
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "a known variant spelling",
+     "problem": "'a known variant spelling' rests on memory, not on the input or grammar; remove that claim.",
+     "fix": "aparīhārya is printed with long ī; the regular form from a-pari-√hṛ has short i (aparihārya). Kept as printed.",
+     "severity": "error",
+     "patch": {
+      "n": "31",
+      "op": "set",
+      "field": "notes",
+      "value": "aparīhārya is printed with long ī; the regular form from a-pari-√hṛ has short i (aparihārya). Kept as printed."
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "iti",
+     "problem": "iti gloss 'this is' is the English rendering, not the word's meaning.",
+     "fix": "thus",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "word",
+      "match_w": "iti",
+      "field": "gloss",
+      "value": "thus"
+     }
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दारकर्म में",
+     "problem": "Printed word is dārakriyā; Hindi silently changes it.",
+     "fix": "दारक्रिया में",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दारकर्म में",
+      "new": "दारक्रिया में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P9",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "12 errors, 14 minor (plus 3 minor entries that only confirm checked flags, fix none). Errors: glossary breaches (upakaraṇa in Sū 11 = means of living, units 5 and P4, plus a false note in 5; catuṣpāda = four limbs, unit 24), manthana/manthāna senses reversed (24), memory-sourced note (31 'known variant'). All 21 text_flags checked: none rests on another edition or memory; all suggestions are supported by the chunk or grammar; three have defective 'why'/'suggest' (7 wrong root √cit for √kit; 17 wrong cross-references; 29 suggest includes an uncertain cakṣurbhiḥ that the words do not use). No regrouping suggested (P6/P7 and 9 GROUPING notes are sound). No Latin letters or bracketed glosses in the Hindi. Unreviewed AI draft and review."
+}

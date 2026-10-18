@@ -1,0 +1,172 @@
+[
+ {
+  "n": "P3",
+  "field": "word.gram",
+  "word": "tasya",
+  "old": "n. gen. sg.",
+  "new": "m. gen. sg.",
+  "why": "reviewer (minor): tasya refers to prāṇa (m.), 'life'; neuter label unsupported."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "Then one should take up the second, the pursuit of wealth; for immediately after life, wealth indeed is to be sought. For there is nothing more evil than this evil: a long life for one who has no equipment (upakaraṇa). Therefore one should strive to seek equipment.",
+  "new": "Then one should take up the second, the pursuit of wealth; for immediately after life, wealth indeed is to be sought. For there is nothing more evil than this evil: a long life for one who has no means of living (upakaraṇa). Therefore one should strive to seek the means of living.",
+  "why": "reviewer (error): Glossary: 'upakaraṇa in Sū 11 = means of living'; draft uses 'equipment'."
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "anupakaraṇasya",
+  "old": "of one without equipment (means)",
+  "new": "of one without the means of living",
+  "why": "reviewer (error): Glossary rendering for Sū 11 is 'means of living'."
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "upakaraṇāni",
+  "old": "equipment, means",
+  "new": "means of living",
+  "why": "reviewer (error): Glossary rendering for Sū 11 is 'means of living'."
+ },
+ {
+  "n": "5",
+  "field": "notes",
+  "old": "upakaraṇa follows the glossary rendering 'equipment'; in this context it means the means or resources for living.",
+  "new": "upakaraṇa is rendered 'means of living' (glossary, Sū 11).",
+  "why": "reviewer (error): Note claims the glossary gives 'equipment'; the glossary gives 'means of living' for Sū 11. The note is false."
+ },
+ {
+  "n": "P4",
+  "field": "english",
+  "old": "On that we shall explain the ways of gaining equipment, namely: farming, cattle-keeping, trade, service of the king and the like; and whatever other occupations, not condemned by the good and producing livelihood and prosperity, one may know, those one should undertake to do. Doing so, a man lives a long life and is not despised.",
+  "new": "On that we shall explain the ways of gaining the means of living, namely: farming, cattle-keeping, trade, service of the king and the like; and whatever other occupations, not condemned by the good and producing livelihood and prosperity, one may know, those one should undertake to do. Doing so, a man lives a long life and is not despised.",
+  "why": "reviewer (error): Glossary: upakaraṇa in Sū 11 = means of living."
+ },
+ {
+  "n": "P4",
+  "field": "word.gloss",
+  "word": "upakaraṇa-upāyān",
+  "old": "the ways of gaining equipment",
+  "new": "the ways of gaining the means of living",
+  "why": "reviewer (error): Glossary: upakaraṇa in Sū 11 = means of living."
+ },
+ {
+  "n": "P6",
+  "field": "english",
+  "old": "And here there is doubt: 'Having departed from here, shall we exist or not?' But whence the doubt? It is said: there are some, devoted to perception (pratyakṣa) alone, who because rebirth is imperceptible have resorted to disbelief (nāstikya); and there are others who accept rebirth only from faith in scripture (āgama); and from the difference of traditions (śruti): 'Some consider mother and father the cause of birth,",
+  "new": "And here there is doubt: 'Having departed from here, shall we exist or not?' But whence the doubt? It is said: there are some, devoted to perception (pratyakṣa), who because rebirth is imperceptible have resorted to disbelief (nāstikya); and there are others who accept rebirth only from faith in scripture (āgama); and from the difference of traditions (śruti): 'Some consider mother and father the cause of birth,",
+  "why": "reviewer (minor): 'alone' is added interpretation; pratyakṣapara = devoted to perception."
+ },
+ {
+  "n": "P6",
+  "field": "notes",
+  "old": "GROUPING: the quoted anuṣṭubh verse 'mātaraṃ pitaraṃ caike manyante janmakāraṇam / svabhāvaṃ paranirmāṇaṃ yadṛcchāṃ cāpare janāḥ' is split across P6 and P7; its two halves belong to one verse, with P6's prose before it and P7's prose after it. 'alone' and 'others' in the English, and 'कुछ' in the second clause of the Hindi, render the sense of pratyakṣapara and the second 'santi' (no relative pronoun is printed). katham is used here as a question particle 'whether'.",
+  "new": "GROUPING: the quoted anuṣṭubh verse 'mātaraṃ pitaraṃ caike manyante janmakāraṇam / svabhāvaṃ paranirmāṇaṃ yadṛcchāṃ cāpare janāḥ' is split across P6 and P7; its two halves belong to one verse, with P6's prose before it and P7's prose after it. 'others' in the English and 'कुछ' in the second clause of the Hindi render the second 'santi' (no relative pronoun is printed). katham is used here as a question particle 'whether'.",
+  "why": "reviewer (minor): Note must follow the English fix."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "यदि सम्पूर्ण आत्मा संचार करे, तो माता या पिता की मृत्यु हो जाए; और सूक्ष्म आत्मा का कोई भी अवयव निरन्तर नहीं है।",
+  "new": "यदि सम्पूर्ण आत्मा संचार करे, तो माता या पिता की मृत्यु हो जाए; और सूक्ष्म आत्मा का कोई भी अवयव है ही नहीं।",
+  "why": "reviewer (minor): English takes nirantaram as 'at all'; Hindi निरन्तर reads as 'constantly' and disagrees with the English."
+ },
+ {
+  "n": "10",
+  "field": "notes",
+  "old": "nirantaram can mean 'continuous, without interval' (the self is continuous and so has no parts) or 'at all, ever'; the second is used in the translation. The Hindi keeps निरन्तर.",
+  "new": "nirantaram can mean 'continuous, without interval' (the self is continuous and so has no parts) or 'at all, ever'; the second is used in the translation.",
+  "why": "reviewer (minor): Follows the Hindi fix."
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "From the combination of the wood to be churned (mathya), the churning stick (manthana) and the churning (manthāna) comes the origin of fire; the excellence of the four quarters, joined with reasoning (yukti), removes disease.",
+  "new": "From the combination of the wood to be churned (mathya), the churning (manthana) and the churning stick (manthāna) comes the origin of fire; the excellence of the four quarters, joined with reasoning (yukti), removes disease.",
+  "why": "reviewer (error): Senses reversed: manthāna is the churning stick, manthana the act of churning. The draft's own note admits the difference is not stated, yet the English assigns it firmly the wrong way."
+ },
+ {
+  "n": "24",
+  "field": "word.gloss",
+  "word": "mathya-manthana-manthāna-saṃyogāt",
+  "old": "from the combination of the wood to be churned, the churning stick and the churning",
+  "new": "from the combination of the wood to be churned, the churning and the churning stick",
+  "why": "reviewer (error): Same reversal in the gloss order."
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "From the combination of the wood to be churned (mathya), the churning (manthana) and the churning stick (manthāna) comes the origin of fire; the excellence of the four quarters, joined with reasoning (yukti), removes disease.",
+  "new": "From the combination of the wood to be churned (mathya), the churning (manthana) and the churning stick (manthāna) comes the origin of fire; the excellence of the four limbs (catuṣpāda), joined with reasoning (yukti), removes disease.",
+  "why": "reviewer (error): Glossary: catuṣpāda = the four limbs (of treatment) (चतुष्पाद); the specific entry overrides pāda = quarter."
+ },
+ {
+  "n": "24",
+  "field": "word.gloss",
+  "word": "catuḥ-pāda-saṃpat",
+  "old": "the excellence of the four quarters",
+  "new": "the excellence of the four limbs (of treatment)",
+  "why": "reviewer (error): Glossary catuṣpāda = the four limbs (of treatment)."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "मथ्य, मन्थन और मन्थान के संयोग से अग्नि की उत्पत्ति होती है; युक्ति से युक्त चार पादों की सम्पत्ति व्याधि को दूर करने वाली होती है।",
+  "new": "मथ्य, मन्थन और मन्थान के संयोग से अग्नि की उत्पत्ति होती है; युक्ति से युक्त चतुष्पाद की सम्पत् व्याधि को दूर करने वाली होती है।",
+  "why": "reviewer (error): Glossary Hindi for catuṣpāda is चतुष्पाद; सम्पत्ति reads as 'property/wealth' in Hindi, sampad = excellence."
+ },
+ {
+  "n": "24",
+  "field": "notes",
+  "old": "mathya is a gerundive (kṛtya) of √math 'to be churned' (the lower fire-wood); the exact difference between manthana and manthāna (stick, cord or act of churning) is not stated in the unit. catuṣpāda: the four quarters of treatment.",
+  "new": "mathya is a gerundive (kṛtya) of √math, 'what is to be churned'; the unit does not define manthana and manthāna, the usual senses (act of churning, churning stick) are used. catuṣpāda = the four limbs (of treatment).",
+  "why": "reviewer (minor): 'the lower fire-wood' is not in the input (memory); 'four quarters' conflicts with the glossary."
+ },
+ {
+  "n": "25",
+  "field": "notes",
+  "old": "trivarga standardly means the three aims dharma, artha and kāma; the unit does not list them.",
+  "new": "trivarga 'the triad' is not listed in this unit.",
+  "why": "reviewer (minor): The list of the three aims comes from outside the input (memory); keep only what the unit shows."
+ },
+ {
+  "n": "30",
+  "field": "word.gram",
+  "word": "pratyakṣam",
+  "old": "n. nom. sg. (as adv.)",
+  "new": "n. acc. sg. (as adv.)",
+  "why": "reviewer (minor): An adverbial neuter is accusative, not nominative."
+ },
+ {
+  "n": "30",
+  "field": "word.gram",
+  "word": "sama-darśane",
+  "old": "n. loc. sg., bahuvrīhi",
+  "new": "n. loc. sg., karmadhāraya",
+  "why": "reviewer (minor): As a noun 'when appearance is equal' it is a karmadhāraya, not a bahuvrīhi."
+ },
+ {
+  "n": "31",
+  "field": "notes",
+  "old": "aparīhārya is printed with long ī (usual aparihārya); a known variant spelling, not flagged.",
+  "new": "aparīhārya is printed with long ī; the regular form from a-pari-√hṛ has short i (aparihārya). Kept as printed.",
+  "why": "reviewer (error): 'a known variant spelling' rests on memory, not on the input or grammar; remove that claim."
+ },
+ {
+  "n": "32",
+  "field": "word.gloss",
+  "word": "iti",
+  "old": "this is",
+  "new": "thus",
+  "why": "reviewer (minor): iti gloss 'this is' is the English rendering, not the word's meaning."
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "इस प्रकार चारों प्रमाणों से पुनर्भव का उपदेश हो जाने पर धर्म के द्वारों में सावधान रहना चाहिए; जैसे — गुरु की शुश्रूषा में, अध्ययन में, व्रतचर्या में, दारकर्म में, सन्तान उत्पन्न करने में, भृत्यों के भरण में, अतिथि-पूजा में, दान में, अनभिध्या में, तप में, अनसूया में, शरीर, वाणी और मन के अक्लिष्ट कर्म में, देह, इन्द्रिय, मन, अर्थ, बुद्धि और आत्मा की परीक्षा में, और मन की समाधि में। और भी जो इस प्रकार के कर्म सज्जनों द्वारा अनिन्दित, स्वर्ग देने वाले, वृत्ति और पुष्टि करने वाले जाने, उन्हें करना आरम्भ करे। ऐसा करता हुआ मनुष्य यहाँ यश पाता है और मरकर स्वर्ग।",
+  "new": "इस प्रकार चारों प्रमाणों से पुनर्भव का उपदेश हो जाने पर धर्म के द्वारों में सावधान रहना चाहिए; जैसे — गुरु की शुश्रूषा में, अध्ययन में, व्रतचर्या में, दारक्रिया में, सन्तान उत्पन्न करने में, भृत्यों के भरण में, अतिथि-पूजा में, दान में, अनभिध्या में, तप में, अनसूया में, शरीर, वाणी और मन के अक्लिष्ट कर्म में, देह, इन्द्रिय, मन, अर्थ, बुद्धि और आत्मा की परीक्षा में, और मन की समाधि में। और भी जो इस प्रकार के कर्म सज्जनों द्वारा अनिन्दित, स्वर्ग देने वाले, वृत्ति और पुष्टि करने वाले जाने, उन्हें करना आरम्भ करे। ऐसा करता हुआ मनुष्य यहाँ यश पाता है और मरकर स्वर्ग।",
+  "why": "reviewer (minor): Printed word is dārakriyā; Hindi silently changes it."
+ }
+]
