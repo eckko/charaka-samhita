@@ -1,0 +1,284 @@
+[
+ {
+  "n": "57",
+  "field": "english",
+  "old": "And in heaviness and in lightness, in both too, it is the lowest. And after this the characteristics of the vipākas (post-digestive effects) will be stated.",
+  "new": "In heaviness and in lightness, in both too, it is the lowest. And after this the characteristics of the vipākas (post-digestive effects) will be stated.",
+  "why": "reviewer (minor): Leading 'And' has no word in line 1 (caiva joins lāghave); the ca of line 2 is already rendered."
+ },
+ {
+  "n": "57",
+  "field": "hindi",
+  "old": "और गुरुता तथा लघुता में, दोनों में भी वह निम्नतम है। और इसके बाद विपाकों का लक्षण कहा जाएगा।",
+  "new": "गुरुता तथा लघुता में, दोनों में भी वह निम्नतम है। और इसके बाद विपाकों का लक्षण कहा जाएगा।",
+  "why": "reviewer (minor): Leading और has no word in line 1, as in the English."
+ },
+ {
+  "n": "58",
+  "field": "hindi",
+  "old": "कटु, तिक्त और कषाय (रसों) का विपाक प्रायः कटु होता है; अम्ल अम्ल रूप में पचता है, स्वादु मधुर रूप में, और लवण उसी प्रकार।",
+  "new": "कटु, तिक्त और कषाय (रसों) का विपाक प्रायः कटु होता है; अम्ल अम्ल रूप में पचता है, मधुर मधुर रूप में, और लवण उसी प्रकार।",
+  "why": "reviewer (minor): Glossary (Sū 26 ch1): svādu as a taste name = sweet, Hindi मधुर."
+ },
+ {
+  "n": "59",
+  "field": "word.gram",
+  "word": "vāta-mūtra-purīṣāṇām",
+  "old": "gen. pl., dvandva",
+  "new": "n. gen. pl., dvandva",
+  "why": "reviewer (minor): Gender missing (dvandva takes the last member purīṣa, n.)."
+ },
+ {
+  "n": "60",
+  "field": "word.gram",
+  "word": "vāta-viṭ-mūtra-retasām",
+  "old": "gen. pl., dvandva",
+  "new": "n. gen. pl., dvandva",
+  "why": "reviewer (minor): Gender missing (last member retas, n.)."
+ },
+ {
+  "n": "63",
+  "field": "english",
+  "old": "As for the small, medium or greatest degree of the characteristic of vipāka, one should observe it in each (substance) from the particular qualities of the substances.",
+  "new": "As for the small, medium or greatest degree of the characteristic of vipāka, one should observe (it) in each (substance) from the particular qualities of the substances.",
+  "why": "reviewer (minor): 'it' is an understood object; bracket it."
+ },
+ {
+  "n": "63",
+  "field": "hindi",
+  "old": "विपाक के लक्षण की अल्पता, मध्यमता और अधिकता के विषय में, द्रव्यों के गुणों की विशेषता से उस-उस (द्रव्य) में उसे पहचाने।",
+  "new": "विपाक के लक्षण की अल्पता, मध्यमता और अधिकता के विषय में, द्रव्यों के गुणों की विशेषता से उस-उस (द्रव्य) में (उसे) पहचाने।",
+  "why": "reviewer (minor): Understood object goes in brackets."
+ },
+ {
+  "n": "66",
+  "field": "word.gloss",
+  "word": "yāvat",
+  "old": "as long as",
+  "new": "up to, throughout (with abl.)",
+  "why": "reviewer (minor): With the ablative adhīvāsāt, yāvat means 'up to / throughout', not 'as long as' (a clause conjunction); the English 'for as long as (the substance) stays' is an acceptable free rendering and stays. Reading of 66 otherwise judged sound: medium confidence fits."
+ },
+ {
+  "n": "68",
+  "field": "notes",
+  "old": "citraka: Plumbago zeylanica (standard). dantī kept Sanskrit.",
+  "new": "citraka and dantī kept Sanskrit.",
+  "why": "reviewer (minor): POLICY: species names dropped; citraka needs no common name for the verse."
+ },
+ {
+  "n": "69",
+  "field": "word.gram",
+  "word": "ūrdhva-ānulomikam",
+  "old": "n. nom. sg., compound",
+  "new": "n. nom. sg., derivative (-ika) of the dvandva ūrdhva-anuloma",
+  "why": "reviewer (minor): 'compound' is not a grammar label; it is an -ika derivative of a dvandva (vṛddhi on the second member)."
+ },
+ {
+  "n": "74",
+  "field": "hindi",
+  "old": "मधुर रस स्नेहन, प्रीणन, आह्लाद और मृदुता से पहचाना जाता है; और मुख में स्थित होकर वह मुख में व्याप्त होता हुआ मानो उसे लीप देता है।",
+  "new": "मधुर (रस) स्नेहन, प्रीणन, आह्लाद और मृदुता से पहचाना जाता है; और मुख में स्थित होकर वह मुख में व्याप्त होता हुआ मानो उसे लीप देता है।",
+  "why": "reviewer (minor): रस is a supplied word (madhuraḥ alone); bracket it as in 58."
+ },
+ {
+  "n": "75",
+  "field": "english",
+  "old": "From the setting of the teeth on edge, salivation, sweating, awakening of the mouth and burning of the mouth and throat, one should declare it the sour taste just on tasting it.",
+  "new": "From the setting of the teeth on edge, salivation, sweating, awakening of the mouth and burning of the mouth and throat, one should, just on tasting (it), declare (it) the sour taste.",
+  "why": "reviewer (minor): Both 'it's are understood words; bracket them."
+ },
+ {
+  "n": "75",
+  "field": "hindi",
+  "old": "दाँतों की सिहरन, मुख से स्राव, स्वेदन, मुख के जागरण और मुख तथा कण्ठ की जलन से, चखकर ही उसे अम्ल रस कहे।",
+  "new": "दाँतों की सिहरन, मुख से स्राव, स्वेदन, मुख के जागरण और मुख तथा कण्ठ की जलन से, चखकर ही (उसे) अम्ल रस कहे।",
+  "why": "reviewer (minor): Understood object goes in brackets."
+ },
+ {
+  "n": "76",
+  "field": "word.gloss",
+  "word": "kleda-viṣyanda-mārdavam",
+  "old": "excess moisture, liquefaction and softness",
+  "new": "moistness, liquefaction and softness",
+  "why": "reviewer (minor): Glossary: kleda = moistness, not 'excess moisture'."
+ },
+ {
+  "n": "76",
+  "field": "english",
+  "old": "That which, dissolving, quickly produces excess moisture (kleda), liquefaction (viṣyanda) and softness in the mouth, and (is known) from the burning of the mouth, is to be known as the salt.",
+  "new": "That which, dissolving, quickly produces moistness (kleda), liquefaction (viṣyanda) and softness in the mouth, and (is known) from the burning of the mouth, is to be known as the salt.",
+  "why": "reviewer (minor): Glossary: kleda = moistness."
+ },
+ {
+  "n": "76",
+  "field": "notes",
+  "old": "śīghram may go with pralīyan ('dissolving quickly') or with kurute; the sense is the same. kleda = excess moisture.",
+  "new": "śīghram may go with pralīyan ('dissolving quickly') or with kurute; the sense is the same.",
+  "why": "reviewer (minor): Contradicts the glossary rendering; remove."
+ },
+ {
+  "n": "78",
+  "field": "english",
+  "old": "That which on contact repels the tongue and is not pleasant (to it) is the bitter; it produces non-sliminess (vaiśadya) of the mouth, dryness and refreshment (prahlāda).",
+  "new": "That which on contact repels the tongue and is not pleasant (to it) is the bitter; it produces non-sliminess (vaiśadya) of the mouth, dryness and gladdening (prahlāda).",
+  "why": "reviewer (minor): 'refreshment' is interpretive; the note gives 'gladdening' as literal, and 74 renders āhlāda 'delighting'. Use the literal word."
+ },
+ {
+  "n": "78",
+  "field": "word.gloss",
+  "word": "mukha-vaiśadya-śoṣa-prahlāda-kārakaḥ",
+  "old": "producing non-sliminess of the mouth, dryness and refreshment",
+  "new": "producing non-sliminess of the mouth, dryness and gladdening",
+  "why": "reviewer (minor): Match the English."
+ },
+ {
+  "n": "78",
+  "field": "notes",
+  "old": "rasanam (n.) = the tongue. prahlāda, literally 'gladdening'.",
+  "new": "rasanam (n.) = the tongue.",
+  "why": "reviewer (minor): Redundant once the English uses the literal word."
+ },
+ {
+  "n": "80",
+  "field": "english",
+  "old": "To the venerable Ātreya, who had spoken thus, Agniveśa said: 'Venerable one, this true speech of yours, the venerable one's, endowed with excellence of meaning, (given) properly on the topic of substances, qualities and actions, has been heard. But next we wish to hear the characteristics of the incompatible (vairodhika) food articles (āhāravikāra) taught not too briefly.'",
+  "new": "To the venerable Ātreya, who had spoken thus, Agniveśa said: 'Venerable one, this true speech of the venerable one, endowed with excellence of meaning, (given) properly on the topic of substances, qualities and actions, has been heard. But next we wish to hear the characteristics of the incompatible (vairodhika) food articles (āhāravikāra) taught not too briefly.'",
+  "why": "reviewer (minor): 'of yours' is added; bhagavataḥ alone = of the venerable one (respectful third person)."
+ },
+ {
+  "n": "80",
+  "field": "hindi",
+  "old": "ऐसा कह चुके भगवान् आत्रेय से अग्निवेश ने कहा — भगवन्, द्रव्य, गुण और कर्म के विषय में आप भगवान् का यथावत् कहा गया यह सत्य और अर्थ-सम्पत् से युक्त वचन सुन लिया गया; परन्तु आगे हम विरोधी आहार-विकारों का लक्षण अति संक्षेप के बिना उपदेश किया जाता हुआ सुनना चाहते हैं।",
+  "new": "ऐसा कह चुके भगवान् आत्रेय से अग्निवेश ने कहा — भगवन्, द्रव्य, गुण और कर्म के विषय में आप भगवान् का यथावत् कहा गया यह सत्य और अर्थ-सम्पत् से युक्त वचन सुन लिया गया; परन्तु आगे हम वैरोधिक आहार-विकारों का लक्षण अति संक्षेप के बिना उपदेश किया जाता हुआ सुनना चाहते हैं।",
+  "why": "reviewer (minor): Hindi keeps the Sanskrit term vairodhika (वैरोधिक); विरोधी means hostile/opposing (new glossary line)."
+ },
+ {
+  "n": "82",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "śītoṣṇatvādviruddhavīryā",
+    "suggest": "śītoṣṇatvādviruddhavīryaṃ",
+    "why": "possible: the other predicates of ubhayam etat (madhuraṃ, madhuravipākaṃ, mahābhiṣyandi) are neuter singular; -vīryā agrees with nothing in the sentence (grammar)"
+   }
+  ],
+  "new": [],
+  "why": "reviewer (error): Flag rejected: viruddhavīryā is regular sandhi of viruddhavīryāḥ (m. nom. pl.; -āḥ loses visarga before voiced v), the two things (fish and milk) construed as a plural. No grammatical error, so no flag."
+ },
+ {
+  "n": "82",
+  "field": "word.w",
+  "word": "viruddha-vīryam",
+  "old": "viruddha-vīryam",
+  "new": "viruddha-vīryāḥ",
+  "why": "reviewer (error): The split must follow the printed form, not the rejected suggestion."
+ },
+ {
+  "n": "82",
+  "field": "word.gram",
+  "word": "viruddha-vīryāḥ",
+  "old": "n. nom. sg., bahuvrīhi",
+  "new": "m. nom. pl., bahuvrīhi",
+  "why": "reviewer (error): Apply after the w patch: m. nom. pl."
+ },
+ {
+  "n": "82",
+  "field": "notes",
+  "old": "Prose passage typed as a verse unit. The passage does not say which of the two is cold and which hot. ubhayam (n. sg.) 'both' takes neuter singular predicates.",
+  "new": "Prose passage typed as a verse unit. The passage does not say which of the two is cold and which hot. ubhayam (n. sg.) 'both' takes neuter singular predicates. viruddhavīryā = viruddhavīryāḥ (m. nom. pl., visarga dropped before v): the two things (fish and milk) are construed as a plural; the printed form is kept, no flag.",
+  "why": "reviewer (minor): Explain the plural."
+ },
+ {
+  "n": "82",
+  "field": "hindi",
+  "old": "उनमें से जो (द्रव्य) आहार के रूप में सबसे अधिक उपयोग में आते हैं, उनमें से विरोधी के विषय में एक अंश का हम उपदेश करेंगे। मछलियों को दूध के साथ न खाए; क्योंकि ये दोनों मधुर, मधुर विपाक वाले और अत्यन्त अभिष्यन्दी हैं; शीत और उष्ण होने से विरुद्ध वीर्य वाले हैं; विरुद्ध वीर्य होने से रक्त को दूषित करने के लिए और अत्यन्त अभिष्यन्दी होने से मार्गों के अवरोध के लिए (होते हैं)।",
+  "new": "उनमें से जो (द्रव्य) आहार के रूप में सबसे अधिक उपयोग में आते हैं, उनमें से वैरोधिक के विषय में एक अंश का हम उपदेश करेंगे। मछलियों को दूध के साथ न खाए; क्योंकि ये दोनों मधुर, मधुर विपाक वाले और अत्यन्त अभिष्यन्दी हैं; शीत और उष्ण होने से विरुद्ध वीर्य वाले हैं; विरुद्ध वीर्य होने से रक्त को दूषित करने के लिए और अत्यन्त अभिष्यन्दी होने से मार्गों के अवरोध के लिए (होते हैं)।",
+  "why": "reviewer (minor): Hindi keeps vairodhika as वैरोधिक (as in 80)."
+ },
+ {
+  "n": "84",
+  "field": "notes",
+  "old": "Prose passage typed as a verse unit. The split gives na to the token matsyānn and payasā to apayasā, following the suggested word division. 'these diseases' = those named by Bhadrakāpya in 83.",
+  "new": "Prose passage typed as a verse unit. The split gives na to the token matsyānn and payasā to apayasā, following the suggested word division. 'these diseases' = those named by Bhadrakāpya in 83. The printed -ānn before a vowel is itself no possible sandhi (n is doubled only after a short vowel), which supports the re-division matsyān na payasā.",
+  "why": "reviewer (minor): Flag accepted: in-chunk evidence (neti answers 83; viśeṣatas tu cilicimaṃ needs a negative) and grammar. Append a supporting note."
+ },
+ {
+  "n": "P18",
+  "field": "notes",
+  "old": "māṣa = black gram (Vigna mungo, standard); mūlaka = radish (Raphanus sativus, standard). kala in kala-mūkatā is read as 'indistinct (speech)'; uncertain. maiṇmiṇya = speaking through the nose. The subject of āpnoti (the eater) is understood.",
+  "new": "māṣa = black gram; mūlaka = radish. kala in kala-mūkatā is read as 'indistinct (speech)'; uncertain. maiṇmiṇya = speaking through the nose. The subject of āpnoti (the eater) is understood.",
+  "why": "reviewer (minor): POLICY: common names only; species names dropped."
+ },
+ {
+  "n": "P18",
+  "field": "notes",
+  "old": "māṣa = black gram; mūlaka = radish. kala in kala-mūkatā is read as 'indistinct (speech)'; uncertain. maiṇmiṇya = speaking through the nose. The subject of āpnoti (the eater) is understood.",
+  "new": "māṣa = black gram; mūlaka = radish. kala-mūkatā: -tā is read over kala-mūka ('indistinctness of speech and dumbness'); it may also be one item ('inarticulate dumbness'); uncertain. maiṇmiṇya is one word (aiṇmiṇya would be none), so mūkatā stays inside the compound. maiṇmiṇya = speaking through the nose. The subject of āpnoti (the eater) is understood.",
+  "why": "reviewer (minor): Judged: kala is an adjective and cannot stand alone in a dvandva of abstract nouns; the note should say how the split is meant. Translation may stay."
+ },
+ {
+  "n": "P19",
+  "field": "word.gram",
+  "word": "anyatamam",
+  "old": "acc. sg.",
+  "new": "n. acc. sg.",
+  "why": "reviewer (minor): Gender missing."
+ },
+ {
+  "n": "P20",
+  "field": "notes",
+  "old": "laśuna = garlic (Allium sativum, standard); mūlaka = radish (standard). surasa stands for surasā inside the compound. The other names are kept Sanskrit.",
+  "new": "laśuna = garlic; mūlaka = radish. surasa stands for surasā inside the compound. The other names are kept Sanskrit.",
+  "why": "reviewer (minor): POLICY: common names only; species names dropped."
+ },
+ {
+  "n": "P20",
+  "field": "english",
+  "old": "Having eaten mūlaka, laśuna, kṛṣṇagandhā, arjaka, sumukha, surasā and the like, one should not take milk, for fear of affliction by kuṣṭha.",
+  "new": "Having eaten mūlaka, laśuna, kṛṣṇagandhā, arjaka, sumukha, surasa and the like, one should not take milk, for fear of affliction by kuṣṭha.",
+  "why": "reviewer (minor): Glossary: drug names keep the printed spelling (surasa); the long form only in notes."
+ },
+ {
+  "n": "P20",
+  "field": "hindi",
+  "old": "मूलक, लशुन, कृष्णगन्धा, अर्जक, सुमुख, सुरसा आदि खाकर दूध का सेवन नहीं करना चाहिए, कुष्ठ की बाधा के भय से।",
+  "new": "मूलक, लशुन, कृष्णगन्धा, अर्जक, सुमुख, सुरस आदि खाकर दूध का सेवन नहीं करना चाहिए, कुष्ठ की बाधा के भय से।",
+  "why": "reviewer (minor): Printed spelling kept, as in the English."
+ },
+ {
+  "n": "P20",
+  "field": "word.gloss",
+  "word": "mūlaka-laśuna-kṛṣṇagandhā-arjaka-sumukha-surasa-ādīni",
+  "old": "mūlaka, laśuna, kṛṣṇagandhā, arjaka, sumukha, surasā and the like",
+  "new": "mūlaka, laśuna, kṛṣṇagandhā, arjaka, sumukha, surasa and the like",
+  "why": "reviewer (minor): Printed spelling kept."
+ },
+ {
+  "n": "P20",
+  "field": "notes",
+  "old": "laśuna = garlic; mūlaka = radish. surasa stands for surasā inside the compound. The other names are kept Sanskrit.",
+  "new": "laśuna = garlic; mūlaka = radish. surasa is the printed form, possibly surasā with the feminine shortened in a name inside the compound; kept as printed. The other names are kept Sanskrit.",
+  "why": "reviewer (minor): States as fact what is an inference; soften."
+ },
+ {
+  "n": "P22",
+  "field": "notes",
+  "old": "The '|' attached to tathā is the edition's danda inside the line; it is left out of w. Nineteen fruits are named. māṣasūpa is read as one item (soup of māṣa); it could also be two (māṣa, sūpa). Identifications (standard): āmra = mango, badara = jujube, dāḍima = pomegranate, nālikera = coconut, āmalaka = Phyllanthus emblica; the rest are kept Sanskrit. The singular viruddham agrees with the nearest subject sarvam.",
+  "new": "The '|' attached to tathā is the edition's danda inside the line; it is left out of w. Nineteen items are named. māṣasūpa is read as one item (soup of māṣa); it could also be two (māṣa, sūpa). Identifications (standard): āmra = mango, badara = jujube, dāḍima = pomegranate, nālikera = coconut, āmalaka = Phyllanthus emblica; the rest are kept Sanskrit. The singular viruddham agrees with the nearest subject sarvam.",
+  "why": "reviewer (minor): akṣoḍa etc. need not be fruits in the strict sense; the text says dravyāṇi. Count verified: 19."
+ },
+ {
+  "n": "P22",
+  "field": "notes",
+  "old": "The '|' attached to tathā is the edition's danda inside the line; it is left out of w. Nineteen items are named. māṣasūpa is read as one item (soup of māṣa); it could also be two (māṣa, sūpa). Identifications (standard): āmra = mango, badara = jujube, dāḍima = pomegranate, nālikera = coconut, āmalaka = Phyllanthus emblica; the rest are kept Sanskrit. The singular viruddham agrees with the nearest subject sarvam.",
+  "new": "The '|' attached to tathā is the edition's danda inside the line; it is left out of w. Nineteen items are named. māṣasūpa is read as one item (soup of māṣa); it could also be two (māṣa, sūpa). Common names: āmra = mango, badara = jujube, dāḍima = pomegranate, nālikera = coconut; the rest are kept Sanskrit. The singular viruddham agrees with the nearest subject sarvam.",
+  "why": "reviewer (minor): POLICY: species names dropped; common names only where needed."
+ },
+ {
+  "n": "P22",
+  "field": "hindi",
+  "old": "वही पका हुआ निकुच माष के सूप, गुड़ और घी के साथ उपयोग नहीं करना चाहिए, विरोधी होने के कारण। इसी प्रकार आम्र, आम्रातक, मातुलुङ्ग, निकुच, करमर्द, मोच, दन्तशठ, बदर, कोशाम्र, भव्य, जाम्बव, कपित्थ, तिन्तिडीक, पारावत, अक्षोड, पनस, नालिकेर, दाडिम और आमलक, तथा इस प्रकार के अन्य द्रव्य, और सब अम्ल, द्रव हो या अद्रव, दूध के साथ विरुद्ध है।",
+  "new": "वही पका हुआ निकुच माष के सूप, गुड़ और घी के साथ उपयोग नहीं करना चाहिए, वैरोधिक होने के कारण। इसी प्रकार आम्र, आम्रातक, मातुलुङ्ग, निकुच, करमर्द, मोच, दन्तशठ, बदर, कोशाम्र, भव्य, जाम्बव, कपित्थ, तिन्तिडीक, पारावत, अक्षोड, पनस, नालिकेर, दाडिम और आमलक, तथा इस प्रकार के अन्य द्रव्य, और सब अम्ल, द्रव हो या अद्रव, दूध के साथ विरुद्ध है।",
+  "why": "reviewer (minor): vairodhikatva: Hindi keeps the term (वैरोधिक), as in 80 and 82."
+ }
+]

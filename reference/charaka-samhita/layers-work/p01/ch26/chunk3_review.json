@@ -591,8 +591,8 @@
     {
      "field": "text_flags",
      "where": "matsyānn apayasā",
-     "problem": "Flag accepted: in-chunk evidence (neti answers 83; viśeṣatas tu cilicimaṃ needs a negative) and grammar.",
-     "fix": "keep",
+     "problem": "Flag accepted: in-chunk evidence (neti answers 83; viśeṣatas tu cilicimaṃ needs a negative) and grammar. Append a supporting note.",
+     "fix": "append note",
      "severity": "minor",
      "patch": {
       "n": "84",
@@ -860,5 +860,5 @@
    "issues": []
   }
  ],
- "summary": "Reviewed 39 units. Fixes: 3 error, 39 minor (patches given); 12 judgements recorded with no change. text_flags: 5 of 6 accepted (57 so'varastyū→-stū possible, 58 -āṇaṃ→-āṇāṃ, 84 matsyānn apayasā→matsyān na payasā, P18 kaṣisa→bisa possible, P19 bhraṣṭa→bhṛṣṭa); 82 viruddhavīryā rejected (regular sandhi of m. nom. pl. viruddhavīryāḥ): flag removed and split corrected. Unresolved judged: 77 rasānāṃ kept (no flag), 70 prabhāvākṛta kept, 66 reading sound (yāvat gloss fixed), 79 sound, P18 kala note clarified, P23 vanaka kept, P19/P22 item splits kept. Plant notes: species names dropped (68, P18, P20, P22), common names only. Hindi vairodhika = वैरोधिक (80, 82, P22). MANUAL: units 80-84 are prose typed as verse units (fix unit type/numbering in the unit build). No regrouping suggested. Layers remain unreviewed AI drafts until read by a person."
+ "summary": "Reviewed 39 units. Fixes: 3 error, 35 minor (all with patches); 5 MANUAL (no patch); 11 judgements recorded with no change. text_flags: 5 of 6 accepted (57 so'varastyū→-stū possible, 58 -āṇaṃ→-āṇāṃ, 84 matsyānn apayasā→matsyān na payasā, P18 kaṣisa→bisa possible, P19 bhraṣṭa→bhṛṣṭa); 82 viruddhavīryā rejected (regular sandhi of m. nom. pl. viruddhavīryāḥ): flag removed and split corrected. Unresolved judged: 77 rasānāṃ kept (no flag), 70 prabhāvākṛta kept, 66 reading sound (yāvat gloss fixed), 79 sound, P18 kala note clarified, P23 vanaka kept, P19/P22 item splits kept. Plant notes: species names dropped (68, P18, P20, P22), common names only. Hindi vairodhika = वैरोधिक (80, 82, P22). MANUAL: units 80-84 are prose typed as verse units (fix unit type/numbering in the unit build). No regrouping suggested. Layers remain unreviewed AI drafts until read by a person."
 }
