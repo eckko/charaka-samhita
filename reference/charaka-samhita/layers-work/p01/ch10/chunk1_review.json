@@ -1,0 +1,296 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "is capable of health",
+     "problem": "\"alam ārogyāya\" is \"sufficient / able (to bring) health\"; \"capable of health\" is unidiomatic and slightly off.",
+     "fix": "is sufficient for health",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "is capable of health",
+      "new": "is sufficient for health"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "upapadyamānāḥ",
+     "problem": "upa-√pad is a class-4 ātmanepada verb; upapadyamāna is the middle present participle, not passive.",
+     "fix": "pres. part. mid. upa-√pad, m. nom. pl.",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "upapadyamānāḥ",
+      "field": "gram",
+      "value": "pres. part. mid. upa-√pad, m. nom. pl."
+     }
+    },
+    {
+     "field": "english",
+     "where": "there is no special recovery for the provision of complete medicine",
+     "problem": "Literal \"for the provision of\" makes the double negative nearly unreadable; the sense (stated in the draft's own note) is a better recovery resulting from complete medicine.",
+     "fix": "there would be no special (better) recovery from the provision of complete medicine",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "english",
+      "old": "there is no special recovery for the provision of complete medicine",
+      "new": "there would be no special (better) recovery from the provision of complete medicine"
+     }
+    },
+    {
+     "field": "english",
+     "where": "surely endows the patient with a curable disease with health",
+     "problem": "Double \"with\" is ambiguous (reads as \"a disease with health\").",
+     "fix": "surely brings the patient who has a curable disease to health",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "english",
+      "old": "surely endows the patient with a curable disease with health",
+      "new": "surely brings the patient who has a curable disease to health"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "cikitsāmaḥ",
+     "problem": "cikitsati is the desiderative of √kit (to cure/heed), not √cit.",
+     "fix": "1 pl. pres. desid. √kit",
+     "severity": "error",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "cikitsāmaḥ",
+      "field": "gram",
+      "value": "1 pl. pres. desid. √kit"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pratyākhyeyam",
+     "problem": "Glossary rule: gerundives are labelled \"gerundive (kṛtya)\", not \"fut. pass. part.\".",
+     "fix": "gerundive (kṛtya) prati-ā-√khyā, m. acc. sg.",
+     "severity": "error",
+     "patch": {
+      "n": "19",
+      "op": "word",
+      "match_w": "pratyākhyeyam",
+      "field": "gram",
+      "value": "gerundive (kṛtya) prati-ā-√khyā, m. acc. sg."
+     }
+    },
+    {
+     "field": "english",
+     "where": "and born of two doṣas: one should know it likewise.",
+     "problem": "Word order garbles the syntax: dvidoṣajam is the object of vidyāt, tadvat \"likewise\".",
+     "fix": "one should know likewise the one born of two doṣas.",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "english",
+      "old": "and born of two doṣas: one should know it likewise.",
+      "new": "one should know likewise the one born of two doṣas."
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kāryaḥ",
+     "problem": "Glossary rule: gerundives are labelled \"gerundive (kṛtya)\".",
+     "fix": "gerundive (kṛtya) √kṛ, m. nom. sg.",
+     "severity": "error",
+     "patch": {
+      "n": "21",
+      "op": "word",
+      "match_w": "kāryaḥ",
+      "field": "gram",
+      "value": "gerundive (kṛtya) √kṛ, m. nom. sg."
+     }
+    },
+    {
+     "field": "english",
+     "where": "the own characteristics of disorders",
+     "problem": "\"the own characteristics\" is not English; svalakṣaṇa = characteristics proper to each.",
+     "fix": "the characteristics proper to disorders",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "english",
+      "old": "the own characteristics of disorders",
+      "new": "the characteristics proper to disorders"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "those of units 9 to 10",
+     "problem": "Unit 10 is about the three-fold gradation of the curable, not the four kinds; the four kinds are named in unit 9 and described in 11-20.",
+     "fix": "those of unit 9 (marks in units 11 to 20)",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "notes",
+      "old": "those of units 9 to 10",
+      "new": "those of unit 9 (marks in units 11 to 20)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "in the Ślokasthāna,",
+     "problem": "Glossary fixes Ślokasthāna = \"Śloka section (Ślokasthāna)\" in English.",
+     "fix": "in the Śloka section (Ślokasthāna),",
+     "severity": "error",
+     "patch": {
+      "n": "P2",
+      "op": "replace",
+      "field": "english",
+      "old": "in the Ślokasthāna,",
+      "new": "in the Śloka section (Ślokasthāna),"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "5 errors (gram: 4 - wrong root of cikitsāmaḥ, upapadyamāna mislabelled passive, two gerundives not labelled 'gerundive (kṛtya)'; english: 1 - Ślokasthāna not rendered per glossary), 6 minor (english wording 5, notes 1). Text flags (bheṣajo->bhiṣajo, samaratham->samartham, samutthiṣṭheran->samuttiṣṭheran) rest on grammar and in-chunk forms only and are sound. No note or text_flag rests on another edition, commentator or memory; none marked for removal. No uncertain lines. Grouping kept; no regrouping suggested. Reviewed layer remains an unreviewed AI draft until read by a person."
+}

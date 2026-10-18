@@ -54,3 +54,7 @@ Draft status: AI drafts, not read by a person.
 - vātala/pittala/śleṣmala = Vāta-/Pitta-/Kapha-predominant; svasthavṛtti = svasthavṛtta; sadvṛtta = good conduct; rasāyana = rejuvenative; vṛṣyayoga = aphrodisiac application; āpta = the reliable (आप्त); āptopadeśa = teaching of the reliable
 - dadhi = curd (दही); kāmalā, asṛkpitta kept Sanskrit (no modern equivalents in notes unless input gives them); month names (Mādhava, Nabhasya, Sahasya) kept Sanskrit; krama = sequence/gradually; atrija = the Atri-born (epithet)
 - singular dvandvas are labelled samāhāra, neuter
+- catuṣpāda = the four limbs (of treatment) (चतुष्पाद); ṣoḍaśakala = having sixteen parts; ṣoḍaśaguṇa = having sixteen qualities
+- sukhasādhya = easily curable (सुखसाध्य); kṛcchrasādhya = curable with difficulty (कृच्छ्रसाध्य); yāpya = palliable (याप्य); anupakrama = untreatable; pratyākhyeya = to be rejected (प्रत्याख्येय); asādhya = incurable (असाध्य)
+- hetu/nimitta = cause; pūrvarūpa = prodromal signs (पूर्वरूप); rūpa = symptoms; upadrava = complication (उपद्रव); dūṣya = what is vitiated (दूष्य); marma = vital point (मर्म); ariṣṭa = fatal signs (अरिष्ट); vikalpa = gradation; upakaraṇa = equipment; ātmavant = self-controlled (आत्मवान्)
+- cikitsati/cikitsāmaḥ = desiderative of √kit; names: Punarvasu Ātreya (पुनर्वसु आत्रेय), Maitreya (मैत्रेय); bhavanti cātra = "And here there are:"; tatra ślokau = "Here, the two verses:"

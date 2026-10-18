@@ -1,0 +1,83 @@
+[
+ {
+  "n": "3",
+  "field": "english",
+  "old": "Physicians speak of medicine (bheṣaja) as having four limbs and sixteen parts; what was called \"sixteen-qualitied\" in the previous chapter, that medicine, applied with rational planning (yukti), is capable of health: so said the venerable Punarvasu Ātreya.",
+  "new": "Physicians speak of medicine (bheṣaja) as having four limbs and sixteen parts; what was called \"sixteen-qualitied\" in the previous chapter, that medicine, applied with rational planning (yukti), is sufficient for health: so said the venerable Punarvasu Ātreya.",
+  "why": "reviewer (minor): \"alam ārogyāya\" is \"sufficient / able (to bring) health\"; \"capable of health\" is unidiomatic and slightly off."
+ },
+ {
+  "n": "5",
+  "field": "word.gram",
+  "word": "upapadyamānāḥ",
+  "old": "pres. part. pass. upa-√pad, m. nom. pl.",
+  "new": "pres. part. mid. upa-√pad, m. nom. pl.",
+  "why": "reviewer (error): upa-√pad is a class-4 ātmanepada verb; upapadyamāna is the middle present participle, not passive."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "\"Maitreya, it is wrongly thought,\" said Ātreya. \"What is the reason? What was said, that patients die though provided with this medicine endowed with sixteen qualities, is untenable; for in diseases curable by medicine, medicine is not a non-cause. And as for patients who recover without complete medicine, it is not that for them there is no special recovery for the provision of complete medicine; for just as a man raising a fallen man who is capable of rising might lend him his strength, and he would rise more quickly and without strain, so are patients through obtaining complete medicine. And as for patients who die even with complete medicine, not all of them, provided with medicine, would recover; for not all diseases are curable by means, nor is there success without the means for diseases curable by means, nor is this collection of medicine for incurable diseases; for a knowledgeable physician is not able to raise a patient who is about to die. For those who act after examination are the skilled; just as an archer who knows the technique (yoga) and is constant in practice, taking up the bow and shooting an arrow at a large target not too distant, does not miss, and accomplishes the desired task, so the physician endowed with his own qualities and equipped, having examined and beginning the action, without fault, surely endows the patient with a curable disease with health. Therefore medicine is not indistinguishable from non-medicine.\"",
+  "new": "\"Maitreya, it is wrongly thought,\" said Ātreya. \"What is the reason? What was said, that patients die though provided with this medicine endowed with sixteen qualities, is untenable; for in diseases curable by medicine, medicine is not a non-cause. And as for patients who recover without complete medicine, it is not that for them there would be no special (better) recovery from the provision of complete medicine; for just as a man raising a fallen man who is capable of rising might lend him his strength, and he would rise more quickly and without strain, so are patients through obtaining complete medicine. And as for patients who die even with complete medicine, not all of them, provided with medicine, would recover; for not all diseases are curable by means, nor is there success without the means for diseases curable by means, nor is this collection of medicine for incurable diseases; for a knowledgeable physician is not able to raise a patient who is about to die. For those who act after examination are the skilled; just as an archer who knows the technique (yoga) and is constant in practice, taking up the bow and shooting an arrow at a large target not too distant, does not miss, and accomplishes the desired task, so the physician endowed with his own qualities and equipped, having examined and beginning the action, without fault, surely endows the patient with a curable disease with health. Therefore medicine is not indistinguishable from non-medicine.\"",
+  "why": "reviewer (minor): Literal \"for the provision of\" makes the double negative nearly unreadable; the sense (stated in the draft's own note) is a better recovery resulting from complete medicine."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "\"Maitreya, it is wrongly thought,\" said Ātreya. \"What is the reason? What was said, that patients die though provided with this medicine endowed with sixteen qualities, is untenable; for in diseases curable by medicine, medicine is not a non-cause. And as for patients who recover without complete medicine, it is not that for them there would be no special (better) recovery from the provision of complete medicine; for just as a man raising a fallen man who is capable of rising might lend him his strength, and he would rise more quickly and without strain, so are patients through obtaining complete medicine. And as for patients who die even with complete medicine, not all of them, provided with medicine, would recover; for not all diseases are curable by means, nor is there success without the means for diseases curable by means, nor is this collection of medicine for incurable diseases; for a knowledgeable physician is not able to raise a patient who is about to die. For those who act after examination are the skilled; just as an archer who knows the technique (yoga) and is constant in practice, taking up the bow and shooting an arrow at a large target not too distant, does not miss, and accomplishes the desired task, so the physician endowed with his own qualities and equipped, having examined and beginning the action, without fault, surely endows the patient with a curable disease with health. Therefore medicine is not indistinguishable from non-medicine.\"",
+  "new": "\"Maitreya, it is wrongly thought,\" said Ātreya. \"What is the reason? What was said, that patients die though provided with this medicine endowed with sixteen qualities, is untenable; for in diseases curable by medicine, medicine is not a non-cause. And as for patients who recover without complete medicine, it is not that for them there would be no special (better) recovery from the provision of complete medicine; for just as a man raising a fallen man who is capable of rising might lend him his strength, and he would rise more quickly and without strain, so are patients through obtaining complete medicine. And as for patients who die even with complete medicine, not all of them, provided with medicine, would recover; for not all diseases are curable by means, nor is there success without the means for diseases curable by means, nor is this collection of medicine for incurable diseases; for a knowledgeable physician is not able to raise a patient who is about to die. For those who act after examination are the skilled; just as an archer who knows the technique (yoga) and is constant in practice, taking up the bow and shooting an arrow at a large target not too distant, does not miss, and accomplishes the desired task, so the physician endowed with his own qualities and equipped, having examined and beginning the action, without fault, surely brings the patient who has a curable disease to health. Therefore medicine is not indistinguishable from non-medicine.\"",
+  "why": "reviewer (minor): Double \"with\" is ambiguous (reads as \"a disease with health\")."
+ },
+ {
+  "n": "6",
+  "field": "word.gram",
+  "word": "cikitsāmaḥ",
+  "old": "1 pl. pres. desid. √cit",
+  "new": "1 pl. pres. desid. √kit",
+  "why": "reviewer (error): cikitsati is the desiderative of √kit (to cure/heed), not √cit."
+ },
+ {
+  "n": "19",
+  "field": "word.gram",
+  "word": "pratyākhyeyam",
+  "old": "fut. pass. part. prati-ā-√khyā, m. acc. sg.",
+  "new": "gerundive (kṛtya) prati-ā-√khyā, m. acc. sg.",
+  "why": "reviewer (error): Glossary rule: gerundives are labelled \"gerundive (kṛtya)\", not \"fut. pass. part.\"."
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "and born of two doṣas: one should know it likewise. To be rejected (pratyākhyeya) is one born of three doṣas, gone beyond the path of treatment, following all pathways,",
+  "new": "one should know likewise the one born of two doṣas. To be rejected (pratyākhyeya) is one born of three doṣas, gone beyond the path of treatment, following all pathways,",
+  "why": "reviewer (minor): Word order garbles the syntax: dvidoṣajam is the object of vidyāt, tadvat \"likewise\"."
+ },
+ {
+  "n": "21",
+  "field": "word.gram",
+  "word": "kāryaḥ",
+  "old": "fut. pass. part. √kṛ, m. nom. sg.",
+  "new": "gerundive (kṛtya) √kṛ, m. nom. sg.",
+  "why": "reviewer (error): Glossary rule: gerundives are labelled \"gerundive (kṛtya)\"."
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "Having thus first examined the own characteristics of disorders, the wise physician should afterwards undertake action in the curable ones.",
+  "new": "Having thus first examined the characteristics proper to disorders, the wise physician should afterwards undertake action in the curable ones.",
+  "why": "reviewer (minor): \"the own characteristics\" is not English; svalakṣaṇa = characteristics proper to each."
+ },
+ {
+  "n": "24",
+  "field": "notes",
+  "old": "The four kinds are those of units 9 to 10 (easily curable, curable with difficulty, palliable, to be rejected).",
+  "new": "The four kinds are those of unit 9 (marks in units 11 to 20) (easily curable, curable with difficulty, palliable, to be rejected).",
+  "why": "reviewer (minor): Unit 10 is about the three-fold gradation of the curable, not the four kinds; the four kinds are named in unit 9 and described in 11-20."
+ },
+ {
+  "n": "P2",
+  "field": "english",
+  "old": "In the treatise composed by Agniveśa and redacted by Caraka, in the Ślokasthāna, the tenth chapter named Mahācatuṣpāda.",
+  "new": "In the treatise composed by Agniveśa and redacted by Caraka, in the Śloka section (Ślokasthāna), the tenth chapter named Mahācatuṣpāda.",
+  "why": "reviewer (error): Glossary fixes Ślokasthāna = \"Śloka section (Ślokasthāna)\" in English."
+ }
+]
