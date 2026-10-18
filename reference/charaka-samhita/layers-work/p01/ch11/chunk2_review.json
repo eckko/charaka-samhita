@@ -1,0 +1,424 @@
+{
+ "units": [
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "āhāra-vidhi-viśeṣa-āyataneṣu",
+     "problem": "viśeṣa belongs to the rules (āhāravidhiviśeṣa = the special rules of diet), not to the sources; 'special sources of the rules' misattaches it.",
+     "fix": "in the sources of the special rules of diet",
+     "severity": "minor",
+     "patch": {
+      "n": "P11",
+      "op": "word",
+      "match_w": "āhāra-vidhi-viśeṣa-āyataneṣu",
+      "field": "gloss",
+      "value": "in the sources of the special rules of diet"
+     }
+    },
+    {
+     "field": "english",
+     "where": "in the special sources of the rules of diet (āhāravidhiviśeṣāyatana)",
+     "problem": "Same misattachment of viśeṣa as in the gloss.",
+     "fix": "in the sources of the special rules of diet (āhāravidhiviśeṣāyatana)",
+     "severity": "minor",
+     "patch": {
+      "n": "P11",
+      "op": "replace",
+      "field": "english",
+      "old": "in the special sources of the rules of diet (āhāravidhiviśeṣāyatana)",
+      "new": "in the sources of the special rules of diet (āhāravidhiviśeṣāyatana)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अपमान",
+     "problem": "pradharṣaṇa is glossed and translated 'assault'; Hindi अपमान (insult) does not match.",
+     "fix": "आक्रमण",
+     "severity": "minor",
+     "patch": {
+      "n": "P11",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अपमान",
+      "new": "आक्रमण"
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "depend on their respective application (yukti)",
+     "problem": "The glossary gives yukti = reasoning (epistemology, Sū 11) or rational planning (treatment); 'application' is neither and collides with the glossary's yoga = application. Needs a glossary decision for yukti as 'proper conjunction' in this sense; not patched.",
+     "fix": "e.g. 'depend on their respective conjunction (yukti)', after a glossary entry",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "lābhāt (first)",
+     "problem": "LAYER_NOTES 2 asks for the corrected form in `words`; the first lābhāt is kept as printed with the correction only in the gloss. Because the a- of alābhāt would merge into the previous token (iṣṭasyālābhāt), a human should decide whether to set w = alābhāt here (gloss 'from not gaining').",
+     "fix": "w: alābhāt, gloss: from not gaining",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "Identifications (kept out of the translation): piḍakā = boils ... udara = abdominal enlargement including ascites (probable); visarpa, kuṣṭha, gulma kept as Sanskrit per glossary.",
+     "problem": "Modern disease identifications (hemiplegia, tuberculosis, cholera-type gastroenteritis, scrofula, etc.) rest on memory, not on the input; the glossary allows tagged identifications for plants only and keeps disease names Sanskrit with no modern equivalents unless the input gives them. Remove; keep the last sentence.",
+     "fix": "The repeated list visarpa ... vidradhi occurs in both the external and the internal pathway, distinguished by bahirmārgaja and antarmārgaja.",
+     "severity": "error",
+     "patch": {
+      "n": "49",
+      "op": "set",
+      "field": "notes",
+      "value": "The repeated list visarpa ... vidradhi occurs in both the external and the internal pathway, distinguished by bahirmārgaja and antarmārgaja."
+     }
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "53",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "54",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "yukti-vyapāśrayam",
+     "problem": "'the reason-based' contradicts unit 54 ('based on rational planning') and the glossary (yukti as treatment planning = rational planning).",
+     "fix": "based on rational planning",
+     "severity": "error",
+     "patch": {
+      "n": "P17",
+      "op": "word",
+      "match_w": "yukti-vyapāśrayam",
+      "field": "gloss",
+      "value": "based on rational planning"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the reason-based, again,",
+     "problem": "Same inconsistency with unit 54 and the glossary.",
+     "fix": "that based on rational planning, again,",
+     "severity": "error",
+     "patch": {
+      "n": "P17",
+      "op": "replace",
+      "field": "english",
+      "old": "the reason-based, again,",
+      "new": "that based on rational planning, again,"
+     }
+    },
+    {
+     "field": "english",
+     "where": "Of these, the divine-based is:",
+     "problem": "Match unit 54's wording ('that based on the divine').",
+     "fix": "Of these, that based on the divine is:",
+     "severity": "minor",
+     "patch": {
+      "n": "P17",
+      "op": "replace",
+      "field": "english",
+      "old": "Of these, the divine-based is:",
+      "new": "Of these, that based on the divine is:"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "gamana \"going\" is probably going to holy places",
+     "problem": "Rests on outside knowledge/commentary not shown in the input (the note itself says the text says only 'going'). Remove.",
+     "fix": "(empty)",
+     "severity": "error",
+     "patch": {
+      "n": "P17",
+      "op": "set",
+      "field": "notes",
+      "value": ""
+     }
+    }
+   ]
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "antaḥ-śarīram",
+     "problem": "An avyayībhāva is indeclinable; 'n. acc. sg.' conflicts with the label.",
+     "fix": "ind., avyayībhāva (object of anu-pra-√viś)",
+     "severity": "minor",
+     "patch": {
+      "n": "P18",
+      "op": "word",
+      "match_w": "antaḥ-śarīram",
+      "field": "gram",
+      "value": "ind., avyayībhāva (object of anu-pra-√viś)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "56",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "procedure (karma)",
+     "problem": "Fixed rendering karma = action (LAYER_NOTES 6). 'procedure' fits the therapeutic sense but departs from the glossary; keep only if the glossary adds karma (therapeutic) = procedure.",
+     "fix": "by external or internal action (karma) — or add a glossary entry",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "57",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "58",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "59",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "60",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "61",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "62",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "godhā = monitor lizard (standard).",
+     "problem": "Animal identification from memory, not from the input; the glossary allows tagged identifications for plants only. The gloss 'godhā lizard' already suffices. Remove (or add a glossary rule allowing animal identifications).",
+     "fix": "(empty)",
+     "severity": "minor",
+     "patch": {
+      "n": "62",
+      "op": "set",
+      "field": "notes",
+      "value": ""
+     }
+    }
+   ]
+  },
+  {
+   "n": "63",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "64",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "eṣaṇāḥ",
+     "problem": "Chunk 1 renders eṣaṇā throughout as 'pursuit' (three pursuits, Tisraiṣaṇīya = 'the chapter on the Three Pursuits'); 'desires' breaks cross-chunk consistency.",
+     "fix": "the pursuits",
+     "severity": "error",
+     "patch": {
+      "n": "64",
+      "op": "word",
+      "match_w": "eṣaṇāḥ",
+      "field": "gloss",
+      "value": "the pursuits"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "tisraiṣaṇīye",
+     "problem": "Same: 'three desires' vs chunk 1 'Three Pursuits'.",
+     "fix": "in the Tisraiṣaṇīya (chapter on the three pursuits)",
+     "severity": "error",
+     "patch": {
+      "n": "64",
+      "op": "word",
+      "match_w": "tisraiṣaṇīye",
+      "field": "gloss",
+      "value": "in the Tisraiṣaṇīya (chapter on the three pursuits)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the desires (eṣaṇā)",
+     "problem": "Same inconsistency with chunk 1.",
+     "fix": "the pursuits (eṣaṇā)",
+     "severity": "error",
+     "patch": {
+      "n": "64",
+      "op": "replace",
+      "field": "english",
+      "old": "the desires (eṣaṇā)",
+      "new": "the pursuits (eṣaṇā)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "65",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P19",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "42 units; 7 errors, 9 minor. All 12 text_flags checked and kept: each rests on grammar or on evidence inside the chunk (rāśivarjyeṣv, śārīraḥ, alābhāt/lābhācca, mānasaṃ, rogamārgaḥ, -ādayaḥ, ānāhodara, -anusāriṇo, śrīyaśo (metre), labhante, lekhanotpāṭana, aṣṭau). Errors: eṣaṇā rendered 'desires' against chunk 1's 'pursuits' (unit 64); yuktivyapāśraya rendered 'reason-based' against unit 54 and the glossary (P17); memory-sourced notes to remove: modern disease identifications (49) and gamana = going to holy places (P17). No regrouping suggested. Unreviewed AI draft; not read by a person."
+}
