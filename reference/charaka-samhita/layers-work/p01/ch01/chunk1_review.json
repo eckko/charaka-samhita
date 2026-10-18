@@ -1,0 +1,515 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "yathā-proktam",
+     "problem": "Gram 'n. acc. sg. / adv.' does not fit the adjectival reading given in notes: agreeing with āyurvedam it is m. acc. sg.",
+     "fix": "adv. or m. acc. sg. (with āyurvedam); ppp pra-√vac",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "yathā-proktam",
+      "field": "gram",
+      "value": "adv. or m. acc. sg. (with āyurvedam); ppp pra-√vac"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "pajāpatiḥ (why)",
+     "problem": "The flag is right, but 'metre require prajāpatiḥ' overstates: the preceding vedaṃ is already heavy, so pa/pra does not change the metre (the why itself says the syllable count is unchanged). The evidence is sense and vocabulary only.",
+     "fix": "why: 'missing r: pajāpati is not a word; the sense (transmission Brahmā > Prajāpati > Aśvins) requires prajāpatiḥ; metre is unaffected'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "इन्द्र",
+     "problem": "Hindi replaces the printed name Śakra with Indra (English keeps Śakra). Keep the name as printed (LAYER_NOTES 3).",
+     "fix": "भगवान् शक्र ने",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "भगवान् इन्द्र ने",
+      "new": "भगवान् शक्र ने"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "इन्द्र के पास",
+     "problem": "Same: śakram rendered इन्द्र.",
+     "fix": "भरद्वाज शक्र के पास",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "भरद्वाज इन्द्र के पास",
+      "new": "भरद्वाज शक्र के पास"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "tapa-upavāsa-…",
+     "problem": "Dictionary-form member of tapopavāsa is tapas- (stem), not tapa-; the rule is to restore original forms.",
+     "fix": "tapas-upavāsa-adhyayana-brahmacarya-vrata-āyuṣām (note: tapas- appears as tapo- in this compound)",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "tapa-upavāsa-adhyayana-brahmacarya-vrata-āyuṣām",
+      "field": "w",
+      "value": "tapas-upavāsa-adhyayana-brahmacarya-vrata-āyuṣām"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "Some editions read pārīkṣi",
+     "problem": "Variant reading asserted without any source in the input (no source_notes); the brief forbids invented variants.",
+     "fix": "(delete)",
+     "severity": "error",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "notes",
+      "old": " Some editions read pārīkṣi for pārikṣi; kept as printed.",
+      "new": ""
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "के सामने",
+     "problem": "manuṣyāṇām antarāyaḥ is 'an obstacle for/of human beings'; 'सामने' (in front of) adds an image not in the text.",
+     "fix": "मनुष्यों के लिए",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मनुष्यों के सामने",
+      "new": "मनुष्यों के लिए"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "इन्द्र को",
+     "problem": "śakram rendered इन्द्र; keep the printed name Śakra.",
+     "fix": "ध्यान की दृष्टि से शक्र को",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ध्यान की दृष्टि से इन्द्र को",
+      "new": "ध्यान की दृष्टि से शक्र को"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वे ही",
+     "problem": "'ही' adds emphasis ('he alone') not in sa vakṣyati.",
+     "fix": "देवताओं के स्वामी वे शमन",
+     "severity": "error",
+     "patch": {
+      "n": "18",
+      "op": "replace",
+      "field": "hindi",
+      "old": "देवताओं के स्वामी वे ही शमन",
+      "new": "देवताओं के स्वामी वे शमन"
+     }
+    },
+    {
+     "field": "english",
+     "where": "tell us",
+     "problem": "'us' is not in the Sanskrit (no pronoun).",
+     "fix": "will properly tell the means",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "replace",
+      "field": "english",
+      "old": "will tell us properly the means",
+      "new": "will properly tell the means"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उन्हें ही",
+     "problem": "'ही' adds emphasis ('him alone'); the text has only sa niyojitaḥ.",
+     "fix": "उन्हें नियुक्त",
+     "severity": "error",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उन्हें ही नियुक्त",
+      "new": "उन्हें नियुक्त"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "seated amid",
+     "problem": "'seated' is added: madhyaga means 'being/going in the midst', posture not stated.",
+     "fix": "in the midst of the hosts",
+     "severity": "error",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "english",
+      "old": "seated amid the hosts",
+      "new": "in the midst of the hosts"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "इन्द्र के भवन",
+     "problem": "śakrabhavanam: keep the printed name Śakra.",
+     "fix": "शक्र के भवन में",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "hindi",
+      "old": "इन्द्र के भवन में",
+      "new": "शक्र के भवन में"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "बल के संहारक इन्द्र",
+     "problem": "The name Indra is added to the epithet balahantāram; epithets stay epithets (name in notes, which already has it).",
+     "fix": "बल के संहारक को देखा",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बल के संहारक इन्द्र को देखा",
+      "new": "बल के संहारक को देखा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शतक्रतु इन्द्र",
+     "problem": "The name Indra is added inline to the epithet Śatakratu (the note already identifies him).",
+     "fix": "भगवान् शतक्रतु ने",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "hindi",
+      "old": "भगवान् शतक्रतु इन्द्र ने",
+      "new": "भगवान् शतक्रतु ने"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "यह वही",
+     "problem": "'वही' adds emphasis ('that very') not in the Sanskrit (plain apposition).",
+     "fix": "यह हेतु",
+     "severity": "error",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यह वही हेतु",
+      "new": "यह हेतु"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पितामह ब्रह्मा",
+     "problem": "Name Brahmā added inline to the epithet pitāmaha; the identification belongs in notes (already there).",
+     "fix": "पितामह ने",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पितामह ब्रह्मा ने",
+      "new": "पितामह ने"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "exactly",
+     "problem": "'exactly' is an interpretive addition summarising anadhikam/anavaśeṣayan, which are already translated.",
+     "fix": "to the sages, adding nothing",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "english",
+      "old": "to the sages exactly, adding nothing",
+      "new": "to the sages, adding nothing"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मेधावी शिष्यों",
+     "problem": "'शिष्यों' (disciples) is added; the text has only sumedhasaḥ 'the intelligent ones'.",
+     "fix": "उन मेधावियों ने",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उन मेधावी शिष्यों ने",
+      "new": "उन मेधावियों ने"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पुण्यकर्मा शिष्यों",
+     "problem": "'शिष्यों' added; the text has puṇyakarmaṇām only (the referent is given in notes).",
+     "fix": "उन पुण्यकर्माओं द्वारा",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पुण्यकर्मा शिष्यों द्वारा",
+      "new": "उन पुण्यकर्माओं द्वारा"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "sūtritam",
+     "problem": "Root missing for the ppp.",
+     "fix": "n. nom. sg. ppp √sūtr (denom.)",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "word",
+      "match_w": "sūtritam",
+      "field": "gram",
+      "value": "n. nom. sg. ppp √sūtr (denom.)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Here is",
+     "problem": "'Here is' is not in the Sanskrit; sādhu bhūteṣv anukrośaḥ is an exclamation praising compassion for beings.",
+     "fix": "\"Well done, compassion for living beings!\"",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "replace",
+      "field": "english",
+      "old": "\"Well done! Here is compassion for living beings!\"",
+      "new": "\"Well done, compassion for living beings!\""
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "together with the gods",
+     "problem": "sāmarāḥ qualifies the subject of both verbs (heard and rejoiced); the draft attaches it only to rejoicing.",
+     "fix": "The divine sages abiding in heaven, together with the gods, heard that holy cry of the supreme sages, and hearing it they rejoiced greatly.",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "set",
+      "field": "english",
+      "value": "The divine sages abiding in heaven, together with the gods, heard that holy cry of the supreme sages, and hearing it they rejoiced greatly."
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "36 units reviewed. 5 errors, 18 minor. No grammar-label or split errors that change meaning; all 6 text_flags confirmed against the Devanagari (pajāpatiḥ, spacing in unit 10, ṛsīṇāṃ, sukhānivitam, daḍrśur, paramarṣīṇaṃ). Errors: emphasis added in Hindi (ही/वही in units 18, 19, 24), 'seated' added in unit 20 English, an unsourced variant claim in unit 9 notes. Minor: Hindi renders Śakra as इन्द्र and adds the names Indra/Brahmā/'disciples' to epithets (units 5, 17, 20, 23, 24, 33, 34); small English additions (18 'us', 26 'exactly', 35 'Here is'); unit 36 English attaches sāmarāḥ to the wrong clause; gram/split tidy-ups (4, 6, 34); unit 4 flag overstates metre. No regrouping suggested: units 1-2 are prose formulas typed as verse (draft notes it), the rest are well-formed ślokas. Confidence levels are honest; no uncertain lines in this chunk."
+}

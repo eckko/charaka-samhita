@@ -1,0 +1,381 @@
+{
+ "units": [
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "tokens 'dukhamāyustasya' and 'hitāhitam' (41a)",
+     "problem": "tasya belongs to the printed token 'dukhamāyustasya' but the draft put it as the first word of the next token 'hitāhitam'. The words of each token must come from that token.",
+     "fix": "dukhamāyustasya => duḥkham [unhappy | n. nom. sg.] + āyuḥ [life | n. nom. sg.] + tasya [for it | n. gen. sg.]; hitāhitam => hita-ahitam [what is wholesome and unwholesome | n. nom. sg. dvandva]",
+     "severity": "error"
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "whole sentence",
+     "problem": "Inconsistent with 44, which renders 'Sameness (sāmānya)' and 'difference (viśeṣa)'; here bare Sanskrit is used.",
+     "fix": "Sameness (sāmānya) produces oneness, while difference (viśeṣa) produces separateness; sameness is indeed likeness of things, and difference is the opposite.",
+     "severity": "minor",
+     "patch": {
+      "n": "45",
+      "op": "set",
+      "field": "english",
+      "value": "Sameness (sāmānya) produces oneness, while difference (viśeṣa) produces separateness; sameness is indeed likeness of things, and difference is the opposite."
+     }
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शब्द आदि अर्थों सहित",
+     "problem": "'शब्द आदि' (sound etc.) is not in the verse; the text says only sārthāḥ 'with the arthas'. The list belongs in notes (already there).",
+     "fix": "अर्थों सहित",
+     "severity": "error",
+     "patch": {
+      "n": "49",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शब्द आदि अर्थों सहित",
+      "new": "अर्थों सहित"
+     }
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "bhūmi-ādīnām",
+     "problem": "Labelled f.; as a bahuvrīhi it refers to the substances (dravya), so n. (the form is the same in all genders).",
+     "fix": "n. gen. pl. bahuvrīhi",
+     "severity": "minor",
+     "patch": {
+      "n": "50",
+      "op": "word",
+      "match_w": "bhūmi-ādīnām",
+      "field": "gram",
+      "value": "n. gen. pl. bahuvrīhi"
+     }
+    }
+   ]
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kartavyasya",
+     "problem": "'ger.' is ambiguous (reads as gerund/absolutive); kartavya is a gerundive (kṛtya).",
+     "fix": "n. gen. sg. gerundive (kṛtya) √kṛ",
+     "severity": "minor",
+     "patch": {
+      "n": "52",
+      "op": "word",
+      "match_w": "kartavyasya",
+      "field": "gram",
+      "value": "n. gen. sg. gerundive (kṛtya) √kṛ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "54",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "56",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "57",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "58",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "59",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "60",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Pitta is slightly unctuous,",
+     "problem": "'slightly' is the commentators' reading added to the translation; sasneha means 'with unctuousness'. The note already records the commentary.",
+     "fix": "Pitta is unctuous (sasneha),",
+     "severity": "error",
+     "patch": {
+      "n": "60",
+      "op": "replace",
+      "field": "english",
+      "old": "Pitta is slightly unctuous,",
+      "new": "Pitta is unctuous (sasneha),"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पित्त थोड़ी स्निग्धता वाला,",
+     "problem": "Same addition ('थोड़ी') as in the English.",
+     "fix": "पित्त स्नेह से युक्त,",
+     "severity": "error",
+     "patch": {
+      "n": "60",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पित्त थोड़ी स्निग्धता वाला,",
+      "new": "पित्त स्नेह से युक्त,"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sa-sneham",
+     "problem": "Gloss gives the commentarial 'slightly unctuous' instead of the literal sense.",
+     "fix": "with unctuousness",
+     "severity": "minor",
+     "patch": {
+      "n": "60",
+      "op": "word",
+      "match_w": "sa-sneham",
+      "field": "gloss",
+      "value": "with unctuousness"
+     }
+    }
+   ]
+  },
+  {
+   "n": "61",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "62",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "63",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "some editions read guṇakarma ca vakṣyate",
+     "problem": "Unsupported variant claim (no witness given; invented-variant risk), and the 'loose agreement' is not real: guṇakarmāṇi can be accusative object of the middle future vakṣyate.",
+     "fix": "guṇakarmāṇi is the acc. pl. object of vakṣyate (3 sg. fut. middle, the teacher as the implied subject: '(he) will state the qualities and actions'); there is no agreement problem. The English passive is idiomatic.",
+     "severity": "error",
+     "patch": {
+      "n": "63",
+      "op": "set",
+      "field": "notes",
+      "value": "guṇakarmāṇi is the acc. pl. object of vakṣyate (3 sg. fut. middle, the teacher as the implied subject: '(he) will state the qualities and actions'); there is no agreement problem. The English passive is idiomatic."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "guṇa-karmāṇi",
+     "problem": "Labelled nom. pl.; it is the object of vakṣyate.",
+     "fix": "n. acc. pl. dvandva",
+     "severity": "minor",
+     "patch": {
+      "n": "63",
+      "op": "word",
+      "match_w": "guṇa-karmāṇi",
+      "field": "gram",
+      "value": "n. acc. pl. dvandva"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "vakṣyate",
+     "problem": "'(passive sense)' fits 43 (vedaḥ nom.) but not here, where the object is accusative.",
+     "fix": "3 sg. fut. mid. √vac",
+     "severity": "minor",
+     "patch": {
+      "n": "63",
+      "op": "word",
+      "match_w": "vakṣyate",
+      "field": "gram",
+      "value": "3 sg. fut. mid. √vac"
+     }
+    }
+   ]
+  },
+  {
+   "n": "64",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "65",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "66",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "67",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "68",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "69",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "गोरोचन",
+     "problem": "Puts the identification (gorocanā) into the translation; the text says rocanā, and the English keeps 'rocanā'. Identification belongs in notes (it is there).",
+     "fix": "रोचना",
+     "severity": "minor",
+     "patch": {
+      "n": "69",
+      "op": "replace",
+      "field": "hindi",
+      "old": "गोरोचन",
+      "new": "रोचना"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "rocanāḥ",
+     "problem": "Gloss states the identification as fact; the glossary rule keeps identifications in notes.",
+     "fix": "rocanā (a yellow animal product)",
+     "severity": "minor",
+     "patch": {
+      "n": "69",
+      "op": "word",
+      "match_w": "rocanāḥ",
+      "field": "gloss",
+      "value": "rocanā (a yellow animal product)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "70",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पाँच धातुएँ",
+     "problem": "धातु is the glossary's fixed Hindi for the body's dhātus (used in 53 and 67); using it for loha (metals) here invites confusion.",
+     "fix": "पाँच लोह",
+     "severity": "minor",
+     "patch": {
+      "n": "70",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पाँच धातुएँ",
+      "new": "पाँच लोह"
+     }
+    }
+   ]
+  },
+  {
+   "n": "71",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "72",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Reviewed 36 units (37-72). 5 errors: 41 split (tasya attached to the wrong token), 49 Hindi addition (शब्द आदि), 60 English and Hindi add the commentarial 'slightly' to sasneha, 63 note claims an unsupported variant and a false agreement problem. 9 minor: gram labels (50, 52, 63 x2), English consistency for sāmānya/viśeṣa (45), gloss of sasneha (60), rocanā identification in Hindi and gloss (69), धातु used for metals (70). No regrouping suggested; the 68-69 and 70-71 run-on groupings are handled by notes. Text flag for dukham -> duḥkham (41) is correct. No uncertain lines in this chunk. Unreviewed AI draft and AI review; not read by a person."
+}

@@ -1,0 +1,377 @@
+{
+ "units": [
+  {
+   "n": "73",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दूध",
+     "problem": "English renders kṣīra as 'milky latex' (plant sap, as the note says) but Hindi has plain दूध (milk); the two layers disagree.",
+     "fix": "क्षार, क्षीर, फल",
+     "severity": "minor",
+     "patch": {
+      "n": "73",
+      "op": "replace",
+      "field": "hindi",
+      "old": "क्षार, दूध, फल",
+      "new": "क्षार, क्षीर, फल"
+     }
+    }
+   ]
+  },
+  {
+   "n": "74",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "औद्भिद अर्थात् वनस्पतिजन्य द्रव्यों का गण",
+     "problem": "Explanatory gloss 'अर्थात् वनस्पतिजन्य द्रव्यों' added inside the Hindi translation; the text says only audbhido gaṇaḥ.",
+     "fix": "यह औद्भिद गण है",
+     "severity": "minor",
+     "patch": {
+      "n": "74",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यह औद्भिद अर्थात् वनस्पतिजन्य द्रव्यों का गण है",
+      "new": "यह औद्भिद गण है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "75",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "76",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "is a true knower of the Veda",
+     "problem": "'true' is added emphasis; the text has only sa vedavit.",
+     "fix": "is a knower of the Veda",
+     "severity": "error",
+     "patch": {
+      "n": "76",
+      "op": "replace",
+      "field": "english",
+      "old": "is a true knower of the Veda",
+      "new": "is a knower of the Veda"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ठीक प्रकार से ... वही",
+     "problem": "'ठीक प्रकार से' (properly) is not in the text, and 'वही' adds emphasis not in sa vedavit.",
+     "fix": "और शोधन के लिए छह वृक्ष पुनर्वसु ने बताए हैं। जो इन्हें रोगों में प्रयोग करना जानता है, वह वेद का ज्ञाता है।",
+     "severity": "error",
+     "patch": {
+      "n": "76",
+      "op": "set",
+      "field": "hindi",
+      "value": "और शोधन के लिए छह वृक्ष पुनर्वसु ने बताए हैं। जो इन्हें रोगों में प्रयोग करना जानता है, वह वेद का ज्ञाता है।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "77",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "śyāmā",
+     "problem": "Gloss carries an identification ('dark trivṛt') that the note itself tags only probable; glossary rule: identifications go in notes only.",
+     "fix": "śyāmā (a plant)",
+     "severity": "minor",
+     "patch": {
+      "n": "77",
+      "op": "word",
+      "match_w": "śyāmā",
+      "field": "gloss",
+      "value": "śyāmā (a plant)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "78",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "79",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "80",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "81",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "klītakam",
+     "problem": "Gloss 'klītaka (liquorice)' states as fact an identification the note tags probable; identifications belong in notes only.",
+     "fix": "klītaka (a plant)",
+     "severity": "minor",
+     "patch": {
+      "n": "81",
+      "op": "word",
+      "match_w": "klītakam",
+      "field": "gloss",
+      "value": "klītaka (a plant)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "82",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "83",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "84",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "85",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "नाक से दोष निकालने में",
+     "problem": "'दोष' is supplied interpretation (the note puts '(doṣas)' in brackets); the English correctly leaves it out. Hindi adds an object not in the text.",
+     "fix": "नाक के मार्ग से प्रच्छर्दन में",
+     "severity": "error",
+     "patch": {
+      "n": "85",
+      "op": "replace",
+      "field": "hindi",
+      "old": "नाक से दोष निकालने में",
+      "new": "नाक के मार्ग से प्रच्छर्दन में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "86",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Thus the nineteen fruits",
+     "problem": "No iti/evam in 86a; 'Thus' (and Hindi इस प्रकार) is an added connective.",
+     "fix": "The nineteen fruits have been described by name and action.",
+     "severity": "minor",
+     "patch": {
+      "n": "86",
+      "op": "replace",
+      "field": "english",
+      "old": "Thus the nineteen fruits",
+      "new": "The nineteen fruits"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "इस प्रकार उन्नीस फल",
+     "problem": "Same added connective as in the English.",
+     "fix": "उन्नीस फल नाम और कर्म से बताए गए।",
+     "severity": "minor",
+     "patch": {
+      "n": "86",
+      "op": "replace",
+      "field": "hindi",
+      "old": "इस प्रकार उन्नीस फल",
+      "new": "उन्नीस फल"
+     }
+    }
+   ]
+  },
+  {
+   "n": "87",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "88",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "89",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "90",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "91",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "92",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "93",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "94",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "95",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "96",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "97",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "98",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "99",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "100",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "does not aggravate Pitta",
+     "problem": "Interpretive rendering of pittāvirodhi; Hindi (and the note) give the literal 'not hostile to Pitta'. Keep the layers consistent and literal.",
+     "fix": "and not hostile to Pitta",
+     "severity": "minor",
+     "patch": {
+      "n": "100",
+      "op": "replace",
+      "field": "english",
+      "old": "and does not aggravate Pitta",
+      "new": "and not hostile to Pitta"
+     }
+    }
+   ]
+  },
+  {
+   "n": "101",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "102",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kuṣṭhinām",
+     "problem": "krimikuṣṭhin is the possessive -in derivative of the dvandva krimi-kuṣṭha ('having worms and kuṣṭha'), not itself a dvandva.",
+     "fix": "possessive -in on dvandva krimi-kuṣṭha, m. gen. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "102",
+      "op": "word",
+      "match_w": "kuṣṭhinām",
+      "field": "gram",
+      "value": "possessive -in on dvandva krimi-kuṣṭha, m. gen. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "103",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "arśasām",
+     "problem": "Gender missing: arśas is neuter, so the dvandva final is n. gen. pl.",
+     "fix": "dvandva, n. gen. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "103",
+      "op": "word",
+      "match_w": "arśasām",
+      "field": "gram",
+      "value": "dvandva, n. gen. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "104",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "105",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "106",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "107",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "108",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "टूटे या आहत अंग को जोड़ने वाला",
+     "problem": "'टूटे या' (broken) and 'अंग' (limb) are added; text has only sandhānaṃ vihatasya ('uniter of the injured'), as the English renders.",
+     "fix": "आहत को जोड़ने वाला",
+     "severity": "error",
+     "patch": {
+      "n": "108",
+      "op": "replace",
+      "field": "hindi",
+      "old": "टूटे या आहत अंग को जोड़ने वाला",
+      "new": "आहत को जोड़ने वाला"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "36 units reviewed; 4 errors (unsupported additions in translations: 76 English 'true', 76 Hindi 'ठीक प्रकार से'/'वही', 85 Hindi 'दोष', 108 Hindi 'टूटे या ... अंग') and 9 minor (73 kṣīra Hindi/English mismatch, 74 Hindi explanatory gloss, 77/81 identifications in glosses, 86 added 'Thus' in both languages, 100 interpretive English, 102/103 gram labels). Text flags (81 dvividham, 89 snigdha, 91 virecane, 98 upasṛṣṭa) are real and correct. Counts (16 mūlinī, 19 phalinī, 11/10 remainders, 8 urines, 8 milks) check out. The repeat of 81b at 83b is genuine, not a duplication. No regrouping suggested: the 83 GROUPING note is sensible but the edition's grouping is kept. Confidence values are honest; no uncertain lines in this chunk."
+}

@@ -1,0 +1,519 @@
+{
+ "units": [
+  {
+   "n": "109",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Milk is wholesome",
+     "problem": "The subject 'milk' is not in the verse (carried over from 107-108, as the note says); it is supplied without marking.",
+     "fix": "(Milk) is wholesome",
+     "severity": "minor",
+     "patch": {
+      "n": "109",
+      "op": "replace",
+      "field": "english",
+      "old": "Milk is wholesome",
+      "new": "(Milk) is wholesome"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "sarva-prāṇa-bhṛtām",
+     "problem": "prāṇa-bhṛt is an upapada compound (bhṛt from √bhṛ as final member); 'tat-puruṣa' is loose but not wrong.",
+     "fix": "gen. pl., tat-puruṣa (final member upapada -bhṛt)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "110",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "111",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "112",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "113",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "in the chapter on food and drink (annapāna)",
+     "problem": "annapāna-ādike drops ādika: the chapter is the one beginning with / named from 'annapāna', not 'on food and drink'. The Hindi keeps 'आदि'.",
+     "fix": "in the chapter beginning with 'annapāna'",
+     "severity": "minor",
+     "patch": {
+      "n": "113",
+      "op": "replace",
+      "field": "english",
+      "old": "in the chapter on food and drink (annapāna)",
+      "new": "in the chapter beginning with 'annapāna' (food and drink)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "114",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "phala-mūlibhiḥ",
+     "problem": "Gender missing: -mūlibhiḥ is the m./n. inst. pl. of -mūlin (f. would be -mūlinībhiḥ); worth stating since 119 and 138 use the f. phalinī/mūlinī.",
+     "fix": "m. inst. pl., dvandva",
+     "severity": "minor",
+     "patch": {
+      "n": "114",
+      "op": "word",
+      "match_w": "phala-mūlibhiḥ",
+      "field": "gram",
+      "value": "m./n. inst. pl., dvandva"
+     }
+    }
+   ]
+  },
+  {
+   "n": "115",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "vijñeyam",
+     "problem": "'ger.' is ambiguous (gerund vs gerundive) and the root is vi-√jñā, not √jñā.",
+     "fix": "n. nom. sg. gerundive vi-√jñā",
+     "severity": "minor",
+     "patch": {
+      "n": "115",
+      "op": "word",
+      "match_w": "vijñeyam",
+      "field": "gram",
+      "value": "n. nom. sg. gerundive vi-√jñā"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "प्रयोज्य समझना चाहिए",
+     "problem": "'प्रयोज्य' (to be used) is added; the Sanskrit has only vijñeyam 'to be known'. English marks the same addition with '(as used)'.",
+     "fix": "विरेचन सहित वमन में जानना चाहिए",
+     "severity": "minor",
+     "patch": {
+      "n": "115",
+      "op": "replace",
+      "field": "hindi",
+      "old": "विरेचन सहित वमन में प्रयोज्य समझना चाहिए",
+      "new": "विरेचन सहित वमन में जानना चाहिए"
+     }
+    }
+   ]
+  },
+  {
+   "n": "116",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "117",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "परिसर्प",
+     "problem": "The printed word is parīsarpa (परीसर्प, long ī); Hindi silently normalises to परिसर्प.",
+     "fix": "परीसर्प",
+     "severity": "minor",
+     "patch": {
+      "n": "117",
+      "op": "replace",
+      "field": "hindi",
+      "old": "परिसर्प",
+      "new": "परीसर्प"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "prayoktavyaḥ",
+     "problem": "Gerundive of pra-√yuj, not plain √yuj; 'ger.' ambiguous.",
+     "fix": "m. nom. sg. gerundive pra-√yuj",
+     "severity": "minor",
+     "patch": {
+      "n": "117",
+      "op": "word",
+      "match_w": "prayoktavyaḥ",
+      "field": "gram",
+      "value": "m. nom. sg. gerundive pra-√yuj"
+     }
+    }
+   ]
+  },
+  {
+   "n": "118",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "विवेकी वैद्य",
+     "problem": "'वैद्य' is supplied without warrant in the Sanskrit (vicakṣaṇaḥ 'the discerning one'); the English marks it '(physician)', the Hindi does not.",
+     "fix": "विवेकी व्यक्ति",
+     "severity": "minor",
+     "patch": {
+      "n": "118",
+      "op": "replace",
+      "field": "hindi",
+      "old": "विवेकी वैद्य",
+      "new": "विवेकशील व्यक्ति"
+     }
+    }
+   ]
+  },
+  {
+   "n": "119",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "uktāḥ",
+     "problem": "uktāḥ is m./f. nom. pl., agreeing with a mixed-gender list (f. phalamūlinyaḥ, m. snehāḥ, n. lavaṇāni...); 'f.' alone is too narrow.",
+     "fix": "m./f. nom. pl. ppp. √vac",
+     "severity": "minor",
+     "patch": {
+      "n": "119",
+      "op": "word",
+      "match_w": "uktāḥ",
+      "field": "gram",
+      "value": "m./f. nom. pl. ppp. √vac"
+     }
+    }
+   ]
+  },
+  {
+   "n": "120",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "121",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "122",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "vijānīyāt",
+     "problem": "Root is vi-√jñā (prefix omitted).",
+     "fix": "3 sg. opt. vi-√jñā",
+     "severity": "minor",
+     "patch": {
+      "n": "122",
+      "op": "word",
+      "match_w": "vijānīyāt",
+      "field": "gram",
+      "value": "3 sg. opt. vi-√jñā"
+     }
+    }
+   ]
+  },
+  {
+   "n": "123",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "124",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "125",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "by the three (marks), name, form and properties",
+     "problem": "'(marks)' is an added interpretation; the Sanskrit says 'by the three: name, form and properties'.",
+     "fix": "by the three, name, form and properties",
+     "severity": "minor",
+     "patch": {
+      "n": "125",
+      "op": "replace",
+      "field": "english",
+      "old": "by the three (marks), name, form and properties",
+      "new": "by the three, name, form and properties"
+     }
+    }
+   ]
+  },
+  {
+   "n": "126",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "127",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "128",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Indra's (Vāsava's) thunderbolt",
+     "problem": "The text says Vāsava (an epithet); per LAYER_NOTES the epithet stays primary and the name is secondary.",
+     "fix": "Vāsava's (Indra's) thunderbolt",
+     "severity": "minor",
+     "patch": {
+      "n": "128",
+      "op": "replace",
+      "field": "english",
+      "old": "Indra's (Vāsava's) thunderbolt",
+      "new": "Vāsava's (Indra's) thunderbolt"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "vāsava-aśaniḥ",
+     "problem": "nipatitaḥ (m.) agrees with it, so aśani is masculine here, not 'm./f.'.",
+     "fix": "m. nom. sg., tat-puruṣa",
+     "severity": "minor",
+     "patch": {
+      "n": "128",
+      "op": "word",
+      "match_w": "vāsava-aśaniḥ",
+      "field": "gram",
+      "value": "m. nom. sg., tat-puruṣa"
+     }
+    }
+   ]
+  },
+  {
+   "n": "129",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "130",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "131",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "132",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "but not (good) is food",
+     "problem": "The understood predicate is varam 'better' from 131 (the note says so); '(good)' changes it.",
+     "fix": "but not (better) is food",
+     "severity": "minor",
+     "patch": {
+      "n": "132",
+      "op": "replace",
+      "field": "english",
+      "old": "but not (good) is food",
+      "new": "but not (better) is food"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "taking fees as a sham physician",
+     "problem": "'fees' and 'sham physician' are interpretation; the text says food, drink or wealth taken by one wearing the guise of the learned.",
+     "fix": "taking food, drink or wealth from a sick refugee while wearing the guise of the learned",
+     "severity": "minor",
+     "patch": {
+      "n": "132",
+      "op": "replace",
+      "field": "notes",
+      "old": "taking fees as a sham physician",
+      "new": "taking food, drink or wealth from a sick refugee while wearing the guise of the learned"
+     }
+    }
+   ]
+  },
+  {
+   "n": "133",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "134",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "135",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सिद्धि ही ... सिद्धि ही",
+     "problem": "'ही' (emphasis) added twice; the Sanskrit has no eva here.",
+     "fix": "सिद्धि सब कर्मों के सही प्रयोग को बताती है, और सिद्धि सब गुणों से युक्त श्रेष्ठ वैद्य को बताती है।",
+     "severity": "error",
+     "patch": {
+      "n": "135",
+      "op": "set",
+      "field": "hindi",
+      "value": "सिद्धि सब कर्मों के सही प्रयोग को बताती है, और सिद्धि सब गुणों से युक्त श्रेष्ठ वैद्य को बताती है।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "136",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Here are the verses (summarising the chapter):",
+     "problem": "'(summarising the chapter)' is added; tatra ślokāḥ = 'Here (are) the verses'. Leave the explanation in notes (already there).",
+     "fix": "Here are the verses:",
+     "severity": "minor",
+     "patch": {
+      "n": "136",
+      "op": "replace",
+      "field": "english",
+      "old": "Here are the verses (summarising the chapter):",
+      "new": "Here are the verses:"
+     }
+    }
+   ]
+  },
+  {
+   "n": "137",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the complete (set of) causes (kāraṇa)",
+     "problem": "kāraṇam is singular; '(set of) causes' imports the six-kāraṇa interpretation that the note correctly labels as interpretation.",
+     "fix": "the complete cause (kāraṇa)",
+     "severity": "minor",
+     "patch": {
+      "n": "137",
+      "op": "replace",
+      "field": "english",
+      "old": "the complete (set of) causes (kāraṇa)",
+      "new": "the complete cause (kāraṇa)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "रोगों के हेतु",
+     "problem": "'रोगों के' is supplied unmarked (English brackets '(of disease)'); acceptable but an addition.",
+     "fix": "हेतु",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "138",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "139",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "140",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the censure of (false) physicians",
+     "problem": "'(false)' is an interpretation; vaidya-apavāda = censure of physicians (the Hindi correctly has वैद्य की निन्दा). Put the sense in notes if wanted.",
+     "fix": "the censure of physicians",
+     "severity": "minor",
+     "patch": {
+      "n": "140",
+      "op": "replace",
+      "field": "english",
+      "old": "the censure of (false) physicians",
+      "new": "the censure of physicians"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vaidya-apavādaḥ",
+     "problem": "Same '(false)' interpretation in the gloss.",
+     "fix": "censure of physicians",
+     "severity": "minor",
+     "patch": {
+      "n": "140",
+      "op": "word",
+      "match_w": "vaidya-apavādaḥ",
+      "field": "gloss",
+      "value": "censure of physicians"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Thus ends the first chapter",
+     "problem": "'ends' is supplied (the note admits it); REVIEW_BRIEF lists 'thus ends' as a forbidden addition. The colophon is verbless.",
+     "fix": "Thus, in the Sūtrasthāna of the treatise composed by Agniveśa and redacted by Caraka, the first chapter, named Dīrghañjīvitīya (On long life).",
+     "severity": "error",
+     "patch": {
+      "n": "P1",
+      "op": "set",
+      "field": "english",
+      "value": "Thus, in the Sūtrasthāna of the treatise composed by Agniveśa and redacted by Caraka, the first chapter, named Dīrghañjīvitīya (On long life)."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "समाप्त हुआ / दीर्घंजीवितीय",
+     "problem": "'समाप्त हुआ' is added (no verb in the Sanskrit); also the title is printed दीर्घञ्जीवितीय, not दीर्घंजीवितीय.",
+     "fix": "इस प्रकार अग्निवेश द्वारा रचित और चरक द्वारा प्रतिसंस्कृत तन्त्र के सूत्रस्थान में दीर्घञ्जीवितीय नामक पहला अध्याय।",
+     "severity": "error",
+     "patch": {
+      "n": "P1",
+      "op": "set",
+      "field": "hindi",
+      "value": "इस प्रकार अग्निवेश द्वारा रचित और चरक द्वारा प्रतिसंस्कृत तन्त्र के सूत्रस्थान में दीर्घञ्जीवितीय नामक पहला अध्याय।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "'ends' is supplied; the Sanskrit has no verb.",
+     "problem": "Note should match the corrected verbless translation.",
+     "fix": "The Sanskrit has no verb; the translation keeps it verbless.",
+     "severity": "minor",
+     "patch": {
+      "n": "P1",
+      "op": "replace",
+      "field": "notes",
+      "old": "'ends' is supplied; the Sanskrit has no verb.",
+      "new": "The Sanskrit has no verb; the translation keeps it verbless."
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "3 errors, 22 minor issues across 16 of 33 units. Errors: added 'thus ends'/'समाप्त हुआ' in the P1 colophon (English and Hindi), added emphatic 'ही' in 135 Hindi. Minor: unmarked or interpretive additions in English/Hindi (109, 113, 115, 118, 125, 132, 136, 137, 140), incomplete gram labels (gerundive roots, genders), epithet order in 128, normalised spelling परिसर्प in 117. Text flags (109 prāṇābhṛtāṃ, 117 arśaḥṣu) checked and agreed. No regrouping needed; 129-130 and 131-132 continuations and 136-140 summary list are correctly noted. All layers remain unreviewed AI drafts."
+}

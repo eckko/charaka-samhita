@@ -1,0 +1,170 @@
+[
+ {
+  "n": "109",
+  "field": "english",
+  "old": "Milk is wholesome (sātmya) for all living beings, both pacifying (śamana) and purifying (śodhana), thirst-quenching and appetising (dīpanīya), and the best thing for the wasted and the injured (kṣīṇa-kṣata).",
+  "new": "(Milk) is wholesome (sātmya) for all living beings, both pacifying (śamana) and purifying (śodhana), thirst-quenching and appetising (dīpanīya), and the best thing for the wasted and the injured (kṣīṇa-kṣata).",
+  "why": "reviewer (minor): The subject 'milk' is not in the verse (carried over from 107-108, as the note says); it is supplied without marking."
+ },
+ {
+  "n": "113",
+  "field": "english",
+  "old": "The properties of the milk of each (animal), one by one and in due order, I shall describe again in full in the chapter on food and drink (annapāna).",
+  "new": "The properties of the milk of each (animal), one by one and in due order, I shall describe again in full in the chapter beginning with 'annapāna' (food and drink).",
+  "why": "reviewer (minor): annapāna-ādike drops ādika: the chapter is the one beginning with / named from 'annapāna', not 'on food and drink'. The Hindi keeps 'आदि'."
+ },
+ {
+  "n": "114",
+  "field": "word.gram",
+  "word": "phala-mūlibhiḥ",
+  "old": "inst. pl., dvandva",
+  "new": "m./n. inst. pl., dvandva",
+  "why": "reviewer (minor): Gender missing: -mūlibhiḥ is the m./n. inst. pl. of -mūlin (f. would be -mūlinībhiḥ); worth stating since 119 and 138 use the f. phalinī/mūlinī."
+ },
+ {
+  "n": "115",
+  "field": "word.gram",
+  "word": "vijñeyam",
+  "old": "n. nom. sg. ger. √jñā",
+  "new": "n. nom. sg. gerundive vi-√jñā",
+  "why": "reviewer (minor): 'ger.' is ambiguous (gerund vs gerundive) and the root is vi-√jñā, not √jñā."
+ },
+ {
+  "n": "115",
+  "field": "hindi",
+  "old": "वमन में अश्मन्तक को जानना चाहिए, विरेचन में स्नुही के दूध को; और अर्क का दूध विरेचन सहित वमन में प्रयोज्य समझना चाहिए।",
+  "new": "वमन में अश्मन्तक को जानना चाहिए, विरेचन में स्नुही के दूध को; और अर्क का दूध विरेचन सहित वमन में जानना चाहिए।",
+  "why": "reviewer (minor): 'प्रयोज्य' (to be used) is added; the Sanskrit has only vijñeyam 'to be known'. English marks the same addition with '(as used)'."
+ },
+ {
+  "n": "117",
+  "field": "hindi",
+  "old": "विरेचन में पूतीक और तिल्वक का प्रयोग करना चाहिए; कृष्णगन्धा परिसर्प, शोथ और अर्श में बताई गई है।",
+  "new": "विरेचन में पूतीक और तिल्वक का प्रयोग करना चाहिए; कृष्णगन्धा परीसर्प, शोथ और अर्श में बताई गई है।",
+  "why": "reviewer (minor): The printed word is parīsarpa (परीसर्प, long ī); Hindi silently normalises to परिसर्प."
+ },
+ {
+  "n": "117",
+  "field": "word.gram",
+  "word": "prayoktavyaḥ",
+  "old": "m. nom. sg. ger. √yuj",
+  "new": "m. nom. sg. gerundive pra-√yuj",
+  "why": "reviewer (minor): Gerundive of pra-√yuj, not plain √yuj; 'ger.' ambiguous."
+ },
+ {
+  "n": "118",
+  "field": "hindi",
+  "old": "दद्रु, विद्रधि, गण्ड, कुष्ठ और अलजी में भी; और विवेकी वैद्य इन छह वृक्षों को शोधन करने वाला भी जाने।",
+  "new": "दद्रु, विद्रधि, गण्ड, कुष्ठ और अलजी में भी; और विवेकशील व्यक्ति इन छह वृक्षों को शोधन करने वाला भी जाने।",
+  "why": "reviewer (minor): 'वैद्य' is supplied without warrant in the Sanskrit (vicakṣaṇaḥ 'the discerning one'); the English marks it '(physician)', the Hindi does not."
+ },
+ {
+  "n": "119",
+  "field": "word.gram",
+  "word": "uktāḥ",
+  "old": "f. nom. pl. ppp. √vac",
+  "new": "m./f. nom. pl. ppp. √vac",
+  "why": "reviewer (minor): uktāḥ is m./f. nom. pl., agreeing with a mixed-gender list (f. phalamūlinyaḥ, m. snehāḥ, n. lavaṇāni...); 'f.' alone is too narrow."
+ },
+ {
+  "n": "122",
+  "field": "word.gram",
+  "word": "vijānīyāt",
+  "old": "3 sg. opt. √jñā",
+  "new": "3 sg. opt. vi-√jñā",
+  "why": "reviewer (minor): Root is vi-√jñā (prefix omitted)."
+ },
+ {
+  "n": "125",
+  "field": "english",
+  "old": "For a medicine not recognised by the three (marks), name, form and properties, and even one that is known but wrongly applied, leads to harm.",
+  "new": "For a medicine not recognised by the three, name, form and properties, and even one that is known but wrongly applied, leads to harm.",
+  "why": "reviewer (minor): '(marks)' is an added interpretation; the Sanskrit says 'by the three: name, form and properties'."
+ },
+ {
+  "n": "128",
+  "field": "english",
+  "old": "Indra's (Vāsava's) thunderbolt falling on the head might still leave something remaining; but a medicine prescribed by an ignorant person would not leave the patient with anything remaining.",
+  "new": "Vāsava's (Indra's) thunderbolt falling on the head might still leave something remaining; but a medicine prescribed by an ignorant person would not leave the patient with anything remaining.",
+  "why": "reviewer (minor): The text says Vāsava (an epithet); per LAYER_NOTES the epithet stays primary and the name is secondary."
+ },
+ {
+  "n": "128",
+  "field": "word.gram",
+  "word": "vāsava-aśaniḥ",
+  "old": "m./f. nom. sg., tat-puruṣa",
+  "new": "m. nom. sg., tat-puruṣa",
+  "why": "reviewer (minor): nipatitaḥ (m.) agrees with it, so aśani is masculine here, not 'm./f.'."
+ },
+ {
+  "n": "132",
+  "field": "english",
+  "old": "but not (good) is food, drink or money taken, by one who wears the guise of the learned, from a disease-stricken person who has come to him for refuge.",
+  "new": "but not (better) is food, drink or money taken, by one who wears the guise of the learned, from a disease-stricken person who has come to him for refuge.",
+  "why": "reviewer (minor): The understood predicate is varam 'better' from 131 (the note says so); '(good)' changes it."
+ },
+ {
+  "n": "132",
+  "field": "notes",
+  "old": "natu printed as one token = na tu. The predicate 'better' (varam) from unit 131 is understood: worse than those deadly acts is taking fees as a sham physician.",
+  "new": "natu printed as one token = na tu. The predicate 'better' (varam) from unit 131 is understood: worse than those deadly acts is taking food, drink or wealth from a sick refugee while wearing the guise of the learned.",
+  "why": "reviewer (minor): 'fees' and 'sham physician' are interpretation; the text says food, drink or wealth taken by one wearing the guise of the learned."
+ },
+ {
+  "n": "135",
+  "field": "hindi",
+  "old": "सिद्धि ही सब कर्मों के सही प्रयोग को बताती है, और सिद्धि ही सब गुणों से युक्त श्रेष्ठ वैद्य को बताती है।",
+  "new": "सिद्धि सब कर्मों के सही प्रयोग को बताती है, और सिद्धि सब गुणों से युक्त श्रेष्ठ वैद्य को बताती है।",
+  "why": "reviewer (error): 'ही' (emphasis) added twice; the Sanskrit has no eva here."
+ },
+ {
+  "n": "136",
+  "field": "english",
+  "old": "Here are the verses (summarising the chapter): the coming of Āyurveda (the science of life), the reason for its coming, its propagation, the approval of the composition (of treatises), the definition of Āyurveda,",
+  "new": "Here are the verses: the coming of Āyurveda (the science of life), the reason for its coming, its propagation, the approval of the composition (of treatises), the definition of Āyurveda,",
+  "why": "reviewer (minor): '(summarising the chapter)' is added; tatra ślokāḥ = 'Here (are) the verses'. Leave the explanation in notes (already there)."
+ },
+ {
+  "n": "137",
+  "field": "english",
+  "old": "the complete (set of) causes (kāraṇa), the effect (kārya), the purpose of Āyurveda, the causes (of disease), the doṣas and, in brief, medicine,",
+  "new": "the complete cause (kāraṇa), the effect (kārya), the purpose of Āyurveda, the causes (of disease), the doṣas and, in brief, medicine,",
+  "why": "reviewer (minor): kāraṇam is singular; '(set of) causes' imports the six-kāraṇa interpretation that the note correctly labels as interpretation."
+ },
+ {
+  "n": "140",
+  "field": "english",
+  "old": "the censure of (false) physicians, and (the passage) where all the qualities of physicians are found: all this has been explained by the great sage in the first chapter.",
+  "new": "the censure of physicians, and (the passage) where all the qualities of physicians are found: all this has been explained by the great sage in the first chapter.",
+  "why": "reviewer (minor): '(false)' is an interpretation; vaidya-apavāda = censure of physicians (the Hindi correctly has वैद्य की निन्दा). Put the sense in notes if wanted."
+ },
+ {
+  "n": "140",
+  "field": "word.gloss",
+  "word": "vaidya-apavādaḥ",
+  "old": "censure of (false) physicians",
+  "new": "censure of physicians",
+  "why": "reviewer (minor): Same '(false)' interpretation in the gloss."
+ },
+ {
+  "n": "P1",
+  "field": "english",
+  "old": "Thus ends the first chapter, named Dīrghañjīvitīya (On long life), in the Sūtrasthāna of the treatise composed by Agniveśa and redacted by Caraka.",
+  "new": "Thus, in the Sūtrasthāna of the treatise composed by Agniveśa and redacted by Caraka, the first chapter, named Dīrghañjīvitīya (On long life).",
+  "why": "reviewer (error): 'ends' is supplied (the note admits it); REVIEW_BRIEF lists 'thus ends' as a forbidden addition. The colophon is verbless."
+ },
+ {
+  "n": "P1",
+  "field": "hindi",
+  "old": "इस प्रकार अग्निवेश द्वारा रचित और चरक द्वारा प्रतिसंस्कृत तन्त्र के सूत्रस्थान में दीर्घंजीवितीय नामक पहला अध्याय समाप्त हुआ।",
+  "new": "इस प्रकार अग्निवेश द्वारा रचित और चरक द्वारा प्रतिसंस्कृत तन्त्र के सूत्रस्थान में दीर्घञ्जीवितीय नामक पहला अध्याय।",
+  "why": "reviewer (error): 'समाप्त हुआ' is added (no verb in the Sanskrit); also the title is printed दीर्घञ्जीवितीय, not दीर्घंजीवितीय."
+ },
+ {
+  "n": "P1",
+  "field": "notes",
+  "old": "Chapter colophon. The title is taken from the chapter's opening words (dīrghaṃ jīvitam). 'ends' is supplied; the Sanskrit has no verb.",
+  "new": "Chapter colophon. The title is taken from the chapter's opening words (dīrghaṃ jīvitam). The Sanskrit has no verb; the translation keeps it verbless.",
+  "why": "reviewer (minor): Note should match the corrected verbless translation."
+ }
+]
