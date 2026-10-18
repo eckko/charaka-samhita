@@ -1,0 +1,557 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "whole unit",
+     "problem": "MANUAL: athāto ... vyākhyāsyāmaḥ is prose typed as a verse unit (type 'verse', one line, no metre). Content is fine; the unit type is for a human to decide.",
+     "fix": "(no change to layers; mark the unit as prose when the units are rebuilt)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "whole unit",
+     "problem": "MANUAL: iti ha smāha bhagavān ātreyaḥ is prose typed as a verse unit. Content is fine.",
+     "fix": "(no change to layers; mark as prose)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "deśa-kāla-okas-sātmyānām",
+     "problem": "The compound may equally be read as a tat-puruṣa with inner dvandva ('of what is suitable to place, time and habit'); the alternative is not mentioned.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "append_note",
+      "text": "deśa-kāla-okas-sātmyānām may also be read as 'of what is suitable (sātmya) to place, time and habit (okas)', sātmya governing all three."
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "yunakti prāṇinaḥ śoṇitaṃ hyanuvartate",
+     "problem": "The flag has no concrete correction ('a two-syllable word appears to be missing'). Policy: a syllable shortfall with no correction from the chunk goes in notes only, never as a text_flag. The notes already record the 14-syllable line.",
+     "fix": "[]",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "set",
+      "field": "text_flags",
+      "value": []
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Record that the metre gap is a note, not a flag.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "append_note",
+      "text": "The 14-syllable half-line is recorded here only; no correction can be shown from the chunk, so there is no text_flag."
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "(life)",
+     "problem": "Reviewed: the bracketed '(life)' / '(जीवन)' is an understood word supplied from āyuṣā and is marked as a stopgap in notes; acceptable only with confidence low, which is kept.",
+     "fix": "keep low",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "praduṣṭa-bahu-tīkṣṇa-uṣṇaiḥ",
+     "problem": "A string of co-ordinate adjectives (spoiled, much, sharp, hot) is an adjectival dvandva, as labelled elsewhere in this chunk, not a karmadhāraya.",
+     "fix": "n. inst. pl., dvandva (adjectival)",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "praduṣṭa-bahu-tīkṣṇa-uṣṇaiḥ",
+      "field": "gram",
+      "value": "n. inst. pl., dvandva (adjectival)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "piṇḍālu = a yam, Dioscorea sp. (probable)",
+     "problem": "Plant identifications are allowed (tagged, notes only, minimal). kulattha, māṣa, mūlaka (standard) and niṣpāva (probable) are fine and helpful; piṇḍālu is a doubtful identity and should be tagged disputed, not probable.",
+     "fix": "piṇḍālu = a yam, Dioscorea sp. (disputed)",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "notes",
+      "old": "piṇḍālu = a yam, Dioscorea sp. (probable)",
+      "new": "piṇḍālu = a yam, Dioscorea sp. (disputed)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": [],
+   "comment": "Reviewed as asked: split, 'flesh' understood in brackets, prasaha and baila glosses fine; sukta -> śukta flag kept as possible (sukta gives no sense in a list of sour preparations; s/ś changes no syllable)."
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "atyādānāṃ",
+     "problem": "The flag is wrong. atyādānām is a regular gen. pl. of atyāda 'one who eats to excess' (ati-ā-√ad + a), parallel to the genitives of persons prasvapatām (unit 8) and bhajatām in this very line. No correction is needed.",
+     "fix": "[]",
+     "severity": "error",
+     "patch": {
+      "n": "9",
+      "op": "set",
+      "field": "text_flags",
+      "value": []
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "atyādānam",
+     "problem": "Restore the printed form and its sense.",
+     "fix": "of those who eat to excess",
+     "severity": "error",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "atyādānam",
+      "field": "gloss",
+      "value": "of those who eat to excess"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "atyādānam",
+     "problem": "Gen. pl. of the agent noun atyāda.",
+     "fix": "m. gen. pl., ati-āda (ati-ā-√ad)",
+     "severity": "error",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "atyādānam",
+      "field": "gram",
+      "value": "m. gen. pl., ati-āda (ati-ā-√ad)"
+     }
+    },
+    {
+     "field": "split",
+     "where": "atyādānam",
+     "problem": "w must be the printed, correct form.",
+     "fix": "atyādānām",
+     "severity": "error",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "atyādānam",
+      "field": "w",
+      "value": "atyādānām"
+     }
+    },
+    {
+     "field": "english",
+     "where": "of those who resort to excessive intake, likewise to anger",
+     "problem": "Translation follows the rejected emendation.",
+     "fix": "of those who eat to excess, and likewise of those who resort to anger",
+     "severity": "error",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "english",
+      "old": "of those who resort to excessive intake, likewise to anger",
+      "new": "of those who eat to excess, and likewise of those who resort to anger"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अति आदान, उसी प्रकार क्रोध,",
+     "problem": "Translation follows the rejected emendation.",
+     "fix": "अधिक खाने वालों का, उसी प्रकार क्रोध",
+     "severity": "error",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अति आदान, उसी प्रकार क्रोध,",
+      "new": "अधिक खाने वालों का, उसी प्रकार क्रोध"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "atyādāna literally ...",
+     "problem": "Note describes the rejected reading.",
+     "fix": "see patch",
+     "severity": "error",
+     "patch": {
+      "n": "9",
+      "op": "set",
+      "field": "notes",
+      "value": "atyādānām is read as gen. pl. of atyāda 'one who eats to excess' (ati-ā-√ad), parallel to prasvapatām (unit 8) and bhajatām; the printed text needs no change. These genitives go with śoṇitaṃ saṃpraduṣyati of unit 10. avasecana = letting out of blood; anavasecana is its absence."
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "confidence",
+     "problem": "With the printed text read as it stands, the unit is clear.",
+     "fix": "high",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "set",
+      "field": "confidence",
+      "value": "high"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": [],
+   "comment": "Reviewed as asked: buddheḥ with saṃmohaḥ and the alternative in notes are fine."
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "i.e. frequent blackouts of vision",
+     "problem": "Interpretation not in the text.",
+     "fix": "delete the gloss",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "notes",
+      "old": "seeing darkness in excess, i.e. frequent blackouts of vision; literal rendering kept.",
+      "new": "seeing darkness in excess; literal rendering kept."
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": [],
+   "comment": "Reviewed as asked: samyak taken with upakrāntāḥ across the line break, alternative given in notes; medium confidence is honest."
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "viśuddhyā rudhirasya is taken as 'until the blood (flows) pure'",
+     "problem": "The note contradicts the translations, which render 'by (the standard of) the purity of the blood'. Keep the translation and make the note an alternative.",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "notes",
+      "old": "viśuddhyā rudhirasya is taken as 'until the blood (flows) pure', i.e. purity as the limit; the text gives only the instrumental.",
+      "new": "viśuddhyā rudhirasya (instrumental) is rendered 'by (the standard of) the purity of the blood'; it may mean letting blood until it flows pure, but the text gives only the instrumental."
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "vandanti",
+     "problem": "The flag is right but its evidence is wrong ('both scan the same'). In upajāti the 9th syllable must be light: vi-śud-dha-rak-taṃ-pu-ru-ṣaṃ-va-dan-ti fits, van-dan-ti makes the 9th heavy. The other three quarters scan correctly. With metre evidence the corrected form should be used in words (rule 6).",
+     "fix": "see patch",
+     "severity": "error",
+     "patch": {
+      "n": "24",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "vandanti",
+        "suggest": "vadanti",
+        "why": "metre: in this upajāti quarter the 9th syllable must be light; va-dan-ti fits, van-dan-ti makes it heavy (the other three quarters scan correctly); sense: a statement of signs, cf. viddhi 'know' in unit 22"
+       }
+      ]
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vandanti",
+     "problem": "Use the corrected form.",
+     "fix": "they call",
+     "severity": "error",
+     "patch": {
+      "n": "24",
+      "op": "word",
+      "match_w": "vandanti",
+      "field": "gloss",
+      "value": "they call"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "vandanti",
+     "problem": "",
+     "fix": "3 pl. pres. √vad",
+     "severity": "error",
+     "patch": {
+      "n": "24",
+      "op": "word",
+      "match_w": "vandanti",
+      "field": "gram",
+      "value": "3 pl. pres. √vad"
+     }
+    },
+    {
+     "field": "split",
+     "where": "vandanti",
+     "problem": "",
+     "fix": "vadanti",
+     "severity": "error",
+     "patch": {
+      "n": "24",
+      "op": "word",
+      "match_w": "vandanti",
+      "field": "w",
+      "value": "vadanti"
+     }
+    },
+    {
+     "field": "english",
+     "where": "him they hail as a man of pure blood",
+     "problem": "Follow vadanti.",
+     "fix": "him they call a man of pure blood",
+     "severity": "error",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "english",
+      "old": "him they hail as a man of pure blood",
+      "new": "him they call a man of pure blood"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "whole",
+     "problem": "Follow vadanti; and paktṛ in Hindi = पचाने वाला (glossary), not पक्ता.",
+     "fix": "see patch",
+     "severity": "error",
+     "patch": {
+      "n": "24",
+      "op": "set",
+      "field": "hindi",
+      "value": "जिसका वर्ण और इन्द्रियाँ प्रसन्न हों, जो इन्द्रियों के विषयों की इच्छा करता हो, जिसका पचाने वाला और जिसके वेग बिना बाधा के हों, जो सुख से युक्त, तुष्टि और बल से सम्पन्न हो, ऐसे पुरुष को शुद्ध रक्त वाला कहते हैं।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "vandanti is kept as printed in the split and translation.",
+     "problem": "Update to the corrected reading.",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "notes",
+      "old": "vandanti is kept as printed in the split and translation.",
+      "new": "vadanti (metre) is used in the split and translation; src keeps vandanti."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "puṣṭi-",
+     "problem": "Reviewed: treating the bracketed '(puṣṭi-)' as the edition's alternative to tuṣṭi-, left out of metre and translation, is right; per glossary the gloss takes the '(variant:)' form.",
+     "fix": "(variant:) nourishment, for tuṣṭi-",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "word",
+      "match_w": "puṣṭi-",
+      "field": "gloss",
+      "value": "(variant:) nourishment, for tuṣṭi-"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "avyāhata-paktṛ-vegam",
+     "problem": "Reviewed: dvandva 'digester and urges' is acceptable; the tat-puruṣa alternative is in notes. No change.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "so the malas here are the doṣas",
+     "problem": "Inference from units 28-29 is reasonable but should be hedged; the English 'malas' (glossary mala = waste) is kept correctly.",
+     "fix": "so the malas here are probably the doṣas",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "replace",
+      "field": "notes",
+      "old": "so the malas here are the doṣas",
+      "new": "so the malas here are probably the doṣas"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मूर्च्छाय",
+     "problem": "Glossary: mūrcchāya kept as printed in the split, Hindi मूर्च्छा.",
+     "fix": "मूर्च्छा",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मूर्च्छाय",
+      "new": "मूर्च्छा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "trailers",
+     "problem": "MANUAL: the input closes unit 30 with a single danda (।) instead of ॥; the verse numbering (30, 31) is separate, so this looks like a typing slip in the trailer, not a grouping problem. For a human to check in text/.",
+     "fix": "(no layer change)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "14 error and 16 minor issues; units with fixes: 3, 4, 5, 6, 9, 15, 19, 24, 25, 27. Main errors: unit 9 atyādānāṃ flag rejected (regular gen. pl. of atyāda, parallel to bhajatām); unit 24 vadanti confirmed by metre (9th syllable of upajāti must be light) and applied in words and translations; unit 4 flag without a correction moved to notes. Accepted flags: 5 tadvidhraiḥ->tadvidhaiḥ, 7 sukta->śukta (possible), 23 anavastita->anavasthita, 24 vandanti->vadanti. Plant identifications kept minimal and tagged (piṇḍālu retagged disputed). No notes cite commentators, other editions or memory. MANUAL: units 1 and 2 are prose typed as verse; unit 30 trailer single danda. No regrouping suggested. All layers remain unreviewed AI drafts."
+}

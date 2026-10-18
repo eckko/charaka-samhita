@@ -1,0 +1,464 @@
+{
+ "units": [
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "all these forms appear",
+     "problem": "The first half has no verb; 'appear' is supplied without marking.",
+     "fix": "all these forms [appear]",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "replace",
+      "field": "english",
+      "old": "all these forms appear",
+      "new": "all these forms [appear]"
+     }
+    },
+    {
+     "field": "english",
+     "where": "sannipāta (the three doṣas together)",
+     "problem": "Glossary fixed gloss for sannipāta at first use is 'all three doṣas combined'.",
+     "fix": "sannipāta (all three doṣas combined)",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "replace",
+      "field": "english",
+      "old": "(the three doṣas together)",
+      "new": "(all three doṣas combined)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मूर्च्छाय",
+     "problem": "Glossary (Sū 19): mūrcchāya kept as printed in English, Hindi मूर्च्छा (feminine).",
+     "fix": "मूर्च्छा",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मूर्च्छाय",
+      "new": "मूर्च्छा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मूर्च्छाय",
+     "problem": "Glossary (Sū 19): mūrcchāya kept as printed in English, Hindi मूर्च्छा (feminine).",
+     "fix": "मूर्च्छा",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मूर्च्छाय",
+      "new": "मूर्च्छा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मूर्च्छाय",
+     "problem": "Glossary (Sū 19): mūrcchāya kept as printed in English, Hindi मूर्च्छा (feminine).",
+     "fix": "मूर्च्छा",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मूर्च्छाय",
+      "new": "मूर्च्छा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मूर्च्छाय ... होता है ... देता है",
+     "problem": "Glossary (Sū 19): mūrcchāya kept as printed in English, Hindi मूर्च्छा (feminine). With मूर्च्छा the Hindi agreement becomes feminine.",
+     "fix": "सन्निपात से उत्पन्न मूर्च्छा सभी लक्षणों वाली होती है और अपस्मार की तरह आती है; वह प्राणी को शीघ्र गिरा देती है, किन्तु वीभत्स चेष्टाओं के बिना।",
+     "severity": "minor",
+     "patch": {
+      "n": "41",
+      "op": "set",
+      "field": "hindi",
+      "value": "सन्निपात से उत्पन्न मूर्च्छा सभी लक्षणों वाली होती है और अपस्मार की तरह आती है; वह प्राणी को शीघ्र गिरा देती है, किन्तु वीभत्स चेष्टाओं के बिना।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मूर्च्छाय",
+     "problem": "Glossary (Sū 19): mūrcchāya kept as printed in English, Hindi मूर्च्छा (feminine).",
+     "fix": "मूर्च्छा",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मूर्च्छाय",
+      "new": "मूर्च्छा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "The very strong malas",
+     "problem": "Glossary: mala = waste (मल). No Sū 24 ch1 decision is in the glossary; keep 'malas' as chunk 1 does but give the fixed rendering once. The identification with the doṣas stays in notes (already there).",
+     "fix": "The very strong malas (waste),",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "replace",
+      "field": "english",
+      "old": "The very strong malas,",
+      "new": "The very strong malas (waste),"
+     }
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "saṃmūrcchitāni",
+     "problem": "Reading 'compounded, mixed' is defensible but the other common sense of sam-√murch 'intensified, strengthened' (fits tīkṣṇāni) should be noted; English 'compounded and mixed' keeps both 'saṃmūrcchita' and 'yukta' apart, which is fine.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "48",
+      "op": "append_note",
+      "text": "saṃmūrcchita may also mean 'intensified, strengthened' (sam-√murch 'to grow strong'); the translation keeps 'compounded'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Likewise [one should give] ... and likewise one should give",
+     "problem": "dadyāt occurs once; the English gives it twice (once bracketed). Give it once, unbracketed, governing both objects.",
+     "fix": "Likewise one should give the juice of mātuluṅga combined with mahauṣadha, and likewise sauvarcala salt mixed with ...",
+     "severity": "minor",
+     "patch": {
+      "n": "49",
+      "op": "replace",
+      "field": "english",
+      "old": "Likewise [one should give] the juice",
+      "new": "Likewise one should give the juice"
+     }
+    },
+    {
+     "field": "english",
+     "where": "and likewise one should give sauvarcala",
+     "problem": "see above",
+     "fix": "and likewise sauvarcala",
+     "severity": "minor",
+     "patch": {
+      "n": "49",
+      "op": "replace",
+      "field": "english",
+      "old": "and likewise one should give sauvarcala",
+      "new": "and likewise sauvarcala"
+     }
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "51",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "vismāpanaiḥ",
+     "problem": "Root needs the preverb: vismāpana is the causative of vi-√smi.",
+     "fix": "n. inst. pl., caus. vi-√smi",
+     "severity": "minor",
+     "patch": {
+      "n": "51",
+      "op": "word",
+      "match_w": "vismāpanaiḥ",
+      "field": "gram",
+      "value": "n. inst. pl., caus. vi-√smi"
+     }
+    }
+   ]
+  },
+  {
+   "n": "52",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "53",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बुद्धिमान वैद्य",
+     "problem": "वैद्य is supplied (English brackets [physician]); glossary: no added वैद्य, an understood word goes in brackets.",
+     "fix": "बुद्धिमान (वैद्य)",
+     "severity": "error",
+     "patch": {
+      "n": "53",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बुद्धिमान वैद्य",
+      "new": "बुद्धिमान (वैद्य)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the causes of collapse (pralaya)",
+     "problem": "'collapse' is already the fixed rendering of saṃnyāsa in this chunk (42-45); using it for pralaya merges two terms. pralaya = loss of consciousness.",
+     "fix": "the causes of loss of consciousness (pralaya)",
+     "severity": "error",
+     "patch": {
+      "n": "53",
+      "op": "replace",
+      "field": "english",
+      "old": "the causes of collapse (pralaya)",
+      "new": "the causes of loss of consciousness (pralaya)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "pralaya-hetutaḥ",
+     "problem": "Same term clash as in the English.",
+     "fix": "from the causes of loss of consciousness",
+     "severity": "minor",
+     "patch": {
+      "n": "53",
+      "op": "word",
+      "match_w": "pralaya-hetutaḥ",
+      "field": "gloss",
+      "value": "from the causes of loss of consciousness"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "taken as a relapse into collapse",
+     "problem": "Keep the note's wording in line with the new rendering.",
+     "fix": "taken as a relapse into loss of consciousness",
+     "severity": "minor",
+     "patch": {
+      "n": "53",
+      "op": "replace",
+      "field": "notes",
+      "old": "taken as a relapse into collapse",
+      "new": "taken as a relapse into loss of consciousness"
+     }
+    }
+   ]
+  },
+  {
+   "n": "54",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मूर्च्छायों",
+     "problem": "Glossary (Sū 19): mūrcchāya kept as printed in English, Hindi मूर्च्छा (feminine).",
+     "fix": "मूर्च्छाओं और मदों में, स्नेहन और स्वेदन किए हुए रोगियों के लिए दोष के अनुसार और बल के अनुसार पाँच कर्म करने चाहिए।",
+     "severity": "minor",
+     "patch": {
+      "n": "54",
+      "op": "set",
+      "field": "hindi",
+      "value": "मूर्च्छाओं और मदों में, स्नेहन और स्वेदन किए हुए रोगियों के लिए दोष के अनुसार और बल के अनुसार पाँच कर्म करने चाहिए।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "55",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अट्ठाईस औषधियों वाले योग का ... और इसी प्रकार महान् षट्पल घृत का",
+     "problem": "योग and the second घृत are supplied (English brackets them) and must be bracketed in Hindi; vā is 'or' (English has 'or'), Hindi has और.",
+     "fix": "अट्ठाईस औषधियों वाले (योग) का, इसी प्रकार तिक्त घृत का, अथवा इसी प्रकार महान् षट्पल (घृत) का प्रयोग प्रशस्त है।",
+     "severity": "minor",
+     "patch": {
+      "n": "55",
+      "op": "set",
+      "field": "hindi",
+      "value": "अट्ठाईस औषधियों वाले (योग) का, इसी प्रकार तिक्त घृत का, अथवा इसी प्रकार महान् षट्पल (घृत) का प्रयोग प्रशस्त है।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "56",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "57",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "58",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मूर्च्छाय",
+     "problem": "Glossary (Sū 19): mūrcchāya kept as printed in English, Hindi मूर्च्छा (feminine).",
+     "fix": "मूर्च्छा",
+     "severity": "minor",
+     "patch": {
+      "n": "58",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मूर्च्छाय",
+      "new": "मूर्च्छा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "59",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "60",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मूर्च्छाय",
+     "problem": "Glossary (Sū 19): mūrcchāya kept as printed in English, Hindi मूर्च्छा (feminine).",
+     "fix": "मूर्च्छा",
+     "severity": "minor",
+     "patch": {
+      "n": "60",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मूर्च्छाय",
+      "new": "मूर्च्छा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "योजना-चतुष्क",
+     "problem": "Earlier colophons write the tetrad name as one word (कल्पनाचतुष्क, रोगचतुष्क).",
+     "fix": "योजनाचतुष्क पूर्ण।",
+     "severity": "minor",
+     "patch": {
+      "n": "P2",
+      "op": "set",
+      "field": "hindi",
+      "value": "योजनाचतुष्क पूर्ण।"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "2 errors, 19 minor, all with patches; no regrouping. Both text_flags accepted: 51 paḍubhiḥ→paṭubhiḥ (possible; no stem paḍu, paṭu agrees with śabdaiḥ, metre unchanged); 52 udgharṣṇaiḥ→udgharṣaṇaiḥ (printed pāda b has 15 syllables, the correction gives 16 with a regular even-pāda cadence). Plant identifications (ātmaguptā, mātuluṅga, mahauṣadha, hiṅgu, pippalī, citraka standard; ūṣaṇa probable) are tagged, minimal and useful: kept. No notes cite commentators, other editions or memory. Unit 60 vs P1: Vidhiśoṇitaka (summary verse) vs Vidhiśoṇitīya (colophon) both kept unsplit as derived chapter names; correct. Unit 33 'appear' bracketed. Hindi मूर्च्छाय → मूर्च्छा per glossary (Sū 19) in 36, 38, 40, 41, 42, 54, 58, 60. MANUAL: (1) no Sū 24 ch1 decision on malāḥ is in GLOSSARY.md; this review keeps 'malas (waste)' with the doṣa reading in notes; chunk 1 (units 25 etc.) should match whatever the ch1 reviewer decides; (2) chunk 1 Hindi also uses मूर्च्छाय (units 27, and others) against the glossary, for the ch1 reviewer."
+}

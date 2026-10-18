@@ -1,0 +1,209 @@
+[
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "okasātmya (printed kāla + okas giving kālaukas) = habitual suitability, the okaḥsātmya of the glossary. The relative clause defines which vidhi is meant; the text does not say here where it was set forth.",
+  "new": "okasātmya (printed kāla + okas giving kālaukas) = habitual suitability, the okaḥsātmya of the glossary. The relative clause defines which vidhi is meant; the text does not say here where it was set forth. deśa-kāla-okas-sātmyānām may also be read as 'of what is suitable (sātmya) to place, time and habit (okas)', sātmya governing all three.",
+  "why": "reviewer (minor): The compound may equally be read as a tat-puruṣa with inner dvandva ('of what is suitable to place, time and habit'); the alternative is not mentioned."
+ },
+ {
+  "n": "4",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "yunakti prāṇinaḥ śoṇitaṃ hyanuvartate",
+    "suggest": "(a two-syllable word appears to be missing)",
+    "why": "metre: this half-verse line has 14 syllables instead of 16, and anuvartate has no expressed subject; the missing word cannot be restored from the chunk"
+   }
+  ],
+  "new": [],
+  "why": "reviewer (error): The flag has no concrete correction ('a two-syllable word appears to be missing'). Policy: a syllable shortfall with no correction from the chunk goes in notes only, never as a text_flag. The notes already record the 14-syllable line."
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "The second half-line is two syllables short and anuvartate (3 sg.) lacks a subject; '(life)' in the translations is supplied from āyuṣā of the first line and is only a stopgap. prāṇinaḥ is taken as acc. pl. object of yunakti.",
+  "new": "The second half-line is two syllables short and anuvartate (3 sg.) lacks a subject; '(life)' in the translations is supplied from āyuṣā of the first line and is only a stopgap. prāṇinaḥ is taken as acc. pl. object of yunakti. The 14-syllable half-line is recorded here only; no correction can be shown from the chunk, so there is no text_flag.",
+  "why": "reviewer (minor): Record that the metre gap is a note, not a flag."
+ },
+ {
+  "n": "5",
+  "field": "word.gram",
+  "word": "praduṣṭa-bahu-tīkṣṇa-uṣṇaiḥ",
+  "old": "n. inst. pl., karmadhāraya (adjectival)",
+  "new": "n. inst. pl., dvandva (adjectival)",
+  "why": "reviewer (minor): A string of co-ordinate adjectives (spoiled, much, sharp, hot) is an adjectival dvandva, as labelled elsewhere in this chunk, not a karmadhāraya."
+ },
+ {
+  "n": "6",
+  "field": "notes",
+  "old": "The genitives of line 2 depend on sevanāt in unit 7. Identifications: kulattha = horse gram, Macrotyloma uniflorum (standard); māṣa = black gram, Vigna mungo (standard); niṣpāva = Lablab purpureus (probable); piṇḍālu = a yam, Dioscorea sp. (probable); mūlaka = radish, Raphanus sativus (standard). sarvaśaḥ could also mean 'in every way, entirely'.",
+  "new": "The genitives of line 2 depend on sevanāt in unit 7. Identifications: kulattha = horse gram, Macrotyloma uniflorum (standard); māṣa = black gram, Vigna mungo (standard); niṣpāva = Lablab purpureus (probable); piṇḍālu = a yam, Dioscorea sp. (disputed); mūlaka = radish, Raphanus sativus (standard). sarvaśaḥ could also mean 'in every way, entirely'.",
+  "why": "reviewer (minor): Plant identifications are allowed (tagged, notes only, minimal). kulattha, māṣa, mūlaka (standard) and niṣpāva (probable) are fine and helpful; piṇḍālu is a doubtful identity and should be tagged disputed, not probable."
+ },
+ {
+  "n": "9",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "atyādānāṃ",
+    "suggest": "atyādānaṃ",
+    "why": "atyādānāṃ is not a form of atyādāna (gen. pl. would be atyādānānām); the acc. sg. atyādānam, object of bhajatām like krodham, fits the grammar; same syllable count"
+   }
+  ],
+  "new": [],
+  "why": "reviewer (error): The flag is wrong. atyādānām is a regular gen. pl. of atyāda 'one who eats to excess' (ati-ā-√ad + a), parallel to the genitives of persons prasvapatām (unit 8) and bhajatām in this very line. No correction is needed."
+ },
+ {
+  "n": "9",
+  "field": "word.gloss",
+  "word": "atyādānam",
+  "old": "excessive intake",
+  "new": "of those who eat to excess",
+  "why": "reviewer (error): Restore the printed form and its sense."
+ },
+ {
+  "n": "9",
+  "field": "word.gram",
+  "word": "atyādānam",
+  "old": "n. acc. sg.",
+  "new": "m. gen. pl., ati-āda (ati-ā-√ad)",
+  "why": "reviewer (error): Gen. pl. of the agent noun atyāda."
+ },
+ {
+  "n": "9",
+  "field": "word.w",
+  "word": "atyādānam",
+  "old": "atyādānam",
+  "new": "atyādānām",
+  "why": "reviewer (error): w must be the printed, correct form."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "of those who resort to excessive intake, likewise to anger, and to the sun and fire; from suppressing the urge to vomit, and from not letting blood at the (proper) time;",
+  "new": "of those who eat to excess, and likewise of those who resort to anger, and to the sun and fire; from suppressing the urge to vomit, and from not letting blood at the (proper) time;",
+  "why": "reviewer (error): Translation follows the rejected emendation."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "अति आदान, उसी प्रकार क्रोध, और धूप तथा अग्नि का सेवन करने वालों का; छर्दि के वेग को रोकने से, और समय पर रक्त न निकालने से;",
+  "new": "अधिक खाने वालों का, उसी प्रकार क्रोध और धूप तथा अग्नि का सेवन करने वालों का; छर्दि के वेग को रोकने से, और समय पर रक्त न निकालने से;",
+  "why": "reviewer (error): Translation follows the rejected emendation."
+ },
+ {
+  "n": "9",
+  "field": "notes",
+  "old": "atyādāna literally 'excessive taking (in)', taken as excessive intake (of food); the text does not say of what. avasecana = letting out of blood; anavasecana is its absence.",
+  "new": "atyādānām is read as gen. pl. of atyāda 'one who eats to excess' (ati-ā-√ad), parallel to prasvapatām (unit 8) and bhajatām; the printed text needs no change. These genitives go with śoṇitaṃ saṃpraduṣyati of unit 10. avasecana = letting out of blood; anavasecana is its absence.",
+  "why": "reviewer (error): Note describes the rejected reading."
+ },
+ {
+  "n": "9",
+  "field": "confidence",
+  "old": "medium",
+  "new": "high",
+  "why": "reviewer (minor): With the printed text read as it stands, the unit is clear."
+ },
+ {
+  "n": "15",
+  "field": "notes",
+  "old": "daurgandhya (dur- 'bad' + gandha) is printed, hence 'foul smell'. tamaso 'tidarśanam: seeing darkness in excess, i.e. frequent blackouts of vision; literal rendering kept.",
+  "new": "daurgandhya (dur- 'bad' + gandha) is printed, hence 'foul smell'. tamaso 'tidarśanam: seeing darkness in excess; literal rendering kept.",
+  "why": "reviewer (minor): Interpretation not in the text."
+ },
+ {
+  "n": "19",
+  "field": "notes",
+  "old": "viśuddhyā rudhirasya is taken as 'until the blood (flows) pure', i.e. purity as the limit; the text gives only the instrumental. āśaya kept in Sanskrit ('site, reservoir'); the text does not say which site is meant.",
+  "new": "viśuddhyā rudhirasya (instrumental) is rendered 'by (the standard of) the purity of the blood'; it may mean letting blood until it flows pure, but the text gives only the instrumental. āśaya kept in Sanskrit ('site, reservoir'); the text does not say which site is meant.",
+  "why": "reviewer (minor): The note contradicts the translations, which render 'by (the standard of) the purity of the blood'. Keep the translation and make the note an alternative."
+ },
+ {
+  "n": "24",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "vandanti",
+    "suggest": "vadanti",
+    "why": "possible: vandanti 'they salute, praise' gives a weak sense for what is a description of signs (compare viddhi 'know' in unit 22); vadanti 'they call' fits a definition; both scan the same (11 syllables)"
+   }
+  ],
+  "new": [
+   {
+    "src": "vandanti",
+    "suggest": "vadanti",
+    "why": "metre: in this upajāti quarter the 9th syllable must be light; va-dan-ti fits, van-dan-ti makes it heavy (the other three quarters scan correctly); sense: a statement of signs, cf. viddhi 'know' in unit 22"
+   }
+  ],
+  "why": "reviewer (error): The flag is right but its evidence is wrong ('both scan the same'). In upajāti the 9th syllable must be light: vi-śud-dha-rak-taṃ-pu-ru-ṣaṃ-va-dan-ti fits, van-dan-ti makes the 9th heavy. The other three quarters scan correctly. With metre evidence the corrected form should be used in words (rule 6)."
+ },
+ {
+  "n": "24",
+  "field": "word.gloss",
+  "word": "vandanti",
+  "old": "they hail",
+  "new": "they call",
+  "why": "reviewer (error): Use the corrected form."
+ },
+ {
+  "n": "24",
+  "field": "word.gram",
+  "word": "vandanti",
+  "old": "3 pl. pres. √vand",
+  "new": "3 pl. pres. √vad",
+  "why": "reviewer (error): "
+ },
+ {
+  "n": "24",
+  "field": "word.w",
+  "word": "vandanti",
+  "old": "vandanti",
+  "new": "vadanti",
+  "why": "reviewer (error): "
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "The man whose complexion and senses are clear, who desires the objects of the senses, whose digester (paktṛ) and urges are unobstructed, who is endowed with happiness and possessed of contentment and strength, him they hail as a man of pure blood.",
+  "new": "The man whose complexion and senses are clear, who desires the objects of the senses, whose digester (paktṛ) and urges are unobstructed, who is endowed with happiness and possessed of contentment and strength, him they call a man of pure blood.",
+  "why": "reviewer (error): Follow vadanti."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "जिसका वर्ण और इन्द्रियाँ प्रसन्न हों, जो इन्द्रियों के विषयों की इच्छा करता हो, जिसका पक्ता और वेग बिना बाधा के हों, जो सुख से युक्त, तुष्टि और बल से सम्पन्न हो, ऐसे शुद्ध रक्त वाले पुरुष का वे अभिनन्दन करते हैं।",
+  "new": "जिसका वर्ण और इन्द्रियाँ प्रसन्न हों, जो इन्द्रियों के विषयों की इच्छा करता हो, जिसका पचाने वाला और जिसके वेग बिना बाधा के हों, जो सुख से युक्त, तुष्टि और बल से सम्पन्न हो, ऐसे पुरुष को शुद्ध रक्त वाला कहते हैं।",
+  "why": "reviewer (error): Follow vadanti; and paktṛ in Hindi = पचाने वाला (glossary), not पक्ता."
+ },
+ {
+  "n": "24",
+  "field": "notes",
+  "old": "Upajāti verse. '(puṣṭi-)' is printed in round brackets after tuṣṭibalopapannaṃ, apparently as an alternative reading puṣṭi- 'nourishment' for tuṣṭi- 'contentment'; the input does not say what the brackets mean, it is not counted in the metre, and it is not applied. paktṛ (the digester) is read with vega as a dvandva ('digester and urges'); it could also be read as a tat-puruṣa 'the force of the digester'. vandanti is kept as printed in the split and translation.",
+  "new": "Upajāti verse. '(puṣṭi-)' is printed in round brackets after tuṣṭibalopapannaṃ, apparently as an alternative reading puṣṭi- 'nourishment' for tuṣṭi- 'contentment'; the input does not say what the brackets mean, it is not counted in the metre, and it is not applied. paktṛ (the digester) is read with vega as a dvandva ('digester and urges'); it could also be read as a tat-puruṣa 'the force of the digester'. vadanti (metre) is used in the split and translation; src keeps vandanti.",
+  "why": "reviewer (minor): Update to the corrected reading."
+ },
+ {
+  "n": "24",
+  "field": "word.gloss",
+  "word": "puṣṭi-",
+  "old": "nourishment (bracketed alternative to tuṣṭi-)",
+  "new": "(variant:) nourishment, for tuṣṭi-",
+  "why": "reviewer (minor): Reviewed: treating the bracketed '(puṣṭi-)' as the edition's alternative to tuṣṭi-, left out of metre and translation, is right; per glossary the gloss takes the '(variant:)' form."
+ },
+ {
+  "n": "25",
+  "field": "notes",
+  "old": "The sentence continues into unit 26 (pratihatya avatiṣṭhante 'having obstructed, settle'). malāḥ (glossary: waste) are here said to be aggravated (kupita); units 28 and 29 name vāyu, Pitta and Kapha as the agents, so the malas here are the doṣas. rasa is kept in Sanskrit (here the bodily fluid, not taste).",
+  "new": "The sentence continues into unit 26 (pratihatya avatiṣṭhante 'having obstructed, settle'). malāḥ (glossary: waste) are here said to be aggravated (kupita); units 28 and 29 name vāyu, Pitta and Kapha as the agents, so the malas here are probably the doṣas. rasa is kept in Sanskrit (here the bodily fluid, not taste).",
+  "why": "reviewer (minor): Inference from units 28-29 is reasonable but should be hedged; the English 'malas' (glossary mala = waste) is kept correctly."
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "मद, मूर्च्छाय और संन्यास। विचक्षण व्यक्ति इनके हेतु, लक्षण और उपशान्ति में उत्तरोत्तर बल की अधिकता जाने।",
+  "new": "मद, मूर्च्छा और संन्यास। विचक्षण व्यक्ति इनके हेतु, लक्षण और उपशान्ति में उत्तरोत्तर बल की अधिकता जाने।",
+  "why": "reviewer (minor): Glossary: mūrcchāya kept as printed in the split, Hindi मूर्च्छा."
+ }
+]

@@ -1,0 +1,3494 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athāto",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now",
+        "gram": "ind."
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vidhiśoṇitīyamadhyāyaṃ",
+      "words": [
+       {
+        "w": "vidhiśoṇitīyam",
+        "gloss": "on blood and regimen (Vidhiśoṇitīya)",
+        "gram": "m. acc. sg., chapter name"
+       },
+       {
+        "w": "adhyāyam",
+        "gloss": "chapter",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyāsyāmaḥ",
+      "words": [
+       {
+        "w": "vyākhyāsyāmaḥ",
+        "gloss": "we shall expound",
+        "gram": "1 pl. fut. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब इसके बाद हम विधिशोणितीय अध्याय की व्याख्या करेंगे।",
+  "english": "Now, therefore, we shall expound the chapter on blood and regimen (Vidhiśoṇitīya).",
+  "text_flags": [],
+  "notes": "The chapter name Vidhiśoṇitīya is a derived title word and is not split; it takes up vidhinā śoṇitam of unit 3.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.24.1"
+  ],
+  "lines_deva": [
+   "अथातो विधिशोणितीयमध्यायं व्याख्यास्यामः"
+  ],
+  "lines_iast": [
+   "athāto vidhiśoṇitīyamadhyāyaṃ vyākhyāsyāmaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ha",
+      "words": [
+       {
+        "w": "ha",
+        "gloss": "indeed (particle)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "smāha",
+      "words": [
+       {
+        "w": "sma",
+        "gloss": "(past particle)",
+        "gram": "ind."
+       },
+       {
+        "w": "āha",
+        "gloss": "said",
+        "gram": "3 sg. pf. √ah"
+       }
+      ]
+     },
+     {
+      "src": "bhagavānātreyaḥ",
+      "words": [
+       {
+        "w": "bhagavān",
+        "gloss": "the venerable",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ātreyaḥ",
+        "gloss": "Ātreya (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ऐसा भगवान् आत्रेय ने कहा।",
+  "english": "Thus said the venerable Ātreya.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.24.2"
+  ],
+  "lines_deva": [
+   "इति ह स्माह भगवानात्रेयः"
+  ],
+  "lines_iast": [
+   "iti ha smāha bhagavānātreyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vidhinā",
+      "words": [
+       {
+        "w": "vidhinā",
+        "gloss": "by the regimen",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "śoṇitaṃ",
+      "words": [
+       {
+        "w": "śoṇitam",
+        "gloss": "blood",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jātaṃ",
+      "words": [
+       {
+        "w": "jātam",
+        "gloss": "produced",
+        "gram": "n. nom. sg., ppp. √jan"
+       }
+      ]
+     },
+     {
+      "src": "śuddhaṃ",
+      "words": [
+       {
+        "w": "śuddham",
+        "gloss": "pure",
+        "gram": "n. nom. sg., ppp. √śudh"
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is, becomes",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "dehinām",
+      "words": [
+       {
+        "w": "dehinām",
+        "gloss": "of embodied beings",
+        "gram": "m. gen. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "deśakālaukasātmyānāṃ",
+      "words": [
+       {
+        "w": "deśa-kāla-okas-sātmyānām",
+        "gloss": "of place, time and habitual suitability",
+        "gram": "n. gen. pl., dvandva (okas-sātmya = habitual suitability)"
+       }
+      ]
+     },
+     {
+      "src": "vidhiryaḥ",
+      "words": [
+       {
+        "w": "vidhiḥ",
+        "gloss": "regimen",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃprakāśitaḥ",
+      "words": [
+       {
+        "w": "saṃprakāśitaḥ",
+        "gloss": "has been set forth",
+        "gram": "m. nom. sg., ppp. caus. sam-pra-√kāś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "देहधारियों का रक्त विधि से उत्पन्न होने पर शुद्ध होता है, वह विधि जो देश, काल और ओकसात्म्य के विषय में बताई गई है।",
+  "english": "In embodied beings, blood produced by following the regimen (vidhi) is pure, the regimen of place, time and habitual suitability (okasātmya) that has been set forth.",
+  "text_flags": [],
+  "notes": "okasātmya (printed kāla + okas giving kālaukas) = habitual suitability, the okaḥsātmya of the glossary. The relative clause defines which vidhi is meant; the text does not say here where it was set forth. deśa-kāla-okas-sātmyānām may also be read as 'of what is suitable (sātmya) to place, time and habit (okas)', sātmya governing all three.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.24.3a",
+   "01.24.3b"
+  ],
+  "lines_deva": [
+   "विधिना शोणितं जातं शुद्धं भवति देहिनाम्",
+   "देशकालौकसात्म्यानां विधिर्यः संप्रकाशितः"
+  ],
+  "lines_iast": [
+   "vidhinā śoṇitaṃ jātaṃ śuddhaṃ bhavati dehinām",
+   "deśakālaukasātmyānāṃ vidhiryaḥ saṃprakāśitaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tadviśuddhaṃ",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "viśuddham",
+        "gloss": "pure",
+        "gram": "n. nom. sg., ppp. vi-√śudh"
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for, indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rudhiraṃ",
+      "words": [
+       {
+        "w": "rudhiram",
+        "gloss": "blood",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "balavarṇasukhāyuṣā",
+      "words": [
+       {
+        "w": "bala-varṇa-sukha-āyuṣā",
+        "gloss": "with strength, complexion, happiness and life-span",
+        "gram": "n. inst. sg., samāhāra dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yunakti",
+      "words": [
+       {
+        "w": "yunakti",
+        "gloss": "joins, endows",
+        "gram": "3 sg. pres. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "prāṇinaḥ",
+      "words": [
+       {
+        "w": "prāṇinaḥ",
+        "gloss": "living beings",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "śoṇitaṃ",
+      "words": [
+       {
+        "w": "śoṇitam",
+        "gloss": "blood",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hyanuvartate",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       },
+       {
+        "w": "anuvartate",
+        "gloss": "follows, depends on",
+        "gram": "3 sg. pres. anu-√vṛt"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि वह शुद्ध रक्त प्राणियों को बल, वर्ण, सुख और आयु से युक्त करता है; क्योंकि (जीवन) रक्त का अनुसरण करता है।",
+  "english": "For that pure blood endows living beings with strength, complexion, happiness and life-span; for (life) follows the blood.",
+  "text_flags": [],
+  "notes": "The second half-line is two syllables short and anuvartate (3 sg.) lacks a subject; '(life)' in the translations is supplied from āyuṣā of the first line and is only a stopgap. prāṇinaḥ is taken as acc. pl. object of yunakti. The 14-syllable half-line is recorded here only; no correction can be shown from the chunk, so there is no text_flag.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "01.24.4a",
+   "01.24.4b"
+  ],
+  "lines_deva": [
+   "तद्विशुद्धं हि रुधिरं बलवर्णसुखायुषा",
+   "युनक्ति प्राणिनः शोणितं ह्यनुवर्तते"
+  ],
+  "lines_iast": [
+   "tadviśuddhaṃ hi rudhiraṃ balavarṇasukhāyuṣā",
+   "yunakti prāṇinaḥ śoṇitaṃ hyanuvartate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "praduṣṭabahutīkṣṇoṣṇairmadyairanyaiśca",
+      "words": [
+       {
+        "w": "praduṣṭa-bahu-tīkṣṇa-uṣṇaiḥ",
+        "gloss": "spoiled, (taken) in excess, sharp and hot",
+        "gram": "n. inst. pl., dvandva (adjectival)"
+       },
+       {
+        "w": "madyaiḥ",
+        "gloss": "by wines",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "anyaiḥ",
+        "gloss": "by others",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tadvidhraiḥ",
+      "words": [
+       {
+        "w": "tad-vidhaiḥ",
+        "gloss": "of that kind",
+        "gram": "n. inst. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tathātilavaṇakṣārairamlaiḥ",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       },
+       {
+        "w": "ati-lavaṇa-kṣāraiḥ",
+        "gloss": "by excessive salt and alkalis",
+        "gram": "m. inst. pl., dvandva with ati-"
+       },
+       {
+        "w": "amlaiḥ",
+        "gloss": "by sour things",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "kaṭubhireva",
+      "words": [
+       {
+        "w": "kaṭubhiḥ",
+        "gloss": "by pungent things",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed (emphatic)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बिगड़े हुए, अधिक मात्रा वाले, तीक्ष्ण और उष्ण मद्यों से और उसी प्रकार के अन्य (पेयों) से; उसी तरह अति लवण और क्षार से, अम्ल से और कटु पदार्थों से भी;",
+  "english": "By wines that are spoiled, (taken) in excess, sharp and hot, and by other (drinks) of that kind; likewise by excess of salt and alkalis (kṣāra), by sour things and by pungent things too;",
+  "text_flags": [
+   {
+    "src": "tadvidhraiḥ",
+    "suggest": "tadvidhaiḥ",
+    "why": "vidhra is not a word; tad-vidha 'of that kind' (inst. pl. tadvidhaiḥ) fits the grammar and sense, agreeing with anyaiḥ; the extra r adds no syllable"
+   }
+  ],
+  "notes": "The sentence (list of causes) runs on through unit 10, where the verb śoṇitaṃ saṃpraduṣyati comes. bahu is taken as 'in excess'; it could also mean simply 'much, abundant'. ati- is taken to govern both lavaṇa and kṣāra.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.24.5a",
+   "01.24.5b"
+  ],
+  "lines_deva": [
+   "प्रदुष्टबहुतीक्ष्णोष्णैर्मद्यैरन्यैश्च तद्विध्रैः",
+   "तथातिलवणक्षारैरम्लैः कटुभिरेव च"
+  ],
+  "lines_iast": [
+   "praduṣṭabahutīkṣṇoṣṇairmadyairanyaiśca tadvidhraiḥ",
+   "tathātilavaṇakṣārairamlaiḥ kaṭubhireva ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kulatthamāṣaniṣpāvatilatailaniṣevaṇaiḥ",
+      "words": [
+       {
+        "w": "kulattha-māṣa-niṣpāva-tila-taila-niṣevaṇaiḥ",
+        "gloss": "by use of kulattha, māṣa, niṣpāva and sesame oil",
+        "gram": "n. inst. pl., tat-puruṣa with inner dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "piṇḍālumūlakādīnāṃ",
+      "words": [
+       {
+        "w": "piṇḍālu-mūlaka-ādīnām",
+        "gloss": "of piṇḍālu, mūlaka and the like",
+        "gram": "n. gen. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "haritānāṃ",
+      "words": [
+       {
+        "w": "haritānām",
+        "gloss": "of green vegetables",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sarvaśaḥ",
+      "words": [
+       {
+        "w": "sarvaśaḥ",
+        "gloss": "of all kinds",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कुलत्थ, माष, निष्पाव और तिल के तेल के सेवन से; पिण्डालु, मूलक आदि सब प्रकार के हरे शाकों के (सेवन से),",
+  "english": "by the use of kulattha, māṣa, niṣpāva and sesame oil; by (the use) of piṇḍālu, mūlaka and other green vegetables of all kinds,",
+  "text_flags": [],
+  "notes": "The genitives of line 2 depend on sevanāt in unit 7. Identifications: kulattha = horse gram, Macrotyloma uniflorum (standard); māṣa = black gram, Vigna mungo (standard); niṣpāva = Lablab purpureus (probable); piṇḍālu = a yam, Dioscorea sp. (disputed); mūlaka = radish, Raphanus sativus (standard). sarvaśaḥ could also mean 'in every way, entirely'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.24.6a",
+   "01.24.6b"
+  ],
+  "lines_deva": [
+   "कुलत्थमाषनिष्पावतिलतैलनिषेवणैः",
+   "पिण्डालुमूलकादीनां हरितानां च सर्वशः"
+  ],
+  "lines_iast": [
+   "kulatthamāṣaniṣpāvatilatailaniṣevaṇaiḥ",
+   "piṇḍālumūlakādīnāṃ haritānāṃ ca sarvaśaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "jalajānūpabailānāṃ",
+      "words": [
+       {
+        "w": "jalaja-ānūpa-bailānām",
+        "gloss": "of water-born, marsh and burrow-dwelling (animals)",
+        "gram": "m. gen. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "prasahānāṃ",
+      "words": [
+       {
+        "w": "prasahānām",
+        "gloss": "of the prasaha (animals that seize by force)",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sevanāt",
+      "words": [
+       {
+        "w": "sevanāt",
+        "gloss": "from the use",
+        "gram": "n. abl. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dadhyamlamastusuktānāṃ",
+      "words": [
+       {
+        "w": "dadhi-amla-mastu-śuktānām",
+        "gloss": "of curd, sour things, whey and śukta",
+        "gram": "n. gen. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "surāsauvīrakasya",
+      "words": [
+       {
+        "w": "surā-sauvīrakasya",
+        "gloss": "of surā and sauvīraka",
+        "gram": "n. gen. sg., samāhāra dvandva"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जलज, आनूप और बिलवासी प्राणियों के तथा प्रसह प्राणियों के (मांस के) सेवन से; दही, अम्ल पदार्थ, मस्तु और शुक्त के तथा सुरा और सौवीरक के (सेवन से);",
+  "english": "from the use (of the flesh) of water-born, marsh and burrow-dwelling animals and of the prasaha (animals that seize by force); (from the use) of curd, sour things, whey (mastu) and śukta, and of surā and sauvīraka;",
+  "text_flags": [
+   {
+    "src": "dadhyamlamastusuktānāṃ",
+    "suggest": "dadhyamlamastuśuktānāṃ",
+    "why": "possible: sukta gives no sense in a list of curd preparations and sour drinks; śukta (a fermented sour preparation) fits; s for ś changes no syllable"
+   }
+  ],
+  "notes": "'Flesh' is understood: the text names only the animal groups. baila (from bila 'burrow') = burrow-dwellers. amla is taken as a separate member 'sour things'; it could also qualify mastu ('sour whey'). surā, sauvīraka and śukta are kept in Sanskrit.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.24.7a",
+   "01.24.7b"
+  ],
+  "lines_deva": [
+   "जलजानूपबैलानां प्रसहानां च सेवनात्",
+   "दध्यम्लमस्तुसुक्तानां सुरासौवीरकस्य च"
+  ],
+  "lines_iast": [
+   "jalajānūpabailānāṃ prasahānāṃ ca sevanāt",
+   "dadhyamlamastusuktānāṃ surāsauvīrakasya ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viruddhānāmupaklinnapūtīnāṃ",
+      "words": [
+       {
+        "w": "viruddhānām",
+        "gloss": "of incompatible (foods)",
+        "gram": "n. gen. pl."
+       },
+       {
+        "w": "upaklinna-pūtīnām",
+        "gloss": "of the decomposed and putrid",
+        "gram": "n. gen. pl., dvandva (adjectival)"
+       }
+      ]
+     },
+     {
+      "src": "bhakṣaṇena",
+      "words": [
+       {
+        "w": "bhakṣaṇena",
+        "gloss": "by eating",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bhuktvā",
+      "words": [
+       {
+        "w": "bhuktvā",
+        "gloss": "having eaten",
+        "gram": "abs. √bhuj"
+       }
+      ]
+     },
+     {
+      "src": "divā",
+      "words": [
+       {
+        "w": "divā",
+        "gloss": "by day",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prasvapatāṃ",
+      "words": [
+       {
+        "w": "prasvapatām",
+        "gloss": "of those who sleep",
+        "gram": "m. gen. pl., pres. part. pra-√svap"
+       }
+      ]
+     },
+     {
+      "src": "dravasnigdhagurūṇi",
+      "words": [
+       {
+        "w": "drava-snigdha-gurūṇi",
+        "gloss": "liquid, unctuous and heavy (foods)",
+        "gram": "n. acc. pl., dvandva (adjectival)"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विरुद्ध, सड़े-गले और दुर्गन्धित पदार्थों के भक्षण से; और द्रव, स्निग्ध और गुरु पदार्थ खाकर दिन में सोने वालों का;",
+  "english": "by eating incompatible, decomposed and putrid things; and of those who sleep by day after eating liquid, unctuous and heavy things;",
+  "text_flags": [],
+  "notes": "upaklinna literally 'moistened through, soaked', here taken as decomposed. The genitive prasvapatām ('of those who...') continues in unit 9 (bhajatām) and goes with śoṇitaṃ saṃpraduṣyati of unit 10 ('the blood of those who ...').",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.24.8a",
+   "01.24.8b"
+  ],
+  "lines_deva": [
+   "विरुद्धानामुपक्लिन्नपूतीनां भक्षणेन च",
+   "भुक्त्वा दिवा प्रस्वपतां द्रवस्निग्धगुरूणि च"
+  ],
+  "lines_iast": [
+   "viruddhānāmupaklinnapūtīnāṃ bhakṣaṇena ca",
+   "bhuktvā divā prasvapatāṃ dravasnigdhagurūṇi ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "atyādānāṃ",
+      "words": [
+       {
+        "w": "atyādānām",
+        "gloss": "of those who eat to excess",
+        "gram": "m. gen. pl., ati-āda (ati-ā-√ad)"
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "krodhaṃ",
+      "words": [
+       {
+        "w": "krodham",
+        "gloss": "anger",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhajatāṃ",
+      "words": [
+       {
+        "w": "bhajatām",
+        "gloss": "of those who resort to",
+        "gram": "m. gen. pl., pres. part. √bhaj"
+       }
+      ]
+     },
+     {
+      "src": "cātapānalau",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ātapa-analau",
+        "gloss": "sun and fire",
+        "gram": "m. acc. du., dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "chardivegapratīghātāt",
+      "words": [
+       {
+        "w": "chardi-vega-pratīghātāt",
+        "gloss": "from suppression of the urge to vomit",
+        "gram": "m. abl. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kāle",
+      "words": [
+       {
+        "w": "kāle",
+        "gloss": "at the (proper) time",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cānavasecanāt",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anavasecanāt",
+        "gloss": "from not letting blood",
+        "gram": "n. abl. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अधिक खाने वालों का, उसी प्रकार क्रोध और धूप तथा अग्नि का सेवन करने वालों का; छर्दि के वेग को रोकने से, और समय पर रक्त न निकालने से;",
+  "english": "of those who eat to excess, and likewise of those who resort to anger, and to the sun and fire; from suppressing the urge to vomit, and from not letting blood at the (proper) time;",
+  "text_flags": [],
+  "notes": "atyādānām is read as gen. pl. of atyāda 'one who eats to excess' (ati-ā-√ad), parallel to prasvapatām (unit 8) and bhajatām; the printed text needs no change. These genitives go with śoṇitaṃ saṃpraduṣyati of unit 10. avasecana = letting out of blood; anavasecana is its absence.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.24.9a",
+   "01.24.9b"
+  ],
+  "lines_deva": [
+   "अत्यादानां तथा क्रोधं भजतां चातपानलौ",
+   "छर्दिवेगप्रतीघातात् काले चानवसेचनात्"
+  ],
+  "lines_iast": [
+   "atyādānāṃ tathā krodhaṃ bhajatāṃ cātapānalau",
+   "chardivegapratīghātāt kāle cānavasecanāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śramābhighātasaṃtāpairajīrṇādhyaśanaistathā",
+      "words": [
+       {
+        "w": "śrama-abhighāta-saṃtāpaiḥ",
+        "gloss": "by fatigue, injury and heat",
+        "gram": "m. inst. pl., dvandva"
+       },
+       {
+        "w": "ajīrṇa-adhyaśanaiḥ",
+        "gloss": "by indigestion and eating on top of undigested food",
+        "gram": "n. inst. pl., dvandva"
+       },
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śaratkālasvabhāvācca",
+      "words": [
+       {
+        "w": "śarat-kāla-svabhāvāt",
+        "gloss": "from the nature of the Śarad season",
+        "gram": "m. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śoṇitaṃ",
+      "words": [
+       {
+        "w": "śoṇitam",
+        "gloss": "blood",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃpraduṣyati",
+      "words": [
+       {
+        "w": "saṃpraduṣyati",
+        "gloss": "becomes vitiated",
+        "gram": "3 sg. pres. sam-pra-√duṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "श्रम, अभिघात और संताप से, उसी प्रकार अजीर्ण और अध्यशन से, और शरद् काल के स्वभाव से रक्त दूषित हो जाता है।",
+  "english": "By fatigue, injury and heat, likewise by indigestion (ajīrṇa) and eating on top of undigested food (adhyaśana), and from the nature of the Śarad season, the blood becomes vitiated.",
+  "text_flags": [],
+  "notes": "This verb closes the list of causes begun in unit 5. saṃtāpa taken as heat (exposure, burning); it could also mean distress. Śarad is roughly autumn (season equivalent).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.24.10a",
+   "01.24.10b"
+  ],
+  "lines_deva": [
+   "श्रमाभिघातसंतापैरजीर्णाध्यशनैस्तथा",
+   "शरत्कालस्वभावाच्च शोणितं संप्रदुष्यति"
+  ],
+  "lines_iast": [
+   "śramābhighātasaṃtāpairajīrṇādhyaśanaistathā",
+   "śaratkālasvabhāvācca śoṇitaṃ saṃpraduṣyati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tataḥ",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śoṇitajā",
+      "words": [
+       {
+        "w": "śoṇita-jāḥ",
+        "gloss": "born of blood",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "rogāḥ",
+      "words": [
+       {
+        "w": "rogāḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "prajāyante",
+      "words": [
+       {
+        "w": "prajāyante",
+        "gloss": "arise",
+        "gram": "3 pl. pres. pra-√jan"
+       }
+      ]
+     },
+     {
+      "src": "pṛthagvidhāḥ",
+      "words": [
+       {
+        "w": "pṛthak-vidhāḥ",
+        "gloss": "of various kinds",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mukhapāko'kṣirāgaśca",
+      "words": [
+       {
+        "w": "mukha-pākaḥ",
+        "gloss": "mukhapāka (inflammation of the mouth)",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "akṣi-rāgaḥ",
+        "gloss": "redness of the eyes",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pūtighrāṇāsyagandhitā",
+      "words": [
+       {
+        "w": "pūti-ghrāṇa-āsya-gandhitā",
+        "gloss": "putrid odour of nose and mouth",
+        "gram": "f. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब रक्त से उत्पन्न अनेक प्रकार के रोग उत्पन्न होते हैं: मुखपाक, आँखों की लालिमा, नाक और मुख की सड़ी गन्ध,",
+  "english": "Then diseases born of blood, of various kinds, arise: mukhapāka (inflammation of the mouth), redness of the eyes, putrid odour of the nose and mouth,",
+  "text_flags": [],
+  "notes": "The list of blood-born diseases runs through unit 16. pāka literally 'cooking, ripening', i.e. inflammation or suppuration.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.24.11a",
+   "01.24.11b"
+  ],
+  "lines_deva": [
+   "ततः शोणितजा रोगाः प्रजायन्ते पृथग्विधाः",
+   "मुखपाकोऽक्षिरागश्च पूतिघ्राणास्यगन्धिता"
+  ],
+  "lines_iast": [
+   "tataḥ śoṇitajā rogāḥ prajāyante pṛthagvidhāḥ",
+   "mukhapāko'kṣirāgaśca pūtighrāṇāsyagandhitā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gulmopakuśavīsarparaktapittapramīlakāḥ",
+      "words": [
+       {
+        "w": "gulma-upakuśa-vīsarpa-raktapitta-pramīlakāḥ",
+        "gloss": "gulma, upakuśa, vīsarpa, raktapitta and pramīlaka",
+        "gram": "m. nom. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vidradhī",
+      "words": [
+       {
+        "w": "vidradhī",
+        "gloss": "vidradhi (abscess)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "raktamehaśca",
+      "words": [
+       {
+        "w": "rakta-mehaḥ",
+        "gloss": "raktameha (blood-meha)",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pradaro",
+      "words": [
+       {
+        "w": "pradaraḥ",
+        "gloss": "pradara",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vātaśoṇitam",
+      "words": [
+       {
+        "w": "vāta-śoṇitam",
+        "gloss": "vātaśoṇita",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गुल्म, उपकुश, वीसर्प, रक्तपित्त, प्रमीलक, विद्रधि, रक्तमेह, प्रदर, वातशोणित,",
+  "english": "gulma, upakuśa, vīsarpa, raktapitta, pramīlaka, vidradhi (abscess), raktameha, pradara, vātaśoṇita,",
+  "text_flags": [],
+  "notes": "Disease names kept in Sanskrit with no identifications. upakuśa and pramīlaka are given no gloss beyond the name.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.24.12a",
+   "01.24.12b"
+  ],
+  "lines_deva": [
+   "गुल्मोपकुशवीसर्परक्तपित्तप्रमीलकाः",
+   "विद्रधी रक्तमेहश्च प्रदरो वातशोणितम्"
+  ],
+  "lines_iast": [
+   "gulmopakuśavīsarparaktapittapramīlakāḥ",
+   "vidradhī raktamehaśca pradaro vātaśoṇitam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vaivarṇyamagnisādaśca",
+      "words": [
+       {
+        "w": "vaivarṇyam",
+        "gloss": "discoloration",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "agni-sādaḥ",
+        "gloss": "weakness of the digestive fire",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pipāsā",
+      "words": [
+       {
+        "w": "pipāsā",
+        "gloss": "thirst",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gurugātratā",
+      "words": [
+       {
+        "w": "guru-gātratā",
+        "gloss": "heaviness of the body",
+        "gram": "f. nom. sg., abstract of bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "saṃtāpaścātidaurbalyamaruciḥ",
+      "words": [
+       {
+        "w": "saṃtāpaḥ",
+        "gloss": "burning heat",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ati-daurbalyam",
+        "gloss": "extreme weakness",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "aruciḥ",
+        "gloss": "loss of taste",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śirasaśca",
+      "words": [
+       {
+        "w": "śirasaḥ",
+        "gloss": "of the head",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ruk",
+      "words": [
+       {
+        "w": "ruk",
+        "gloss": "pain",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विवर्णता, अग्नि की मन्दता, प्यास, शरीर का भारीपन, संताप, अति दुर्बलता, अरुचि और सिर का दर्द,",
+  "english": "discoloration, weakness of the digestive fire (agni), thirst, heaviness of the body, burning heat, extreme weakness, loss of taste (aruci) and pain in the head,",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.24.13a",
+   "01.24.13b"
+  ],
+  "lines_deva": [
+   "वैवर्ण्यमग्निसादश्च पिपासा गुरुगात्रता",
+   "संतापश्चातिदौर्बल्यमरुचिः शिरसश्च रुक्"
+  ],
+  "lines_iast": [
+   "vaivarṇyamagnisādaśca pipāsā gurugātratā",
+   "saṃtāpaścātidaurbalyamaruciḥ śirasaśca ruk"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vidāhaścānnapānasya",
+      "words": [
+       {
+        "w": "vidāhaḥ",
+        "gloss": "burning",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anna-pānasya",
+        "gloss": "of food and drink",
+        "gram": "n. gen. sg., samāhāra dvandva"
+       }
+      ]
+     },
+     {
+      "src": "tiktāmlodgiraṇaṃ",
+      "words": [
+       {
+        "w": "tikta-amla-udgiraṇam",
+        "gloss": "bitter and sour belching",
+        "gram": "n. nom. sg., tat-puruṣa with inner dvandva"
+       }
+      ]
+     },
+     {
+      "src": "klamaḥ",
+      "words": [
+       {
+        "w": "klamaḥ",
+        "gloss": "exhaustion",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "krodhapracuratā",
+      "words": [
+       {
+        "w": "krodha-pracuratā",
+        "gloss": "abundance of anger",
+        "gram": "f. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "buddheḥ",
+      "words": [
+       {
+        "w": "buddheḥ",
+        "gloss": "of the intellect",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃmoho",
+      "words": [
+       {
+        "w": "saṃmohaḥ",
+        "gloss": "confusion",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "lavaṇāsyatā",
+      "words": [
+       {
+        "w": "lavaṇa-āsyatā",
+        "gloss": "saltiness of the mouth",
+        "gram": "f. nom. sg., abstract of bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अन्न-पान का विदाह, तिक्त और अम्ल उद्गार, क्लम, क्रोध की अधिकता, बुद्धि का संमोह, मुख का खारापन,",
+  "english": "burning (vidāha) of food and drink, bitter and sour belching, exhaustion (klama), abundance of anger, confusion of the intellect, saltiness in the mouth,",
+  "text_flags": [],
+  "notes": "buddheḥ is taken with saṃmohaḥ ('confusion of the intellect'); it could also be read with krodhapracuratā ('the intellect's abundance of anger'). vidāha of food = burning during digestion.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.24.14a",
+   "01.24.14b"
+  ],
+  "lines_deva": [
+   "विदाहश्चान्नपानस्य तिक्ताम्लोद्गिरणं क्लमः",
+   "क्रोधप्रचुरता बुद्धेः संमोहो लवणास्यता"
+  ],
+  "lines_iast": [
+   "vidāhaścānnapānasya tiktāmlodgiraṇaṃ klamaḥ",
+   "krodhapracuratā buddheḥ saṃmoho lavaṇāsyatā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "svedaḥ",
+      "words": [
+       {
+        "w": "svedaḥ",
+        "gloss": "sweating",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śarīradaurgandhyaṃ",
+      "words": [
+       {
+        "w": "śarīra-daurgandhyam",
+        "gloss": "foul smell of the body",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "madaḥ",
+      "words": [
+       {
+        "w": "madaḥ",
+        "gloss": "intoxication",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kampaḥ",
+      "words": [
+       {
+        "w": "kampaḥ",
+        "gloss": "tremor",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "svarakṣayaḥ",
+      "words": [
+       {
+        "w": "svara-kṣayaḥ",
+        "gloss": "loss of voice",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tandrānidrātiyogaśca",
+      "words": [
+       {
+        "w": "tandrā-nidrā-atiyogaḥ",
+        "gloss": "excess of drowsiness and sleep",
+        "gram": "m. nom. sg., tat-puruṣa with inner dvandva"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tamasaścātidarśanam",
+      "words": [
+       {
+        "w": "tamasaḥ",
+        "gloss": "of darkness",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ati-darśanam",
+        "gloss": "excessive seeing",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्वेद, शरीर की दुर्गन्ध, मद, कम्प, स्वर का क्षय, तन्द्रा और निद्रा की अधिकता, और अन्धकार का अधिक दिखना,",
+  "english": "sweating, foul smell of the body, intoxication (mada), tremor, loss of voice, excess of drowsiness and sleep, and excessive seeing of darkness,",
+  "text_flags": [],
+  "notes": "daurgandhya (dur- 'bad' + gandha) is printed, hence 'foul smell'. tamaso 'tidarśanam: seeing darkness in excess; literal rendering kept.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.24.15a",
+   "01.24.15b"
+  ],
+  "lines_deva": [
+   "स्वेदः शरीरदौर्गन्ध्यं मदः कम्पः स्वरक्षयः",
+   "तन्द्रानिद्रातियोगश्च तमसश्चातिदर्शनम्"
+  ],
+  "lines_iast": [
+   "svedaḥ śarīradaurgandhyaṃ madaḥ kampaḥ svarakṣayaḥ",
+   "tandrānidrātiyogaśca tamasaścātidarśanam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kaṇḍvaruḥkoṭhapiḍakākuṣṭhacarmadalādayaḥ",
+      "words": [
+       {
+        "w": "kaṇḍū-aruḥ-koṭha-piḍakā-kuṣṭha-carmadala-ādayaḥ",
+        "gloss": "itching, arus, koṭha, eruptions, kuṣṭha, carmadala and the like",
+        "gram": "m. nom. pl., bahuvrīhi with inner dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vikārāḥ",
+      "words": [
+       {
+        "w": "vikārāḥ",
+        "gloss": "disorders",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sarva",
+      "words": [
+       {
+        "w": "sarve",
+        "gloss": "all",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "evaite",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "indeed (emphatic)",
+        "gram": "ind."
+       },
+       {
+        "w": "ete",
+        "gloss": "these",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vijñeyāḥ",
+      "words": [
+       {
+        "w": "vijñeyāḥ",
+        "gloss": "to be known",
+        "gram": "m. nom. pl., gerundive (kṛtya) vi-√jñā"
+       }
+      ]
+     },
+     {
+      "src": "śoṇitāśrayāḥ",
+      "words": [
+       {
+        "w": "śoṇita-āśrayāḥ",
+        "gloss": "based on blood",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कण्डू, अरुः, कोठ, पिडका, कुष्ठ, चर्मदल आदि; ये सभी विकार रक्त पर आश्रित जानने चाहिए।",
+  "english": "itching (kaṇḍū), arus, koṭha, eruptions (piḍakā), kuṣṭha, carmadala and the like: all these disorders are to be known as based on blood.",
+  "text_flags": [],
+  "notes": "arus (in compound aruḥ), koṭha, kuṣṭha and carmadala kept in Sanskrit; literal sense of arus 'sore', of carmadala 'splitting of the skin'. sarva (printed) is sarve with the e dropped before eva in sandhi, as is regular.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.24.16a",
+   "01.24.16b"
+  ],
+  "lines_deva": [
+   "कण्ड्वरुःकोठपिडकाकुष्ठचर्मदलादयः",
+   "विकाराः सर्व एवैते विज्ञेयाः शोणिताश्रयाः"
+  ],
+  "lines_iast": [
+   "kaṇḍvaruḥkoṭhapiḍakākuṣṭhacarmadalādayaḥ",
+   "vikārāḥ sarva evaite vijñeyāḥ śoṇitāśrayāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śītoṣṇasnigdharūkṣādyairupakrāntāśca",
+      "words": [
+       {
+        "w": "śīta-uṣṇa-snigdha-rūkṣa-ādyaiḥ",
+        "gloss": "with cold, hot, unctuous, dry and other (measures)",
+        "gram": "n. inst. pl., bahuvrīhi with inner dvandva"
+       },
+       {
+        "w": "upakrāntāḥ",
+        "gloss": "treated",
+        "gram": "m. nom. pl., ppp. upa-√kram"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "which",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "gadāḥ",
+      "words": [
+       {
+        "w": "gadāḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "samyak",
+      "words": [
+       {
+        "w": "samyak",
+        "gloss": "properly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sādhyā",
+      "words": [
+       {
+        "w": "sādhyāḥ",
+        "gloss": "curable",
+        "gram": "m. nom. pl., gerundive (kṛtya) √sādh"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sidhyanti",
+      "words": [
+       {
+        "w": "sidhyanti",
+        "gloss": "succeed, are cured",
+        "gram": "3 pl. pres. √sidh"
+       }
+      ]
+     },
+     {
+      "src": "raktajāṃstān",
+      "words": [
+       {
+        "w": "rakta-jān",
+        "gloss": "born of blood",
+        "gram": "m. acc. pl., upapada tat-puruṣa"
+       },
+       {
+        "w": "tān",
+        "gloss": "them",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vibhāvayet",
+      "words": [
+       {
+        "w": "vibhāvayet",
+        "gloss": "one should recognise",
+        "gram": "3 sg. opt. caus. vi-√bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो रोग साध्य हों और शीत, उष्ण, स्निग्ध, रूक्ष आदि उपायों से ठीक प्रकार चिकित्सित किए जाने पर सिद्ध न हों, उन्हें रक्तज समझना चाहिए।",
+  "english": "Those diseases which, though curable and properly treated with cold, hot, unctuous, dry and other (measures), are not cured, one should recognise as born of blood.",
+  "text_flags": [],
+  "notes": "samyak is taken with upakrāntāḥ ('properly treated'); it could also go with sādhyāḥ ('fully curable'). The ca after upakrāntāḥ is read as concessive ('though').",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.24.17a",
+   "01.24.17b"
+  ],
+  "lines_deva": [
+   "शीतोष्णस्निग्धरूक्षाद्यैरुपक्रान्ताश्च ये गदाः",
+   "सम्यक् साध्या न सिध्यन्ति रक्तजांस्तान् विभावयेत्"
+  ],
+  "lines_iast": [
+   "śītoṣṇasnigdharūkṣādyairupakrāntāśca ye gadāḥ",
+   "samyak sādhyā na sidhyanti raktajāṃstān vibhāvayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kuryācchoṇitarogeṣu",
+      "words": [
+       {
+        "w": "kuryāt",
+        "gloss": "one should do",
+        "gram": "3 sg. opt. √kṛ"
+       },
+       {
+        "w": "śoṇita-rogeṣu",
+        "gloss": "in blood diseases",
+        "gram": "m. loc. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "raktapittaharīṃ",
+      "words": [
+       {
+        "w": "raktapitta-harīm",
+        "gloss": "removing raktapitta",
+        "gram": "f. acc. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kriyām",
+      "words": [
+       {
+        "w": "kriyām",
+        "gloss": "treatment",
+        "gram": "f. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "virekamupavāsaṃ",
+      "words": [
+       {
+        "w": "virekam",
+        "gloss": "purgation",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "upavāsam",
+        "gloss": "fasting",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "srāvaṇaṃ",
+      "words": [
+       {
+        "w": "srāvaṇam",
+        "gloss": "letting out",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śoṇitasya",
+      "words": [
+       {
+        "w": "śoṇitasya",
+        "gloss": "of blood",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रक्त के रोगों में रक्तपित्त को दूर करने वाली चिकित्सा करनी चाहिए, तथा विरेक, उपवास और रक्त का स्रावण।",
+  "english": "In diseases of the blood one should carry out the treatment that removes raktapitta, and purgation, fasting and letting out of blood.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.24.18a",
+   "01.24.18b"
+  ],
+  "lines_deva": [
+   "कुर्याच्छोणितरोगेषु रक्तपित्तहरीं क्रियाम्",
+   "विरेकमुपवासं च स्रावणं शोणितस्य च"
+  ],
+  "lines_iast": [
+   "kuryācchoṇitarogeṣu raktapittaharīṃ kriyām",
+   "virekamupavāsaṃ ca srāvaṇaṃ śoṇitasya ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "baladoṣapramāṇādvā",
+      "words": [
+       {
+        "w": "bala-doṣa-pramāṇāt",
+        "gloss": "according to the measure of strength and doṣa",
+        "gram": "n. abl. sg., tat-puruṣa with inner dvandva"
+       },
+       {
+        "w": "vā",
+        "gloss": "either",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viśuddhyā",
+      "words": [
+       {
+        "w": "viśuddhyā",
+        "gloss": "by (the standard of) purity",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "rudhirasya",
+      "words": [
+       {
+        "w": "rudhirasya",
+        "gloss": "of the blood",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "rudhiraṃ",
+      "words": [
+       {
+        "w": "rudhiram",
+        "gloss": "blood",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "srāvayejjantorāśayaṃ",
+      "words": [
+       {
+        "w": "srāvayet",
+        "gloss": "one should let out",
+        "gram": "3 sg. opt. caus. √sru"
+       },
+       {
+        "w": "jantoḥ",
+        "gloss": "of the person",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "āśayam",
+        "gloss": "the āśaya (site)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prasamīkṣya",
+      "words": [
+       {
+        "w": "prasamīkṣya",
+        "gloss": "having examined",
+        "gram": "abs. pra-sam-√īkṣ"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बल और दोष के प्रमाण के अनुसार, या रक्त की शुद्धि (के आधार) से, या आशय को भली भाँति देखकर, मनुष्य का रक्त निकालना चाहिए।",
+  "english": "One should let out the person's blood either according to the measure of strength and doṣa, or by (the standard of) the purity of the blood, or having carefully examined the āśaya (site).",
+  "text_flags": [],
+  "notes": "viśuddhyā rudhirasya (instrumental) is rendered 'by (the standard of) the purity of the blood'; it may mean letting blood until it flows pure, but the text gives only the instrumental. āśaya kept in Sanskrit ('site, reservoir'); the text does not say which site is meant.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.24.19a",
+   "01.24.19b"
+  ],
+  "lines_deva": [
+   "बलदोषप्रमाणाद्वा विशुद्ध्या रुधिरस्य वा",
+   "रुधिरं स्रावयेज्जन्तोराशयं प्रसमीक्ष्य वा"
+  ],
+  "lines_iast": [
+   "baladoṣapramāṇādvā viśuddhyā rudhirasya vā",
+   "rudhiraṃ srāvayejjantorāśayaṃ prasamīkṣya vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aruṇābhaṃ",
+      "words": [
+       {
+        "w": "aruṇa-ābham",
+        "gloss": "reddish in appearance",
+        "gram": "n. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "bhavedvātādviśadaṃ",
+      "words": [
+       {
+        "w": "bhavet",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √bhū"
+       },
+       {
+        "w": "vātāt",
+        "gloss": "from Vāta",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "viśadam",
+        "gloss": "non-slimy",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "phenilaṃ",
+      "words": [
+       {
+        "w": "phenilam",
+        "gloss": "frothy",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tanu",
+      "words": [
+       {
+        "w": "tanu",
+        "gloss": "thin",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pittāt",
+      "words": [
+       {
+        "w": "pittāt",
+        "gloss": "from Pitta",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "pītāsitaṃ",
+      "words": [
+       {
+        "w": "pīta-asitam",
+        "gloss": "yellow and dark",
+        "gram": "n. nom. sg., dvandva (adjectival)"
+       }
+      ]
+     },
+     {
+      "src": "raktaṃ",
+      "words": [
+       {
+        "w": "raktam",
+        "gloss": "blood",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "styāyatyauṣṇyāccireṇa",
+      "words": [
+       {
+        "w": "styāyati",
+        "gloss": "clots",
+        "gram": "3 sg. pres. √styai"
+       },
+       {
+        "w": "auṣṇyāt",
+        "gloss": "because of heat",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "cireṇa",
+        "gloss": "slowly, after long",
+        "gram": "ind. (inst. sg.)"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वात से (दूषित रक्त) अरुण आभा वाला, विशद, झागदार और पतला होता है; पित्त से रक्त पीला और काला होता है और उष्णता के कारण देर से जमता है।",
+  "english": "(Blood vitiated) by Vāta is reddish in appearance, non-slimy, frothy and thin; by Pitta the blood is yellow and dark and, because of heat, clots slowly.",
+  "text_flags": [],
+  "notes": "duṣṭam of unit 21 ('vitiated') is understood here. pītāsita can be read 'yellow and dark' or 'yellowish-dark'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.24.20a",
+   "01.24.20b"
+  ],
+  "lines_deva": [
+   "अरुणाभं भवेद्वाताद्विशदं फेनिलं तनु",
+   "पित्तात् पीतासितं रक्तं स्त्यायत्यौष्ण्याच्चिरेण च"
+  ],
+  "lines_iast": [
+   "aruṇābhaṃ bhavedvātādviśadaṃ phenilaṃ tanu",
+   "pittāt pītāsitaṃ raktaṃ styāyatyauṣṇyāccireṇa ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "īṣatpāṇḍu",
+      "words": [
+       {
+        "w": "īṣat-pāṇḍu",
+        "gloss": "slightly pale",
+        "gram": "n. nom. sg., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "kaphādduṣṭaṃ",
+      "words": [
+       {
+        "w": "kaphāt",
+        "gloss": "by Kapha",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "duṣṭam",
+        "gloss": "vitiated",
+        "gram": "n. nom. sg., ppp. √duṣ"
+       }
+      ]
+     },
+     {
+      "src": "picchilaṃ",
+      "words": [
+       {
+        "w": "picchilam",
+        "gloss": "slimy",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tantumadghanam",
+      "words": [
+       {
+        "w": "tantumat",
+        "gloss": "stringy",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ghanam",
+        "gloss": "compact",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "saṃsṛṣṭaliṅgaṃ",
+      "words": [
+       {
+        "w": "saṃsṛṣṭa-liṅgam",
+        "gloss": "with combined signs",
+        "gram": "n. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "saṃsargāttriliṅgaṃ",
+      "words": [
+       {
+        "w": "saṃsargāt",
+        "gloss": "from a combination (of two doṣas)",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "tri-liṅgam",
+        "gloss": "with the signs of all three",
+        "gram": "n. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sānnipātikam",
+      "words": [
+       {
+        "w": "sānnipātikam",
+        "gloss": "from all three doṣas together",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कफ से दूषित (रक्त) थोड़ा पाण्डु, पिच्छिल, तन्तुयुक्त और घन होता है; संसर्ग से मिले-जुले लक्षणों वाला, और सान्निपातिक तीनों के लक्षणों वाला होता है।",
+  "english": "Vitiated by Kapha, it is slightly pale, slimy, stringy and compact; from a combination (of two doṣas) it has combined signs, and from all three together (sānnipātika) it has the signs of all three.",
+  "text_flags": [],
+  "notes": "tantumat literally 'having threads'. saṃsarga is taken as the combination of two doṣas, contrasted with sānnipātika (all three); the text does not say 'two'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.24.21a",
+   "01.24.21b"
+  ],
+  "lines_deva": [
+   "ईषत्पाण्डु कफाद्दुष्टं पिच्छिलं तन्तुमद्घनम्",
+   "संसृष्टलिङ्गं संसर्गात्त्रिलिङ्गं सान्निपातिकम्"
+  ],
+  "lines_iast": [
+   "īṣatpāṇḍu kaphādduṣṭaṃ picchilaṃ tantumadghanam",
+   "saṃsṛṣṭaliṅgaṃ saṃsargāttriliṅgaṃ sānnipātikam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tapanīyendragopābhaṃ",
+      "words": [
+       {
+        "w": "tapanīya-indragopa-ābham",
+        "gloss": "with the lustre of gold and of the indragopa",
+        "gram": "n. acc. sg., bahuvrīhi with inner dvandva"
+       }
+      ]
+     },
+     {
+      "src": "padmālaktakasannibham",
+      "words": [
+       {
+        "w": "padma-alaktaka-sannibham",
+        "gloss": "resembling the lotus and lac-dye",
+        "gram": "n. acc. sg., bahuvrīhi with inner dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "guñjāphalasavarṇaṃ",
+      "words": [
+       {
+        "w": "guñjā-phala-savarṇam",
+        "gloss": "of the colour of the guñjā fruit",
+        "gram": "n. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viśuddhaṃ",
+      "words": [
+       {
+        "w": "viśuddham",
+        "gloss": "pure",
+        "gram": "n. acc. sg., ppp. vi-√śudh"
+       }
+      ]
+     },
+     {
+      "src": "viddhi",
+      "words": [
+       {
+        "w": "viddhi",
+        "gloss": "know",
+        "gram": "2 sg. impv. √vid"
+       }
+      ]
+     },
+     {
+      "src": "śoṇitam",
+      "words": [
+       {
+        "w": "śoṇitam",
+        "gloss": "blood",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तपाए हुए सोने और इन्द्रगोप की आभा वाले, कमल और अलक्तक के समान, और गुञ्जा फल के समान रंग वाले रक्त को शुद्ध जानो।",
+  "english": "Know as pure the blood that has the lustre of refined gold (tapanīya) and of the indragopa, that resembles the lotus and lac-dye (alaktaka), and that has the colour of the guñjā fruit.",
+  "text_flags": [],
+  "notes": "tapanīya = gold (literally 'to be heated', i.e. refined gold). indragopa kept in Sanskrit (a creature; no identification). Identification: guñjā = Abrus precatorius (standard).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.24.22a",
+   "01.24.22b"
+  ],
+  "lines_deva": [
+   "तपनीयेन्द्रगोपाभं पद्मालक्तकसन्निभम्",
+   "गुञ्जाफलसवर्णं च विशुद्धं विद्धि शोणितम्"
+  ],
+  "lines_iast": [
+   "tapanīyendragopābhaṃ padmālaktakasannibham",
+   "guñjāphalasavarṇaṃ ca viśuddhaṃ viddhi śoṇitam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nātyuṣṇaśītaṃ",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "ati-uṣṇa-śītam",
+        "gloss": "too hot or too cold",
+        "gram": "n. nom. sg., dvandva (adjectival) with ati-"
+       }
+      ]
+     },
+     {
+      "src": "laghu",
+      "words": [
+       {
+        "w": "laghu",
+        "gloss": "light",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dīpanīyaṃ",
+      "words": [
+       {
+        "w": "dīpanīyam",
+        "gloss": "stimulating digestion",
+        "gram": "n. nom. sg., gerundive (kṛtya) caus. √dīp"
+       }
+      ]
+     },
+     {
+      "src": "rakte'panīte",
+      "words": [
+       {
+        "w": "rakte",
+        "gloss": "when the blood",
+        "gram": "n. loc. sg."
+       },
+       {
+        "w": "apanīte",
+        "gloss": "has been removed",
+        "gram": "n. loc. sg., ppp. apa-√nī"
+       }
+      ]
+     },
+     {
+      "src": "hitamannapānam",
+      "words": [
+       {
+        "w": "hitam",
+        "gloss": "beneficial",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "anna-pānam",
+        "gloss": "food and drink",
+        "gram": "n. nom. sg., samāhāra dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tadā",
+      "words": [
+       {
+        "w": "tadā",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śarīraṃ",
+      "words": [
+       {
+        "w": "śarīram",
+        "gloss": "the body",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hyanavastitāsṛgagnirviśeṣeṇa",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       },
+       {
+        "w": "anavasthita-asṛk",
+        "gloss": "having unsteady blood",
+        "gram": "n. nom. sg., bahuvrīhi"
+       },
+       {
+        "w": "agniḥ",
+        "gloss": "the digestive fire",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "viśeṣeṇa",
+        "gloss": "especially",
+        "gram": "ind. (inst. sg.)"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rakṣitavyaḥ",
+      "words": [
+       {
+        "w": "rakṣitavyaḥ",
+        "gloss": "is to be protected",
+        "gram": "m. nom. sg., gerundive (kṛtya) √rakṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रक्त निकाल दिए जाने पर ऐसा अन्न-पान हितकर है जो न अधिक उष्ण हो न अधिक शीतल, लघु और दीपन हो; क्योंकि तब शरीर अस्थिर रक्त वाला होता है, और अग्नि की विशेष रूप से रक्षा करनी चाहिए।",
+  "english": "When the blood has been let out, food and drink that is neither too hot nor too cold, light and stimulating to digestion is beneficial; for then the body has unsteady blood, and the digestive fire (agni) is to be protected especially.",
+  "text_flags": [
+   {
+    "src": "hyanavastitāsṛgagnirviśeṣeṇa",
+    "suggest": "hyanavasthitāsṛgagnirviśeṣeṇa",
+    "why": "anavastita is not a word; anavasthita 'unsteady' (an-ava-√sthā) fits the grammar and sense of a body whose blood has just been let out; t for th changes no syllable"
+   }
+  ],
+  "notes": "Upajāti verse (11 syllables a quarter). anavasthitāsṛk is read as a bahuvrīhi agreeing with śarīram ('having unsteady blood').",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.24.23a",
+   "01.24.23b"
+  ],
+  "lines_deva": [
+   "नात्युष्णशीतं लघु दीपनीयं रक्तेऽपनीते हितमन्नपानम्",
+   "तदा शरीरं ह्यनवस्तितासृगग्निर्विशेषेण च रक्षितव्यः"
+  ],
+  "lines_iast": [
+   "nātyuṣṇaśītaṃ laghu dīpanīyaṃ rakte'panīte hitamannapānam",
+   "tadā śarīraṃ hyanavastitāsṛgagnirviśeṣeṇa ca rakṣitavyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prasannavarṇendriyamindriyārthānicchantamavyāhatapaktṛvegam",
+      "words": [
+       {
+        "w": "prasanna-varṇa-indriyam",
+        "gloss": "whose complexion and senses are clear",
+        "gram": "m. acc. sg., bahuvrīhi with inner dvandva"
+       },
+       {
+        "w": "indriya-arthān",
+        "gloss": "the objects of the senses",
+        "gram": "m. acc. pl., tat-puruṣa"
+       },
+       {
+        "w": "icchantam",
+        "gloss": "desiring",
+        "gram": "m. acc. sg., pres. part. √iṣ"
+       },
+       {
+        "w": "avyāhata-paktṛ-vegam",
+        "gloss": "whose digester and urges are unobstructed",
+        "gram": "m. acc. sg., bahuvrīhi with inner dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sukhānvitaṃ",
+      "words": [
+       {
+        "w": "sukha-anvitam",
+        "gloss": "endowed with happiness",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tuṣṭibalopapannaṃ",
+      "words": [
+       {
+        "w": "tuṣṭi-bala-upapannam",
+        "gloss": "possessed of contentment and strength",
+        "gram": "m. acc. sg., tat-puruṣa with inner dvandva"
+       }
+      ]
+     },
+     {
+      "src": "(puṣṭi-)",
+      "words": [
+       {
+        "w": "puṣṭi-",
+        "gloss": "(variant:) nourishment, for tuṣṭi-",
+        "gram": "f. stem, printed in brackets"
+       }
+      ]
+     },
+     {
+      "src": "viśuddharaktaṃ",
+      "words": [
+       {
+        "w": "viśuddha-raktam",
+        "gloss": "of pure blood",
+        "gram": "m. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "puruṣaṃ",
+      "words": [
+       {
+        "w": "puruṣam",
+        "gloss": "the man",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vandanti",
+      "words": [
+       {
+        "w": "vadanti",
+        "gloss": "they call",
+        "gram": "3 pl. pres. √vad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसका वर्ण और इन्द्रियाँ प्रसन्न हों, जो इन्द्रियों के विषयों की इच्छा करता हो, जिसका पचाने वाला और जिसके वेग बिना बाधा के हों, जो सुख से युक्त, तुष्टि और बल से सम्पन्न हो, ऐसे पुरुष को शुद्ध रक्त वाला कहते हैं।",
+  "english": "The man whose complexion and senses are clear, who desires the objects of the senses, whose digester (paktṛ) and urges are unobstructed, who is endowed with happiness and possessed of contentment and strength, him they call a man of pure blood.",
+  "text_flags": [
+   {
+    "src": "vandanti",
+    "suggest": "vadanti",
+    "why": "metre: in this upajāti quarter the 9th syllable must be light; va-dan-ti fits, van-dan-ti makes it heavy (the other three quarters scan correctly); sense: a statement of signs, cf. viddhi 'know' in unit 22"
+   }
+  ],
+  "notes": "Upajāti verse. '(puṣṭi-)' is printed in round brackets after tuṣṭibalopapannaṃ, apparently as an alternative reading puṣṭi- 'nourishment' for tuṣṭi- 'contentment'; the input does not say what the brackets mean, it is not counted in the metre, and it is not applied. paktṛ (the digester) is read with vega as a dvandva ('digester and urges'); it could also be read as a tat-puruṣa 'the force of the digester'. vadanti (metre) is used in the split and translation; src keeps vandanti.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.24.24a",
+   "01.24.24b"
+  ],
+  "lines_deva": [
+   "प्रसन्नवर्णेन्द्रियमिन्द्रियार्थानिच्छन्तमव्याहतपक्तृवेगम्",
+   "सुखान्वितं तुष्टिबलोपपन्नं (पुष्टि-) विशुद्धरक्तं पुरुषं वन्दन्ति"
+  ],
+  "lines_iast": [
+   "prasannavarṇendriyamindriyārthānicchantamavyāhatapaktṛvegam",
+   "sukhānvitaṃ tuṣṭibalopapannaṃ (puṣṭi-) viśuddharaktaṃ puruṣaṃ vandanti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yadā",
+      "words": [
+       {
+        "w": "yadā",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "raktavāhīni",
+      "words": [
+       {
+        "w": "rakta-vāhīni",
+        "gloss": "blood-carrying",
+        "gram": "n. acc. pl., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "rasasaṃjñāvahāni",
+      "words": [
+       {
+        "w": "rasa-saṃjñā-vahāni",
+        "gloss": "carrying rasa and consciousness",
+        "gram": "n. acc. pl., upapada tat-puruṣa with inner dvandva"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pṛthak",
+      "words": [
+       {
+        "w": "pṛthak",
+        "gloss": "singly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pṛthak",
+      "words": [
+       {
+        "w": "pṛthak",
+        "gloss": "singly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "samastā",
+      "words": [
+       {
+        "w": "samastāḥ",
+        "gloss": "all together",
+        "gram": "m. nom. pl., ppp. sam-√as"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "srotāṃsi",
+      "words": [
+       {
+        "w": "srotāṃsi",
+        "gloss": "channels",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kupitā",
+      "words": [
+       {
+        "w": "kupitāḥ",
+        "gloss": "aggravated",
+        "gram": "m. nom. pl., ppp. √kup"
+       }
+      ]
+     },
+     {
+      "src": "malāḥ",
+      "words": [
+       {
+        "w": "malāḥ",
+        "gloss": "malas (wastes)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु जब कुपित मल, अलग-अलग या सब मिलकर, रक्त को वहन करने वाले और रस तथा संज्ञा को वहन करने वाले स्रोतों को",
+  "english": "But when the aggravated malas, singly or all together, the channels that carry blood and those that carry rasa and consciousness (saṃjñā),",
+  "text_flags": [],
+  "notes": "The sentence continues into unit 26 (pratihatya avatiṣṭhante 'having obstructed, settle'). malāḥ (glossary: waste) are here said to be aggravated (kupita); units 28 and 29 name vāyu, Pitta and Kapha as the agents, so the malas here are probably the doṣas. rasa is kept in Sanskrit (here the bodily fluid, not taste).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.24.25a",
+   "01.24.25b"
+  ],
+  "lines_deva": [
+   "यदा तु रक्तवाहीनि रससंज्ञावहानि च",
+   "पृथक् पृथक् समस्ता वा स्रोतांसि कुपिता मलाः"
+  ],
+  "lines_iast": [
+   "yadā tu raktavāhīni rasasaṃjñāvahāni ca",
+   "pṛthak pṛthak samastā vā srotāṃsi kupitā malāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "malināhāraśīlasya",
+      "words": [
+       {
+        "w": "malina-āhāra-śīlasya",
+        "gloss": "of one habituated to unclean food",
+        "gram": "m. gen. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "rajomohāvṛtātmanaḥ",
+      "words": [
+       {
+        "w": "rajas-moha-āvṛta-ātmanaḥ",
+        "gloss": "whose self is covered by rajas and delusion",
+        "gram": "m. gen. sg., bahuvrīhi with inner dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pratihatyāvatiṣṭhante",
+      "words": [
+       {
+        "w": "pratihatya",
+        "gloss": "having obstructed",
+        "gram": "abs. prati-√han"
+       },
+       {
+        "w": "avatiṣṭhante",
+        "gloss": "settle",
+        "gram": "3 pl. pres. ava-√sthā"
+       }
+      ]
+     },
+     {
+      "src": "jāyante",
+      "words": [
+       {
+        "w": "jāyante",
+        "gloss": "arise",
+        "gram": "3 pl. pres. √jan"
+       }
+      ]
+     },
+     {
+      "src": "vyādhayastadā",
+      "words": [
+       {
+        "w": "vyādhayaḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "tadā",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मलिन आहार के अभ्यस्त और रज तथा मोह से आवृत आत्मा वाले मनुष्य के, रोककर ठहर जाते हैं, तब रोग उत्पन्न होते हैं:",
+  "english": "of a person habituated to unclean food, whose self is covered by rajas and delusion (moha), having obstructed (them), settle (there), then diseases arise:",
+  "text_flags": [],
+  "notes": "Continues the sentence of unit 25; the diseases are named in unit 27. rajas kept in Sanskrit (the quality of the mind).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.24.26a",
+   "01.24.26b"
+  ],
+  "lines_deva": [
+   "मलिनाहारशीलस्य रजोमोहावृतात्मनः",
+   "प्रतिहत्यावतिष्ठन्ते जायन्ते व्याधयस्तदा"
+  ],
+  "lines_iast": [
+   "malināhāraśīlasya rajomohāvṛtātmanaḥ",
+   "pratihatyāvatiṣṭhante jāyante vyādhayastadā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "madamūrcchāyasaṃnyāsāsteṣāṃ",
+      "words": [
+       {
+        "w": "mada-mūrcchāya-saṃnyāsāḥ",
+        "gloss": "mada, mūrcchāya and saṃnyāsa",
+        "gram": "m. nom. pl., dvandva"
+       },
+       {
+        "w": "teṣām",
+        "gloss": "of these",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "vidyādvicakṣaṇaḥ",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "should know",
+        "gram": "3 sg. opt. √vid"
+       },
+       {
+        "w": "vicakṣaṇaḥ",
+        "gloss": "the discerning one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yathottaraṃ",
+      "words": [
+       {
+        "w": "yathā-uttaram",
+        "gloss": "successively",
+        "gram": "ind., avyayībhāva"
+       }
+      ]
+     },
+     {
+      "src": "balādhikyaṃ",
+      "words": [
+       {
+        "w": "bala-ādhikyam",
+        "gloss": "increase of strength",
+        "gram": "n. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "hetuliṅgopaśāntiṣu",
+      "words": [
+       {
+        "w": "hetu-liṅga-upaśāntiṣu",
+        "gloss": "in cause, signs and alleviation",
+        "gram": "f. loc. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मद, मूर्च्छा और संन्यास। विचक्षण व्यक्ति इनके हेतु, लक्षण और उपशान्ति में उत्तरोत्तर बल की अधिकता जाने।",
+  "english": "mada (intoxication), mūrcchāya (fainting) and saṃnyāsa (collapse). The discerning one should know that among these the strength increases successively in cause, signs and alleviation.",
+  "text_flags": [],
+  "notes": "mada, mūrcchāya and saṃnyāsa are kept in Sanskrit with literal glosses (saṃnyāsa literally 'laying down, abandonment'); no modern identifications. mūrcchāya is kept as printed (the masculine noun of the same root as mūrcchā). 'Strength' increases in the order given: saṃnyāsa is the strongest.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.24.27a",
+   "01.24.27b"
+  ],
+  "lines_deva": [
+   "मदमूर्च्छायसंन्यासास्तेषां विद्याद्विचक्षणः",
+   "यथोत्तरं बलाधिक्यं हेतुलिङ्गोपशान्तिषु"
+  ],
+  "lines_iast": [
+   "madamūrcchāyasaṃnyāsāsteṣāṃ vidyādvicakṣaṇaḥ",
+   "yathottaraṃ balādhikyaṃ hetuliṅgopaśāntiṣu"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "durbalaṃ",
+      "words": [
+       {
+        "w": "durbalam",
+        "gloss": "weakened",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cetasaḥ",
+      "words": [
+       {
+        "w": "cetasaḥ",
+        "gloss": "of the mind",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthānaṃ",
+      "words": [
+       {
+        "w": "sthānam",
+        "gloss": "seat",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yadā",
+      "words": [
+       {
+        "w": "yadā",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vāyuḥ",
+      "words": [
+       {
+        "w": "vāyuḥ",
+        "gloss": "Vāta (vāyu)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prapadyate",
+      "words": [
+       {
+        "w": "prapadyate",
+        "gloss": "enters",
+        "gram": "3 sg. pres. pra-√pad"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mano",
+      "words": [
+       {
+        "w": "manaḥ",
+        "gloss": "the mind",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vikṣobhayañjantoḥ",
+      "words": [
+       {
+        "w": "vikṣobhayan",
+        "gloss": "agitating",
+        "gram": "m. nom. sg., pres. part. caus. vi-√kṣubh"
+       },
+       {
+        "w": "jantoḥ",
+        "gloss": "of the person",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃjñāṃ",
+      "words": [
+       {
+        "w": "saṃjñām",
+        "gloss": "consciousness",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃmohayettadā",
+      "words": [
+       {
+        "w": "saṃmohayet",
+        "gloss": "would confuse",
+        "gram": "3 sg. opt. caus. sam-√muh"
+       },
+       {
+        "w": "tadā",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब वायु चित्त के दुर्बल स्थान में प्रवेश करता है, तब वह मनुष्य के मन को क्षुब्ध करता हुआ उसकी संज्ञा को मोहित कर देता है।",
+  "english": "When Vāta (vāyu) enters the weakened seat of the mind, then, agitating the mind, it confuses the person's consciousness.",
+  "text_flags": [],
+  "notes": "jantoḥ may go with manaḥ or with saṃjñām ('the person's mind / consciousness'); the sense is the same.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.24.28a",
+   "01.24.28b"
+  ],
+  "lines_deva": [
+   "दुर्बलं चेतसः स्थानं यदा वायुः प्रपद्यते",
+   "मनो विक्षोभयञ्जन्तोः संज्ञां संमोहयेत्तदा"
+  ],
+  "lines_iast": [
+   "durbalaṃ cetasaḥ sthānaṃ yadā vāyuḥ prapadyate",
+   "mano vikṣobhayañjantoḥ saṃjñāṃ saṃmohayettadā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pittamevaṃ",
+      "words": [
+       {
+        "w": "pittam",
+        "gloss": "Pitta",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "evam",
+        "gloss": "in the same way",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaphaścaivaṃ",
+      "words": [
+       {
+        "w": "kaphaḥ",
+        "gloss": "Kapha",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "evam",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mano",
+      "words": [
+       {
+        "w": "manaḥ",
+        "gloss": "the mind",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vikṣobhayannṛṇām",
+      "words": [
+       {
+        "w": "vikṣobhayan",
+        "gloss": "agitating",
+        "gram": "m. nom. sg., pres. part. caus. vi-√kṣubh"
+       },
+       {
+        "w": "nṛṇām",
+        "gloss": "of men",
+        "gram": "m. gen. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "saṃjñāṃ",
+      "words": [
+       {
+        "w": "saṃjñām",
+        "gloss": "consciousness",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nayatyākulatāṃ",
+      "words": [
+       {
+        "w": "nayati",
+        "gloss": "leads",
+        "gram": "3 sg. pres. √nī"
+       },
+       {
+        "w": "ākulatām",
+        "gloss": "to confusion",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśeṣaścātra",
+      "words": [
+       {
+        "w": "viśeṣaḥ",
+        "gloss": "the distinction",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "atra",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vakṣyate",
+      "words": [
+       {
+        "w": "vakṣyate",
+        "gloss": "will be stated",
+        "gram": "3 sg. fut. pass. √vac"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसी प्रकार पित्त और इसी प्रकार कफ मनुष्यों के मन को क्षुब्ध करता हुआ संज्ञा को व्याकुलता में पहुँचा देता है; और इसमें जो भेद है वह बताया जाएगा।",
+  "english": "In the same way Pitta, and likewise Kapha, agitating the mind of men, brings consciousness into confusion; and the distinction here will be stated.",
+  "text_flags": [],
+  "notes": "vikṣobhayan and nayati are singular, applying to Pitta and Kapha each in turn. The distinction is given from unit 30 on.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.24.29a",
+   "01.24.29b"
+  ],
+  "lines_deva": [
+   "पित्तमेवं कफश्चैवं मनो विक्षोभयन्नृणाम्",
+   "संज्ञां नयत्याकुलतां विशेषश्चात्र वक्ष्यते"
+  ],
+  "lines_iast": [
+   "pittamevaṃ kaphaścaivaṃ mano vikṣobhayannṛṇām",
+   "saṃjñāṃ nayatyākulatāṃ viśeṣaścātra vakṣyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "saktānalpadrutābhāṣaṃ",
+      "words": [
+       {
+        "w": "sakta-analpa-druta-ābhāṣam",
+        "gloss": "whose speech is halting, profuse and hurried",
+        "gram": "m. acc. sg., bahuvrīhi with inner dvandva"
+       }
+      ]
+     },
+     {
+      "src": "calaskhalitaceṣṭitam",
+      "words": [
+       {
+        "w": "cala-skhalita-ceṣṭitam",
+        "gloss": "whose movements are unsteady and stumbling",
+        "gram": "m. acc. sg., bahuvrīhi with inner dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vidyādvātamadāviṣṭaṃ",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "one should know",
+        "gram": "3 sg. opt. √vid"
+       },
+       {
+        "w": "vāta-mada-āviṣṭam",
+        "gloss": "possessed by Vāta-mada",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "rūkṣaśyāvāruṇākṛtim",
+      "words": [
+       {
+        "w": "rūkṣa-śyāva-aruṇa-ākṛtim",
+        "gloss": "whose appearance is dry, dusky and reddish",
+        "gram": "m. acc. sg., bahuvrīhi with inner dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसकी वाणी अटकती हुई, अधिक और तेज़ हो, जिसकी चेष्टाएँ चंचल और लड़खड़ाती हुई हों, और जिसकी आकृति रूक्ष, श्याव और अरुण हो, उसे वात के मद से ग्रस्त जानना चाहिए।",
+  "english": "One whose speech is halting, profuse and hurried, whose movements are unsteady and stumbling, and whose appearance is dry, dusky and reddish, one should know to be seized by the mada of Vāta.",
+  "text_flags": [],
+  "notes": "sakta literally 'stuck, clinging', taken as halting speech. śyāva = dusky, dark-brownish.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.24.30a",
+   "01.24.30b"
+  ],
+  "lines_deva": [
+   "सक्तानल्पद्रुताभाषं चलस्खलितचेष्टितम्",
+   "विद्याद्वातमदाविष्टं रूक्षश्यावारुणाकृतिम्"
+  ],
+  "lines_iast": [
+   "saktānalpadrutābhāṣaṃ calaskhalitaceṣṭitam",
+   "vidyādvātamadāviṣṭaṃ rūkṣaśyāvāruṇākṛtim"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sakrodhaparuṣābhāṣaṃ",
+      "words": [
+       {
+        "w": "sa-krodha-paruṣa-ābhāṣam",
+        "gloss": "whose speech is angry and harsh",
+        "gram": "m. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "saṃprahārakalipriyam",
+      "words": [
+       {
+        "w": "saṃprahāra-kali-priyam",
+        "gloss": "fond of fighting and quarrels",
+        "gram": "m. acc. sg., bahuvrīhi with inner dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vidyāt",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "one should know",
+        "gram": "3 sg. opt. √vid"
+       }
+      ]
+     },
+     {
+      "src": "pittamadāviṣṭaṃ",
+      "words": [
+       {
+        "w": "pitta-mada-āviṣṭam",
+        "gloss": "possessed by Pitta-mada",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "raktapītāsitākṛtim",
+      "words": [
+       {
+        "w": "rakta-pīta-asita-ākṛtim",
+        "gloss": "whose appearance is red, yellow or dark",
+        "gram": "m. acc. sg., bahuvrīhi with inner dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसकी वाणी क्रोधयुक्त और कठोर हो, जिसे मार-पीट और कलह प्रिय हो, और जिसकी आकृति लाल, पीली या काली हो, उसे पित्त के मद से ग्रस्त जानना चाहिए।",
+  "english": "One whose speech is angry and harsh, who is fond of fighting and quarrels, and whose appearance is red, yellow or dark, one should know to be seized by the mada of Pitta.",
+  "text_flags": [],
+  "notes": "raktapītāsita may be 'red, yellow and dark' together or as alternatives; 'or' is used in the translation.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.24.31a",
+   "01.24.31b"
+  ],
+  "lines_deva": [
+   "सक्रोधपरुषाभाषं संप्रहारकलिप्रियम्",
+   "विद्यात् पित्तमदाविष्टं रक्तपीतासिताकृतिम्"
+  ],
+  "lines_iast": [
+   "sakrodhaparuṣābhāṣaṃ saṃprahārakalipriyam",
+   "vidyāt pittamadāviṣṭaṃ raktapītāsitākṛtim"
+  ],
+  "uncertain": []
+ }
+]
