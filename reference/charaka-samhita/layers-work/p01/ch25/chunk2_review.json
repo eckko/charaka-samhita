@@ -1,0 +1,880 @@
+{
+ "units": [
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "whole unit",
+     "problem": "MANUAL: prose line typed as a verse unit in the input (type 'verse', no metre). Layers are fine; the unit type is for a human to fix when units are rebuilt.",
+     "fix": "(no change to layers; mark the unit as prose)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "whole unit",
+     "problem": "MANUAL: prose line typed as a verse unit in the input (type 'verse', no metre). Layers are fine; the unit type is for a human to fix when units are rebuilt.",
+     "fix": "(no change to layers; mark the unit as prose)",
+     "severity": "minor"
+    },
+    {
+     "field": "english",
+     "where": "na tvetad",
+     "problem": "tu (but) is dropped in the English (the Hindi has तो).",
+     "fix": "Venerable sir, this, taught in this way, will not, however, be understood by most physicians.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Venerable sir, taught in this way, this will not be understood by most physicians.",
+      "new": "Venerable sir, this, taught in this way, will not, however, be understood by most physicians.",
+      "n": "34"
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "whole unit",
+     "problem": "MANUAL: prose line typed as a verse unit in the input (type 'verse', no metre). Layers are fine; the unit type is for a human to fix when units are rebuilt.",
+     "fix": "(no change to layers; mark the unit as prose)",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "mātrādayo bhāvāḥ",
+     "problem": "The understood verb is bracketed in the English but not in the Hindi; the glossary puts supplied words in brackets in both.",
+     "fix": "और मात्रा आदि भाव भी (ज्ञात हैं)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "और मात्रा आदि भाव भी ज्ञात हैं",
+      "new": "और मात्रा आदि भाव भी (ज्ञात हैं)",
+      "n": "35"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "The speaker (the 1 pl. ...) is Ātreya, continuing unit 35",
+     "problem": "Speaker named from the order of units; the glossary rule is that an unnamed speaker is named only as the text names him.",
+     "fix": "Prose.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "notes",
+      "value": "Prose.",
+      "n": "P1"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "whole unit",
+     "problem": "MANUAL: prose line typed as a verse unit in the input (type 'verse', no metre). Layers are fine; the unit type is for a human to fix when units are rebuilt.",
+     "fix": "(no change to layers; mark the unit as prose)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "whole unit",
+     "problem": "MANUAL: prose line typed as a verse unit in the input (type 'verse', no metre). Layers are fine; the unit type is for a human to fix when units are rebuilt.",
+     "fix": "(no change to layers; mark the unit as prose)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "whole unit",
+     "problem": "MANUAL: prose line typed as a verse unit in the input (type 'verse', no metre). Layers are fine; the unit type is for a human to fix when units are rebuilt.",
+     "fix": "(no change to layers; mark the unit as prose)",
+     "severity": "minor"
+    },
+    {
+     "field": "gram",
+     "where": "śūkadhānyānāṃ",
+     "problem": "śūkadhānya (awned grain) has dhānya as its head: a tat-puruṣa, not a bahuvrīhi (śamīdhānya is labelled tat-puruṣa in the same unit).",
+     "fix": "n. gen. pl., tat-puruṣa",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "śūka-dhānyānām",
+      "field": "gram",
+      "value": "n. gen. pl., tat-puruṣa",
+      "n": "38"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "plant identifications",
+     "problem": "POLICY (minimal, common names only where they help, no species, no disputed): drop the botanical names, the redundant śāli and tila entries (already rendered rice and sesame) and the disputed jīvantī; the note also contradicted itself ('no identifications' followed by a list).",
+     "fix": "Prose passage numbered as a verse. Each item is 'the best of' the group named in the genitive plural; 'pathyatamatve śreṣṭhatamā bhavanti' is understood with every item. Names of grains, plants, animals, birds and fish are kept in Sanskrit. Common names (standard), in notes only: mudga = green gram; śṛṅgavera = fresh ginger; mṛdvīkā = grape.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "notes",
+      "value": "Prose passage numbered as a verse. Each item is 'the best of' the group named in the genitive plural; 'pathyatamatve śreṣṭhatamā bhavanti' is understood with every item. Names of grains, plants, animals, birds and fish are kept in Sanskrit. Common names (standard), in notes only: mudga = green gram; śṛṅgavera = fresh ginger; mṛdvīkā = grape.",
+      "n": "38"
+     }
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "whole unit",
+     "problem": "MANUAL: prose line typed as a verse unit in the input (type 'verse', no metre). Layers are fine; the unit type is for a human to fix when units are rebuilt.",
+     "fix": "(no change to layers; mark the unit as prose)",
+     "severity": "minor"
+    },
+    {
+     "field": "gram",
+     "where": "śūkadhānyānām",
+     "problem": "As in unit 38: tat-puruṣa, not bahuvrīhi.",
+     "fix": "n. gen. pl., tat-puruṣa",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "śūka-dhānyānām",
+      "field": "gram",
+      "value": "n. gen. pl., tat-puruṣa",
+      "n": "39"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ahitatamān api",
+     "problem": "Supplied noun द्रव्यों is not in the Sanskrit (English has none); glossary: supplied nouns in Hindi go in brackets.",
+     "fix": "सबसे अधिक अहितकर (द्रव्यों) का भी",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सबसे अधिक अहितकर द्रव्यों का भी",
+      "new": "सबसे अधिक अहितकर (द्रव्यों) का भी",
+      "n": "39"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "(iti)",
+     "problem": "Glossary rule (Sū 20 ch1): an item in printed brackets is glossed '(variant:)' and left out of the translation. The draft glosses it 'thus (bracketed in print)'.",
+     "fix": "gloss of the bracketed (iti) token: '(variant:) thus' (two words 'iti' in the unit, so no machine patch)",
+     "severity": "minor"
+    },
+    {
+     "field": "english",
+     "where": "(iti) hitāhitāvayavo",
+     "problem": "Bracketed printed (iti) is translated; by the glossary rule it is left out of the translation (brackets in English are only for understood words).",
+     "fix": "The wholesome",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "(Thus) the wholesome",
+      "new": "The wholesome",
+      "n": "39"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "(iti) hitāhitāvayavo",
+     "problem": "Same (iti) rendered in the Hindi without brackets; left out by the glossary rule, and inconsistent with the English.",
+     "fix": "आहार-विकारों के हित",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "इस प्रकार आहार-विकारों के हित",
+      "new": "आहार-विकारों के हित",
+      "n": "39"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "plant identifications / (iti)",
+     "problem": "POLICY: drop species names and the unneeded 'unidentified' remark; record the bracket treatment.",
+     "fix": "Prose passage numbered as a verse; it mirrors unit 38. gomāṃsa stands in the group of game meats (mṛgamāṃsa) as printed. The final clause 'hitāhitāvayavo vyākhyāta āhāravikārāṇām' closes units 37 to 39; the (iti) before it is in printed brackets, glossed '(variant:)' and left out of the translations. Common names (standard), in notes only: māṣa = black gram; sarṣapa = mustard; kusumbha = safflower.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "notes",
+      "value": "Prose passage numbered as a verse; it mirrors unit 38. gomāṃsa stands in the group of game meats (mṛgamāṃsa) as printed. The final clause 'hitāhitāvayavo vyākhyāta āhāravikārāṇām' closes units 37 to 39; the (iti) before it is in printed brackets, glossed '(variant:)' and left out of the translations. Common names (standard), in notes only: māṣa = black gram; sarṣapa = mustard; kusumbha = safflower.",
+      "n": "39"
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "whole unit",
+     "problem": "MANUAL: prose line typed as a verse unit in the input (type 'verse', no metre). Layers are fine; the unit type is for a human to fix when units are rebuilt.",
+     "fix": "(no change to layers; mark the unit as prose)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "P3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "(surā",
+     "problem": "Printed-bracket item: glossary rule glosses it '(variant:)' (the bracket in the gloss is not enough).",
+     "fix": "(variant:) surā",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "surā",
+      "field": "gloss",
+      "value": "(variant:) surā",
+      "n": "P3"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "(tindukamanannadravyarucikarāṇām)",
+     "problem": "Same rule for the second bracketed item.",
+     "fix": "(variant:) tinduka (fruit)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "tindukam",
+      "field": "gloss",
+      "value": "(variant:) tinduka (fruit)",
+      "n": "P3"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "rasastarpaṇīyānāṃ",
+     "problem": "Glossary (Sū 23): tarpaṇa = replenishing; 'satisfying' is not the fixed rendering.",
+     "fix": "of the replenishing",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "tarpaṇīyānām",
+      "field": "gloss",
+      "value": "of the replenishing",
+      "n": "P3"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sukhānāmiti",
+     "problem": "'the sources of happiness' adds 'sources'; sukhānām is plainly 'of happinesses/joys'.",
+     "fix": "of joys",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sukhānām",
+      "field": "gloss",
+      "value": "of joys",
+      "n": "P3"
+     }
+    },
+    {
+     "field": "english",
+     "where": "(surā ...), (tinduka ...), (an assembly of physicians;), satisfying, sources of happiness",
+     "problem": "(1) The two printed-bracket items are translated in brackets; glossary rule: left out of the translation, brackets in English only for understood words. (2) The second vaidyasamūho is put in brackets in English but not in Hindi; translated as printed in both, without brackets. (3) tarpaṇīya = replenishing (glossary). (4) 'sources of' added to sukhānām.",
+     "fix": "Namely: food is the best of what sustains life; water of what refreshes; milk of the vitalizing; meat of the nourishing; juice (rasa) of the replenishing; salt of what gives relish to foods; the sour of the cordial; the fowl of the strengthening; the semen of the nakra of aphrodisiacs; honey of what allays Kapha and Pitta; ghee of what allays Vāta and Pitta; oil of what allays Vāta and Kapha; emesis of what removes Kapha; purgation of what removes Pitta; enema (basti) of what removes Vāta; sweating of what produces softness; exercise of what produces firmness; alkali (kṣāra) of what destroys virility; unripe kapittha of what is bad for the throat; sheep's ghee of what is not cordial; goat's milk of what destroys śoṣa, suits as breast-milk, binds the blood and allays raktapitta; sheep's milk of what produces Kapha and Pitta; she-buffalo's milk of what produces sleep; mandaka curd of what clogs the channels; food of gavedhuka of the reducing; food of uddālaka of the drying; sugarcane of what produces urine; yava of what produces faeces; jambū fruit of what produces Vāta; śaṣkulī cakes of what produce Kapha and Pitta; kulattha of what produces amlapitta; māṣa of what produces Kapha and Pitta; madanaphala of what is useful in emesis, decoction enema and unctuous enema; trivṛt of easy purgatives; caturaṅgula of mild purgatives; the latex of snuh of sharp purgatives; pratyakpuṣpā of head-evacuating drugs; viḍaṅga of worm-destroying drugs; śirīṣa of poison-destroying drugs; khadira of kuṣṭha-destroying drugs; rāsnā of what removes Vāta; āmalaka of what stabilizes age; harītakī of the wholesome; the root of eraṇḍa of what is aphrodisiac and removes Vāta; the root of pippalī of what stimulates digestion, digests and removes anal swelling, arśas and pain; the root of puṣkara of what removes hiccup, dyspnoea, cough and side-pain; musta of what binds, stimulates digestion and digests; udīcya of what cools, stimulates digestion, digests and removes vomiting and diarrhoea; kaṭvaṅga of what binds and allays raktapitta; amṛtā of what binds, removes Vāta, stimulates digestion and allays Kapha, blood and obstruction (vibandha); ativiṣā of what stimulates digestion, digests, binds and removes all doṣas; the filaments of utpala, kumuda and padma of what binds and allays raktapitta; durālabhā of what allays Pitta and Kapha; gandhapriyaṅgu of what allays excess of śoṇitapitta; the bark of kuṭaja of what binds and dries up Kapha, Pitta and blood; the fruit of kāśmarya of what binds blood and allays raktapitta; pṛśniparṇī of what binds, removes Vāta, stimulates digestion and is aphrodisiac; vidārigandhā of what is aphrodisiac and removes all doṣas; balā of what binds, strengthens and removes Vāta; gokṣuraka of what removes mūtrakṛcchra and Vāta (anila); the exudate of hiṅgu of what cuts, stimulates digestion, moves downward and allays Vāta and Kapha; amlavetasa of what breaks up, stimulates digestion, moves downward and removes Vāta and Kapha; yāvaśūka of what is laxative, digests and destroys arśas; regular use of buttermilk (takra) of what allays grahaṇī disorder, swelling, arśas and the ill effects of ghee; regular use of the meat-juice of carnivores of what destroys grahaṇī disorder, śoṣa and arśas; regular use of milk and ghee of rejuvenatives (rasāyana); regular eating of saktu with an equal amount of ghee of what is aphrodisiac and removes udāvarta; regular holding of oil in the mouth (gaṇḍūṣa) of what gives strength to the teeth and relish; candana of pastes that remove foul smell and cool burning; rāsnā and aguru of plasters that remove cold; lāmajjaka and uśīra of plasters that remove burning, skin disorders and sweat; kuṣṭha of what is useful in Vāta-removing massage and poultice; madhuka of what is good for the eyes, aphrodisiac, good for the hair, the throat and the complexion, colour-correcting and healing; wind of the causes that give life-breath and consciousness; fire of what allays āma, stiffness, cold, pain and shivering; water of the checking; water quenched with a heated clod of earth of what allays thirst and excess of vomiting; eating beyond measure of the causes of āma disorder; eating according to the digestive fire of the kindlers of the digestive fire; activity and eating according to suitability of what is to be practised; eating at the proper time of what produces health; satisfaction of the merits of food; suppression of urges of what produces ill-health; wine (madya) of what produces cheerfulness; excessive indulgence in wine of what takes away intellect, fortitude and memory; heavy eating of what causes bad digestion; eating a single meal of what causes easy transformation; excessive indulgence with women of what causes śoṣa; suppression of the urge of semen of what causes impotence; a place of slaughter of what causes aversion to food; fasting of what shortens life; scanty eating of the reducing; eating again during indigestion of what vitiates the grahaṇī; irregular eating of what makes the digestive fire irregular; eating foods of opposed potency (vīrya) of what causes condemned diseases; calmness of the wholesome; overexertion of all the unwholesome; wrong use of what causes disease; going to a menstruating woman of the gateways to misfortune; celibacy of what promotes life; going to another's wife of what shortens life; desire (saṅkalpa) of aphrodisiacs; dejection of the anaphrodisiacs; undertaking beyond one's strength of what obstructs life; despondency of what increases disease; bathing of what removes fatigue; joy of the gladdening; grief of the emaciating; rest from activity of what produces plumpness; plumpness of what produces sleep; excessive sleep of what produces drowsiness; regular use of all tastes of what produces strength; regular use of one taste of what produces weakness; the fetus lodged as a foreign body (garbhaśalya) of what is to be extracted; undigested food of what is to be removed; the child of those to be given mild medicine; the aged of the palliable; the pregnant woman of those for whom sharp medicine, intercourse and exercise are to be avoided; cheerfulness of what sustains pregnancy; sannipāta of the hard to treat; āma of what is treated with conflicting measures; fever (jvara) of diseases; kuṣṭha of long-lasting diseases; rājayakṣman of groups of diseases; prameha of the persistent; leeches of accessory instruments; enema of procedures (tantra); the Himavat of lands of medicinal plants; soma of plants; desert land of healthy regions; marshland of unwholesome regions; following instructions of the qualities of a patient; the physician of the limbs of treatment; the disbeliever of those to be avoided; greed of what causes distress; not following instructions of fatal signs; freedom from despondency of the signs of well-being; an assembly of physicians of what removes doubt; application (yoga) of the qualities of a physician; an assembly of physicians; specialised knowledge of medicines; reasoning joined with the science of the means of accomplishment; right undertaking of the aims of knowing the time; irresolution of the causes of letting the time pass; observed practice of what removes doubt; incapacity of what causes fear; discussion with experts in the subject of what increases the intellect; the teacher of the causes of mastering the science; Āyurveda of nectars; the word of the good of what is to be followed; taking up what is bad of all the unwholesome; renunciation of everything of joys.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "Namely: food is the best of what sustains life; water of what refreshes; milk of the vitalizing; meat of the nourishing; juice (rasa) of the replenishing; salt of what gives relish to foods; the sour of the cordial; the fowl of the strengthening; the semen of the nakra of aphrodisiacs; honey of what allays Kapha and Pitta; ghee of what allays Vāta and Pitta; oil of what allays Vāta and Kapha; emesis of what removes Kapha; purgation of what removes Pitta; enema (basti) of what removes Vāta; sweating of what produces softness; exercise of what produces firmness; alkali (kṣāra) of what destroys virility; unripe kapittha of what is bad for the throat; sheep's ghee of what is not cordial; goat's milk of what destroys śoṣa, suits as breast-milk, binds the blood and allays raktapitta; sheep's milk of what produces Kapha and Pitta; she-buffalo's milk of what produces sleep; mandaka curd of what clogs the channels; food of gavedhuka of the reducing; food of uddālaka of the drying; sugarcane of what produces urine; yava of what produces faeces; jambū fruit of what produces Vāta; śaṣkulī cakes of what produce Kapha and Pitta; kulattha of what produces amlapitta; māṣa of what produces Kapha and Pitta; madanaphala of what is useful in emesis, decoction enema and unctuous enema; trivṛt of easy purgatives; caturaṅgula of mild purgatives; the latex of snuh of sharp purgatives; pratyakpuṣpā of head-evacuating drugs; viḍaṅga of worm-destroying drugs; śirīṣa of poison-destroying drugs; khadira of kuṣṭha-destroying drugs; rāsnā of what removes Vāta; āmalaka of what stabilizes age; harītakī of the wholesome; the root of eraṇḍa of what is aphrodisiac and removes Vāta; the root of pippalī of what stimulates digestion, digests and removes anal swelling, arśas and pain; the root of puṣkara of what removes hiccup, dyspnoea, cough and side-pain; musta of what binds, stimulates digestion and digests; udīcya of what cools, stimulates digestion, digests and removes vomiting and diarrhoea; kaṭvaṅga of what binds and allays raktapitta; amṛtā of what binds, removes Vāta, stimulates digestion and allays Kapha, blood and obstruction (vibandha); ativiṣā of what stimulates digestion, digests, binds and removes all doṣas; the filaments of utpala, kumuda and padma of what binds and allays raktapitta; durālabhā of what allays Pitta and Kapha; gandhapriyaṅgu of what allays excess of śoṇitapitta; the bark of kuṭaja of what binds and dries up Kapha, Pitta and blood; the fruit of kāśmarya of what binds blood and allays raktapitta; pṛśniparṇī of what binds, removes Vāta, stimulates digestion and is aphrodisiac; vidārigandhā of what is aphrodisiac and removes all doṣas; balā of what binds, strengthens and removes Vāta; gokṣuraka of what removes mūtrakṛcchra and Vāta (anila); the exudate of hiṅgu of what cuts, stimulates digestion, moves downward and allays Vāta and Kapha; amlavetasa of what breaks up, stimulates digestion, moves downward and removes Vāta and Kapha; yāvaśūka of what is laxative, digests and destroys arśas; regular use of buttermilk (takra) of what allays grahaṇī disorder, swelling, arśas and the ill effects of ghee; regular use of the meat-juice of carnivores of what destroys grahaṇī disorder, śoṣa and arśas; regular use of milk and ghee of rejuvenatives (rasāyana); regular eating of saktu with an equal amount of ghee of what is aphrodisiac and removes udāvarta; regular holding of oil in the mouth (gaṇḍūṣa) of what gives strength to the teeth and relish; candana of pastes that remove foul smell and cool burning; rāsnā and aguru of plasters that remove cold; lāmajjaka and uśīra of plasters that remove burning, skin disorders and sweat; kuṣṭha of what is useful in Vāta-removing massage and poultice; madhuka of what is good for the eyes, aphrodisiac, good for the hair, the throat and the complexion, colour-correcting and healing; wind of the causes that give life-breath and consciousness; fire of what allays āma, stiffness, cold, pain and shivering; water of the checking; water quenched with a heated clod of earth of what allays thirst and excess of vomiting; eating beyond measure of the causes of āma disorder; eating according to the digestive fire of the kindlers of the digestive fire; activity and eating according to suitability of what is to be practised; eating at the proper time of what produces health; satisfaction of the merits of food; suppression of urges of what produces ill-health; wine (madya) of what produces cheerfulness; excessive indulgence in wine of what takes away intellect, fortitude and memory; heavy eating of what causes bad digestion; eating a single meal of what causes easy transformation; excessive indulgence with women of what causes śoṣa; suppression of the urge of semen of what causes impotence; a place of slaughter of what causes aversion to food; fasting of what shortens life; scanty eating of the reducing; eating again during indigestion of what vitiates the grahaṇī; irregular eating of what makes the digestive fire irregular; eating foods of opposed potency (vīrya) of what causes condemned diseases; calmness of the wholesome; overexertion of all the unwholesome; wrong use of what causes disease; going to a menstruating woman of the gateways to misfortune; celibacy of what promotes life; going to another's wife of what shortens life; desire (saṅkalpa) of aphrodisiacs; dejection of the anaphrodisiacs; undertaking beyond one's strength of what obstructs life; despondency of what increases disease; bathing of what removes fatigue; joy of the gladdening; grief of the emaciating; rest from activity of what produces plumpness; plumpness of what produces sleep; excessive sleep of what produces drowsiness; regular use of all tastes of what produces strength; regular use of one taste of what produces weakness; the fetus lodged as a foreign body (garbhaśalya) of what is to be extracted; undigested food of what is to be removed; the child of those to be given mild medicine; the aged of the palliable; the pregnant woman of those for whom sharp medicine, intercourse and exercise are to be avoided; cheerfulness of what sustains pregnancy; sannipāta of the hard to treat; āma of what is treated with conflicting measures; fever (jvara) of diseases; kuṣṭha of long-lasting diseases; rājayakṣman of groups of diseases; prameha of the persistent; leeches of accessory instruments; enema of procedures (tantra); the Himavat of lands of medicinal plants; soma of plants; desert land of healthy regions; marshland of unwholesome regions; following instructions of the qualities of a patient; the physician of the limbs of treatment; the disbeliever of those to be avoided; greed of what causes distress; not following instructions of fatal signs; freedom from despondency of the signs of well-being; an assembly of physicians of what removes doubt; application (yoga) of the qualities of a physician; an assembly of physicians; specialised knowledge of medicines; reasoning joined with the science of the means of accomplishment; right undertaking of the aims of knowing the time; irresolution of the causes of letting the time pass; observed practice of what removes doubt; incapacity of what causes fear; discussion with experts in the subject of what increases the intellect; the teacher of the causes of mastering the science; Āyurveda of nectars; the word of the good of what is to be followed; taking up what is bad of all the unwholesome; renunciation of everything of joys.",
+      "n": "P3"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सुरा, तिन्दुक; द्रव्यों/बातों/वस्तुओं/व्यक्तियों/रोगों",
+     "problem": "(1) The two printed-bracket items are translated without brackets in Hindi (with brackets in English): by the glossary rule both are left out of the translation. (2) Nouns supplied in Hindi but absent from the Sanskrit and the English (द्रव्यों twice, बातों, वस्तुओं twice, व्यक्तियों, रोगों) go in brackets (glossary Sū 24 ch2).",
+     "fix": "जैसे — जीवन-वृत्ति देने वालों में अन्न श्रेष्ठ है; आश्वासन देने वालों में जल; जीवनीयों में दूध; बृंहणीयों में मांस; तर्पणीयों में रस; अन्न-द्रव्यों में रुचि उत्पन्न करने वालों में लवण; हृद्यों में अम्ल; बल देने वालों में कुक्कुट; वृष्यों में नक्र का रेतस्; कफ और पित्त को शान्त करने वालों में मधु; वात और पित्त को शान्त करने वालों में घी; वात और कफ को शान्त करने वालों में तेल; कफ हरने वालों में वमन; पित्त हरने वालों में विरेचन; वात हरने वालों में बस्ति; मृदुता लाने वालों में स्वेद; स्थिरता लाने वालों में व्यायाम; पुंस्त्व का नाश करने वालों में क्षार; कण्ठ के लिए अहितकरों में कच्चा कपित्थ; अहृद्यों में भेड़ का घी; शोष को नष्ट करने वाले, स्तन्य के समान सात्म्य, रक्त को बाँधने वाले और रक्तपित्त को शान्त करने वालों में बकरी का दूध; कफ और पित्त उत्पन्न करने वालों में भेड़ का दूध; निद्रा लाने वालों में भैंस का दूध; अभिष्यन्द करने वालों में मन्दक दही; कर्शनीयों में गवेधुक का अन्न; विरूक्षणीयों में उद्दालक का अन्न; मूत्र उत्पन्न करने वालों में ईख; पुरीष उत्पन्न करने वालों में यव; वात उत्पन्न करने वालों में जाम्बव; कफ और पित्त उत्पन्न करने वालों में शष्कुली; अम्लपित्त उत्पन्न करने वालों में कुलत्थ; कफ और पित्त उत्पन्न करने वालों में माष; वमन, आस्थापन और अनुवासन में उपयोगी (द्रव्यों) में मदनफल; सुख से विरेचन करने वालों में त्रिवृत्; मृदु विरेचन करने वालों में चतुरङ्गुल; तीक्ष्ण विरेचन करने वालों में स्नुही का दूध; शिरोविरेचनों में प्रत्यक्पुष्पा; कृमिघ्नों में विडङ्ग; विषघ्नों में शिरीष; कुष्ठघ्नों में खदिर; वात हरने वालों में रास्ना; वयःस्थापनों में आमलक; पथ्यों में हरीतकी; वृष्य और वात हरने वालों में एरण्ड का मूल; दीपनीय, पाचनीय और गुदशोथ, अर्श तथा शूल हरने वालों में पिप्पलीमूल; हिक्का, श्वास, कास और पार्श्वशूल हरने वालों में पुष्करमूल; सांग्राहिक, दीपनीय और पाचनीयों में मुस्त; निर्वापण, दीपनीय, पाचनीय और छर्दि तथा अतिसार हरने वालों में उदीच्य; सांग्राहिक और रक्तपित्त को शान्त करने वालों में कट्वङ्ग; सांग्राहिक, वातहर, दीपनीय और कफ, शोणित तथा विबन्ध को शान्त करने वालों में अमृता; दीपनीय, पाचनीय, सांग्राहिक और सब दोषों को हरने वालों में अतिविषा; सांग्राहिक और रक्तपित्त को शान्त करने वालों में उत्पल, कुमुद और पद्म का किञ्जल्क; पित्त और कफ को शान्त करने वालों में दुरालभा; शोणितपित्त के अतियोग को शान्त करने वालों में गन्धप्रियङ्गु; कफ, पित्त और रक्त को बाँधने और सुखाने वालों में कुटज की छाल; रक्त को बाँधने और रक्तपित्त को शान्त करने वालों में काश्मर्य का फल; सांग्राहिक, वातहर, दीपनीय और वृष्यों में पृश्निपर्णी; वृष्य और सब दोषों को हरने वालों में विदारिगन्धा; सांग्राहिक, बल्य और वातहरों में बला; मूत्रकृच्छ्र और अनिल को हरने वालों में गोक्षुरक; छेदनीय, दीपनीय, आनुलोमिक और वात-कफ को शान्त करने वालों में हिङ्गु का निर्यास; भेदनीय, दीपनीय, आनुलोमिक और वात-कफ हरने वालों में अम्लवेतस; स्रंसनीय, पाचनीय और अर्श को नष्ट करने वालों में यावशूक; ग्रहणी-दोष, शोफ, अर्श और घी की व्यापत् को शान्त करने वालों में तक्र का अभ्यास; ग्रहणी-दोष, शोष और अर्श को नष्ट करने वालों में मांसाहारी पशुओं के मांसरस का अभ्यास; रसायनों में दूध और घी का अभ्यास; वृष्य और उदावर्त हरने वालों में समान मात्रा के घी के साथ सत्तू खाने का अभ्यास; दाँतों को बल और रुचि देने वालों में तेल के गण्डूष का अभ्यास; दुर्गन्ध हरने और दाह को शान्त करने वाले लेपों में चन्दन; शीत को दूर करने वाले प्रलेपों में रास्ना और अगुरु; दाह, त्वचा के दोष और पसीने को दूर करने वाले प्रलेपों में लामज्जक और उशीर; वातहर अभ्यङ्ग और उपनाह में उपयोगी (द्रव्यों) में कुष्ठ; चक्षुष्य, वृष्य, केश्य, कण्ठ्य, वर्ण्य, विरजनीय और रोपणीयों में मधुक; प्राण और चेतना देने वाले कारणों में वायु; आम, स्तम्भ, शीत, शूल और कँपकँपी को शान्त करने वालों में अग्नि; स्तम्भनीयों में जल; तृष्णा और छर्दि के अतियोग को शान्त करने वालों में तपाए हुए मिट्टी के ढेले से बुझाया हुआ जल; आम-दोष के कारणों में मात्रा से अधिक भोजन; अग्नि को प्रदीप्त करने वालों में अग्नि के अनुसार भोजन; सेवन योग्य (बातों) में सात्म्य के अनुसार चेष्टा और भोजन; आरोग्य देने वालों में समय पर भोजन; आहार के गुणों में तृप्ति; अनारोग्य करने वालों में वेगों को रोकना; सौमनस्य उत्पन्न करने वालों में मद्य; बुद्धि, धृति और स्मृति को हरने वालों में मद्य का अतिसेवन; दुर्विपाक करने वालों में गुरु भोजन; सुख से परिणाम करने वालों में एक बार भोजन; शोष करने वालों में स्त्रियों में अति-आसक्ति; षण्ढता करने वालों में शुक्र के वेग को रोकना; अन्न में अश्रद्धा उत्पन्न करने वालों में वधस्थान; आयु घटाने वालों में अनशन; कर्शनीयों में थोड़ा भोजन; ग्रहणी को दूषित करने वालों में अजीर्ण में अध्यशन; अग्नि को विषम करने वालों में विषम भोजन; निन्दित रोग उत्पन्न करने वालों में विरुद्ध वीर्य वाले द्रव्यों का भोजन; पथ्यों में प्रशम; सब अपथ्यों में आयास; रोग उत्पन्न करने वालों में मिथ्यायोग; अलक्ष्मी के द्वारों में रजस्वला स्त्री के पास जाना; आयुष्यों में ब्रह्मचर्य; अनायुष्यों में परस्त्री-गमन; वृष्यों में सङ्कल्प; अवृष्यों में दौर्मनस्य; प्राण को रोकने वालों में बल से अधिक कार्य का आरम्भ; रोग बढ़ाने वालों में विषाद; श्रम हरने वालों में स्नान; प्रसन्न करने वालों में हर्ष; शोषण करने वालों में शोक; पुष्टि करने वालों में निवृत्ति; निद्रा लाने वालों में पुष्टि; तन्द्रा लाने वालों में अधिक निद्रा; बल देने वालों में सब रसों का अभ्यास; दुर्बलता करने वालों में एक रस का अभ्यास; निकालने योग्य (वस्तुओं) में गर्भशल्य; बाहर करने योग्य (वस्तुओं) में अजीर्ण; मृदु औषध के योग्य (व्यक्तियों) में बालक; याप्यों में वृद्ध; जिनके लिए तीक्ष्ण औषध, मैथुन और व्यायाम वर्जित हैं उनमें गर्भिणी; गर्भ को धारण कराने वालों में सौमनस्य; दुश्चिकित्स्यों में सन्निपात; विषम चिकित्सा वालों में आम; रोगों में ज्वर; दीर्घ रोगों में कुष्ठ; रोग-समूहों में राजयक्ष्मा; अनुषङ्गी (रोगों) में प्रमेह; अनुशस्त्रों में जलौका; तन्त्रों में बस्ति; औषधि-भूमियों में हिमवान्; औषधियों में सोम; आरोग्यकर देशों में मरुभूमि; अहितकर देशों में अनूप; आतुर के गुणों में निर्देश का पालन; चिकित्सा के अङ्गों में भिषक्; वर्जनीयों में नास्तिक; क्लेश देने वालों में लोलुपता; अरिष्टों में निर्देश का पालन न करना; आरोग्य के लक्षणों में अनिर्वेद; संशय दूर करने वालों में वैद्यों का समूह; वैद्य के गुणों में योग; वैद्यों का समूह; औषधों में विज्ञान; साधनों में शास्त्र-सहित तर्क; काल-ज्ञान के प्रयोजनों में सम्प्रतिपत्ति; काल बीत जाने के कारणों में अव्यवसाय; संशय दूर करने वालों में दृष्टकर्मता; भय उत्पन्न करने वालों में असमर्थता; बुद्धि बढ़ाने वालों में उस विद्या के जानकारों से सम्भाषा; शास्त्र-प्राप्ति के कारणों में आचार्य; अमृतों में आयुर्वेद; अनुष्ठेयों में सज्जनों का वचन; सब अहितों में असत् का ग्रहण; और सुखों में सर्व-संन्यास।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "जैसे — जीवन-वृत्ति देने वालों में अन्न श्रेष्ठ है; आश्वासन देने वालों में जल; जीवनीयों में दूध; बृंहणीयों में मांस; तर्पणीयों में रस; अन्न-द्रव्यों में रुचि उत्पन्न करने वालों में लवण; हृद्यों में अम्ल; बल देने वालों में कुक्कुट; वृष्यों में नक्र का रेतस्; कफ और पित्त को शान्त करने वालों में मधु; वात और पित्त को शान्त करने वालों में घी; वात और कफ को शान्त करने वालों में तेल; कफ हरने वालों में वमन; पित्त हरने वालों में विरेचन; वात हरने वालों में बस्ति; मृदुता लाने वालों में स्वेद; स्थिरता लाने वालों में व्यायाम; पुंस्त्व का नाश करने वालों में क्षार; कण्ठ के लिए अहितकरों में कच्चा कपित्थ; अहृद्यों में भेड़ का घी; शोष को नष्ट करने वाले, स्तन्य के समान सात्म्य, रक्त को बाँधने वाले और रक्तपित्त को शान्त करने वालों में बकरी का दूध; कफ और पित्त उत्पन्न करने वालों में भेड़ का दूध; निद्रा लाने वालों में भैंस का दूध; अभिष्यन्द करने वालों में मन्दक दही; कर्शनीयों में गवेधुक का अन्न; विरूक्षणीयों में उद्दालक का अन्न; मूत्र उत्पन्न करने वालों में ईख; पुरीष उत्पन्न करने वालों में यव; वात उत्पन्न करने वालों में जाम्बव; कफ और पित्त उत्पन्न करने वालों में शष्कुली; अम्लपित्त उत्पन्न करने वालों में कुलत्थ; कफ और पित्त उत्पन्न करने वालों में माष; वमन, आस्थापन और अनुवासन में उपयोगी (द्रव्यों) में मदनफल; सुख से विरेचन करने वालों में त्रिवृत्; मृदु विरेचन करने वालों में चतुरङ्गुल; तीक्ष्ण विरेचन करने वालों में स्नुही का दूध; शिरोविरेचनों में प्रत्यक्पुष्पा; कृमिघ्नों में विडङ्ग; विषघ्नों में शिरीष; कुष्ठघ्नों में खदिर; वात हरने वालों में रास्ना; वयःस्थापनों में आमलक; पथ्यों में हरीतकी; वृष्य और वात हरने वालों में एरण्ड का मूल; दीपनीय, पाचनीय और गुदशोथ, अर्श तथा शूल हरने वालों में पिप्पलीमूल; हिक्का, श्वास, कास और पार्श्वशूल हरने वालों में पुष्करमूल; सांग्राहिक, दीपनीय और पाचनीयों में मुस्त; निर्वापण, दीपनीय, पाचनीय और छर्दि तथा अतिसार हरने वालों में उदीच्य; सांग्राहिक और रक्तपित्त को शान्त करने वालों में कट्वङ्ग; सांग्राहिक, वातहर, दीपनीय और कफ, शोणित तथा विबन्ध को शान्त करने वालों में अमृता; दीपनीय, पाचनीय, सांग्राहिक और सब दोषों को हरने वालों में अतिविषा; सांग्राहिक और रक्तपित्त को शान्त करने वालों में उत्पल, कुमुद और पद्म का किञ्जल्क; पित्त और कफ को शान्त करने वालों में दुरालभा; शोणितपित्त के अतियोग को शान्त करने वालों में गन्धप्रियङ्गु; कफ, पित्त और रक्त को बाँधने और सुखाने वालों में कुटज की छाल; रक्त को बाँधने और रक्तपित्त को शान्त करने वालों में काश्मर्य का फल; सांग्राहिक, वातहर, दीपनीय और वृष्यों में पृश्निपर्णी; वृष्य और सब दोषों को हरने वालों में विदारिगन्धा; सांग्राहिक, बल्य और वातहरों में बला; मूत्रकृच्छ्र और अनिल को हरने वालों में गोक्षुरक; छेदनीय, दीपनीय, आनुलोमिक और वात-कफ को शान्त करने वालों में हिङ्गु का निर्यास; भेदनीय, दीपनीय, आनुलोमिक और वात-कफ हरने वालों में अम्लवेतस; स्रंसनीय, पाचनीय और अर्श को नष्ट करने वालों में यावशूक; ग्रहणी-दोष, शोफ, अर्श और घी की व्यापत् को शान्त करने वालों में तक्र का अभ्यास; ग्रहणी-दोष, शोष और अर्श को नष्ट करने वालों में मांसाहारी पशुओं के मांसरस का अभ्यास; रसायनों में दूध और घी का अभ्यास; वृष्य और उदावर्त हरने वालों में समान मात्रा के घी के साथ सत्तू खाने का अभ्यास; दाँतों को बल और रुचि देने वालों में तेल के गण्डूष का अभ्यास; दुर्गन्ध हरने और दाह को शान्त करने वाले लेपों में चन्दन; शीत को दूर करने वाले प्रलेपों में रास्ना और अगुरु; दाह, त्वचा के दोष और पसीने को दूर करने वाले प्रलेपों में लामज्जक और उशीर; वातहर अभ्यङ्ग और उपनाह में उपयोगी (द्रव्यों) में कुष्ठ; चक्षुष्य, वृष्य, केश्य, कण्ठ्य, वर्ण्य, विरजनीय और रोपणीयों में मधुक; प्राण और चेतना देने वाले कारणों में वायु; आम, स्तम्भ, शीत, शूल और कँपकँपी को शान्त करने वालों में अग्नि; स्तम्भनीयों में जल; तृष्णा और छर्दि के अतियोग को शान्त करने वालों में तपाए हुए मिट्टी के ढेले से बुझाया हुआ जल; आम-दोष के कारणों में मात्रा से अधिक भोजन; अग्नि को प्रदीप्त करने वालों में अग्नि के अनुसार भोजन; सेवन योग्य (बातों) में सात्म्य के अनुसार चेष्टा और भोजन; आरोग्य देने वालों में समय पर भोजन; आहार के गुणों में तृप्ति; अनारोग्य करने वालों में वेगों को रोकना; सौमनस्य उत्पन्न करने वालों में मद्य; बुद्धि, धृति और स्मृति को हरने वालों में मद्य का अतिसेवन; दुर्विपाक करने वालों में गुरु भोजन; सुख से परिणाम करने वालों में एक बार भोजन; शोष करने वालों में स्त्रियों में अति-आसक्ति; षण्ढता करने वालों में शुक्र के वेग को रोकना; अन्न में अश्रद्धा उत्पन्न करने वालों में वधस्थान; आयु घटाने वालों में अनशन; कर्शनीयों में थोड़ा भोजन; ग्रहणी को दूषित करने वालों में अजीर्ण में अध्यशन; अग्नि को विषम करने वालों में विषम भोजन; निन्दित रोग उत्पन्न करने वालों में विरुद्ध वीर्य वाले द्रव्यों का भोजन; पथ्यों में प्रशम; सब अपथ्यों में आयास; रोग उत्पन्न करने वालों में मिथ्यायोग; अलक्ष्मी के द्वारों में रजस्वला स्त्री के पास जाना; आयुष्यों में ब्रह्मचर्य; अनायुष्यों में परस्त्री-गमन; वृष्यों में सङ्कल्प; अवृष्यों में दौर्मनस्य; प्राण को रोकने वालों में बल से अधिक कार्य का आरम्भ; रोग बढ़ाने वालों में विषाद; श्रम हरने वालों में स्नान; प्रसन्न करने वालों में हर्ष; शोषण करने वालों में शोक; पुष्टि करने वालों में निवृत्ति; निद्रा लाने वालों में पुष्टि; तन्द्रा लाने वालों में अधिक निद्रा; बल देने वालों में सब रसों का अभ्यास; दुर्बलता करने वालों में एक रस का अभ्यास; निकालने योग्य (वस्तुओं) में गर्भशल्य; बाहर करने योग्य (वस्तुओं) में अजीर्ण; मृदु औषध के योग्य (व्यक्तियों) में बालक; याप्यों में वृद्ध; जिनके लिए तीक्ष्ण औषध, मैथुन और व्यायाम वर्जित हैं उनमें गर्भिणी; गर्भ को धारण कराने वालों में सौमनस्य; दुश्चिकित्स्यों में सन्निपात; विषम चिकित्सा वालों में आम; रोगों में ज्वर; दीर्घ रोगों में कुष्ठ; रोग-समूहों में राजयक्ष्मा; अनुषङ्गी (रोगों) में प्रमेह; अनुशस्त्रों में जलौका; तन्त्रों में बस्ति; औषधि-भूमियों में हिमवान्; औषधियों में सोम; आरोग्यकर देशों में मरुभूमि; अहितकर देशों में अनूप; आतुर के गुणों में निर्देश का पालन; चिकित्सा के अङ्गों में भिषक्; वर्जनीयों में नास्तिक; क्लेश देने वालों में लोलुपता; अरिष्टों में निर्देश का पालन न करना; आरोग्य के लक्षणों में अनिर्वेद; संशय दूर करने वालों में वैद्यों का समूह; वैद्य के गुणों में योग; वैद्यों का समूह; औषधों में विज्ञान; साधनों में शास्त्र-सहित तर्क; काल-ज्ञान के प्रयोजनों में सम्प्रतिपत्ति; काल बीत जाने के कारणों में अव्यवसाय; संशय दूर करने वालों में दृष्टकर्मता; भय उत्पन्न करने वालों में असमर्थता; बुद्धि बढ़ाने वालों में उस विद्या के जानकारों से सम्भाषा; शास्त्र-प्राप्ति के कारणों में आचार्य; अमृतों में आयुर्वेद; अनुष्ठेयों में सज्जनों का वचन; सब अहितों में असत् का ग्रहण; और सुखों में सर्व-संन्यास।",
+      "n": "P3"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "vaidyasamūho '(omit; possible repetition)'",
+     "problem": "Not a concrete correction (the suggestion is to omit a word) and it is really a count/structure observation; glossary (Sū 19): a count gap goes in notes only, a text_flag needs a concrete correction. Dropped and moved to notes. The other 19 flags each cite evidence in the chunk or grammar and are kept.",
+     "fix": "[{\"src\": \"lavaṇamannadravyarūcikarāṇām\", \"suggest\": \"lavaṇamannadravyarucikarāṇām\", \"why\": \"rūci is not a word; ruci 'relish' is spelled with short u in the same list ('tindukamanannadravyarucikarāṇām', 'dantabalarucikarāṇāṃ')\"}, {\"src\": \"kapitthamukaṇṭhyānām,\", \"suggest\": \"kapitthamakaṇṭhyānām,\", \"why\": \"possible typo: ukaṇṭhya is not a word; akaṇṭhya 'bad for the throat' is the negative of kaṇṭhya (in this list, 'madhukaṃ ...kaṇṭhya...'), like the next item 'ahṛdyānām'\"}, {\"src\": \"śoṣaghnastanyasātmyaraktasāṃgrāhikaraktapittaprapraśamanānām\", \"suggest\": \"śoṣaghnastanyasātmyaraktasāṃgrāhikaraktapittapraśamanānām\", \"why\": \"'prapraśamana' repeats pra; the list has 'praśamanānām' throughout (e.g. 'sāṃgrāhikaraktapittapraśamanānām')\"}, {\"src\": \"purūṣajananānāṃ\", \"suggest\": \"purīṣajananānāṃ\", \"why\": \"possible typo: purūṣa is not a word; purīṣa 'faeces' fits the series of '-jananānām' items for bodily products (mūtrajananānām just before)\"}, {\"src\": \"sukhvirecanānāṃ\", \"suggest\": \"sukhavirecanānāṃ\", \"why\": \"sukhv- is not a possible compound member; sukha 'easy' pairs with the following 'mṛduvirecanānāṃ' and 'tīkṣṇa...virecana'\"}, {\"src\": \"snukpayastīkṣṇāvirecananāṃ,\", \"suggest\": \"snukpayastīkṣṇavirecanānāṃ,\", \"why\": \"the member is tīkṣṇa (no long ā) and the genitive plural is -virecanānām, as in the parallel 'mṛduvirecanānāṃ' just before\"}, {\"src\": \"śiṛṣo\", \"suggest\": \"śirīṣo\", \"why\": \"śiṛṣo is not a word; śirīṣa is spelled so in P6 of this chunk ('śiṃśapāśirīṣavañjala')\"}, {\"src\": \"nirvāapaṇadīpanīyapācanīyacchardyatīsāraharāṇāṃ\", \"suggest\": \"nirvāpaṇadīpanīyapācanīyacchardyatīsāraharāṇāṃ\", \"why\": \"'vāa' is a doubled vowel; the word is spelled nirvāpaṇa later in this list ('dāhanirvāpaṇalepanānāṃ')\"}, {\"src\": \"sāṃgrāhikavātaharadīpanīyaśleṣamśoṇitavibandhapraśamanānāṃ,\", \"suggest\": \"sāṃgrāhikavātaharadīpanīyaśleṣmaśoṇitavibandhapraśamanānāṃ,\", \"why\": \"śleṣam is not a stem; śleṣma- is used throughout the list (e.g. 'śleṣmapittajananānāṃ')\"}, {\"src\": \"vṛsyasarvadoṣaharāṇāṃ\", \"suggest\": \"vṛṣyasarvadoṣaharāṇāṃ\", \"why\": \"vṛsya is a misspelling of vṛṣya 'aphrodisiac', spelled with ṣ in this list ('vṛṣyāṇāṃ', 'vṛṣyavātaharāṇāṃ')\"}, {\"src\": \"vṛsyodāvartaharānāṃ\", \"suggest\": \"vṛṣyodāvartaharāṇāṃ\", \"why\": \"vṛsya for vṛṣya as above; and after r the genitive ending is -āṇām (retroflex ṇ), as in every other '-harāṇāṃ' of the list\"}, {\"src\": \"cakṣuṣyavṛsyakeśyakaṇṭhyavarṇyavirajanīyaropaṇīyānāṃ\", \"suggest\": \"cakṣuṣyavṛṣyakeśyakaṇṭhyavarṇyavirajanīyaropaṇīyānāṃ\", \"why\": \"vṛsya for vṛṣya, as above\"}, {\"src\": \"agnirāmastambhaśītaśūodvepanapraśamanānāṃ\", \"suggest\": \"agnirāmastambhaśītaśūlodvepanapraśamanānāṃ\", \"why\": \"śūo is not a possible member; śūla 'pain' (as in 'pārśvaśūlaharāṇāṃ' of this list) gives śūlodvepana with regular sandhi\"}, {\"src\": \"mṛdbhṛṣṭaloṣṭrinirvāpitamudakaṃ\", \"suggest\": \"mṛdbhṛṣṭaloṣṭanirvāpitamudakaṃ\", \"why\": \"possible typo: loṣṭri is not a word; loṣṭa 'clod' fits 'water quenched with a heated clod of earth'\"}, {\"src\": \"dhīghṛtismṛtiharāṇāṃ\", \"suggest\": \"dhīdhṛtismṛtiharāṇāṃ\", \"why\": \"possible typo: ghṛti is not a word; dhṛti 'fortitude' fits between dhī 'intellect' and smṛti 'memory'\"}, {\"src\": \"prathyānāṃ\", \"suggest\": \"pathyānāṃ\", \"why\": \"prathya is not a word; pathyānām 'of the wholesome' is printed earlier in this list ('harītakī pathyānām')\"}, {\"src\": \"daumanasyamavrṣyāṇām\", \"suggest\": \"daumanasyamavṛṣyāṇām\", \"why\": \"'vrṣ' is a slip for the vowel ṛ; avṛṣya is the negative of 'vṛṣyāṇāṃ' printed just before\"}, {\"src\": \"garbhinī\", \"suggest\": \"garbhiṇī\", \"why\": \"after r in the same word the n of the feminine suffix becomes retroflex ṇ (garbhiṇī)\"}, {\"src\": \"niḥśaṃśayakarāṇāṃ\", \"suggest\": \"niḥsaṃśayakarāṇāṃ\", \"why\": \"śaṃśaya is a misspelling; the same phrase is printed 'niḥsaṃśayakarāṇām' later in this list\"}]",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "lavaṇamannadravyarūcikarāṇām",
+        "suggest": "lavaṇamannadravyarucikarāṇām",
+        "why": "rūci is not a word; ruci 'relish' is spelled with short u in the same list ('tindukamanannadravyarucikarāṇām', 'dantabalarucikarāṇāṃ')"
+       },
+       {
+        "src": "kapitthamukaṇṭhyānām,",
+        "suggest": "kapitthamakaṇṭhyānām,",
+        "why": "possible typo: ukaṇṭhya is not a word; akaṇṭhya 'bad for the throat' is the negative of kaṇṭhya (in this list, 'madhukaṃ ...kaṇṭhya...'), like the next item 'ahṛdyānām'"
+       },
+       {
+        "src": "śoṣaghnastanyasātmyaraktasāṃgrāhikaraktapittaprapraśamanānām",
+        "suggest": "śoṣaghnastanyasātmyaraktasāṃgrāhikaraktapittapraśamanānām",
+        "why": "'prapraśamana' repeats pra; the list has 'praśamanānām' throughout (e.g. 'sāṃgrāhikaraktapittapraśamanānām')"
+       },
+       {
+        "src": "purūṣajananānāṃ",
+        "suggest": "purīṣajananānāṃ",
+        "why": "possible typo: purūṣa is not a word; purīṣa 'faeces' fits the series of '-jananānām' items for bodily products (mūtrajananānām just before)"
+       },
+       {
+        "src": "sukhvirecanānāṃ",
+        "suggest": "sukhavirecanānāṃ",
+        "why": "sukhv- is not a possible compound member; sukha 'easy' pairs with the following 'mṛduvirecanānāṃ' and 'tīkṣṇa...virecana'"
+       },
+       {
+        "src": "snukpayastīkṣṇāvirecananāṃ,",
+        "suggest": "snukpayastīkṣṇavirecanānāṃ,",
+        "why": "the member is tīkṣṇa (no long ā) and the genitive plural is -virecanānām, as in the parallel 'mṛduvirecanānāṃ' just before"
+       },
+       {
+        "src": "śiṛṣo",
+        "suggest": "śirīṣo",
+        "why": "śiṛṣo is not a word; śirīṣa is spelled so in P6 of this chunk ('śiṃśapāśirīṣavañjala')"
+       },
+       {
+        "src": "nirvāapaṇadīpanīyapācanīyacchardyatīsāraharāṇāṃ",
+        "suggest": "nirvāpaṇadīpanīyapācanīyacchardyatīsāraharāṇāṃ",
+        "why": "'vāa' is a doubled vowel; the word is spelled nirvāpaṇa later in this list ('dāhanirvāpaṇalepanānāṃ')"
+       },
+       {
+        "src": "sāṃgrāhikavātaharadīpanīyaśleṣamśoṇitavibandhapraśamanānāṃ,",
+        "suggest": "sāṃgrāhikavātaharadīpanīyaśleṣmaśoṇitavibandhapraśamanānāṃ,",
+        "why": "śleṣam is not a stem; śleṣma- is used throughout the list (e.g. 'śleṣmapittajananānāṃ')"
+       },
+       {
+        "src": "vṛsyasarvadoṣaharāṇāṃ",
+        "suggest": "vṛṣyasarvadoṣaharāṇāṃ",
+        "why": "vṛsya is a misspelling of vṛṣya 'aphrodisiac', spelled with ṣ in this list ('vṛṣyāṇāṃ', 'vṛṣyavātaharāṇāṃ')"
+       },
+       {
+        "src": "vṛsyodāvartaharānāṃ",
+        "suggest": "vṛṣyodāvartaharāṇāṃ",
+        "why": "vṛsya for vṛṣya as above; and after r the genitive ending is -āṇām (retroflex ṇ), as in every other '-harāṇāṃ' of the list"
+       },
+       {
+        "src": "cakṣuṣyavṛsyakeśyakaṇṭhyavarṇyavirajanīyaropaṇīyānāṃ",
+        "suggest": "cakṣuṣyavṛṣyakeśyakaṇṭhyavarṇyavirajanīyaropaṇīyānāṃ",
+        "why": "vṛsya for vṛṣya, as above"
+       },
+       {
+        "src": "agnirāmastambhaśītaśūodvepanapraśamanānāṃ",
+        "suggest": "agnirāmastambhaśītaśūlodvepanapraśamanānāṃ",
+        "why": "śūo is not a possible member; śūla 'pain' (as in 'pārśvaśūlaharāṇāṃ' of this list) gives śūlodvepana with regular sandhi"
+       },
+       {
+        "src": "mṛdbhṛṣṭaloṣṭrinirvāpitamudakaṃ",
+        "suggest": "mṛdbhṛṣṭaloṣṭanirvāpitamudakaṃ",
+        "why": "possible typo: loṣṭri is not a word; loṣṭa 'clod' fits 'water quenched with a heated clod of earth'"
+       },
+       {
+        "src": "dhīghṛtismṛtiharāṇāṃ",
+        "suggest": "dhīdhṛtismṛtiharāṇāṃ",
+        "why": "possible typo: ghṛti is not a word; dhṛti 'fortitude' fits between dhī 'intellect' and smṛti 'memory'"
+       },
+       {
+        "src": "prathyānāṃ",
+        "suggest": "pathyānāṃ",
+        "why": "prathya is not a word; pathyānām 'of the wholesome' is printed earlier in this list ('harītakī pathyānām')"
+       },
+       {
+        "src": "daumanasyamavrṣyāṇām",
+        "suggest": "daumanasyamavṛṣyāṇām",
+        "why": "'vrṣ' is a slip for the vowel ṛ; avṛṣya is the negative of 'vṛṣyāṇāṃ' printed just before"
+       },
+       {
+        "src": "garbhinī",
+        "suggest": "garbhiṇī",
+        "why": "after r in the same word the n of the feminine suffix becomes retroflex ṇ (garbhiṇī)"
+       },
+       {
+        "src": "niḥśaṃśayakarāṇāṃ",
+        "suggest": "niḥsaṃśayakarāṇāṃ",
+        "why": "śaṃśaya is a misspelling; the same phrase is printed 'niḥsaṃśayakarāṇām' later in this list"
+       }
+      ],
+      "n": "P3"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes: bracket sentence, identifications, count",
+     "problem": "(1) Bracket treatment follows the glossary rule now. (2) POLICY: species-level names (Terminalia chebula, Emblica, Piper longum, Ricinus, Acacia catechu, Cyperus, Embelia, Tinospora) dropped; disputed rāsnā and musta (glossary Sū 23: disputed musta dropped) and the unneeded khadira, viḍaṅga, amṛtā removed. (3) COUNT note added with the verified count (152 stated vs 151/153 as printed). (4) tantra decision recorded.",
+     "fix": "Prose list of the foremost things (agrya): each nominative is 'the best of' the group in the genitive plural (śreṣṭham is said once at the start). The two items in printed brackets, '(surā śramaharāṇāṃ)' and '(tindukamanannadravyarucikarāṇām)', are split as printed, glossed '(variant:)' and left out of the translations and the count. COUNT (reviewer-verified): as printed the list has 151 unbracketed 'X of Ys' pairs (153 with the two bracketed items), plus a second 'vaidyasamūho' (before 'vijñānamauṣadhīnāṃ') that has no genitive of its own; unit 41 states 152. That second vaidyasamūho repeats the word printed a few items earlier ('vaidyasamūho niḥśaṃśayakarāṇāṃ') and breaks the pattern; it is kept and translated as printed. Several groups recur as printed (śleṣmapittajananānām three times; vātaharāṇām, karśanīyānām, pathyānām, vṛṣyāṇām and niḥsaṃśayakarāṇām twice each); they are translated as printed. The two 'atiyoga' compounds ('śoṇitapittātiyoga', 'chardyatiyoga') are read as 'excess of'; 'and excessive action (atiyoga)' is also possible. 'stanyasātmya' is read as 'suitable as breast-milk'; 'suitable for those used to breast-milk' is also possible. 'madyākṣepa' is read as 'excessive indulgence in wine'; 'withdrawal of wine' is also possible. 'viṣamacikitsya' is read as 'treated with conflicting measures' (lit. 'irregularly treatable'). 'ekāśanabhojana' may also mean 'eating one food at a time'. rasa (after māṃsa) is kept as 'juice (rasa)'; whether meat-juice is meant is not stated. tantra in 'bastis tantrāṇām' = procedures (tantra): basti is ranked among therapeutic procedures, not treatises; the colophon's tantra (P12) stays 'treatise'. kuṣṭha after candana etc. is the drug, not the disease. Plant, animal and drug names are kept in Sanskrit. Common names (standard), in notes only: eraṇḍa = castor; pippalī = long pepper; āmalaka = Indian gooseberry; harītakī = chebulic myrobalan.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "notes",
+      "value": "Prose list of the foremost things (agrya): each nominative is 'the best of' the group in the genitive plural (śreṣṭham is said once at the start). The two items in printed brackets, '(surā śramaharāṇāṃ)' and '(tindukamanannadravyarucikarāṇām)', are split as printed, glossed '(variant:)' and left out of the translations and the count. COUNT (reviewer-verified): as printed the list has 151 unbracketed 'X of Ys' pairs (153 with the two bracketed items), plus a second 'vaidyasamūho' (before 'vijñānamauṣadhīnāṃ') that has no genitive of its own; unit 41 states 152. That second vaidyasamūho repeats the word printed a few items earlier ('vaidyasamūho niḥśaṃśayakarāṇāṃ') and breaks the pattern; it is kept and translated as printed. Several groups recur as printed (śleṣmapittajananānām three times; vātaharāṇām, karśanīyānām, pathyānām, vṛṣyāṇām and niḥsaṃśayakarāṇām twice each); they are translated as printed. The two 'atiyoga' compounds ('śoṇitapittātiyoga', 'chardyatiyoga') are read as 'excess of'; 'and excessive action (atiyoga)' is also possible. 'stanyasātmya' is read as 'suitable as breast-milk'; 'suitable for those used to breast-milk' is also possible. 'madyākṣepa' is read as 'excessive indulgence in wine'; 'withdrawal of wine' is also possible. 'viṣamacikitsya' is read as 'treated with conflicting measures' (lit. 'irregularly treatable'). 'ekāśanabhojana' may also mean 'eating one food at a time'. rasa (after māṃsa) is kept as 'juice (rasa)'; whether meat-juice is meant is not stated. tantra in 'bastis tantrāṇām' = procedures (tantra): basti is ranked among therapeutic procedures, not treatises; the colophon's tantra (P12) stays 'treatise'. kuṣṭha after candana etc. is the drug, not the disease. Plant, animal and drug names are kept in Sanskrit. Common names (standard), in notes only: eraṇḍa = castor; pippalī = long pepper; āmalaka = Indian gooseberry; harītakī = chebulic myrobalan.",
+      "n": "P3"
+     }
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "bhavanti cātra",
+     "problem": "'श्लोक' is supplied without brackets; glossary (Sū 19) renders the dual as 'और यहाँ दो (श्लोक) हैं:', so the plural takes the bracket too.",
+     "fix": "और यहाँ (श्लोक) हैं —",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "और यहाँ ये श्लोक हैं —",
+      "new": "और यहाँ (श्लोक) हैं —",
+      "n": "41"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Add the verified count (count mismatches go in notes only).",
+     "fix": "'bhavanti cātra' introduces the verses of units 41 to 47. 'śatam ... dvipañcāśaduttaram': a hundred exceeded by fifty-two, i.e. 152, referring to the list of the foremost (agrya) in P3. COUNT: P3 as printed has 151 unbracketed pairs (153 with its two bracketed items) plus a repeated 'vaidyasamūho' without a genitive; see P3.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "notes",
+      "value": "'bhavanti cātra' introduces the verses of units 41 to 47. 'śatam ... dvipañcāśaduttaram': a hundred exceeded by fifty-two, i.e. 152, referring to the list of the foremost (agrya) in P3. COUNT: P3 as printed has 151 unbracketed pairs (153 with its two bracketed items) plus a repeated 'vaidyasamūho' without a genitive; see P3.",
+      "n": "41"
+     }
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "and that is also declared to be excellence",
+     "problem": "English and Hindi take the second line differently (Hindi: two marks; English: one restated). 'ca api' most naturally adds a second item; make the English match the Hindi.",
+     "fix": "Among things that act alike, the mark of the best is declared to be superiority in producing the effect, and also excellence (varatva).",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "Among things that act alike, the mark of the best is declared to be superiority in producing the effect, and also excellence (varatva).",
+      "n": "42"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Updated to match the corrected English.",
+     "fix": "varatvam may also be read as restating jyāyastvam ('superiority in producing the effect, that is, excellence').",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "notes",
+      "value": "varatvam may also be read as restating jyāyastvam ('superiority in producing the effect, that is, excellence').",
+      "n": "42"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Glossary (Sū 20 ch1): a sentence running over verses is marked 'SENTENCE:'.",
+     "fix": "SENTENCE: continues in unit 44 ('having heard this ...').",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "notes",
+      "value": "SENTENCE: continues in unit 44 ('having heard this ...').",
+      "n": "43"
+     }
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "yadyaccoktaṃ",
+     "problem": "uktam goes with pathyam (\"is called wholesome\"), not with priyam (\"said to be pleasing\").",
+     "fix": "is called",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "uktam",
+      "field": "gloss",
+      "value": "is called",
+      "n": "45"
+     }
+    },
+    {
+     "field": "english",
+     "where": "what is said to be pleasing to the mind",
+     "problem": "uktam is attached to priyam; the verse defines pathya by two marks (patho 'napetam, manasaḥ priyam) with uktam as \"is called\", and pairs apriyam with apathyam the same way. The draft also leaves \"what is unpleasing and unwholesome\" without a predicate.",
+     "fix": "What does not depart from the path and what is pleasing to the mind is called wholesome (pathya); and what is unpleasing is unwholesome. One should not regard that as fixed.",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "What does not depart from the path and what is pleasing to the mind is called wholesome (pathya); and what is unpleasing is unwholesome. One should not regard that as fixed.",
+      "n": "45"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जो मन को प्रिय कहा गया है",
+     "problem": "Same construal error as the English.",
+     "fix": "जो पथ से अलग न हो और जो मन को प्रिय हो, वह पथ्य कहा गया है; और जो अप्रिय है, वह अपथ्य है। इसे नियत न समझे।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "जो पथ से अलग न हो और जो मन को प्रिय हो, वह पथ्य कहा गया है; और जो अप्रिय है, वह अपथ्य है। इसे नियत न समझे।",
+      "n": "45"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Rewritten for the corrected reading; the old alternative did not fit the words.",
+     "fix": "'patho 'napetam' plays on pathya 'wholesome' and pathin 'path'. uktam is taken with pathyam ('is called wholesome'); apriyam is paired with apathyam as priyam with pathyam. 'niyataṃ tan na lakṣayet': the distinction is not to be regarded as invariable, which leads into unit 46; tat may refer to the whole definition or only to its second half.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "notes",
+      "value": "'patho 'napetam' plays on pathya 'wholesome' and pathin 'path'. uktam is taken with pathyam ('is called wholesome'); apriyam is paired with apathyam as priyam with pathyam. 'niyataṃ tan na lakṣayet': the distinction is not to be regarded as invariable, which leads into unit 46; tat may refer to the whole definition or only to its second half.",
+      "n": "45"
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "low",
+     "problem": "The structure is clear once uktam is taken with pathyam (two parallel definitions + a caveat explained by unit 46); medium is honest, the remaining doubt is in notes.",
+     "fix": "medium",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "confidence",
+      "value": "medium",
+      "n": "45"
+     }
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "whole unit",
+     "problem": "MANUAL: prose line typed as a verse unit in the input (type 'verse', no metre). Layers are fine; the unit type is for a human to fix when units are rebuilt.",
+     "fix": "(no change to layers; mark the unit as prose)",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "punarapi",
+     "problem": "Hindi 'फिर भी' means 'nevertheless'; punar api here is 'again'.",
+     "fix": "फिर से भगवान्",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "फिर भी भगवान्",
+      "new": "फिर से भगवान्",
+      "n": "48"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "The Hindi भी of 'फिर भी' renders api.",
+     "problem": "Remove with the Hindi fix.",
+     "fix": "Prose passage numbered as a verse. Agniveśa's request continues in P4.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "notes",
+      "value": "Prose passage numbered as a verse. Agniveśa's request continues in P4.",
+      "n": "48"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "whole unit",
+     "problem": "MANUAL: prose line typed as a verse unit in the input (type 'verse', no metre). Layers are fine; the unit type is for a human to fix when units are rebuilt.",
+     "fix": "(no change to layers; mark the unit as prose)",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "śarkarānavamīkāḥ",
+     "problem": "'ये नौ हैं' (these are nine) is added; the text says only 'with sugar as the ninth'.",
+     "fix": "शर्करा नौवीं है।",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "शर्करा को नौवीं मानकर ये नौ हैं।",
+      "new": "शर्करा नौवीं है।",
+      "n": "49"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "yathāpathyatamānām",
+     "problem": "yathā is split as a word but not translated; the note even says it was 'taken' as one word, which the split does not do.",
+     "fix": "the most wholesome as appropriate (yathā).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the most wholesome ones.",
+      "new": "the most wholesome as appropriate (yathā).",
+      "n": "P5"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "yathāpathyatamānām",
+     "problem": "yathā not rendered.",
+     "fix": "यथायोग्य सबसे अधिक पथ्य चौरासी",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सबसे अधिक पथ्य चौरासी",
+      "new": "यथायोग्य सबसे अधिक पथ्य चौरासी",
+      "n": "P5"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Note contradicted the split; corrected.",
+     "fix": "yathā is printed joined to pathyatamānām and split as a separate word ('as appropriate'); it may also form one word with it. The f. loc. pl. tāsu ... aparisaṃkhyeyāsu agrees with āsavayonayaḥ (f.) of unit 49.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "notes",
+      "value": "yathā is printed joined to pathyatamānām and split as a separate word ('as appropriate'); it may also form one word with it. The f. loc. pl. tāsu ... aparisaṃkhyeyāsu agrees with āsavayonayaḥ (f.) of unit 49.",
+      "n": "P5"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "identifications; nali",
+     "problem": "POLICY: drop species names and unneeded entries (bilva, aśvattha, nyagrodha, khadira, arjuna, āmalaka); the conjecture \"nalina or nalinī may be meant\" has no basis inside the chunk.",
+     "fix": "Prose. The counts add up to 6 + 26 + 11 + 20 + 10 + 4 + 2 + 4 + 1 = 84, as P5 and P7 state; the names in each list match their counts as printed (reviewer-verified). 'nali' is kept as printed. In the sāra list, dhanvana and madhūka also occur in other lists, as printed. Plant names are kept in Sanskrit. Common names (standard), in notes only: kharjūra = date; mṛdvīkā = grape; badara = jujube; abhayā = harītakī (as in P3).",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "notes",
+      "value": "Prose. The counts add up to 6 + 26 + 11 + 20 + 10 + 4 + 2 + 4 + 1 = 84, as P5 and P7 state; the names in each list match their counts as printed (reviewer-verified). 'nali' is kept as printed. In the sāra list, dhanvana and madhūka also occur in other lists, as printed. Plant names are kept in Sanskrit. Common names (standard), in notes only: kharjūra = date; mṛdvīkā = grape; badara = jujube; abhayā = harītakī (as in P3).",
+      "n": "P6"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "caturaśītiḥ ... upanirdiṣṭā",
+     "problem": "'से बने' is bracketed in English but not Hindi; 'भेद' is added (the text has only 'eighty-four').",
+     "fix": "आसव-द्रव्यों (से बने) इन आसवों की चौरासी (संख्या) बताई गई है।",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "आसव-द्रव्यों से बने इन आसवों के चौरासी भेद बताए गए हैं।",
+      "new": "आसव-द्रव्यों (से बने) इन आसवों की चौरासी (संख्या) बताई गई है।",
+      "n": "P7"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "50",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "51",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "śarīrarogaprakṛtau",
+     "problem": "śarīra is 'body'; 'person' is an interpretation (and the Hindi already says शरीर).",
+     "fix": "on the origin of the body and of disease",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "śarīra-roga-prakṛtau",
+      "field": "gloss",
+      "value": "on the origin of the body and of disease",
+      "n": "51"
+     }
+    },
+    {
+     "field": "english",
+     "where": "śarīrarogaprakṛtau",
+     "problem": "English interprets śarīra as \"person\"; Hindi has शरीर; keep literal.",
+     "fix": "origin of the body and of disease",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "origin of the person and of disease",
+      "new": "origin of the body and of disease",
+      "n": "51"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "śarīra here stands for the person ...",
+     "problem": "Interpretation removed with the literal rendering.",
+     "fix": "Upajāti metre (11 syllables a quarter, checked). tattvena ('truly') may go with the whole verb phrase.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "notes",
+      "value": "Upajāti metre (11 syllables a quarter, checked). tattvena ('truly') may go with the whole verb phrase.",
+      "n": "51"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P12",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "3 errors, 47 minor (10 of them MANUAL unit-type notes, plus 1 MANUAL gloss on the bracketed (iti) in 39 without a patch). No regrouping. text_flags: 35 proposed, 34 kept (all cite evidence inside the chunk or grammar), 1 dropped (P3 second vaidyasamūho: no concrete correction; moved to notes). Plant identifications reduced to common names only (species, disputed jīvantī/rāsnā/musta and unneeded ones dropped). Printed brackets ((surā ...), (tinduka ...), (iti)) now glossed '(variant:)' and left out of both translations per glossary. P3: all 275 tokens checked; 151 unbracketed pairs (153 with brackets) + a repeated vaidyasamūho vs the stated 152, noted in P3/41. tantra in 'bastis tantrāṇām' kept as 'procedures (tantra)'; glossary line added. Unit 45 re-construed (uktam with pathyam), confidence low→medium. All layers remain unreviewed AI drafts."
+}
