@@ -1,0 +1,439 @@
+{
+ "units": [
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "rasāyanānām",
+     "problem": "Gender missing; rendered as an adjective with yogānām ('rejuvenative ... applications'), so it is m. gen. pl.",
+     "fix": "m. gen. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "word",
+      "match_w": "rasāyanānām",
+      "field": "gram",
+      "value": "m. gen. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(इन्द्रियाँ)",
+     "problem": "Bracketed gloss of a Sanskrit term in the Hindi (glossary: brackets only for an understood word, never a gloss); the referent 'organs' is not in the line (the draft's own note says so), and the feminine agreement follows the inserted word instead of m. karmātmānaḥ. Keep the Sanskrit term, masculine agreement.",
+     "fix": "किन्तु जब मन के थक जाने पर क्लम से युक्त कर्मात्मा अपने विषयों से हट जाते हैं, तब मनुष्य सोता है।",
+     "severity": "error",
+     "patch": {
+      "n": "35",
+      "op": "set",
+      "field": "hindi",
+      "value": "किन्तु जब मन के थक जाने पर क्लम से युक्त कर्मात्मा अपने विषयों से हट जाते हैं, तब मनुष्य सोता है।"
+     }
+    },
+    {
+     "field": "english",
+     "where": "those whose nature is action (the organs)",
+     "problem": "'(the organs)' adds a referent the line does not state; keep the term with its literal gloss, referent in notes only.",
+     "fix": "the karmātmans (those whose nature is action)",
+     "severity": "error",
+     "patch": {
+      "n": "35",
+      "op": "replace",
+      "field": "english",
+      "old": "those whose nature is action (the organs)",
+      "new": "the karmātmans (those whose nature is action)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "karma-ātmānaḥ",
+     "problem": "Gloss carries the unstated referent '(the organs)'.",
+     "fix": "those whose nature is action",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "word",
+      "match_w": "karma-ātmānaḥ",
+      "field": "gloss",
+      "value": "those whose nature is action"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "(a lingering poison)",
+     "problem": "Explanatory gloss not supported by the word and inconsistent with the unit's own note ('literally vitiating poison').",
+     "fix": "dūṣīviṣa (vitiating poison)",
+     "severity": "minor",
+     "patch": {
+      "n": "45",
+      "op": "replace",
+      "field": "english",
+      "old": "dūṣīviṣa (a lingering poison)",
+      "new": "dūṣīviṣa (vitiating poison)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हृदय का लिप्त-सा होना",
+     "problem": "'-सा' (as if) is an addition; pralepa is stated plainly.",
+     "fix": "हृदय का प्रलेप",
+     "severity": "minor",
+     "patch": {
+      "n": "46",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हृदय का लिप्त-सा होना",
+      "new": "हृदय का प्रलेप"
+     }
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "hita-ahitam",
+     "problem": "As a neuter samāhāra the word leaves svapnam (m. acc.) without construction, and the English has to invent 'in sleep'. The natural reading is a dvandva of adjectives in m. acc. sg. agreeing with svapnam: 'having understood sleep as wholesome and unwholesome'.",
+     "fix": "m. acc. sg., dvandva of adjectives, agreeing with svapnam",
+     "severity": "error",
+     "patch": {
+      "n": "49",
+      "op": "word",
+      "match_w": "hita-ahitam",
+      "field": "gram",
+      "value": "m. acc. sg., dvandva of adjectives, agreeing with svapnam"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "hita-ahitam",
+     "problem": "Follows the gram fix.",
+     "fix": "wholesome and unwholesome",
+     "severity": "minor",
+     "patch": {
+      "n": "49",
+      "op": "word",
+      "match_w": "hita-ahitam",
+      "field": "gloss",
+      "value": "wholesome and unwholesome"
+     }
+    },
+    {
+     "field": "english",
+     "where": "what is wholesome and unwholesome in sleep",
+     "problem": "'in sleep' renders an accusative as a locative; follows the gram fix.",
+     "fix": "sleep as wholesome and unwholesome",
+     "severity": "error",
+     "patch": {
+      "n": "49",
+      "op": "replace",
+      "field": "english",
+      "old": "what is wholesome and unwholesome in sleep",
+      "new": "sleep as wholesome and unwholesome"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "दिवास्वप्न / निद्रा में हितकर और अहितकर को",
+     "problem": "Hindi दिवास्वप्न means 'daydream' (the note itself warns divāsvapna is not dreaming); other units use दिन में सोना. Also follows the hitāhitam fix.",
+     "fix": "ये दिन में अहितकर सोने के सेवन से मनुष्यों में होते हैं; इसलिए बुद्धिमान व्यक्ति हितकर और अहितकर निद्रा को जानकर सुखपूर्वक सोए।",
+     "severity": "error",
+     "patch": {
+      "n": "49",
+      "op": "set",
+      "field": "hindi",
+      "value": "ये दिन में अहितकर सोने के सेवन से मनुष्यों में होते हैं; इसलिए बुद्धिमान व्यक्ति हितकर और अहितकर निद्रा को जानकर सुखपूर्वक सोए।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "hitāhitam may also be read ...",
+     "problem": "Note gives the reading now adopted as the alternative; reverse it.",
+     "fix": "End of the list begun in 46; the singular bhavet takes the whole list as subject. hitāhitam is read as an adjective dvandva agreeing with svapnam; a neuter samāhāra 'the wholesome and the unwholesome' is possible but leaves svapnam unconstrued. divāsvapna is day-sleep, not dreaming.",
+     "severity": "minor",
+     "patch": {
+      "n": "49",
+      "op": "set",
+      "field": "notes",
+      "value": "End of the list begun in 46; the singular bhavet takes the whole list as subject. hitāhitam is read as an adjective dvandva agreeing with svapnam; a neuter samāhāra 'the wholesome and the unwholesome' is possible but leaves svapnam unconstrued. divāsvapna is day-sleep, not dreaming."
+     }
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "53",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "54",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "pranaṣṭa -> praṇaṣṭāṃ",
+     "problem": "The suggestion wrongly retroflexes n (pra-√naś with ṣ keeps dental n, P. 8.4.36) and needlessly adds an anusvāra; the accusative leaves yā without a predicate (the note admits the result is 'loose'). The smaller correction pranaṣṭā (f. nom. sg.) agrees with yā and parses cleanly.",
+     "fix": "suggest: pranaṣṭā; why: Possible typing error: the printed short a leaves the participle without a case. Read praṇaṣṭā is wrong: pra + naṣ- keeps dental n (naśeḥ ṣāntasya, P. 8.4.36), so the printed n is correct. Lengthening alone gives pranaṣṭā (f. nom. sg.), agreeing with yā: a clean relative clause 'sleep, which is lost through a cause'. Syllable count unchanged.",
+     "severity": "error",
+     "patch": {
+      "n": "54",
+      "op": "set",
+      "field": "text_flags.1.suggest",
+      "value": "pranaṣṭā"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "text_flags[1].why",
+     "problem": "The 'why' asserts the wrong ṇ rule; restate.",
+     "fix": "Possible typing error: the printed short a leaves the participle without a case. Read praṇaṣṭā is wrong: pra + naṣ- keeps dental n (naśeḥ ṣāntasya, P. 8.4.36), so the printed n is correct. Lengthening alone gives pranaṣṭā (f. nom. sg.), agreeing with yā: a clean relative clause 'sleep, which is lost through a cause'. Syllable count unchanged.",
+     "severity": "error",
+     "patch": {
+      "n": "54",
+      "op": "set",
+      "field": "text_flags.1.why",
+      "value": "Possible typing error: the printed short a leaves the participle without a case. Read praṇaṣṭā is wrong: pra + naṣ- keeps dental n (naśeḥ ṣāntasya, P. 8.4.36), so the printed n is correct. Lengthening alone gives pranaṣṭā (f. nom. sg.), agreeing with yā: a clean relative clause 'sleep, which is lost through a cause'. Syllable count unchanged."
+     }
+    },
+    {
+     "field": "w",
+     "where": "praṇaṣṭām",
+     "problem": "Follows the flag fix.",
+     "fix": "pranaṣṭā",
+     "severity": "error",
+     "patch": {
+      "n": "54",
+      "op": "word",
+      "match_w": "praṇaṣṭām",
+      "field": "w",
+      "value": "pranaṣṭā"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "pranaṣṭā",
+     "problem": "Follows the flag fix.",
+     "fix": "ppp. f. nom. sg. pra-√naś, agreeing with yā",
+     "severity": "error",
+     "patch": {
+      "n": "54",
+      "op": "word",
+      "match_w": "praṇaṣṭām",
+      "field": "gram",
+      "value": "ppp. f. nom. sg. pra-√naś, agreeing with yā"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "'praṇaṣṭāṃ yā nimittataḥ' is loose",
+     "problem": "Follows the flag fix.",
+     "fix": "replace sentence",
+     "severity": "minor",
+     "patch": {
+      "n": "54",
+      "op": "replace",
+      "field": "notes",
+      "old": "'praṇaṣṭāṃ yā nimittataḥ' is loose: literally 'which (sleep) is lost through a cause'.",
+      "new": "'pranaṣṭā yā nimittataḥ' is a relative clause: 'which (sleep) is lost through a cause'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "56",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "57",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "constitution (prakṛti)",
+     "problem": "The note says prakṛti is 'left literal', but 'constitution' is the interpretive sense; literal is 'nature'.",
+     "fix": "nature (prakṛti)",
+     "severity": "minor",
+     "patch": {
+      "n": "57",
+      "op": "replace",
+      "field": "english",
+      "old": "constitution (prakṛti)",
+      "new": "nature (prakṛti)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "prakṛtiḥ",
+     "problem": "Same.",
+     "fix": "nature (prakṛti)",
+     "severity": "minor",
+     "patch": {
+      "n": "57",
+      "op": "word",
+      "match_w": "prakṛtiḥ",
+      "field": "gloss",
+      "value": "nature (prakṛti)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "58",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "59",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "60",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "61",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "62",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "in the Ślokasthāna",
+     "problem": "Glossary: Ślokasthāna = Śloka section (Ślokasthāna).",
+     "fix": "in the Śloka section (Ślokasthāna)",
+     "severity": "minor",
+     "patch": {
+      "n": "P4",
+      "op": "replace",
+      "field": "english",
+      "old": "in the Ślokasthāna",
+      "new": "in the Śloka section (Ślokasthāna)"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "9 errors, 10 minor, all with patches; no MANUAL items; no regrouping. 12 text_flags in the draft (not 13): all kept on in-chunk grammar/metre evidence (34 kāryāṇām, 41 divāsvapnaṃ: severan needs an object and sārvakālikam is acc.; 43 atisaṃkṣepād: printed form unparseable; 45 ca divā; 50 jāgaraṇaṃ; 51 samutthe + ca; 54 svāstīrṇaṃ: agreement with n. śayanam; 62 nidrā, aṣṭau (colophon P4 in chunk), vyājahāra); 54 pranaṣṭa flag corrected to pranaṣṭā (dental n is correct after pra- with naṣ). Judged ok as drafted: 36 nidrāyattam (m before s, a spelling, no flag), 52 sadadhi (bahuvrīhi with śālyannam, alternative in notes), 58 (no count stated; draft asserts none), 60 doṣāḥ ('the faults (doṣa)', Hindi दोष, alternative in notes). 31 māṣa black gram (standard) and 43 Grīṣma season note allowed by policy; no commentator/edition/memory notes found. Reviewed layers remain an unreviewed AI draft until read by a person."
+}
