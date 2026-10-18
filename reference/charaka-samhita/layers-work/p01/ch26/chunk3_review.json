@@ -1,0 +1,864 @@
+{
+ "units": [
+  {
+   "n": "57",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "so'varastyūbhayorapi",
+     "problem": "Flag accepted (possible): no sandhi of tu/ti + ubhayoḥ yields -tyū-; tu + ubhayoḥ = tūbhayoḥ; syllable weights unchanged (ras heavy either way).",
+     "fix": "keep",
+     "severity": "minor"
+    },
+    {
+     "field": "english",
+     "where": "And in heaviness",
+     "problem": "Leading 'And' has no word in line 1 (caiva joins lāghave); the ca of line 2 is already rendered.",
+     "fix": "In heaviness and in lightness, in both too,",
+     "severity": "minor",
+     "patch": {
+      "n": "57",
+      "op": "replace",
+      "field": "english",
+      "old": "And in heaviness and in lightness, in both too,",
+      "new": "In heaviness and in lightness, in both too,"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "और गुरुता",
+     "problem": "Leading और has no word in line 1, as in the English.",
+     "fix": "गुरुता तथा लघुता में,",
+     "severity": "minor",
+     "patch": {
+      "n": "57",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और गुरुता तथा लघुता में,",
+      "new": "गुरुता तथा लघुता में,"
+     }
+    }
+   ]
+  },
+  {
+   "n": "58",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "kaṭutiktakaṣāyāṇaṃ",
+     "problem": "Flag accepted: -āṇaṃ is no case form of an a-stem; gen. pl. -āṇām required by grammar (vipākaḥ ... of the tastes); syllable count and weights unchanged.",
+     "fix": "keep",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "स्वादु",
+     "problem": "Glossary (Sū 26 ch1): svādu as a taste name = sweet, Hindi मधुर.",
+     "fix": "मधुर मधुर रूप में",
+     "severity": "minor",
+     "patch": {
+      "n": "58",
+      "op": "replace",
+      "field": "hindi",
+      "old": "स्वादु मधुर रूप में",
+      "new": "मधुर मधुर रूप में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "59",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "vāta-mūtra-purīṣāṇām",
+     "problem": "Gender missing (dvandva takes the last member purīṣa, n.).",
+     "fix": "n. gen. pl., dvandva",
+     "severity": "minor",
+     "patch": {
+      "n": "59",
+      "op": "word",
+      "match_w": "vāta-mūtra-purīṣāṇām",
+      "field": "gram",
+      "value": "n. gen. pl., dvandva"
+     }
+    }
+   ]
+  },
+  {
+   "n": "60",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "vāta-viṭ-mūtra-retasām",
+     "problem": "Gender missing (last member retas, n.).",
+     "fix": "n. gen. pl., dvandva",
+     "severity": "minor",
+     "patch": {
+      "n": "60",
+      "op": "word",
+      "match_w": "vāta-viṭ-mūtra-retasām",
+      "field": "gram",
+      "value": "n. gen. pl., dvandva"
+     }
+    }
+   ]
+  },
+  {
+   "n": "61",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "62",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "63",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "observe it",
+     "problem": "'it' is an understood object; bracket it.",
+     "fix": "one should observe (it) in each (substance)",
+     "severity": "minor",
+     "patch": {
+      "n": "63",
+      "op": "replace",
+      "field": "english",
+      "old": "one should observe it in each (substance)",
+      "new": "one should observe (it) in each (substance)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उसे",
+     "problem": "Understood object goes in brackets.",
+     "fix": "में (उसे) पहचाने",
+     "severity": "minor",
+     "patch": {
+      "n": "63",
+      "op": "replace",
+      "field": "hindi",
+      "old": "में उसे पहचाने",
+      "new": "में (उसे) पहचाने"
+     }
+    }
+   ]
+  },
+  {
+   "n": "64",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "65",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "66",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "yāvat",
+     "problem": "With the ablative adhīvāsāt, yāvat means 'up to / throughout', not 'as long as' (a clause conjunction); the English 'for as long as (the substance) stays' is an acceptable free rendering and stays. Reading of 66 otherwise judged sound: medium confidence fits.",
+     "fix": "up to, throughout (with abl.)",
+     "severity": "minor",
+     "patch": {
+      "n": "66",
+      "op": "word",
+      "match_w": "yāvat",
+      "field": "gloss",
+      "value": "up to, throughout (with abl.)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "67",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "68",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "citraka: Plumbago zeylanica (standard).",
+     "problem": "POLICY: species names dropped; citraka needs no common name for the verse.",
+     "fix": "citraka and dantī kept Sanskrit.",
+     "severity": "minor",
+     "patch": {
+      "n": "68",
+      "op": "set",
+      "field": "notes",
+      "value": "citraka and dantī kept Sanskrit."
+     }
+    }
+   ]
+  },
+  {
+   "n": "69",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "ūrdhva-ānulomikam",
+     "problem": "'compound' is not a grammar label; it is an -ika derivative of a dvandva (vṛddhi on the second member).",
+     "fix": "n. nom. sg., derivative (-ika) of the dvandva ūrdhva-anuloma",
+     "severity": "minor",
+     "patch": {
+      "n": "69",
+      "op": "word",
+      "match_w": "ūrdhva-ānulomikam",
+      "field": "gram",
+      "value": "n. nom. sg., derivative (-ika) of the dvandva ūrdhva-anuloma"
+     }
+    }
+   ]
+  },
+  {
+   "n": "70",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "prabhāvākṛtaṃ",
+     "problem": "Judged: no flag is right. Metre does not decide (syllable 4 vā/va is free in an odd pāda; 5-7 kṛ-taṃ-te = ⏑ – – either way) and nothing in the chunk forces prabhāvakṛta; ā-kṛta 'formed, brought about' construes.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "71",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "72",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "73",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "74",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मधुर रस",
+     "problem": "रस is a supplied word (madhuraḥ alone); bracket it as in 58.",
+     "fix": "मधुर (रस) स्नेहन",
+     "severity": "minor",
+     "patch": {
+      "n": "74",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मधुर रस स्नेहन",
+      "new": "मधुर (रस) स्नेहन"
+     }
+    }
+   ]
+  },
+  {
+   "n": "75",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "declare it ... tasting it",
+     "problem": "Both 'it's are understood words; bracket them.",
+     "fix": "one should, just on tasting (it), declare (it) the sour taste.",
+     "severity": "minor",
+     "patch": {
+      "n": "75",
+      "op": "replace",
+      "field": "english",
+      "old": "one should declare it the sour taste just on tasting it.",
+      "new": "one should, just on tasting (it), declare (it) the sour taste."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उसे",
+     "problem": "Understood object goes in brackets.",
+     "fix": "चखकर ही (उसे) अम्ल रस कहे।",
+     "severity": "minor",
+     "patch": {
+      "n": "75",
+      "op": "replace",
+      "field": "hindi",
+      "old": "चखकर ही उसे अम्ल रस कहे।",
+      "new": "चखकर ही (उसे) अम्ल रस कहे।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "76",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kleda",
+     "problem": "Glossary: kleda = moistness, not 'excess moisture'.",
+     "fix": "moistness, liquefaction and softness",
+     "severity": "minor",
+     "patch": {
+      "n": "76",
+      "op": "word",
+      "match_w": "kleda-viṣyanda-mārdavam",
+      "field": "gloss",
+      "value": "moistness, liquefaction and softness"
+     }
+    },
+    {
+     "field": "english",
+     "where": "excess moisture (kleda)",
+     "problem": "Glossary: kleda = moistness.",
+     "fix": "moistness (kleda)",
+     "severity": "minor",
+     "patch": {
+      "n": "76",
+      "op": "replace",
+      "field": "english",
+      "old": "excess moisture (kleda)",
+      "new": "moistness (kleda)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "kleda = excess moisture",
+     "problem": "Contradicts the glossary rendering; remove.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "76",
+      "op": "replace",
+      "field": "notes",
+      "old": " kleda = excess moisture.",
+      "new": ""
+     }
+    }
+   ]
+  },
+  {
+   "n": "77",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "rasānāṃ",
+     "problem": "Judged: no flag, as drafted. The parallels rasanaṃ (78, 79) are neuter, so they would point to rasanaṃ, not rasanāṃ; metre allows both (yo ra sā = – ⏑ – ra-vipulā; ra sa = – ⏑ ⏑ bha-vipulā) and the printed partitive genitive construes. The note already gives the alternative.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "78",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "refreshment",
+     "problem": "'refreshment' is interpretive; the note gives 'gladdening' as literal, and 74 renders āhlāda 'delighting'. Use the literal word.",
+     "fix": "gladdening (prahlāda)",
+     "severity": "minor",
+     "patch": {
+      "n": "78",
+      "op": "replace",
+      "field": "english",
+      "old": "refreshment (prahlāda)",
+      "new": "gladdening (prahlāda)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "prahlāda",
+     "problem": "Match the English.",
+     "fix": "producing non-sliminess of the mouth, dryness and gladdening",
+     "severity": "minor",
+     "patch": {
+      "n": "78",
+      "op": "word",
+      "match_w": "mukha-vaiśadya-śoṣa-prahlāda-kārakaḥ",
+      "field": "gloss",
+      "value": "producing non-sliminess of the mouth, dryness and gladdening"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "prahlāda note",
+     "problem": "Redundant once the English uses the literal word.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "78",
+      "op": "replace",
+      "field": "notes",
+      "old": " prahlāda, literally 'gladdening'.",
+      "new": ""
+     }
+    }
+   ]
+  },
+  {
+   "n": "79",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "vikāsyapi",
+     "problem": "Judged: split vikāsī + api and the reading are sound; sense of vikāsin left open in notes, medium confidence honest.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "80",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "unit type",
+     "problem": "MANUAL: prose passage typed as a verse unit (type 'verse', numbered as a verse); the unit type/numbering must be corrected in the unit build, not in the layers. Layers themselves are fine as prose.",
+     "fix": "MANUAL (no layer patch)",
+     "severity": "minor"
+    },
+    {
+     "field": "english",
+     "where": "of yours",
+     "problem": "'of yours' is added; bhagavataḥ alone = of the venerable one (respectful third person).",
+     "fix": "this true speech of the venerable one, endowed",
+     "severity": "minor",
+     "patch": {
+      "n": "80",
+      "op": "replace",
+      "field": "english",
+      "old": "this true speech of yours, the venerable one's, endowed",
+      "new": "this true speech of the venerable one, endowed"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "विरोधी",
+     "problem": "Hindi keeps the Sanskrit term vairodhika (वैरोधिक); विरोधी means hostile/opposing (new glossary line).",
+     "fix": "परन्तु आगे हम वैरोधिक आहार-विकारों",
+     "severity": "minor",
+     "patch": {
+      "n": "80",
+      "op": "replace",
+      "field": "hindi",
+      "old": "परन्तु आगे हम विरोधी आहार-विकारों",
+      "new": "परन्तु आगे हम वैरोधिक आहार-विकारों"
+     }
+    }
+   ]
+  },
+  {
+   "n": "81",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "unit type",
+     "problem": "MANUAL: prose passage typed as a verse unit (type 'verse', numbered as a verse); the unit type/numbering must be corrected in the unit build, not in the layers. Layers themselves are fine as prose.",
+     "fix": "MANUAL (no layer patch)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "82",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "unit type",
+     "problem": "MANUAL: prose passage typed as a verse unit (type 'verse', numbered as a verse); the unit type/numbering must be corrected in the unit build, not in the layers. Layers themselves are fine as prose.",
+     "fix": "MANUAL (no layer patch)",
+     "severity": "minor"
+    },
+    {
+     "field": "text_flags",
+     "where": "śītoṣṇatvādviruddhavīryā",
+     "problem": "Flag rejected: viruddhavīryā is regular sandhi of viruddhavīryāḥ (m. nom. pl.; -āḥ loses visarga before voiced v), the two things (fish and milk) construed as a plural. No grammatical error, so no flag.",
+     "fix": "[]",
+     "severity": "error",
+     "patch": {
+      "n": "82",
+      "op": "set",
+      "field": "text_flags",
+      "value": []
+     }
+    },
+    {
+     "field": "w",
+     "where": "viruddha-vīryam",
+     "problem": "The split must follow the printed form, not the rejected suggestion.",
+     "fix": "viruddha-vīryāḥ",
+     "severity": "error",
+     "patch": {
+      "n": "82",
+      "op": "word",
+      "match_w": "viruddha-vīryam",
+      "field": "w",
+      "value": "viruddha-vīryāḥ"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "viruddha-vīryāḥ",
+     "problem": "Apply after the w patch: m. nom. pl.",
+     "fix": "m. nom. pl., bahuvrīhi",
+     "severity": "error",
+     "patch": {
+      "n": "82",
+      "op": "word",
+      "match_w": "viruddha-vīryāḥ",
+      "field": "gram",
+      "value": "m. nom. pl., bahuvrīhi"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "ubhayam",
+     "problem": "Explain the plural.",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "n": "82",
+      "op": "append_note",
+      "text": "viruddhavīryā = viruddhavīryāḥ (m. nom. pl., visarga dropped before v): the two things (fish and milk) are construed as a plural; the printed form is kept, no flag."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "विरोधी",
+     "problem": "Hindi keeps vairodhika as वैरोधिक (as in 80).",
+     "fix": "उनमें से वैरोधिक के विषय में",
+     "severity": "minor",
+     "patch": {
+      "n": "82",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उनमें से विरोधी के विषय में",
+      "new": "उनमें से वैरोधिक के विषय में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "83",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "unit type",
+     "problem": "MANUAL: prose passage typed as a verse unit (type 'verse', numbered as a verse); the unit type/numbering must be corrected in the unit build, not in the layers. Layers themselves are fine as prose.",
+     "fix": "MANUAL (no layer patch)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "84",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "unit type",
+     "problem": "MANUAL: prose passage typed as a verse unit (type 'verse', numbered as a verse); the unit type/numbering must be corrected in the unit build, not in the layers. Layers themselves are fine as prose.",
+     "fix": "MANUAL (no layer patch)",
+     "severity": "minor"
+    },
+    {
+     "field": "text_flags",
+     "where": "matsyānn apayasā",
+     "problem": "Flag accepted: in-chunk evidence (neti answers 83; viśeṣatas tu cilicimaṃ needs a negative) and grammar.",
+     "fix": "keep",
+     "severity": "minor",
+     "patch": {
+      "n": "84",
+      "op": "append_note",
+      "text": "The printed -ānn before a vowel is itself no possible sandhi (n is doubled only after a short vowel), which supports the re-division matsyān na payasā."
+     }
+    }
+   ]
+  },
+  {
+   "n": "P18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "mūlakaṣisair",
+     "problem": "Flag accepted (possible): kaṣisa is no Sanskrit word; one-akṣara change (Devanagari ष/ब) gives bisa, a food fitting the list; prose, so no metre.",
+     "fix": "keep",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "species names",
+     "problem": "POLICY: common names only; species names dropped.",
+     "fix": "māṣa = black gram; mūlaka = radish.",
+     "severity": "minor",
+     "patch": {
+      "n": "P18",
+      "op": "replace",
+      "field": "notes",
+      "old": "māṣa = black gram (Vigna mungo, standard); mūlaka = radish (Raphanus sativus, standard).",
+      "new": "māṣa = black gram; mūlaka = radish."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "kala",
+     "problem": "Judged: kala is an adjective and cannot stand alone in a dvandva of abstract nouns; the note should say how the split is meant. Translation may stay.",
+     "fix": "kala-mūkatā: -tā is read over kala-mūka ('indistinctness of speech and dumbness'); it may also be one item ('inarticulate dumbness'); uncertain. maiṇmiṇya is one word (aiṇmiṇya would be none), so mūkatā stays inside the compound.",
+     "severity": "minor",
+     "patch": {
+      "n": "P18",
+      "op": "replace",
+      "field": "notes",
+      "old": "kala in kala-mūkatā is read as 'indistinct (speech)'; uncertain.",
+      "new": "kala-mūkatā: -tā is read over kala-mūka ('indistinctness of speech and dumbness'); it may also be one item ('inarticulate dumbness'); uncertain. maiṇmiṇya is one word (aiṇmiṇya would be none), so mūkatā stays inside the compound."
+     }
+    }
+   ]
+  },
+  {
+   "n": "P19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "sarṣapatailabhraṣṭān",
+     "problem": "Flag accepted: in-chunk evidence (sarṣapatailabhṛṣṭo P25, paribhṛṣṭā P28); bhraṣṭa (√bhraṃś) 'fallen' gives no sense.",
+     "fix": "keep",
+     "severity": "minor"
+    },
+    {
+     "field": "split",
+     "where": "śoṇitābhiṣyanda... dhamanīpravicaya",
+     "problem": "Judged: item split (śoṇitābhiṣyanda one item, dhamanīpravicaya one item) is sound; alternative already in notes.",
+     "fix": "keep",
+     "severity": "minor"
+    },
+    {
+     "field": "gram",
+     "where": "anyatamam",
+     "problem": "Gender missing.",
+     "fix": "n. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "P19",
+      "op": "word",
+      "match_w": "anyatamam",
+      "field": "gram",
+      "value": "n. acc. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "P20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "species names",
+     "problem": "POLICY: common names only; species names dropped.",
+     "fix": "laśuna = garlic; mūlaka = radish.",
+     "severity": "minor",
+     "patch": {
+      "n": "P20",
+      "op": "replace",
+      "field": "notes",
+      "old": "laśuna = garlic (Allium sativum, standard); mūlaka = radish (standard).",
+      "new": "laśuna = garlic; mūlaka = radish."
+     }
+    },
+    {
+     "field": "english",
+     "where": "surasā",
+     "problem": "Glossary: drug names keep the printed spelling (surasa); the long form only in notes.",
+     "fix": "sumukha, surasa and the like",
+     "severity": "minor",
+     "patch": {
+      "n": "P20",
+      "op": "replace",
+      "field": "english",
+      "old": "sumukha, surasā and the like",
+      "new": "sumukha, surasa and the like"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सुरसा",
+     "problem": "Printed spelling kept, as in the English.",
+     "fix": "सुमुख, सुरस आदि",
+     "severity": "minor",
+     "patch": {
+      "n": "P20",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सुमुख, सुरसा आदि",
+      "new": "सुमुख, सुरस आदि"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "surasa",
+     "problem": "Printed spelling kept.",
+     "fix": "mūlaka, laśuna, kṛṣṇagandhā, arjaka, sumukha, surasa and the like",
+     "severity": "minor",
+     "patch": {
+      "n": "P20",
+      "op": "word",
+      "match_w": "mūlaka-laśuna-kṛṣṇagandhā-arjaka-sumukha-surasa-ādīni",
+      "field": "gloss",
+      "value": "mūlaka, laśuna, kṛṣṇagandhā, arjaka, sumukha, surasa and the like"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "surasa note",
+     "problem": "States as fact what is an inference; soften.",
+     "fix": "surasa is the printed form, possibly surasā with the feminine shortened in a name inside the compound; kept as printed.",
+     "severity": "minor",
+     "patch": {
+      "n": "P20",
+      "op": "replace",
+      "field": "notes",
+      "old": "surasa stands for surasā inside the compound.",
+      "new": "surasa is the printed form, possibly surasā with the feminine shortened in a name inside the compound; kept as printed."
+     }
+    }
+   ]
+  },
+  {
+   "n": "P21",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "vīrya",
+     "problem": "vīrya = virility here is right (new glossary line).",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "P22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "Nineteen fruits",
+     "problem": "akṣoḍa etc. need not be fruits in the strict sense; the text says dravyāṇi. Count verified: 19.",
+     "fix": "Nineteen items are named.",
+     "severity": "minor",
+     "patch": {
+      "n": "P22",
+      "op": "replace",
+      "field": "notes",
+      "old": "Nineteen fruits are named.",
+      "new": "Nineteen items are named."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "Phyllanthus emblica",
+     "problem": "POLICY: species names dropped; common names only where needed.",
+     "fix": "Common names: āmra = mango, badara = jujube, dāḍima = pomegranate, nālikera = coconut; the rest are kept Sanskrit.",
+     "severity": "minor",
+     "patch": {
+      "n": "P22",
+      "op": "replace",
+      "field": "notes",
+      "old": "Identifications (standard): āmra = mango, badara = jujube, dāḍima = pomegranate, nālikera = coconut, āmalaka = Phyllanthus emblica; the rest are kept Sanskrit.",
+      "new": "Common names: āmra = mango, badara = jujube, dāḍima = pomegranate, nālikera = coconut; the rest are kept Sanskrit."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "विरोधी",
+     "problem": "vairodhikatva: Hindi keeps the term (वैरोधिक), as in 80 and 82.",
+     "fix": "वैरोधिक होने के कारण",
+     "severity": "minor",
+     "patch": {
+      "n": "P22",
+      "op": "replace",
+      "field": "hindi",
+      "old": "विरोधी होने के कारण",
+      "new": "वैरोधिक होने के कारण"
+     }
+    },
+    {
+     "field": "split",
+     "where": "māṣasūpa",
+     "problem": "Judged: one item (soup of māṣa) is the natural reading; alternative already in notes.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "P23",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "vanaka",
+     "problem": "Judged: no flag is right (no evidence in the chunk); printed vanaka kept.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "P24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P28",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Reviewed 39 units. Fixes: 3 error, 39 minor (patches given); 12 judgements recorded with no change. text_flags: 5 of 6 accepted (57 so'varastyū→-stū possible, 58 -āṇaṃ→-āṇāṃ, 84 matsyānn apayasā→matsyān na payasā, P18 kaṣisa→bisa possible, P19 bhraṣṭa→bhṛṣṭa); 82 viruddhavīryā rejected (regular sandhi of m. nom. pl. viruddhavīryāḥ): flag removed and split corrected. Unresolved judged: 77 rasānāṃ kept (no flag), 70 prabhāvākṛta kept, 66 reading sound (yāvat gloss fixed), 79 sound, P18 kala note clarified, P23 vanaka kept, P19/P22 item splits kept. Plant notes: species names dropped (68, P18, P20, P22), common names only. Hindi vairodhika = वैरोधिक (80, 82, P22). MANUAL: units 80-84 are prose typed as verse units (fix unit type/numbering in the unit build). No regrouping suggested. Layers remain unreviewed AI drafts until read by a person."
+}
