@@ -1,0 +1,139 @@
+[
+ {
+  "n": "201",
+  "field": "notes",
+  "old": "Upajāti metre (line 1: Upendravajrā + Indravajrā; line 2: Indravajrā); the weights fit as printed. 'The vessels stated' refers to vessels named earlier in the text, not in this chunk.",
+  "new": "Upajāti metre (line 1: Upendravajrā + Indravajrā; line 2: Upendravajrā in both quarters); the weights fit as printed. 'The vessels stated' refers to vessels named earlier in the text, not in this chunk.",
+  "why": "reviewer (minor): Metre misstated. Line 2 scans ta dain dra mit tye va | va dan ti dhī rā = ⏑–⏑––⏑⏑–⏑–– and na ren dra pe yaṃ | sa li laṃ pra dhā nam = ⏑–⏑––⏑⏑–⏑––: both quarters are Upendravajrā (light 1st syllable). Line 1 (Upendravajrā + Indravajrā) is right."
+ },
+ {
+  "n": "216",
+  "field": "hindi",
+  "old": "जो जल वरुणालय का है, वह विस्र, त्रिदोषकारक और लवण होता है। इस प्रकार यह आठवाँ, भली-भाँति निश्चित, जलवर्ग कहा गया।",
+  "new": "जो जल वरुणालय का है, वह विस्र, त्रिदोषकारक और लवण होता है। इस प्रकार यह आठवाँ, भली-भाँति निश्चित, अम्बुवर्ग कहा गया।",
+  "why": "reviewer (minor): The printed word is ambuvargaḥ; Hindi keeps the printed term (as शाकवर्ग, मद्यवर्ग)."
+ },
+ {
+  "n": "225",
+  "field": "word.gloss",
+  "word": "rocanam",
+  "old": "promoting relish",
+  "new": "appetizing",
+  "why": "reviewer (minor): Glossary (Sū 27 ch2, applied in chunk 5): rocana = appetizing (rocana), Hindi रुचिकारक."
+ },
+ {
+  "n": "225",
+  "field": "english",
+  "old": "Curd (dadhi) promotes relish (rocana), stimulates digestion, is aphrodisiac, oleating, increases strength, is sour in vipāka, hot, Vāta-destroying, auspicious and nourishing.",
+  "new": "Curd (dadhi) is appetizing (rocana), stimulates digestion, is aphrodisiac, oleating, increases strength, is sour in vipāka, hot, Vāta-destroying, auspicious and nourishing.",
+  "why": "reviewer (minor): Fixed rendering rocana = appetizing."
+ },
+ {
+  "n": "225",
+  "field": "hindi",
+  "old": "दही रोचन, दीपन, वृष्य, स्नेहन, बल बढ़ाने वाला, पाक में अम्ल, उष्ण, वात का नाशक, मङ्गल्य और बृंहण है।",
+  "new": "दही रुचिकारक, दीपन, वृष्य, स्नेहन, बल बढ़ाने वाला, पाक में अम्ल, उष्ण, वात का नाशक, मङ्गल्य और बृंहण है।",
+  "why": "reviewer (minor): Fixed Hindi रुचिकारक."
+ },
+ {
+  "n": "228",
+  "field": "notes",
+  "old": "mandaka, sara and maṇḍa are stages or parts of curd (dadhi) and are kept Sanskrit; the glosses are literal ('slow/weak', 'flowing/upper part', 'liquid part'). tridoṣa is taken as 'provoking all three doṣas', as in 216. The commas are printed and left out of the split.",
+  "new": "mandaka, sara and maṇḍa are stages or parts of curd (dadhi) and are kept Sanskrit; mandaka is glossed 'not fully set' from its contrast with jātam 'formed' in the same line (literally 'slow, weak'); sara ('flowing', the upper part) and maṇḍa ('the liquid part') are given their plain word senses. tridoṣa is taken as 'provoking all three doṣas', as in 216. The commas are printed and left out of the split.",
+  "why": "reviewer (minor): The note calls the glosses literal, but 'curd not fully set' and 'upper layer' are not literal senses. State the actual basis (contrast with jātam in the same line; plain word senses)."
+ },
+ {
+  "n": "229",
+  "field": "word.gram",
+  "word": "śopha-arśaḥ-grahaṇī-doṣa-mūtra-graha-udara-arucau",
+  "old": "f. loc. sg., dvandva (last member aruci)",
+  "new": "f. loc. sg., samāhāra dvandva (printed feminine of aruci kept)",
+  "why": "reviewer (minor): Glossary (Sū 27 ch5): a one-token singular dvandva ending in a feminine member (-arucau) is labelled samāhāra keeping the printed feminine."
+ },
+ {
+  "n": "233",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "madāpasmāramūrcchsāyaśoṣonmādagarajvarān",
+    "suggest": "madāpasmāramūrcchāyaśoṣonmādagarajvarān",
+    "why": "'mūrcchsāya' is not a word and 'rcchs' is not a possible cluster here; the list of disorders (mada, apasmāra ...) needs mūrcchāya (stray s); syllable count is the same (16)"
+   }
+  ],
+  "new": [
+   {
+    "src": "madāpasmāramūrcchsāyaśoṣonmādagarajvarān",
+    "suggest": "madāpasmāramūrcchāyaśoṣonmādagarajvarān",
+    "why": "grammar: 'mūrcchsāya' is not a word and 'rcchs' is not a possible cluster; the list of disorders (mada, apasmāra, śoṣa, unmāda ...) needs mūrcchāya (stray s). Metre does not object: 16 syllables either way; cchsā/cchā are heavy by the long ā, so pāda a ma-dā-pa-smā | ra-mūr-cchā-ya keeps syllables 5-7 = ⏑ – – (pathyā)."
+   }
+  ],
+  "why": "reviewer (minor): Flag accepted (grammar/phonotactics). The 'why' cited only the syllable count; rewritten with weights."
+ },
+ {
+  "n": "234",
+  "field": "english",
+  "old": "One should declare the ghees, each of its own (animal), to be like the milk of goat, sheep and she-buffalo. Pīyūṣa and moraṭa, and the various kilāṭas which (there are),",
+  "new": "One should declare (their) own ghees to be like the milk of goat, sheep and she-buffalo (each like its own milk). Pīyūṣa and moraṭa, and the various kilāṭas which (there are),",
+  "why": "reviewer (minor): svāni agrees with sarpīṃṣi ('their own ghees'); 'each of its own (animal)' misplaces it and reads awkwardly. Align with the Hindi."
+ },
+ {
+  "n": "235",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "dīpatāgnīnāmanidrāṇāṃ",
+    "suggest": "dīptāgnīnāmanidrāṇāṃ",
+    "why": "metre: the first quarter has 9 syllables as printed (dī-pa-tā-gnī-nā-ma-ni-drā-ṇāṃ), 8 with dīpta; 'dīpata' is not a word, dīpta 'blazing' gives 'those with intense digestive fire'"
+   }
+  ],
+  "new": [
+   {
+    "src": "dīpatāgnīnāmanidrāṇāṃ",
+    "suggest": "dīptāgnīnāmanidrāṇāṃ",
+    "why": "metre: the first quarter has 9 syllables as printed (dī-pa-tā-gnī-nā-ma-ni-drā-ṇāṃ), 8 with dīpta: dīp-tā-gnī-nā | ma-ni-drā-ṇāṃ, syllables 5-7 = ⏑ – – (ni heavy before dr; pathyā). Grammar: 'dīpata' is not a word; dīpta 'blazing' gives 'those with intense digestive fire'."
+   }
+  ],
+  "why": "reviewer (minor): Flag accepted (metre + grammar). Added the syllable weights of the corrected quarter."
+ },
+ {
+  "n": "237",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "athokṣuvargaḥ---",
+    "suggest": "athekṣuvargaḥ---",
+    "why": "'okṣu' is not a word; atha + ikṣu gives athekṣu, and the same unit names the sugarcane as ikṣoḥ (line 2); syllable count is the same"
+   }
+  ],
+  "new": [
+   {
+    "src": "athokṣuvargaḥ---",
+    "suggest": "athekṣuvargaḥ---",
+    "why": "'okṣu' is not a word; atha + ikṣu gives athekṣu (a + i = e), and the same unit names the sugarcane as ikṣoḥ (line 2). The heading stands outside the metre, so metre does not decide."
+   }
+  ],
+  "why": "reviewer (minor): Flag accepted: a typed heading, outside the metre (line without it = 8+8); evidence ikṣoḥ in the same unit and sandhi. The 'syllable count' remark is irrelevant for a heading; reworded."
+ },
+ {
+  "n": "237",
+  "field": "english",
+  "old": "Now the group of sugarcane (ikṣu): the juice of sugarcane that is chewed is aphrodisiac, cold, laxative (sara), unctuous, nourishing, sweet and increases Kapha; but (the juice) from the press (yāntrika) turns burning (vidahyate).",
+  "new": "Now the group of sugarcane (ikṣu): the juice of sugarcane that is chewed is aphrodisiac, cold, laxative (sara), unctuous, nourishing, sweet and increases Kapha; but (the juice) from the press (yāntrika) undergoes burning (vidāha).",
+  "why": "reviewer (minor): vidahyate is passive/intransitive ('undergoes burning'), as the note says; bracket the noun vidāha, not the verb."
+ },
+ {
+  "n": "237",
+  "field": "hindi",
+  "old": "अब इक्षुवर्ग — चबाए हुए ईख का रस वृष्य, शीत, सर, स्निग्ध, बृंहण, मधुर और श्लेष्मल होता है; परन्तु यन्त्र से निकाला हुआ (रस) विदाह करता है।",
+  "new": "अब इक्षुवर्ग — चबाए हुए ईख का रस वृष्य, शीत, सर, स्निग्ध, बृंहण, मधुर और श्लेष्मल होता है; परन्तु यन्त्र से निकाला हुआ (रस) विदाह को प्राप्त होता है।",
+  "why": "reviewer (minor): 'करता है' makes it causative ('causes burning'); the verb is passive."
+ },
+ {
+  "n": "237",
+  "field": "word.gloss",
+  "word": "vidahyate",
+  "old": "turns burning",
+  "new": "undergoes burning (vidāha)",
+  "why": "reviewer (minor): Align gloss with the passive sense."
+ }
+]

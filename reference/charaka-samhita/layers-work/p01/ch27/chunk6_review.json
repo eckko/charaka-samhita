@@ -1,0 +1,512 @@
+{
+ "units": [
+  {
+   "n": "200",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kāram",
+     "problem": "Judged: kāra taken as hail beside aindra (rain, 201) and hima (snow); the note says honestly the chunk does not explain the word. Accepted.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "201",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "line 2: Indravajrā",
+     "problem": "Metre misstated. Line 2 scans ta dain dra mit tye va | va dan ti dhī rā = ⏑–⏑––⏑⏑–⏑–– and na ren dra pe yaṃ | sa li laṃ pra dhā nam = ⏑–⏑––⏑⏑–⏑––: both quarters are Upendravajrā (light 1st syllable). Line 1 (Upendravajrā + Indravajrā) is right.",
+     "fix": "line 2: Upendravajrā in both quarters",
+     "severity": "minor",
+     "patch": {
+      "n": "201",
+      "op": "replace",
+      "field": "notes",
+      "old": "line 2: Indravajrā",
+      "new": "line 2: Upendravajrā in both quarters"
+     }
+    }
+   ]
+  },
+  {
+   "n": "202",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "203",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "ladhvanabhiṣyandi",
+     "problem": "Flag accepted: 'ladhu' is no word; evidence inside the chunk (guru/laghu pair in this line, laghu 202, laghutaraṃ 205); dh/gh swap leaves the weights unchanged.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "204",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "205",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "206",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "207",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "english",
+     "where": "leads to harm (doṣa)",
+     "problem": "Judged: doṣāya yujyate 'is joined to doṣa' rendered 'leads to harm (doṣa)', with the bodily-doṣa reading in notes. Fair; Hindi दोष के लिए होता है is literal. Accepted.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "208",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "209",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "210",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "211",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "212",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "213",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "split",
+     "where": "vasudhā-kīṭa / samīraṇāḥ",
+     "problem": "Judged: vasudhā as its own list member (earth, i.e. soil) with the 'earth-insects' alternative in notes; no identification given. samīraṇa here is an agent noun of sam-√īr 'stirring up' (said of rivers), correctly not Vāta (glossary samīraṇa = Vāta applies to the doṣa noun). Accepted.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "214",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "215",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "216",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "tri-doṣam",
+     "problem": "Judged: 'provoking the three doṣas' (Hindi त्रिदोषकारक) matches earlier final chunks (\"causing aggravation of the three doṣas\"), literal sense noted. Accepted; same in 228.",
+     "fix": "keep",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "जलवर्ग",
+     "problem": "The printed word is ambuvargaḥ; Hindi keeps the printed term (as शाकवर्ग, मद्यवर्ग).",
+     "fix": "अम्बुवर्ग",
+     "severity": "minor",
+     "patch": {
+      "n": "216",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जलवर्ग",
+      "new": "अम्बुवर्ग"
+     }
+    }
+   ]
+  },
+  {
+   "n": "217",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "split",
+     "where": "atha gorasavargaḥ---",
+     "problem": "Heading typed into the verse line handled per glossary (Sū 27 ch3-5): split atha + go-rasa-vargaḥ, dashes out of w, 'Now the group of milk products (gorasa):' as in 166/196 finals; line without it = 8+8. The ten qualities count correctly (ślakṣṇa and picchila separate).",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "218",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "219",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "220",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "221",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "222",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "223",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "224",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "225",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "rocanam",
+     "problem": "Glossary (Sū 27 ch2, applied in chunk 5): rocana = appetizing (rocana), Hindi रुचिकारक.",
+     "fix": "appetizing",
+     "severity": "minor",
+     "patch": {
+      "n": "225",
+      "op": "word",
+      "match_w": "rocanam",
+      "field": "gloss",
+      "value": "appetizing"
+     }
+    },
+    {
+     "field": "english",
+     "where": "promotes relish (rocana)",
+     "problem": "Fixed rendering rocana = appetizing.",
+     "fix": "is appetizing (rocana)",
+     "severity": "minor",
+     "patch": {
+      "n": "225",
+      "op": "replace",
+      "field": "english",
+      "old": "promotes relish (rocana)",
+      "new": "is appetizing (rocana)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "दही रोचन,",
+     "problem": "Fixed Hindi रुचिकारक.",
+     "fix": "दही रुचिकारक,",
+     "severity": "minor",
+     "patch": {
+      "n": "225",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दही रोचन,",
+      "new": "दही रुचिकारक,"
+     }
+    }
+   ]
+  },
+  {
+   "n": "226",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "śītake",
+     "problem": "Judged: śītaka kept Sanskrit as a list item, adjective reading in notes; medium confidence honest. Accepted.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "227",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "split",
+     "where": "rakta-pitta-kapha-uttheṣu",
+     "problem": "Judged: three causes (blood, Pitta, Kapha) with the raktapitta + Kapha alternative noted; both grammatical, medium confidence. Accepted.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "228",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "the glosses are literal",
+     "problem": "The note calls the glosses literal, but 'curd not fully set' and 'upper layer' are not literal senses. State the actual basis (contrast with jātam in the same line; plain word senses).",
+     "fix": "mandaka is glossed 'not fully set' from its contrast with jātam 'formed' in the same line (literally 'slow, weak'); sara ('flowing', the upper part) and maṇḍa ('the liquid part') are given their plain word senses",
+     "severity": "minor",
+     "patch": {
+      "n": "228",
+      "op": "replace",
+      "field": "notes",
+      "old": "the glosses are literal ('slow/weak', 'flowing/upper part', 'liquid part')",
+      "new": "mandaka is glossed 'not fully set' from its contrast with jātam 'formed' in the same line (literally 'slow, weak'); sara ('flowing', the upper part) and maṇḍa ('the liquid part') are given their plain word senses"
+     }
+    }
+   ]
+  },
+  {
+   "n": "229",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "śopha-arśaḥ-grahaṇī-doṣa-mūtra-graha-udara-arucau",
+     "problem": "Glossary (Sū 27 ch5): a one-token singular dvandva ending in a feminine member (-arucau) is labelled samāhāra keeping the printed feminine.",
+     "fix": "f. loc. sg., samāhāra dvandva (printed feminine of aruci kept)",
+     "severity": "minor",
+     "patch": {
+      "n": "229",
+      "op": "word",
+      "match_w": "śopha-arśaḥ-grahaṇī-doṣa-mūtra-graha-udara-arucau",
+      "field": "gram",
+      "value": "f. loc. sg., samāhāra dvandva (printed feminine of aruci kept)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "230",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "231",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "SENTENCE",
+     "problem": "Judged: 231 has no noun; taking it with ghṛtam of 232 (subject named at the end, as dadhi in 225) is reasonable, the navanīta alternative is noted, Hindi/English bracket the supplied subject, medium confidence. Accepted.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "232",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "233",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "mūrcchsāya",
+     "problem": "Flag accepted (grammar/phonotactics). The 'why' cited only the syllable count; rewritten with weights.",
+     "fix": "[{\"src\": \"madāpasmāramūrcchsāyaśoṣonmādagarajvarān\", \"suggest\": \"madāpasmāramūrcchāyaśoṣonmādagarajvarān\", \"why\": \"grammar: 'mūrcchsāya' is not a word and 'rcchs' is not a possible cluster; the list of disorders (mada, apasmāra, śoṣa, unmāda ...) needs mūrcchāya (stray s). Metre does not object: 16 syllables either way; cchsā/cchā are heavy by the long ā, so pāda a ma-dā-pa-smā | ra-mūr-cchā-ya keeps syllables 5-7 = ⏑ – – (pathyā).\"}]",
+     "severity": "minor",
+     "patch": {
+      "n": "233",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "madāpasmāramūrcchsāyaśoṣonmādagarajvarān",
+        "suggest": "madāpasmāramūrcchāyaśoṣonmādagarajvarān",
+        "why": "grammar: 'mūrcchsāya' is not a word and 'rcchs' is not a possible cluster; the list of disorders (mada, apasmāra, śoṣa, unmāda ...) needs mūrcchāya (stray s). Metre does not object: 16 syllables either way; cchsā/cchā are heavy by the long ā, so pāda a ma-dā-pa-smā | ra-mūr-cchā-ya keeps syllables 5-7 = ⏑ – – (pathyā)."
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "234",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "each of its own (animal)",
+     "problem": "svāni agrees with sarpīṃṣi ('their own ghees'); 'each of its own (animal)' misplaces it and reads awkwardly. Align with the Hindi.",
+     "fix": "One should declare (their) own ghees to be like the milk of goat, sheep and she-buffalo (each like its own milk).",
+     "severity": "minor",
+     "patch": {
+      "n": "234",
+      "op": "replace",
+      "field": "english",
+      "old": "One should declare the ghees, each of its own (animal), to be like the milk of goat, sheep and she-buffalo.",
+      "new": "One should declare (their) own ghees to be like the milk of goat, sheep and she-buffalo (each like its own milk)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "235",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "dīpatāgnīnām",
+     "problem": "Flag accepted (metre + grammar). Added the syllable weights of the corrected quarter.",
+     "fix": "[{\"src\": \"dīpatāgnīnāmanidrāṇāṃ\", \"suggest\": \"dīptāgnīnāmanidrāṇāṃ\", \"why\": \"metre: the first quarter has 9 syllables as printed (dī-pa-tā-gnī-nā-ma-ni-drā-ṇāṃ), 8 with dīpta: dīp-tā-gnī-nā | ma-ni-drā-ṇāṃ, syllables 5-7 = ⏑ – – (ni heavy before dr; pathyā). Grammar: 'dīpata' is not a word; dīpta 'blazing' gives 'those with intense digestive fire'.\"}]",
+     "severity": "minor",
+     "patch": {
+      "n": "235",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "dīpatāgnīnāmanidrāṇāṃ",
+        "suggest": "dīptāgnīnāmanidrāṇāṃ",
+        "why": "metre: the first quarter has 9 syllables as printed (dī-pa-tā-gnī-nā-ma-ni-drā-ṇāṃ), 8 with dīpta: dīp-tā-gnī-nā | ma-ni-drā-ṇāṃ, syllables 5-7 = ⏑ – – (ni heavy before dr; pathyā). Grammar: 'dīpata' is not a word; dīpta 'blazing' gives 'those with intense digestive fire'."
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "236",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "237",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "athokṣuvargaḥ---",
+     "problem": "Flag accepted: a typed heading, outside the metre (line without it = 8+8); evidence ikṣoḥ in the same unit and sandhi. The 'syllable count' remark is irrelevant for a heading; reworded.",
+     "fix": "[{\"src\": \"athokṣuvargaḥ---\", \"suggest\": \"athekṣuvargaḥ---\", \"why\": \"'okṣu' is not a word; atha + ikṣu gives athekṣu (a + i = e), and the same unit names the sugarcane as ikṣoḥ (line 2). The heading stands outside the metre, so metre does not decide.\"}]",
+     "severity": "minor",
+     "patch": {
+      "n": "237",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "athokṣuvargaḥ---",
+        "suggest": "athekṣuvargaḥ---",
+        "why": "'okṣu' is not a word; atha + ikṣu gives athekṣu (a + i = e), and the same unit names the sugarcane as ikṣoḥ (line 2). The heading stands outside the metre, so metre does not decide."
+       }
+      ]
+     }
+    },
+    {
+     "field": "english",
+     "where": "turns burning (vidahyate)",
+     "problem": "vidahyate is passive/intransitive ('undergoes burning'), as the note says; bracket the noun vidāha, not the verb.",
+     "fix": "undergoes burning (vidāha)",
+     "severity": "minor",
+     "patch": {
+      "n": "237",
+      "op": "replace",
+      "field": "english",
+      "old": "turns burning (vidahyate)",
+      "new": "undergoes burning (vidāha)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "विदाह करता है",
+     "problem": "'करता है' makes it causative ('causes burning'); the verb is passive.",
+     "fix": "विदाह को प्राप्त होता है",
+     "severity": "minor",
+     "patch": {
+      "n": "237",
+      "op": "replace",
+      "field": "hindi",
+      "old": "विदाह करता है",
+      "new": "विदाह को प्राप्त होता है"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vidahyate",
+     "problem": "Align gloss with the passive sense.",
+     "fix": "undergoes burning (vidāha)",
+     "severity": "minor",
+     "patch": {
+      "n": "237",
+      "op": "word",
+      "match_w": "vidahyate",
+      "field": "gloss",
+      "value": "undergoes burning (vidāha)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "238",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "madhuryāt / -nodo-",
+     "problem": "Both flags accepted. mādhuryāt: grammar (vṛddhi abstract like śaitya in the same line) with weights (5-7 dān-ma-dhur ra-vipulā → dān-mā-dhur ma-vipulā, syllables 2-4 – ⏑ –). medo (possible): evidence 231 -kaphamedo- inside the chunk, asṛk + medo = asṛṅmedo, weights unchanged. 'possible' is the right strength for the second.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "239",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "confidence",
+     "where": "low",
+     "problem": "Judged: line 1 + rasaḥ is loose; the draft's reading (kṣudra guḍa = juice reduced to 1/4, 1/3, 1/2, heavier in order) is grammatical, the two-item alternative is noted, Hindi bracket (पकाया गया) is an understood word. Low confidence is honest. Accepted.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "Reviewed 40 units (200-239). Fixes: 0 error, 14 minor, all with patches; 0 MANUAL. text_flags: 6 of 6 accepted (203 ladhv→laghv, 233 mūrcchsāya→mūrcchāya, 235 dīpatā→dīpta, 237 athokṣu→athekṣu heading, 238 madhuryāt→mādhuryāt, 238 nodo→medo possible); 'why' rewritten with syllable weights in 233, 235, 237. Main fixes: 201 metre note (line 2 is Upendravajrā throughout); 225 rocana = appetizing / रुचिकारक; 228 note no longer claims non-literal glosses are literal; 229 samāhāra label; 234 English svāni; 237 vidahyate passive (English, Hindi, gloss); 216 Hindi अम्बुवर्ग. Judged and kept: kāra 200 (hail, honest note), doṣāya yujyate 207, vasudhākīṭa/samīraṇa 213, tridoṣa 216/228, headings 217/237, śītaka 226, raktapittakapha 227, SENTENCE 231→232, low confidence 239. No commentator/edition/memory notes found; animals plain words only (cow, buffalo, camel, goat, sheep, elephant, one-hoofed, snakes, rats, insects, worms); seasons Sanskrit in translation, equivalents in notes only. No regrouping suggested."
+}
