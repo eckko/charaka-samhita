@@ -1,0 +1,610 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "unit type",
+     "problem": "MANUAL: the input types this unit as 'verse' but it is a prose line of the chapter (opening formula / prose list); the unit type in units.json should be changed to prose by a person. Translation itself is fine.",
+     "fix": "retag as prose (P-unit) in the unit build; no text change",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "unit type",
+     "problem": "MANUAL: the input types this unit as 'verse' but it is a prose line of the chapter (opening formula / prose list); the unit type in units.json should be changed to prose by a person. Translation itself is fine.",
+     "fix": "retag as prose (P-unit) in the unit build; no text change",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "unit type",
+     "problem": "MANUAL: the input types this unit as 'verse' but it is a prose line of the chapter (opening formula / prose list); the unit type in units.json should be changed to prose by a person. Translation itself is fine.",
+     "fix": "retag as prose (P-unit) in the unit build; no text change",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "आठ प्रकार के पुरुष",
+     "problem": "'प्रकार के' is not in the Sanskrit (aṣṭau puruṣāḥ = eight persons).",
+     "fix": "आठ पुरुष",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "आठ प्रकार के पुरुष",
+      "new": "आठ पुरुष",
+      "n": "3"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "unit type",
+     "problem": "MANUAL: the input types this unit as 'verse' but it is a prose line of the chapter (opening formula / prose list); the unit type in units.json should be changed to prose by a person. Translation itself is fine.",
+     "fix": "retag as prose (P-unit) in the unit build; no text change",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "विशेष निन्दनीय दोष होते हैं",
+     "problem": "Hindi says दोष while the English (rightly) says 'features'; viśeṣa is not doṣa, and दोष clashes with the doṣa term.",
+     "fix": "विशेष निन्दनीय बातें होती हैं",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "विशेष निन्दनीय दोष होते हैं",
+      "new": "विशेष निन्दनीय बातें होती हैं",
+      "n": "4"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "nindita-viśeṣāḥ",
+     "problem": "'censured particulars' is a karmadhāraya (adjective + noun), not a tat-puruṣa.",
+     "fix": "m. nom. pl., karmadhāraya",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "nindita-viśeṣāḥ",
+      "field": "gram",
+      "value": "m. nom. pl., karmadhāraya",
+      "n": "4"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वेग का अवरोध",
+     "problem": "java = speed; वेग is the fixed Hindi for vega 'urge' (glossary) and misleads here.",
+     "fix": "गति का अवरोध",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "वेग का अवरोध",
+      "new": "गति का अवरोध",
+      "n": "P1"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अति-सन्तर्पण से",
+     "problem": "atisaṃpūraṇa 'over-filling' is rendered with सन्तर्पण, which is a different term (saṃtarpaṇa, unit 20).",
+     "fix": "अत्यधिक पेट भरने से",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अति-सन्तर्पण से",
+      "new": "अत्यधिक पेट भरने से",
+      "n": "P2"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वेग का अवरोध",
+     "problem": "Same as P1: java = speed, not वेग (urge).",
+     "fix": "गति का अवरोध",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "वेग का अवरोध",
+      "new": "गति का अवरोध",
+      "n": "P3"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "viśeṣataḥ may also go with caran",
+     "problem": "The alternative given is the reading already used in the English; the real alternative is koṣṭhe 'especially in the bowel'.",
+     "fix": "viśeṣataḥ may go with koṣṭhe ('especially in the bowel') or with caran; either way the sense is the same.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "viśeṣataḥ may also go with caran 'moving especially'; either way the sense is the same.",
+      "new": "viśeṣataḥ may go with koṣṭhe ('especially in the bowel') or with caran; either way the sense is the same.",
+      "n": "5"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "when the time (of eating) is transgressed",
+     "problem": "'(of eating)' is an interpretation the note itself says the text does not state; keep it in the note only.",
+     "fix": "when the time is transgressed",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "when the time (of eating) is transgressed",
+      "new": "when the time is transgressed",
+      "n": "6"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "sthūlā",
+     "problem": "Flag is supported by grammar (dahataḥ needs an object), but the acc. pl. sthūlān (lost n, plural like vanā) is as likely as sthūlaṃ; say so.",
+     "fix": "why: possible: dahataḥ needs an accusative object and sthūlā has no fitting case; a lost final nasal gives sthūlaṃ (acc. sg., used in words) or sthūlān (acc. pl.); both keep the metre",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "text_flags.0.why",
+      "value": "possible: dahataḥ needs an accusative object and sthūlā has no fitting case; a lost final nasal gives sthūlaṃ (acc. sg., used in words) or sthūlān (acc. pl.); both keep the metre",
+      "n": "7"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "and the other doṣas",
+     "problem": "'doṣas' is not in the Sanskrit (anilādayaḥ = anila and the rest); the note already says it is understood.",
+     "fix": "Vāta (anila) and the others",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "Vāta (anila) and the other doṣas",
+       "new": "Vāta (anila) and the others",
+       "n": "8"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "अनिल आदि दोष",
+       "new": "अनिल आदि",
+       "n": "8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "causes and form",
+     "problem": "Glossary: rūpa = symptoms.",
+     "fix": "causes and symptoms (rūpa)",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "causes and form of the fat person",
+       "new": "causes and symptoms (rūpa) of the fat person",
+       "n": "10"
+      },
+      {
+       "op": "word",
+       "match_w": "rūpam",
+       "field": "gloss",
+       "value": "symptoms",
+       "n": "10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "atipīḍayet",
+     "problem": "√pīḍ is a class-10 root; pīḍayati is not a causative.",
+     "fix": "3 sg. opt. ati-√pīḍ (class 10)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "atipīḍayet",
+      "field": "gram",
+      "value": "3 sg. opt. ati-√pīḍ (class 10)",
+      "n": "17"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "jara from √jṝ 'digest'",
+     "problem": "√jṝ means 'wear out, grow old'; 'digest' is its causative jarayati. Reworded; the reading samajara = even digestion is acceptable alongside 'ageing evenly'.",
+     "fix": "samajaraḥ: from √jṝ, whose causative jarayati 'digests' is used in unit 6; taken as even digestion; it could also come from jarā 'old age' ('ageing evenly').",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "samajaraḥ: jara from √jṝ 'digest' (cf. jarayati in unit 6); it could also mean 'ageing evenly'.",
+      "new": "samajaraḥ: from √jṝ, whose causative jarayati 'digests' is used in unit 6; taken as even digestion; it could also come from jarā 'old age' ('ageing evenly').",
+      "n": "19"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "non-nourishing ... light and nourishing",
+     "problem": "saṃtarpaṇa and bṛṃhaṇa are both rendered 'nourishing' in the same sentence; keep them apart (new glossary line: atarpaṇa/saṃtarpaṇa = non-replenishing/replenishing).",
+     "fix": "For reducing (karśana) the obese, what is heavy and non-replenishing (atarpaṇa) is desired; and for nourishing (bṛṃhaṇa) the lean, what is light and replenishing (saṃtarpaṇa).",
+     "severity": "error",
+     "patch": [
+      {
+       "op": "set",
+       "field": "english",
+       "value": "For reducing (karśana) the obese, what is heavy and non-replenishing (atarpaṇa) is desired; and for nourishing (bṛṃhaṇa) the lean, what is light and replenishing (saṃtarpaṇa).",
+       "n": "20"
+      },
+      {
+       "op": "word",
+       "match_w": "atarpaṇam",
+       "field": "gloss",
+       "value": "non-replenishing",
+       "n": "20"
+      },
+      {
+       "op": "word",
+       "match_w": "saṃtarpaṇam",
+       "field": "gloss",
+       "value": "replenishing",
+       "n": "20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "traiphalaḥ",
+     "problem": "traiphala is a vṛddhi derivative (adjective) of triphalā agreeing with prayogaḥ, not a plain noun.",
+     "fix": "m. nom. sg., vṛddhi derivative of triphalā (adj. with prayogaḥ)",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "traiphalaḥ",
+       "field": "gram",
+       "value": "m. nom. sg., vṛddhi derivative of triphalā (adj. with prayogaḥ)",
+       "n": "22"
+      },
+      {
+       "op": "word",
+       "match_w": "traiphalaḥ",
+       "field": "gloss",
+       "value": "of triphalā (the triphalā one)",
+       "n": "22"
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "bhadramustā = a kind of mustā, Cyperus rotundus (probable)",
+     "problem": "Muddled identification; keep it minimal. guḍūcī (standard) is kept; takrāriṣṭa and mākṣika notes are sound (both readings shown, no firm choice).",
+     "fix": "bhadramustā = Cyperus rotundus (probable)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "bhadramustā = a kind of mustā, Cyperus rotundus (probable)",
+      "new": "bhadramustā = Cyperus rotundus (probable)",
+      "n": "22"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "their administration combined with honey",
+     "problem": "'their'/'इनका' is added: the text has only 'prayogaḥ kṣaudrasaṃyutaḥ', which may go with the barley-āmalaka powder alone or the whole list.",
+     "fix": "...and powder of barley and āmalaka; administration combined with honey (kṣaudra);",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "english",
+       "old": ": their administration combined with honey (kṣaudra);",
+       "new": "; administration combined with honey (kṣaudra);",
+       "n": "23"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "— इनका क्षौद्र के साथ प्रयोग,",
+       "new": "— क्षौद्र के साथ प्रयोग,",
+       "n": "23"
+      },
+      {
+       "op": "append_note",
+       "text": "prayogaḥ kṣaudrasaṃyutaḥ may go with the barley-āmalaka powder alone or with the whole list; the text does not say.",
+       "n": "23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "agnimantha = a Premna or Clerodendrum species (disputed)",
+     "problem": "Disputed identification of a word whose reading is itself flagged; not needed to understand the verse. Remove (POLICY: minimal).",
+     "fix": "paraḥ may mean 'excellent' or 'further'. Identification: bilva = Aegle marmelos (standard).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "Identifications: bilva = Aegle marmelos (standard); agnimantha = a Premna or Clerodendrum species (disputed).",
+      "new": "Identification: bilva = Aegle marmelos (standard). The reading of the last word is uncertain (see text_flags).",
+      "n": "24"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "ṣagnimantharasaḥ",
+     "problem": "Flag kept (ṣa- cannot begin a word here: grammar evidence). But the alternative sāgnimantharasaḥ 'with agnimantha juice' (s/ṣ confusion), qualifying śilājatuprayogaḥ, is equally likely and should be stated equally; syllable count does not decide (both 8).",
+     "fix": "why: possible: ṣa- cannot begin a word here; either a stray letter (agnimantharasaḥ 'juice of agnimantha', used in words) or ṣ for s with lost length (sāgnimantharasaḥ 'with agnimantha juice', qualifying śilājatuprayogaḥ); both keep 8 syllables, so the reading is uncertain",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "text_flags.0.why",
+      "value": "possible: ṣa- cannot begin a word here; either a stray letter (agnimantharasaḥ 'juice of agnimantha', used in words) or ṣ for s with lost length (sāgnimantharasaḥ 'with agnimantha juice', qualifying śilājatuprayogaḥ); both keep 8 syllables, so the reading is uncertain",
+      "n": "24"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "priyaṅguḥ",
+     "problem": "priyaṅgu as a plant/grain is usually feminine; the form -uḥ does not show gender.",
+     "fix": "nom. sg. (m. or f.)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "priyaṅguḥ",
+      "field": "gram",
+      "value": "nom. sg. (m. or f.)",
+      "n": "25"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "jāḍhakīnāṃ",
+     "problem": "The 'why' is wrong: āḍhakīnāṃ has 4 syllables like jāḍhakīnāṃ, so the line keeps 8 (ā-ḍha-kī-nāṃ ca bī-jā-ni). Flag kept on lexical grounds; add the c/j alternative (cāḍhakīnāṃ = ca āḍhakīnām).",
+     "fix": "why: possible: 'jāḍhakī' is not a known word; āḍhakī (a pulse) fits the list of grains and pulses of unit 25 and keeps 8 syllables; the j may also be a typo for c (cāḍhakīnāṃ = ca āḍhakīnām)",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "text_flags.0.why",
+      "value": "possible: 'jāḍhakī' is not a known word; āḍhakī (a pulse) fits the list of grains and pulses of unit 25 and keeps 8 syllables; the j may also be a typo for c (cāḍhakīnāṃ = ca āḍhakīnām)",
+      "n": "26"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "āḍhakī = pigeon pea, Cajanus cajan (standard)",
+     "problem": "Identification built on a conjectural reading is shaky; remove. paṭola (standard) kept.",
+     "fix": "prayojyāni also governs the grains of unit 25. Identification: paṭola = Trichosanthes dioica (standard); āmalaka as in unit 23.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "Identifications: āḍhakī = pigeon pea, Cajanus cajan (standard); paṭola = Trichosanthes dioica (standard); āmalaka as in unit 23.",
+      "new": "āḍhakī rests on the conjecture in text_flags. Identification: paṭola = Trichosanthes dioica (standard); āmalaka as in unit 23.",
+      "n": "26"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the juices (rasa) of domestic, marsh and aquatic animals",
+     "problem": "rasāḥ with animal groups = meat-juices (glossary māṃsarasa; new glossary line); the note already says so but the English/Hindi say only 'juices'.",
+     "fix": "the meat-juices (rasa) of domestic, marsh and aquatic animals",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "the juices (rasa) of domestic",
+       "new": "the meat-juices (rasa) of domestic",
+       "n": "30"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "प्राणियों के रस",
+       "new": "प्राणियों के मांसरस",
+       "n": "30"
+      },
+      {
+       "op": "word",
+       "match_w": "rasāḥ",
+       "field": "gloss",
+       "value": "meat-juices",
+       "n": "30"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "summary": "3 errors, 24 minor issues. No regrouping suggested; units 1-4 are prose lines typed as verse (MANUAL: retag, no text change). All 13 text_flags kept: each rests on grammar or chunk-internal evidence (P1 by P3; P2, 8, 12, 18, 30 non-words; 7 sthūlā/vanā need an accusative; 11 pramitya not a fitting form; 19 metre 7 syllables plus parallel saṃsahaḥ; 24 ṣa- cannot begin a word; 26 jāḍhakī not a word, pānām no fitting case). Reasons rewritten for 7 (sthūlān alternative), 24 (sāgnimantharasaḥ 'with agnimantha juice' as an equal alternative) and 26 (the draft's 7-syllable claim was wrong). Plant identifications: agnimantha (disputed, on a flagged word) and āḍhakī (on a conjectural reading) removed; bhadramustā simplified; standard ones kept (guḍūcī, viḍaṅga, āmalaka, bilva, kodrava, mudga, kulattha, paṭola). Judged sound: 17 samopakaraṇau (literal 'equal in means', note honest, medium confidence), 19 samajaraḥ (note reworded on the root), 22 takrāriṣṭa (two items, alternative noted) and mākṣika (honey vs mineral left open), 25 split kulatthāḥ + cakramudgakāḥ. Main fixes: saṃtarpaṇa vs bṛṃhaṇa both 'nourishing' (unit 20), atisaṃpūraṇa as सन्तर्पण (P2), java as वेग (P1, P3), rūpa = symptoms (10), added words removed (3, 6, 8, 23), meat-juices (30). No commentator/edition notes found."
+}

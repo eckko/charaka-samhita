@@ -1,0 +1,113 @@
+[
+ {
+  "n": "5",
+  "field": "english",
+  "old": "To Ātreya, who had spoken thus, Agniveśa said:",
+  "new": "To Ātreya, who had spoken, Agniveśa said:",
+  "why": "reviewer (minor): \"thus\" is not in the Sanskrit (tam uktavantam = him who had spoken)."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "इस प्रकार कह चुके उन आत्रेय से अग्निवेश ने कहा —",
+  "new": "कह चुके उन आत्रेय से अग्निवेश ने कहा —",
+  "why": "reviewer (minor): \"इस प्रकार\" is added; nothing in the line means \"thus\"."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "और लङ्घन आदि इन छहों के ठीक किए गए, न किए गए और अति किए गए होने का लक्षण संक्षेप में आप बताएँ।",
+  "new": "और लङ्घन आदि इन छहों के (ठीक) किए गए, न किए गए और अति किए गए होने का लक्षण संक्षेप में आप बताएँ।",
+  "why": "reviewer (minor): \"ठीक\" (properly) is an understood word (English has plain \"done\"); mark it as understood."
+ },
+ {
+  "n": "9",
+  "field": "word.gram",
+  "word": "kiñcit",
+  "old": "ind.",
+  "new": "n. nom. sg., indef. pron. (with yat)",
+  "why": "reviewer (minor): kiñcit in yat kiñcit is the indefinite pronoun agreeing with yat, not an indeclinable."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "चार प्रकार की संशुद्धि, पिपासा, वायु और धूप, पाचन, उपवास और व्यायाम — यह लङ्घन है।",
+  "new": "चार प्रकार की संशुद्धि, पिपासा, मारुत और धूप, पाचन, उपवास और व्यायाम — यह लङ्घन है।",
+  "why": "reviewer (minor): Printed word is māruta; glossary: vāyu/māruta in Hindi = वायु/मारुत (keep the printed word)."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "मध्य बल वाले रोगों को व्यायाम, धूप और वायु से जीते; तो फिर उन बलवानों के विषय में क्या कहना, जिनके रोगों का बल अल्प हो।",
+  "new": "मध्य बल वाले रोगों को व्यायाम, धूप और मारुत से जीते; तो फिर उन बलवानों के विषय में क्या कहना, जिनके रोगों का बल अल्प हो।",
+  "why": "reviewer (minor): Printed word is māruta (as in unit 18); Hindi keeps मारुत."
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "The depleted, the injured, the emaciated, the old, the weak, those constantly travelling, and those constantly given to women and wine are known as men to be nourished, and (so) in Grīṣma.",
+  "new": "The depleted, the injured, the emaciated, the old, the weak, those constantly travelling, and those constantly given to women and wine are known as men to be nourished, and in Grīṣma.",
+  "why": "reviewer (minor): \"(so)\" adds an interpretation; grīṣme ca = \"and in Grīṣma\"."
+ },
+ {
+  "n": "28",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "buddhi",
+    "suggest": "viddhi",
+    "why": "possible typo: buddhi is a bare stem with no case ending and no role in the sentence, which has no verb; viddhi 'know' (2 sg. impv. √vid) fits the syntax and keeps the metre; b/v and u/i are easily confused in print."
+   }
+  ],
+  "new": [
+   {
+    "src": "buddhi",
+    "suggest": "viddhi",
+    "why": "possible typo: buddhi is a bare stem with no case ending and no role in the sentence, which has no verb; viddhi 'know' (2 sg. impv. √vid) supplies the verb, takes bṛṃhaṇam as predicate accusative, and keeps the metre (same syllable weights)."
+   }
+  ],
+  "why": "reviewer (minor): The flag is accepted (grammar: no verb, uninflected stem). But \"b/v and u/i are easily confused in print\" is not evidence from the chunk, grammar or metre (glossary rule), and ु/ि are not visually alike; replace with the metre point."
+ },
+ {
+  "n": "29",
+  "field": "notes",
+  "old": "sevanam governs both genitive groups. khali and piṇyāka are both commonly used for oil-cake; the chunk does not state how they differ, so khali is kept as Sanskrit.",
+  "new": "sevanam governs both genitive groups. The chunk does not state how khali differs from piṇyāka, so khali is kept as Sanskrit.",
+  "why": "reviewer (minor): Claim from outside the chunk (lexical memory); keep only what the chunk supports."
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "जो औषध द्रव, तनु, असर, शीतल करने वाली, मधुर, तिक्त और कषाय हो, वह सब स्तम्भन है।",
+  "new": "जो औषध द्रव, तनु, असर, शीतल करने वाला, मधुर, तिक्त और कषाय हो, वह सब स्तम्भन है।",
+  "why": "reviewer (minor): Agreement: the subject is औषध (masc. in Hindi); the other words are masculine."
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "स्वेद आने पर, रुचि होने पर, भूख और प्यास के साथ-साथ उदय होने पर, और अन्तरात्मा के व्यथा-रहित होने पर लङ्घन को ठीक किया गया बताना चाहिए।",
+  "new": "स्वेद आने पर, रुचि होने पर, भूख और प्यास के साथ-साथ उदय होने पर, और अन्तरात्मा के व्यथा-रहित होने पर लङ्घन को (ठीक) किया गया बताना चाहिए।",
+  "why": "reviewer (minor): \"ठीक\" is understood (English has \"(properly)\"); mark it as understood, as in unit 8."
+ },
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "लङ्घित में जो ठीक किए गए और अति किए गए होने का लक्षण है, वह रूक्षित में है। बल प्राप्त होने पर और बताए गए रोगों के जीत लिए जाने पर व्यक्ति स्तम्भित हुआ समझना चाहिए।",
+  "new": "लङ्घित में जो ठीक किए गए और अति किए गए होने का लक्षण है, वह रूक्षित में है। बल प्राप्त होने पर और बताए गए रोगों के जीत लिए जाने पर (व्यक्ति) स्तम्भित होता है।",
+  "why": "reviewer (error): \"समझना चाहिए\" (should be understood) is added; stambhitaḥ syāt = \"one would be checked\". व्यक्ति is understood."
+ },
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "लङ्घित में जो ठीक किए गए और अति किए गए होने का लक्षण है, वह रूक्षित में है। बल प्राप्त होने पर और बताए गए रोगों के जीत लिए जाने पर (व्यक्ति) स्तम्भित होता है।",
+  "new": "लङ्घित में जो (ठीक) किए गए और अति किए गए होने का लक्षण है, वह रूक्षित में है। बल प्राप्त होने पर और बताए गए रोगों के जीत लिए जाने पर (व्यक्ति) स्तम्भित होता है।",
+  "why": "reviewer (minor): \"ठीक\" is understood (English \"(properly)\"); bracket it."
+ },
+ {
+  "n": "39",
+  "field": "notes",
+  "old": "bale labdhe is a locative absolute; yathoktaiś cāmayair jitaiḥ is instrumental in form but is read in the same way ('with the diseases overcome'). The diseases stated are those listed as calling for checking in unit 33.",
+  "new": "bale labdhe is a locative absolute; yathoktaiś cāmayair jitaiḥ is instrumental in form but is read in the same way ('with the diseases overcome'). The diseases stated are probably those listed as calling for checking in unit 33.",
+  "why": "reviewer (minor): yathokta is not tied to unit 33 by the text; state it as probable."
+ }
+]
