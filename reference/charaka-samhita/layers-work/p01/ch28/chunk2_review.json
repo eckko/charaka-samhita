@@ -1,0 +1,456 @@
+{
+ "units": [
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "rūk",
+     "problem": "Printed rūk is silently corrected to ruk in words without a text_flag (rule: corrected form in words needs a flag).",
+     "fix": "add flag rūk -> ruk",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "rūk",
+        "suggest": "ruk",
+        "why": "possible: the nom. sg. of ruj 'pain' is ruk with short u (j > k at the end of the word, no lengthening); metre neutral: the first syllable is heavy either way (closed by k before p of parvaṇāṃ)"
+       }
+      ],
+      "n": "17"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "aruṣām",
+     "problem": "No stem aruṣ: the noun is arus (n.) \"wound, sore\"; aruṣām is its gen. pl. with s > ṣ after u. Gender is known (n.).",
+     "fix": "n. gen. pl. (arus; s > ṣ after u)",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "aruṣām",
+      "field": "gram",
+      "value": "n. gen. pl. (arus; s > ṣ after u)",
+      "n": "17"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "aruṣām",
+     "problem": "Gloss names the wrong stem.",
+     "fix": "of arus (sores)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "aruṣām",
+      "field": "gloss",
+      "value": "of arus (sores)",
+      "n": "17"
+     }
+    },
+    {
+     "field": "english",
+     "where": "aruṣ (sores)",
+     "problem": "Stem should be arus.",
+     "fix": "arus (sores)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "aruṣ (sores)",
+      "new": "arus (sores)",
+      "n": "17"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "aruṣ is kept ...",
+     "problem": "Note gives a non-existent stem and calls the gender uncertain.",
+     "fix": "arus (n.) is kept in Sanskrit with the literal gloss 'sores'; aruṣām is its gen. pl. (s > ṣ after u).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "aruṣ is kept in Sanskrit with the literal gloss 'sores'; the case is gen. pl. of the stem aruṣ (or aruṣ-/arus-), the gender is not certain.",
+      "new": "arus (n.) is kept in Sanskrit with the literal gloss 'sores'; aruṣām is its gen. pl. (s > ṣ after u). rūk is read ruk (see text_flag).",
+      "n": "17"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "or it also flows out",
+     "problem": "Second \"or\" is not in the Sanskrit (patati prasravaty api); it must be bracketed like the first.",
+     "fix": "(or) it falls, (or) it also flows out",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "(or) it falls, or it also flows out",
+      "new": "(or) it falls, (or) it also flows out",
+      "n": "19"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "probably the doṣas",
+     "problem": "The \"probably the doṣas\" note (allowed by GLOSSARY Sū 24 ch1) gives no reason; tie it to evidence in the chunk.",
+     "fix": "add the in-chunk reason",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "are probably the doṣas; kept",
+      "new": "are probably the doṣas (aggravation, prakupyanti/kupitāḥ, is said of the doṣas in 22 and 47); kept",
+      "n": "20"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "snāyau",
+     "problem": "Useful: the metre supports the printed loc. snāyau against a compound snāyu-; and the understood subject should be marked as uncertain.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Metre: printed snāyau gives a heavy 2nd syllable (snā yau si rā | kaṇ ḍa rā bhyo); a compound snāyu- would make syllables 2-3 both light, which the śloka avoids, so the printed case is kept. The understood subject may equally be the doṣas (cf. 22).",
+      "n": "21"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "līḍha-khāditāt",
+     "problem": "Not a samāhāra dvandva: it is a dvandva of two participles used as an adjective with the understood food, parallel to aśitāt, pītāt.",
+     "fix": "n. abl. sg., dvandva (adjectives; ppp. √lih, √khād)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "līḍha-khāditāt",
+      "field": "gram",
+      "value": "n. abl. sg., dvandva (adjectives; ppp. √lih, √khād)",
+      "n": "23"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "an earlier chapter",
+     "problem": "\"earlier\" is not shown by the chunk (no verb in 25); it comes from outside knowledge.",
+     "fix": "a chapter name as printed",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "is the name of an earlier chapter as printed here",
+      "new": "is a chapter name as printed here",
+      "n": "25"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "an earlier chapter",
+     "problem": "Same as 25: no verb in 26 shows that the chapter is earlier.",
+     "fix": "a chapter name as printed",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "is the name of an earlier chapter as printed here",
+      "new": "is a chapter name as printed here",
+      "n": "26"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "read with malajānām as the following sentence",
+     "problem": "Unclear wording of the ambiguity note.",
+     "fix": "clear wording",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "It is not explicit whether the summary in that chapter is for the mala disorders only or in general; read with malajānām as the following sentence.",
+      "new": "malajānāṃ vikārāṇām may go with both clauses (a summary of treatment of the mala disorders in that chapter, and their success stated here and there); the English takes it with the second clause only.",
+      "n": "30"
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "viṣyandānāt",
+     "problem": "Flag accepted; the why should give the weights of the printed form, not only the corrected one.",
+     "fix": "fuller why",
+     "severity": "minor"
+    },
+    {
+     "field": "text_flags",
+     "where": "srotomukhaviśothanāt",
+     "problem": "Flag accepted (lexical + sense); the why should state that the metre is neutral (th/dh same weight).",
+     "fix": "fuller why",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "viṣyandānāt",
+        "suggest": "viṣyandanāt",
+        "why": "possible: there is no noun viṣyandāna; the action noun of vi-√syand is viṣyandana. Metre: printed vṛd dhyā viṣ yan | dā nāt pā kāt gives syllables 5-7 – – – (ma-vipulā) with no word end after the 5th syllable, which that vipulā needs; with light da they run ⏑ – – (pathyā); count 8 either way"
+       },
+       {
+        "src": "srotomukhaviśothanāt",
+        "suggest": "srotomukhaviśodhanāt",
+        "why": "possible: there is no word viśothana; viśodhana 'cleansing' (vi-√śudh) differs only by th/dh and gives the sense 'cleansing of the mouths of the channels'; metre neutral (tho/dho same weight)"
+       }
+      ],
+      "n": "33"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "arāgān...",
+     "problem": "Flag accepted (count 17 > 16, hiatus, parallel 40); add the syllable weights of the corrected quarter.",
+     "fix": "fuller why",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "arāgānnāpyavijñānādāhārānupayojayet",
+        "suggest": "rāgānnāpyavijñānādāhārānupayojayet",
+        "why": "metre: 'na arāgān...' gives 9 syllables in the first quarter (17 in the half-line); 'na rāgān nāpy avijñā-' gives 8: na rā gān nā | pya vi jñā nā, syllables 5-7 ⏑ – – (pathyā), 2-3 heavy; 'na a-' would also be an unexplained hiatus; rāga 'attachment' pairs with avijñāna and with anurajyate/rajyate in 40"
+       }
+      ],
+      "n": "41"
+     }
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "parīkṣy aprayojayet",
+     "problem": "One flag covers two printed tokens; split into one flag per token. Add weights to āḥrasya and note that hetusaṃjñakāḥ is metre-neutral.",
+     "fix": "three flags become four",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "āḥrasya",
+        "suggest": "āhārasya",
+        "why": "metre: printed āḥ ra sya | vi dhā vaṣ ṭau has 7 syllables in the first quarter; ā hā ra sya | vi dhā vaṣ ṭau has 8 with syllables 5-7 ⏑ – – (pathyā); there is no word āḥra; āhāra is the subject of 41 and 45 in this chunk"
+       },
+       {
+        "src": "hetusājñakāḥ",
+        "suggest": "hetusaṃjñakāḥ",
+        "why": "no word sājñaka; saṃjñaka 'called' (cf. -saṃjñeṣu in 40 of this chunk); metre neutral: sā and saṃ are both heavy (even quarter vi śe ṣā he | tu saṃ jña kāḥ, 5-7 ⏑ – ⏑)"
+       },
+       {
+        "src": "parīkṣy",
+        "suggest": "parīkṣya",
+        "why": "word-space slip: the final -a of the absolutive (parīkṣya, as in 41) is typed at the head of the next token; metre unchanged (tān pa rī kṣya | pra yo ja yet, 5-7 ⏑ – ⏑)"
+       },
+       {
+        "src": "aprayojayet",
+        "suggest": "prayojayet",
+        "why": "not a form: the augment a- is never used with the optative, and a negative a- does not stand before a finite verb; the a- belongs to parīkṣya (see the previous flag)"
+       }
+      ],
+      "n": "42"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "eva in caiva",
+     "problem": "GLOSSARY: eva = emphatic particle, not \"also\" (ca already gives \"and\").",
+     "fix": "indeed (emphatic)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "eva",
+      "field": "gloss",
+      "value": "indeed (emphatic)",
+      "n": "47"
+     }
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P20",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Sū 28 chunk2 (16-48, P20; 34 units): 3 error, 14 minor issues in 12 units; no regrouping. Errors: 17 printed rūk silently corrected to ruk (flag added) and wrong stem aruṣ (stem arus n.); 42 multi-token flag split into per-token flags. All 11 drafted text_flags judged and accepted (16 meda->bheda possible; 33 viṣyandānāt, viśothanāt possible; 35 sukhārthā->-āḥ; 41 na arāgān->na rāgān; 42 āḥrasya, hetusājñakāḥ, parīkṣy aprayojayet; 45 āhārasaṃbhavaḥ->-aṃ; 46 duḥkhānāmṃ, rogasaṅghāścca); whys in 33/41/42 given syllable weights. Total flags after review: 13. Judged ok: malāḥ = malas in 20/31/33 with a 'probably the doṣas' note (evidence 22, 47), = wastes in 22/30 (22 names doṣas and malas apart); klaibya = impotence (klaibya), Hindi नपुंसकता (plain meaning, not an identification); mūrcchā kept Sanskrit; 21 mixed cases snāyau (loc.)/sirākaṇḍarābhyaḥ (abl.) kept as printed, metre supports snāyau; bracketed understood words in 18 fine; ambiguity notes 25/27/31/32/43 sound; 45 'tatra ślokāḥ' = 'Here, the verses:' / यहाँ श्लोक हैं: as in Sū 20/21/26; colophon chapter name Vividhāśitapītīya and Sūtra section (Sūtrasthāna) correct and verbless; chapter names in 25-30 kept as printed ('earlier' removed from 25/26 notes as not shown by the chunk). No notes cite commentators or other editions; no modern disease/animal identifications. Unreviewed AI draft until a person reads it."
+}

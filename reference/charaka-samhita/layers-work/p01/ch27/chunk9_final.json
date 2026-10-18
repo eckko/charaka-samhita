@@ -1,0 +1,4625 @@
+[
+ {
+  "n": "320",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āsavānāṃ",
+      "words": [
+       {
+        "w": "āsavānām",
+        "gloss": "of the āsavas",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "samuddiṣṭāmaśītiṃ",
+      "words": [
+       {
+        "w": "samuddiṣṭām",
+        "gloss": "described",
+        "gram": "f. acc. sg., ppp. sam-ud-√diś"
+       },
+       {
+        "w": "aśītim",
+        "gloss": "eighty",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "caturuttarām",
+      "words": [
+       {
+        "w": "catur-uttarām",
+        "gloss": "plus four",
+        "gram": "f. acc. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "jalaṃ",
+      "words": [
+       {
+        "w": "jalam",
+        "gloss": "water",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "peyamapeyaṃ",
+      "words": [
+       {
+        "w": "peyam",
+        "gloss": "fit to drink",
+        "gram": "n. acc. sg., gerundive (kṛtya) √pā"
+       },
+       {
+        "w": "apeyam",
+        "gloss": "unfit to drink",
+        "gram": "n. acc. sg., gerundive (kṛtya) √pā"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "parīkṣyānupibeddhitam",
+      "words": [
+       {
+        "w": "parīkṣya",
+        "gloss": "having examined",
+        "gram": "abs. pari-√īkṣ"
+       },
+       {
+        "w": "anupibet",
+        "gloss": "should drink after",
+        "gram": "3 sg. opt. anu-√pā"
+       },
+       {
+        "w": "hitam",
+        "gloss": "what is wholesome",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वर्णित चौरासी आसवों की तथा पीने योग्य और न पीने योग्य जल की परीक्षा करके हितकर (पेय) को (भोजन के) बाद पीना चाहिए।",
+  "english": "Having examined the eighty-four āsavas that have been described, and water fit and unfit to drink, one should drink afterwards what is wholesome.",
+  "text_flags": [],
+  "notes": "caturuttarām aśītim = 'eighty with four more', i.e. eighty-four. anupibet 'should drink after' (the meal), whence anupāna.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.27.320a",
+   "01.27.320b"
+  ],
+  "lines_deva": [
+   "आसवानां समुद्दिष्टामशीतिं चतुरुत्तराम्",
+   "जलं पेयमपेयं च परीक्ष्यानुपिबेद्धितम्"
+  ],
+  "lines_iast": [
+   "āsavānāṃ samuddiṣṭāmaśītiṃ caturuttarām",
+   "jalaṃ peyamapeyaṃ ca parīkṣyānupibeddhitam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "321",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "snigdhoṣṇaṃ",
+      "words": [
+       {
+        "w": "snigdha-uṣṇam",
+        "gloss": "unctuous and hot",
+        "gram": "n. nom. sg., dvandva (adj.)"
+       }
+      ]
+     },
+     {
+      "src": "mārute",
+      "words": [
+       {
+        "w": "mārute",
+        "gloss": "in Vāta (māruta)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śastaṃ",
+      "words": [
+       {
+        "w": "śastam",
+        "gloss": "commended",
+        "gram": "n. nom. sg., ppp. √śaṃs"
+       }
+      ]
+     },
+     {
+      "src": "pitte",
+      "words": [
+       {
+        "w": "pitte",
+        "gloss": "in Pitta",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhuraśītalam",
+      "words": [
+       {
+        "w": "madhura-śītalam",
+        "gloss": "sweet and cold",
+        "gram": "n. nom. sg., dvandva (adj.)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kaphe'nupānaṃ",
+      "words": [
+       {
+        "w": "kaphe",
+        "gloss": "in Kapha",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "anupānam",
+        "gloss": "after-drink",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rūkṣoṣṇaṃ",
+      "words": [
+       {
+        "w": "rūkṣa-uṣṇam",
+        "gloss": "dry and hot",
+        "gram": "n. nom. sg., dvandva (adj.)"
+       }
+      ]
+     },
+     {
+      "src": "kṣaye",
+      "words": [
+       {
+        "w": "kṣaye",
+        "gloss": "in wasting (kṣaya)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "māṃsarasaḥ",
+      "words": [
+       {
+        "w": "māṃsa-rasaḥ",
+        "gloss": "meat-juice",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "param",
+      "words": [
+       {
+        "w": "param",
+        "gloss": "best",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मारुत में स्निग्ध और उष्ण, पित्त में मधुर और शीतल, कफ में रूक्ष और उष्ण अनुपान प्रशस्त है; क्षय में मांसरस श्रेष्ठ है।",
+  "english": "In Vāta (māruta) an unctuous and hot after-drink (anupāna) is commended, in Pitta a sweet and cold one, in Kapha a dry and hot one; in wasting (kṣaya) meat-juice is the best.",
+  "text_flags": [],
+  "notes": "anupānam (in line b) and śastam are understood with all three doṣas. param 'best' is neuter though māṃsarasaḥ is masculine; read as the predicate 'the best (thing)'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.27.321a",
+   "01.27.321b"
+  ],
+  "lines_deva": [
+   "स्निग्धोष्णं मारुते शस्तं पित्ते मधुरशीतलम्",
+   "कफेऽनुपानं रूक्षोष्णं क्षये मांसरसः परम्"
+  ],
+  "lines_iast": [
+   "snigdhoṣṇaṃ mārute śastaṃ pitte madhuraśītalam",
+   "kaphe'nupānaṃ rūkṣoṣṇaṃ kṣaye māṃsarasaḥ param"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "322",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "upavāsādhvabhāṣyastrīmārutātapakarmabhiḥ",
+      "words": [
+       {
+        "w": "upavāsa-adhva-bhāṣya-strī-māruta-ātapa-karmabhiḥ",
+        "gloss": "by fasting, travel, speaking, women, wind, sun and action",
+        "gram": "n. inst. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "klāntānāmanupānārthaṃ",
+      "words": [
+       {
+        "w": "klāntānām",
+        "gloss": "of the exhausted",
+        "gram": "m. gen. pl., ppp. √klam"
+       },
+       {
+        "w": "anupāna-artham",
+        "gloss": "as after-drink",
+        "gram": "ind. (n. acc. sg.), tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "payaḥ",
+      "words": [
+       {
+        "w": "payaḥ",
+        "gloss": "milk",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pathyaṃ",
+      "words": [
+       {
+        "w": "pathyam",
+        "gloss": "wholesome",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yathāmṛtam",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "like",
+        "gram": "ind."
+       },
+       {
+        "w": "amṛtam",
+        "gloss": "amṛta (nectar)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उपवास, मार्ग-गमन, बोलने, स्त्री, मारुत, धूप और कर्म से क्लान्त हुए लोगों के लिए अनुपान के रूप में दूध अमृत के समान पथ्य है।",
+  "english": "For those exhausted by fasting, travel, speaking, women, wind, sun and action (karma), milk as an after-drink is wholesome like amṛta (nectar).",
+  "text_flags": [],
+  "notes": "karman at the end of the compound may instead govern all the members ('by the acts of fasting, travel, ...'); it is given as a separate member. adhvan = road, travel on foot. māruta here is the physical wind among the exhausting factors (wind and sun), as in Sū 22. strī 'women' is translated literally.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.27.322a",
+   "01.27.322b"
+  ],
+  "lines_deva": [
+   "उपवासाध्वभाष्यस्त्रीमारुतातपकर्मभिः",
+   "क्लान्तानामनुपानार्थं पयः पथ्यं यथामृतम्"
+  ],
+  "lines_iast": [
+   "upavāsādhvabhāṣyastrīmārutātapakarmabhiḥ",
+   "klāntānāmanupānārthaṃ payaḥ pathyaṃ yathāmṛtam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "323",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "surā",
+      "words": [
+       {
+        "w": "surā",
+        "gloss": "surā",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛśānāṃ",
+      "words": [
+       {
+        "w": "kṛśānām",
+        "gloss": "of the lean",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "puṣṭyarthamanupānaṃ",
+      "words": [
+       {
+        "w": "puṣṭi-artham",
+        "gloss": "for building up (puṣṭi)",
+        "gram": "ind. (n. acc. sg.), tat-puruṣa"
+       },
+       {
+        "w": "anupānam",
+        "gloss": "as after-drink",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidhīyate",
+      "words": [
+       {
+        "w": "vidhīyate",
+        "gloss": "is prescribed",
+        "gram": "3 sg. pres. pass. vi-√dhā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kārśyārthaṃ",
+      "words": [
+       {
+        "w": "kārśya-artham",
+        "gloss": "for leanness",
+        "gram": "ind. (n. acc. sg.), tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sthūladehānāmanu",
+      "words": [
+       {
+        "w": "sthūla-dehānām",
+        "gloss": "of the stout-bodied",
+        "gram": "m. gen. pl., bahuvrīhi"
+       },
+       {
+        "w": "anu",
+        "gloss": "afterwards",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śastaṃ",
+      "words": [
+       {
+        "w": "śastam",
+        "gloss": "commended",
+        "gram": "n. nom. sg., ppp. √śaṃs"
+       }
+      ]
+     },
+     {
+      "src": "madhūdakam",
+      "words": [
+       {
+        "w": "madhu-udakam",
+        "gloss": "honey-water",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कृशों की पुष्टि के लिए सुरा अनुपान के रूप में विहित है; स्थूल देह वालों की कृशता के लिए बाद में मधूदक प्रशस्त है।",
+  "english": "For the lean, surā is prescribed as an after-drink for building up (puṣṭi); for the stout-bodied, for leanness (kārśya), honey-water is commended afterwards.",
+  "text_flags": [],
+  "notes": "anu is taken as the adverb 'afterwards' (i.e. as after-drink).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.27.323a",
+   "01.27.323b"
+  ],
+  "lines_deva": [
+   "सुरा कृशानां पुष्ट्यर्थमनुपानं विधीयते",
+   "कार्श्यार्थं स्थूलदेहानामनु शस्तं मधूदकम्"
+  ],
+  "lines_iast": [
+   "surā kṛśānāṃ puṣṭyarthamanupānaṃ vidhīyate",
+   "kārśyārthaṃ sthūladehānāmanu śastaṃ madhūdakam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "324",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "alpāgnīnāmanidrāṇāṃ",
+      "words": [
+       {
+        "w": "alpa-agnīnām",
+        "gloss": "of those with weak digestive fire",
+        "gram": "m. gen. pl., bahuvrīhi"
+       },
+       {
+        "w": "anidrāṇām",
+        "gloss": "of the sleepless",
+        "gram": "m. gen. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "tandrāśokabhayaklamaiḥ",
+      "words": [
+       {
+        "w": "tandrā-śoka-bhaya-klamaiḥ",
+        "gloss": "by drowsiness, grief, fear and exhaustion",
+        "gram": "m. inst. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "madyamāṃsocitānāṃ",
+      "words": [
+       {
+        "w": "madya-māṃsa-ucitānām",
+        "gloss": "of those accustomed to madya and meat",
+        "gram": "m. gen. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "madyamevānuśasyate",
+      "words": [
+       {
+        "w": "madyam",
+        "gloss": "madya",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "alone",
+        "gram": "ind."
+       },
+       {
+        "w": "anuśasyate",
+        "gloss": "is recommended",
+        "gram": "3 sg. pres. pass. anu-√śaṃs"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मन्द अग्नि वालों के लिए, तन्द्रा, शोक, भय और क्लम से निद्रा-रहित लोगों के लिए, और मद्य तथा मांस के अभ्यस्त लोगों के लिए मद्य ही अनुशंसित है।",
+  "english": "For those with weak digestive fire (agni), for those sleepless from drowsiness (tandrā), grief, fear and exhaustion, and for those accustomed to madya and meat, madya alone is recommended (as after-drink).",
+  "text_flags": [],
+  "notes": "The instrumental tandrā-śoka-bhaya-klamaiḥ is taken with anidrāṇām ('sleepless from ...'); it may instead name a separate group ('those afflicted by drowsiness, grief, fear and exhaustion'). madya kept Sanskrit as earlier in the chapter.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.27.324a",
+   "01.27.324b"
+  ],
+  "lines_deva": [
+   "अल्पाग्नीनामनिद्राणां तन्द्राशोकभयक्लमैः",
+   "मद्यमांसोचितानां च मद्यमेवानुशस्यते"
+  ],
+  "lines_iast": [
+   "alpāgnīnāmanidrāṇāṃ tandrāśokabhayaklamaiḥ",
+   "madyamāṃsocitānāṃ ca madyamevānuśasyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "325",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athānupānakarmaguṇān",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now",
+        "gram": "ind."
+       },
+       {
+        "w": "anupāna-karma-guṇān",
+        "gloss": "the actions and qualities of the after-drink",
+        "gram": "m. acc. pl., tat-puruṣa containing dvandva"
+       }
+      ]
+     },
+     {
+      "src": "pravakṣyāmaḥ",
+      "words": [
+       {
+        "w": "pravakṣyāmaḥ",
+        "gloss": "we shall explain",
+        "gram": "1 pl. fut. pra-√vac"
+       }
+      ]
+     },
+     {
+      "src": "anupānaṃ",
+      "words": [
+       {
+        "w": "anupānam",
+        "gloss": "the after-drink",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tarpayati,",
+      "words": [
+       {
+        "w": "tarpayati",
+        "gloss": "replenishes",
+        "gram": "3 sg. pres. caus. √tṛp"
+       }
+      ]
+     },
+     {
+      "src": "prīṇayati,",
+      "words": [
+       {
+        "w": "prīṇayati",
+        "gloss": "gladdens",
+        "gram": "3 sg. pres. caus. √prī"
+       }
+      ]
+     },
+     {
+      "src": "ūrjayati,",
+      "words": [
+       {
+        "w": "ūrjayati",
+        "gloss": "invigorates",
+        "gram": "3 sg. pres. denom. ūrj"
+       }
+      ]
+     },
+     {
+      "src": "bṛṃhayati,",
+      "words": [
+       {
+        "w": "bṛṃhayati",
+        "gloss": "nourishes",
+        "gram": "3 sg. pres. caus. √bṛh"
+       }
+      ]
+     },
+     {
+      "src": "paryāptimabhinirvartayati,",
+      "words": [
+       {
+        "w": "paryāptim",
+        "gloss": "satiation",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "abhinirvartayati",
+        "gloss": "brings about",
+        "gram": "3 sg. pres. caus. abhi-nir-√vṛt"
+       }
+      ]
+     },
+     {
+      "src": "bhuktamavasādayati,",
+      "words": [
+       {
+        "w": "bhuktam",
+        "gloss": "what has been eaten",
+        "gram": "n. acc. sg., ppp. √bhuj"
+       },
+       {
+        "w": "avasādayati",
+        "gloss": "makes settle down",
+        "gram": "3 sg. pres. caus. ava-√sad"
+       }
+      ]
+     },
+     {
+      "src": "annasaṅghātaṃ",
+      "words": [
+       {
+        "w": "anna-saṅghātam",
+        "gloss": "the compact mass of food",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhinatti,",
+      "words": [
+       {
+        "w": "bhinatti",
+        "gloss": "breaks up",
+        "gram": "3 sg. pres. √bhid"
+       }
+      ]
+     },
+     {
+      "src": "mārdavamāpādayati,",
+      "words": [
+       {
+        "w": "mārdavam",
+        "gloss": "softness",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "āpādayati",
+        "gloss": "produces",
+        "gram": "3 sg. pres. caus. ā-√pad"
+       }
+      ]
+     },
+     {
+      "src": "kledayati,",
+      "words": [
+       {
+        "w": "kledayati",
+        "gloss": "moistens",
+        "gram": "3 sg. pres. caus. √klid"
+       }
+      ]
+     },
+     {
+      "src": "jarayati,",
+      "words": [
+       {
+        "w": "jarayati",
+        "gloss": "digests",
+        "gram": "3 sg. pres. caus. √jṝ"
+       }
+      ]
+     },
+     {
+      "src": "sukhapariṇāmitāmāśuvyavāyitāṃ",
+      "words": [
+       {
+        "w": "sukha-pariṇāmitām",
+        "gloss": "easy transformation",
+        "gram": "f. acc. sg., abstract (-tā) of sukha-pariṇāmin"
+       },
+       {
+        "w": "āśu-vyavāyitām",
+        "gloss": "quick diffusion",
+        "gram": "f. acc. sg., abstract (-tā) of āśu-vyavāyin"
+       }
+      ]
+     },
+     {
+      "src": "cāhārasyopajanayatīti",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "āhārasya",
+        "gloss": "of food",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "upajanayati",
+        "gloss": "produces",
+        "gram": "3 sg. pres. caus. upa-√jan"
+       },
+       {
+        "w": "iti",
+        "gloss": "(closing marker)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब अनुपान के कर्म और गुण कहेंगे। अनुपान तर्पण करता है, प्रसन्न करता है, ऊर्जा देता है, बृंहण करता है, पर्याप्ति उत्पन्न करता है, खाए हुए को नीचे बैठाता है, अन्न के संघात को तोड़ता है, मृदुता लाता है, क्लेदन करता है, पचाता है, और आहार का सुखपूर्वक परिणाम तथा शीघ्र व्यवायिता उत्पन्न करता है।",
+  "english": "Now we shall explain the actions and qualities of the after-drink. The after-drink replenishes, gladdens, invigorates, nourishes, brings about satiation (paryāpti), makes what has been eaten settle down, breaks up the compact mass of food, produces softness, moistens, digests, and produces easy transformation (pariṇāma) and quick diffusion (vyavāyitā) of food.",
+  "text_flags": [],
+  "notes": "Prose line typed as a verse unit. tarpayati = replenishes (tarpaṇa), bṛṃhayati = nourishes (bṛṃhaṇa), kledayati = moistens (kleda = moistness). avasādayati literally 'makes sink'. vyavāyitā literally 'pervasiveness' (from vyavāyin 'pervading'); 'quick diffusion' is given. The final iti closes the passage and is not translated.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.27.325"
+  ],
+  "lines_deva": [
+   "अथानुपानकर्मगुणान् प्रवक्ष्यामः अनुपानं तर्पयति, प्रीणयति, ऊर्जयति, बृंहयति, पर्याप्तिमभिनिर्वर्तयति, भुक्तमवसादयति, अन्नसङ्घातं भिनत्ति, मार्दवमापादयति, क्लेदयति, जरयति, सुखपरिणामितामाशुव्यवायितां चाहारस्योपजनयतीति"
+  ],
+  "lines_iast": [
+   "athānupānakarmaguṇān pravakṣyāmaḥ anupānaṃ tarpayati, prīṇayati, ūrjayati, bṛṃhayati, paryāptimabhinirvartayati, bhuktamavasādayati, annasaṅghātaṃ bhinatti, mārdavamāpādayati, kledayati, jarayati, sukhapariṇāmitāmāśuvyavāyitāṃ cāhārasyopajanayatīti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "326",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "there is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "cātra",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "atra",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "anupānaṃ",
+      "words": [
+       {
+        "w": "anupānam",
+        "gloss": "after-drink",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hitaṃ",
+      "words": [
+       {
+        "w": "hitam",
+        "gloss": "wholesome",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yuktaṃ",
+      "words": [
+       {
+        "w": "yuktam",
+        "gloss": "properly used",
+        "gram": "n. nom. sg., ppp. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "tarpayatyāśu",
+      "words": [
+       {
+        "w": "tarpayati",
+        "gloss": "replenishes",
+        "gram": "3 sg. pres. caus. √tṛp"
+       },
+       {
+        "w": "āśu",
+        "gloss": "quickly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mānavam",
+      "words": [
+       {
+        "w": "mānavam",
+        "gloss": "a man",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sukhaṃ",
+      "words": [
+       {
+        "w": "sukham",
+        "gloss": "easily",
+        "gram": "ind. (n. acc. sg.)"
+       }
+      ]
+     },
+     {
+      "src": "pacati",
+      "words": [
+       {
+        "w": "pacati",
+        "gloss": "digests",
+        "gram": "3 sg. pres. √pac"
+       }
+      ]
+     },
+     {
+      "src": "cāhāramāyuṣe",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "āhāram",
+        "gloss": "food",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āyuṣe",
+        "gloss": "for life",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "balāya",
+      "words": [
+       {
+        "w": "balāya",
+        "gloss": "for strength",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और यहाँ (श्लोक) है: हितकर अनुपान, ठीक से प्रयुक्त होने पर, मनुष्य का शीघ्र तर्पण करता है, आहार को सुखपूर्वक पचाता है, और आयु तथा बल के लिए (होता है)।",
+  "english": "And here there is: a wholesome after-drink, properly used, quickly replenishes a man, digests food easily, and (serves) for life and strength.",
+  "text_flags": [],
+  "notes": "pacati literally 'cooks'. The datives āyuṣe ca balāya ca have no verb; '(serves)' is understood.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.27.326a",
+   "01.27.326b",
+   "01.27.326c"
+  ],
+  "lines_deva": [
+   "भवति चात्र",
+   "अनुपानं हितं युक्तं तर्पयत्याशु मानवम्",
+   "सुखं पचति चाहारमायुषे च बलाय च"
+  ],
+  "lines_iast": [
+   "bhavati cātra",
+   "anupānaṃ hitaṃ yuktaṃ tarpayatyāśu mānavam",
+   "sukhaṃ pacati cāhāramāyuṣe ca balāya ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "327",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nordhvāṅgamārutāviṣṭa",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "ūrdhva-aṅga-māruta-āviṣṭāḥ",
+        "gloss": "those possessed by Vāta in the upper body",
+        "gram": "m. nom. pl., tat-puruṣa, ppp. ā-√viś"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hikkāśvāsakāsinaḥ",
+      "words": [
+       {
+        "w": "hikkā-śvāsa-kāsinaḥ",
+        "gloss": "those suffering from hiccup, dyspnoea and cough",
+        "gram": "m. nom. pl., dvandva + -in"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gītabhāṣyāadhyayanaprasaktā",
+      "words": [
+       {
+        "w": "gīta-bhāṣya-adhyayana-prasaktāḥ",
+        "gloss": "those devoted to singing, speaking and study",
+        "gram": "m. nom. pl., tat-puruṣa, ppp. pra-√sañj"
+       }
+      ]
+     },
+     {
+      "src": "norasi",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "urasi",
+        "gloss": "in the chest",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣatāḥ",
+      "words": [
+       {
+        "w": "kṣatāḥ",
+        "gloss": "injured",
+        "gram": "m. nom. pl., ppp. √kṣaṇ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "न ऊर्ध्व अंगों में मारुत से ग्रस्त, न हिक्का, श्वास और कास के रोगी, न गाने, बोलने और अध्ययन में लगे हुए, न छाती में क्षत वाले —",
+  "english": "Not those possessed by Vāta (māruta) in the upper parts of the body, not those suffering from hiccup (hikkā), dyspnoea (śvāsa) and cough, not those devoted to singing, speaking and study, not those injured in the chest —",
+  "text_flags": [
+   {
+    "src": "nordhvāṅgamārutāviṣṭa",
+    "suggest": "nordhvāṅgamārutāviṣṭā",
+    "why": "possible: the subject must be nominative plural like kāsinaḥ, prasaktā(ḥ), kṣatāḥ in this verse and pibeyuḥ in 328; -āviṣṭāḥ loses its visarga before 'na' as -āviṣṭā, so the short final a looks like a slip"
+   },
+   {
+    "src": "gītabhāṣyāadhyayanaprasaktā",
+    "suggest": "gītabhāṣyādhyayanaprasaktā",
+    "why": "bhāṣya + adhyayana joins as bhāṣyādhyayana; the extra 'a' gives the half-line 17 syllables, with bhāṣyādhyayana it has 16"
+   }
+  ],
+  "notes": "SENTENCE: the verb (pibeyur udakaṃ bhuktvā 'should drink water after eating') is in 328. prasaktā is prasaktāḥ with the visarga dropped before n.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.27.327a",
+   "01.27.327b"
+  ],
+  "lines_deva": [
+   "नोर्ध्वाङ्गमारुताविष्ट न हिक्काश्वासकासिनः",
+   "न गीतभाष्याअध्ययनप्रसक्ता नोरसि क्षताः"
+  ],
+  "lines_iast": [
+   "nordhvāṅgamārutāviṣṭa na hikkāśvāsakāsinaḥ",
+   "na gītabhāṣyāadhyayanaprasaktā norasi kṣatāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "328",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pibeyurudakaṃ",
+      "words": [
+       {
+        "w": "pibeyuḥ",
+        "gloss": "should drink",
+        "gram": "3 pl. opt. √pā"
+       },
+       {
+        "w": "udakam",
+        "gloss": "water",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhuktvā",
+      "words": [
+       {
+        "w": "bhuktvā",
+        "gloss": "after eating",
+        "gram": "abs. √bhuj"
+       }
+      ]
+     },
+     {
+      "src": "taddhi",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaṇṭorasi",
+      "words": [
+       {
+        "w": "kaṇṭha-urasi",
+        "gloss": "in the throat and chest",
+        "gram": "n. loc. sg., samāhāra dvandva"
+       }
+      ]
+     },
+     {
+      "src": "sthitam",
+      "words": [
+       {
+        "w": "sthitam",
+        "gloss": "staying",
+        "gram": "n. nom. sg., ppp. √sthā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "snehamāhārajaṃ",
+      "words": [
+       {
+        "w": "sneham",
+        "gloss": "the unctuousness",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āhāra-jam",
+        "gloss": "born of food",
+        "gram": "m. acc. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "hatvā",
+      "words": [
+       {
+        "w": "hatvā",
+        "gloss": "having destroyed",
+        "gram": "abs. √han"
+       }
+      ]
+     },
+     {
+      "src": "bhūyo",
+      "words": [
+       {
+        "w": "bhūyaḥ",
+        "gloss": "further",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "doṣāya",
+      "words": [
+       {
+        "w": "doṣāya",
+        "gloss": "for doṣa",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "kalpate",
+      "words": [
+       {
+        "w": "kalpate",
+        "gloss": "becomes conducive",
+        "gram": "3 sg. pres. ātm. √kḷp"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "भोजन करके जल पीएँ; क्योंकि वह (जल) कण्ठ और छाती में स्थित होकर आहार से उत्पन्न स्नेह को नष्ट करके फिर दोष के लिए होता है।",
+  "english": "— should drink water after eating; for that (water), staying in the throat and chest, destroys the unctuousness (sneha) born of food and becomes conducive to further doṣa.",
+  "text_flags": [
+   {
+    "src": "kaṇṭorasi",
+    "suggest": "kaṇṭhorasi",
+    "why": "the place paired with uras 'chest' (cf. 'norasi kṣatāḥ' in 327) is kaṇṭha 'throat'; kaṇṭa 'thorn' gives no sense, ṭ for ṭh is a slip; syllable count unchanged"
+   }
+  ],
+  "notes": "SENTENCE: continues 327 (its subjects). bhūyaḥ may mean 'again' or 'more'; 'further' is given. doṣāya kalpate may mean 'leads to (aggravation of) the doṣas' or 'leads to harm'; the Sanskrit word is kept.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.27.328a",
+   "01.27.328b"
+  ],
+  "lines_deva": [
+   "पिबेयुरुदकं भुक्त्वा तद्धि कण्टोरसि स्थितम्",
+   "स्नेहमाहारजं हत्वा भूयो दोषाय कल्पते"
+  ],
+  "lines_iast": [
+   "pibeyurudakaṃ bhuktvā taddhi kaṇṭorasi sthitam",
+   "snehamāhārajaṃ hatvā bhūyo doṣāya kalpate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "329",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "annapānaikadeśo'yamuktaḥ",
+      "words": [
+       {
+        "w": "anna-pāna-eka-deśaḥ",
+        "gloss": "a part of food and drink",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "ayam",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "uktaḥ",
+        "gloss": "has been stated",
+        "gram": "m. nom. sg., ppp. √vac"
+       }
+      ]
+     },
+     {
+      "src": "prāyopayogikaḥ",
+      "words": [
+       {
+        "w": "prāya-upayogikaḥ",
+        "gloss": "mostly in use",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dravyāṇi",
+      "words": [
+       {
+        "w": "dravyāṇi",
+        "gloss": "substances",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nirdeṣṭuṃ",
+      "words": [
+       {
+        "w": "nirdeṣṭum",
+        "gloss": "to indicate",
+        "gram": "inf. nir-√diś"
+       }
+      ]
+     },
+     {
+      "src": "śakyaṃ",
+      "words": [
+       {
+        "w": "śakyam",
+        "gloss": "possible",
+        "gram": "n. nom. sg., gerundive (kṛtya) √śak"
+       }
+      ]
+     },
+     {
+      "src": "kātsnryena",
+      "words": [
+       {
+        "w": "kārtsnyena",
+        "gloss": "completely",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāmabhiḥ",
+      "words": [
+       {
+        "w": "nāmabhiḥ",
+        "gloss": "by names",
+        "gram": "n. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अन्न-पान का यह एक भाग कहा गया है जो प्रायः उपयोग में आता है; क्योंकि द्रव्यों को नामों से सम्पूर्णतः बताना सम्भव नहीं है।",
+  "english": "This part of food and drink, which is mostly in use, has been stated; for it is not possible to indicate substances completely by names.",
+  "text_flags": [
+   {
+    "src": "kātsnryena",
+    "suggest": "kārtsnyena",
+    "why": "'kātsnrya' is not a Sanskrit word; the abstract of kṛtsna 'whole' is kārtsnya, and the r has been typed after the n; syllable count unchanged"
+   }
+  ],
+  "notes": "śakyam is used impersonally with dravyāṇi as the object of nirdeṣṭum.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.27.329a",
+   "01.27.329b"
+  ],
+  "lines_deva": [
+   "अन्नपानैकदेशोऽयमुक्तः प्रायोपयोगिकः",
+   "द्रव्याणि न हि निर्देष्टुं शक्यं कात्स्न्र्येन नामभिः"
+  ],
+  "lines_iast": [
+   "annapānaikadeśo'yamuktaḥ prāyopayogikaḥ",
+   "dravyāṇi na hi nirdeṣṭuṃ śakyaṃ kātsnryena nāmabhiḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "330",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "just as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nānauṣadhaṃ",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "anauṣadham",
+        "gloss": "non-medicine",
+        "gram": "n. nom. sg., nañ tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kiṃciddeśajānāṃ",
+      "words": [
+       {
+        "w": "kiṃcit",
+        "gloss": "anything",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "deśa-jānām",
+        "gloss": "of those born in the region",
+        "gram": "m. gen. pl., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vaco",
+      "words": [
+       {
+        "w": "vacaḥ",
+        "gloss": "the speech",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "according to",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dravyaṃ",
+      "words": [
+       {
+        "w": "dravyam",
+        "gloss": "substance",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tattattathā",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "tat",
+        "gloss": "that (each)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "tathā",
+        "gloss": "so, in that way",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vācyamanuktamiha",
+      "words": [
+       {
+        "w": "vācyam",
+        "gloss": "should be named",
+        "gram": "n. nom. sg., gerundive (kṛtya) √vac"
+       },
+       {
+        "w": "anuktam",
+        "gloss": "not stated",
+        "gram": "n. nom. sg., ppp. √vac with nañ"
+       },
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yadbhavet",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "bhavet",
+        "gloss": "may be",
+        "gram": "3 sg. opt. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जैसे कुछ भी अनौषध नहीं है, (वैसे ही) देश में उत्पन्न लोगों के वचन के अनुसार, जो द्रव्य यहाँ नहीं कहा गया हो, वह-वह उसी प्रकार कहा जाना चाहिए।",
+  "english": "Just as there is nothing that is not a medicine, so, according to the speech of the people born in the region, each substance that may not be stated here should be named in that way.",
+  "text_flags": [],
+  "notes": "nānauṣadham is split na + anauṣadham 'there is no non-medicine'; the split nānā-auṣadham 'various medicines' is grammatically possible but gives a weaker sense with kiṃcit. The second yathā is taken as 'according to' with deśajānāṃ vacaḥ. The correlation of the first yathā with tathā is loose.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.27.330a",
+   "01.27.330b"
+  ],
+  "lines_deva": [
+   "यथा नानौषधं किंचिद्देशजानां वचो यथा",
+   "द्रव्यं तत्तत्तथा वाच्यमनुक्तमिह यद्भवेत्"
+  ],
+  "lines_iast": [
+   "yathā nānauṣadhaṃ kiṃciddeśajānāṃ vaco yathā",
+   "dravyaṃ tattattathā vācyamanuktamiha yadbhavet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "331",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "caraḥ",
+      "words": [
+       {
+        "w": "caraḥ",
+        "gloss": "habitat (cara)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śarīrāvayavāḥ",
+      "words": [
+       {
+        "w": "śarīra-avayavāḥ",
+        "gloss": "body parts",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "svabhāvo",
+      "words": [
+       {
+        "w": "svabhāvaḥ",
+        "gloss": "own nature",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhātavaḥ",
+      "words": [
+       {
+        "w": "dhātavaḥ",
+        "gloss": "dhātus",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kriyā",
+      "words": [
+       {
+        "w": "kriyā",
+        "gloss": "activity",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "liṅgaḥ",
+      "words": [
+       {
+        "w": "liṅgaḥ",
+        "gloss": "sex (liṅga)",
+        "gram": "m. nom. sg. (as printed)"
+       }
+      ]
+     },
+     {
+      "src": "pramāṇaṃ",
+      "words": [
+       {
+        "w": "pramāṇam",
+        "gloss": "size",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃskāro",
+      "words": [
+       {
+        "w": "saṃskāraḥ",
+        "gloss": "processing",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mātra",
+      "words": [
+       {
+        "w": "mātrā",
+        "gloss": "measure",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "cāsmin",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asmin",
+        "gloss": "in this (matter)",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "parīkṣyate",
+      "words": [
+       {
+        "w": "parīkṣyate",
+        "gloss": "is examined",
+        "gram": "3 sg. pres. pass. pari-√īkṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चर, शरीर के अवयव, स्वभाव, धातु, क्रिया, लिङ्ग, प्रमाण, संस्कार और मात्रा — इसमें (इनकी) परीक्षा की जाती है।",
+  "english": "Habitat (cara), body parts, own nature (svabhāva), the dhātus, activity (kriyā), sex (liṅga), size (pramāṇa), processing (saṃskāra) and measure (mātrā) are examined in this (matter).",
+  "text_flags": [
+   {
+    "src": "mātra",
+    "suggest": "mātrā",
+    "why": "the ninth item of the list is the feminine noun mātrā, as the list is explained in this chunk ('mātrā kāraṇam uddiṣṭam' 340, 'mātrā cāgnim apekṣate' 341); the short final ā is a slip"
+   }
+  ],
+  "notes": "The list is the headings for the heaviness and lightness of foods explained in 332-341. liṅgaḥ is printed masculine; the word is normally neuter (liṅgam); kept as printed. asmin 'in this' is taken as the topic of heaviness and lightness (cf. 340, 343).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.27.331a",
+   "01.27.331b"
+  ],
+  "lines_deva": [
+   "चरः शरीरावयवाः स्वभावो धातवः क्रिया",
+   "लिङ्गः प्रमाणं संस्कारो मात्र चास्मिन् परीक्ष्यते"
+  ],
+  "lines_iast": [
+   "caraḥ śarīrāvayavāḥ svabhāvo dhātavaḥ kriyā",
+   "liṅgaḥ pramāṇaṃ saṃskāro mātra cāsmin parīkṣyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "332",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "caro'nūpajalākāśadhanvādyo",
+      "words": [
+       {
+        "w": "caraḥ",
+        "gloss": "habitat",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "anūpa-jala-ākāśa-dhanva-ādyaḥ",
+        "gloss": "marsh, water, sky, dry land and the rest",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "bhakṣyasaṃvidhiḥ",
+      "words": [
+       {
+        "w": "bhakṣya-saṃvidhiḥ",
+        "gloss": "the arrangement of food",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "jalajānūpajāścaiva",
+      "words": [
+       {
+        "w": "jala-ja-anūpa-jāḥ",
+        "gloss": "those born in water and marsh",
+        "gram": "m. nom. pl., dvandva of upapada tat-puruṣas"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jalānūpacarāśca",
+      "words": [
+       {
+        "w": "jala-anūpa-carāḥ",
+        "gloss": "those moving in water and marsh",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चर अनूप, जल, आकाश, धन्व आदि (स्थान) और भक्ष्य की व्यवस्था है; जो जल और अनूप में उत्पन्न हैं तथा जो जल और अनूप में विचरने वाले हैं,",
+  "english": "Habitat (cara) is marsh, water, sky, dry land (dhanvan) and the rest, (and) the arrangement of food (bhakṣyasaṃvidhi); those which are born in water and marsh, and those which move in water and marsh,",
+  "text_flags": [],
+  "notes": "SENTENCE: continues into 333 (sarve te guravaḥ smṛtāḥ). bhakṣyasaṃvidhi is taken as 'what the animal eats', which 333 explains (gurubhakṣya, laghubhakṣya); the exact sense of saṃvidhi is not certain. anūpa = marsh, dhanvan = dry region as in the glossary.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.27.332a",
+   "01.27.332b"
+  ],
+  "lines_deva": [
+   "चरोऽनूपजलाकाशधन्वाद्यो भक्ष्यसंविधिः",
+   "जलजानूपजाश्चैव जलानूपचराश्च ये"
+  ],
+  "lines_iast": [
+   "caro'nūpajalākāśadhanvādyo bhakṣyasaṃvidhiḥ",
+   "jalajānūpajāścaiva jalānūpacarāśca ye"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "333",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gurubhakṣyāśca",
+      "words": [
+       {
+        "w": "guru-bhakṣyāḥ",
+        "gloss": "eating heavy food",
+        "gram": "m. nom. pl., bahuvrīhi"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "which",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sattvāḥ",
+      "words": [
+       {
+        "w": "sattvāḥ",
+        "gloss": "creatures",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sarve",
+      "words": [
+       {
+        "w": "sarve",
+        "gloss": "all",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "they",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "guravaḥ",
+      "words": [
+       {
+        "w": "guravaḥ",
+        "gloss": "heavy",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "smṛtāḥ",
+      "words": [
+       {
+        "w": "smṛtāḥ",
+        "gloss": "are considered",
+        "gram": "m. nom. pl., ppp. √smṛ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "laghubhakṣyāstu",
+      "words": [
+       {
+        "w": "laghu-bhakṣyāḥ",
+        "gloss": "eating light food",
+        "gram": "m. nom. pl., bahuvrīhi"
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "laghavo",
+      "words": [
+       {
+        "w": "laghavaḥ",
+        "gloss": "light",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dhanvajā",
+      "words": [
+       {
+        "w": "dhanva-jāḥ",
+        "gloss": "born in dry land",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "dhanvacāriṇaḥ",
+      "words": [
+       {
+        "w": "dhanva-cāriṇaḥ",
+        "gloss": "moving in dry land",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और जो प्राणी गुरु भक्ष्य वाले हैं, वे सब गुरु माने गए हैं; किन्तु लघु भक्ष्य वाले, धन्व में उत्पन्न और धन्व में विचरने वाले लघु हैं।",
+  "english": "and the creatures which eat heavy food — all of them are considered heavy; but those that eat light food, those born in dry land and those moving in dry land are light.",
+  "text_flags": [],
+  "notes": "SENTENCE: the subjects in 332b belong to 'sarve te guravaḥ smṛtāḥ' here. sattva here = living creature (not mind). The plural adjectives dhanvajā(ḥ) and dhanvacāriṇaḥ are taken with laghavaḥ.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.27.333a",
+   "01.27.333b"
+  ],
+  "lines_deva": [
+   "गुरुभक्ष्याश्च ये सत्त्वाः सर्वे ते गुरवः स्मृताः",
+   "लघुभक्ष्यास्तु लघवो धन्वजा धन्वचारिणः"
+  ],
+  "lines_iast": [
+   "gurubhakṣyāśca ye sattvāḥ sarve te guravaḥ smṛtāḥ",
+   "laghubhakṣyāstu laghavo dhanvajā dhanvacāriṇaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "334",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śarīrāvayavāḥ",
+      "words": [
+       {
+        "w": "śarīra-avayavāḥ",
+        "gloss": "body parts",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sakthiśiraḥskandhādayastathā",
+      "words": [
+       {
+        "w": "sakthi-śiraḥ-skandha-ādayaḥ",
+        "gloss": "thigh, head, shoulder and the rest",
+        "gram": "m. nom. pl., bahuvrīhi"
+       },
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sakthimāṃsādguruḥ",
+      "words": [
+       {
+        "w": "sakthi-māṃsāt",
+        "gloss": "than thigh meat",
+        "gram": "n. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "guruḥ",
+        "gloss": "heavier",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "skandhastataḥ",
+      "words": [
+       {
+        "w": "skandhaḥ",
+        "gloss": "the shoulder",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tataḥ",
+        "gloss": "than that",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kroḍastataḥ",
+      "words": [
+       {
+        "w": "kroḍaḥ",
+        "gloss": "the kroḍa (breast)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tataḥ",
+        "gloss": "than that",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śiraḥ",
+      "words": [
+       {
+        "w": "śiraḥ",
+        "gloss": "the head",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शरीर के अवयव, वैसे ही, सक्थि, सिर, स्कन्ध आदि हैं; सक्थि के मांस से स्कन्ध गुरु है, उससे क्रोड, उससे सिर।",
+  "english": "The body parts are, likewise, the thigh, head, shoulder and the rest; the shoulder is heavier than the thigh meat, the kroḍa (breast) than that, the head than that.",
+  "text_flags": [],
+  "notes": "guru with the ablative has comparative force ('heavier than'); guruḥ is understood with kroḍa and śiras. kroḍa may mean breast or flank; kept Sanskrit with 'breast'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.27.334a",
+   "01.27.334b"
+  ],
+  "lines_deva": [
+   "शरीरावयवाः सक्थिशिरःस्कन्धादयस्तथा",
+   "सक्थिमांसाद्गुरुः स्कन्धस्ततः क्रोडस्ततः शिरः"
+  ],
+  "lines_iast": [
+   "śarīrāvayavāḥ sakthiśiraḥskandhādayastathā",
+   "sakthimāṃsādguruḥ skandhastataḥ kroḍastataḥ śiraḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "335",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vṛṣaṇau",
+      "words": [
+       {
+        "w": "vṛṣaṇau",
+        "gloss": "the two testicles",
+        "gram": "m. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "carma",
+      "words": [
+       {
+        "w": "carma",
+        "gloss": "skin",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "meḍhraṃ",
+      "words": [
+       {
+        "w": "meḍhram",
+        "gloss": "penis",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śroṇī",
+      "words": [
+       {
+        "w": "śroṇī",
+        "gloss": "the two hips",
+        "gram": "f. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "vṛkkau",
+      "words": [
+       {
+        "w": "vṛkkau",
+        "gloss": "the two kidneys",
+        "gram": "m. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "yakṛdgudam",
+      "words": [
+       {
+        "w": "yakṛt",
+        "gloss": "liver",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "gudam",
+        "gloss": "anus (guda)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "māṃsādgurutaraṃ",
+      "words": [
+       {
+        "w": "māṃsāt",
+        "gloss": "than the flesh",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "gurutaram",
+        "gloss": "heavier",
+        "gram": "n. acc. sg., comparative"
+       }
+      ]
+     },
+     {
+      "src": "vidyādyathāsvaṃ",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "one should know",
+        "gram": "3 sg. opt. √vid"
+       },
+       {
+        "w": "yathā-svam",
+        "gloss": "each according to its own (kind)",
+        "gram": "ind., avyayībhāva"
+       }
+      ]
+     },
+     {
+      "src": "madhyamasthi",
+      "words": [
+       {
+        "w": "madhyam",
+        "gloss": "the middle (part)",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "asthi",
+        "gloss": "bone",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों वृषण, चर्म, मेढ्र, दोनों श्रोणि, दोनों वृक्क, यकृत्, गुद और मध्य (भाग) तथा अस्थि — इन्हें यथास्व मांस से अधिक गुरु जानना चाहिए।",
+  "english": "The two testicles, skin, penis, the two hips, the two kidneys, liver and anus (guda), and the middle (part) and bone — one should know (these) to be heavier than the flesh, each according to its own (kind).",
+  "text_flags": [],
+  "notes": "madhyamasthi is split madhyam + asthi ('the middle part and bone'); it could also be read as madhyam asthi 'the middle bone'. The words of line a are taken as accusative objects of vidyāt (the forms are the same as the nominative); gurutaram (n. sg.) is predicated of them all. yathāsvam is taken as 'compared with the flesh of the same animal'. śroṇī may also be the singular of the ī-stem śroṇī 'hip, pelvis'; the dual of śroṇi is given.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.27.335a",
+   "01.27.335b"
+  ],
+  "lines_deva": [
+   "वृषणौ चर्म मेढ्रं च श्रोणी वृक्कौ यकृद्गुदम्",
+   "मांसाद्गुरुतरं विद्याद्यथास्वं मध्यमस्थि च"
+  ],
+  "lines_iast": [
+   "vṛṣaṇau carma meḍhraṃ ca śroṇī vṛkkau yakṛdgudam",
+   "māṃsādgurutaraṃ vidyādyathāsvaṃ madhyamasthi ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "336",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "svabhāvāllaghavo",
+      "words": [
+       {
+        "w": "svabhāvāt",
+        "gloss": "by nature",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "laghavaḥ",
+        "gloss": "light",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mugāstathā",
+      "words": [
+       {
+        "w": "mudgāḥ",
+        "gloss": "mudgas",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "lāvakapiñjalāḥ",
+      "words": [
+       {
+        "w": "lāva-kapiñjalāḥ",
+        "gloss": "lāvas and kapiñjalas",
+        "gram": "m. nom. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "svabhāvādguravo",
+      "words": [
+       {
+        "w": "svabhāvāt",
+        "gloss": "by nature",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "guravaḥ",
+        "gloss": "heavy",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "māṣā",
+      "words": [
+       {
+        "w": "māṣāḥ",
+        "gloss": "māṣas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "varāhamahiṣāstathā",
+      "words": [
+       {
+        "w": "varāha-mahiṣāḥ",
+        "gloss": "boars and buffaloes",
+        "gram": "m. nom. pl., dvandva"
+       },
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्वभाव से मुद्ग लघु होते हैं, वैसे ही लाव और कपिञ्जल; स्वभाव से माष गुरु होते हैं, वैसे ही वराह और महिष।",
+  "english": "By nature mudgas are light, likewise lāvas and kapiñjalas; by nature māṣas are heavy, likewise boars and buffaloes.",
+  "text_flags": [
+   {
+    "src": "mugāstathā",
+    "suggest": "mudgāstathā",
+    "why": "possible: metre of the odd pāda: syllables 5-7 gha-vo-mu = light-heavy-light, not allowed; with mud- the 7th is heavy (light-heavy-heavy); sense: a pulse paired with māṣāḥ in line b; 'muga' is not a Sanskrit word"
+   }
+  ],
+  "notes": "mudga: green gram; māṣa: black gram (plain names, kept Sanskrit in the translations). lāva and kapiñjala kept Sanskrit (no identification).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.27.336a",
+   "01.27.336b"
+  ],
+  "lines_deva": [
+   "स्वभावाल्लघवो मुगास्तथा लावकपिञ्जलाः",
+   "स्वभावाद्गुरवो माषा वराहमहिषास्तथा"
+  ],
+  "lines_iast": [
+   "svabhāvāllaghavo mugāstathā lāvakapiñjalāḥ",
+   "svabhāvādguravo māṣā varāhamahiṣāstathā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "337",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dhātūnāṃ",
+      "words": [
+       {
+        "w": "dhātūnām",
+        "gloss": "of the dhātus",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "śoṇitādīnāṃ",
+      "words": [
+       {
+        "w": "śoṇita-ādīnām",
+        "gloss": "beginning with blood",
+        "gram": "m. gen. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "guruṃ",
+      "words": [
+       {
+        "w": "gurum",
+        "gloss": "heavy",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidyādyathottaram",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "one should know",
+        "gram": "3 sg. opt. √vid"
+       },
+       {
+        "w": "yathā-uttaram",
+        "gloss": "in successive order",
+        "gram": "ind., avyayībhāva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "alasebhyo",
+      "words": [
+       {
+        "w": "alasebhyaḥ",
+        "gloss": "than the sluggish",
+        "gram": "m. abl. pl."
+       }
+      ]
+     },
+     {
+      "src": "viśiṣyante",
+      "words": [
+       {
+        "w": "viśiṣyante",
+        "gloss": "are superior",
+        "gram": "3 pl. pres. pass. vi-√śiṣ"
+       }
+      ]
+     },
+     {
+      "src": "prāṇino",
+      "words": [
+       {
+        "w": "prāṇinaḥ",
+        "gloss": "living beings",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bahukriyāḥ",
+      "words": [
+       {
+        "w": "bahu-kriyāḥ",
+        "gloss": "very active",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रक्त आदि धातुओं में उत्तरोत्तर (प्रत्येक को) गुरु जानना चाहिए; जो प्राणी बहुत क्रियाशील हैं, वे आलसी (प्राणियों) से विशिष्ट हैं।",
+  "english": "Of the dhātus beginning with blood, one should know (each) successive one to be heavy(-ier); living beings that are very active are superior to the sluggish ones.",
+  "text_flags": [],
+  "notes": "gurum (m. acc. sg.) is taken distributively ('each later one heavy'); the comparative sense comes from yathottaram. viśiṣyante 'are superior' is taken as superior in lightness (the topic of kriyā in 331); the text does not say in what respect. The order of the dhātus is not given in this chunk.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.27.337a",
+   "01.27.337b"
+  ],
+  "lines_deva": [
+   "धातूनां शोणितादीनां गुरुं विद्याद्यथोत्तरम्",
+   "अलसेभ्यो विशिष्यन्ते प्राणिनो ये बहुक्रियाः"
+  ],
+  "lines_iast": [
+   "dhātūnāṃ śoṇitādīnāṃ guruṃ vidyādyathottaram",
+   "alasebhyo viśiṣyante prāṇino ye bahukriyāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "338",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gauravaṃ",
+      "words": [
+       {
+        "w": "gauravam",
+        "gloss": "heaviness",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "liṅgasāmānye",
+      "words": [
+       {
+        "w": "liṅga-sāmānye",
+        "gloss": "as to sex in general",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "puṃsāṃ",
+      "words": [
+       {
+        "w": "puṃsām",
+        "gloss": "of males",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "strīṇāṃ",
+      "words": [
+       {
+        "w": "strīṇām",
+        "gloss": "of females",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "lāghavam",
+      "words": [
+       {
+        "w": "lāghavam",
+        "gloss": "lightness",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mahāpramāṇā",
+      "words": [
+       {
+        "w": "mahā-pramāṇāḥ",
+        "gloss": "those of large size",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "guravaḥ",
+      "words": [
+       {
+        "w": "guravaḥ",
+        "gloss": "heavy",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "svajātau",
+      "words": [
+       {
+        "w": "sva-jātau",
+        "gloss": "within their own species",
+        "gram": "f. loc. sg., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "laghavo'nyathā",
+      "words": [
+       {
+        "w": "laghavaḥ",
+        "gloss": "light",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "anyathā",
+        "gloss": "otherwise",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "लिङ्ग के सामान्य (विचार) में पुरुषों का गौरव और स्त्रियों का तो लाघव है; अपनी जाति में बड़े प्रमाण वाले गुरु और अन्यथा लघु होते हैं।",
+  "english": "As to sex (liṅga) in general, heaviness belongs to males, but lightness to females; within their own species those of large size (pramāṇa) are heavy, otherwise (they are) light.",
+  "text_flags": [],
+  "notes": "liṅgasāmānye is literally 'in the commonness of sex'; it is taken as 'as to sex in general' (perhaps 'among animals of one kind'); the exact sense is uncertain. puṃs/strī here are male and female animals.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.27.338a",
+   "01.27.338b"
+  ],
+  "lines_deva": [
+   "गौरवं लिङ्गसामान्ये पुंसां स्त्रीणां तु लाघवम्",
+   "महाप्रमाणा गुरवः स्वजातौ लघवोऽन्यथा"
+  ],
+  "lines_iast": [
+   "gauravaṃ liṅgasāmānye puṃsāṃ strīṇāṃ tu lāghavam",
+   "mahāpramāṇā guravaḥ svajātau laghavo'nyathā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "339",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gurūṇāṃ",
+      "words": [
+       {
+        "w": "gurūṇām",
+        "gloss": "of heavy (substances)",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "lāghavaṃ",
+      "words": [
+       {
+        "w": "lāghavam",
+        "gloss": "lightness",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidyāt",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "one should know",
+        "gram": "3 sg. opt. √vid"
+       }
+      ]
+     },
+     {
+      "src": "saṃskrārāt",
+      "words": [
+       {
+        "w": "saṃskārāt",
+        "gloss": "from processing",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "saviparyayam",
+      "words": [
+       {
+        "w": "sa-viparyayam",
+        "gloss": "together with the reverse",
+        "gram": "n. acc. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vrīherlājā",
+      "words": [
+       {
+        "w": "vrīheḥ",
+        "gloss": "from rice",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "lājāḥ",
+        "gloss": "lājā (parched grain)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "syuḥ",
+      "words": [
+       {
+        "w": "syuḥ",
+        "gloss": "would be",
+        "gram": "3 pl. opt. √as"
+       }
+      ]
+     },
+     {
+      "src": "saktūnāṃ",
+      "words": [
+       {
+        "w": "saktūnām",
+        "gloss": "of saktu",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "siddhapiṇḍikāḥ",
+      "words": [
+       {
+        "w": "siddha-piṇḍikāḥ",
+        "gloss": "cooked balls",
+        "gram": "f. nom. pl., karmadhāraya"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "संस्कार से गुरु (द्रव्यों) का विपर्यय-सहित लाघव जानना चाहिए; जैसे व्रीहि से लाजा होते हैं, और सक्तु की पकी हुई पिण्डिकाएँ।",
+  "english": "One should know the lightness of heavy (substances) from processing (saṃskāra), together with the reverse: as lājā (parched grain) would come from rice (vrīhi), and cooked balls of saktu.",
+  "text_flags": [
+   {
+    "src": "saṃskrārāt",
+    "suggest": "saṃskārāt",
+    "why": "'saṃskrāra' is not a word; the same heading is printed saṃskāro in 331 of this chunk; the extra r is a slip; syllable count unchanged"
+   }
+  ],
+  "notes": "The two examples illustrate the two directions: rice made into lājā becomes lighter, saktu made into cooked balls becomes heavier (the reverse); this pairing is inferred from saviparyayam and is not stated. vrīheḥ may also be genitive. lājā, saktu kept Sanskrit.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.27.339a",
+   "01.27.339b"
+  ],
+  "lines_deva": [
+   "गुरूणां लाघवं विद्यात् संस्क्रारात् सविपर्ययम्",
+   "व्रीहेर्लाजा यथा च स्युः सक्तूनां सिद्धपिण्डिकाः"
+  ],
+  "lines_iast": [
+   "gurūṇāṃ lāghavaṃ vidyāt saṃskrārāt saviparyayam",
+   "vrīherlājā yathā ca syuḥ saktūnāṃ siddhapiṇḍikāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "340",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "alpādāne",
+      "words": [
+       {
+        "w": "alpa-ādāne",
+        "gloss": "in taking a small amount",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "gurūṇāṃ",
+      "words": [
+       {
+        "w": "gurūṇām",
+        "gloss": "of heavy (substances)",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "laghūnāṃ",
+      "words": [
+       {
+        "w": "laghūnām",
+        "gloss": "of light (substances)",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "cātisevane",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ati-sevane",
+        "gloss": "in excessive use",
+        "gram": "n. loc. sg., prādi tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mātrā",
+      "words": [
+       {
+        "w": "mātrā",
+        "gloss": "measure",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāraṇamuddiṣṭaṃ",
+      "words": [
+       {
+        "w": "kāraṇam",
+        "gloss": "the cause",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "uddiṣṭam",
+        "gloss": "is declared",
+        "gram": "n. nom. sg., ppp. ud-√diś"
+       }
+      ]
+     },
+     {
+      "src": "dravyāṇāṃ",
+      "words": [
+       {
+        "w": "dravyāṇām",
+        "gloss": "of substances",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "gurulāghave",
+      "words": [
+       {
+        "w": "guru-lāghave",
+        "gloss": "in heaviness and lightness",
+        "gram": "n. loc. sg., samāhāra dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गुरु (द्रव्यों) के अल्प ग्रहण में और लघु (द्रव्यों) के अति सेवन में, द्रव्यों के गुरु-लाघव में मात्रा कारण कही गई है।",
+  "english": "In taking a small amount of heavy (substances) and in excessive use of light ones, measure (mātrā) is declared the cause in the heaviness and lightness of substances.",
+  "text_flags": [],
+  "notes": "uddiṣṭam agrees with kāraṇam (n.), not with mātrā (f.).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.27.340a",
+   "01.27.340b"
+  ],
+  "lines_deva": [
+   "अल्पादाने गुरूणां च लघूनां चातिसेवने",
+   "मात्रा कारणमुद्दिष्टं द्रव्याणां गुरुलाघवे"
+  ],
+  "lines_iast": [
+   "alpādāne gurūṇāṃ ca laghūnāṃ cātisevane",
+   "mātrā kāraṇamuddiṣṭaṃ dravyāṇāṃ gurulāghave"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "341",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gurūṇāmalpamādeyaṃ",
+      "words": [
+       {
+        "w": "gurūṇām",
+        "gloss": "of heavy (substances)",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "alpam",
+        "gloss": "a little",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ādeyam",
+        "gloss": "should be taken",
+        "gram": "n. nom. sg., gerundive (kṛtya) ā-√dā"
+       }
+      ]
+     },
+     {
+      "src": "laghūnāṃ",
+      "words": [
+       {
+        "w": "laghūnām",
+        "gloss": "of light (substances)",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "tṛptiriṣyate",
+      "words": [
+       {
+        "w": "tṛptiḥ",
+        "gloss": "satisfaction",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "iṣyate",
+        "gloss": "is desired",
+        "gram": "3 sg. pres. pass. √iṣ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mātrāṃ",
+      "words": [
+       {
+        "w": "mātrām",
+        "gloss": "measure",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dravyāṇyapekṣante",
+      "words": [
+       {
+        "w": "dravyāṇi",
+        "gloss": "substances",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "apekṣante",
+        "gloss": "depend on",
+        "gram": "3 pl. pres. ātm. apa-√īkṣ"
+       }
+      ]
+     },
+     {
+      "src": "mātrā",
+      "words": [
+       {
+        "w": "mātrā",
+        "gloss": "measure",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "cāgnimapekṣate",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "agnim",
+        "gloss": "digestive fire",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "apekṣate",
+        "gloss": "depends on",
+        "gram": "3 sg. pres. ātm. apa-√īkṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गुरु (द्रव्यों) का अल्प (भाग) लेना चाहिए, लघु (द्रव्यों) की तृप्ति (तक सेवन) इष्ट है; द्रव्य मात्रा की अपेक्षा रखते हैं और मात्रा अग्नि की अपेक्षा रखती है।",
+  "english": "Of heavy (substances) a little should be taken; of light ones satisfaction is desired. Substances depend on measure (mātrā), and measure depends on the digestive fire (agni).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.27.341a",
+   "01.27.341b"
+  ],
+  "lines_deva": [
+   "गुरूणामल्पमादेयं लघूनां तृप्तिरिष्यते",
+   "मात्रां द्रव्याण्यपेक्षन्ते मात्रा चाग्निमपेक्षते"
+  ],
+  "lines_iast": [
+   "gurūṇāmalpamādeyaṃ laghūnāṃ tṛptiriṣyate",
+   "mātrāṃ dravyāṇyapekṣante mātrā cāgnimapekṣate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "342",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "balamārogyamāyuśca",
+      "words": [
+       {
+        "w": "balam",
+        "gloss": "strength",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ārogyam",
+        "gloss": "health",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "āyuḥ",
+        "gloss": "life",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prāṇāścāgnau",
+      "words": [
+       {
+        "w": "prāṇāḥ",
+        "gloss": "the vital breaths (prāṇa)",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "agnau",
+        "gloss": "in agni",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratiṣṭhitāḥ",
+      "words": [
+       {
+        "w": "pratiṣṭhitāḥ",
+        "gloss": "are established",
+        "gram": "m. nom. pl., ppp. prati-√sthā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "annapānendhanaiścāgnirjvalati",
+      "words": [
+       {
+        "w": "anna-pāna-indhanaiḥ",
+        "gloss": "by the fuel of food and drink",
+        "gram": "n. inst. pl., tat-puruṣa"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "agniḥ",
+        "gloss": "agni",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "jvalati",
+        "gloss": "blazes",
+        "gram": "3 sg. pres. √jval"
+       }
+      ]
+     },
+     {
+      "src": "vyeti",
+      "words": [
+       {
+        "w": "vyeti",
+        "gloss": "goes out",
+        "gram": "3 sg. pres. vi-√i"
+       }
+      ]
+     },
+     {
+      "src": "cānyathā",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anyathā",
+        "gloss": "otherwise",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बल, आरोग्य, आयु और प्राण अग्नि में प्रतिष्ठित हैं; और अग्नि अन्न-पान रूपी ईंधन से जलती है और अन्यथा बुझ जाती है।",
+  "english": "Strength, health, life and the vital breaths (prāṇa) are established in agni (digestive fire); and agni blazes with the fuel of food and drink, and otherwise goes out.",
+  "text_flags": [],
+  "notes": "pratiṣṭhitāḥ agrees with the nearest subject prāṇāḥ. vyeti literally 'goes away, perishes'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.27.342a",
+   "01.27.342b"
+  ],
+  "lines_deva": [
+   "बलमारोग्यमायुश्च प्राणाश्चाग्नौ प्रतिष्ठिताः",
+   "अन्नपानेन्धनैश्चाग्निर्ज्वलति व्येति चान्यथा"
+  ],
+  "lines_iast": [
+   "balamārogyamāyuśca prāṇāścāgnau pratiṣṭhitāḥ",
+   "annapānendhanaiścāgnirjvalati vyeti cānyathā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "343",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gurulāghavacinteyaṃ",
+      "words": [
+       {
+        "w": "guru-lāghava-cintā",
+        "gloss": "consideration of heaviness and lightness",
+        "gram": "f. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "iyam",
+        "gloss": "this",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāyeṇālapavbalān",
+      "words": [
+       {
+        "w": "prāyeṇa",
+        "gloss": "mostly",
+        "gram": "ind. (n. inst. sg.)"
+       },
+       {
+        "w": "alpa-balān",
+        "gloss": "those of little strength",
+        "gram": "m. acc. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "prati",
+      "words": [
+       {
+        "w": "prati",
+        "gloss": "with regard to",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mandakriyānanārogyān",
+      "words": [
+       {
+        "w": "manda-kriyān",
+        "gloss": "those of little activity",
+        "gram": "m. acc. pl., bahuvrīhi"
+       },
+       {
+        "w": "anārogyān",
+        "gloss": "the unhealthy",
+        "gram": "m. acc. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sukumārānsukhocitān",
+      "words": [
+       {
+        "w": "sukumārān",
+        "gloss": "the delicate",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "sukha-ucitān",
+        "gloss": "those accustomed to comfort",
+        "gram": "m. acc. pl., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गुरु-लाघव का यह विचार प्रायः अल्प बल वाले, मन्द क्रिया वाले, अस्वस्थ, सुकुमार और सुख के अभ्यस्त लोगों के प्रति है।",
+  "english": "This consideration of heaviness and lightness is mostly with regard to those of little strength, of little activity, unhealthy, delicate and accustomed to comfort.",
+  "text_flags": [
+   {
+    "src": "prāyeṇālapavbalān",
+    "suggest": "prāyeṇālpabalān",
+    "why": "'alapav' is not a word; with alpa- (cf. alpāgnīnām 324, alpādāne 340) the half-line has 16 syllables, the printed form gives 17"
+   }
+  ],
+  "notes": "The verse is contrasted with 344 (those for whom the consideration is not necessary).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.27.343a",
+   "01.27.343b"
+  ],
+  "lines_deva": [
+   "गुरुलाघवचिन्तेयं प्रायेणालपव्बलान् प्रति",
+   "मन्दक्रियाननारोग्यान् सुकुमारान्सुखोचितान्"
+  ],
+  "lines_iast": [
+   "gurulāghavacinteyaṃ prāyeṇālapavbalān prati",
+   "mandakriyānanārogyān sukumārānsukhocitān"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "344",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dīptāgnayaḥ",
+      "words": [
+       {
+        "w": "dīpta-agnayaḥ",
+        "gloss": "with kindled digestive fire",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "kharāhārāḥ",
+      "words": [
+       {
+        "w": "khara-āhārāḥ",
+        "gloss": "eating rough food",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "karmanityā",
+      "words": [
+       {
+        "w": "karma-nityāḥ",
+        "gloss": "constantly engaged in action",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "mahodarāḥ",
+      "words": [
+       {
+        "w": "mahā-udarāḥ",
+        "gloss": "with large stomachs",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "narāḥ",
+      "words": [
+       {
+        "w": "narāḥ",
+        "gloss": "men",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "prati",
+      "words": [
+       {
+        "w": "prati",
+        "gloss": "with regard to",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tāṃścintyaṃ",
+      "words": [
+       {
+        "w": "tān",
+        "gloss": "them",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "cintyam",
+        "gloss": "to be considered",
+        "gram": "n. nom. sg., gerundive (kṛtya) √cint"
+       }
+      ]
+     },
+     {
+      "src": "nāvaśyaṃ",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "avaśyam",
+        "gloss": "necessarily",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gurulāghavam",
+      "words": [
+       {
+        "w": "guru-lāghavam",
+        "gloss": "heaviness and lightness",
+        "gram": "n. nom. sg., samāhāra dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो मनुष्य दीप्त अग्नि वाले, खर आहार वाले, कर्म में नित्य लगे रहने वाले और बड़े उदर वाले हैं, उनके प्रति गुरु-लाघव का विचार आवश्यक नहीं है।",
+  "english": "Men who have a kindled digestive fire, eat rough (khara) food, are constantly engaged in action (karma) and have large stomachs — with regard to them heaviness and lightness need not necessarily be considered.",
+  "text_flags": [],
+  "notes": "mahodara here is a bahuvrīhi 'having a large stomach', not the disease udara. khara = rough as in the glossary.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.27.344a",
+   "01.27.344b"
+  ],
+  "lines_deva": [
+   "दीप्ताग्नयः खराहाराः कर्मनित्या महोदराः",
+   "ये नराः प्रति तांश्चिन्त्यं नावश्यं गुरुलाघवम्"
+  ],
+  "lines_iast": [
+   "dīptāgnayaḥ kharāhārāḥ karmanityā mahodarāḥ",
+   "ye narāḥ prati tāṃścintyaṃ nāvaśyaṃ gurulāghavam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "345",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "hitābhirjuhuyānnityamantaragniṃ",
+      "words": [
+       {
+        "w": "hitābhiḥ",
+        "gloss": "with wholesome",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "juhuyāt",
+        "gloss": "should offer",
+        "gram": "3 sg. opt. √hu"
+       },
+       {
+        "w": "nityam",
+        "gloss": "always",
+        "gram": "ind."
+       },
+       {
+        "w": "antar-agnim",
+        "gloss": "into the inner fire",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "samāhitaḥ",
+      "words": [
+       {
+        "w": "samāhitaḥ",
+        "gloss": "attentive",
+        "gram": "m. nom. sg., ppp. sam-ā-√dhā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "annapānasamidbhirnā",
+      "words": [
+       {
+        "w": "anna-pāna-samidbhiḥ",
+        "gloss": "fuel-sticks of food and drink",
+        "gram": "f. inst. pl., tat-puruṣa"
+       },
+       {
+        "w": "nā",
+        "gloss": "a man",
+        "gram": "m. nom. sg. (nṛ)"
+       }
+      ]
+     },
+     {
+      "src": "mātrākālau",
+      "words": [
+       {
+        "w": "mātrā-kālau",
+        "gloss": "measure and time",
+        "gram": "m. acc. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "vicārayan",
+      "words": [
+       {
+        "w": "vicārayan",
+        "gloss": "considering",
+        "gram": "m. nom. sg., pres. part. caus. vi-√car"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मनुष्य सावधान होकर, मात्रा और काल का विचार करते हुए, अन्न-पान रूपी हितकर समिधाओं से नित्य अन्तरग्नि में आहुति दे।",
+  "english": "A man, attentive and considering measure and time, should always make offering into the inner fire with wholesome fuel-sticks (samidh) of food and drink.",
+  "text_flags": [],
+  "notes": "hitābhiḥ (f.) agrees with samidbhiḥ in line b. juhuyāt 'should offer (as an oblation)'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.27.345a",
+   "01.27.345b"
+  ],
+  "lines_deva": [
+   "हिताभिर्जुहुयान्नित्यमन्तरग्निं समाहितः",
+   "अन्नपानसमिद्भिर्ना मात्राकालौ विचारयन्"
+  ],
+  "lines_iast": [
+   "hitābhirjuhuyānnityamantaragniṃ samāhitaḥ",
+   "annapānasamidbhirnā mātrākālau vicārayan"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "346",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āhitāgniḥ",
+      "words": [
+       {
+        "w": "āhita-agniḥ",
+        "gloss": "one who has installed the fire",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sadā",
+      "words": [
+       {
+        "w": "sadā",
+        "gloss": "always",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pathyānyantaragnau",
+      "words": [
+       {
+        "w": "pathyāni",
+        "gloss": "wholesome (things)",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "antar-agnau",
+        "gloss": "into the inner fire",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "juhoti",
+      "words": [
+       {
+        "w": "juhoti",
+        "gloss": "offers",
+        "gram": "3 sg. pres. √hu"
+       }
+      ]
+     },
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "divase",
+      "words": [
+       {
+        "w": "divase",
+        "gloss": "day",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "divase",
+      "words": [
+       {
+        "w": "divase",
+        "gloss": "by day",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "brahma",
+      "words": [
+       {
+        "w": "brahma",
+        "gloss": "brahman (sacred text)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "japatyatha",
+      "words": [
+       {
+        "w": "japati",
+        "gloss": "recites",
+        "gram": "3 sg. pres. √jap"
+       },
+       {
+        "w": "atha",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dadāti",
+      "words": [
+       {
+        "w": "dadāti",
+        "gloss": "gives",
+        "gram": "3 sg. pres. √dā"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो आहिताग्नि सदा पथ्य (पदार्थों) की अन्तरग्नि में आहुति देता है, प्रतिदिन ब्रह्म का जप करता है और दान देता है,",
+  "english": "He who, having installed the fire (āhitāgni), always offers wholesome things into the inner fire, who day by day recites brahman (the sacred text) and gives,",
+  "text_flags": [],
+  "notes": "SENTENCE: the relative clause continues into 347 (naraṃ ... bhajante nāmayāḥ). divase divase = every day. brahma japati: recites the sacred text (brahman). dadāti without object: gives (gifts).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.27.346a",
+   "01.27.346b"
+  ],
+  "lines_deva": [
+   "आहिताग्निः सदा पथ्यान्यन्तरग्नौ जुहोति यः",
+   "दिवसे दिवसे ब्रह्म जपत्यथ ददाति च"
+  ],
+  "lines_iast": [
+   "āhitāgniḥ sadā pathyānyantaragnau juhoti yaḥ",
+   "divase divase brahma japatyatha dadāti ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "347",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "naraṃ",
+      "words": [
+       {
+        "w": "naram",
+        "gloss": "the man",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "niḥśreyase",
+      "words": [
+       {
+        "w": "niḥśreyase",
+        "gloss": "to the highest good",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yuktaṃ",
+      "words": [
+       {
+        "w": "yuktam",
+        "gloss": "devoted",
+        "gram": "m. acc. sg., ppp. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "sātmyajñaṃ",
+      "words": [
+       {
+        "w": "sātmya-jñam",
+        "gloss": "knowing what is suitable",
+        "gram": "m. acc. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pānabhojane",
+      "words": [
+       {
+        "w": "pāna-bhojane",
+        "gloss": "in drink and food",
+        "gram": "n. loc. sg., samāhāra dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bhajante",
+      "words": [
+       {
+        "w": "bhajante",
+        "gloss": "approach",
+        "gram": "3 pl. pres. ātm. √bhaj"
+       }
+      ]
+     },
+     {
+      "src": "nāmayāḥ",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "āmayāḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kecidbhāvino'pyantarādṛte",
+      "words": [
+       {
+        "w": "kecit",
+        "gloss": "any",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "bhāvinaḥ",
+        "gloss": "destined to come",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       },
+       {
+        "w": "antarāt",
+        "gloss": "an opening (lapse)",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "ṛte",
+        "gloss": "except",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "निःश्रेयस में लगे हुए, पान और भोजन में सात्म्य को जानने वाले उस मनुष्य को अन्तर के बिना कोई रोग नहीं घेरते, भावी (रोग) भी नहीं।",
+  "english": "— that man, devoted to the highest good (niḥśreyasa) and knowing what is suitable (sātmya) in drink and food, no diseases approach, not even those destined to come (bhāvin), except through some opening (antara).",
+  "text_flags": [],
+  "notes": "SENTENCE: continues 346 (its relative clause describes this man). antarād ṛte is literally 'without an interval/opening'; it may mean 'except through a lapse' or 'except after a lapse of time'; the exact sense is uncertain.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.27.347a",
+   "01.27.347b"
+  ],
+  "lines_deva": [
+   "नरं निःश्रेयसे युक्तं सात्म्यज्ञं पानभोजने",
+   "भजन्ते नामयाः केचिद्भाविनोऽप्यन्तरादृते"
+  ],
+  "lines_iast": [
+   "naraṃ niḥśreyase yuktaṃ sātmyajñaṃ pānabhojane",
+   "bhajante nāmayāḥ kecidbhāvino'pyantarādṛte"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "348",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ṣaḍtriṃśataṃ",
+      "words": [
+       {
+        "w": "ṣaṭ-triṃśatam",
+        "gloss": "thirty-six",
+        "gram": "f. acc. sg., dvigu/numeral compound"
+       }
+      ]
+     },
+     {
+      "src": "sahasrāṇi",
+      "words": [
+       {
+        "w": "sahasrāṇi",
+        "gloss": "thousands",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "rātrīṇāṃ",
+      "words": [
+       {
+        "w": "rātrīṇām",
+        "gloss": "of nights",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "hitabhojanaḥ",
+      "words": [
+       {
+        "w": "hita-bhojanaḥ",
+        "gloss": "eating wholesome food",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "jīvatyanāturo",
+      "words": [
+       {
+        "w": "jīvati",
+        "gloss": "lives",
+        "gram": "3 sg. pres. √jīv"
+       },
+       {
+        "w": "anāturaḥ",
+        "gloss": "free from illness",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "janturjitātmā",
+      "words": [
+       {
+        "w": "jantuḥ",
+        "gloss": "a person",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "jita-ātmā",
+        "gloss": "self-controlled",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "saṃmataḥ",
+      "words": [
+       {
+        "w": "saṃmataḥ",
+        "gloss": "esteemed",
+        "gram": "m. nom. sg., ppp. sam-√man"
+       }
+      ]
+     },
+     {
+      "src": "satām",
+      "words": [
+       {
+        "w": "satām",
+        "gloss": "by the good",
+        "gram": "m. gen. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हितकर भोजन करने वाला, जितात्मा, सज्जनों द्वारा सम्मानित जन्तु छत्तीस हजार रातें रोग-रहित होकर जीता है।",
+  "english": "A person (jantu) who eats wholesome food, self-controlled and esteemed by the good, lives free from illness for thirty-six thousand nights.",
+  "text_flags": [
+   {
+    "src": "ṣaḍtriṃśataṃ",
+    "suggest": "ṣaṭtriṃśataṃ",
+    "why": "grammar: final ṣ of ṣaṣ becomes ṭ before the voiceless t (ṣaṭ-triṃśat); ḍ before t is not a valid sandhi; syllable count unchanged"
+   }
+  ],
+  "notes": "ṣaṭtriṃśatam ... sahasrāṇi is an accusative of duration.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.27.348a",
+   "01.27.348b"
+  ],
+  "lines_deva": [
+   "षड्त्रिंशतं सहस्राणि रात्रीणां हितभोजनः",
+   "जीवत्यनातुरो जन्तुर्जितात्मा संमतः सताम्"
+  ],
+  "lines_iast": [
+   "ṣaḍtriṃśataṃ sahasrāṇi rātrīṇāṃ hitabhojanaḥ",
+   "jīvatyanāturo janturjitātmā saṃmataḥ satām"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "349",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prāṇāḥ",
+      "words": [
+       {
+        "w": "prāṇāḥ",
+        "gloss": "the vital breaths (prāṇa)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "prāṇabhṛtāmannamannaṃ",
+      "words": [
+       {
+        "w": "prāṇa-bhṛtām",
+        "gloss": "of living beings",
+        "gram": "m. gen. pl., upapada tat-puruṣa"
+       },
+       {
+        "w": "annam",
+        "gloss": "food",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "annam",
+        "gloss": "food",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "loko'bhidhāvati",
+      "words": [
+       {
+        "w": "lokaḥ",
+        "gloss": "the world",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "abhidhāvati",
+        "gloss": "runs towards",
+        "gram": "3 sg. pres. abhi-√dhāv"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "varṇaḥ",
+      "words": [
+       {
+        "w": "varṇaḥ",
+        "gloss": "complexion",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prasādaḥ",
+      "words": [
+       {
+        "w": "prasādaḥ",
+        "gloss": "clarity",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sausvaryaṃ",
+      "words": [
+       {
+        "w": "sausvaryam",
+        "gloss": "good voice",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jīvitaṃ",
+      "words": [
+       {
+        "w": "jīvitam",
+        "gloss": "life",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratibhā",
+      "words": [
+       {
+        "w": "pratibhā",
+        "gloss": "intelligence",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sukham",
+      "words": [
+       {
+        "w": "sukham",
+        "gloss": "happiness",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्राणियों के प्राण अन्न हैं; लोक अन्न की ओर दौड़ता है। वर्ण, प्रसाद, सुस्वरता, जीवन, प्रतिभा, सुख —",
+  "english": "Food is the vital breath (prāṇa) of living beings; the world runs after food. Complexion, clarity (prasāda), a good voice, life, intelligence (pratibhā), happiness —",
+  "text_flags": [],
+  "notes": "SENTENCE: the list in line b continues in 350a (sarvam anne pratiṣṭhitam). prāṇabhṛt literally 'breath-bearer'. prāṇāḥ (pl.) is predicated of annam (sg.).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.27.349a",
+   "01.27.349b"
+  ],
+  "lines_deva": [
+   "प्राणाः प्राणभृतामन्नमन्नं लोकोऽभिधावति",
+   "वर्णः प्रसादः सौस्वर्यं जीवितं प्रतिभा सुखम्"
+  ],
+  "lines_iast": [
+   "prāṇāḥ prāṇabhṛtāmannamannaṃ loko'bhidhāvati",
+   "varṇaḥ prasādaḥ sausvaryaṃ jīvitaṃ pratibhā sukham"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "350",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tuṣṭiḥ",
+      "words": [
+       {
+        "w": "tuṣṭiḥ",
+        "gloss": "contentment",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "puṣṭirbalaṃ",
+      "words": [
+       {
+        "w": "puṣṭiḥ",
+        "gloss": "plumpness (puṣṭi)",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "balam",
+        "gloss": "strength",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "medhā",
+      "words": [
+       {
+        "w": "medhā",
+        "gloss": "intellect",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvamanne",
+      "words": [
+       {
+        "w": "sarvam",
+        "gloss": "all",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "anne",
+        "gloss": "in food",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratiṣṭhitam",
+      "words": [
+       {
+        "w": "pratiṣṭhitam",
+        "gloss": "is established",
+        "gram": "n. nom. sg., ppp. prati-√sthā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "laukikaṃ",
+      "words": [
+       {
+        "w": "laukikam",
+        "gloss": "worldly",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "karma",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "action",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yadvṛttau",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "vṛttau",
+        "gloss": "for livelihood",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "svargatau",
+      "words": [
+       {
+        "w": "svar-gatau",
+        "gloss": "for going to heaven",
+        "gram": "f. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "yaca",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vaidikam",
+      "words": [
+       {
+        "w": "vaidikam",
+        "gloss": "Vedic",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुष्टि, पुष्टि, बल, मेधा — सब अन्न में प्रतिष्ठित है। जीविका के लिए जो लौकिक कर्म है, और स्वर्ग-प्राप्ति के लिए जो वैदिक (कर्म) है,",
+  "english": "contentment, plumpness (puṣṭi), strength, intellect (medhā) — all is established in food. The worldly action (karma) that is for livelihood, and the Vedic (action) that is for going to heaven,",
+  "text_flags": [
+   {
+    "src": "yaca",
+    "suggest": "yacca",
+    "why": "grammar: 'ya' is not a form of the relative; yat + ca gives yacca, as printed 'yaccoktaṃ' in 351 of this chunk"
+   }
+  ],
+  "notes": "SENTENCE: line a completes 349b; line b begins a sentence completed in 351a (tac cāpy anne pratiṣṭhitam).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.27.350a",
+   "01.27.350b"
+  ],
+  "lines_deva": [
+   "तुष्टिः पुष्टिर्बलं मेधा सर्वमन्ने प्रतिष्ठितम्",
+   "लौकिकं कर्म यद्वृत्तौ स्वर्गतौ यच वैदिकम्"
+  ],
+  "lines_iast": [
+   "tuṣṭiḥ puṣṭirbalaṃ medhā sarvamanne pratiṣṭhitam",
+   "laukikaṃ karma yadvṛttau svargatau yaca vaidikam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "351",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "karmāpavarge",
+      "words": [
+       {
+        "w": "karma-apavarge",
+        "gloss": "in the action for liberation (apavarga)",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "yaccoktaṃ",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "uktam",
+        "gloss": "is stated",
+        "gram": "n. nom. sg., ppp. √vac"
+       }
+      ]
+     },
+     {
+      "src": "taccāpyanne",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "too",
+        "gram": "ind."
+       },
+       {
+        "w": "anne",
+        "gloss": "in food",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratiṣṭhitam",
+      "words": [
+       {
+        "w": "pratiṣṭhitam",
+        "gloss": "is established",
+        "gram": "n. nom. sg., ppp. prati-√sthā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ślokaḥ",
+      "words": [
+       {
+        "w": "ślokaḥ",
+        "gloss": "the verse",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "annapānaguṇāḥ",
+      "words": [
+       {
+        "w": "anna-pāna-guṇāḥ",
+        "gloss": "the qualities of food and drink",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sāgryā",
+      "words": [
+       {
+        "w": "sa-agryāḥ",
+        "gloss": "with the foremost (agrya)",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vargā",
+      "words": [
+       {
+        "w": "vargāḥ",
+        "gloss": "groups",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dvādaśa",
+      "words": [
+       {
+        "w": "dvādaśa",
+        "gloss": "twelve",
+        "gram": "m. nom. pl. (numeral)"
+       }
+      ]
+     },
+     {
+      "src": "niścitāḥ",
+      "words": [
+       {
+        "w": "niścitāḥ",
+        "gloss": "determined",
+        "gram": "m. nom. pl., ppp. nis-√ci"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और अपवर्ग के लिए कर्म में जो कहा गया है, वह भी अन्न में प्रतिष्ठित है। यहाँ श्लोक है: अग्र्य (द्रव्यों) सहित अन्न-पान के गुण, निश्चित बारह वर्ग,",
+  "english": "and what is stated about action for liberation (apavarga), that too is established in food. Here, the verse: the qualities of food and drink together with the foremost (agrya), the twelve groups determined,",
+  "text_flags": [],
+  "notes": "GROUPING: line a closes the sentence begun in 350b; 'tatra ślokaḥ' and line c open the summary verse, which continues in 352 (351c + 352ab form the summary of three half-lines). karmāpavarge is taken as 'in (the matter of) action for liberation'; it could also be a dvandva 'in action and in liberation'. sāgryāḥ 'with the foremost (agrya) items' is taken with annapānaguṇāḥ.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.27.351a",
+   "01.27.351b",
+   "01.27.351c"
+  ],
+  "lines_deva": [
+   "कर्मापवर्गे यच्चोक्तं तच्चाप्यन्ने प्रतिष्ठितम्",
+   "तत्र श्लोकः",
+   "अन्नपानगुणाः साग्र्या वर्गा द्वादश निश्चिताः"
+  ],
+  "lines_iast": [
+   "karmāpavarge yaccoktaṃ taccāpyanne pratiṣṭhitam",
+   "tatra ślokaḥ",
+   "annapānaguṇāḥ sāgryā vargā dvādaśa niścitāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "352",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "saguṇānyanupāanāni",
+      "words": [
+       {
+        "w": "sa-guṇāni",
+        "gloss": "with their qualities",
+        "gram": "n. nom. pl., bahuvrīhi"
+       },
+       {
+        "w": "anupānāni",
+        "gloss": "the after-drinks",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "gurulāghavasaṃgrahaḥ",
+      "words": [
+       {
+        "w": "guru-lāghava-saṃgrahaḥ",
+        "gloss": "the summary of heaviness and lightness",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "annapānavidhāvuktaṃ",
+      "words": [
+       {
+        "w": "anna-pāna-vidhau",
+        "gloss": "in the Annapānavidhi (rule of food and drink)",
+        "gram": "m. loc. sg., tat-puruṣa"
+       },
+       {
+        "w": "uktam",
+        "gloss": "has been stated",
+        "gram": "n. nom. sg., ppp. √vac"
+       }
+      ]
+     },
+     {
+      "src": "tat",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "parīkṣyaṃ",
+      "words": [
+       {
+        "w": "parīkṣyam",
+        "gloss": "should be examined",
+        "gram": "n. nom. sg., gerundive (kṛtya) pari-√īkṣ"
+       }
+      ]
+     },
+     {
+      "src": "viśeṣataḥ",
+      "words": [
+       {
+        "w": "viśeṣataḥ",
+        "gloss": "in particular",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गुणों सहित अनुपान, गुरु-लाघव का संग्रह — (यह) अन्नपानविधि में कहा गया है; उसकी विशेष रूप से परीक्षा करनी चाहिए।",
+  "english": "the after-drinks with their qualities, the summary of heaviness and lightness — (this) has been stated in the Annapānavidhi (rule of food and drink); it should be examined in particular.",
+  "text_flags": [
+   {
+    "src": "saguṇānyanupāanāni",
+    "suggest": "saguṇānyanupānāni",
+    "why": "anupāna is printed correctly throughout this chunk (321, 325, 326); the extra 'a' gives the quarter 9 syllables, with anupānāni it has 8"
+   }
+  ],
+  "notes": "SENTENCE: completes the summary verse begun in 351c. annapānavidhi is the name of this chapter (see the colophon P2).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.27.352a",
+   "01.27.352b"
+  ],
+  "lines_deva": [
+   "सगुणान्यनुपाअनानि गुरुलाघवसंग्रहः",
+   "अन्नपानविधावुक्तं तत् परीक्ष्यं विशेषतः"
+  ],
+  "lines_iast": [
+   "saguṇānyanupāanāni gurulāghavasaṃgrahaḥ",
+   "annapānavidhāvuktaṃ tat parīkṣyaṃ viśeṣataḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "P2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ityagniveśakṛte",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus (closing marker)",
+        "gram": "ind."
+       },
+       {
+        "w": "agniveśa-kṛte",
+        "gloss": "composed by Agniveśa",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tantre",
+      "words": [
+       {
+        "w": "tantre",
+        "gloss": "in the treatise",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "carakapratisaṃskṛte",
+      "words": [
+       {
+        "w": "caraka-pratisaṃskṛte",
+        "gloss": "redacted by Caraka",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ślokasthāne'nnapānavidhirnāma",
+      "words": [
+       {
+        "w": "śloka-sthāne",
+        "gloss": "in the Śloka section (Ślokasthāna)",
+        "gram": "n. loc. sg., tat-puruṣa"
+       },
+       {
+        "w": "anna-pāna-vidhiḥ",
+        "gloss": "Annapānavidhi (chapter name)",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "nāma",
+        "gloss": "named",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saptaviṃśo'dhyāyaḥ",
+      "words": [
+       {
+        "w": "saptaviṃśaḥ",
+        "gloss": "twenty-seventh",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "adhyāyaḥ",
+        "gloss": "chapter",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार अग्निवेश द्वारा रचित, चरक द्वारा प्रतिसंस्कृत तन्त्र के श्लोकस्थान में अन्नपानविधि नामक सत्ताईसवाँ अध्याय।",
+  "english": "Thus, in the treatise composed by Agniveśa and redacted by Caraka, in the Śloka section (Ślokasthāna), the twenty-seventh chapter named Annapānavidhi.",
+  "text_flags": [],
+  "notes": "Chapter colophon (prose), verbless.",
+  "confidence": "high",
+  "type": "prose",
+  "line_ids": [
+   "01.27.P2"
+  ],
+  "lines_deva": [
+   "इत्यग्निवेशकृते तन्त्रे चरकप्रतिसंस्कृते श्लोकस्थानेऽन्नपानविधिर्नाम सप्तविंशोऽध्यायः"
+  ],
+  "lines_iast": [
+   "ityagniveśakṛte tantre carakapratisaṃskṛte ślokasthāne'nnapānavidhirnāma saptaviṃśo'dhyāyaḥ"
+  ],
+  "uncertain": []
+ }
+]

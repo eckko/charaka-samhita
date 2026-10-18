@@ -1,0 +1,67 @@
+[
+ {
+  "n": "320",
+  "field": "notes",
+  "old": "SENTENCE: continues the account of the after-drink (anupāna) from 319. caturuttarām aśītim = 'eighty with four more', i.e. eighty-four. anupibet 'should drink after' (the meal), whence anupāna.",
+  "new": "caturuttarām aśītim = 'eighty with four more', i.e. eighty-four. anupibet 'should drink after' (the meal), whence anupāna.",
+  "why": "reviewer (minor): 320 is a complete sentence (parīkṣya anupibed hitam has its own verb), so 'SENTENCE:' is wrong, and the reference to 319 is outside this chunk."
+ },
+ {
+  "n": "322",
+  "field": "hindi",
+  "old": "उपवास, मार्ग, बोलने, स्त्री, मारुत, धूप और कर्म से क्लान्त हुए लोगों के लिए अनुपान के रूप में दूध अमृत के समान पथ्य है।",
+  "new": "उपवास, मार्ग-गमन, बोलने, स्त्री, मारुत, धूप और कर्म से क्लान्त हुए लोगों के लिए अनुपान के रूप में दूध अमृत के समान पथ्य है।",
+  "why": "reviewer (minor): adhvan here is travel/walking (English 'travel'); Hindi मार्ग alone means 'road' and does not say what exhausts."
+ },
+ {
+  "n": "325",
+  "field": "notes",
+  "old": "Prose line typed as a verse unit. tarpayati = replenishes (tarpaṇa), bṛṃhayati = nourishes (bṛṃhaṇa), kledayati = moistens (kleda = moistness). avasādayati literally 'makes sink'. vyavāyitā is the quality of spreading through the body before digestion (vyavāyin); 'quick diffusion' is given. The final iti closes the passage and is not translated.",
+  "new": "Prose line typed as a verse unit. tarpayati = replenishes (tarpaṇa), bṛṃhayati = nourishes (bṛṃhaṇa), kledayati = moistens (kleda = moistness). avasādayati literally 'makes sink'. vyavāyitā literally 'pervasiveness' (from vyavāyin 'pervading'); 'quick diffusion' is given. The final iti closes the passage and is not translated.",
+  "why": "reviewer (error): This definition is not in the Sanskrit of the chunk; it comes from outside knowledge (a later/other definition) and must be removed per POLICY. A literal gloss is enough."
+ },
+ {
+  "n": "325",
+  "field": "word.gram",
+  "word": "sukha-pariṇāmitām",
+  "old": "f. acc. sg., tat-puruṣa",
+  "new": "f. acc. sg., abstract (-tā) of sukha-pariṇāmin",
+  "why": "reviewer (minor): Not a plain tat-puruṣa: it is the abstract in -tā of the compound sukha-pariṇāmin 'easily transformed'."
+ },
+ {
+  "n": "325",
+  "field": "word.gram",
+  "word": "āśu-vyavāyitām",
+  "old": "f. acc. sg., tat-puruṣa",
+  "new": "f. acc. sg., abstract (-tā) of āśu-vyavāyin",
+  "why": "reviewer (minor): Same: abstract in -tā of āśu-vyavāyin."
+ },
+ {
+  "n": "326",
+  "field": "hindi",
+  "old": "और यहाँ (श्लोक) है: हितकर अनुपान, ठीक से प्रयुक्त होने पर, मनुष्य का शीघ्र तर्पण करता है, आहार को सुखपूर्वक पचाता है, और आयु तथा बल के लिए होता है।",
+  "new": "और यहाँ (श्लोक) है: हितकर अनुपान, ठीक से प्रयुक्त होने पर, मनुष्य का शीघ्र तर्पण करता है, आहार को सुखपूर्वक पचाता है, और आयु तथा बल के लिए (होता है)।",
+  "why": "reviewer (minor): The verb is supplied (English brackets '(serves)'); glossary: supplied words in Hindi go in brackets like the English."
+ },
+ {
+  "n": "327",
+  "field": "notes",
+  "old": "SENTENCE: the verb (pibeyur udakaṃ bhuktvā 'should drink water after eating') is in 328. prasaktā is prasaktāḥ with the visarga dropped before n. hikkā, śvāsa, kāsa kept as in the glossary.",
+  "new": "SENTENCE: the verb (pibeyur udakaṃ bhuktvā 'should drink water after eating') is in 328. prasaktā is prasaktāḥ with the visarga dropped before n.",
+  "why": "reviewer (minor): Inaccurate meta-note: hikkā is not in the glossary and kāsa is translated 'cough', not kept. Remove."
+ },
+ {
+  "n": "335",
+  "field": "notes",
+  "old": "madhyamasthi is split madhyam + asthi ('the middle part and bone'); it could also be read as madhyam asthi 'the middle bone'. The words of line a are taken as accusative objects of vidyāt (the forms are the same as the nominative); gurutaram (n. sg.) is predicated of them all. yathāsvam is taken as 'compared with the flesh of the same animal'.",
+  "new": "madhyamasthi is split madhyam + asthi ('the middle part and bone'); it could also be read as madhyam asthi 'the middle bone'. The words of line a are taken as accusative objects of vidyāt (the forms are the same as the nominative); gurutaram (n. sg.) is predicated of them all. yathāsvam is taken as 'compared with the flesh of the same animal'. śroṇī may also be the singular of the ī-stem śroṇī 'hip, pelvis'; the dual of śroṇi is given.",
+  "why": "reviewer (minor): śroṇī can equally be the singular of the ī-stem śroṇī 'hip/pelvis'; the dual reading is not forced. Note the alternative."
+ },
+ {
+  "n": "336",
+  "field": "notes",
+  "old": "mudga: green gram; māṣa: black gram (plain names, kept Sanskrit in the translations). lāva and kapiñjala are bird names, kept Sanskrit.",
+  "new": "mudga: green gram; māṣa: black gram (plain names, kept Sanskrit in the translations). lāva and kapiñjala kept Sanskrit (no identification).",
+  "why": "reviewer (minor): The chunk does not say they are birds; per the animal rule lāva and kapiñjala stay Sanskrit with no identification. mudga/māṣa plain names in notes are allowed; varāha/mahiṣa boar/buffalo correct."
+ }
+]
