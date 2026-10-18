@@ -41,3 +41,8 @@ Draft status: AI drafts, not read by a person.
 - dhūma kinds: prāyogika/snaihika/vairecanika = regular/unctuous/evacuative smoking (प्रायोगिक/स्नैहिक/वैरेचनिक); dhūmanetra = smoking pipe; bastinetra = enema nozzle; aṇutaila = Aṇu oil (अणुतैल)
 - nāvana = nasal therapy in English too, never "nasal medication"; supīta/apīta/atipīta (dhūma) = well drunk/not drunk/drunk in excess; picu = swab; uttamāṅga = head; jantu = person (जन्तु/प्राणी)
 - dantaviśodhana = tooth-cleanser; jihvānirlekhana = tongue-scraper; tarpaṇa kept Sanskrit; disease names kept Sanskrit: śaṅkhaka, rohiṇī, meha, madātyaya, timira, pīnasa, manyāstambha, hanusaṃgraha
+- gram: gerundives labelled "gerundive (kṛtya)", never "ger."; eva = emphatic particle ("just, indeed"), not "or else"
+- kāyāgni = digestive fire of the body; paktā = the digester (पचाने वाला); kavalagraha = holding a mouthful, moved in the mouth; utsādana = rubbing with unguents; ādāna = ādāna (taking up); visarga = visarga (release); ṛtusātmya/okaḥsātmya/sātmya = suitability (seasonal/habitual/general)
+- Season names stay Sanskrit in English (Śiśira, Vasanta, Grīṣma, Varṣā, Śarad, Hemanta), equivalents in notes only; kept Sanskrit: mantha, udamantha, madirā, śīdhu, mādhvīka, ariṣṭa, yūṣa, haṃsodaka, māhendra water
+- jāṅgala = dry-land; audaka = aquatic; ānūpa = marsh; bileśaya = burrow-dwellers; vasā = muscle-fat; kṣāra = alkali; kṣaudra = honey; physical wind (vāyu/māruta/anila) = wind
+- No notes claiming "commentators say"/"other editions read" unless the input shows it; no memory-sourced readings in text_flags

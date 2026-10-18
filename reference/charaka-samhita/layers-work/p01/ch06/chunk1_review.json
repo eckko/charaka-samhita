@@ -1,0 +1,873 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes: four kinds of food",
+     "problem": "List imported from commentary ('as commonly explained'), not in the input.",
+     "fix": "\"from eaten and the rest\"; the ādi is not spelled out in the text.",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "notes",
+      "old": "\"from eaten and the rest\", i.e. the kinds of food (eaten, drunk, licked, chewed), as commonly explained; the ādi is not spelled out in the text.",
+      "new": "\"from eaten and the rest\"; the ādi is not spelled out in the text."
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "(late winter) ... (summer)",
+     "problem": "Season equivalents are not words of the text (the draft's own note says so); keep them in notes only.",
+     "fix": "Śiśira and ending with Grīṣma",
+     "severity": "minor",
+     "patch": {
+      "n": "P1",
+      "op": "replace",
+      "field": "english",
+      "old": "Śiśira (late winter) and ending with Grīṣma (summer)",
+      "new": "Śiśira and ending with Grīṣma"
+     }
+    },
+    {
+     "field": "english",
+     "where": "(rains) ... (early winter)",
+     "problem": "Same: added equivalents in the translation.",
+     "fix": "Varṣā and ending with Hemanta",
+     "severity": "minor",
+     "patch": {
+      "n": "P1",
+      "op": "replace",
+      "field": "english",
+      "old": "Varṣā (rains) and ending with Hemanta (early winter)",
+      "new": "Varṣā and ending with Hemanta"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Keep the equivalents in notes once the English drops them.",
+     "fix": "Usual English equivalents (not words of the text): Śiśira late winter, Vasanta spring, Grīṣma summer, Varṣā rains, Śarad autumn, Hemanta early winter.",
+     "severity": "minor",
+     "patch": {
+      "n": "P1",
+      "op": "replace",
+      "field": "notes",
+      "old": "The English season glosses (late winter etc.) are the usual equivalents, not words of the text.",
+      "new": "Usual English equivalents (not words of the text): Śiśira late winter, Vasanta spring, Grīṣma summer, Varṣā rains, Śarad autumn, Hemanta early winter."
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "tau",
+     "problem": "tau is the pronoun 'those (two)', not 'these'.",
+     "fix": "those (two)",
+     "severity": "minor",
+     "patch": {
+      "n": "P2",
+      "op": "word",
+      "match_w": "tau",
+      "field": "gloss",
+      "value": "those (two)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "etau",
+     "problem": "etau means 'these (two)'; the gloss 'two' turns a pronoun into a numeral.",
+     "fix": "these (two)",
+     "severity": "minor",
+     "patch": {
+      "n": "P2",
+      "op": "word",
+      "match_w": "etau",
+      "field": "gloss",
+      "value": "these (two)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "And here there is this:",
+     "problem": "Glossary fixes bhavati cātra = \"And here there is:\"; 'this' is added.",
+     "fix": "And here there is:",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "english",
+      "old": "And here there is this:",
+      "new": "And here there is:"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "नष्ट करता है",
+     "problem": "hinasti is rendered 'harms' in the English; 'destroys' overstates and the two layers disagree.",
+     "fix": "रस को हानि पहुँचाता है",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "hindi",
+      "old": "रस को नष्ट करता है",
+      "new": "रस को हानि पहुँचाता है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sevyam",
+     "problem": "'ger.' usually means the gerund (absolutive, -tvā/-ya); this is a gerundive (kṛtya).",
+     "fix": "n. nom. sg. gerundive (kṛtya) √sev",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "word",
+      "match_w": "sevyam",
+      "field": "gram",
+      "value": "n. nom. sg. gerundive (kṛtya) √sev"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "supyāt",
+     "problem": "supyāt is not the optative of √svap (that is svapet); it is the benedictive (āśīrliṅ) form with samprasāraṇa, used here in optative sense.",
+     "fix": "3 sg. benedictive (used as optative) √svap",
+     "severity": "error",
+     "patch": {
+      "n": "17",
+      "op": "word",
+      "match_w": "supyāt",
+      "field": "gram",
+      "value": "3 sg. benedictive (used as optative) √svap"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the body-fire (kāyāgni)",
+     "problem": "Glossary: agni = digestive fire.",
+     "fix": "the digestive fire of the body (kāyāgni)",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "english",
+      "old": "the body-fire (kāyāgni)",
+      "new": "the digestive fire of the body (kāyāgni)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes: commentators",
+     "problem": "Commentary claim not in the input.",
+     "fix": "Delete:  (commentators: in Hemanta/Śiśira)",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "notes",
+      "old": " (commentators: in Hemanta/Śiśira)",
+      "new": ""
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "smoking (dhūma)",
+     "problem": "Glossary: dhūma = medicated smoking.",
+     "fix": "medicated smoking (dhūma)",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "english",
+      "old": "smoking (dhūma)",
+      "new": "medicated smoking (dhūma)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "gargling (kavalagraha)",
+     "problem": "Glossary: kavala = moved in the mouth (as opposed to gaṇḍūṣa, held). 'gargling' contradicts it.",
+     "fix": "holding a mouthful moved in the mouth (kavalagraha)",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "english",
+      "old": "gargling (kavalagraha)",
+      "new": "holding a mouthful moved in the mouth (kavalagraha)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kavala-graham",
+     "problem": "Glossary: kavala = moved in mouth.",
+     "fix": "holding a mouthful moved in the mouth (kavalagraha)",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "word",
+      "match_w": "kavala-graham",
+      "field": "gloss",
+      "value": "holding a mouthful moved in the mouth (kavalagraha)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "eva",
+     "problem": "eva is emphatic; 'or' is vā. 'or else' gives eva a disjunctive sense it does not have.",
+     "fix": "just, indeed (emphatic)",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "word",
+      "match_w": "eva",
+      "field": "gloss",
+      "value": "just, indeed (emphatic)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "nirgada note",
+     "problem": "Unsupported claim about other interpretations.",
+     "fix": "Delete: ; some take it as \"unmixed\"",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "notes",
+      "old": "; some take it as \"unmixed\"",
+      "new": ""
+     }
+    },
+    {
+     "field": "notes",
+     "where": "mādhvīka note",
+     "problem": "Appeal to unnamed sources not in the input.",
+     "fix": "mādhvīka: a kind of wine; its base is not stated in the text.",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "notes",
+      "old": "mādhvīka: a wine of grapes or of madhūka flowers or honey; the sources differ.",
+      "new": "mādhvīka: a kind of wine; its base is not stated in the text."
+     }
+    },
+    {
+     "field": "english",
+     "where": "or else mādhvīka",
+     "problem": "Follows the eva fix: eva is emphatic, not 'else'.",
+     "fix": "or just mādhvīka",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "english",
+      "old": "or else mādhvīka",
+      "new": "or just mādhvīka"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "peyam",
+     "problem": "'ger.' usually means the gerund (absolutive, -tvā/-ya); this is a gerundive (kṛtya).",
+     "fix": "n. nom. sg. gerundive (kṛtya) √pā",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "word",
+      "match_w": "peyam",
+      "field": "gram",
+      "value": "n. nom. sg. gerundive (kṛtya) √pā"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "sevyamāno bhajedāsyāṃ muktāmaṇivibhūṣitaḥ",
+     "problem": "The suggestion and part of the why are another edition's reading recalled from memory ('as recalled, not checked'). Nothing in the input supports it; the brief forbids invented variants. The observation that 30b repeats 31b word for word is sound and should stay.",
+     "fix": "suggest: \"(no reading suggested: line b repeats line b of unit 31 word for word)\"; why: \"line b is word for word the same as line b of unit 31 and is probably repeated from it by error; with it, line a's śītalaiḥ has no noun. No other witness is in the input, so no replacement is offered.\"",
+     "severity": "error"
+    },
+    {
+     "field": "text_flags",
+     "where": "candrāṃśuśītalaiḥ -> candrāṃśuśītale",
+     "problem": "The whole flag rests on 'the usual reading (as recalled)'. The printed instrumental is a valid form and the input gives no ground for a locative. Unsupported variant.",
+     "fix": "Delete this text_flags entry.",
+     "severity": "error"
+    },
+    {
+     "field": "notes",
+     "where": "notes: commentators' sense",
+     "problem": "Appeal to commentators not in the input.",
+     "fix": "āsyā: sitting, a seat.",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "notes",
+      "old": "āsyā \"sitting, a seat\" is the commentators' sense.",
+      "new": "āsyā: sitting, a seat."
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes: āsyā",
+     "problem": "Appeal to commentators and to unnamed alternative views.",
+     "fix": "āsyā: sitting, a seat.",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "notes",
+      "old": "āsyā: sitting, a seat (the commentators' sense); some take it as \"a pleasant sitting\".",
+      "new": "āsyā: sitting, a seat."
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the strength of the fire",
+     "problem": "Glossary: agni = digestive fire (agni).",
+     "fix": "when the strength of the digestive fire (agni) is diminished",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "replace",
+      "field": "english",
+      "old": "when the strength of the fire is diminished",
+      "new": "when the strength of the digestive fire (agni) is diminished"
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes: sādhāraṇa",
+     "problem": "Interpretation and commentary claim not supported by the input.",
+     "fix": "sādhāraṇa: general, common.",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "replace",
+      "field": "notes",
+      "old": "sādhāraṇa: general, common to all the doṣas (not specific to one); the exact sense is explained differently by commentators.",
+      "new": "sādhāraṇa: general, common."
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "bhoktavyam",
+     "problem": "'ger.' usually means the gerund (absolutive, -tvā/-ya); this is a gerundive (kṛtya).",
+     "fix": "n. nom. sg. gerundive (kṛtya) √bhuj",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "word",
+      "match_w": "bhoktavyam",
+      "field": "gram",
+      "value": "n. nom. sg. gerundive (kṛtya) √bhuj"
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "protecting the fire",
+     "problem": "Glossary: agni = digestive fire (agni).",
+     "fix": "By one intent on protecting the digestive fire (agni),",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "replace",
+      "field": "english",
+      "old": "By one intent on protecting the fire,",
+      "new": "By one intent on protecting the digestive fire (agni),"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "bhojyāḥ",
+     "problem": "'ger.' usually means the gerund (absolutive, -tvā/-ya); this is a gerundive (kṛtya).",
+     "fix": "m. nom. pl. gerundive (kṛtya) √bhuj",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "word",
+      "match_w": "bhojyāḥ",
+      "field": "gram",
+      "value": "m. nom. pl. gerundive (kṛtya) √bhuj"
+     }
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "eva",
+     "problem": "eva is emphatic; 'or' is vā.",
+     "fix": "just, indeed (emphatic)",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "word",
+      "match_w": "eva",
+      "field": "gloss",
+      "value": "just, indeed (emphatic)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "anointing (udvartana)",
+     "problem": "udvartana is 'rubbing (udvartana)' in unit 24; 'anointing' is inconsistent and closer to abhyaṅga.",
+     "fix": "friction (pragharṣa), rubbing (udvartana)",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "replace",
+      "field": "english",
+      "old": "rubbing (pragharṣa), anointing (udvartana)",
+      "new": "friction (pragharṣa), rubbing (udvartana)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "in the rainy season",
+     "problem": "vārṣikam is an adjective with sthānam (n. acc. sg., as gram and notes say), not an adverb of time.",
+     "fix": "one should resort to a dwelling for the rainy season, free from dampness",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "replace",
+      "field": "english",
+      "old": "one should resort in the rainy season to a dwelling free from dampness",
+      "new": "one should resort to a dwelling for the rainy season, free from dampness"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वर्षा ऋतु में",
+     "problem": "Same: vārṣikam qualifies sthānam.",
+     "fix": "वर्षा ऋतु के योग्य क्लेद-रहित स्थान",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वर्षा ऋतु में क्लेद-रहित स्थान",
+      "new": "वर्षा ऋतु के योग्य क्लेद-रहित स्थान"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vārṣikam",
+     "problem": "Adjective agreeing with sthānam, not 'in the rainy season'.",
+     "fix": "for the rainy season, of the rains",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "word",
+      "match_w": "vārṣikam",
+      "field": "gloss",
+      "value": "for the rainy season, of the rains"
+     }
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sevyam",
+     "problem": "'ger.' usually means the gerund (absolutive, -tvā/-ya); this is a gerundive (kṛtya).",
+     "fix": "n. nom. sg. gerundive (kṛtya) √sev",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "word",
+      "match_w": "sevyam",
+      "field": "gram",
+      "value": "n. nom. sg. gerundive (kṛtya) √sev"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sevyān",
+     "problem": "'ger.' usually means the gerund (absolutive, -tvā/-ya); this is a gerundive (kṛtya).",
+     "fix": "m. acc. pl. gerundive (kṛtya) √sev",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "word",
+      "match_w": "sevyān",
+      "field": "gram",
+      "value": "m. acc. pl. gerundive (kṛtya) √sev"
+     }
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes: tikta sarpis",
+     "problem": "Commentary interpretation not in the input.",
+     "fix": "tikta sarpis: bitter ghee.",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "replace",
+      "field": "notes",
+      "old": "tikta sarpis: ghee that is bitter, usually understood as ghee prepared with bitter drugs.",
+      "new": "tikta sarpis: bitter ghee."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "kāryam",
+     "problem": "'ger.' usually means the gerund (absolutive, -tvā/-ya); this is a gerundive (kṛtya).",
+     "fix": "n. nom. sg. gerundive (kṛtya) √kṛ",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "word",
+      "match_w": "kāryam",
+      "field": "gram",
+      "value": "n. nom. sg. gerundive (kṛtya) √kṛ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes: Canopus",
+     "problem": "Imports outside knowledge about the name (LAYER_NOTES 3: role only if the line states it).",
+     "fix": "agastya: name; the line says only that Agastya made the water free of poison.",
+     "severity": "minor",
+     "patch": {
+      "n": "46",
+      "op": "replace",
+      "field": "notes",
+      "old": "Agastya is the star (Canopus), whose rising in autumn is held to purify water; the text says only \"Agastya\".",
+      "new": "agastya: name; the line says only that Agastya made the water free of poison."
+     }
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "50",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "51",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Here is the verse:",
+     "problem": "Glossary fixes tatra ślokāḥ = \"Here, the verses:\"; singular should follow the same pattern.",
+     "fix": "Here, the verse:",
+     "severity": "minor",
+     "patch": {
+      "n": "51",
+      "op": "replace",
+      "field": "english",
+      "old": "Here is the verse:",
+      "new": "Here, the verse:"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "sevyam",
+     "problem": "'ger.' usually means the gerund (absolutive, -tvā/-ya); this is a gerundive (kṛtya).",
+     "fix": "n. nom. sg. gerundive (kṛtya) √sev",
+     "severity": "minor",
+     "patch": {
+      "n": "51",
+      "op": "word",
+      "match_w": "sevyam",
+      "field": "gram",
+      "value": "n. nom. sg. gerundive (kṛtya) √sev"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "asevyam",
+     "problem": "'ger.' usually means the gerund (absolutive, -tvā/-ya); this is a gerundive (kṛtya).",
+     "fix": "n. nom. sg. gerundive (kṛtya) √sev",
+     "severity": "minor",
+     "patch": {
+      "n": "51",
+      "op": "word",
+      "match_w": "asevyam",
+      "field": "gram",
+      "value": "n. nom. sg. gerundive (kṛtya) √sev"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P3",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "54 units reviewed; 3 errors, 39 minor. Errors: unit 30 text_flags rely on another edition recalled from memory (rewrite flag 1 to keep only the 30b=31b repetition observation; delete flag 2); unit 17 supyāt is benedictive, not optative. Minor: glossary consistency (bhavati cātra, tatra ślokaḥ, agni = digestive fire, dhūma, kavala, udvartana), eva glossed 'or else' (26, 39), tau/etau glosses (P2), vārṣikam taken adverbially (40), Hindi नष्ट for hinasti (10), added season equivalents in P1 English, commentary/unnamed-source claims in notes (3, 22, 26, 30, 31, 35, 44, 46), and 'ger.' for gerundives (9 words). All other typo flags checked and correct (7, 9, 21, 23, 24, 29, 35, 37 vātavarṣa, 38, 40, 43 x2, 50); syllable-count claims verified. 37 anala->anila is a contextual conjecture (anala is a real word) and is correctly hedged as possible. No regrouping suggested. Repeated-word patches: unit 51 has sevyam once and asevyam once; units 26/39 eva occurs once each."
+}

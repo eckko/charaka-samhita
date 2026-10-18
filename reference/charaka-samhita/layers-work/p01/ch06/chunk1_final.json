@@ -1,0 +1,6914 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athātastasyāśitīyamadhyāyaṃ",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now",
+        "gram": "ind."
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "therefore, hence",
+        "gram": "ind."
+       },
+       {
+        "w": "tasya-aśitīyam",
+        "gloss": "named \"Tasyāśitīya\"",
+        "gram": "m. acc. sg. adj. (taddhita -īya)"
+       },
+       {
+        "w": "adhyāyam",
+        "gloss": "chapter",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyāsyāmaḥ",
+      "words": [
+       {
+        "w": "vyākhyāsyāmaḥ",
+        "gloss": "we shall expound",
+        "gram": "1 pl. fut. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब इसके बाद हम 'तस्याशितीय' नामक अध्याय की व्याख्या करेंगे।",
+  "english": "Now, therefore, we shall expound the chapter called \"Tasyāśitīya\".",
+  "text_flags": [],
+  "notes": "Prose opening formula, not a verse (the unit is typed as \"verse\"). tasyāśitīya is a taddhita name formed from the opening words of verse 3, \"tasyāśitād\" (of him ... from what is eaten).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.1"
+  ],
+  "lines_deva": [
+   "अथातस्तस्याशितीयमध्यायं व्याख्यास्यामः"
+  ],
+  "lines_iast": [
+   "athātastasyāśitīyamadhyāyaṃ vyākhyāsyāmaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ha",
+      "words": [
+       {
+        "w": "ha",
+        "gloss": "indeed",
+        "gram": "ind. (particle)"
+       }
+      ]
+     },
+     {
+      "src": "smāha",
+      "words": [
+       {
+        "w": "sma",
+        "gloss": "(marks past)",
+        "gram": "ind."
+       },
+       {
+        "w": "āha",
+        "gloss": "said",
+        "gram": "3 sg. pf. √ah"
+       }
+      ]
+     },
+     {
+      "src": "bhagavānātreyaḥ",
+      "words": [
+       {
+        "w": "bhagavān",
+        "gloss": "the venerable",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ātreyaḥ",
+        "gloss": "Ātreya",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ऐसा भगवान् आत्रेय ने कहा था।",
+  "english": "Thus spoke the venerable Ātreya.",
+  "text_flags": [],
+  "notes": "Prose formula, not a verse. sma with āha gives a past sense.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.2"
+  ],
+  "lines_deva": [
+   "इति ह स्माह भगवानात्रेयः"
+  ],
+  "lines_iast": [
+   "iti ha smāha bhagavānātreyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasyāśitādyādāhārādbalaṃ",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of him",
+        "gram": "m. gen. sg. pron."
+       },
+       {
+        "w": "aśita-ādyāt",
+        "gloss": "(from) what is eaten and the rest",
+        "gram": "m. abl. sg. bahuvrīhi"
+       },
+       {
+        "w": "āhārāt",
+        "gloss": "from food",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "balam",
+        "gloss": "strength",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "varṇaśca",
+      "words": [
+       {
+        "w": "varṇaḥ",
+        "gloss": "complexion",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vardhate",
+      "words": [
+       {
+        "w": "vardhate",
+        "gloss": "increases",
+        "gram": "3 sg. pres. √vṛdh"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yasyartusātmyaṃ",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "by whom",
+        "gram": "m. gen. sg. rel. pron."
+       },
+       {
+        "w": "ṛtu-sātmyam",
+        "gloss": "seasonal suitability",
+        "gram": "n. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "viditaṃ",
+      "words": [
+       {
+        "w": "viditam",
+        "gloss": "known",
+        "gram": "n. nom. sg. ppp. √vid"
+       }
+      ]
+     },
+     {
+      "src": "ceṣṭāhāravyapāśrayam",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ceṣṭā-āhāra-vyapāśrayam",
+        "gloss": "based on conduct and diet",
+        "gram": "n. nom. sg. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसे चेष्टा और आहार पर आश्रित ऋतुसात्म्य ज्ञात है, उसके अशित आदि आहार से बल और वर्ण बढ़ता है।",
+  "english": "The strength and complexion of him who knows the seasonal suitability (ṛtusātmya) that rests on conduct and diet increase from food eaten and the rest.",
+  "text_flags": [],
+  "notes": "aśitādyāt: \"from eaten and the rest\"; the ādi is not spelled out in the text. ca in line b joins the two predicates loosely; it is left untranslated. ṛtusātmya: what is suitable (wholesome by habituation) to each season.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.3a",
+   "01.06.3b"
+  ],
+  "lines_deva": [
+   "तस्याशिताद्यादाहाराद्बलं वर्णश्च वर्धते",
+   "यस्यर्तुसात्म्यं विदितं चेष्टाहारव्यपाश्रयम्"
+  ],
+  "lines_iast": [
+   "tasyāśitādyādāhārādbalaṃ varṇaśca vardhate",
+   "yasyartusātmyaṃ viditaṃ ceṣṭāhāravyapāśrayam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iha",
+      "words": [
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "khalu",
+      "words": [
+       {
+        "w": "khalu",
+        "gloss": "indeed",
+        "gram": "ind. (particle)"
+       }
+      ]
+     },
+     {
+      "src": "saṃvatsaraṃ",
+      "words": [
+       {
+        "w": "saṃvatsaram",
+        "gloss": "the year",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṣaḍaṅgamṛtuvibhāgena",
+      "words": [
+       {
+        "w": "ṣaṭ-aṅgam",
+        "gloss": "having six parts",
+        "gram": "m. acc. sg. bahuvrīhi"
+       },
+       {
+        "w": "ṛtu-vibhāgena",
+        "gloss": "by division into seasons",
+        "gram": "m. inst. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vidyāt",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "one should know",
+        "gram": "3 sg. opt. √vid"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यहाँ संवत्सर को ऋतु-विभाग से छह अंगों वाला जानना चाहिए।",
+  "english": "Here one should know the year as having six parts by its division into seasons.",
+  "text_flags": [],
+  "notes": "Prose sentence, typed as a verse. khalu is an emphatic particle, left untranslated.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.4"
+  ],
+  "lines_deva": [
+   "इह खलु संवत्सरं षडङ्गमृतुविभागेन विद्यात्"
+  ],
+  "lines_iast": [
+   "iha khalu saṃvatsaraṃ ṣaḍaṅgamṛtuvibhāgena vidyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "P1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatrādityasyodagayanamādānaṃ",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there, of these",
+        "gram": "ind."
+       },
+       {
+        "w": "ādityasya",
+        "gloss": "of the sun",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "udak-ayanam",
+        "gloss": "northward course",
+        "gram": "n. acc. sg. tat-puruṣa"
+       },
+       {
+        "w": "ādānam",
+        "gloss": "ādāna (taking up)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "trīnṛtūñchiśirādīn",
+      "words": [
+       {
+        "w": "trīn",
+        "gloss": "three",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "ṛtūn",
+        "gloss": "seasons",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "śiśira-ādīn",
+        "gloss": "beginning with Śiśira",
+        "gram": "m. acc. pl. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "grīṣmāntān",
+      "words": [
+       {
+        "w": "grīṣma-antān",
+        "gloss": "ending with Grīṣma",
+        "gram": "m. acc. pl. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vyavasyet",
+      "words": [
+       {
+        "w": "vyavasyet",
+        "gloss": "one should determine",
+        "gram": "3 sg. opt. vi-ava-√so"
+       }
+      ]
+     },
+     {
+      "src": "varṣādīn",
+      "words": [
+       {
+        "w": "varṣā-ādīn",
+        "gloss": "beginning with Varṣā",
+        "gram": "m. acc. pl. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "punarhemantāntān",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "again, on the other hand",
+        "gram": "ind."
+       },
+       {
+        "w": "hemanta-antān",
+        "gloss": "ending with Hemanta",
+        "gram": "m. acc. pl. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "dakṣiṇāyanaṃ",
+      "words": [
+       {
+        "w": "dakṣiṇa-ayanam",
+        "gloss": "southward course",
+        "gram": "n. acc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "visargaṃ",
+      "words": [
+       {
+        "w": "visargam",
+        "gloss": "visarga (release)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वहाँ सूर्य के उत्तरायण और आदान को शिशिर से आरम्भ होकर ग्रीष्म पर्यन्त तीन ऋतुएँ समझे, और फिर वर्षा से आरम्भ होकर हेमन्त पर्यन्त की ऋतुओं को दक्षिणायन और विसर्ग समझे।",
+  "english": "Of these, one should determine the northward course of the sun and ādāna (taking up) to be the three seasons beginning with Śiśira and ending with Grīṣma; and, again, those beginning with Varṣā and ending with Hemanta to be the southward course and visarga (release).",
+  "text_flags": [],
+  "notes": "The six seasons in order: Śiśira, Vasanta, Grīṣma (ādāna, northward course); Varṣā, Śarad, Hemanta (visarga, southward course). \"three\" is stated only for the first group. Usual English equivalents (not words of the text): Śiśira late winter, Vasanta spring, Grīṣma summer, Varṣā rains, Śarad autumn, Hemanta early winter. ādāna and visarga: the periods in which the sun takes up and releases (moisture, strength), as the following units explain.",
+  "confidence": "high",
+  "type": "prose",
+  "line_ids": [
+   "01.06.P1"
+  ],
+  "lines_deva": [
+   "तत्रादित्यस्योदगयनमादानं च त्रीनृतूञ्छिशिरादीन् ग्रीष्मान्तान् व्यवस्येत् वर्षादीन् पुनर्हेमन्तान्तान् दक्षिणायनं विसर्गं च"
+  ],
+  "lines_iast": [
+   "tatrādityasyodagayanamādānaṃ ca trīnṛtūñchiśirādīn grīṣmāntān vyavasyet varṣādīn punarhemantāntān dakṣiṇāyanaṃ visargaṃ ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "visarge",
+      "words": [
+       {
+        "w": "visarge",
+        "gloss": "in visarga",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "punarvāyavo",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "however",
+        "gram": "ind."
+       },
+       {
+        "w": "vāyavaḥ",
+        "gloss": "winds",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "nātirūkṣāḥ",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "ati-rūkṣāḥ",
+        "gloss": "very dry",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pravānti",
+      "words": [
+       {
+        "w": "pravānti",
+        "gloss": "blow",
+        "gram": "3 pl. pres. pra-√vā"
+       }
+      ]
+     },
+     {
+      "src": "itare",
+      "words": [
+       {
+        "w": "itare",
+        "gloss": "the others",
+        "gram": "m. nom. pl. pron."
+       }
+      ]
+     },
+     {
+      "src": "punarādāne",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "however",
+        "gram": "ind."
+       },
+       {
+        "w": "ādāne",
+        "gloss": "in ādāna",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "somaścāvyāhatabalaḥ",
+      "words": [
+       {
+        "w": "somaḥ",
+        "gloss": "the moon",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "avyāhata-balaḥ",
+        "gloss": "of unimpaired strength",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "śiśirābhirbhābhirāpūrayañjagadāpyāyayati",
+      "words": [
+       {
+        "w": "śiśirābhiḥ",
+        "gloss": "cool",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "bhābhiḥ",
+        "gloss": "with rays",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "āpūrayan",
+        "gloss": "filling",
+        "gram": "m. nom. sg. pres. part. caus. ā-√pṝ"
+       },
+       {
+        "w": "jagat",
+        "gloss": "the world",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "āpyāyayati",
+        "gloss": "nourishes",
+        "gram": "3 sg. pres. caus. ā-√pyai"
+       }
+      ]
+     },
+     {
+      "src": "śaśvat",
+      "words": [
+       {
+        "w": "śaśvat",
+        "gloss": "continually",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ato",
+      "words": [
+       {
+        "w": "ataḥ",
+        "gloss": "hence",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "visargaḥ",
+      "words": [
+       {
+        "w": "visargaḥ",
+        "gloss": "visarga",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saumyaḥ",
+      "words": [
+       {
+        "w": "saumyaḥ",
+        "gloss": "of the moon's nature (saumya)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विसर्ग में वायु अति रूक्ष नहीं बहते, किन्तु आदान में दूसरे बहते हैं; और अव्याहत बल वाला सोम शीतल किरणों से जगत् को भरता हुआ निरन्तर उसका आप्यायन करता है; इसलिए विसर्ग सौम्य है।",
+  "english": "In visarga the winds blow not too dry; in ādāna, however, the others. And the moon, its strength unimpaired, filling the world with its cool rays, nourishes it continually; hence visarga is saumya (of the moon's nature).",
+  "text_flags": [],
+  "notes": "Prose, typed as a verse. \"itare\" (the others) are the winds that are very dry, with pravānti understood. vāyavaḥ here are physical winds, not the doṣa. āpūrayañ: āpūrayan before j.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.5"
+  ],
+  "lines_deva": [
+   "विसर्गे पुनर्वायवो नातिरूक्षाः प्रवान्ति इतरे पुनरादाने सोमश्चाव्याहतबलः शिशिराभिर्भाभिरापूरयञ्जगदाप्याययति शश्वत् अतो विसर्गः सौम्यः"
+  ],
+  "lines_iast": [
+   "visarge punarvāyavo nātirūkṣāḥ pravānti itare punarādāne somaścāvyāhatabalaḥ śiśirābhirbhābhirāpūrayañjagadāpyāyayati śaśvat ato visargaḥ saumyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "P2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ādānaṃ",
+      "words": [
+       {
+        "w": "ādānam",
+        "gloss": "ādāna",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "punarāgneyaṃ",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "however",
+        "gram": "ind."
+       },
+       {
+        "w": "āgneyam",
+        "gloss": "of fire's nature (āgneya)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tāvetāvarkavāyū",
+      "words": [
+       {
+        "w": "tau",
+        "gloss": "those (two)",
+        "gram": "m. nom. du. pron."
+       },
+       {
+        "w": "etau",
+        "gloss": "these (two)",
+        "gram": "m. nom. du. pron."
+       },
+       {
+        "w": "arka-vāyū",
+        "gloss": "the sun and the wind",
+        "gram": "m. nom. du. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "somaśca",
+      "words": [
+       {
+        "w": "somaḥ",
+        "gloss": "the moon",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kālasvabhāvamārgaparigṛhītāḥ",
+      "words": [
+       {
+        "w": "kāla-svabhāva-mārga-parigṛhītāḥ",
+        "gloss": "governed by time, nature and course",
+        "gram": "m. nom. pl. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kālarturasadoṣadehabalanirvṛttipratyayabhūtāḥ",
+      "words": [
+       {
+        "w": "kāla-ṛtu-rasa-doṣa-deha-bala-nirvṛtti-pratyaya-bhūtāḥ",
+        "gloss": "being causes of the production of time, season, taste, doṣa and bodily strength",
+        "gram": "m. nom. pl. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "samupadiśyante",
+      "words": [
+       {
+        "w": "samupadiśyante",
+        "gloss": "are taught",
+        "gram": "3 pl. pres. pass. sam-upa-√diś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आदान तो आग्नेय है। ये दोनों, सूर्य और वायु, तथा सोम, काल, स्वभाव और मार्ग से परिगृहीत होकर, काल, ऋतु, रस, दोष और देह-बल की निष्पत्ति के कारण बताए जाते हैं।",
+  "english": "Ādāna, however, is āgneya (of fire's nature). These two, the sun and the wind, and the moon, governed by time, their own nature and their course, are taught to be the causes of the production of time, season, taste (rasa), doṣa and bodily strength.",
+  "text_flags": [],
+  "notes": "Prose, typed as a separate unit. vāyu here is the physical wind, not the doṣa Vāta. kālasvabhāvamārga may also be read as \"the course natural to time\" (a single idea); the split as three members is the more literal. deha-bala may be read as \"body and strength\" (two members); taken here as \"bodily strength\".",
+  "confidence": "medium",
+  "type": "prose",
+  "line_ids": [
+   "01.06.P2"
+  ],
+  "lines_deva": [
+   "आदानं पुनराग्नेयं तावेतावर्कवायू सोमश्च कालस्वभावमार्गपरिगृहीताः कालर्तुरसदोषदेहबलनिर्वृत्तिप्रत्ययभूताः समुपदिश्यन्ते"
+  ],
+  "lines_iast": [
+   "ādānaṃ punarāgneyaṃ tāvetāvarkavāyū somaśca kālasvabhāvamārgaparigṛhītāḥ kālarturasadoṣadehabalanirvṛttipratyayabhūtāḥ samupadiśyante"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there, in that (ādāna)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ravirbhābhirādadāno",
+      "words": [
+       {
+        "w": "raviḥ",
+        "gloss": "the sun",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "bhābhiḥ",
+        "gloss": "with its rays",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "ādadānaḥ",
+        "gloss": "taking up",
+        "gram": "m. nom. sg. pres. part. ā-√dā"
+       }
+      ]
+     },
+     {
+      "src": "jagataḥ",
+      "words": [
+       {
+        "w": "jagataḥ",
+        "gloss": "of the world",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "snehaṃ",
+      "words": [
+       {
+        "w": "sneham",
+        "gloss": "unctuousness, moisture",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāyavastīvrarūkṣāścopaśoṣayantaḥ",
+      "words": [
+       {
+        "w": "vāyavaḥ",
+        "gloss": "winds",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "tīvra-rūkṣāḥ",
+        "gloss": "sharp and dry",
+        "gram": "m. nom. pl. dvandva"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "upaśoṣayantaḥ",
+        "gloss": "drying up",
+        "gram": "m. nom. pl. pres. part. caus. upa-√śuṣ"
+       }
+      ]
+     },
+     {
+      "src": "śiśiravasantagrīṣmeṣu",
+      "words": [
+       {
+        "w": "śiśira-vasanta-grīṣmeṣu",
+        "gloss": "in Śiśira, Vasanta and Grīṣma",
+        "gram": "m. loc. pl. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "yathākramaṃ",
+      "words": [
+       {
+        "w": "yathā-kramam",
+        "gloss": "in succession",
+        "gram": "ind. avyayībhāva"
+       }
+      ]
+     },
+     {
+      "src": "raukṣyamutpādayanto",
+      "words": [
+       {
+        "w": "raukṣyam",
+        "gloss": "dryness",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "utpādayantaḥ",
+        "gloss": "producing",
+        "gram": "m. nom. pl. pres. part. caus. ut-√pad"
+       }
+      ]
+     },
+     {
+      "src": "rūkṣān",
+      "words": [
+       {
+        "w": "rūkṣān",
+        "gloss": "dry",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "rasāṃstiktakaṣāyakaṭukāṃścābhivardhayanto",
+      "words": [
+       {
+        "w": "rasān",
+        "gloss": "tastes",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "tikta-kaṣāya-kaṭukān",
+        "gloss": "bitter, astringent and pungent",
+        "gram": "m. acc. pl. dvandva"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "abhivardhayantaḥ",
+        "gloss": "increasing",
+        "gram": "m. nom. pl. pres. part. caus. abhi-√vṛdh"
+       }
+      ]
+     },
+     {
+      "src": "nṛṇāṃ",
+      "words": [
+       {
+        "w": "nṛṇām",
+        "gloss": "of humans",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "daurbalyamāvahanti",
+      "words": [
+       {
+        "w": "daurbalyam",
+        "gloss": "weakness",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "āvahanti",
+        "gloss": "bring about",
+        "gram": "3 pl. pres. ā-√vah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वहाँ सूर्य अपनी किरणों से जगत् के स्नेह को लेता हुआ, और तीव्र तथा रूक्ष वायु उसे सुखाते हुए, शिशिर, वसन्त और ग्रीष्म में क्रमशः रूक्षता उत्पन्न करते हुए और तिक्त, कषाय और कटु रूक्ष रसों को बढ़ाते हुए मनुष्यों में दुर्बलता लाते हैं।",
+  "english": "There, the sun, taking up with its rays the moisture (sneha) of the world, and the winds, sharp and dry, drying it up, producing dryness in succession in Śiśira, Vasanta and Grīṣma and increasing the dry tastes, bitter, astringent and pungent, bring weakness to humans.",
+  "text_flags": [],
+  "notes": "Prose, typed as a verse. Finite verb āvahanti (pl.) has both the sun and the winds as subject. vāyavaḥ: physical winds. sneha here is the moisture/unctuousness of the world.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.6"
+  ],
+  "lines_deva": [
+   "तत्र रविर्भाभिराददानो जगतः स्नेहं वायवस्तीव्ररूक्षाश्चोपशोषयन्तः शिशिरवसन्तग्रीष्मेषु यथाक्रमं रौक्ष्यमुत्पादयन्तो रूक्षान् रसांस्तिक्तकषायकटुकांश्चाभिवर्धयन्तो नृणां दौर्बल्यमावहन्ति"
+  ],
+  "lines_iast": [
+   "tatra ravirbhābhirādadāno jagataḥ snehaṃ vāyavastīvrarūkṣāścopaśoṣayantaḥ śiśiravasantagrīṣmeṣu yathākramaṃ raukṣyamutpādayanto rūkṣān rasāṃstiktakaṣāyakaṭukāṃścābhivardhayanto nṛṇāṃ daurbalyamāvahanti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "varṣāśaraddhemanteṣu",
+      "words": [
+       {
+        "w": "varṣā-śarad-hemanteṣu",
+        "gloss": "in Varṣā, Śarad and Hemanta",
+        "gram": "m. loc. pl. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dakṣiṇābhimukjhe'rke",
+      "words": [
+       {
+        "w": "dakṣiṇa-abhimukhe",
+        "gloss": "facing the south",
+        "gram": "m. loc. sg. tat-puruṣa"
+       },
+       {
+        "w": "arke",
+        "gloss": "when the sun",
+        "gram": "m. loc. sg. (loc. abs.)"
+       }
+      ]
+     },
+     {
+      "src": "kālamārgameghavātavarṣābhihatapratāpe",
+      "words": [
+       {
+        "w": "kāla-mārga-megha-vāta-varṣā-abhihata-pratāpe",
+        "gloss": "whose heat is struck down by time, course, clouds, wind and rain",
+        "gram": "m. loc. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "śaśini",
+      "words": [
+       {
+        "w": "śaśini",
+        "gloss": "when the moon",
+        "gram": "m. loc. sg. (loc. abs.)"
+       }
+      ]
+     },
+     {
+      "src": "cāvyāhatabale",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "avyāhata-bale",
+        "gloss": "of unimpaired strength",
+        "gram": "m. loc. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "māhendrasalilapraśāntasantāpe",
+      "words": [
+       {
+        "w": "māhendra-salila-praśānta-santāpe",
+        "gloss": "whose heat is calmed by the water of Mahendra",
+        "gram": "n. loc. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "jagati",
+      "words": [
+       {
+        "w": "jagati",
+        "gloss": "when the world",
+        "gram": "n. loc. sg. (loc. abs.)"
+       }
+      ]
+     },
+     {
+      "src": "arūkṣā",
+      "words": [
+       {
+        "w": "arūkṣāḥ",
+        "gloss": "non-dry",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "rasāḥ",
+      "words": [
+       {
+        "w": "rasāḥ",
+        "gloss": "tastes",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pravardhante'mlalavaṇamadhurā",
+      "words": [
+       {
+        "w": "pravardhante",
+        "gloss": "increase",
+        "gram": "3 pl. pres. pra-√vṛdh"
+       },
+       {
+        "w": "amla-lavaṇa-madhurāḥ",
+        "gloss": "sour, salty and sweet",
+        "gram": "m. nom. pl. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "yathākramaṃ",
+      "words": [
+       {
+        "w": "yathā-kramam",
+        "gloss": "in succession",
+        "gram": "ind. avyayībhāva"
+       }
+      ]
+     },
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "then, there",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "balamupacīyate",
+      "words": [
+       {
+        "w": "balam",
+        "gloss": "strength",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "upacīyate",
+        "gloss": "grows, accumulates",
+        "gram": "3 sg. pres. pass. upa-√ci"
+       }
+      ]
+     },
+     {
+      "src": "nṛṇāmiti",
+      "words": [
+       {
+        "w": "nṛṇām",
+        "gloss": "of humans",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "iti",
+        "gloss": "(end of statement)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु वर्षा, शरद् और हेमन्त में, जब सूर्य दक्षिण की ओर मुख किए होता है और उसका प्रताप काल, मार्ग, मेघ, वायु और वर्षा से आहत होता है, चन्द्रमा अव्याहत बल वाला होता है, और जगत् का सन्ताप माहेन्द्र जल से शान्त हो जाता है, तब अम्ल, लवण और मधुर अरूक्ष रस क्रमशः बढ़ते हैं; तब मनुष्यों का बल बढ़ता है।",
+  "english": "But in Varṣā, Śarad and Hemanta, when the sun faces the south and its heat is struck down by time, its course, clouds, wind and rain, when the moon is of unimpaired strength, and when the heat of the world is calmed by the water of Mahendra, the non-dry tastes, sour, salty and sweet, increase in succession; then the strength of humans grows.",
+  "text_flags": [
+   {
+    "src": "dakṣiṇābhimukjhe'rke",
+    "suggest": "dakṣiṇābhimukhe'rke",
+    "why": "typing slip: 'mukjhe' (मुक्झे) is not a word; abhimukha 'facing' requires mukhe (मुखे)."
+   }
+  ],
+  "notes": "Prose, typed as a verse. māhendra salila, \"the water of Mahendra\" (Indra), means rain water; the identification is the usual one, not a word of the text. \"jagati arūkṣā\" is printed without sandhi (jagatyarūkṣā expected); not a reading difference. Final iti closes the prose statement and is not translated.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.7"
+  ],
+  "lines_deva": [
+   "वर्षाशरद्धेमन्तेषु तु दक्षिणाभिमुक्झेऽर्के कालमार्गमेघवातवर्षाभिहतप्रतापे शशिनि चाव्याहतबले माहेन्द्रसलिलप्रशान्तसन्तापे जगति अरूक्षा रसाः प्रवर्धन्तेऽम्ललवणमधुरा यथाक्रमं तत्र बलमुपचीयते नृणामिति"
+  ],
+  "lines_iast": [
+   "varṣāśaraddhemanteṣu tu dakṣiṇābhimukjhe'rke kālamārgameghavātavarṣābhihatapratāpe śaśini cāvyāhatabale māhendrasalilapraśāntasantāpe jagati arūkṣā rasāḥ pravardhante'mlalavaṇamadhurā yathākramaṃ tatra balamupacīyate nṛṇāmiti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "there is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "cātra",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "atra",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ādāvante",
+      "words": [
+       {
+        "w": "ādau",
+        "gloss": "at the beginning",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "ante",
+        "gloss": "at the end",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "daurbalyaṃ",
+      "words": [
+       {
+        "w": "daurbalyam",
+        "gloss": "weakness",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "visargādānayornṛṇām",
+      "words": [
+       {
+        "w": "visarga-ādānayoḥ",
+        "gloss": "of visarga and ādāna",
+        "gram": "m. gen. du. dvandva"
+       },
+       {
+        "w": "nṛṇām",
+        "gloss": "of humans",
+        "gram": "m. gen. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "madhye",
+      "words": [
+       {
+        "w": "madhye",
+        "gloss": "in the middle",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhyabalaṃ",
+      "words": [
+       {
+        "w": "madhya-balam",
+        "gloss": "middling strength",
+        "gram": "n. acc. sg. karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "tvante",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "ante",
+        "gloss": "at the end",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śreṣṭhamagre",
+      "words": [
+       {
+        "w": "śreṣṭham",
+        "gloss": "the best",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "agre",
+        "gloss": "at the start",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nirdiśet",
+      "words": [
+       {
+        "w": "nirdiśet",
+        "gloss": "one should declare",
+        "gram": "3 sg. opt. nir-√diś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और यहाँ यह है: विसर्ग और आदान के आदि में और अन्त में मनुष्यों में दुर्बलता, मध्य में मध्यम बल, और अन्त में तथा आरम्भ में श्रेष्ठ बल बताना चाहिए।",
+  "english": "And here there is: One should declare weakness of humans at the beginning and the end of visarga and ādāna, middling strength in the middle, and the best at the end and at the start.",
+  "text_flags": [],
+  "notes": "Line a is the lead-in formula \"bhavati cātra\" (and here there is [a verse]); \"this\" and \"verse\" are understood. The pairs are read in order (yathāsaṃkhya): weakness at the beginning of visarga and the end of ādāna; the best strength at the end of visarga and the start of ādāna. This reading is the usual one but the verse itself does not spell it out. śreṣṭham implies balam; the Hindi says \"श्रेष्ठ बल\".",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.06.8a",
+   "01.06.8b",
+   "01.06.8c"
+  ],
+  "lines_deva": [
+   "भवति चात्र",
+   "आदावन्ते च दौर्बल्यं विसर्गादानयोर्नृणाम्",
+   "मध्ये मध्यबलं त्वन्ते श्रेष्ठमग्रे च निर्दिशेत्"
+  ],
+  "lines_iast": [
+   "bhavati cātra",
+   "ādāvante ca daurbalyaṃ visargādānayornṛṇām",
+   "madhye madhyabalaṃ tvante śreṣṭhamagre ca nirdiśet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śīte",
+      "words": [
+       {
+        "w": "śīte",
+        "gloss": "in the cold",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śītānilasparśasaṃrūddho",
+      "words": [
+       {
+        "w": "śīta-anila-sparśa-saṃruddhaḥ",
+        "gloss": "confined by the touch of cold wind",
+        "gram": "m. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "balināṃ",
+      "words": [
+       {
+        "w": "balinām",
+        "gloss": "in the strong",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "balī",
+      "words": [
+       {
+        "w": "balī",
+        "gloss": "strong",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "paktā",
+      "words": [
+       {
+        "w": "paktā",
+        "gloss": "the digester",
+        "gram": "m. nom. sg. agent noun √pac"
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "hemante",
+      "words": [
+       {
+        "w": "hemante",
+        "gloss": "in Hemanta",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mātrādravyagurukṣamaḥ",
+      "words": [
+       {
+        "w": "mātrā-dravya-guru-kṣamaḥ",
+        "gloss": "able to bear what is heavy in quantity and in substance",
+        "gram": "m. nom. sg. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शीत हेमन्त में शीतल वायु के स्पर्श से अवरुद्ध पचाने वाला बलवानों में बलवान् होता है और मात्रा तथा द्रव्य से गुरु आहार को सहने में समर्थ होता है।",
+  "english": "In the cold Hemanta, the digester, confined by the touch of cold wind, becomes strong in the strong, able to bear what is heavy in quantity and in substance.",
+  "text_flags": [
+   {
+    "src": "śītānilasparśasaṃrūddho",
+    "suggest": "śītānilasparśasaṃruddho",
+    "why": "possible typing slip: the participle of saṃ-√rudh is saṃruddha with short u; metre is unaffected."
+   }
+  ],
+  "notes": "paktā (the digester) is commonly taken as the digestive fire (agni); the text says only paktā. balināṃ balī: \"strong in strong persons\" (genitive in locative sense), or \"strongest of the strong\"; the first is followed here. mātrā-dravya-guru: food heavy by quantity and heavy by nature; \"āhāra\" is understood (the Hindi adds आहार for sense). anila here is the physical cold wind.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.06.9a",
+   "01.06.9b"
+  ],
+  "lines_deva": [
+   "शीते शीतानिलस्पर्शसंरूद्धो बलिनां बली",
+   "पक्ता भवति हेमन्ते मात्राद्रव्यगुरुक्षमः"
+  ],
+  "lines_iast": [
+   "śīte śītānilasparśasaṃrūddho balināṃ balī",
+   "paktā bhavati hemante mātrādravyagurukṣamaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "it (the digester)",
+        "gram": "m. nom. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "yadā",
+      "words": [
+       {
+        "w": "yadā",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nendhanaṃ",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "indhanam",
+        "gloss": "fuel",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yuktaṃ",
+      "words": [
+       {
+        "w": "yuktam",
+        "gloss": "suitable",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "labhate",
+      "words": [
+       {
+        "w": "labhate",
+        "gloss": "gets",
+        "gram": "3 sg. pres. √labh"
+       }
+      ]
+     },
+     {
+      "src": "dehajaṃ",
+      "words": [
+       {
+        "w": "deha-jam",
+        "gloss": "born in the body",
+        "gram": "m. acc. sg. upapada"
+       }
+      ]
+     },
+     {
+      "src": "tadā",
+      "words": [
+       {
+        "w": "tadā",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "rasaṃ",
+      "words": [
+       {
+        "w": "rasam",
+        "gloss": "rasa (the first dhātu)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hinastyato",
+      "words": [
+       {
+        "w": "hinasti",
+        "gloss": "harms",
+        "gram": "3 sg. pres. √hiṃs"
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vāyuḥ",
+      "words": [
+       {
+        "w": "vāyuḥ",
+        "gloss": "Vāta (vāyu)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śītaḥ",
+      "words": [
+       {
+        "w": "śītaḥ",
+        "gloss": "cold",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śīte",
+      "words": [
+       {
+        "w": "śīte",
+        "gloss": "in the cold",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakupyati",
+      "words": [
+       {
+        "w": "prakupyati",
+        "gloss": "is aggravated",
+        "gram": "3 sg. pres. pra-√kup"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब वह उचित इन्धन नहीं पाता, तब देह में उत्पन्न रस को हानि पहुँचाता है; इसलिए शीत वायु शीत में प्रकुपित होता है।",
+  "english": "When it does not get suitable fuel, it then harms the body-born rasa; therefore Vāta (vāyu), being cold, is aggravated in the cold.",
+  "text_flags": [],
+  "notes": "rasa here is the body's rasa (the first dhātu), as dehaja \"body-born\" shows. vāyu is the doṣa, rendered Vāta per glossary. sa refers to paktā of unit 9.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.10a",
+   "01.06.10b"
+  ],
+  "lines_deva": [
+   "स यदा नेन्धनं युक्तं लभते देहजं तदा",
+   "रसं हिनस्त्यतो वायुः शीतः शीते प्रकुप्यति"
+  ],
+  "lines_iast": [
+   "sa yadā nendhanaṃ yuktaṃ labhate dehajaṃ tadā",
+   "rasaṃ hinastyato vāyuḥ śītaḥ śīte prakupyati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmāttuṣārasamaye",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind. (abl. pron.)"
+       },
+       {
+        "w": "tuṣāra-samaye",
+        "gloss": "in the season of frost",
+        "gram": "m. loc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "snigdhāmlalavaṇān",
+      "words": [
+       {
+        "w": "snigdha-amla-lavaṇān",
+        "gloss": "unctuous, sour and salty",
+        "gram": "m. acc. pl. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "rasān",
+      "words": [
+       {
+        "w": "rasān",
+        "gloss": "juices, tastes",
+        "gram": "m. acc. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "audakānūpamāṃsānāṃ",
+      "words": [
+       {
+        "w": "audaka-ānūpa-māṃsānām",
+        "gloss": "of the meats of aquatic and marsh animals",
+        "gram": "n. gen. pl. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "medyānāmupayojayet",
+      "words": [
+       {
+        "w": "medyānām",
+        "gloss": "fat",
+        "gram": "n. gen. pl."
+       },
+       {
+        "w": "upayojayet",
+        "gloss": "one should use",
+        "gram": "3 sg. opt. caus. upa-√yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए तुषार के समय में मेद वाले औदक और आनूप मांसों के स्निग्ध, अम्ल और लवण रसों का उपयोग करे।",
+  "english": "Therefore, in the season of frost, one should use the unctuous, sour and salty rasas of the fat meats of aquatic and marsh animals.",
+  "text_flags": [],
+  "notes": "rasān with the genitive māṃsānām is read as \"juices (meat soups) of meats\"; it may also be read as two items: \"unctuous, sour and salty tastes, and (the meats) of fat aquatic and marsh animals\". Both are found; the English keeps \"rasas\". medya: fat, fleshy.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.06.11a",
+   "01.06.11b"
+  ],
+  "lines_deva": [
+   "तस्मात्तुषारसमये स्निग्धाम्ललवणान् रसान्",
+   "औदकानूपमांसानां मेद्यानामुपयोजयेत्"
+  ],
+  "lines_iast": [
+   "tasmāttuṣārasamaye snigdhāmlalavaṇān rasān",
+   "audakānūpamāṃsānāṃ medyānāmupayojayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bileśayānāṃ",
+      "words": [
+       {
+        "w": "bile-śayānām",
+        "gloss": "of burrow-dwellers",
+        "gram": "m. gen. pl. aluk tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "māṃsāni",
+      "words": [
+       {
+        "w": "māṃsāni",
+        "gloss": "meats",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "prasahānāṃ",
+      "words": [
+       {
+        "w": "prasahānām",
+        "gloss": "of prasaha animals (that seize prey)",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhṛtāni",
+      "words": [
+       {
+        "w": "bhṛtāni",
+        "gloss": "roasted",
+        "gram": "n. acc. pl. ppp. √bhṛ"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bhakṣayenmadirāṃ",
+      "words": [
+       {
+        "w": "bhakṣayet",
+        "gloss": "should eat",
+        "gram": "3 sg. opt. √bhakṣ"
+       },
+       {
+        "w": "madirām",
+        "gloss": "madirā (wine)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śīdhuṃ",
+      "words": [
+       {
+        "w": "śīdhum",
+        "gloss": "śīdhu (a liquor)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhu",
+      "words": [
+       {
+        "w": "madhu",
+        "gloss": "madhu",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cānupibennaraḥ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anupibet",
+        "gloss": "should drink after",
+        "gram": "3 sg. opt. anu-√pā"
+       },
+       {
+        "w": "naraḥ",
+        "gloss": "a man",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मनुष्य बिलेशयों के मांस और प्रसहों के भुने हुए मांस खाए, और उसके बाद मदिरा, शीधु और मधु पिए।",
+  "english": "A man should eat the meats of burrow-dwellers and the roasted (meats) of prasaha animals, and drink after them madirā, śīdhu and madhu.",
+  "text_flags": [],
+  "notes": "prasaha: animals and birds that seize their prey (a class in Caraka's meat lists). bhṛta is taken as \"roasted\"; it may also mean \"well cooked\". madhu after madirā and śīdhu may be honey or a honey-wine; left as madhu. śīdhu is spelled sīdhu in unit 26; both spellings are found. \"anu-\" (after) is taken as \"after eating\"; the Hindi \"उसके बाद\" renders it.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.06.12a",
+   "01.06.12b"
+  ],
+  "lines_deva": [
+   "बिलेशयानां मांसानि प्रसहानां भृतानि च",
+   "भक्षयेन्मदिरां शीधुं मधु चानुपिबेन्नरः"
+  ],
+  "lines_iast": [
+   "bileśayānāṃ māṃsāni prasahānāṃ bhṛtāni ca",
+   "bhakṣayenmadirāṃ śīdhuṃ madhu cānupibennaraḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gorasānikṣuvikṛtīrvasāṃ",
+      "words": [
+       {
+        "w": "go-rasān",
+        "gloss": "milk products",
+        "gram": "m. acc. pl. tat-puruṣa"
+       },
+       {
+        "w": "ikṣu-vikṛtīḥ",
+        "gloss": "sugarcane preparations",
+        "gram": "f. acc. pl. tat-puruṣa"
+       },
+       {
+        "w": "vasām",
+        "gloss": "muscle-fat (vasā)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tailaṃ",
+      "words": [
+       {
+        "w": "tailam",
+        "gloss": "oil",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "navaudanam",
+      "words": [
+       {
+        "w": "nava-odanam",
+        "gloss": "new cooked rice",
+        "gram": "m. acc. sg. karmadhāraya"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "hemante'bhyasyatastoyamuṣṇaṃ",
+      "words": [
+       {
+        "w": "hemante",
+        "gloss": "in Hemanta",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "abhyasyataḥ",
+        "gloss": "of one who regularly uses",
+        "gram": "m. gen. sg. pres. part. abhi-√as"
+       },
+       {
+        "w": "toyam",
+        "gloss": "water",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "uṣṇam",
+        "gloss": "warm",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cāyurna",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "āyuḥ",
+        "gloss": "life-span",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hīyate",
+      "words": [
+       {
+        "w": "hīyate",
+        "gloss": "is diminished",
+        "gram": "3 sg. pres. pass. √hā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हेमन्त में गोरस, इक्षु-विकार, वसा, तैल, नया ओदन और उष्ण जल का अभ्यास करने वाले की आयु क्षीण नहीं होती।",
+  "english": "The life-span of one who regularly takes, in Hemanta, milk products, sugarcane preparations, muscle-fat (vasā), oil, new cooked rice and warm water does not diminish.",
+  "text_flags": [],
+  "notes": "navaudana: cooked rice of the new crop (nava \"new\").",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.13a",
+   "01.06.13b"
+  ],
+  "lines_deva": [
+   "गोरसानिक्षुविकृतीर्वसां तैलं नवौदनम्",
+   "हेमन्तेऽभ्यस्यतस्तोयमुष्णं चायुर्न हीयते"
+  ],
+  "lines_iast": [
+   "gorasānikṣuvikṛtīrvasāṃ tailaṃ navaudanam",
+   "hemante'bhyasyatastoyamuṣṇaṃ cāyurna hīyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "abhyaṅgotsādanaṃ",
+      "words": [
+       {
+        "w": "abhyaṅga-utsādanam",
+        "gloss": "oil massage and unguent rubbing",
+        "gram": "n. acc. sg. dvandva (samāhāra)"
+       }
+      ]
+     },
+     {
+      "src": "mūrdhni",
+      "words": [
+       {
+        "w": "mūrdhni",
+        "gloss": "on the head",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tailaṃ",
+      "words": [
+       {
+        "w": "tailam",
+        "gloss": "oil",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jentākamātapam",
+      "words": [
+       {
+        "w": "jentākam",
+        "gloss": "jentāka (sweat-chamber)",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ātapam",
+        "gloss": "sunshine",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bhajedbhūmigṛhaṃ",
+      "words": [
+       {
+        "w": "bhajet",
+        "gloss": "should resort to",
+        "gram": "3 sg. opt. √bhaj"
+       },
+       {
+        "w": "bhūmi-gṛham",
+        "gloss": "underground house",
+        "gram": "n. acc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "coṣṇamuṣṇaṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "uṣṇam",
+        "gloss": "warm",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "uṣṇam",
+        "gloss": "warm",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "garbhagṛhaṃ",
+      "words": [
+       {
+        "w": "garbha-gṛham",
+        "gloss": "inner chamber",
+        "gram": "n. acc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अभ्यंग, उत्सादन, सिर पर तैल, जेन्ताक, धूप, तथा उष्ण भूमिगृह और उसी प्रकार उष्ण गर्भगृह का सेवन करे।",
+  "english": "One should resort to oil massage (abhyaṅga), rubbing with unguents (utsādana), oil on the head, the jentāka (sweat-chamber), sunshine, and a warm underground house, and likewise a warm inner chamber.",
+  "text_flags": [],
+  "notes": "jentāka: a kind of sweating chamber, described in the chapter on sweating (svedādhyāya).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.14a",
+   "01.06.14b"
+  ],
+  "lines_deva": [
+   "अभ्यङ्गोत्सादनं मूर्ध्नि तैलं जेन्ताकमातपम्",
+   "भजेद्भूमिगृहं चोष्णमुष्णं गर्भगृहं तथा"
+  ],
+  "lines_iast": [
+   "abhyaṅgotsādanaṃ mūrdhni tailaṃ jentākamātapam",
+   "bhajedbhūmigṛhaṃ coṣṇamuṣṇaṃ garbhagṛhaṃ tathā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śīteṣu",
+      "words": [
+       {
+        "w": "śīteṣu",
+        "gloss": "in the cold seasons",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "saṃvṛtaṃ",
+      "words": [
+       {
+        "w": "saṃvṛtam",
+        "gloss": "covered",
+        "gram": "n. nom. sg. ppp. sam-√vṛ"
+       }
+      ]
+     },
+     {
+      "src": "sevyaṃ",
+      "words": [
+       {
+        "w": "sevyam",
+        "gloss": "to be used",
+        "gram": "n. nom. sg. gerundive (kṛtya) √sev"
+       }
+      ]
+     },
+     {
+      "src": "yānaṃ",
+      "words": [
+       {
+        "w": "yānam",
+        "gloss": "vehicle",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śayanamāsanam",
+      "words": [
+       {
+        "w": "śayanam",
+        "gloss": "bed",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "āsanam",
+        "gloss": "seat",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "prāvārājinakauṣeyapraveṇīkuthakāstṛtam",
+      "words": [
+       {
+        "w": "prāvāra-ajina-kauṣeya-praveṇī-kuthaka-āstṛtam",
+        "gloss": "spread with cloaks, hides, silk, praveṇī and kuthaka",
+        "gram": "n. nom. sg. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शीत ऋतुओं में ढका हुआ यान, शयन और आसन सेवनीय है, जो प्रावार, अजिन, कौशेय, प्रवेणी और कुथक से बिछा हो।",
+  "english": "In the cold seasons, a covered vehicle, bed and seat should be used, spread with cloaks (prāvāra), hides (ajina), silk (kauṣeya), praveṇī and kuthaka.",
+  "text_flags": [],
+  "notes": "praveṇī and kuthaka are kinds of woven (woollen) coverings; their exact nature is not certain. ajina: hide, usually deerskin.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.15a",
+   "01.06.15b"
+  ],
+  "lines_deva": [
+   "शीतेषु संवृतं सेव्यं यानं शयनमासनम्",
+   "प्रावाराजिनकौषेयप्रवेणीकुथकास्तृतम्"
+  ],
+  "lines_iast": [
+   "śīteṣu saṃvṛtaṃ sevyaṃ yānaṃ śayanamāsanam",
+   "prāvārājinakauṣeyapraveṇīkuthakāstṛtam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gurūṣṇavāsā",
+      "words": [
+       {
+        "w": "guru-uṣṇa-vāsāḥ",
+        "gloss": "wearing heavy, warm clothes",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "digdhāṅgo",
+      "words": [
+       {
+        "w": "digdha-aṅgaḥ",
+        "gloss": "with smeared limbs",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "guruṇāguruṇā",
+      "words": [
+       {
+        "w": "guruṇā",
+        "gloss": "heavy",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "aguruṇā",
+        "gloss": "with aguru",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sadā",
+      "words": [
+       {
+        "w": "sadā",
+        "gloss": "always",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śayane",
+      "words": [
+       {
+        "w": "śayane",
+        "gloss": "in bed",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pramadāṃ",
+      "words": [
+       {
+        "w": "pramadām",
+        "gloss": "a young woman",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pīnāṃ",
+      "words": [
+       {
+        "w": "pīnām",
+        "gloss": "plump",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśālopacitastanīm",
+      "words": [
+       {
+        "w": "viśāla-upacita-stanīm",
+        "gloss": "with broad, full breasts",
+        "gram": "f. acc. sg. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "भारी और उष्ण वस्त्र पहने, सदा भारी अगुरु से लिप्त अंगों वाला, शय्या पर पीन तथा विशाल और भरे हुए स्तनों वाली प्रमदा को",
+  "english": "Wearing heavy, warm clothes, his limbs always smeared with heavy aguru, in bed, a plump young woman with broad, full breasts",
+  "text_flags": [],
+  "notes": "The sentence continues into unit 17 (āliṅgya ... supyāt). aguru: aromatic wood; usually identified as Aquilaria agallocha (standard).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.16a",
+   "01.06.16b"
+  ],
+  "lines_deva": [
+   "गुरूष्णवासा दिग्धाङ्गो गुरुणागुरुणा सदा",
+   "शयने प्रमदां पीनां विशालोपचितस्तनीम्"
+  ],
+  "lines_iast": [
+   "gurūṣṇavāsā digdhāṅgo guruṇāguruṇā sadā",
+   "śayane pramadāṃ pīnāṃ viśālopacitastanīm"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āliṅgyāgurudigdhāṅgīṃ",
+      "words": [
+       {
+        "w": "āliṅgya",
+        "gloss": "embracing",
+        "gram": "abs. ā-√liṅg"
+       },
+       {
+        "w": "aguru-digdha-aṅgīm",
+        "gloss": "whose limbs are smeared with aguru",
+        "gram": "f. acc. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "supyāt",
+      "words": [
+       {
+        "w": "supyāt",
+        "gloss": "should sleep",
+        "gram": "3 sg. benedictive (used as optative) √svap"
+       }
+      ]
+     },
+     {
+      "src": "samadamanmathaḥ",
+      "words": [
+       {
+        "w": "sa-mada-manmathaḥ",
+        "gloss": "full of intoxication and passion",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "prakāmaṃ",
+      "words": [
+       {
+        "w": "prakāmam",
+        "gloss": "freely, as desired",
+        "gram": "ind. (adv. acc.)"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "niṣeveta",
+      "words": [
+       {
+        "w": "niṣeveta",
+        "gloss": "should engage in",
+        "gram": "3 sg. opt. ni-√sev"
+       }
+      ]
+     },
+     {
+      "src": "maithunaṃ",
+      "words": [
+       {
+        "w": "maithunam",
+        "gloss": "sexual intercourse",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śiśirāgame",
+      "words": [
+       {
+        "w": "śiśira-āgame",
+        "gloss": "at the coming of the cold",
+        "gram": "m. loc. sg. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आलिंगन करके, अगुरु से लिप्त अंगों वाली उसे, मद और काम से युक्त होकर सोए; और शिशिर के आगमन पर इच्छानुसार मैथुन का सेवन करे।",
+  "english": "...embracing her, whose limbs are smeared with aguru, he should sleep, full of intoxication and passion; and at the coming of the cold (śiśira) he should engage freely in sexual intercourse.",
+  "text_flags": [],
+  "notes": "Continues unit 16. śiśirāgame may mean \"at the coming of the cold\" (i.e. in Hemanta, the subject of these verses) or \"at the coming of the Śiśira season\"; both are possible. manmatha: passion, desire (also a name of the god of love; not taken as a name here).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.06.17a",
+   "01.06.17b"
+  ],
+  "lines_deva": [
+   "आलिङ्ग्यागुरुदिग्धाङ्गीं सुप्यात् समदमन्मथः",
+   "प्रकामं च निषेवेत मैथुनं शिशिरागमे"
+  ],
+  "lines_iast": [
+   "āliṅgyāgurudigdhāṅgīṃ supyāt samadamanmathaḥ",
+   "prakāmaṃ ca niṣeveta maithunaṃ śiśirāgame"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "varjayedannapānāni",
+      "words": [
+       {
+        "w": "varjayet",
+        "gloss": "should avoid",
+        "gram": "3 sg. opt. caus. √vṛj"
+       },
+       {
+        "w": "anna-pānāni",
+        "gloss": "foods and drinks",
+        "gram": "n. acc. pl. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "vātalāni",
+      "words": [
+       {
+        "w": "vātalāni",
+        "gloss": "Vāta-increasing",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "laghūni",
+      "words": [
+       {
+        "w": "laghūni",
+        "gloss": "light",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pravātaṃ",
+      "words": [
+       {
+        "w": "pravātam",
+        "gloss": "strong wind",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pramitāhāramudamanthaṃ",
+      "words": [
+       {
+        "w": "pramita-āhāram",
+        "gloss": "scanty diet",
+        "gram": "m. acc. sg. karmadhāraya"
+       },
+       {
+        "w": "udamantham",
+        "gloss": "udamantha (flour stirred in water)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "himāgame",
+      "words": [
+       {
+        "w": "hima-āgame",
+        "gloss": "at the coming of the cold",
+        "gram": "m. loc. sg. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हिम के आगमन पर वातल और लघु अन्न-पान, प्रवात, प्रमित आहार और उदमन्थ का त्याग करे।",
+  "english": "At the coming of the cold (hima) one should avoid foods and drinks that are Vāta-increasing and light, strong wind, a scanty diet, and udamantha.",
+  "text_flags": [],
+  "notes": "udamantha: roasted flour (of barley) stirred in water. pramita: measured, i.e. small in quantity.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.18a",
+   "01.06.18b"
+  ],
+  "lines_deva": [
+   "वर्जयेदन्नपानानि वातलानि लघूनि च",
+   "प्रवातं प्रमिताहारमुदमन्थं हिमागमे"
+  ],
+  "lines_iast": [
+   "varjayedannapānāni vātalāni laghūni ca",
+   "pravātaṃ pramitāhāramudamanthaṃ himāgame"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "hemantaśiśirau",
+      "words": [
+       {
+        "w": "hemanta-śiśirau",
+        "gloss": "Hemanta and Śiśira",
+        "gram": "m. nom. du. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "tulyau",
+      "words": [
+       {
+        "w": "tulyau",
+        "gloss": "alike",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "śiśire'lpaṃ",
+      "words": [
+       {
+        "w": "śiśire",
+        "gloss": "in Śiśira",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "alpam",
+        "gloss": "slight",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśeṣaṇam",
+      "words": [
+       {
+        "w": "viśeṣaṇam",
+        "gloss": "difference",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "raukṣyamādānajaṃ",
+      "words": [
+       {
+        "w": "raukṣyam",
+        "gloss": "dryness",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ādāna-jam",
+        "gloss": "born of ādāna",
+        "gram": "n. nom. sg. upapada"
+       }
+      ]
+     },
+     {
+      "src": "śītaṃ",
+      "words": [
+       {
+        "w": "śītam",
+        "gloss": "cold",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "meghamārutavarṣajam",
+      "words": [
+       {
+        "w": "megha-māruta-varṣa-jam",
+        "gloss": "born of clouds, wind and rain",
+        "gram": "n. nom. sg. upapada"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हेमन्त और शिशिर समान हैं; शिशिर में थोड़ी विशेषता है: आदान से उत्पन्न रूक्षता, और मेघ, वायु तथा वर्षा से उत्पन्न शीत।",
+  "english": "Hemanta and Śiśira are alike; in Śiśira there is a slight difference: dryness born of ādāna, and cold born of clouds, wind and rain.",
+  "text_flags": [],
+  "notes": "māruta here is the physical wind, not the doṣa.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.19a",
+   "01.06.19b"
+  ],
+  "lines_deva": [
+   "हेमन्तशिशिरौ तुल्यौ शिशिरेऽल्पं विशेषणम्",
+   "रौक्ष्यमादानजं शीतं मेघमारुतवर्षजम्"
+  ],
+  "lines_iast": [
+   "hemantaśiśirau tulyau śiśire'lpaṃ viśeṣaṇam",
+   "raukṣyamādānajaṃ śītaṃ meghamārutavarṣajam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmāddhaimantikaḥ",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind. (abl. pron.)"
+       },
+       {
+        "w": "haimantikaḥ",
+        "gloss": "of Hemanta",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvaḥ",
+      "words": [
+       {
+        "w": "sarvaḥ",
+        "gloss": "whole",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śiśire",
+      "words": [
+       {
+        "w": "śiśire",
+        "gloss": "in Śiśira",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidhiriṣyate",
+      "words": [
+       {
+        "w": "vidhiḥ",
+        "gloss": "regimen",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "iṣyate",
+        "gloss": "is held, prescribed",
+        "gram": "3 sg. pres. pass. √iṣ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "nivātamuṣṇaṃ",
+      "words": [
+       {
+        "w": "nivātam",
+        "gloss": "windless",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "uṣṇam",
+        "gloss": "warm",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvadhikaṃ",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "adhikam",
+        "gloss": "more",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śiśire",
+      "words": [
+       {
+        "w": "śiśire",
+        "gloss": "in Śiśira",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gṛhamāśrayet",
+      "words": [
+       {
+        "w": "gṛham",
+        "gloss": "house",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "āśrayet",
+        "gloss": "should resort to",
+        "gram": "3 sg. opt. ā-√śri"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए शिशिर में सम्पूर्ण हैमन्तिक विधि मानी जाती है; किन्तु शिशिर में निर्वात और अधिक उष्ण घर का आश्रय ले।",
+  "english": "Therefore the whole regimen of Hemanta is prescribed in Śiśira; but in Śiśira one should resort to a house that is windless and warmer.",
+  "text_flags": [],
+  "notes": "adhikam may qualify uṣṇam (\"more warm\") or both adjectives (\"more windless and warm\"); the first is followed.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.20a",
+   "01.06.20b"
+  ],
+  "lines_deva": [
+   "तस्माद्धैमन्तिकः सर्वः शिशिरे विधिरिष्यते",
+   "निवातमुष्णं त्वधिकं शिशिरे गृहमाश्रयेत्"
+  ],
+  "lines_iast": [
+   "tasmāddhaimantikaḥ sarvaḥ śiśire vidhiriṣyate",
+   "nivātamuṣṇaṃ tvadhikaṃ śiśire gṛhamāśrayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kaṭutiktakaṣāyāṇi",
+      "words": [
+       {
+        "w": "kaṭu-tikta-kaṣāyāṇi",
+        "gloss": "pungent, bitter and astringent",
+        "gram": "n. acc. pl. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "vātalāni",
+      "words": [
+       {
+        "w": "vātalāni",
+        "gloss": "Vāta-increasing",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "laghūni",
+      "words": [
+       {
+        "w": "laghūni",
+        "gloss": "light",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "varajayedannapānāni",
+      "words": [
+       {
+        "w": "varjayet",
+        "gloss": "should avoid",
+        "gram": "3 sg. opt. caus. √vṛj"
+       },
+       {
+        "w": "anna-pānāni",
+        "gloss": "foods and drinks",
+        "gram": "n. acc. pl. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "śiśire",
+      "words": [
+       {
+        "w": "śiśire",
+        "gloss": "in Śiśira",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śītalāni",
+      "words": [
+       {
+        "w": "śītalāni",
+        "gloss": "cold",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शिशिर में कटु, तिक्त और कषाय, वातल, लघु और शीतल अन्न-पान का त्याग करे।",
+  "english": "In Śiśira one should avoid foods and drinks that are pungent, bitter and astringent, Vāta-increasing, light and cold.",
+  "text_flags": [
+   {
+    "src": "varajayedannapānāni",
+    "suggest": "varjayedannapānāni",
+    "why": "typing slip: 'varajayed' (वरजयेद्) has an extra a; the verb is varjayet (as in unit 18), and the extra syllable breaks the 8-syllable quarter."
+   }
+  ],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.21a",
+   "01.06.21b"
+  ],
+  "lines_deva": [
+   "कटुतिक्तकषायाणि वातलानि लघूनि च",
+   "वरजयेदन्नपानानि शिशिरे शीतलानि च"
+  ],
+  "lines_iast": [
+   "kaṭutiktakaṣāyāṇi vātalāni laghūni ca",
+   "varajayedannapānāni śiśire śītalāni ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vasante",
+      "words": [
+       {
+        "w": "vasante",
+        "gloss": "in Vasanta",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nicitaḥ",
+      "words": [
+       {
+        "w": "nicitaḥ",
+        "gloss": "accumulated",
+        "gram": "m. nom. sg. ppp. ni-√ci"
+       }
+      ]
+     },
+     {
+      "src": "śleṣmā",
+      "words": [
+       {
+        "w": "śleṣmā",
+        "gloss": "Kapha (śleṣman)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dinakṛdbhābhirīritaḥ",
+      "words": [
+       {
+        "w": "dina-kṛt-bhābhiḥ",
+        "gloss": "by the rays of the day-maker",
+        "gram": "f. inst. pl. tat-puruṣa"
+       },
+       {
+        "w": "īritaḥ",
+        "gloss": "stirred",
+        "gram": "m. nom. sg. ppp. √īr"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kāyāgniṃ",
+      "words": [
+       {
+        "w": "kāya-agnim",
+        "gloss": "the body-fire",
+        "gram": "m. acc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bādhate",
+      "words": [
+       {
+        "w": "bādhate",
+        "gloss": "impairs",
+        "gram": "3 sg. pres. √bādh"
+       }
+      ]
+     },
+     {
+      "src": "rogāṃstataḥ",
+      "words": [
+       {
+        "w": "rogān",
+        "gloss": "diseases",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prakurute",
+      "words": [
+       {
+        "w": "prakurute",
+        "gloss": "produces",
+        "gram": "3 sg. pres. pra-√kṛ"
+       }
+      ]
+     },
+     {
+      "src": "bahūn",
+      "words": [
+       {
+        "w": "bahūn",
+        "gloss": "many",
+        "gram": "m. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वसन्त में संचित श्लेष्मा दिनकृत् की किरणों से प्रेरित होकर कायाग्नि को बाधित करता है और तब अनेक रोग उत्पन्न करता है।",
+  "english": "In Vasanta, the accumulated Kapha (śleṣman), stirred by the rays of the day-maker, impairs the digestive fire of the body (kāyāgni) and then produces many diseases.",
+  "text_flags": [],
+  "notes": "dinakṛt \"day-maker\" is an epithet of the sun. The text does not say where Kapha accumulated.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.22a",
+   "01.06.22b"
+  ],
+  "lines_deva": [
+   "वसन्ते निचितः श्लेष्मा दिनकृद्भाभिरीरितः",
+   "कायाग्निं बाधते रोगांस्ततः प्रकुरुते बहून्"
+  ],
+  "lines_iast": [
+   "vasante nicitaḥ śleṣmā dinakṛdbhābhirīritaḥ",
+   "kāyāgniṃ bādhate rogāṃstataḥ prakurute bahūn"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmādvasante",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind. (abl. pron.)"
+       },
+       {
+        "w": "vasante",
+        "gloss": "in Vasanta",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "karmāṇi",
+      "words": [
+       {
+        "w": "karmāṇi",
+        "gloss": "procedures",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vamanādīni",
+      "words": [
+       {
+        "w": "vamana-ādīni",
+        "gloss": "beginning with emesis",
+        "gram": "n. acc. pl. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "kāreyet",
+      "words": [
+       {
+        "w": "kārayet",
+        "gloss": "should have performed",
+        "gram": "3 sg. opt. caus. √kṛ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "gurvamlasnigdhamadhuraṃ",
+      "words": [
+       {
+        "w": "guru-amla-snigdha-madhuram",
+        "gloss": "what is heavy, sour, unctuous and sweet",
+        "gram": "n. acc. sg. dvandva (samāhāra)"
+       }
+      ]
+     },
+     {
+      "src": "divāsvapnaṃ",
+      "words": [
+       {
+        "w": "divā-svapnam",
+        "gloss": "day-sleep",
+        "gram": "m. acc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "varjayet",
+      "words": [
+       {
+        "w": "varjayet",
+        "gloss": "should avoid",
+        "gram": "3 sg. opt. caus. √vṛj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए वसन्त में वमन आदि कर्म कराए, और गुरु, अम्ल, स्निग्ध और मधुर का तथा दिवास्वप्न का त्याग करे।",
+  "english": "Therefore in Vasanta one should have the procedures beginning with emesis (vamana) performed, and avoid what is heavy, sour, unctuous and sweet, and day-sleep.",
+  "text_flags": [
+   {
+    "src": "kāreyet",
+    "suggest": "kārayet",
+    "why": "typing slip: 'kāreyet' (कारेयेत्) is not a form; the causative optative is kārayet. Syllable count is unaffected."
+   }
+  ],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.23a",
+   "01.06.23b"
+  ],
+  "lines_deva": [
+   "तस्माद्वसन्ते कर्माणि वमनादीनि कारेयेत्",
+   "गुर्वम्लस्निग्धमधुरं दिवास्वप्नं च वर्जयेत्"
+  ],
+  "lines_iast": [
+   "tasmādvasante karmāṇi vamanādīni kāreyet",
+   "gurvamlasnigdhamadhuraṃ divāsvapnaṃ ca varjayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vyāyāmodvartanaṃ",
+      "words": [
+       {
+        "w": "vyāyāma-udvartanam",
+        "gloss": "exercise and rubbing (udvartana)",
+        "gram": "n. acc. sg. dvandva (samāhāra)"
+       }
+      ]
+     },
+     {
+      "src": "dhūmaṃ",
+      "words": [
+       {
+        "w": "dhūmam",
+        "gloss": "medicated smoking (dhūma)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kavalagrahamañjanam",
+      "words": [
+       {
+        "w": "kavala-graham",
+        "gloss": "holding a mouthful moved in the mouth (kavalagraha)",
+        "gram": "m. acc. sg. tat-puruṣa"
+       },
+       {
+        "w": "añjanam",
+        "gloss": "collyrium (añjana)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sukhāmbunā",
+      "words": [
+       {
+        "w": "sukha-ambunā",
+        "gloss": "with pleasant water",
+        "gram": "n. inst. sg. karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "śaucāvidhiṃ",
+      "words": [
+       {
+        "w": "śauca-vidhim",
+        "gloss": "the practice of cleansing",
+        "gram": "m. acc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "śīlayet",
+      "words": [
+       {
+        "w": "śīlayet",
+        "gloss": "should practise",
+        "gram": "3 sg. opt. √śīl"
+       }
+      ]
+     },
+     {
+      "src": "kusumāgame",
+      "words": [
+       {
+        "w": "kusuma-āgame",
+        "gloss": "at the coming of flowers",
+        "gram": "m. loc. sg. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कुसुमों के आगमन पर व्यायाम, उद्वर्तन, धूम, कवलग्रह, अञ्जन, और सुखद जल से शौच-विधि का अभ्यास करे।",
+  "english": "At the coming of flowers one should practise exercise, rubbing (udvartana), medicated smoking (dhūma), holding a mouthful moved in the mouth (kavalagraha), collyrium (añjana), and the practice of cleansing with pleasant water.",
+  "text_flags": [
+   {
+    "src": "śaucāvidhiṃ",
+    "suggest": "śaucavidhiṃ",
+    "why": "possible typing slip: the compound śauca-vidhi has short a (शौचविधिं); the long ā (शौचा-) gives no sense. Syllable count is unaffected."
+   }
+  ],
+  "notes": "kusumāgama, \"the coming of flowers\", stands for Vasanta. sukhāmbu: water pleasant to the touch, usually taken as lukewarm.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.24a",
+   "01.06.24b"
+  ],
+  "lines_deva": [
+   "व्यायामोद्वर्तनं धूमं कवलग्रहमञ्जनम्",
+   "सुखाम्बुना शौचाविधिं शीलयेत् कुसुमागमे"
+  ],
+  "lines_iast": [
+   "vyāyāmodvartanaṃ dhūmaṃ kavalagrahamañjanam",
+   "sukhāmbunā śaucāvidhiṃ śīlayet kusumāgame"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "candanāgurudigdhāṅgo",
+      "words": [
+       {
+        "w": "candana-aguru-digdha-aṅgaḥ",
+        "gloss": "with limbs smeared with sandal and aguru",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "yavagodhūmabhojanaḥ",
+      "words": [
+       {
+        "w": "yava-godhūma-bhojanaḥ",
+        "gloss": "eating barley and wheat",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śārabhaṃ",
+      "words": [
+       {
+        "w": "śārabham",
+        "gloss": "of the śarabha",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śāśamaiṇeyaṃ",
+      "words": [
+       {
+        "w": "śāśam",
+        "gloss": "of the hare",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "aiṇeyam",
+        "gloss": "of the eṇa deer",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "māṃsaṃ",
+      "words": [
+       {
+        "w": "māṃsam",
+        "gloss": "meat",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "lāvakapiñjalam",
+      "words": [
+       {
+        "w": "lāva-kapiñjalam",
+        "gloss": "of lāva and kapiñjala birds",
+        "gram": "n. acc. sg. dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चन्दन और अगुरु से लिप्त अंगों वाला, यव और गोधूम का भोजन करने वाला, शरभ, शश, एण, लाव और कपिञ्जल का मांस",
+  "english": "With limbs smeared with sandal and aguru, eating barley and wheat, ... the meat of the śarabha, the hare, the eṇa deer, and of lāva and kapiñjala birds",
+  "text_flags": [],
+  "notes": "The sentence continues into unit 26 (bhakṣayet). Usual identifications (not words of the text): eṇa = black buck (probable), lāva = common quail (standard), kapiñjala = grey partridge (probable); śarabha is disputed (a large deer, or a fabulous animal). candana = sandalwood, Santalum album (standard); aguru = Aquilaria agallocha (standard).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.25a",
+   "01.06.25b"
+  ],
+  "lines_deva": [
+   "चन्दनागुरुदिग्धाङ्गो यवगोधूमभोजनः",
+   "शारभं शाशमैणेयं मांसं लावकपिञ्जलम्"
+  ],
+  "lines_iast": [
+   "candanāgurudigdhāṅgo yavagodhūmabhojanaḥ",
+   "śārabhaṃ śāśamaiṇeyaṃ māṃsaṃ lāvakapiñjalam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhakṣayennirgadaṃ",
+      "words": [
+       {
+        "w": "bhakṣayet",
+        "gloss": "should eat",
+        "gram": "3 sg. opt. √bhakṣ"
+       },
+       {
+        "w": "nirgadam",
+        "gloss": "harmless",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sīdhuṃ",
+      "words": [
+       {
+        "w": "sīdhum",
+        "gloss": "sīdhu (a liquor)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pibenmādhvīkameva",
+      "words": [
+       {
+        "w": "pibet",
+        "gloss": "should drink",
+        "gram": "3 sg. opt. √pā"
+       },
+       {
+        "w": "mādhvīkam",
+        "gloss": "mādhvīka (a grape or honey wine)",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "just, indeed (emphatic)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vasante'nubhavet",
+      "words": [
+       {
+        "w": "vasante",
+        "gloss": "in Vasanta",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "anubhavet",
+        "gloss": "should enjoy",
+        "gram": "3 sg. opt. anu-√bhū"
+       }
+      ]
+     },
+     {
+      "src": "strīṇāṃ",
+      "words": [
+       {
+        "w": "strīṇām",
+        "gloss": "of women",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "kānanānāṃ",
+      "words": [
+       {
+        "w": "kānanānām",
+        "gloss": "of forests",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yauvanam",
+      "words": [
+       {
+        "w": "yauvanam",
+        "gloss": "youth",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "...खाए; हानिरहित सीधु या माध्वीक पिए; वसन्त में स्त्रियों और काननों के यौवन का अनुभव करे।",
+  "english": "...he should eat; he should drink harmless sīdhu, or just mādhvīka; in Vasanta he should enjoy the youth of women and of forests.",
+  "text_flags": [],
+  "notes": "Continues unit 25. nirgada \"free of disease, harmless\" is read with sīdhum. sīdhu is spelled śīdhu in unit 12. mādhvīka: a kind of wine; its base is not stated in the text.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.06.26a",
+   "01.06.26b"
+  ],
+  "lines_deva": [
+   "भक्षयेन्निर्गदं सीधुं पिबेन्माध्वीकमेव वा",
+   "वसन्तेऽनुभवेत् स्त्रीणां काननानां च यौवनम्"
+  ],
+  "lines_iast": [
+   "bhakṣayennirgadaṃ sīdhuṃ pibenmādhvīkameva vā",
+   "vasante'nubhavet strīṇāṃ kānanānāṃ ca yauvanam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mayūkhairjagataḥ",
+      "words": [
+       {
+        "w": "mayūkhaiḥ",
+        "gloss": "with its rays",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "jagataḥ",
+        "gloss": "of the world",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "snehaṃ",
+      "words": [
+       {
+        "w": "sneham",
+        "gloss": "moisture, unctuousness",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "grīṣme",
+      "words": [
+       {
+        "w": "grīṣme",
+        "gloss": "in Grīṣma",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pepīyate",
+      "words": [
+       {
+        "w": "pepīyate",
+        "gloss": "drinks up again and again",
+        "gram": "3 sg. pres. intens. √pā"
+       }
+      ]
+     },
+     {
+      "src": "raviḥ",
+      "words": [
+       {
+        "w": "raviḥ",
+        "gloss": "the sun",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "svādu",
+      "words": [
+       {
+        "w": "svādu",
+        "gloss": "sweet",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śītaṃ",
+      "words": [
+       {
+        "w": "śītam",
+        "gloss": "cold",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dravaṃ",
+      "words": [
+       {
+        "w": "dravam",
+        "gloss": "liquid",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "snigdhamannapānaṃ",
+      "words": [
+       {
+        "w": "snigdham",
+        "gloss": "unctuous",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "anna-pānam",
+        "gloss": "food and drink",
+        "gram": "n. nom. sg. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "tadā",
+      "words": [
+       {
+        "w": "tadā",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hitam",
+      "words": [
+       {
+        "w": "hitam",
+        "gloss": "wholesome",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ग्रीष्म में रवि अपनी किरणों से जगत् के स्नेह को बार-बार पीता है; तब मधुर, शीतल, द्रव और स्निग्ध अन्न-पान हितकर है।",
+  "english": "In Grīṣma the sun drinks up again and again with its rays the moisture of the world; then food and drink that is sweet, cold, liquid and unctuous is wholesome.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.27a",
+   "01.06.27b"
+  ],
+  "lines_deva": [
+   "मयूखैर्जगतः स्नेहं ग्रीष्मे पेपीयते रविः",
+   "स्वादु शीतं द्रवं स्निग्धमन्नपानं तदा हितम्"
+  ],
+  "lines_iast": [
+   "mayūkhairjagataḥ snehaṃ grīṣme pepīyate raviḥ",
+   "svādu śītaṃ dravaṃ snigdhamannapānaṃ tadā hitam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śītaṃ",
+      "words": [
+       {
+        "w": "śītam",
+        "gloss": "cold",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saśarkaraṃ",
+      "words": [
+       {
+        "w": "sa-śarkaram",
+        "gloss": "with sugar",
+        "gram": "m. acc. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "manthaṃ",
+      "words": [
+       {
+        "w": "mantham",
+        "gloss": "mantha (flour stirred in liquid)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jāṅgalānmṛgapakṣiṇaḥ",
+      "words": [
+       {
+        "w": "jāṅgalān",
+        "gloss": "of dry land (jāṅgala)",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "mṛga-pakṣiṇaḥ",
+        "gloss": "animals and birds",
+        "gram": "m. acc. pl. dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ghṛtaṃ",
+      "words": [
+       {
+        "w": "ghṛtam",
+        "gloss": "ghee",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "payaḥ",
+      "words": [
+       {
+        "w": "payaḥ",
+        "gloss": "milk",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saśālyannaṃ",
+      "words": [
+       {
+        "w": "sa-śāli-annam",
+        "gloss": "with śāli rice",
+        "gram": "n. acc. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "bhajan",
+      "words": [
+       {
+        "w": "bhajan",
+        "gloss": "taking",
+        "gram": "m. nom. sg. pres. part. √bhaj"
+       }
+      ]
+     },
+     {
+      "src": "grīṣme",
+      "words": [
+       {
+        "w": "grīṣme",
+        "gloss": "in Grīṣma",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sīdati",
+      "words": [
+       {
+        "w": "sīdati",
+        "gloss": "suffers, sinks",
+        "gram": "3 sg. pres. √sad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शर्करा सहित शीतल मन्थ, जांगल मृग और पक्षी, घृत, और शालि-अन्न सहित दूध का सेवन करता हुआ ग्रीष्म में कष्ट नहीं पाता।",
+  "english": "Taking cold mantha with sugar, animals and birds of dry land (jāṅgala), ghee, and milk with śāli rice, one does not suffer in Grīṣma.",
+  "text_flags": [],
+  "notes": "mantha: roasted flour stirred in a liquid. saśālyannam may qualify payaḥ only (\"milk with śāli rice\") or stand as a separate item; read with payaḥ here. śāli: a class of rice.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.28a",
+   "01.06.28b"
+  ],
+  "lines_deva": [
+   "शीतं सशर्करं मन्थं जाङ्गलान्मृगपक्षिणः",
+   "घृतं पयः सशाल्यन्नं भजन् ग्रीष्मे न सीदति"
+  ],
+  "lines_iast": [
+   "śītaṃ saśarkaraṃ manthaṃ jāṅgalānmṛgapakṣiṇaḥ",
+   "ghṛtaṃ payaḥ saśālyannaṃ bhajan grīṣme na sīdati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "madyamalpaṃ",
+      "words": [
+       {
+        "w": "madyam",
+        "gloss": "wine, liquor",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "alpam",
+        "gloss": "a little",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "peyamathavā",
+      "words": [
+       {
+        "w": "peyam",
+        "gloss": "is to be drunk",
+        "gram": "n. nom. sg. gerundive (kṛtya) √pā"
+       },
+       {
+        "w": "athavā",
+        "gloss": "or else",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "subahūdakam",
+      "words": [
+       {
+        "w": "su-bahu-udakam",
+        "gloss": "with very much water",
+        "gram": "n. nom. sg. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "lavaṇāmlakatūṣṇāni",
+      "words": [
+       {
+        "w": "lavaṇa-amla-kaṭu-uṣṇāni",
+        "gloss": "salty, sour, pungent and hot things",
+        "gram": "n. acc. pl. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "vyāyāmaṃ",
+      "words": [
+       {
+        "w": "vyāyāmam",
+        "gloss": "exercise",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vivarjayet",
+      "words": [
+       {
+        "w": "vivarjayet",
+        "gloss": "should avoid",
+        "gram": "3 sg. opt. caus. vi-√vṛj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मद्य थोड़ा पीना चाहिए, या नहीं पीना चाहिए, अथवा बहुत अधिक जल वाला पीना चाहिए; लवण, अम्ल, कटु और उष्ण पदार्थों तथा व्यायाम का त्याग करे।",
+  "english": "Liquor should be drunk a little, or not at all, or else with very much water; one should avoid salty, sour, pungent and hot things, and exercise.",
+  "text_flags": [
+   {
+    "src": "lavaṇāmlakatūṣṇāni",
+    "suggest": "lavaṇāmlakaṭūṣṇāni",
+    "why": "typing slip: kaṭu 'pungent' has retroflex ṭ (कटू); the printed कतू gives no word. Metre is unaffected."
+   }
+  ],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.29a",
+   "01.06.29b"
+  ],
+  "lines_deva": [
+   "मद्यमल्पं न वा पेयमथवा सुबहूदकम्",
+   "लवणाम्लकतूष्णानि व्यायामं च विवर्जयेत्"
+  ],
+  "lines_iast": [
+   "madyamalpaṃ na vā peyamathavā subahūdakam",
+   "lavaṇāmlakatūṣṇāni vyāyāmaṃ ca vivarjayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "divā",
+      "words": [
+       {
+        "w": "divā",
+        "gloss": "by day",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śītagṛhe",
+      "words": [
+       {
+        "w": "śīta-gṛhe",
+        "gloss": "in a cool house",
+        "gram": "n. loc. sg. karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "nidrāṃ",
+      "words": [
+       {
+        "w": "nidrām",
+        "gloss": "sleep",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "niśi",
+      "words": [
+       {
+        "w": "niśi",
+        "gloss": "at night",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "candrāṃśuśītalaiḥ",
+      "words": [
+       {
+        "w": "candra-aṃśu-śītalaiḥ",
+        "gloss": "by things cool with moon-rays",
+        "gram": "m./n. inst. pl. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sevyamāno",
+      "words": [
+       {
+        "w": "sevyamānaḥ",
+        "gloss": "being attended",
+        "gram": "m. nom. sg. pres. pass. part. √sev"
+       }
+      ]
+     },
+     {
+      "src": "bhajedāsyāṃ",
+      "words": [
+       {
+        "w": "bhajet",
+        "gloss": "should resort to",
+        "gram": "3 sg. opt. √bhaj"
+       },
+       {
+        "w": "āsyām",
+        "gloss": "sitting, rest (āsyā)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "muktāmaṇivibhūṣitaḥ",
+      "words": [
+       {
+        "w": "muktā-maṇi-vibhūṣitaḥ",
+        "gloss": "adorned with pearls and gems",
+        "gram": "m. nom. sg. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दिन में शीतल घर में निद्रा, और रात्रि में चन्द्र-किरणों से शीतल पदार्थों द्वारा सेवित होता हुआ, मोतियों और मणियों से विभूषित होकर आस्या का सेवन करे।",
+  "english": "By day one should take sleep in a cool house; at night, attended by things cool with the moon's rays, adorned with pearls and gems, one should resort to sitting at rest (āsyā).",
+  "text_flags": [
+   {
+    "src": "sevyamāno bhajedāsyāṃ muktāmaṇivibhūṣitaḥ",
+    "suggest": "(no reading suggested: line b repeats line b of unit 31 word for word)",
+    "why": "line b is word for word the same as line b of unit 31 and is probably repeated from it by error; with it, line a's śītalaiḥ has no noun. No other witness is in the input, so no replacement is offered."
+   }
+  ],
+  "notes": "Translated as printed. \"things\" is supplied for the substantive adjective śītalaiḥ, which has no noun in the line. āsyā: sitting, a seat. See text_flags: line b is probably a repetition of 31b.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "01.06.30a",
+   "01.06.30b"
+  ],
+  "lines_deva": [
+   "दिवा शीतगृहे निद्रां निशि चन्द्रांशुशीतलैः",
+   "सेव्यमानो भजेदास्यां मुक्तामणिविभूषितः"
+  ],
+  "lines_iast": [
+   "divā śītagṛhe nidrāṃ niśi candrāṃśuśītalaiḥ",
+   "sevyamāno bhajedāsyāṃ muktāmaṇivibhūṣitaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vyajanaiḥ",
+      "words": [
+       {
+        "w": "vyajanaiḥ",
+        "gloss": "with fans",
+        "gram": "n. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "pāṇisaṃsparśaiścandanodakaśītalaiḥ",
+      "words": [
+       {
+        "w": "pāṇi-saṃsparśaiḥ",
+        "gloss": "with touches of hands",
+        "gram": "m. inst. pl. tat-puruṣa"
+       },
+       {
+        "w": "candana-udaka-śītalaiḥ",
+        "gloss": "cool with sandal-water",
+        "gram": "m./n. inst. pl. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sevyamāno",
+      "words": [
+       {
+        "w": "sevyamānaḥ",
+        "gloss": "being attended",
+        "gram": "m. nom. sg. pres. pass. part. √sev"
+       }
+      ]
+     },
+     {
+      "src": "bhajedāsyāṃ",
+      "words": [
+       {
+        "w": "bhajet",
+        "gloss": "should resort to",
+        "gram": "3 sg. opt. √bhaj"
+       },
+       {
+        "w": "āsyām",
+        "gloss": "sitting, rest (āsyā)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "muktāmaṇivibhūṣitaḥ",
+      "words": [
+       {
+        "w": "muktā-maṇi-vibhūṣitaḥ",
+        "gloss": "adorned with pearls and gems",
+        "gram": "m. nom. sg. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चन्दन-जल से शीतल पंखों और हाथों के स्पर्शों से सेवित होता हुआ, मोतियों और मणियों से विभूषित होकर आस्या का सेवन करे।",
+  "english": "Attended with fans and touches of hands, cool with sandal-water, adorned with pearls and gems, one should resort to sitting at rest (āsyā).",
+  "text_flags": [],
+  "notes": "candanodakaśītalaiḥ qualifies both vyajanaiḥ and pāṇisaṃsparśaiḥ. āsyā: sitting, a seat.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.31a",
+   "01.06.31b"
+  ],
+  "lines_deva": [
+   "व्यजनैः पाणिसंस्पर्शैश्चन्दनोदकशीतलैः",
+   "सेव्यमानो भजेदास्यां मुक्तामणिविभूषितः"
+  ],
+  "lines_iast": [
+   "vyajanaiḥ pāṇisaṃsparśaiścandanodakaśītalaiḥ",
+   "sevyamāno bhajedāsyāṃ muktāmaṇivibhūṣitaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kānanāni",
+      "words": [
+       {
+        "w": "kānanāni",
+        "gloss": "forests",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śītāni",
+      "words": [
+       {
+        "w": "śītāni",
+        "gloss": "cool",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "jalāni",
+      "words": [
+       {
+        "w": "jalāni",
+        "gloss": "waters",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kusumāni",
+      "words": [
+       {
+        "w": "kusumāni",
+        "gloss": "flowers",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "grīṣmakāle",
+      "words": [
+       {
+        "w": "grīṣma-kāle",
+        "gloss": "in the summer season",
+        "gram": "m. loc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "niṣeveta",
+      "words": [
+       {
+        "w": "niṣeveta",
+        "gloss": "should enjoy",
+        "gram": "3 sg. opt. ni-√sev"
+       }
+      ]
+     },
+     {
+      "src": "maithunādvirato",
+      "words": [
+       {
+        "w": "maithunāt",
+        "gloss": "from sexual intercourse",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "virataḥ",
+        "gloss": "abstaining",
+        "gram": "m. nom. sg. ppp. vi-√ram"
+       }
+      ]
+     },
+     {
+      "src": "naraḥ",
+      "words": [
+       {
+        "w": "naraḥ",
+        "gloss": "a man",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ग्रीष्म काल में मैथुन से विरत मनुष्य शीतल कानन, जल और कुसुमों का सेवन करे।",
+  "english": "In the season of Grīṣma a man, abstaining from sexual intercourse, should enjoy cool forests, waters and flowers.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.32a",
+   "01.06.32b"
+  ],
+  "lines_deva": [
+   "काननानि च शीतानि जलानि कुसुमानि च",
+   "ग्रीष्मकाले निषेवेत मैथुनाद्विरतो नरः"
+  ],
+  "lines_iast": [
+   "kānanāni ca śītāni jalāni kusumāni ca",
+   "grīṣmakāle niṣeveta maithunādvirato naraḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ādānadurbale",
+      "words": [
+       {
+        "w": "ādāna-durbale",
+        "gloss": "weakened by ādāna",
+        "gram": "m. loc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "dehe",
+      "words": [
+       {
+        "w": "dehe",
+        "gloss": "when the body",
+        "gram": "m. loc. sg. (loc. abs.)"
+       }
+      ]
+     },
+     {
+      "src": "paktā",
+      "words": [
+       {
+        "w": "paktā",
+        "gloss": "the digester",
+        "gram": "m. nom. sg. agent noun √pac"
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "durbalaḥ",
+      "words": [
+       {
+        "w": "durbalaḥ",
+        "gloss": "weak",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "it",
+        "gram": "m. nom. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "varṣāsvanilādīnāṃ",
+      "words": [
+       {
+        "w": "varṣāsu",
+        "gloss": "in the rains",
+        "gram": "f. loc. pl."
+       },
+       {
+        "w": "anila-ādīnām",
+        "gloss": "of Vāta (anila) and the others",
+        "gram": "m. gen. pl. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "dūṣaṇairbādhyate",
+      "words": [
+       {
+        "w": "dūṣaṇaiḥ",
+        "gloss": "by the vitiations",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "bādhyate",
+        "gloss": "is impaired",
+        "gram": "3 sg. pres. pass. √bādh"
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "further, again",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आदान से दुर्बल देह में पचाने वाला दुर्बल हो जाता है; वह वर्षा में अनिल आदि के दूषणों से फिर बाधित होता है।",
+  "english": "When the body is weakened by ādāna, the digester becomes weak; in the rains it is further impaired by the vitiations of Vāta (anila) and the others.",
+  "text_flags": [],
+  "notes": "paktā as in unit 9. anilādi: the doṣas, Vāta first.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.33a",
+   "01.06.33b"
+  ],
+  "lines_deva": [
+   "आदानदुर्बले देहे पक्ता भवति दुर्बलः",
+   "स वर्षास्वनिलादीनां दूषणैर्बाध्यते पुनः"
+  ],
+  "lines_iast": [
+   "ādānadurbale dehe paktā bhavati durbalaḥ",
+   "sa varṣāsvanilādīnāṃ dūṣaṇairbādhyate punaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhūbāṣpānmeghanisyandāt",
+      "words": [
+       {
+        "w": "bhū-bāṣpāt",
+        "gloss": "from the vapour of the earth",
+        "gram": "m. abl. sg. tat-puruṣa"
+       },
+       {
+        "w": "megha-nisyandāt",
+        "gloss": "from the downpour of the clouds",
+        "gram": "m. abl. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pākādamlājjalasya",
+      "words": [
+       {
+        "w": "pākāt",
+        "gloss": "from the transformation",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "amlāt",
+        "gloss": "sour",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "jalasya",
+        "gloss": "of water",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "varṣāsvagnibale",
+      "words": [
+       {
+        "w": "varṣāsu",
+        "gloss": "in the rains",
+        "gram": "f. loc. pl."
+       },
+       {
+        "w": "agni-bale",
+        "gloss": "when the strength of fire",
+        "gram": "n. loc. sg. tat-puruṣa (loc. abs.)"
+       }
+      ]
+     },
+     {
+      "src": "kṣīṇe",
+      "words": [
+       {
+        "w": "kṣīṇe",
+        "gloss": "is diminished",
+        "gram": "n. loc. sg. ppp. √kṣi"
+       }
+      ]
+     },
+     {
+      "src": "kupyanti",
+      "words": [
+       {
+        "w": "kupyanti",
+        "gloss": "are aggravated",
+        "gram": "3 pl. pres. √kup"
+       }
+      ]
+     },
+     {
+      "src": "pavanādayaḥ",
+      "words": [
+       {
+        "w": "pavana-ādayaḥ",
+        "gloss": "Vāta (pavana) and the others",
+        "gram": "m. nom. pl. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "भूमि की भाप से, मेघों के बरसने से और जल के अम्ल पाक से, वर्षा में अग्नि-बल के क्षीण होने पर पवन आदि कुपित होते हैं।",
+  "english": "From the vapour of the earth, the downpour of the clouds and the sour transformation (pāka) of water, in the rains, when the strength of the digestive fire (agni) is diminished, Vāta (pavana) and the others are aggravated.",
+  "text_flags": [],
+  "notes": "pākād amlāj jalasya: \"from the sour pāka of water\", i.e. water becoming sour in its transformation; amlāt may also be read as a separate cause (\"from sourness\"). pavanādi: the doṣas, Vāta first.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.06.34a",
+   "01.06.34b"
+  ],
+  "lines_deva": [
+   "भूबाष्पान्मेघनिस्यन्दात् पाकादम्लाज्जलस्य च",
+   "वर्षास्वग्निबले क्षीणे कुप्यन्ति पवनादयः"
+  ],
+  "lines_iast": [
+   "bhūbāṣpānmeghanisyandāt pākādamlājjalasya ca",
+   "varṣāsvagnibale kṣīṇe kupyanti pavanādayaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmāt",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind. (abl. pron.)"
+       }
+      ]
+     },
+     {
+      "src": "sādhāraṇaḥ",
+      "words": [
+       {
+        "w": "sādhāraṇaḥ",
+        "gloss": "general, common",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarsvo",
+      "words": [
+       {
+        "w": "sarvaḥ",
+        "gloss": "whole",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidhirvarṣāsu",
+      "words": [
+       {
+        "w": "vidhiḥ",
+        "gloss": "regimen",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "varṣāsu",
+        "gloss": "in the rains",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "śasyate",
+      "words": [
+       {
+        "w": "śasyate",
+        "gloss": "is commended",
+        "gram": "3 sg. pres. pass. √śaṃs"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "udamanthaṃ",
+      "words": [
+       {
+        "w": "udamantham",
+        "gloss": "udamantha",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "divāsvapnamavaśyāyaṃ",
+      "words": [
+       {
+        "w": "divā-svapnam",
+        "gloss": "day-sleep",
+        "gram": "m. acc. sg. tat-puruṣa"
+       },
+       {
+        "w": "avaśyāyam",
+        "gloss": "dew",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nadījalam",
+      "words": [
+       {
+        "w": "nadī-jalam",
+        "gloss": "river water",
+        "gram": "n. acc. sg. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए वर्षा में सम्पूर्ण साधारण विधि प्रशस्त है। उदमन्थ, दिवास्वप्न, अवश्याय, नदी-जल,",
+  "english": "Therefore in the rains the whole general regimen is commended. Udamantha, day-sleep, dew, river water,",
+  "text_flags": [
+   {
+    "src": "sarsvo",
+    "suggest": "sarvo",
+    "why": "typing slip: 'sarsvo' (सर्स्वो) is not a word; sarvaḥ 'whole', as in unit 20 'sarvaḥ ... vidhiḥ'. The extra s does not change the syllable count."
+   }
+  ],
+  "notes": "Line b continues into unit 36 (... varjayet). sādhāraṇa: general, common.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.35a",
+   "01.06.35b"
+  ],
+  "lines_deva": [
+   "तस्मात् साधारणः सर्स्वो विधिर्वर्षासु शस्यते",
+   "उदमन्थं दिवास्वप्नमवश्यायं नदीजलम्"
+  ],
+  "lines_iast": [
+   "tasmāt sādhāraṇaḥ sarsvo vidhirvarṣāsu śasyate",
+   "udamanthaṃ divāsvapnamavaśyāyaṃ nadījalam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "36",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vyāyāmamātapaṃ",
+      "words": [
+       {
+        "w": "vyāyāmam",
+        "gloss": "exercise",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ātapam",
+        "gloss": "sunshine",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "caiva",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vyavāyaṃ",
+      "words": [
+       {
+        "w": "vyavāyam",
+        "gloss": "sexual intercourse",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cātra",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "atra",
+        "gloss": "here, in this season",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "varjayet",
+      "words": [
+       {
+        "w": "varjayet",
+        "gloss": "should avoid",
+        "gram": "3 sg. opt. caus. √vṛj"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pānabhojanasaṃskārān",
+      "words": [
+       {
+        "w": "pāna-bhojana-saṃskārān",
+        "gloss": "drinks, foods and preparations",
+        "gram": "m. acc. pl. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "prāyaḥ",
+      "words": [
+       {
+        "w": "prāyaḥ",
+        "gloss": "mostly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṣaudrānvitān",
+      "words": [
+       {
+        "w": "kṣaudra-anvitān",
+        "gloss": "mixed with honey (kṣaudra)",
+        "gram": "m. acc. pl. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhajet",
+      "words": [
+       {
+        "w": "bhajet",
+        "gloss": "should take",
+        "gram": "3 sg. opt. √bhaj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "...व्यायाम, आतप और व्यवाय का यहाँ त्याग करे; पान, भोजन और संस्कारों को प्रायः क्षौद्र से युक्त करके सेवन करे।",
+  "english": "...exercise, sunshine and sexual intercourse one should avoid here; one should take drinks, foods and preparations mostly mixed with honey (kṣaudra).",
+  "text_flags": [],
+  "notes": "Continues unit 35. pāna-bhojana-saṃskārān may also be read as \"the preparations of drinks and foods\" (tat-puruṣa).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.36a",
+   "01.06.36b"
+  ],
+  "lines_deva": [
+   "व्यायाममातपं चैव व्यवायं चात्र वर्जयेत्",
+   "पानभोजनसंस्कारान् प्रायः क्षौद्रान्वितान् भजेत्"
+  ],
+  "lines_iast": [
+   "vyāyāmamātapaṃ caiva vyavāyaṃ cātra varjayet",
+   "pānabhojanasaṃskārān prāyaḥ kṣaudrānvitān bhajet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "37",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vyaktāmlalavaṇasnehaṃ",
+      "words": [
+       {
+        "w": "vyakta-amla-lavaṇa-sneham",
+        "gloss": "with distinct sour, salt and fat",
+        "gram": "n. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vātārṣākule'hani",
+      "words": [
+       {
+        "w": "vāta-varṣa-ākule",
+        "gloss": "troubled by wind and rain",
+        "gram": "n. loc. sg. tat-puruṣa"
+       },
+       {
+        "w": "ahani",
+        "gloss": "on a day",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "viśeṣaśīte",
+      "words": [
+       {
+        "w": "viśeṣa-śīte",
+        "gloss": "especially cold",
+        "gram": "n. loc. sg. karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "bhoktavyaṃ",
+      "words": [
+       {
+        "w": "bhoktavyam",
+        "gloss": "is to be eaten",
+        "gram": "n. nom. sg. gerundive (kṛtya) √bhuj"
+       }
+      ]
+     },
+     {
+      "src": "varṣāsvanalaśāntaye",
+      "words": [
+       {
+        "w": "varṣāsu",
+        "gloss": "in the rains",
+        "gram": "f. loc. pl."
+       },
+       {
+        "w": "anila-śāntaye",
+        "gloss": "for pacifying Vāta (anila)",
+        "gram": "f. dat. sg. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वर्षा में वात और वर्षा से आकुल, विशेष शीत वाले दिन, अनिल की शान्ति के लिए व्यक्त अम्ल, लवण और स्नेह वाला भोजन करना चाहिए।",
+  "english": "In the rains, on a day troubled by wind and rain and especially cold, food with distinct sour, salt and fat should be eaten, for pacifying Vāta (anila).",
+  "text_flags": [
+   {
+    "src": "vātārṣākule'hani",
+    "suggest": "vātavarṣākule'hani",
+    "why": "typing slip: 'vātārṣā' (वातार्षा) gives no word and leaves the half-line one syllable short (15); vāta-varṣa-ākula 'troubled by wind and rain' restores 16 syllables."
+   },
+   {
+    "src": "varṣāsvanalaśāntaye",
+    "suggest": "varṣāsvanilaśāntaye",
+    "why": "possible typing slip: anala 'fire' gives no sense (the fire is weak in the rains, unit 34, and should be protected, unit 38); anila 'Vāta' fits the sour, salty and unctuous food. Metre is unaffected."
+   }
+  ],
+  "notes": "Translated with both corrections. If anala is kept, the line would read \"for the calming of fire\", which contradicts the context. \"food\" in the translation renders the neuter gerundive bhoktavyam (what is to be eaten). vāta in \"wind and rain\" is the physical wind.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.06.37a",
+   "01.06.37b"
+  ],
+  "lines_deva": [
+   "व्यक्ताम्ललवणस्नेहं वातार्षाकुलेऽहनि",
+   "विशेषशीते भोक्तव्यं वर्षास्वनलशान्तये"
+  ],
+  "lines_iast": [
+   "vyaktāmlalavaṇasnehaṃ vātārṣākule'hani",
+   "viśeṣaśīte bhoktavyaṃ varṣāsvanalaśāntaye"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "38",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "agnisaṃrakṣaṇavatā",
+      "words": [
+       {
+        "w": "agni-saṃrakṣaṇa-vatā",
+        "gloss": "by one intent on protecting the fire",
+        "gram": "m. inst. sg. (-vat)"
+       }
+      ]
+     },
+     {
+      "src": "yavagodhūmaśālayaḥ",
+      "words": [
+       {
+        "w": "yava-godhūma-śālayaḥ",
+        "gloss": "barley, wheat and śāli rice",
+        "gram": "m. nom. pl. dvandva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "purāṇā",
+      "words": [
+       {
+        "w": "purāṇāḥ",
+        "gloss": "old",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "jāṅgalaiarmāṃsairbhojyā",
+      "words": [
+       {
+        "w": "jāṅgalaiḥ",
+        "gloss": "of dry-land animals",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "māṃsaiḥ",
+        "gloss": "with meats",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "bhojyāḥ",
+        "gloss": "are to be eaten",
+        "gram": "m. nom. pl. gerundive (kṛtya) √bhuj"
+       }
+      ]
+     },
+     {
+      "src": "yūṣaiśca",
+      "words": [
+       {
+        "w": "yūṣaiḥ",
+        "gloss": "with soups (yūṣa)",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃskṛtaiḥ",
+      "words": [
+       {
+        "w": "saṃskṛtaiḥ",
+        "gloss": "well prepared",
+        "gram": "m. inst. pl. ppp. sam-√kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अग्नि की रक्षा चाहने वाले को पुराने यव, गोधूम और शालि जांगल मांसों तथा संस्कृत यूषों के साथ खाने चाहिए।",
+  "english": "By one intent on protecting the digestive fire (agni), old barley, wheat and śāli rice should be eaten with the meats of dry-land animals and with well-prepared soups (yūṣa).",
+  "text_flags": [
+   {
+    "src": "jāṅgalaiarmāṃsairbhojyā",
+    "suggest": "jāṅgalairmāṃsairbhojyā",
+    "why": "typing slip: 'jāṅgalaiar' (जाङ्गलैअर्) has an extra a; jāṅgalaiḥ māṃsaiḥ gives jāṅgalairmāṃsair. The extra vowel adds a syllable to the half-line."
+   }
+  ],
+  "notes": "yūṣa: a soup, usually of pulses.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.38a",
+   "01.06.38b"
+  ],
+  "lines_deva": [
+   "अग्निसंरक्षणवता यवगोधूमशालयः",
+   "पुराणा जाङ्गलैअर्मांसैर्भोज्या यूषैश्च संस्कृतैः"
+  ],
+  "lines_iast": [
+   "agnisaṃrakṣaṇavatā yavagodhūmaśālayaḥ",
+   "purāṇā jāṅgalaiarmāṃsairbhojyā yūṣaiśca saṃskṛtaiḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "39",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pibet",
+      "words": [
+       {
+        "w": "pibet",
+        "gloss": "should drink",
+        "gram": "3 sg. opt. √pā"
+       }
+      ]
+     },
+     {
+      "src": "kṣaudrānvitaṃ",
+      "words": [
+       {
+        "w": "kṣaudra-anvitam",
+        "gloss": "mixed with honey",
+        "gram": "n. acc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "cālpaṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "alpam",
+        "gloss": "a little",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mādhvīkāriṣṭamambu",
+      "words": [
+       {
+        "w": "mādhvīka-ariṣṭam",
+        "gloss": "mādhvīka and ariṣṭa",
+        "gram": "n. acc. sg. dvandva (samāhāra)"
+       },
+       {
+        "w": "ambu",
+        "gloss": "water",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "māhendraṃ",
+      "words": [
+       {
+        "w": "māhendram",
+        "gloss": "of Mahendra (māhendra water)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "taptaśītaṃ",
+      "words": [
+       {
+        "w": "tapta-śītam",
+        "gloss": "boiled and cooled",
+        "gram": "n. acc. sg. karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaupaṃ",
+      "words": [
+       {
+        "w": "kaupam",
+        "gloss": "from a well",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sārasameva",
+      "words": [
+       {
+        "w": "sārasam",
+        "gloss": "from a lake",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "just, indeed (emphatic)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्षौद्र से युक्त थोड़ा माध्वीक और अरिष्ट, अथवा जल पिए: उबालकर ठण्डा किया हुआ माहेन्द्र जल, या कूप का, या सरोवर का जल।",
+  "english": "One should drink a little mādhvīka and ariṣṭa mixed with honey, or water: māhendra water boiled and cooled, or well water, or lake water.",
+  "text_flags": [],
+  "notes": "māhendra (water) \"of Mahendra\" means rain water; the identification is the usual one. ariṣṭa: a fermented medicinal preparation. mādhvīkāriṣṭam may also be read as \"ariṣṭa made of mādhvīka\".",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.39a",
+   "01.06.39b"
+  ],
+  "lines_deva": [
+   "पिबेत् क्षौद्रान्वितं चाल्पं माध्वीकारिष्टमम्बु वा",
+   "माहेन्द्रं तप्तशीतं वा कौपं सारसमेव वा"
+  ],
+  "lines_iast": [
+   "pibet kṣaudrānvitaṃ cālpaṃ mādhvīkāriṣṭamambu vā",
+   "māhendraṃ taptaśītaṃ vā kaupaṃ sārasameva vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "40",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pragharṣodvartanasnānagandhamālyaparo",
+      "words": [
+       {
+        "w": "pragharṣa-udvartana-snāna-gandha-mālya-paraḥ",
+        "gloss": "devoted to rubbing, anointing, bathing, perfumes and garlands",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "bhavet",
+      "words": [
+       {
+        "w": "bhavet",
+        "gloss": "should be",
+        "gram": "3 sg. opt. √bhū"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "laguśuddhāmbaraḥ",
+      "words": [
+       {
+        "w": "laghu-śuddha-ambaraḥ",
+        "gloss": "wearing light, clean clothes",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sthānaṃ",
+      "words": [
+       {
+        "w": "sthānam",
+        "gloss": "a dwelling",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhajedakledi",
+      "words": [
+       {
+        "w": "bhajet",
+        "gloss": "should resort to",
+        "gram": "3 sg. opt. √bhaj"
+       },
+       {
+        "w": "akledi",
+        "gloss": "free from dampness",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vārṣikam",
+      "words": [
+       {
+        "w": "vārṣikam",
+        "gloss": "for the rainy season, of the rains",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह प्रघर्ष, उद्वर्तन, स्नान, गन्ध और माल्य में तत्पर रहे; लघु और शुद्ध वस्त्र पहनकर वर्षा ऋतु के योग्य क्लेद-रहित स्थान का सेवन करे।",
+  "english": "One should be devoted to friction (pragharṣa), rubbing (udvartana), bathing, perfumes and garlands; wearing light, clean clothes, one should resort to a dwelling for the rainy season, free from dampness.",
+  "text_flags": [
+   {
+    "src": "laguśuddhāmbaraḥ",
+    "suggest": "laghuśuddhāmbaraḥ",
+    "why": "typing slip: 'lagu' (लगु) for laghu 'light' (लघु); the aspirate is missing. Metre is unaffected."
+   }
+  ],
+  "notes": "vārṣikam qualifies sthānam: \"a dwelling of (for) the rainy season\".",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.40a",
+   "01.06.40b"
+  ],
+  "lines_deva": [
+   "प्रघर्षोद्वर्तनस्नानगन्धमाल्यपरो भवेत्",
+   "लगुशुद्धाम्बरः स्थानं भजेदक्लेदि वार्षिकम्"
+  ],
+  "lines_iast": [
+   "pragharṣodvartanasnānagandhamālyaparo bhavet",
+   "laguśuddhāmbaraḥ sthānaṃ bhajedakledi vārṣikam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "41",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "varṣāśītocitāṅgānāṃ",
+      "words": [
+       {
+        "w": "varṣā-śīta-ucita-aṅgānām",
+        "gloss": "of those whose limbs are used to the cold of the rains",
+        "gram": "m. gen. pl. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sahasaivārkaraśmibhiḥ",
+      "words": [
+       {
+        "w": "sahasā",
+        "gloss": "suddenly",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "(emphasis)",
+        "gram": "ind."
+       },
+       {
+        "w": "arka-raśmibhiḥ",
+        "gloss": "by the sun's rays",
+        "gram": "m. inst. pl. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "taptānāmācitaṃ",
+      "words": [
+       {
+        "w": "taptānām",
+        "gloss": "heated",
+        "gram": "m. gen. pl. ppp. √tap"
+       },
+       {
+        "w": "ācitam",
+        "gloss": "accumulated",
+        "gram": "n. nom. sg. ppp. ā-√ci"
+       }
+      ]
+     },
+     {
+      "src": "pittaṃ",
+      "words": [
+       {
+        "w": "pittam",
+        "gloss": "Pitta",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāyaḥ",
+      "words": [
+       {
+        "w": "prāyaḥ",
+        "gloss": "generally",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śaradi",
+      "words": [
+       {
+        "w": "śaradi",
+        "gloss": "in Śarad",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kupyati",
+      "words": [
+       {
+        "w": "kupyati",
+        "gloss": "is aggravated",
+        "gram": "3 sg. pres. √kup"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वर्षा के शीत के अभ्यस्त अंगों वाले और सहसा सूर्य की किरणों से तप्त हुए लोगों का संचित पित्त प्रायः शरद् में कुपित होता है।",
+  "english": "In those whose limbs are used to the cold of the rains and who are suddenly heated by the sun's rays, the accumulated Pitta is generally aggravated in Śarad.",
+  "text_flags": [],
+  "notes": "eva with sahasā is a reinforcing particle; not rendered separately.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.41a",
+   "01.06.41b"
+  ],
+  "lines_deva": [
+   "वर्षाशीतोचिताङ्गानां सहसैवार्करश्मिभिः",
+   "तप्तानामाचितं पित्तं प्रायः शरदि कुप्यति"
+  ],
+  "lines_iast": [
+   "varṣāśītocitāṅgānāṃ sahasaivārkaraśmibhiḥ",
+   "taptānāmācitaṃ pittaṃ prāyaḥ śaradi kupyati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "42",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatrānnapānaṃ",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "then, there",
+        "gram": "ind."
+       },
+       {
+        "w": "anna-pānam",
+        "gloss": "food and drink",
+        "gram": "n. nom. sg. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "madhuraṃ",
+      "words": [
+       {
+        "w": "madhuram",
+        "gloss": "sweet",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "laghu",
+      "words": [
+       {
+        "w": "laghu",
+        "gloss": "light",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śītaṃ",
+      "words": [
+       {
+        "w": "śītam",
+        "gloss": "cold",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "satiktakam",
+      "words": [
+       {
+        "w": "sa-tiktakam",
+        "gloss": "with bitter",
+        "gram": "n. nom. sg. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pittapraśamanaṃ",
+      "words": [
+       {
+        "w": "pitta-praśamanam",
+        "gloss": "pacifying Pitta",
+        "gram": "n. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sevyaṃ",
+      "words": [
+       {
+        "w": "sevyam",
+        "gloss": "to be taken",
+        "gram": "n. nom. sg. gerundive (kṛtya) √sev"
+       }
+      ]
+     },
+     {
+      "src": "mātrayā",
+      "words": [
+       {
+        "w": "mātrayā",
+        "gloss": "in due measure",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "suprakāṅkṣitaiḥ",
+      "words": [
+       {
+        "w": "su-prakāṅkṣitaiḥ",
+        "gloss": "by those with keen desire (for food)",
+        "gram": "m. inst. pl. ppp. pra-√kāṅkṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब मधुर, लघु, शीतल, तिक्त से युक्त, पित्त को शान्त करने वाला अन्न-पान भली-भाँति आकांक्षा रखने वालों को मात्रा से सेवन करना चाहिए।",
+  "english": "Then food and drink that is sweet, light, cold, with bitter, and pacifying Pitta, should be taken in due measure by those with keen desire for it.",
+  "text_flags": [],
+  "notes": "suprakāṅkṣitaiḥ: taken as \"by those who have a keen desire (appetite)\"; it may also qualify the time (\"when well desired\").",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.06.42a",
+   "01.06.42b"
+  ],
+  "lines_deva": [
+   "तत्रान्नपानं मधुरं लघु शीतं सतिक्तकम्",
+   "पित्तप्रशमनं सेव्यं मात्रया सुप्रकाङ्क्षितैः"
+  ],
+  "lines_iast": [
+   "tatrānnapānaṃ madhuraṃ laghu śītaṃ satiktakam",
+   "pittapraśamanaṃ sevyaṃ mātrayā suprakāṅkṣitaiḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "43",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "lāvān",
+      "words": [
+       {
+        "w": "lāvān",
+        "gloss": "lāva birds",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kapiñjalāneṇānurabhrāñchrabhān",
+      "words": [
+       {
+        "w": "kapiñjalān",
+        "gloss": "kapiñjala birds",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "eṇān",
+        "gloss": "eṇa deer",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "urabhrān",
+        "gloss": "rams",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "śarabhān",
+        "gloss": "śarabhas",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "śaśān",
+      "words": [
+       {
+        "w": "śaśān",
+        "gloss": "hares",
+        "gram": "m. acc. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śālīn",
+      "words": [
+       {
+        "w": "śālīn",
+        "gloss": "śāli rice",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sayavagodhūmān",
+      "words": [
+       {
+        "w": "sa-yava-godhūmān",
+        "gloss": "with barley and wheat",
+        "gram": "m. acc. pl. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sevyānāhurdhanātyaye",
+      "words": [
+       {
+        "w": "sevyān",
+        "gloss": "to be taken",
+        "gram": "m. acc. pl. gerundive (kṛtya) √sev"
+       },
+       {
+        "w": "āhuḥ",
+        "gloss": "they say",
+        "gram": "3 pl. pf. √ah"
+       },
+       {
+        "w": "ghana-atyaye",
+        "gloss": "at the passing of the clouds",
+        "gram": "m. loc. sg. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "घनात्यय में लाव, कपिञ्जल, एण, उरभ्र, शरभ, शश, तथा यव और गोधूम सहित शालि सेवनीय कहे गए हैं।",
+  "english": "At the passing of the clouds, they say, lāva and kapiñjala birds, eṇa deer, rams (urabhra), śarabhas, hares, and śāli rice with barley and wheat are to be taken.",
+  "text_flags": [
+   {
+    "src": "kapiñjalāneṇānurabhrāñchrabhān",
+    "suggest": "kapiñjalāneṇānurabhrāñcharabhān",
+    "why": "typing slip: urabhrān + śarabhān gives urabhrāñcharabhān; the printed 'chrabhān' (छ्रभान्) drops the a and leaves the half-line one syllable short (15)."
+   },
+   {
+    "src": "sevyānāhurdhanātyaye",
+    "suggest": "sevyānāhurghanātyaye",
+    "why": "typing slip: 'dhana' (wealth) gives no sense; ghanātyaya 'the passing of the clouds' (i.e. autumn) matches dhārādharātyaye in unit 44. Metre is unaffected."
+   }
+  ],
+  "notes": "ghanātyaya, \"the passing of the clouds\", stands for Śarad. Animal identifications as in unit 25 (lāva standard, kapiñjala probable, eṇa probable, śarabha disputed); urabhra: ram, sheep.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.43a",
+   "01.06.43b"
+  ],
+  "lines_deva": [
+   "लावान् कपिञ्जलानेणानुरभ्राञ्छ्रभान् शशान्",
+   "शालीन् सयवगोधूमान् सेव्यानाहुर्धनात्यये"
+  ],
+  "lines_iast": [
+   "lāvān kapiñjalāneṇānurabhrāñchrabhān śaśān",
+   "śālīn sayavagodhūmān sevyānāhurdhanātyaye"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "44",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tiktasya",
+      "words": [
+       {
+        "w": "tiktasya",
+        "gloss": "bitter",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarpiṣaḥ",
+      "words": [
+       {
+        "w": "sarpiṣaḥ",
+        "gloss": "of ghee",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pānaṃ",
+      "words": [
+       {
+        "w": "pānam",
+        "gloss": "drinking",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vireko",
+      "words": [
+       {
+        "w": "virekaḥ",
+        "gloss": "purgation",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "raktamokṣaṇam",
+      "words": [
+       {
+        "w": "rakta-mokṣaṇam",
+        "gloss": "blood-letting",
+        "gram": "n. nom. sg. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dhārādharātyaye",
+      "words": [
+       {
+        "w": "dhārā-dhara-atyaye",
+        "gloss": "at the passing of the rain-bearers",
+        "gram": "m. loc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kāryamātapasya",
+      "words": [
+       {
+        "w": "kāryam",
+        "gloss": "is to be done",
+        "gram": "n. nom. sg. gerundive (kṛtya) √kṛ"
+       },
+       {
+        "w": "ātapasya",
+        "gloss": "of sunshine",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "varjanam",
+      "words": [
+       {
+        "w": "varjanam",
+        "gloss": "avoidance",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "धाराधरों के अत्यय में तिक्त सर्पि का पान, विरेक, रक्तमोक्षण और आतप का वर्जन करना चाहिए।",
+  "english": "At the passing of the rain-bearers, drinking of bitter ghee, purgation (vireka), blood-letting and avoidance of sunshine should be done.",
+  "text_flags": [],
+  "notes": "dhārādhara \"bearer of torrents\" = cloud; its passing stands for Śarad. tikta sarpis: bitter ghee.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.44a",
+   "01.06.44b"
+  ],
+  "lines_deva": [
+   "तिक्तस्य सर्पिषः पानं विरेको रक्तमोक्षणम्",
+   "धाराधरात्यये कार्यमातपस्य च वर्जनम्"
+  ],
+  "lines_iast": [
+   "tiktasya sarpiṣaḥ pānaṃ vireko raktamokṣaṇam",
+   "dhārādharātyaye kāryamātapasya ca varjanam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "45",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vasāṃ",
+      "words": [
+       {
+        "w": "vasām",
+        "gloss": "muscle-fat (vasā)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tailamavaśyāyamaudakānūpamāmiṣam",
+      "words": [
+       {
+        "w": "tailam",
+        "gloss": "oil",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "avaśyāyam",
+        "gloss": "dew",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "audaka-ānūpam",
+        "gloss": "of aquatic and marsh animals",
+        "gram": "n. acc. sg. dvandva"
+       },
+       {
+        "w": "āmiṣam",
+        "gloss": "meat",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kṣāraṃ",
+      "words": [
+       {
+        "w": "kṣāram",
+        "gloss": "alkali (kṣāra)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadhi",
+      "words": [
+       {
+        "w": "dadhi",
+        "gloss": "curd",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "divāsvapnaṃ",
+      "words": [
+       {
+        "w": "divā-svapnam",
+        "gloss": "day-sleep",
+        "gram": "m. acc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "prāgvātaṃ",
+      "words": [
+       {
+        "w": "prāk-vātam",
+        "gloss": "the east wind",
+        "gram": "m. acc. sg. karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "cātra",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "atra",
+        "gloss": "here, in this season",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "varjayet",
+      "words": [
+       {
+        "w": "varjayet",
+        "gloss": "should avoid",
+        "gram": "3 sg. opt. caus. √vṛj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यहाँ वसा, तैल, अवश्याय, औदक और आनूप आमिष, क्षार, दधि, दिवास्वप्न और पूर्व की वायु का त्याग करे।",
+  "english": "Here one should avoid muscle-fat (vasā), oil, dew, the meat of aquatic and marsh animals, alkali (kṣāra), curd, day-sleep and the east wind.",
+  "text_flags": [],
+  "notes": "vāta in prāgvāta is the physical wind.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.45a",
+   "01.06.45b"
+  ],
+  "lines_deva": [
+   "वसां तैलमवश्यायमौदकानूपमामिषम्",
+   "क्षारं दधि दिवास्वप्नं प्राग्वातं चात्र वर्जयेत्"
+  ],
+  "lines_iast": [
+   "vasāṃ tailamavaśyāyamaudakānūpamāmiṣam",
+   "kṣāraṃ dadhi divāsvapnaṃ prāgvātaṃ cātra varjayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "46",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "divā",
+      "words": [
+       {
+        "w": "divā",
+        "gloss": "by day",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sūryāṃśusaṃtaptaṃ",
+      "words": [
+       {
+        "w": "sūrya-aṃśu-saṃtaptam",
+        "gloss": "heated by the sun's rays",
+        "gram": "n. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "niśi",
+      "words": [
+       {
+        "w": "niśi",
+        "gloss": "at night",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "candrāṃśuśītalam",
+      "words": [
+       {
+        "w": "candra-aṃśu-śītalam",
+        "gloss": "cooled by the moon's rays",
+        "gram": "n. nom. sg. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kālena",
+      "words": [
+       {
+        "w": "kālena",
+        "gloss": "by time",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pakvaṃ",
+      "words": [
+       {
+        "w": "pakvam",
+        "gloss": "matured",
+        "gram": "n. nom. sg. ppp. √pac"
+       }
+      ]
+     },
+     {
+      "src": "nirdoṣamagastyenāviṣīkṛtam",
+      "words": [
+       {
+        "w": "nir-doṣam",
+        "gloss": "free of faults",
+        "gram": "n. nom. sg. bahuvrīhi"
+       },
+       {
+        "w": "agastyena",
+        "gloss": "by Agastya",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "aviṣī-kṛtam",
+        "gloss": "made non-poisonous",
+        "gram": "n. nom. sg. cvi formation √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दिन में सूर्य की किरणों से सन्तप्त, रात्रि में चन्द्र की किरणों से शीतल, काल से पका हुआ, निर्दोष, अगस्त्य द्वारा निर्विष किया हुआ",
+  "english": "Heated by the sun's rays by day, cooled by the moon's rays at night, matured by time, free of faults, made free of poison by Agastya,",
+  "text_flags": [],
+  "notes": "The sentence continues into unit 47 (haṃsodakam ... ambu). agastya: name; the line says only that Agastya made the water free of poison.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.46a",
+   "01.06.46b"
+  ],
+  "lines_deva": [
+   "दिवा सूर्यांशुसंतप्तं निशि चन्द्रांशुशीतलम्",
+   "कालेन पक्वं निर्दोषमगस्त्येनाविषीकृतम्"
+  ],
+  "lines_iast": [
+   "divā sūryāṃśusaṃtaptaṃ niśi candrāṃśuśītalam",
+   "kālena pakvaṃ nirdoṣamagastyenāviṣīkṛtam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "47",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "haṃsodakamiti",
+      "words": [
+       {
+        "w": "haṃsa-udakam",
+        "gloss": "haṃsodaka (\"swan-water\")",
+        "gram": "n. nom. sg. tat-puruṣa"
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (quoting the name)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "khyātaṃ",
+      "words": [
+       {
+        "w": "khyātam",
+        "gloss": "known",
+        "gram": "n. nom. sg. ppp. √khyā"
+       }
+      ]
+     },
+     {
+      "src": "śāradaṃ",
+      "words": [
+       {
+        "w": "śāradam",
+        "gloss": "autumnal",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vimalaṃ",
+      "words": [
+       {
+        "w": "vimalam",
+        "gloss": "clear",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śuci",
+      "words": [
+       {
+        "w": "śuci",
+        "gloss": "pure",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "snānapānāvagāheṣu",
+      "words": [
+       {
+        "w": "snāna-pāna-avagāheṣu",
+        "gloss": "for bathing, drinking and immersion",
+        "gram": "m. loc. pl. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "hitamambu",
+      "words": [
+       {
+        "w": "hitam",
+        "gloss": "wholesome",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ambu",
+        "gloss": "water",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yathāmṛtam",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "like",
+        "gram": "ind."
+       },
+       {
+        "w": "amṛtam",
+        "gloss": "amṛta (nectar)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "...'हंसोदक' नाम से विख्यात, शारद, विमल और शुचि जल स्नान, पान और अवगाहन में अमृत के समान हितकर है।",
+  "english": "...the autumnal water, clear and pure, known as \"haṃsodaka\", is wholesome like amṛta for bathing, drinking and immersion.",
+  "text_flags": [],
+  "notes": "Continues unit 46. haṃsodaka: literally \"swan-water\".",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.47a",
+   "01.06.47b"
+  ],
+  "lines_deva": [
+   "हंसोदकमिति ख्यातं शारदं विमलं शुचि",
+   "स्नानपानावगाहेषु हितमम्बु यथामृतम्"
+  ],
+  "lines_iast": [
+   "haṃsodakamiti khyātaṃ śāradaṃ vimalaṃ śuci",
+   "snānapānāvagāheṣu hitamambu yathāmṛtam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "48",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śāradāni",
+      "words": [
+       {
+        "w": "śāradāni",
+        "gloss": "autumnal",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mālyāni",
+      "words": [
+       {
+        "w": "mālyāni",
+        "gloss": "garlands",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vāsāṃsi",
+      "words": [
+       {
+        "w": "vāsāṃsi",
+        "gloss": "clothes",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vimalāni",
+      "words": [
+       {
+        "w": "vimalāni",
+        "gloss": "clean",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śaratkāle",
+      "words": [
+       {
+        "w": "śarat-kāle",
+        "gloss": "in the autumn season",
+        "gram": "m. loc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "praśasyante",
+      "words": [
+       {
+        "w": "praśasyante",
+        "gloss": "are commended",
+        "gram": "3 pl. pres. pass. pra-√śaṃs"
+       }
+      ]
+     },
+     {
+      "src": "pradoṣe",
+      "words": [
+       {
+        "w": "pradoṣe",
+        "gloss": "in the early night",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cenduraśmayaḥ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "indu-raśmayaḥ",
+        "gloss": "the moon's rays",
+        "gram": "m. nom. pl. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शरद् काल में शारद माल्य और विमल वस्त्र प्रशस्त हैं, और प्रदोष में चन्द्रमा की किरणें।",
+  "english": "In the season of Śarad, autumnal garlands and clean clothes are commended, and in the early night the rays of the moon.",
+  "text_flags": [],
+  "notes": "śāradāni mālyāni: garlands of autumn flowers.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.48a",
+   "01.06.48b"
+  ],
+  "lines_deva": [
+   "शारदानि च माल्यानि वासांसि विमलानि च",
+   "शरत्काले प्रशस्यन्ते प्रदोषे चेन्दुरश्मयः"
+  ],
+  "lines_iast": [
+   "śāradāni ca mālyāni vāsāṃsi vimalāni ca",
+   "śaratkāle praśasyante pradoṣe cenduraśmayaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "49",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ityuktamṛtusātmyaṃ",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "uktam",
+        "gloss": "has been stated",
+        "gram": "n. nom. sg. ppp. √vac"
+       },
+       {
+        "w": "ṛtu-sātmyam",
+        "gloss": "seasonal suitability",
+        "gram": "n. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "yacceṣṭāhāravyapāśrayam",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg. rel. pron."
+       },
+       {
+        "w": "ceṣṭā-āhāra-vyapāśrayam",
+        "gloss": "based on conduct and diet",
+        "gram": "n. nom. sg. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "upaśete",
+      "words": [
+       {
+        "w": "upaśete",
+        "gloss": "suits",
+        "gram": "3 sg. pres. upa-√śī"
+       }
+      ]
+     },
+     {
+      "src": "yadaucityādokaḥsātmyaṃ",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "what",
+        "gram": "n. nom. sg. rel. pron."
+       },
+       {
+        "w": "aucityāt",
+        "gloss": "through habituation",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "okaḥ-sātmyam",
+        "gloss": "suitability by habit (okasātmya)",
+        "gram": "n. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "taducyate",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg. pron."
+       },
+       {
+        "w": "ucyate",
+        "gloss": "is called",
+        "gram": "3 sg. pres. pass. √vac"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार ऋतुसात्म्य कहा गया जो चेष्टा और आहार पर आश्रित है। जो अभ्यस्त होने से अनुकूल पड़ता है, वह ओकःसात्म्य कहलाता है।",
+  "english": "Thus has been stated the seasonal suitability (ṛtusātmya) which rests on conduct and diet. What suits through habituation is called okaḥsātmya (suitability by habit).",
+  "text_flags": [],
+  "notes": "aucitya here means habituation, familiarity (from ucita \"accustomed\"), not propriety. okas: home, habit.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.49a",
+   "01.06.49b"
+  ],
+  "lines_deva": [
+   "इत्युक्तमृतुसात्म्यं यच्चेष्टाहारव्यपाश्रयम्",
+   "उपशेते यदौचित्यादोकःसात्म्यं तदुच्यते"
+  ],
+  "lines_iast": [
+   "ityuktamṛtusātmyaṃ yacceṣṭāhāravyapāśrayam",
+   "upaśete yadaucityādokaḥsātmyaṃ taducyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "50",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "deśānāmāmayānāṃ",
+      "words": [
+       {
+        "w": "deśānām",
+        "gloss": "of regions",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "āmayānām",
+        "gloss": "of diseases",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viparītaguṇaṃ",
+      "words": [
+       {
+        "w": "viparīta-guṇam",
+        "gloss": "opposite in qualities",
+        "gram": "n. acc. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "guṇaiḥ",
+      "words": [
+       {
+        "w": "guṇaiḥ",
+        "gloss": "to the qualities",
+        "gram": "m. inst. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sātmyamicchanti",
+      "words": [
+       {
+        "w": "sātmyam",
+        "gloss": "suitable (sātmya)",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "icchanti",
+        "gloss": "hold, regard",
+        "gram": "3 pl. pres. √iṣ"
+       }
+      ]
+     },
+     {
+      "src": "sātmyajñāśeceṣṭitaṃ",
+      "words": [
+       {
+        "w": "sātmya-jñāḥ",
+        "gloss": "those who know suitability",
+        "gram": "m. nom. pl. upapada"
+       },
+       {
+        "w": "ceṣṭitam",
+        "gloss": "conduct",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cādyameva",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ādyam",
+        "gloss": "food",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सात्म्य को जानने वाले देशों और रोगों के गुणों से विपरीत गुण वाली चेष्टा और आहार को भी सात्म्य मानते हैं।",
+  "english": "Those who know suitability regard as suitable (sātmya) both conduct and food that are opposite in qualities to the qualities of regions and diseases.",
+  "text_flags": [
+   {
+    "src": "sātmyajñāśeceṣṭitaṃ",
+    "suggest": "sātmyajñāśceṣṭitaṃ",
+    "why": "typing slip: sātmyajñāḥ + ceṣṭitam gives sātmyajñāśceṣṭitaṃ; the printed extra e (ज्ञाशेचे) adds a syllable to the half-line (17)."
+   }
+  ],
+  "notes": "\"the qualities of\" renders the instrumental guṇaiḥ with deśānām āmayānām (opposite to regions and diseases in their qualities). ādya: what is eaten, food.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.06.50a",
+   "01.06.50b"
+  ],
+  "lines_deva": [
+   "देशानामामयानां च विपरीतगुणं गुणैः",
+   "सात्म्यमिच्छन्ति सात्म्यज्ञाशेचेष्टितं चाद्यमेव च"
+  ],
+  "lines_iast": [
+   "deśānāmāmayānāṃ ca viparītaguṇaṃ guṇaiḥ",
+   "sātmyamicchanti sātmyajñāśeceṣṭitaṃ cādyameva ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "51",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "here, on this",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ślokaḥ",
+      "words": [
+       {
+        "w": "ślokaḥ",
+        "gloss": "the verse",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ṛtāvṛtau",
+      "words": [
+       {
+        "w": "ṛtau",
+        "gloss": "in season",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "ṛtau",
+        "gloss": "in season (each)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nṛbhiḥ",
+      "words": [
+       {
+        "w": "nṛbhiḥ",
+        "gloss": "by humans",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "sevyamasevyaṃ",
+      "words": [
+       {
+        "w": "sevyam",
+        "gloss": "to be used",
+        "gram": "n. nom. sg. gerundive (kṛtya) √sev"
+       },
+       {
+        "w": "asevyam",
+        "gloss": "not to be used",
+        "gram": "n. nom. sg. gerundive (kṛtya) √sev"
+       }
+      ]
+     },
+     {
+      "src": "yacca",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "what",
+        "gram": "n. nom. sg. rel. pron."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kiṃcana",
+      "words": [
+       {
+        "w": "kiṃcana",
+        "gloss": "whatever",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tasyāśitīye",
+      "words": [
+       {
+        "w": "tasya-aśitīye",
+        "gloss": "in the Tasyāśitīya",
+        "gram": "m. loc. sg. (chapter name)"
+       }
+      ]
+     },
+     {
+      "src": "nirdiṣṭaṃ",
+      "words": [
+       {
+        "w": "nirdiṣṭam",
+        "gloss": "has been set out",
+        "gram": "n. nom. sg. ppp. nir-√diś"
+       }
+      ]
+     },
+     {
+      "src": "hetumat",
+      "words": [
+       {
+        "w": "hetumat",
+        "gloss": "with its reasons",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sātmyameva",
+      "words": [
+       {
+        "w": "sātmyam",
+        "gloss": "suitability (sātmya)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यहाँ श्लोक है: प्रत्येक ऋतु में मनुष्यों द्वारा जो कुछ सेवनीय और असेवनीय है, वह कारण सहित, और सात्म्य भी, तस्याशितीय में बताया गया है।",
+  "english": "Here, the verse: Whatever is to be used and not to be used by humans in each season, with its reasons, and also suitability (sātmya), has been set out in the Tasyāśitīya.",
+  "text_flags": [],
+  "notes": "Line a is the lead-in \"tatra ślokaḥ\" (summary verse). ṛtāv ṛtau: repetition meaning \"in each season\".",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.06.51a",
+   "01.06.51b",
+   "01.06.51c"
+  ],
+  "lines_deva": [
+   "तत्र श्लोकः",
+   "ऋतावृतौ नृभिः सेव्यमसेव्यं यच्च किंचन",
+   "तस्याशितीये निर्दिष्टं हेतुमत् सात्म्यमेव च"
+  ],
+  "lines_iast": [
+   "tatra ślokaḥ",
+   "ṛtāvṛtau nṛbhiḥ sevyamasevyaṃ yacca kiṃcana",
+   "tasyāśitīye nirdiṣṭaṃ hetumat sātmyameva ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "P3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ityagniveśakṛte",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "agniveśa-kṛte",
+        "gloss": "composed by Agniveśa",
+        "gram": "n. loc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tantre",
+      "words": [
+       {
+        "w": "tantre",
+        "gloss": "in the treatise",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "carakapratisaṃskṛte",
+      "words": [
+       {
+        "w": "caraka-pratisaṃskṛte",
+        "gloss": "redacted by Caraka",
+        "gram": "n. loc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ślokasthāne",
+      "words": [
+       {
+        "w": "śloka-sthāne",
+        "gloss": "in the Ślokasthāna (section)",
+        "gram": "n. loc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tasyāśitīyo",
+      "words": [
+       {
+        "w": "tasya-aśitīyaḥ",
+        "gloss": "Tasyāśitīya",
+        "gram": "m. nom. sg. (chapter name)"
+       }
+      ]
+     },
+     {
+      "src": "nāma",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "named",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣaṣṭho'dhyāyaḥ",
+      "words": [
+       {
+        "w": "ṣaṣṭhaḥ",
+        "gloss": "sixth",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "adhyāyaḥ",
+        "gloss": "chapter",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार अग्निवेश द्वारा रचित और चरक द्वारा प्रतिसंस्कृत तन्त्र के श्लोकस्थान में तस्याशितीय नामक छठा अध्याय।",
+  "english": "Thus, in the Ślokasthāna of the treatise composed by Agniveśa and redacted by Caraka, the sixth chapter, named Tasyāśitīya.",
+  "text_flags": [],
+  "notes": "Chapter colophon. This edition names the section Ślokasthāna here (the chapter 1 colophon has sūtrasthāne); both names are used for the first section.",
+  "confidence": "high",
+  "type": "prose",
+  "line_ids": [
+   "01.06.P3"
+  ],
+  "lines_deva": [
+   "इत्यग्निवेशकृते तन्त्रे चरकप्रतिसंस्कृते श्लोकस्थाने तस्याशितीयो नाम षष्ठोऽध्यायः"
+  ],
+  "lines_iast": [
+   "ityagniveśakṛte tantre carakapratisaṃskṛte ślokasthāne tasyāśitīyo nāma ṣaṣṭho'dhyāyaḥ"
+  ],
+  "uncertain": []
+ }
+]

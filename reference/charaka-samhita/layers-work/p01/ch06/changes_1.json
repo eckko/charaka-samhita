@@ -1,0 +1,298 @@
+[
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "aśitādyāt: \"from eaten and the rest\", i.e. the kinds of food (eaten, drunk, licked, chewed), as commonly explained; the ādi is not spelled out in the text. ca in line b joins the two predicates loosely; it is left untranslated. ṛtusātmya: what is suitable (wholesome by habituation) to each season.",
+  "new": "aśitādyāt: \"from eaten and the rest\"; the ādi is not spelled out in the text. ca in line b joins the two predicates loosely; it is left untranslated. ṛtusātmya: what is suitable (wholesome by habituation) to each season.",
+  "why": "reviewer (minor): List imported from commentary ('as commonly explained'), not in the input."
+ },
+ {
+  "n": "P1",
+  "field": "english",
+  "old": "Of these, one should determine the northward course of the sun and ādāna (taking up) to be the three seasons beginning with Śiśira (late winter) and ending with Grīṣma (summer); and, again, those beginning with Varṣā (rains) and ending with Hemanta (early winter) to be the southward course and visarga (release).",
+  "new": "Of these, one should determine the northward course of the sun and ādāna (taking up) to be the three seasons beginning with Śiśira and ending with Grīṣma; and, again, those beginning with Varṣā (rains) and ending with Hemanta (early winter) to be the southward course and visarga (release).",
+  "why": "reviewer (minor): Season equivalents are not words of the text (the draft's own note says so); keep them in notes only."
+ },
+ {
+  "n": "P1",
+  "field": "english",
+  "old": "Of these, one should determine the northward course of the sun and ādāna (taking up) to be the three seasons beginning with Śiśira and ending with Grīṣma; and, again, those beginning with Varṣā (rains) and ending with Hemanta (early winter) to be the southward course and visarga (release).",
+  "new": "Of these, one should determine the northward course of the sun and ādāna (taking up) to be the three seasons beginning with Śiśira and ending with Grīṣma; and, again, those beginning with Varṣā and ending with Hemanta to be the southward course and visarga (release).",
+  "why": "reviewer (minor): Same: added equivalents in the translation."
+ },
+ {
+  "n": "P1",
+  "field": "notes",
+  "old": "The six seasons in order: Śiśira, Vasanta, Grīṣma (ādāna, northward course); Varṣā, Śarad, Hemanta (visarga, southward course). \"three\" is stated only for the first group. The English season glosses (late winter etc.) are the usual equivalents, not words of the text. ādāna and visarga: the periods in which the sun takes up and releases (moisture, strength), as the following units explain.",
+  "new": "The six seasons in order: Śiśira, Vasanta, Grīṣma (ādāna, northward course); Varṣā, Śarad, Hemanta (visarga, southward course). \"three\" is stated only for the first group. Usual English equivalents (not words of the text): Śiśira late winter, Vasanta spring, Grīṣma summer, Varṣā rains, Śarad autumn, Hemanta early winter. ādāna and visarga: the periods in which the sun takes up and releases (moisture, strength), as the following units explain.",
+  "why": "reviewer (minor): Keep the equivalents in notes once the English drops them."
+ },
+ {
+  "n": "P2",
+  "field": "word.gloss",
+  "word": "tau",
+  "old": "these",
+  "new": "those (two)",
+  "why": "reviewer (minor): tau is the pronoun 'those (two)', not 'these'."
+ },
+ {
+  "n": "P2",
+  "field": "word.gloss",
+  "word": "etau",
+  "old": "two",
+  "new": "these (two)",
+  "why": "reviewer (minor): etau means 'these (two)'; the gloss 'two' turns a pronoun into a numeral."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "And here there is this: One should declare weakness of humans at the beginning and the end of visarga and ādāna, middling strength in the middle, and the best at the end and at the start.",
+  "new": "And here there is: One should declare weakness of humans at the beginning and the end of visarga and ādāna, middling strength in the middle, and the best at the end and at the start.",
+  "why": "reviewer (minor): Glossary fixes bhavati cātra = \"And here there is:\"; 'this' is added."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "जब वह उचित इन्धन नहीं पाता, तब देह में उत्पन्न रस को नष्ट करता है; इसलिए शीत वायु शीत में प्रकुपित होता है।",
+  "new": "जब वह उचित इन्धन नहीं पाता, तब देह में उत्पन्न रस को हानि पहुँचाता है; इसलिए शीत वायु शीत में प्रकुपित होता है।",
+  "why": "reviewer (minor): hinasti is rendered 'harms' in the English; 'destroys' overstates and the two layers disagree."
+ },
+ {
+  "n": "15",
+  "field": "word.gram",
+  "word": "sevyam",
+  "old": "n. nom. sg. ger. √sev",
+  "new": "n. nom. sg. gerundive (kṛtya) √sev",
+  "why": "reviewer (minor): 'ger.' usually means the gerund (absolutive, -tvā/-ya); this is a gerundive (kṛtya)."
+ },
+ {
+  "n": "17",
+  "field": "word.gram",
+  "word": "supyāt",
+  "old": "3 sg. opt. √svap",
+  "new": "3 sg. benedictive (used as optative) √svap",
+  "why": "reviewer (error): supyāt is not the optative of √svap (that is svapet); it is the benedictive (āśīrliṅ) form with samprasāraṇa, used here in optative sense."
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "In Vasanta, the accumulated Kapha (śleṣman), stirred by the rays of the day-maker, impairs the body-fire (kāyāgni) and then produces many diseases.",
+  "new": "In Vasanta, the accumulated Kapha (śleṣman), stirred by the rays of the day-maker, impairs the digestive fire of the body (kāyāgni) and then produces many diseases.",
+  "why": "reviewer (minor): Glossary: agni = digestive fire."
+ },
+ {
+  "n": "22",
+  "field": "notes",
+  "old": "dinakṛt \"day-maker\" is an epithet of the sun. The text does not say where Kapha accumulated (commentators: in Hemanta/Śiśira).",
+  "new": "dinakṛt \"day-maker\" is an epithet of the sun. The text does not say where Kapha accumulated.",
+  "why": "reviewer (minor): Commentary claim not in the input."
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "At the coming of flowers one should practise exercise, rubbing (udvartana), smoking (dhūma), gargling (kavalagraha), collyrium (añjana), and the practice of cleansing with pleasant water.",
+  "new": "At the coming of flowers one should practise exercise, rubbing (udvartana), medicated smoking (dhūma), gargling (kavalagraha), collyrium (añjana), and the practice of cleansing with pleasant water.",
+  "why": "reviewer (minor): Glossary: dhūma = medicated smoking."
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "At the coming of flowers one should practise exercise, rubbing (udvartana), medicated smoking (dhūma), gargling (kavalagraha), collyrium (añjana), and the practice of cleansing with pleasant water.",
+  "new": "At the coming of flowers one should practise exercise, rubbing (udvartana), medicated smoking (dhūma), holding a mouthful moved in the mouth (kavalagraha), collyrium (añjana), and the practice of cleansing with pleasant water.",
+  "why": "reviewer (minor): Glossary: kavala = moved in the mouth (as opposed to gaṇḍūṣa, held). 'gargling' contradicts it."
+ },
+ {
+  "n": "24",
+  "field": "word.gloss",
+  "word": "kavala-graham",
+  "old": "gargling (kavalagraha)",
+  "new": "holding a mouthful moved in the mouth (kavalagraha)",
+  "why": "reviewer (minor): Glossary: kavala = moved in mouth."
+ },
+ {
+  "n": "26",
+  "field": "word.gloss",
+  "word": "eva",
+  "old": "or else",
+  "new": "just, indeed (emphatic)",
+  "why": "reviewer (minor): eva is emphatic; 'or' is vā. 'or else' gives eva a disjunctive sense it does not have."
+ },
+ {
+  "n": "26",
+  "field": "notes",
+  "old": "Continues unit 25. nirgada \"free of disease, harmless\" is read with sīdhum; some take it as \"unmixed\". sīdhu is spelled śīdhu in unit 12. mādhvīka: a wine of grapes or of madhūka flowers or honey; the sources differ.",
+  "new": "Continues unit 25. nirgada \"free of disease, harmless\" is read with sīdhum. sīdhu is spelled śīdhu in unit 12. mādhvīka: a wine of grapes or of madhūka flowers or honey; the sources differ.",
+  "why": "reviewer (minor): Unsupported claim about other interpretations."
+ },
+ {
+  "n": "26",
+  "field": "notes",
+  "old": "Continues unit 25. nirgada \"free of disease, harmless\" is read with sīdhum. sīdhu is spelled śīdhu in unit 12. mādhvīka: a wine of grapes or of madhūka flowers or honey; the sources differ.",
+  "new": "Continues unit 25. nirgada \"free of disease, harmless\" is read with sīdhum. sīdhu is spelled śīdhu in unit 12. mādhvīka: a kind of wine; its base is not stated in the text.",
+  "why": "reviewer (minor): Appeal to unnamed sources not in the input."
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "...he should eat; he should drink harmless sīdhu, or else mādhvīka; in Vasanta he should enjoy the youth of women and of forests.",
+  "new": "...he should eat; he should drink harmless sīdhu, or just mādhvīka; in Vasanta he should enjoy the youth of women and of forests.",
+  "why": "reviewer (minor): Follows the eva fix: eva is emphatic, not 'else'."
+ },
+ {
+  "n": "29",
+  "field": "word.gram",
+  "word": "peyam",
+  "old": "n. nom. sg. ger. √pā",
+  "new": "n. nom. sg. gerundive (kṛtya) √pā",
+  "why": "reviewer (minor): 'ger.' usually means the gerund (absolutive, -tvā/-ya); this is a gerundive (kṛtya)."
+ },
+ {
+  "n": "30",
+  "field": "notes",
+  "old": "Translated as printed. \"things\" is supplied for the substantive adjective śītalaiḥ, which has no noun in the line. āsyā \"sitting, a seat\" is the commentators' sense. See text_flags: line b is probably a repetition of 31b.",
+  "new": "Translated as printed. \"things\" is supplied for the substantive adjective śītalaiḥ, which has no noun in the line. āsyā: sitting, a seat. See text_flags: line b is probably a repetition of 31b.",
+  "why": "reviewer (minor): Appeal to commentators not in the input."
+ },
+ {
+  "n": "31",
+  "field": "notes",
+  "old": "candanodakaśītalaiḥ qualifies both vyajanaiḥ and pāṇisaṃsparśaiḥ. āsyā: sitting, a seat (the commentators' sense); some take it as \"a pleasant sitting\".",
+  "new": "candanodakaśītalaiḥ qualifies both vyajanaiḥ and pāṇisaṃsparśaiḥ. āsyā: sitting, a seat.",
+  "why": "reviewer (minor): Appeal to commentators and to unnamed alternative views."
+ },
+ {
+  "n": "34",
+  "field": "english",
+  "old": "From the vapour of the earth, the downpour of the clouds and the sour transformation (pāka) of water, in the rains, when the strength of the fire is diminished, Vāta (pavana) and the others are aggravated.",
+  "new": "From the vapour of the earth, the downpour of the clouds and the sour transformation (pāka) of water, in the rains, when the strength of the digestive fire (agni) is diminished, Vāta (pavana) and the others are aggravated.",
+  "why": "reviewer (minor): Glossary: agni = digestive fire (agni)."
+ },
+ {
+  "n": "35",
+  "field": "notes",
+  "old": "Line b continues into unit 36 (... varjayet). sādhāraṇa: general, common to all the doṣas (not specific to one); the exact sense is explained differently by commentators.",
+  "new": "Line b continues into unit 36 (... varjayet). sādhāraṇa: general, common.",
+  "why": "reviewer (minor): Interpretation and commentary claim not supported by the input."
+ },
+ {
+  "n": "37",
+  "field": "word.gram",
+  "word": "bhoktavyam",
+  "old": "n. nom. sg. ger. √bhuj",
+  "new": "n. nom. sg. gerundive (kṛtya) √bhuj",
+  "why": "reviewer (minor): 'ger.' usually means the gerund (absolutive, -tvā/-ya); this is a gerundive (kṛtya)."
+ },
+ {
+  "n": "38",
+  "field": "english",
+  "old": "By one intent on protecting the fire, old barley, wheat and śāli rice should be eaten with the meats of dry-land animals and with well-prepared soups (yūṣa).",
+  "new": "By one intent on protecting the digestive fire (agni), old barley, wheat and śāli rice should be eaten with the meats of dry-land animals and with well-prepared soups (yūṣa).",
+  "why": "reviewer (minor): Glossary: agni = digestive fire (agni)."
+ },
+ {
+  "n": "38",
+  "field": "word.gram",
+  "word": "bhojyāḥ",
+  "old": "m. nom. pl. ger. √bhuj",
+  "new": "m. nom. pl. gerundive (kṛtya) √bhuj",
+  "why": "reviewer (minor): 'ger.' usually means the gerund (absolutive, -tvā/-ya); this is a gerundive (kṛtya)."
+ },
+ {
+  "n": "39",
+  "field": "word.gloss",
+  "word": "eva",
+  "old": "or else",
+  "new": "just, indeed (emphatic)",
+  "why": "reviewer (minor): eva is emphatic; 'or' is vā."
+ },
+ {
+  "n": "40",
+  "field": "english",
+  "old": "One should be devoted to rubbing (pragharṣa), anointing (udvartana), bathing, perfumes and garlands; wearing light, clean clothes, one should resort in the rainy season to a dwelling free from dampness.",
+  "new": "One should be devoted to friction (pragharṣa), rubbing (udvartana), bathing, perfumes and garlands; wearing light, clean clothes, one should resort in the rainy season to a dwelling free from dampness.",
+  "why": "reviewer (minor): udvartana is 'rubbing (udvartana)' in unit 24; 'anointing' is inconsistent and closer to abhyaṅga."
+ },
+ {
+  "n": "40",
+  "field": "english",
+  "old": "One should be devoted to friction (pragharṣa), rubbing (udvartana), bathing, perfumes and garlands; wearing light, clean clothes, one should resort in the rainy season to a dwelling free from dampness.",
+  "new": "One should be devoted to friction (pragharṣa), rubbing (udvartana), bathing, perfumes and garlands; wearing light, clean clothes, one should resort to a dwelling for the rainy season, free from dampness.",
+  "why": "reviewer (minor): vārṣikam is an adjective with sthānam (n. acc. sg., as gram and notes say), not an adverb of time."
+ },
+ {
+  "n": "40",
+  "field": "hindi",
+  "old": "वह प्रघर्ष, उद्वर्तन, स्नान, गन्ध और माल्य में तत्पर रहे; लघु और शुद्ध वस्त्र पहनकर वर्षा ऋतु में क्लेद-रहित स्थान का सेवन करे।",
+  "new": "वह प्रघर्ष, उद्वर्तन, स्नान, गन्ध और माल्य में तत्पर रहे; लघु और शुद्ध वस्त्र पहनकर वर्षा ऋतु के योग्य क्लेद-रहित स्थान का सेवन करे।",
+  "why": "reviewer (minor): Same: vārṣikam qualifies sthānam."
+ },
+ {
+  "n": "40",
+  "field": "word.gloss",
+  "word": "vārṣikam",
+  "old": "in the rainy season",
+  "new": "for the rainy season, of the rains",
+  "why": "reviewer (minor): Adjective agreeing with sthānam, not 'in the rainy season'."
+ },
+ {
+  "n": "42",
+  "field": "word.gram",
+  "word": "sevyam",
+  "old": "n. nom. sg. ger. √sev",
+  "new": "n. nom. sg. gerundive (kṛtya) √sev",
+  "why": "reviewer (minor): 'ger.' usually means the gerund (absolutive, -tvā/-ya); this is a gerundive (kṛtya)."
+ },
+ {
+  "n": "43",
+  "field": "word.gram",
+  "word": "sevyān",
+  "old": "m. acc. pl. ger. √sev",
+  "new": "m. acc. pl. gerundive (kṛtya) √sev",
+  "why": "reviewer (minor): 'ger.' usually means the gerund (absolutive, -tvā/-ya); this is a gerundive (kṛtya)."
+ },
+ {
+  "n": "44",
+  "field": "notes",
+  "old": "dhārādhara \"bearer of torrents\" = cloud; its passing stands for Śarad. tikta sarpis: ghee that is bitter, usually understood as ghee prepared with bitter drugs.",
+  "new": "dhārādhara \"bearer of torrents\" = cloud; its passing stands for Śarad. tikta sarpis: bitter ghee.",
+  "why": "reviewer (minor): Commentary interpretation not in the input."
+ },
+ {
+  "n": "44",
+  "field": "word.gram",
+  "word": "kāryam",
+  "old": "n. nom. sg. ger. √kṛ",
+  "new": "n. nom. sg. gerundive (kṛtya) √kṛ",
+  "why": "reviewer (minor): 'ger.' usually means the gerund (absolutive, -tvā/-ya); this is a gerundive (kṛtya)."
+ },
+ {
+  "n": "46",
+  "field": "notes",
+  "old": "The sentence continues into unit 47 (haṃsodakam ... ambu). Agastya is the star (Canopus), whose rising in autumn is held to purify water; the text says only \"Agastya\".",
+  "new": "The sentence continues into unit 47 (haṃsodakam ... ambu). agastya: name; the line says only that Agastya made the water free of poison.",
+  "why": "reviewer (minor): Imports outside knowledge about the name (LAYER_NOTES 3: role only if the line states it)."
+ },
+ {
+  "n": "51",
+  "field": "english",
+  "old": "Here is the verse: Whatever is to be used and not to be used by humans in each season, with its reasons, and also suitability (sātmya), has been set out in the Tasyāśitīya.",
+  "new": "Here, the verse: Whatever is to be used and not to be used by humans in each season, with its reasons, and also suitability (sātmya), has been set out in the Tasyāśitīya.",
+  "why": "reviewer (minor): Glossary fixes tatra ślokāḥ = \"Here, the verses:\"; singular should follow the same pattern."
+ },
+ {
+  "n": "51",
+  "field": "word.gram",
+  "word": "sevyam",
+  "old": "n. nom. sg. ger. √sev",
+  "new": "n. nom. sg. gerundive (kṛtya) √sev",
+  "why": "reviewer (minor): 'ger.' usually means the gerund (absolutive, -tvā/-ya); this is a gerundive (kṛtya)."
+ },
+ {
+  "n": "51",
+  "field": "word.gram",
+  "word": "asevyam",
+  "old": "n. nom. sg. ger. √sev",
+  "new": "n. nom. sg. gerundive (kṛtya) √sev",
+  "why": "reviewer (minor): 'ger.' usually means the gerund (absolutive, -tvā/-ya); this is a gerundive (kṛtya)."
+ }
+]
