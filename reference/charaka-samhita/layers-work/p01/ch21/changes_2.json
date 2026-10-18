@@ -1,0 +1,134 @@
+[
+ {
+  "n": "33",
+  "field": "word.gram",
+  "word": "rasāyanānām",
+  "old": "gen. pl.",
+  "new": "m. gen. pl.",
+  "why": "reviewer (minor): Gender missing; rendered as an adjective with yogānām ('rejuvenative ... applications'), so it is m. gen. pl."
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "किन्तु जब मन के थक जाने पर क्लम से युक्त कर्म-स्वभाव वाली (इन्द्रियाँ) अपने विषयों से हट जाती हैं, तब मनुष्य सोता है।",
+  "new": "किन्तु जब मन के थक जाने पर क्लम से युक्त कर्मात्मा अपने विषयों से हट जाते हैं, तब मनुष्य सोता है।",
+  "why": "reviewer (error): Bracketed gloss of a Sanskrit term in the Hindi (glossary: brackets only for an understood word, never a gloss); the referent 'organs' is not in the line (the draft's own note says so), and the feminine agreement follows the inserted word instead of m. karmātmānaḥ. Keep the Sanskrit term, masculine agreement."
+ },
+ {
+  "n": "35",
+  "field": "english",
+  "old": "But when the mind is exhausted, and those whose nature is action (the organs), overcome by exhaustion (klama), withdraw from their objects, then a person sleeps.",
+  "new": "But when the mind is exhausted, and the karmātmans (those whose nature is action), overcome by exhaustion (klama), withdraw from their objects, then a person sleeps.",
+  "why": "reviewer (error): '(the organs)' adds a referent the line does not state; keep the term with its literal gloss, referent in notes only."
+ },
+ {
+  "n": "35",
+  "field": "word.gloss",
+  "word": "karma-ātmānaḥ",
+  "old": "those whose nature is action (the organs)",
+  "new": "those whose nature is action",
+  "why": "reviewer (minor): Gloss carries the unstated referent '(the organs)'."
+ },
+ {
+  "n": "45",
+  "field": "english",
+  "old": "The fat, those who constantly take fat (sneha), the Kapha-predominant, those with Kapha diseases, and those afflicted by dūṣīviṣa (a lingering poison) should never sleep by day.",
+  "new": "The fat, those who constantly take fat (sneha), the Kapha-predominant, those with Kapha diseases, and those afflicted by dūṣīviṣa (vitiating poison) should never sleep by day.",
+  "why": "reviewer (minor): Explanatory gloss not supported by the word and inconsistent with the unit's own note ('literally vitiating poison')."
+ },
+ {
+  "n": "46",
+  "field": "hindi",
+  "old": "हलीमक, सिर का शूल, स्तैमित्य, अङ्गों का भारीपन, अङ्गमर्द, अग्नि का नाश और हृदय का लिप्त-सा होना,",
+  "new": "हलीमक, सिर का शूल, स्तैमित्य, अङ्गों का भारीपन, अङ्गमर्द, अग्नि का नाश और हृदय का प्रलेप,",
+  "why": "reviewer (minor): '-सा' (as if) is an addition; pralepa is stated plainly."
+ },
+ {
+  "n": "49",
+  "field": "word.gram",
+  "word": "hita-ahitam",
+  "old": "n. acc. sg., samāhāra dvandva",
+  "new": "m. acc. sg., dvandva of adjectives, agreeing with svapnam",
+  "why": "reviewer (error): As a neuter samāhāra the word leaves svapnam (m. acc.) without construction, and the English has to invent 'in sleep'. The natural reading is a dvandva of adjectives in m. acc. sg. agreeing with svapnam: 'having understood sleep as wholesome and unwholesome'."
+ },
+ {
+  "n": "49",
+  "field": "word.gloss",
+  "word": "hita-ahitam",
+  "old": "the wholesome and the unwholesome",
+  "new": "wholesome and unwholesome",
+  "why": "reviewer (minor): Follows the gram fix."
+ },
+ {
+  "n": "49",
+  "field": "english",
+  "old": "These arise in men from indulging in unwholesome day-sleep; therefore the wise man, having understood what is wholesome and unwholesome in sleep, should sleep happily.",
+  "new": "These arise in men from indulging in unwholesome day-sleep; therefore the wise man, having understood sleep as wholesome and unwholesome, should sleep happily.",
+  "why": "reviewer (error): 'in sleep' renders an accusative as a locative; follows the gram fix."
+ },
+ {
+  "n": "49",
+  "field": "hindi",
+  "old": "ये अहितकर दिवास्वप्न के सेवन से मनुष्यों में होते हैं; इसलिए बुद्धिमान व्यक्ति निद्रा में हितकर और अहितकर को जानकर सुखपूर्वक सोए।",
+  "new": "ये दिन में अहितकर सोने के सेवन से मनुष्यों में होते हैं; इसलिए बुद्धिमान व्यक्ति हितकर और अहितकर निद्रा को जानकर सुखपूर्वक सोए।",
+  "why": "reviewer (error): Hindi दिवास्वप्न means 'daydream' (the note itself warns divāsvapna is not dreaming); other units use दिन में सोना. Also follows the hitāhitam fix."
+ },
+ {
+  "n": "49",
+  "field": "notes",
+  "old": "End of the list begun in 46; the singular bhavet takes the whole list as subject. hitāhitam may also be read as an adjective agreeing with svapnam ('sleep as wholesome or unwholesome'). divāsvapna is day-sleep, not dreaming.",
+  "new": "End of the list begun in 46; the singular bhavet takes the whole list as subject. hitāhitam is read as an adjective dvandva agreeing with svapnam; a neuter samāhāra 'the wholesome and the unwholesome' is possible but leaves svapnam unconstrued. divāsvapna is day-sleep, not dreaming.",
+  "why": "reviewer (minor): Note gives the reading now adopted as the alternative; reverse it."
+ },
+ {
+  "n": "54",
+  "field": "text_flags.1.suggest",
+  "old": "praṇaṣṭāṃ",
+  "new": "pranaṣṭā",
+  "why": "reviewer (error): The suggestion wrongly retroflexes n (pra-√naś with ṣ keeps dental n, P. 8.4.36) and needlessly adds an anusvāra; the accusative leaves yā without a predicate (the note admits the result is 'loose'). The smaller correction pranaṣṭā (f. nom. sg.) agrees with yā and parses cleanly."
+ },
+ {
+  "n": "54",
+  "field": "text_flags.1.why",
+  "old": "Possible typing error: the participle must agree with nidrām (f. acc. sg.), so praṇaṣṭām; the n after pra- becomes ṇ. The syllable count is the same; the long, heavy syllable fits the metre equally.",
+  "new": "Possible typing error: the printed short a leaves the participle without a case. Read praṇaṣṭā is wrong: pra + naṣ- keeps dental n (naśeḥ ṣāntasya, P. 8.4.36), so the printed n is correct. Lengthening alone gives pranaṣṭā (f. nom. sg.), agreeing with yā: a clean relative clause 'sleep, which is lost through a cause'. Syllable count unchanged.",
+  "why": "reviewer (error): The 'why' asserts the wrong ṇ rule; restate."
+ },
+ {
+  "n": "54",
+  "field": "word.w",
+  "word": "praṇaṣṭām",
+  "old": "praṇaṣṭām",
+  "new": "pranaṣṭā",
+  "why": "reviewer (error): Follows the flag fix."
+ },
+ {
+  "n": "54",
+  "field": "notes",
+  "old": "End of the list begun in 52. 'praṇaṣṭāṃ yā nimittataḥ' is loose: literally 'which (sleep) is lost through a cause'. sukham may also go with kālaḥ only if read as an adverb; taken with veśma.",
+  "new": "End of the list begun in 52. 'pranaṣṭā yā nimittataḥ' is a relative clause: 'which (sleep) is lost through a cause'. sukham may also go with kālaḥ only if read as an adverb; taken with veśma.",
+  "why": "reviewer (minor): Follows the flag fix."
+ },
+ {
+  "n": "57",
+  "field": "english",
+  "old": "These same are to be known as the causes of loss of sleep, and also work, time (kāla), disorder (vikāra), constitution (prakṛti) and Vāta (vāyu).",
+  "new": "These same are to be known as the causes of loss of sleep, and also work, time (kāla), disorder (vikāra), nature (prakṛti) and Vāta (vāyu).",
+  "why": "reviewer (minor): The note says prakṛti is 'left literal', but 'constitution' is the interpretive sense; literal is 'nature'."
+ },
+ {
+  "n": "57",
+  "field": "word.gloss",
+  "word": "prakṛtiḥ",
+  "old": "constitution (prakṛti)",
+  "new": "nature (prakṛti)",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "P4",
+  "field": "english",
+  "old": "Thus, in the Ślokasthāna of the treatise composed by Agniveśa and redacted by Caraka, the twenty-first chapter, named Aṣṭauninditīya.",
+  "new": "Thus, in the Śloka section (Ślokasthāna) of the treatise composed by Agniveśa and redacted by Caraka, the twenty-first chapter, named Aṣṭauninditīya.",
+  "why": "reviewer (minor): Glossary: Ślokasthāna = Śloka section (Ślokasthāna)."
+ }
+]

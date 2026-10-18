@@ -1,0 +1,329 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "one great disease",
+     "problem": "mahāgada is kept Sanskrit (glossary); English drops the term",
+     "fix": "one mahāgada (great disease)",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "one great disease;",
+      "new": "one mahāgada (great disease);"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kṣīra-doṣāḥ",
+     "problem": "'(breast-)' is not in the text; kṣīra = milk",
+     "fix": "defects of milk",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "kṣīra-doṣāḥ",
+      "field": "gloss",
+      "value": "defects of milk"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "āma here is taken as n. (trividham/dvividham agree in n.)",
+     "problem": "trividham qualifies lohitapitta, not āma; only dvividham bears on āma",
+     "fix": "(dvividham agrees in n.)",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "notes",
+      "old": "(trividham/dvividham agree in n.)",
+      "new": "(dvividham agrees in n.)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4-1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "kṣīra here is breast-milk ...",
+     "problem": "interpretation not in the text (draft itself says the text says only kṣīra)",
+     "fix": "kṣīra = milk, as printed.",
+     "severity": "minor",
+     "patch": {
+      "n": "4-1",
+      "op": "replace",
+      "field": "notes",
+      "old": "kṣīra here is breast-milk (the context is the defects of milk as a dhātu-like fluid); the text says only kṣīra.",
+      "new": "kṣīra = milk, as printed."
+     }
+    }
+   ]
+  },
+  {
+   "n": "4-2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4-3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4-4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4-5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4-6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4-7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4-8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'One great disease': attachment to what is not true (atattvābhiniveśa).",
+     "problem": "mahāgada and atattvābhiniveśa are kept Sanskrit with a gloss (glossary)",
+     "fix": "'One mahāgada (great disease)': atattvābhiniveśa (attachment to what is not true).",
+     "severity": "minor",
+     "patch": {
+      "n": "4-8",
+      "op": "replace",
+      "field": "english",
+      "old": "'One great disease': attachment to what is not true (atattvābhiniveśa).",
+      "new": "'One mahāgada (great disease)': atattvābhiniveśa (attachment to what is not true)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "4-9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "yūkā",
+     "problem": "possible flag lacks evidence: yūkā is a correct f. nom. sg. (collective, 'the louse') and fully explains the print; mixed number in a list is grammatical, so nothing is wrong. Drop the flag and keep the printed form in words",
+     "fix": "drop flag; words: yūkā, f. nom. sg.",
+     "severity": "error",
+     "patch": {
+      "n": "4-9",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "kramijātaya",
+        "suggest": "krimijātaya",
+        "why": "krami is not a word; unit 3 has krimijātayaḥ for the same heading"
+       }
+      ]
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "catvāro (prameha lacuna)",
+     "problem": "not a typo with a correction; a 'suggest' that is a description, not text. The count gap belongs in notes only (verified: 10 Kapha names + 8 further names = 18 names printed, summed as 'catvāraḥ vātanimittāḥ', total stated twenty; no Pitta group named)",
+     "fix": "drop flag; note only (see notes fix)",
+     "severity": "error",
+     "patch": {
+      "n": "4-9",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "kramijātaya",
+        "suggest": "krimijātaya",
+        "why": "krami is not a word; unit 3 has krimijātayaḥ for the same heading"
+       }
+      ]
+     }
+    },
+    {
+     "field": "w",
+     "where": "yūkāḥ",
+     "problem": "word should follow the print once the flag is dropped",
+     "fix": "yūkā",
+     "severity": "minor",
+     "patch": {
+      "n": "4-9",
+      "op": "word",
+      "match_w": "yūkāḥ",
+      "field": "w",
+      "value": "yūkā"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "yūkā",
+     "problem": "plural label no longer applies",
+     "fix": "f. nom. sg. (collective)",
+     "severity": "minor",
+     "patch": {
+      "n": "4-9",
+      "op": "word",
+      "match_w": "yūkāḥ",
+      "field": "gram",
+      "value": "f. nom. sg. (collective)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "ikṣu-bālikā-rasa-mehaḥ",
+     "problem": "gloss drops bālikā",
+     "fix": "ikṣubālikārasameha (ikṣubālikā-juice meha)",
+     "severity": "minor",
+     "patch": {
+      "n": "4-9",
+      "op": "word",
+      "match_w": "ikṣu-bālikā-rasa-mehaḥ",
+      "field": "gloss",
+      "value": "ikṣubālikārasameha (ikṣubālikā-juice meha)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "श्लैष्मिकी",
+     "problem": "Hindi silently normalises the printed śleṣmikī to ślaiṣmikī",
+     "fix": "श्लेष्मिकी",
+     "severity": "minor",
+     "patch": {
+      "n": "4-9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "श्लैष्मिकी",
+      "new": "श्लेष्मिकी"
+     }
+    },
+    {
+     "field": "english",
+     "where": "Ślaiṣmika",
+     "problem": "English silently normalises the printed śleṣmikī",
+     "fix": "Śleṣmika",
+     "severity": "minor",
+     "patch": {
+      "n": "4-9",
+      "op": "replace",
+      "field": "english",
+      "old": "Ślaiṣmika",
+      "new": "Śleṣmika"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "prameha passage / 'by arithmetic 10 + 6 + 4 = 20 would fit if ... two Vāta names were missing'",
+     "problem": "speculative reconstruction not shown in the chunk (reads like outside knowledge); refers to a dropped flag",
+     "fix": "replace notes with a plain count",
+     "severity": "error",
+     "patch": {
+      "n": "4-9",
+      "op": "set",
+      "field": "notes",
+      "value": "Worm and prameha names kept in Sanskrit with literal glosses only; no identifications. yūkā (louse) and pipīlikā (literally 'ant') are given their word meanings only; yūkā is kept as printed (f. nom. sg., collective; a plural yūkāḥ would keep its visarga before p). jantumātaraḥ is the nom. pl. of jantumātṛ (f.). Counting: worms 2 + 6 + 7 + 5 = 20, as stated; yonivyāpad 4 + 16 = 20, sixteen names given. Prameha count as printed: ten names summed as daśa śleṣmanimittāḥ, then eight names (kṣāra, kāla, nīla, lohita, mañjiṣṭhā, haridrā, hasti, madhu) summed as catvāro vātanimittāḥ: eighteen names in all against the twenty stated twice, and no Pitta group is named; the translation follows the print. ikṣubālikārasa kept as printed (bālikā; b/v spelling not flagged); bālikā cannot mean 'girl' here, ikṣubālikā is read as one plant name. śleṣmikī is kept as printed (vātikī and paittikī have vṛddhi, this form does not). doṣadūṣyasaṃsargaprakṛtinirdeśaiḥ: the analysis 'designations by the combination of doṣa and dūṣya, and by nature (prakṛti)' is medium; prakṛti could also mean the nature of the woman. The f. nom. pl. avaśiṣṭāḥ agrees with yonivyāpadaḥ (f.)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "without exception",
+     "problem": "added emphasis; eva is the emphatic particle (glossary)",
+     "fix": "indeed",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "english",
+      "old": "All endogenous disorders without exception arise",
+      "new": "All endogenous disorders indeed arise"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वात, पित्त और कफ के बिना अन्यत्र उत्पन्न नहीं होते",
+     "problem": "awkward, near-garbled rendering of na anyatra + abl.; eva not rendered",
+     "fix": "सभी निज विकार वात, पित्त और कफ को छोड़कर अन्य किसी से उत्पन्न ही नहीं होते",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सभी निज विकार वात, पित्त और कफ के बिना अन्यत्र उत्पन्न नहीं होते",
+      "new": "सभी निज विकार वात, पित्त और कफ को छोड़कर अन्य किसी से उत्पन्न ही नहीं होते"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P2",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Reviewed 20 units. 7 text_flags judged: kept 5 (3 mūtrāghātaḥ→mūtrāghātāḥ, 3 dvididha→dvividha, 4-9 krami→krimi, 5 sarvā→sarvaṃ (agreement with divasam; possible kept), 5 atiartante→ativartante); dropped 2 (4-9 yūkā: printed f. sg. is grammatical; 4-9 prameha 'lacuna': no correction, moved to notes). Prameha count verified by hand: 10 + 8 = 18 names printed, summed as 10 Kapha + 'four' Vāta, stated total 20, no Pitta group: note only. 4-4 readings (śvāsa, hikkā with kṣudrā + annajā, tṛṣṇā, chardi, anaśanasthāna, śiroroga lists each give five) accepted; P1 tān eva as predicate ('as just those doṣas') accepted, alternative in notes; mūrcchāyāḥ kept as printed (masculine catvāraḥ in units 3 and 4-5 supports a m. stem, no flag); bālikā kept (b/v rule). Removed a speculative reconstruction (4-9) and an unsupported 'breast-milk' interpretation (3, 4-1). mahāgada/atattvābhiniveśa now kept Sanskrit in English. Silent normalisation of śleṣmikī fixed. No regrouping suggested (unit '4' after 4-1..4-9 is labelling only). No MANUAL items: every fix has a patch."
+}
