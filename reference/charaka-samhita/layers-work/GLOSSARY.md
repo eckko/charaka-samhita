@@ -13,3 +13,8 @@ Draft status: AI drafts, not read by a person.
 - Chapter colophons stay verbless: no "thus ends" in English, no "समाप्त" in Hindi
 - śakra = Śakra (Hindi शक्र, not इन्द्र); Indra's epithets (Śatakratu, Sahasrākṣa, Śacīpati, Balahantṛ, Amaraprabhu) and pitāmaha = the Grandsire (पितामह) stay epithets, name only in notes
 - maharṣi = great sage (महर्षि); devarṣi = divine sage (देवर्षि); tantra = treatise (तन्त्र)
+- sāmānya = sameness (sāmānya); viśeṣa = difference (viśeṣa); dravya = substance; guṇa = quality; samavāya = inherence; sattva (mind) = mind (sattva); ātman = self
+- vāyu/māruta = Vāta (Sanskrit word in brackets); śleṣman = Kapha (śleṣman)
+- loha = metal (लोह), not धातु; mala of metals = dross (mala = waste only for the body)
+- mūlinī = root-drug (मूलिनी); phalinī = fruit-drug (फलिनी); sneha = fat/unctuous (स्नेह); kuṣṭha, udara, gulma kept as Sanskrit; śvāsa = dyspnoea; kāsa = cough; anuvāsana = unctuous enema; nirūha = decoction enema; śirovirecana = head-evacuation
+- Hindi keeps the Sanskrit term (e.g. क्षीर) instead of an explanation "अर्थात् …"; plant identifications in notes only, not in gloss/translation

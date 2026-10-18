@@ -1,0 +1,99 @@
+[
+ {
+  "n": "45",
+  "field": "english",
+  "old": "Sāmānya produces oneness, while viśeṣa produces separateness; sāmānya is indeed likeness of things, and viśeṣa is the opposite.",
+  "new": "Sameness (sāmānya) produces oneness, while difference (viśeṣa) produces separateness; sameness is indeed likeness of things, and difference is the opposite.",
+  "why": "reviewer (minor): Inconsistent with 44, which renders 'Sameness (sāmānya)' and 'difference (viśeṣa)'; here bare Sanskrit is used."
+ },
+ {
+  "n": "49",
+  "field": "hindi",
+  "old": "शब्द आदि अर्थों सहित गुरु आदि, बुद्धि, तथा प्रयत्न तक के पर आदि — ये गुण कहे गए हैं; प्रयत्न-पूर्वक होने वाली चेष्टा कर्म कहलाती है।",
+  "new": "अर्थों सहित गुरु आदि, बुद्धि, तथा प्रयत्न तक के पर आदि — ये गुण कहे गए हैं; प्रयत्न-पूर्वक होने वाली चेष्टा कर्म कहलाती है।",
+  "why": "reviewer (error): 'शब्द आदि' (sound etc.) is not in the verse; the text says only sārthāḥ 'with the arthas'. The list belongs in notes (already there)."
+ },
+ {
+  "n": "50",
+  "field": "word.gram",
+  "word": "bhūmi-ādīnām",
+  "old": "f. gen. pl. bahuvrīhi",
+  "new": "n. gen. pl. bahuvrīhi",
+  "why": "reviewer (minor): Labelled f.; as a bahuvrīhi it refers to the substances (dravya), so n. (the form is the same in all genders)."
+ },
+ {
+  "n": "52",
+  "field": "word.gram",
+  "word": "kartavyasya",
+  "old": "n. gen. sg. ger. √kṛ",
+  "new": "n. gen. sg. gerundive (kṛtya) √kṛ",
+  "why": "reviewer (minor): 'ger.' is ambiguous (reads as gerund/absolutive); kartavya is a gerundive (kṛtya)."
+ },
+ {
+  "n": "60",
+  "field": "english",
+  "old": "Pitta is slightly unctuous, hot, sharp, liquid, sour, flowing (sara) and pungent; it is quickly pacified by substances with opposite qualities.",
+  "new": "Pitta is unctuous (sasneha), hot, sharp, liquid, sour, flowing (sara) and pungent; it is quickly pacified by substances with opposite qualities.",
+  "why": "reviewer (error): 'slightly' is the commentators' reading added to the translation; sasneha means 'with unctuousness'. The note already records the commentary."
+ },
+ {
+  "n": "60",
+  "field": "hindi",
+  "old": "पित्त थोड़ी स्निग्धता वाला, उष्ण, तीक्ष्ण, द्रव, अम्ल, सर और कटु है; वह विपरीत गुणों वाले द्रव्यों से शीघ्र शान्त होता है।",
+  "new": "पित्त स्नेह से युक्त, उष्ण, तीक्ष्ण, द्रव, अम्ल, सर और कटु है; वह विपरीत गुणों वाले द्रव्यों से शीघ्र शान्त होता है।",
+  "why": "reviewer (error): Same addition ('थोड़ी') as in the English."
+ },
+ {
+  "n": "60",
+  "field": "word.gloss",
+  "word": "sa-sneham",
+  "old": "slightly unctuous",
+  "new": "with unctuousness",
+  "why": "reviewer (minor): Gloss gives the commentarial 'slightly unctuous' instead of the literal sense."
+ },
+ {
+  "n": "63",
+  "field": "notes",
+  "old": "guṇakarmāṇi (pl.) with singular vakṣyate is a loose agreement; some editions read guṇakarma ca vakṣyate. Not changed.",
+  "new": "guṇakarmāṇi is the acc. pl. object of vakṣyate (3 sg. fut. middle, the teacher as the implied subject: '(he) will state the qualities and actions'); there is no agreement problem. The English passive is idiomatic.",
+  "why": "reviewer (error): Unsupported variant claim (no witness given; invented-variant risk), and the 'loose agreement' is not real: guṇakarmāṇi can be accusative object of the middle future vakṣyate."
+ },
+ {
+  "n": "63",
+  "field": "word.gram",
+  "word": "guṇa-karmāṇi",
+  "old": "n. nom. pl. dvandva",
+  "new": "n. acc. pl. dvandva",
+  "why": "reviewer (minor): Labelled nom. pl.; it is the object of vakṣyate."
+ },
+ {
+  "n": "63",
+  "field": "word.gram",
+  "word": "vakṣyate",
+  "old": "3 sg. fut. mid. √vac (passive sense)",
+  "new": "3 sg. fut. mid. √vac",
+  "why": "reviewer (minor): '(passive sense)' fits 43 (vedaḥ nom.) but not here, where the object is accusative."
+ },
+ {
+  "n": "69",
+  "field": "hindi",
+  "old": "मल, मूत्र, चर्म, वीर्य, अस्थि, स्नायु, सींग, नख, खुर, केश, रोम और गोरोचन — ये जांगम द्रव्यों से लेकर प्रयोग में लाए जाते हैं।",
+  "new": "मल, मूत्र, चर्म, वीर्य, अस्थि, स्नायु, सींग, नख, खुर, केश, रोम और रोचना — ये जांगम द्रव्यों से लेकर प्रयोग में लाए जाते हैं।",
+  "why": "reviewer (minor): Puts the identification (gorocanā) into the translation; the text says rocanā, and the English keeps 'rocanā'. Identification belongs in notes (it is there)."
+ },
+ {
+  "n": "69",
+  "field": "word.gloss",
+  "word": "rocanāḥ",
+  "old": "gorocanā (ox gallstone)",
+  "new": "rocanā (a yellow animal product)",
+  "why": "reviewer (minor): Gloss states the identification as fact; the glossary rule keeps identifications in notes."
+ },
+ {
+  "n": "70",
+  "field": "hindi",
+  "old": "सोना, मल सहित पाँच धातुएँ, बालू, सुधा अर्थात् चूना, मैनसिल और हरताल, मणियाँ, लवण, गेरू और अञ्जन —",
+  "new": "सोना, मल सहित पाँच लोह, बालू, सुधा अर्थात् चूना, मैनसिल और हरताल, मणियाँ, लवण, गेरू और अञ्जन —",
+  "why": "reviewer (minor): धातु is the glossary's fixed Hindi for the body's dhātus (used in 53 and 67); using it for loha (metals) here invites confusion."
+ }
+]

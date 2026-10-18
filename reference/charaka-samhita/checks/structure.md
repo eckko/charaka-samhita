@@ -1,15 +1,15 @@
 # Structure check: charaka-samhita
 
-## Part 01: 30 chapters (highest 30), 1951 verses, 3867 lines
-- number jumps/repeats (info): 1, e.g. 01.26: 42 -> 44
+## Part 01: 30 chapters (highest 30), 1952 verses, 3883 lines
+- number jumps/repeats (info): 0
 
-## Part 06: 30 chapters (highest 30), 4700 verses, 9664 lines
+## Part 06: 30 chapters (highest 30), 4708 verses, 10495 lines
 - number jumps/repeats (info): 0
 
 ## Part 08: 12 chapters (highest 12), 699 verses, 1430 lines
 - number jumps/repeats (info): 0
 
-## Part 02: 8 chapters (highest 8), 248 verses, 445 lines
+## Part 02: 8 chapters (highest 8), 248 verses, 447 lines
 - number jumps/repeats (info): 2, e.g. 02.07: 6 -> 71, 02.07: 71 -> 7
 
 ## Part 03: 8 chapters (highest 8), 354 verses, 812 lines
@@ -28,4 +28,4 @@
 - in toc.md but no text: 0 []
 - in text/ but not in toc.md: 0 []
 
-## Totals: 8 parts, 120 chapters, 9133 verse numbers
+## Totals: 8 parts, 120 chapters, 9142 verse numbers

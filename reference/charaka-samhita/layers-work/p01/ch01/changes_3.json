@@ -1,0 +1,97 @@
+[
+ {
+  "n": "73",
+  "field": "hindi",
+  "old": "जड़, छाल, सार, निर्यास, नाल, स्वरस, कोमल पत्ते, क्षार, दूध, फल, फूल, भस्म, तेल, काँटे,",
+  "new": "जड़, छाल, सार, निर्यास, नाल, स्वरस, कोमल पत्ते, क्षार, क्षीर, फल, फूल, भस्म, तेल, काँटे,",
+  "why": "reviewer (minor): English renders kṣīra as 'milky latex' (plant sap, as the note says) but Hindi has plain दूध (milk); the two layers disagree."
+ },
+ {
+  "n": "74",
+  "field": "hindi",
+  "old": "पत्ते, कोंपलें, कन्द और अंकुर — यह औद्भिद अर्थात् वनस्पतिजन्य द्रव्यों का गण है। मूलिनी सोलह और फलिनी उन्नीस कही गई हैं।",
+  "new": "पत्ते, कोंपलें, कन्द और अंकुर — यह औद्भिद गण है। मूलिनी सोलह और फलिनी उन्नीस कही गई हैं।",
+  "why": "reviewer (minor): Explanatory gloss 'अर्थात् वनस्पतिजन्य द्रव्यों' added inside the Hindi translation; the text says only audbhido gaṇaḥ."
+ },
+ {
+  "n": "76",
+  "field": "english",
+  "old": "And six trees for purification (śodhana) have been pointed out by Punarvasu. He who knows how to apply these in disorders is a true knower of the Veda.",
+  "new": "And six trees for purification (śodhana) have been pointed out by Punarvasu. He who knows how to apply these in disorders is a knower of the Veda.",
+  "why": "reviewer (error): 'true' is added emphasis; the text has only sa vedavit."
+ },
+ {
+  "n": "76",
+  "field": "hindi",
+  "old": "और शोधन के लिए छह वृक्ष पुनर्वसु ने बताए हैं। जो इन्हें रोगों में ठीक प्रकार से प्रयोग करना जानता है, वही वेद का ज्ञाता है।",
+  "new": "और शोधन के लिए छह वृक्ष पुनर्वसु ने बताए हैं। जो इन्हें रोगों में प्रयोग करना जानता है, वह वेद का ज्ञाता है।",
+  "why": "reviewer (error): 'ठीक प्रकार से' (properly) is not in the text, and 'वही' adds emphasis not in sa vedavit."
+ },
+ {
+  "n": "77",
+  "field": "word.gloss",
+  "word": "śyāmā",
+  "old": "śyāmā (dark trivṛt)",
+  "new": "śyāmā (a plant)",
+  "why": "reviewer (minor): Gloss carries an identification ('dark trivṛt') that the note itself tags only probable; glossary rule: identifications go in notes only."
+ },
+ {
+  "n": "81",
+  "field": "word.gloss",
+  "word": "klītakam",
+  "old": "klītaka (liquorice)",
+  "new": "klītaka (a plant)",
+  "why": "reviewer (minor): Gloss 'klītaka (liquorice)' states as fact an identification the note tags probable; identifications belong in notes only."
+ },
+ {
+  "n": "85",
+  "field": "hindi",
+  "old": "प्रत्यक्पुष्पा नाक से दोष निकालने में विहित है। जो दस शेष हैं, वे विरेचन में बताए गए हैं।",
+  "new": "प्रत्यक्पुष्पा नाक के मार्ग से प्रच्छर्दन में विहित है। जो दस शेष हैं, वे विरेचन में बताए गए हैं।",
+  "why": "reviewer (error): 'दोष' is supplied interpretation (the note puts '(doṣas)' in brackets); the English correctly leaves it out. Hindi adds an object not in the text."
+ },
+ {
+  "n": "86",
+  "field": "english",
+  "old": "Thus the nineteen fruits have been described by name and action. Ghee, oil, muscle fat and marrow: fat (sneha) is taught as fourfold,",
+  "new": "The nineteen fruits have been described by name and action. Ghee, oil, muscle fat and marrow: fat (sneha) is taught as fourfold,",
+  "why": "reviewer (minor): No iti/evam in 86a; 'Thus' (and Hindi इस प्रकार) is an added connective."
+ },
+ {
+  "n": "86",
+  "field": "hindi",
+  "old": "इस प्रकार उन्नीस फल नाम और कर्म से बताए गए। घी, तेल, वसा और मज्जा — स्नेह चार प्रकार का बताया गया है,",
+  "new": "उन्नीस फल नाम और कर्म से बताए गए। घी, तेल, वसा और मज्जा — स्नेह चार प्रकार का बताया गया है,",
+  "why": "reviewer (minor): Same added connective as in the English."
+ },
+ {
+  "n": "100",
+  "field": "english",
+  "old": "Sheep urine is slightly bitter, unctuous and does not aggravate Pitta. Goat urine is astringent and sweet, wholesome, and destroys the doṣas.",
+  "new": "Sheep urine is slightly bitter, unctuous and not hostile to Pitta. Goat urine is astringent and sweet, wholesome, and destroys the doṣas.",
+  "why": "reviewer (minor): Interpretive rendering of pittāvirodhi; Hindi (and the note) give the literal 'not hostile to Pitta'. Keep the layers consistent and literal."
+ },
+ {
+  "n": "102",
+  "field": "word.gram",
+  "word": "kuṣṭhinām",
+  "old": "dvandva, m. gen. pl.",
+  "new": "possessive -in on dvandva krimi-kuṣṭha, m. gen. pl.",
+  "why": "reviewer (minor): krimikuṣṭhin is the possessive -in derivative of the dvandva krimi-kuṣṭha ('having worms and kuṣṭha'), not itself a dvandva."
+ },
+ {
+  "n": "103",
+  "field": "word.gram",
+  "word": "arśasām",
+  "old": "dvandva, gen. pl.",
+  "new": "dvandva, n. gen. pl.",
+  "why": "reviewer (minor): Gender missing: arśas is neuter, so the dvandva final is n. gen. pl."
+ },
+ {
+  "n": "108",
+  "field": "hindi",
+  "old": "जीवनीय, थकान दूर करने वाला, श्वास और कास को मिटाने वाला है; यह रक्तपित्त को नष्ट करता है और टूटे या आहत अंग को जोड़ने वाला है,",
+  "new": "जीवनीय, थकान दूर करने वाला, श्वास और कास को मिटाने वाला है; यह रक्तपित्त को नष्ट करता है और आहत को जोड़ने वाला है,",
+  "why": "reviewer (error): 'टूटे या' (broken) and 'अंग' (limb) are added; text has only sandhānaṃ vihatasya ('uniter of the injured'), as the English renders."
+ }
+]
