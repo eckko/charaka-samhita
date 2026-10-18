@@ -1,0 +1,324 @@
+[
+ {
+  "n": "162",
+  "field": "notes",
+  "old": "vārtāka = brinjal (standard; plain common name only). tiktaka = tikta 'bitter' with the suffix -ka.",
+  "new": "vārtāka = brinjal (standard). tiktaka = tikta 'bitter' with the suffix -ka.",
+  "why": "reviewer (minor): POLICY: the common name is kept (glossary allows plain common names that help the verse: garlic, radish, grape etc.), but the bracketed instruction wording is drafting meta-text, not a note for the reader."
+ },
+ {
+  "n": "163",
+  "field": "notes",
+  "old": "SENTENCE: the neuter plural adjectives of line b have no noun inside this unit; they cannot describe the singular ākṣikīphalam, and the subject is supplied as '(they)'. They may describe the fruits named in 164 (phalāni), but 164 has its own predicates (and 'vātalāni' there differs from 'pittaśleṣmaharāṇi' here), or a fruit name may be lost; left open. pāka is taken in the sense of vipāka.",
+  "new": "SENTENCE: the neuter plural adjectives of line b have no noun inside this unit and cannot describe the singular ākṣikīphalam; the subject is supplied as '(they)'. The nearest noun is phalāni in 164a (the fruits of aśvattha, udumbara, plakṣa and nyagrodha); the predicates of 164b (astringent, sweet, sour, Vāta-increasing, heavy) do not conflict with these (sweet, sour in pāka, removing Pitta and Kapha), so line b most probably describes those fruits. pāka is taken in the sense of vipāka.",
+  "why": "reviewer (minor): The note argues that 164 'has its own predicates' and that 'vātalāni there differs from pittaśleṣmaharāṇi here'; increasing Vāta and removing Pitta-Kapha are not in conflict, and 164a phalāni (n. pl.) is the only matching noun in the chunk, so the evidence inside the chunk favours that link (still not certain)."
+ },
+ {
+  "n": "164",
+  "field": "notes",
+  "old": "Tree names kept in Sanskrit. See 163 for the subjectless plural of 163b.",
+  "new": "Tree names kept in Sanskrit. 163b (n. pl., no noun of its own) most probably also describes these fruits; see 163.",
+  "why": "reviewer (minor): Point the cross-reference at the probable link."
+ },
+ {
+  "n": "166",
+  "field": "hindi",
+  "old": "अब हरितवर्ग — आर्द्रक, विश्वभेषज, रोचन, दीपन और वृष्य है; वात, श्लेष्मा और विबन्ध में उसका रस बताया जाता है।",
+  "new": "अब हरितवर्ग — विश्वभेषज आर्द्रक रुचिकारक, दीपन और वृष्य है; वात, श्लेष्मा और विबन्ध में उसका रस बताया जाता है।",
+  "why": "reviewer (error): Hindi 'आर्द्रक, विश्वभेषज, रोचन, दीपन और वृष्य है' reads as a list of five items, against the English and the note (viśvabheṣaja in apposition to ārdraka, singular adjectives); and rocana = रुचिकारक (glossary)."
+ },
+ {
+  "n": "166",
+  "field": "english",
+  "old": "Now the group of greens (harita): ārdraka, the universal medicine (viśvabheṣaja), is appetizing, stimulates digestion and is aphrodisiac; its juice is advised in Vāta, Kapha (śleṣman) and constipation (vibandha).",
+  "new": "Now the group of greens (harita): ārdraka, the universal medicine (viśvabheṣaja), is appetizing (rocana), stimulates digestion and is aphrodisiac; its juice is advised in Vāta, Kapha (śleṣman) and constipation (vibandha).",
+  "why": "reviewer (minor): Glossary: rocana = appetizing (rocana); first use in the chunk carries the Sanskrit."
+ },
+ {
+  "n": "167",
+  "field": "hindi",
+  "old": "जम्बीर रोचन, दीपन, तीक्ष्ण, सुगन्धित, मुख का शोधन करने वाला, कफ और वात का नाश करने वाला, कृमियों का नाश करने वाला और भोजन को पचाने वाला है।",
+  "new": "जम्बीर रुचिकारक, दीपन, तीक्ष्ण, सुगन्धित, मुख का शोधन करने वाला, कफ और वात का नाश करने वाला, कृमियों का नाश करने वाला और भोजन को पचाने वाला है।",
+  "why": "reviewer (minor): Glossary (review Sū 27 ch2): rocana = appetizing (rocana), Hindi रुचिकारक (as in ch27 chunk2)."
+ },
+ {
+  "n": "168",
+  "field": "notes",
+  "old": "mūlaka = radish (standard; plain common name only). tridoṣa is taken as 'causing (aggravation of) the three doṣas'. The printed commas group mārutāpaham with snigdhasiddham. snigdhasiddha may mean 'cooked with fat'; the medium is not named.",
+  "new": "mūlaka = radish (standard). tridoṣa is taken as 'causing (aggravation of) the three doṣas'. The printed commas group mārutāpaham with snigdhasiddham. snigdhasiddha may mean 'cooked with fat'; the medium is not named.",
+  "why": "reviewer (minor): POLICY: the common name is kept (glossary allows plain common names that help the verse: garlic, radish, grape etc.), but the bracketed instruction wording is drafting meta-text, not a note for the reader."
+ },
+ {
+  "n": "170",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "hṛdyānyāmvādanīyāni",
+    "suggest": "hṛdyānyāsvādanīyāni",
+    "why": "there is no Sanskrit stem mvād; ā-√svād gives āsvādanīya 'palatable', which fits the neuter plural with hṛdyāni (म्वा for स्वा is a typing slip); syllable count is the same"
+   }
+  ],
+  "new": [
+   {
+    "src": "hṛdyānyāmvādanīyāni",
+    "suggest": "hṛdyānyāsvādanīyāni",
+    "why": "grammar: there is no stem mvād; ā-√svād gives āsvādanīya 'palatable', n. nom. pl. with hṛdyāni (म्वा for स्वा, a typing slip). Metre does not object: 8 syllables either way, nyā heavy by its long vowel, mvā/svā heavy; pāda c syllables 5-7 da-nī-yā = ⏑ – – (pathyā) unchanged."
+   }
+  ],
+  "why": "reviewer (minor): Flag accepted (grammar). The 'why' only said 'syllable count is the same'; glossary rule (Sū 24 ch1/Sū 23) wants syllable weights when metre is cited."
+ },
+ {
+  "n": "173",
+  "field": "notes",
+  "old": "dhānyaka = coriander (standard; plain common name only); ajagandhā and sumukha kept in Sanskrit.",
+  "new": "dhānyaka = coriander (standard); ajagandhā and sumukha kept in Sanskrit.",
+  "why": "reviewer (minor): POLICY: the common name is kept (glossary allows plain common names that help the verse: garlic, radish, grape etc.), but the bracketed instruction wording is drafting meta-text, not a note for the reader."
+ },
+ {
+  "n": "173",
+  "field": "hindi",
+  "old": "धान्यक, अजगन्धा और सुमुख — ये रोचन, सुगन्धित और अधिक कटु नहीं हैं, तथा दोषों को उत्क्लिष्ट करते हैं।",
+  "new": "धान्यक, अजगन्धा और सुमुख — ये रुचिकारक, सुगन्धित और अधिक कटु नहीं हैं, तथा दोषों को उत्क्लिष्ट करते हैं।",
+  "why": "reviewer (minor): Glossary (review Sū 27 ch2): rocana = appetizing (rocana), Hindi रुचिकारक (as in ch27 chunk2)."
+ },
+ {
+  "n": "175",
+  "field": "notes",
+  "old": "palāṇḍu = onion (standard; plain common name only).",
+  "new": "palāṇḍu = onion (standard).",
+  "why": "reviewer (minor): POLICY: the common name is kept (glossary allows plain common names that help the verse: garlic, radish, grape etc.), but the bracketed instruction wording is drafting meta-text, not a note for the reader."
+ },
+ {
+  "n": "175",
+  "field": "hindi",
+  "old": "पलाण्डु श्लेष्मा बढ़ाने वाला और मारुत का नाश करने वाला है, और पित्त को दूर करने वाला नहीं है; वह आहार में प्रयोग के योग्य, बलकारक, गुरु, वृष्य और रोचन है।",
+  "new": "पलाण्डु श्लेष्मा बढ़ाने वाला और मारुत का नाश करने वाला है, और पित्त को दूर करने वाला नहीं है; वह आहार में प्रयोग के योग्य, बलकारक, गुरु, वृष्य और रुचिकारक है।",
+  "why": "reviewer (minor): Glossary (review Sū 27 ch2): rocana = appetizing (rocana), Hindi रुचिकारक (as in ch27 chunk2)."
+ },
+ {
+  "n": "176",
+  "field": "notes",
+  "old": "laśuna = garlic (standard; plain common name only). kuṣṭha, kilāsa and gulma kept in Sanskrit, no identifications.",
+  "new": "laśuna = garlic (standard). kuṣṭha, kilāsa and gulma kept in Sanskrit, no identifications.",
+  "why": "reviewer (minor): POLICY: the common name is kept (glossary allows plain common names that help the verse: garlic, radish, grape etc.), but the bracketed instruction wording is drafting meta-text, not a note for the reader."
+ },
+ {
+  "n": "178",
+  "field": "notes",
+  "old": "The heading 'atha madyavargaḥ' is printed on the verse line but is outside the metre. madya (alcoholic drink) is kept as the Sanskrit word. viśeṣa is taken as 'particular features' (viśeṣa as a category is not meant here).",
+  "new": "The heading 'atha madyavargaḥ' is printed on the verse line but is outside the metre. madya (alcoholic drink) is kept as the Sanskrit word. viśeṣa is taken as 'particular features' (viśeṣa as a category is not meant here). sarvaṃ sāmānyataḥ may also close the statement ('all this in general'), with 'its particulars will be taught' following.",
+  "why": "reviewer (minor): Alternative construal not mentioned."
+ },
+ {
+  "n": "180",
+  "field": "word.gram",
+  "word": "hikkā-śvāsa-pratiśyāya-kāsa-varcas-graha-arucau",
+  "old": "f. loc. sg., dvandva",
+  "new": "f. loc. sg., samāhāra dvandva (feminine of the last member aruci, as printed)",
+  "why": "reviewer (minor): Glossary: singular dvandvas are labelled samāhāra; this one keeps the feminine of aruci (loc. -au) instead of the neuter (cf. the ahorātra exception). Label it samāhāra with the printed gender rather than calling it 'not a samāhāra'."
+ },
+ {
+  "n": "180",
+  "field": "notes",
+  "old": "The first compound ends in the loc. sg. of aruci (f.), a dvandva that takes the singular form of its last member, not a neuter samāhāra form; kept as printed. madirā kept in Sanskrit.",
+  "new": "The first compound ends in the loc. sg. of aruci (f.), a samāhāra dvandva that keeps the feminine gender of its last member (aruci) instead of the usual neuter; kept as printed, no flag. madirā kept in Sanskrit.",
+  "why": "reviewer (minor): Same point as the gram fix."
+ },
+ {
+  "n": "182",
+  "field": "hindi",
+  "old": "रोचन और दीपन अरिष्ट शोष, अर्श, ग्रहणीदोष, पाण्डुरोग, अरुचि और ज्वर का तथा कफ से उत्पन्न रोगों का नाश करता है।",
+  "new": "रुचिकारक और दीपन अरिष्ट शोष, अर्श, ग्रहणीदोष, पाण्डुरोग, अरुचि और ज्वर का तथा कफ से उत्पन्न रोगों का नाश करता है।",
+  "why": "reviewer (minor): Glossary (review Sū 27 ch2): rocana = appetizing (rocana), Hindi रुचिकारक (as in ch27 chunk2)."
+ },
+ {
+  "n": "183",
+  "field": "word.gloss",
+  "word": "jaraṇīyaḥ",
+  "old": "easily digested",
+  "new": "promoting digestion",
+  "why": "reviewer (minor): jaraṇīya: -anīya forms in Caraka's drug lists carry the active sense (jīvanīya vitalizing, bṛṃhaṇīya nourishing, lekhanīya reducing: glossary Sū 4), and in 191 it is paired with dīpana; render 'promoting digestion (jaraṇīya)', 'easily digested' only in notes. Same in 183, 185, 191."
+ },
+ {
+  "n": "183",
+  "field": "english",
+  "old": "Śārkara is pleasing to the mouth, gives a pleasant mada (intoxication), is fragrant and removes bladder (basti) disease; matured, it is easily digested, and it is pleasing to the heart and good for the complexion.",
+  "new": "Śārkara is pleasing to the mouth, gives a pleasant mada (intoxication), is fragrant and removes bladder (basti) disease; when matured (pariṇata), it promotes digestion (jaraṇīya), and it is pleasing to the heart and good for the complexion.",
+  "why": "reviewer (minor): jaraṇīya: -anīya forms in Caraka's drug lists carry the active sense (jīvanīya vitalizing, bṛṃhaṇīya nourishing, lekhanīya reducing: glossary Sū 4), and in 191 it is paired with dīpana; render 'promoting digestion (jaraṇīya)', 'easily digested' only in notes. Same in 183, 185, 191."
+ },
+ {
+  "n": "183",
+  "field": "hindi",
+  "old": "शार्कर मुख को प्रिय, सुखद मद वाला, सुगन्धित, बस्तिरोग को दूर करने वाला है; पका हुआ (होने पर) वह सरलता से पचने वाला, हृद्य और वर्ण्य है।",
+  "new": "शार्कर मुख को प्रिय, सुखद मद वाला, सुगन्धित, बस्तिरोग को दूर करने वाला है; पका हुआ (होने पर) वह पाचन कराने वाला, हृद्य और वर्ण्य है।",
+  "why": "reviewer (minor): jaraṇīya: -anīya forms in Caraka's drug lists carry the active sense (jīvanīya vitalizing, bṛṃhaṇīya nourishing, lekhanīya reducing: glossary Sū 4), and in 191 it is paired with dīpana; render 'promoting digestion (jaraṇīya)', 'easily digested' only in notes. Same in 183, 185, 191."
+ },
+ {
+  "n": "183",
+  "field": "notes",
+  "old": "śārkara is a derived word ('of śarkarā'); kept in Sanskrit. mada kept as the Sanskrit word. jaraṇīya (gerundive of √jṝ) is taken as 'to be digested, easily digested'; 'promoting digestion' is possible. pariṇata 'matured' is taken as 'when aged'.",
+  "new": "śārkara is a derived word ('of śarkarā'); kept in Sanskrit. mada kept as the Sanskrit word. jaraṇīya (-anīya of √jṝ) is taken in the active sense 'promoting digestion', like the -anīya group names (jīvanīya, bṛṃhaṇīya) and beside dīpana in 191; 'easily digested' is possible. pariṇata 'matured' is taken as 'when aged'.",
+  "why": "reviewer (minor): jaraṇīya: -anīya forms in Caraka's drug lists carry the active sense (jīvanīya vitalizing, bṛṃhaṇīya nourishing, lekhanīya reducing: glossary Sū 4), and in 191 it is paired with dīpana; render 'promoting digestion (jaraṇīya)', 'easily digested' only in notes. Same in 183, 185, 191."
+ },
+ {
+  "n": "184",
+  "field": "hindi",
+  "old": "पक्वरस रोचन, दीपन, हृद्य, शोष, शोफ और अर्श में हितकर, स्नेह और श्लेष्मा के विकारों का नाश करने वाला और वर्ण्य माना गया है।",
+  "new": "पक्वरस रुचिकारक, दीपन, हृद्य, शोष, शोफ और अर्श में हितकर, स्नेह और श्लेष्मा के विकारों का नाश करने वाला और वर्ण्य माना गया है।",
+  "why": "reviewer (minor): Glossary (review Sū 27 ch2): rocana = appetizing (rocana), Hindi रुचिकारक (as in ch27 chunk2)."
+ },
+ {
+  "n": "185",
+  "field": "word.gloss",
+  "word": "jaraṇīyaḥ",
+  "old": "easily digested",
+  "new": "promoting digestion",
+  "why": "reviewer (minor): jaraṇīya: -anīya forms in Caraka's drug lists carry the active sense (jīvanīya vitalizing, bṛṃhaṇīya nourishing, lekhanīya reducing: glossary Sū 4), and in 191 it is paired with dīpana; render 'promoting digestion (jaraṇīya)', 'easily digested' only in notes. Same in 183, 185, 191."
+ },
+ {
+  "n": "185",
+  "field": "english",
+  "old": "Śītarasika is easily digested, destroys constipation (vibandha), clears the voice and complexion, is reducing (lekhana), and is wholesome for swelling, udara and arśas.",
+  "new": "Śītarasika promotes digestion (jaraṇīya), destroys constipation (vibandha), clears the voice and complexion, is reducing (lekhana), and is wholesome for swelling, udara and arśas.",
+  "why": "reviewer (minor): jaraṇīya: -anīya forms in Caraka's drug lists carry the active sense (jīvanīya vitalizing, bṛṃhaṇīya nourishing, lekhanīya reducing: glossary Sū 4), and in 191 it is paired with dīpana; render 'promoting digestion (jaraṇīya)', 'easily digested' only in notes. Same in 183, 185, 191."
+ },
+ {
+  "n": "185",
+  "field": "hindi",
+  "old": "शीतरसिक सरलता से पचने वाला, विबन्ध का नाश करने वाला, स्वर और वर्ण का शोधन करने वाला, लेखन, और शोफ, उदर तथा अर्श में हितकर है।",
+  "new": "शीतरसिक पाचन कराने वाला, विबन्ध का नाश करने वाला, स्वर और वर्ण का शोधन करने वाला, लेखन, और शोफ, उदर तथा अर्श में हितकर है।",
+  "why": "reviewer (minor): jaraṇīya: -anīya forms in Caraka's drug lists carry the active sense (jīvanīya vitalizing, bṛṃhaṇīya nourishing, lekhanīya reducing: glossary Sū 4), and in 191 it is paired with dīpana; render 'promoting digestion (jaraṇīya)', 'easily digested' only in notes. Same in 183, 185, 191."
+ },
+ {
+  "n": "186",
+  "field": "hindi",
+  "old": "गौड से मल और वायु निकलते और टूटते हैं, वह तर्पण और दीपन है। आक्षिकी पाण्डुरोग और व्रण में हितकर तथा दीपनी मानी गई है।",
+  "new": "गौड मल और वायु को निकालने तथा भेदने वाला, तर्पण और दीपन है। आक्षिकी पाण्डुरोग और व्रण में हितकर तथा दीपनी मानी गई है।",
+  "why": "reviewer (minor): Hindi 'गौड से मल और वायु निकलते और टूटते हैं' is awkward (वायु टूटते) and changes the bahuvrīhi into a separate clause; render as an attribute, keeping the pairing open as the English does."
+ },
+ {
+  "n": "186",
+  "field": "notes",
+  "old": "gauḍa ('of guḍa') and ākṣikī are madyas, kept in Sanskrit; ākṣikī here (f., a madya) is distinct in use from the ākṣikī fruit of 163. Which of sṛṣṭa/bhinna goes with faeces and which with wind is not stated; both are kept together. vāta released from the body = wind.",
+  "new": "gauḍa ('of guḍa') and ākṣikī are madyas, kept in Sanskrit; ākṣikī here stands alone inside the madya group (178-195) and is taken as a madya (f., with dīpanī and matā); whether it is made from the ākṣikī fruit of 163 is not stated. Which of sṛṣṭa/bhinna goes with faeces and which with wind is not stated; both are kept together. vāta released from the body = wind.",
+  "why": "reviewer (minor): 'distinct in use from the ākṣikī fruit' claims more than the text says; state only the in-chunk evidence."
+ },
+ {
+  "n": "188",
+  "field": "english",
+  "old": "The āsava of grape (mṛdvīkā) and sugarcane juice, fermented with dhātakī, is pleasing to the heart, dry, appetizing and stimulating digestion; like mādhvīka, it is not very hot.",
+  "new": "The āsava of mṛdvīkā and sugarcane juice, fermented with dhātakī, is pleasing to the heart, dry, appetizing and stimulating digestion; it is like mādhvīka, and not very hot.",
+  "why": "reviewer (error): (1) 'grape' in the translation: glossary keeps identifications in notes only (mṛdvīkā = grape stays in the note). (2) 'mādhvīkavan na cātyuṣṇo': na ca 'and not' makes mādhvīkavat its own predicate ('like mādhvīka, and not very hot'); the draft 'like mādhvīka, it is not very hot' binds the two and implies mādhvīka is not very hot."
+ },
+ {
+  "n": "188",
+  "field": "hindi",
+  "old": "धातकी से अभिषुत, मृद्वीका और ईख के रस का आसव हृद्य, रूक्ष, रोचन और दीपन है; माध्वीक के समान (वह) अधिक उष्ण नहीं है।",
+  "new": "धातकी से अभिषुत, मृद्वीका और ईख के रस का आसव हृद्य, रूक्ष, रुचिकारक और दीपन है; (वह) माध्वीक के समान है और अधिक उष्ण नहीं है।",
+  "why": "reviewer (minor): Same as the English (na ca); rocana = रुचिकारक."
+ },
+ {
+  "n": "188",
+  "field": "word.gloss",
+  "word": "mṛdvīkā-ikṣu-rasa-āsavaḥ",
+  "old": "āsava of grape and sugarcane juice",
+  "new": "āsava of mṛdvīkā and sugarcane juice",
+  "why": "reviewer (minor): Identification out of the gloss (notes only)."
+ },
+ {
+  "n": "188",
+  "field": "notes",
+  "old": "SENTENCE: line a has no noun of its own and is taken with the subject of line b (mṛdvīkekṣurasāsavaḥ); it could also be a separate item ('that fermented with dhātakī'). 'Like mādhvīka' may go with the whole description or only with 'not very hot'. mṛdvīkā = grape (standard); dhātakī and mādhvīka kept in Sanskrit. abhiṣuta (abhi-√su 'pressed out, fermented') taken as 'fermented'.",
+  "new": "SENTENCE: line a has no noun of its own and is taken with the subject of line b (mṛdvīkekṣurasāsavaḥ); it could also be a separate item ('that fermented with dhātakī'). mādhvīkavat is taken as its own predicate, joined by 'na ca' to 'not very hot'. mṛdvīkā = grape (standard); dhātakī and mādhvīka kept in Sanskrit. abhiṣuta (abhi-√su 'pressed out, fermented') taken as 'fermented'.",
+  "why": "reviewer (minor): Note follows the corrected English."
+ },
+ {
+  "n": "189",
+  "field": "hindi",
+  "old": "मधु रोचन, दीपन, हृद्य, बलकारक और पित्त का अविरोधी है, तथा विबन्ध का नाश करने वाला, कफ का नाश करने वाला, लघु और अल्प मारुत (करने) वाला है।",
+  "new": "मधु रुचिकारक, दीपन, हृद्य, बलकारक और पित्त का अविरोधी है, तथा विबन्ध का नाश करने वाला, कफ का नाश करने वाला, लघु और अल्प मारुत (करने) वाला है।",
+  "why": "reviewer (minor): Glossary (review Sū 27 ch2): rocana = appetizing (rocana), Hindi रुचिकारक (as in ch27 chunk2)."
+ },
+ {
+  "n": "189",
+  "field": "notes",
+  "old": "In the madya group madhu is an alcoholic drink named madhu, not plain honey; kept in Sanskrit. alpamāruta (bahuvrīhi 'having little māruta') is taken as 'causing little Vāta'.",
+  "new": "madhu stands inside the madya group (178-195), so it is taken as a drink named madhu, not honey; kept in Sanskrit. alpamāruta (bahuvrīhi 'having little māruta') is taken as 'causing little Vāta'.",
+  "why": "reviewer (minor): Judged right to keep madhu Sanskrit and not honey; the note should state its in-chunk ground (position between 178 and 195) as a reading, not as fact."
+ },
+ {
+  "n": "190",
+  "field": "word.gram",
+  "word": "vāta-pittalā",
+  "old": "f. nom. sg.",
+  "new": "f. nom. sg., -la derivative of the dvandva vāta-pitta",
+  "why": "reviewer (minor): vātapittala is vāta-pitta + the suffix -la (as vātala, śleṣmala), not a compound of vāta + pittala; gram had no structure."
+ },
+ {
+  "n": "191",
+  "field": "word.gloss",
+  "word": "jaraṇīyam",
+  "old": "easily digested",
+  "new": "promoting digestion",
+  "why": "reviewer (minor): jaraṇīya: -anīya forms in Caraka's drug lists carry the active sense (jīvanīya vitalizing, bṛṃhaṇīya nourishing, lekhanīya reducing: glossary Sū 4), and in 191 it is paired with dīpana; render 'promoting digestion (jaraṇīya)', 'easily digested' only in notes. Same in 183, 185, 191."
+ },
+ {
+  "n": "191",
+  "field": "english",
+  "old": "Sauvīraka and tuṣodaka stimulate digestion and are easily digested, remove diseases of the heart, pāṇḍu and worms (krimi), are wholesome in grahaṇī and arśas, and are breaking (purgative).",
+  "new": "Sauvīraka and tuṣodaka stimulate digestion and promote digestion (jaraṇīya), remove diseases of the heart, pāṇḍu and worms (krimi), are wholesome in grahaṇī and arśas, and are breaking (purgative).",
+  "why": "reviewer (minor): jaraṇīya: -anīya forms in Caraka's drug lists carry the active sense (jīvanīya vitalizing, bṛṃhaṇīya nourishing, lekhanīya reducing: glossary Sū 4), and in 191 it is paired with dīpana; render 'promoting digestion (jaraṇīya)', 'easily digested' only in notes. Same in 183, 185, 191."
+ },
+ {
+  "n": "191",
+  "field": "hindi",
+  "old": "सौवीरक और तुषोदक दीपन और सरलता से पचने वाले, हृदय, पाण्डु और कृमि के रोगों को दूर करने वाले, ग्रहणी और अर्श में हितकर और भेदी हैं।",
+  "new": "सौवीरक और तुषोदक दीपन और पाचन कराने वाले, हृदय, पाण्डु और कृमि के रोगों को दूर करने वाले, ग्रहणी और अर्श में हितकर और भेदी हैं।",
+  "why": "reviewer (minor): jaraṇīya: -anīya forms in Caraka's drug lists carry the active sense (jīvanīya vitalizing, bṛṃhaṇīya nourishing, lekhanīya reducing: glossary Sū 4), and in 191 it is paired with dīpana; render 'promoting digestion (jaraṇīya)', 'easily digested' only in notes. Same in 183, 185, 191."
+ },
+ {
+  "n": "193",
+  "field": "hindi",
+  "old": "प्रायः नया मद्य गुरु और दोषों को प्रेरित करने वाला है; पुराना (मद्य) स्रोतों का शोधन करने वाला, दीपन, लघु और रोचन है।",
+  "new": "प्रायः नया मद्य गुरु और दोषों को प्रेरित करने वाला है; पुराना (मद्य) स्रोतों का शोधन करने वाला, दीपन, लघु और रुचिकारक है।",
+  "why": "reviewer (minor): Glossary (review Sū 27 ch2): rocana = appetizing (rocana), Hindi रुचिकारक (as in ch27 chunk2)."
+ },
+ {
+  "n": "194",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "prāgalbhyavīryapratibhātuṣṭipuṣṭibalarpadam",
+    "suggest": "prāgalbhyavīryapratibhātuṣṭipuṣṭibalapradam",
+    "why": "'-rpadam' is not a Sanskrit form; transposed letters of -pradam 'giving' (र्प for प्र), which the list of things given requires; syllable count is the same"
+   }
+  ],
+  "new": [
+   {
+    "src": "prāgalbhyavīryapratibhātuṣṭipuṣṭibalarpadam",
+    "suggest": "prāgalbhyavīryapratibhātuṣṭipuṣṭibalapradam",
+    "why": "grammar: '-rpadam' is no Sanskrit form; the list of things given needs -pradam 'giving', parallel to -apaham in line a (र्प for प्र, transposed letters). Metre does not decide: 16 syllables either way and ba-lar-pa-dam / ba-la-pra-dam both scan ⏑ – ⏑ – (la heavy before pr), so pāda d syllables 5-7 = ⏑ – ⏑ (pathyā) in both."
+   }
+  ],
+  "why": "reviewer (minor): Flag accepted (grammar). The 'why' only cited the syllable count; per the glossary rule it now names the weights (which show the metre is neutral)."
+ },
+ {
+  "n": "197",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "śotoṣṇasnigdharūkṣādyairyathāsannaṃ",
+    "suggest": "śītoṣṇasnigdharūkṣādyairyathāsannaṃ",
+    "why": "'śota' is not a Sanskrit word; the list of qualities in pairs (uṣṇa/śīta, snigdha/rūkṣa) needs śīta 'cold' (शो for शी); syllable count is the same"
+   }
+  ],
+  "new": [
+   {
+    "src": "śotoṣṇasnigdharūkṣādyairyathāsannaṃ",
+    "suggest": "śītoṣṇasnigdharūkṣādyairyathāsannaṃ",
+    "why": "'śota' is no Sanskrit word; the line's list runs in opposed pairs (śīta/uṣṇa, snigdha/rūkṣa), which needs śīta 'cold' (शो for शी). Metre neutral: 16 syllables, śo and śī both heavy by the long vowel; pāda c syllables 5-7 dha-rū-kṣā = ⏑ – – (pathyā) unchanged."
+   }
+  ],
+  "why": "reviewer (minor): Flag accepted (sense of the line). 'why' now gives the syllable weights as the glossary rule asks."
+ }
+]

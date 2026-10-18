@@ -1,0 +1,897 @@
+{
+ "units": [
+  {
+   "n": "160",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "161",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "english",
+     "where": "sour dantaśaṭha together with karamardaka",
+     "problem": "Judged acceptable: amlam stands next to dantaśaṭham and agrees with it; sa-karamardakam (saha-bahuvrīhi, n. acc. sg.) adds karamardaka to the list; the note gives the alternative that 'sour' covers the whole group. Accusatives under vidyāt correct.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "162",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "(standard; plain common name only)",
+     "problem": "POLICY: the common name is kept (glossary allows plain common names that help the verse: garlic, radish, grape etc.), but the bracketed instruction wording is drafting meta-text, not a note for the reader.",
+     "fix": "(standard)",
+     "severity": "minor",
+     "patch": {
+      "n": "162",
+      "op": "replace",
+      "field": "notes",
+      "old": "(standard; plain common name only)",
+      "new": "(standard)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "163",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "(They are)",
+     "problem": "Supplying '(They are)' is right: the n. pl. adjectives of line b cannot agree with the sg. ākṣikīphalam. But the note's reason for leaving the referent open is weak (see notes fix).",
+     "fix": "keep",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "The note argues that 164 'has its own predicates' and that 'vātalāni there differs from pittaśleṣmaharāṇi here'; increasing Vāta and removing Pitta-Kapha are not in conflict, and 164a phalāni (n. pl.) is the only matching noun in the chunk, so the evidence inside the chunk favours that link (still not certain).",
+     "fix": "SENTENCE: the neuter plural adjectives of line b have no noun inside this unit and cannot describe the singular ākṣikīphalam; the subject is supplied as '(they)'. The nearest noun is phalāni in 164a (the fruits of aśvattha, udumbara, plakṣa and nyagrodha); the predicates of 164b (astringent, sweet, sour, Vāta-increasing, heavy) do not conflict with these (sweet, sour in pāka, removing Pitta and Kapha), so line b most probably describes those fruits. pāka is taken in the sense of vipāka.",
+     "severity": "minor",
+     "patch": {
+      "n": "163",
+      "op": "set",
+      "field": "notes",
+      "value": "SENTENCE: the neuter plural adjectives of line b have no noun inside this unit and cannot describe the singular ākṣikīphalam; the subject is supplied as '(they)'. The nearest noun is phalāni in 164a (the fruits of aśvattha, udumbara, plakṣa and nyagrodha); the predicates of 164b (astringent, sweet, sour, Vāta-increasing, heavy) do not conflict with these (sweet, sour in pāka, removing Pitta and Kapha), so line b most probably describes those fruits. pāka is taken in the sense of vipāka."
+     }
+    }
+   ]
+  },
+  {
+   "n": "164",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "See 163 for the subjectless plural of 163b.",
+     "problem": "Point the cross-reference at the probable link.",
+     "fix": "163b (n. pl., no noun of its own) most probably also describes these fruits; see 163.",
+     "severity": "minor",
+     "patch": {
+      "n": "164",
+      "op": "replace",
+      "field": "notes",
+      "old": "See 163 for the subjectless plural of 163b.",
+      "new": "163b (n. pl., no noun of its own) most probably also describes these fruits; see 163."
+     }
+    }
+   ]
+  },
+  {
+   "n": "165",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "166",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "haritavargaḥ---",
+     "problem": "Heading handling judged sound: 'atha' + the group name are split and translated 'Now the group of ...:' / 'अब ... —', and the note correctly says the heading stands outside the 16-syllable line (verified).",
+     "fix": "keep",
+     "severity": "minor"
+    },
+    {
+     "field": "split",
+     "where": "haritavargaḥ---",
+     "problem": "The '---' is split as its own word {w:'---', gloss:'dash', gram:'punct.'}; ch27 chunk1 (units 8, 23, 35) leaves the dash attached in src only, out of w (glossary rule for attached punctuation). No patch op can delete a word.",
+     "fix": "MANUAL (no layer patch): delete the '---' word from this token's words, keep src unchanged.",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "आर्द्रक, विश्वभेषज, रोचन",
+     "problem": "Hindi 'आर्द्रक, विश्वभेषज, रोचन, दीपन और वृष्य है' reads as a list of five items, against the English and the note (viśvabheṣaja in apposition to ārdraka, singular adjectives); and rocana = रुचिकारक (glossary).",
+     "fix": "अब हरितवर्ग — विश्वभेषज आर्द्रक रुचिकारक, दीपन और वृष्य है; वात, श्लेष्मा और विबन्ध में उसका रस बताया जाता है।",
+     "severity": "error",
+     "patch": {
+      "n": "166",
+      "op": "set",
+      "field": "hindi",
+      "value": "अब हरितवर्ग — विश्वभेषज आर्द्रक रुचिकारक, दीपन और वृष्य है; वात, श्लेष्मा और विबन्ध में उसका रस बताया जाता है।"
+     }
+    },
+    {
+     "field": "english",
+     "where": "is appetizing,",
+     "problem": "Glossary: rocana = appetizing (rocana); first use in the chunk carries the Sanskrit.",
+     "fix": "is appetizing (rocana),",
+     "severity": "minor",
+     "patch": {
+      "n": "166",
+      "op": "replace",
+      "field": "english",
+      "old": "is appetizing,",
+      "new": "is appetizing (rocana),"
+     }
+    }
+   ]
+  },
+  {
+   "n": "167",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "रोचन",
+     "problem": "Glossary (review Sū 27 ch2): rocana = appetizing (rocana), Hindi रुचिकारक (as in ch27 chunk2).",
+     "fix": "रुचिकारक",
+     "severity": "minor",
+     "patch": {
+      "n": "167",
+      "op": "replace",
+      "field": "hindi",
+      "old": "रोचन",
+      "new": "रुचिकारक"
+     }
+    }
+   ]
+  },
+  {
+   "n": "168",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "(standard; plain common name only)",
+     "problem": "POLICY: the common name is kept (glossary allows plain common names that help the verse: garlic, radish, grape etc.), but the bracketed instruction wording is drafting meta-text, not a note for the reader.",
+     "fix": "(standard)",
+     "severity": "minor",
+     "patch": {
+      "n": "168",
+      "op": "replace",
+      "field": "notes",
+      "old": "(standard; plain common name only)",
+      "new": "(standard)"
+     }
+    },
+    {
+     "field": "split",
+     "where": "bālaṃ doṣaharaṃ, vṛddhaṃ tridoṣaṃ, mārutāpaham snigdhasiddhaṃ",
+     "problem": "Judged sound: the split follows the printed commas (mārutāpaham with snigdhasiddham); tri-doṣam as a bahuvrīhi '(causing) the three doṣas' with the supplied verb bracketed in both languages; ppp labels right.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "169",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "170",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "hṛdyānyāmvādanīyāni",
+     "problem": "Flag accepted (grammar). The 'why' only said 'syllable count is the same'; glossary rule (Sū 24 ch1/Sū 23) wants syllable weights when metre is cited.",
+     "fix": "[{\"src\": \"hṛdyānyāmvādanīyāni\", \"suggest\": \"hṛdyānyāsvādanīyāni\", \"why\": \"grammar: there is no stem mvād; ā-√svād gives āsvādanīya 'palatable', n. nom. pl. with hṛdyāni (म्वा for स्वा, a typing slip). Metre does not object: 8 syllables either way, nyā heavy by its long vowel, mvā/svā heavy; pāda c syllables 5-7 da-nī-yā = ⏑ – – (pathyā) unchanged.\"}]",
+     "severity": "minor",
+     "patch": {
+      "n": "170",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "hṛdyānyāmvādanīyāni",
+        "suggest": "hṛdyānyāsvādanīyāni",
+        "why": "grammar: there is no stem mvād; ā-√svād gives āsvādanīya 'palatable', n. nom. pl. with hṛdyāni (म्वा for स्वा, a typing slip). Metre does not object: 8 syllables either way, nyā heavy by its long vowel, mvā/svā heavy; pāda c syllables 5-7 da-nī-yā = ⏑ – – (pathyā) unchanged."
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "171",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "172",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "173",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "(standard; plain common name only)",
+     "problem": "POLICY: the common name is kept (glossary allows plain common names that help the verse: garlic, radish, grape etc.), but the bracketed instruction wording is drafting meta-text, not a note for the reader.",
+     "fix": "(standard)",
+     "severity": "minor",
+     "patch": {
+      "n": "173",
+      "op": "replace",
+      "field": "notes",
+      "old": "(standard; plain common name only)",
+      "new": "(standard)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "रोचन",
+     "problem": "Glossary (review Sū 27 ch2): rocana = appetizing (rocana), Hindi रुचिकारक (as in ch27 chunk2).",
+     "fix": "रुचिकारक",
+     "severity": "minor",
+     "patch": {
+      "n": "173",
+      "op": "replace",
+      "field": "hindi",
+      "old": "रोचन",
+      "new": "रुचिकारक"
+     }
+    }
+   ]
+  },
+  {
+   "n": "174",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "175",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "(standard; plain common name only)",
+     "problem": "POLICY: the common name is kept (glossary allows plain common names that help the verse: garlic, radish, grape etc.), but the bracketed instruction wording is drafting meta-text, not a note for the reader.",
+     "fix": "(standard)",
+     "severity": "minor",
+     "patch": {
+      "n": "175",
+      "op": "replace",
+      "field": "notes",
+      "old": "(standard; plain common name only)",
+      "new": "(standard)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "रोचन",
+     "problem": "Glossary (review Sū 27 ch2): rocana = appetizing (rocana), Hindi रुचिकारक (as in ch27 chunk2).",
+     "fix": "रुचिकारक",
+     "severity": "minor",
+     "patch": {
+      "n": "175",
+      "op": "replace",
+      "field": "hindi",
+      "old": "रोचन",
+      "new": "रुचिकारक"
+     }
+    }
+   ]
+  },
+  {
+   "n": "176",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "(standard; plain common name only)",
+     "problem": "POLICY: the common name is kept (glossary allows plain common names that help the verse: garlic, radish, grape etc.), but the bracketed instruction wording is drafting meta-text, not a note for the reader.",
+     "fix": "(standard)",
+     "severity": "minor",
+     "patch": {
+      "n": "176",
+      "op": "replace",
+      "field": "notes",
+      "old": "(standard; plain common name only)",
+      "new": "(standard)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "177",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "178",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "madyavargaḥ---",
+     "problem": "Heading handling judged sound: 'atha' + the group name are split and translated 'Now the group of ...:' / 'अब ... —', and the note correctly says the heading stands outside the 16-syllable line (verified).",
+     "fix": "keep",
+     "severity": "minor"
+    },
+    {
+     "field": "split",
+     "where": "madyavargaḥ---",
+     "problem": "The '---' is split as its own word {w:'---', gloss:'dash', gram:'punct.'}; ch27 chunk1 (units 8, 23, 35) leaves the dash attached in src only, out of w (glossary rule for attached punctuation). No patch op can delete a word.",
+     "fix": "MANUAL (no layer patch): delete the '---' word from this token's words, keep src unchanged.",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "sarvaṃ sāmānyataḥ",
+     "problem": "Alternative construal not mentioned.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "178",
+      "op": "append_note",
+      "text": "sarvaṃ sāmānyataḥ may also close the statement ('all this in general'), with 'its particulars will be taught' following."
+     }
+    }
+   ]
+  },
+  {
+   "n": "179",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "180",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "hikkā-śvāsa-pratiśyāya-kāsa-varcas-graha-arucau",
+     "problem": "Glossary: singular dvandvas are labelled samāhāra; this one keeps the feminine of aruci (loc. -au) instead of the neuter (cf. the ahorātra exception). Label it samāhāra with the printed gender rather than calling it 'not a samāhāra'.",
+     "fix": "f. loc. sg., samāhāra dvandva (feminine of the last member aruci, as printed)",
+     "severity": "minor",
+     "patch": {
+      "n": "180",
+      "op": "word",
+      "match_w": "hikkā-śvāsa-pratiśyāya-kāsa-varcas-graha-arucau",
+      "field": "gram",
+      "value": "f. loc. sg., samāhāra dvandva (feminine of the last member aruci, as printed)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "a dvandva that takes the singular form of its last member, not a neuter samāhāra form; kept as printed.",
+     "problem": "Same point as the gram fix.",
+     "fix": "a samāhāra dvandva that keeps the feminine gender of its last member (aruci) instead of the usual neuter; kept as printed, no flag.",
+     "severity": "minor",
+     "patch": {
+      "n": "180",
+      "op": "replace",
+      "field": "notes",
+      "old": "a dvandva that takes the singular form of its last member, not a neuter samāhāra form; kept as printed.",
+      "new": "a samāhāra dvandva that keeps the feminine gender of its last member (aruci) instead of the usual neuter; kept as printed, no flag."
+     }
+    }
+   ]
+  },
+  {
+   "n": "181",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "182",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "रोचन",
+     "problem": "Glossary (review Sū 27 ch2): rocana = appetizing (rocana), Hindi रुचिकारक (as in ch27 chunk2).",
+     "fix": "रुचिकारक",
+     "severity": "minor",
+     "patch": {
+      "n": "182",
+      "op": "replace",
+      "field": "hindi",
+      "old": "रोचन",
+      "new": "रुचिकारक"
+     }
+    }
+   ]
+  },
+  {
+   "n": "183",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "jaraṇīyaḥ",
+     "problem": "jaraṇīya: -anīya forms in Caraka's drug lists carry the active sense (jīvanīya vitalizing, bṛṃhaṇīya nourishing, lekhanīya reducing: glossary Sū 4), and in 191 it is paired with dīpana; render 'promoting digestion (jaraṇīya)', 'easily digested' only in notes. Same in 183, 185, 191.",
+     "fix": "promoting digestion",
+     "severity": "minor",
+     "patch": {
+      "n": "183",
+      "op": "word",
+      "match_w": "jaraṇīyaḥ",
+      "field": "gloss",
+      "value": "promoting digestion"
+     }
+    },
+    {
+     "field": "english",
+     "where": "matured, it is easily digested,",
+     "problem": "jaraṇīya: -anīya forms in Caraka's drug lists carry the active sense (jīvanīya vitalizing, bṛṃhaṇīya nourishing, lekhanīya reducing: glossary Sū 4), and in 191 it is paired with dīpana; render 'promoting digestion (jaraṇīya)', 'easily digested' only in notes. Same in 183, 185, 191.",
+     "fix": "when matured (pariṇata), it promotes digestion (jaraṇīya),",
+     "severity": "minor",
+     "patch": {
+      "n": "183",
+      "op": "replace",
+      "field": "english",
+      "old": "matured, it is easily digested,",
+      "new": "when matured (pariṇata), it promotes digestion (jaraṇīya),"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सरलता से पचने वाला",
+     "problem": "jaraṇīya: -anīya forms in Caraka's drug lists carry the active sense (jīvanīya vitalizing, bṛṃhaṇīya nourishing, lekhanīya reducing: glossary Sū 4), and in 191 it is paired with dīpana; render 'promoting digestion (jaraṇīya)', 'easily digested' only in notes. Same in 183, 185, 191.",
+     "fix": "पाचन कराने वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "183",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सरलता से पचने वाला",
+      "new": "पाचन कराने वाला"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "jaraṇīya (gerundive of √jṝ) is taken as 'to be digested, easily digested'; 'promoting digestion' is possible.",
+     "problem": "jaraṇīya: -anīya forms in Caraka's drug lists carry the active sense (jīvanīya vitalizing, bṛṃhaṇīya nourishing, lekhanīya reducing: glossary Sū 4), and in 191 it is paired with dīpana; render 'promoting digestion (jaraṇīya)', 'easily digested' only in notes. Same in 183, 185, 191.",
+     "fix": "jaraṇīya (-anīya of √jṝ) is taken in the active sense 'promoting digestion', like the -anīya group names (jīvanīya, bṛṃhaṇīya) and beside dīpana in 191; 'easily digested' is possible.",
+     "severity": "minor",
+     "patch": {
+      "n": "183",
+      "op": "replace",
+      "field": "notes",
+      "old": "jaraṇīya (gerundive of √jṝ) is taken as 'to be digested, easily digested'; 'promoting digestion' is possible.",
+      "new": "jaraṇīya (-anīya of √jṝ) is taken in the active sense 'promoting digestion', like the -anīya group names (jīvanīya, bṛṃhaṇīya) and beside dīpana in 191; 'easily digested' is possible."
+     }
+    }
+   ]
+  },
+  {
+   "n": "184",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "रोचन",
+     "problem": "Glossary (review Sū 27 ch2): rocana = appetizing (rocana), Hindi रुचिकारक (as in ch27 chunk2).",
+     "fix": "रुचिकारक",
+     "severity": "minor",
+     "patch": {
+      "n": "184",
+      "op": "replace",
+      "field": "hindi",
+      "old": "रोचन",
+      "new": "रुचिकारक"
+     }
+    }
+   ]
+  },
+  {
+   "n": "185",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "jaraṇīyaḥ",
+     "problem": "jaraṇīya: -anīya forms in Caraka's drug lists carry the active sense (jīvanīya vitalizing, bṛṃhaṇīya nourishing, lekhanīya reducing: glossary Sū 4), and in 191 it is paired with dīpana; render 'promoting digestion (jaraṇīya)', 'easily digested' only in notes. Same in 183, 185, 191.",
+     "fix": "promoting digestion",
+     "severity": "minor",
+     "patch": {
+      "n": "185",
+      "op": "word",
+      "match_w": "jaraṇīyaḥ",
+      "field": "gloss",
+      "value": "promoting digestion"
+     }
+    },
+    {
+     "field": "english",
+     "where": "Śītarasika is easily digested,",
+     "problem": "jaraṇīya: -anīya forms in Caraka's drug lists carry the active sense (jīvanīya vitalizing, bṛṃhaṇīya nourishing, lekhanīya reducing: glossary Sū 4), and in 191 it is paired with dīpana; render 'promoting digestion (jaraṇīya)', 'easily digested' only in notes. Same in 183, 185, 191.",
+     "fix": "Śītarasika promotes digestion (jaraṇīya),",
+     "severity": "minor",
+     "patch": {
+      "n": "185",
+      "op": "replace",
+      "field": "english",
+      "old": "Śītarasika is easily digested,",
+      "new": "Śītarasika promotes digestion (jaraṇīya),"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सरलता से पचने वाला",
+     "problem": "jaraṇīya: -anīya forms in Caraka's drug lists carry the active sense (jīvanīya vitalizing, bṛṃhaṇīya nourishing, lekhanīya reducing: glossary Sū 4), and in 191 it is paired with dīpana; render 'promoting digestion (jaraṇīya)', 'easily digested' only in notes. Same in 183, 185, 191.",
+     "fix": "पाचन कराने वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "185",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सरलता से पचने वाला",
+      "new": "पाचन कराने वाला"
+     }
+    },
+    {
+     "field": "split",
+     "where": "śītarasiko",
+     "problem": "Judged right: śītarasika (like śārkara 183, gauḍa 186) is a derived (taddhita) name and is not split into members (glossary Sū 14 rule on derived words).",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "186",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "गौड से मल और वायु निकलते और टूटते हैं",
+     "problem": "Hindi 'गौड से मल और वायु निकलते और टूटते हैं' is awkward (वायु टूटते) and changes the bahuvrīhi into a separate clause; render as an attribute, keeping the pairing open as the English does.",
+     "fix": "गौड मल और वायु को निकालने तथा भेदने वाला, तर्पण और दीपन है। आक्षिकी पाण्डुरोग और व्रण में हितकर तथा दीपनी मानी गई है।",
+     "severity": "minor",
+     "patch": {
+      "n": "186",
+      "op": "set",
+      "field": "hindi",
+      "value": "गौड मल और वायु को निकालने तथा भेदने वाला, तर्पण और दीपन है। आक्षिकी पाण्डुरोग और व्रण में हितकर तथा दीपनी मानी गई है।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "ākṣikī here (f., a madya) is distinct in use from the ākṣikī fruit of 163.",
+     "problem": "'distinct in use from the ākṣikī fruit' claims more than the text says; state only the in-chunk evidence.",
+     "fix": "ākṣikī here stands alone inside the madya group (178-195) and is taken as a madya (f., with dīpanī and matā); whether it is made from the ākṣikī fruit of 163 is not stated.",
+     "severity": "minor",
+     "patch": {
+      "n": "186",
+      "op": "replace",
+      "field": "notes",
+      "old": "ākṣikī here (f., a madya) is distinct in use from the ākṣikī fruit of 163.",
+      "new": "ākṣikī here stands alone inside the madya group (178-195) and is taken as a madya (f., with dīpanī and matā); whether it is made from the ākṣikī fruit of 163 is not stated."
+     }
+    }
+   ]
+  },
+  {
+   "n": "187",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "188",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "english",
+     "problem": "(1) 'grape' in the translation: glossary keeps identifications in notes only (mṛdvīkā = grape stays in the note). (2) 'mādhvīkavan na cātyuṣṇo': na ca 'and not' makes mādhvīkavat its own predicate ('like mādhvīka, and not very hot'); the draft 'like mādhvīka, it is not very hot' binds the two and implies mādhvīka is not very hot.",
+     "fix": "The āsava of mṛdvīkā and sugarcane juice, fermented with dhātakī, is pleasing to the heart, dry, appetizing and stimulating digestion; it is like mādhvīka, and not very hot.",
+     "severity": "error",
+     "patch": {
+      "n": "188",
+      "op": "set",
+      "field": "english",
+      "value": "The āsava of mṛdvīkā and sugarcane juice, fermented with dhātakī, is pleasing to the heart, dry, appetizing and stimulating digestion; it is like mādhvīka, and not very hot."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "माध्वीक के समान (वह) अधिक उष्ण नहीं है",
+     "problem": "Same as the English (na ca); rocana = रुचिकारक.",
+     "fix": "धातकी से अभिषुत, मृद्वीका और ईख के रस का आसव हृद्य, रूक्ष, रुचिकारक और दीपन है; (वह) माध्वीक के समान है और अधिक उष्ण नहीं है।",
+     "severity": "minor",
+     "patch": {
+      "n": "188",
+      "op": "set",
+      "field": "hindi",
+      "value": "धातकी से अभिषुत, मृद्वीका और ईख के रस का आसव हृद्य, रूक्ष, रुचिकारक और दीपन है; (वह) माध्वीक के समान है और अधिक उष्ण नहीं है।"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "mṛdvīkā-ikṣu-rasa-āsavaḥ",
+     "problem": "Identification out of the gloss (notes only).",
+     "fix": "āsava of mṛdvīkā and sugarcane juice",
+     "severity": "minor",
+     "patch": {
+      "n": "188",
+      "op": "word",
+      "match_w": "mṛdvīkā-ikṣu-rasa-āsavaḥ",
+      "field": "gloss",
+      "value": "āsava of mṛdvīkā and sugarcane juice"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "'Like mādhvīka' may go with the whole description or only with 'not very hot'.",
+     "problem": "Note follows the corrected English.",
+     "fix": "mādhvīkavat is taken as its own predicate, joined by 'na ca' to 'not very hot'.",
+     "severity": "minor",
+     "patch": {
+      "n": "188",
+      "op": "replace",
+      "field": "notes",
+      "old": "'Like mādhvīka' may go with the whole description or only with 'not very hot'.",
+      "new": "mādhvīkavat is taken as its own predicate, joined by 'na ca' to 'not very hot'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "189",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "रोचन",
+     "problem": "Glossary (review Sū 27 ch2): rocana = appetizing (rocana), Hindi रुचिकारक (as in ch27 chunk2).",
+     "fix": "रुचिकारक",
+     "severity": "minor",
+     "patch": {
+      "n": "189",
+      "op": "replace",
+      "field": "hindi",
+      "old": "रोचन",
+      "new": "रुचिकारक"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "In the madya group madhu is an alcoholic drink named madhu, not plain honey; kept in Sanskrit.",
+     "problem": "Judged right to keep madhu Sanskrit and not honey; the note should state its in-chunk ground (position between 178 and 195) as a reading, not as fact.",
+     "fix": "madhu stands inside the madya group (178-195), so it is taken as a drink named madhu, not honey; kept in Sanskrit.",
+     "severity": "minor",
+     "patch": {
+      "n": "189",
+      "op": "replace",
+      "field": "notes",
+      "old": "In the madya group madhu is an alcoholic drink named madhu, not plain honey; kept in Sanskrit.",
+      "new": "madhu stands inside the madya group (178-195), so it is taken as a drink named madhu, not honey; kept in Sanskrit."
+     }
+    }
+   ]
+  },
+  {
+   "n": "190",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "vāta-pittalā",
+     "problem": "vātapittala is vāta-pitta + the suffix -la (as vātala, śleṣmala), not a compound of vāta + pittala; gram had no structure.",
+     "fix": "f. nom. sg., -la derivative of the dvandva vāta-pitta",
+     "severity": "minor",
+     "patch": {
+      "n": "190",
+      "op": "word",
+      "match_w": "vāta-pittalā",
+      "field": "gram",
+      "value": "f. nom. sg., -la derivative of the dvandva vāta-pitta"
+     }
+    },
+    {
+     "field": "english",
+     "where": "is heavy and is digested after causing obstruction",
+     "problem": "Judged acceptable: 'śleṣmalā tu madhūlikā' opens its clause with tu, so 'gurvī jīryati viṣṭabhya' is taken with the barley surā; the note gives the madhūlikā alternative. samaṇḍā 'with its maṇḍa' right; maṇḍa, madhūlikā kept Sanskrit.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "191",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "jaraṇīyam",
+     "problem": "jaraṇīya: -anīya forms in Caraka's drug lists carry the active sense (jīvanīya vitalizing, bṛṃhaṇīya nourishing, lekhanīya reducing: glossary Sū 4), and in 191 it is paired with dīpana; render 'promoting digestion (jaraṇīya)', 'easily digested' only in notes. Same in 183, 185, 191.",
+     "fix": "promoting digestion",
+     "severity": "minor",
+     "patch": {
+      "n": "191",
+      "op": "word",
+      "match_w": "jaraṇīyam",
+      "field": "gloss",
+      "value": "promoting digestion"
+     }
+    },
+    {
+     "field": "english",
+     "where": "stimulate digestion and are easily digested,",
+     "problem": "jaraṇīya: -anīya forms in Caraka's drug lists carry the active sense (jīvanīya vitalizing, bṛṃhaṇīya nourishing, lekhanīya reducing: glossary Sū 4), and in 191 it is paired with dīpana; render 'promoting digestion (jaraṇīya)', 'easily digested' only in notes. Same in 183, 185, 191.",
+     "fix": "stimulate digestion and promote digestion (jaraṇīya),",
+     "severity": "minor",
+     "patch": {
+      "n": "191",
+      "op": "replace",
+      "field": "english",
+      "old": "stimulate digestion and are easily digested,",
+      "new": "stimulate digestion and promote digestion (jaraṇīya),"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "दीपन और सरलता से पचने वाले",
+     "problem": "jaraṇīya: -anīya forms in Caraka's drug lists carry the active sense (jīvanīya vitalizing, bṛṃhaṇīya nourishing, lekhanīya reducing: glossary Sū 4), and in 191 it is paired with dīpana; render 'promoting digestion (jaraṇīya)', 'easily digested' only in notes. Same in 183, 185, 191.",
+     "fix": "दीपन और पाचन कराने वाले",
+     "severity": "minor",
+     "patch": {
+      "n": "191",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दीपन और सरलता से पचने वाले",
+      "new": "दीपन और पाचन कराने वाले"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "sauvīraka-tuṣodakam",
+     "problem": "samāhāra dvandva, n. sg., with singular neuter predicates: correct by the glossary rule.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "192",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "193",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "रोचन",
+     "problem": "Glossary (review Sū 27 ch2): rocana = appetizing (rocana), Hindi रुचिकारक (as in ch27 chunk2).",
+     "fix": "रुचिकारक",
+     "severity": "minor",
+     "patch": {
+      "n": "193",
+      "op": "replace",
+      "field": "hindi",
+      "old": "रोचन",
+      "new": "रुचिकारक"
+     }
+    },
+    {
+     "field": "split",
+     "where": "gurudoṣasamīraṇam",
+     "problem": "One printed token with no sandhi junction is split as two words (guru | doṣa-samīraṇam); a run-together token is a compound: guru-doṣa-samīraṇam 'heavy and stirring up the doṣas', n. nom. sg., dvandva of adjectives. The note already gives this reading. English/Hindi unchanged.",
+     "fix": "MANUAL (no layer patch): merge the two words into one {w:'guru-doṣa-samīraṇam', gloss:'heavy and stirring up the doṣas', gram:'n. nom. sg., dvandva (adjectives)'} and drop the first sentence of the note.",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "samīraṇa here = setting in motion",
+     "problem": "Right: doṣasamīraṇa = stirring the doṣas, not Vāta (glossary samīraṇa rules).",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "194",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "prāgalbhya…balarpadam",
+     "problem": "Flag accepted (grammar). The 'why' only cited the syllable count; per the glossary rule it now names the weights (which show the metre is neutral).",
+     "fix": "[{\"src\": \"prāgalbhyavīryapratibhātuṣṭipuṣṭibalarpadam\", \"suggest\": \"prāgalbhyavīryapratibhātuṣṭipuṣṭibalapradam\", \"why\": \"grammar: '-rpadam' is no Sanskrit form; the list of things given needs -pradam 'giving', parallel to -apaham in line a (र्प for प्र, transposed letters). Metre does not decide: 16 syllables either way and ba-lar-pa-dam / ba-la-pra-dam both scan ⏑ – ⏑ – (la heavy before pr), so pāda d syllables 5-7 = ⏑ – ⏑ (pathyā) in both.\"}]",
+     "severity": "minor",
+     "patch": {
+      "n": "194",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "prāgalbhyavīryapratibhātuṣṭipuṣṭibalarpadam",
+        "suggest": "prāgalbhyavīryapratibhātuṣṭipuṣṭibalapradam",
+        "why": "grammar: '-rpadam' is no Sanskrit form; the list of things given needs -pradam 'giving', parallel to -apaham in line a (र्प for प्र, transposed letters). Metre does not decide: 16 syllables either way and ba-lar-pa-dam / ba-la-pra-dam both scan ⏑ – ⏑ – (la heavy before pr), so pāda d syllables 5-7 = ⏑ – ⏑ (pathyā) in both."
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "195",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "196",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "jalavargaḥ---",
+     "problem": "Heading handling judged sound: 'atha' + the group name are split and translated 'Now the group of ...:' / 'अब ... —', and the note correctly says the heading stands outside the 16-syllable line (verified).",
+     "fix": "keep",
+     "severity": "minor"
+    },
+    {
+     "field": "split",
+     "where": "jalavargaḥ---",
+     "problem": "The '---' is split as its own word {w:'---', gloss:'dash', gram:'punct.'}; ch27 chunk1 (units 8, 23, 35) leaves the dash attached in src only, out of w (glossary rule for attached punctuation). No patch op can delete a word.",
+     "fix": "MANUAL (no layer patch): delete the '---' word from this token's words, keep src unchanged.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "197",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "śotoṣṇa…",
+     "problem": "Flag accepted (sense of the line). 'why' now gives the syllable weights as the glossary rule asks.",
+     "fix": "[{\"src\": \"śotoṣṇasnigdharūkṣādyairyathāsannaṃ\", \"suggest\": \"śītoṣṇasnigdharūkṣādyairyathāsannaṃ\", \"why\": \"'śota' is no Sanskrit word; the line's list runs in opposed pairs (śīta/uṣṇa, snigdha/rūkṣa), which needs śīta 'cold' (शो for शी). Metre neutral: 16 syllables, śo and śī both heavy by the long vowel; pāda c syllables 5-7 dha-rū-kṣā = ⏑ – – (pathyā) unchanged.\"}]",
+     "severity": "minor",
+     "patch": {
+      "n": "197",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "śotoṣṇasnigdharūkṣādyairyathāsannaṃ",
+        "suggest": "śītoṣṇasnigdharūkṣādyairyathāsannaṃ",
+        "why": "'śota' is no Sanskrit word; the line's list runs in opposed pairs (śīta/uṣṇa, snigdha/rūkṣa), which needs śīta 'cold' (शो for शी). Metre neutral: 16 syllables, śo and śī both heavy by the long vowel; pāda c syllables 5-7 dha-rū-kṣā = ⏑ – – (pathyā) unchanged."
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "198",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "199",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Reviewed 40 units (160-199). Fixes: 2 error (166 Hindi, 188 English), 42 minor (40 with patches, 4 MANUAL without); 10 judgements recorded with no change. text_flags: 3 of 3 accepted (170 āmvādanīya→āsvādanīya grammar, 194 -rpadam→-pradam grammar, 197 śota→śīta sense); each 'why' rewritten with syllable weights (metre neutral in all three). Main fixes: rocana Hindi रुचिकारक (9 units, glossary Sū 27 ch2); jaraṇīya = promoting digestion (183, 185, 191); 188 na ca makes 'like mādhvīka' its own predicate and mṛdvīkā stays Sanskrit in translation; 166 Hindi apposition; 186 Hindi and ākṣikī note; 163 note links 163b to 164 phalāni; 180 samāhāra label with printed feminine; 190 -la derivative label; 189 madhu note grounded in the chunk; plant notes tidied (common names kept per POLICY). MANUAL: 166/178/196 delete the '---' punctuation word (keep src, as ch27 chunk1); 193 merge guru | doṣa-samīraṇam into one compound word. No notes citing commentators or other editions found. No regrouping suggested. Layers remain unreviewed AI drafts until read by a person."
+}
