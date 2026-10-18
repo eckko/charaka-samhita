@@ -1,0 +1,991 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "virecana note",
+     "problem": "Rests on commentators ('drugs that commentators take as emetics') and on the Kalpasthāna (not in the input) and calls the choice 'a reviewer decision', which no reviewer had made. Keep the rendering only as a glossary decision, without the outside justification.",
+     "fix": "virecana is rendered 'evacuative' in this chapter (glossary entry for ch. 4 proposed by the reviewer); the glossary default elsewhere is virecana = purgation. kaṣāya in this chapter means a medicinal extract or a drug group, not only the astringent taste; in unit 6 the word is used in both senses. khalu ('indeed') is left untranslated as an emphatic particle.",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "notes",
+      "value": "virecana is rendered 'evacuative' in this chapter (glossary entry for ch. 4 proposed by the reviewer); the glossary default elsewhere is virecana = purgation. kaṣāya in this chapter means a medicinal extract or a drug group, not only the astringent taste; in unit 6 the word is used in both senses. khalu ('indeed') is left untranslated as an emphatic particle.",
+      "n": "3"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "kalpopaniṣad = the Kalpasthāna ...",
+     "problem": "Rests on the later section of the book (not in the input); the text only says 'kalpopaniṣadi'.",
+     "fix": "(delete)",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "kalpopaniṣad = the Kalpasthāna (section on pharmaceutics of evacuatives), where these drugs have one chapter each (interpretation). ",
+      "new": "",
+      "n": "4"
+     }
+    },
+    {
+     "field": "english",
+     "where": "(the teaching on pharmaceutics, Kalpa)",
+     "problem": "Added interpretation in the translation; the Sanskrit has only 'kalpopaniṣadi'.",
+     "fix": "in the Kalpopaniṣad",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "in the Kalpopaniṣad (the teaching on pharmaceutics, Kalpa)",
+      "new": "in the Kalpopaniṣad",
+      "n": "4"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "त्वक्",
+     "problem": "Glossary: tvak (plant bark) = छाल in Hindi.",
+     "fix": "क्षीर, मूल, छाल, पत्र",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "क्षीर, मूल, त्वक्, पत्र",
+      "new": "क्षीर, मूल, छाल, पत्र",
+      "n": "5"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "Some editions are said to read differently",
+     "problem": "Rests on other editions not shown in the input (and unverified).",
+     "fix": "(delete)",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": " Some editions are said to read differently here; not checked.",
+      "new": "",
+      "n": "7"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "brackets probably mark ... an addition",
+     "problem": "Speculation about the edition's practice not shown in the input; state only what is printed.",
+     "fix": " The passage is printed in brackets in this edition.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": " The brackets probably mark this passage as an addition in this edition (status not checked).",
+      "new": " The passage is printed in brackets in this edition.",
+      "n": "P1"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "the usual text is said to begin ...",
+     "problem": "Rests on another edition/memory ('the usual text'); not in the input.",
+     "fix": ".",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "; the usual text is said to begin 'pañcāśan mahākaṣāyā iti yad uktam'; here that heading is not printed (not flagged: the sentence is complete without it).",
+      "new": ".",
+      "n": "8"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "vayaḥsthāpana: often explained as ...",
+     "problem": "Rests on commentary ('often explained'); not in the input. The gloss 'stabilizing age' already covers the word.",
+     "fix": "(delete)",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": " vayaḥsthāpana: often explained as 'preserving youth' (interpretation).",
+      "new": "",
+      "n": "8"
+     }
+    },
+    {
+     "field": "english",
+     "where": "aiding sudation",
+     "problem": "Glossary: sveda = sweating.",
+     "fix": "svedopaga (aiding sweating)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "svedopaga (aiding sudation)",
+      "new": "svedopaga (aiding sweating)",
+      "n": "8"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sveda-upagaḥ",
+     "problem": "Glossary: sveda = sweating.",
+     "fix": "aiding sweating (svedopaga)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sveda-upagaḥ",
+      "field": "gloss",
+      "value": "aiding sweating (svedopaga)",
+      "n": "8"
+     }
+    },
+    {
+     "field": "english",
+     "where": "colic pain",
+     "problem": "Glossary: śūla = pain ('colic' is added).",
+     "fix": "śūlapraśamana (allaying pain)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "śūlapraśamana (allaying colic pain)",
+      "new": "śūlapraśamana (allaying pain)",
+      "n": "8"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "śūla-praśamanaḥ",
+     "problem": "Glossary: śūla = pain.",
+     "fix": "allaying pain",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "śūla-praśamanaḥ",
+      "field": "gloss",
+      "value": "allaying pain",
+      "n": "8"
+     }
+    },
+    {
+     "field": "english",
+     "where": "kindling digestion",
+     "problem": "Glossary: dīpana = stimulating digestion.",
+     "fix": "dīpanīya (stimulating digestion)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "dīpanīya (kindling digestion)",
+      "new": "dīpanīya (stimulating digestion)",
+      "n": "8"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "dīpanīyaḥ",
+     "problem": "Glossary: dīpana = stimulating digestion.",
+     "fix": "stimulating digestion (dīpanīya)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "dīpanīyaḥ",
+      "field": "gloss",
+      "value": "stimulating digestion (dīpanīya)",
+      "n": "8"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "jīvanīyaḥ",
+     "problem": "Glossary: gerundives are labelled 'gerundive (kṛtya)'.",
+     "fix": "m. nom. sg. gerundive (kṛtya) √jīv",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "jīvanīyaḥ",
+      "field": "gram",
+      "value": "m. nom. sg. gerundive (kṛtya) √jīv",
+      "n": "8"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "bṛṃhaṇīyaḥ",
+     "problem": "Glossary: gerundives are labelled 'gerundive (kṛtya)'.",
+     "fix": "m. nom. sg. gerundive (kṛtya) √bṛṃh",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "bṛṃhaṇīyaḥ",
+      "field": "gram",
+      "value": "m. nom. sg. gerundive (kṛtya) √bṛṃh",
+      "n": "8"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "lekhanīyaḥ",
+     "problem": "Glossary: gerundives are labelled 'gerundive (kṛtya)'.",
+     "fix": "m. nom. sg. gerundive (kṛtya) √likh",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "lekhanīyaḥ",
+      "field": "gram",
+      "value": "m. nom. sg. gerundive (kṛtya) √likh",
+      "n": "8"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "bhedanīyaḥ",
+     "problem": "Glossary: gerundives are labelled 'gerundive (kṛtya)'.",
+     "fix": "m. nom. sg. gerundive (kṛtya) √bhid",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "bhedanīyaḥ",
+      "field": "gram",
+      "value": "m. nom. sg. gerundive (kṛtya) √bhid",
+      "n": "8"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "sandhānīyaḥ",
+     "problem": "Glossary: gerundives are labelled 'gerundive (kṛtya)'.",
+     "fix": "m. nom. sg. gerundive (kṛtya) sam-√dhā",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sandhānīyaḥ",
+      "field": "gram",
+      "value": "m. nom. sg. gerundive (kṛtya) sam-√dhā",
+      "n": "8"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "dīpanīyaḥ",
+     "problem": "Glossary: gerundives are labelled 'gerundive (kṛtya)'.",
+     "fix": "m. nom. sg. gerundive (kṛtya) √dīp",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "dīpanīyaḥ",
+      "field": "gram",
+      "value": "m. nom. sg. gerundive (kṛtya) √dīp",
+      "n": "8"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "vāṭhyāyanī",
+     "problem": "The flag rests on memory ('usually spelt vāṭyāyanī'); vāṭyapuṣpī (unit 18) is a different name and does not prove a typo. Remove the flag and keep the printed spelling in words, Hindi, English and notes.",
+     "fix": "[]",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "text_flags",
+      "value": [],
+      "n": "9"
+     }
+    },
+    {
+     "field": "w",
+     "where": "vāṭyāyanī (split)",
+     "problem": "Follows the removed flag: restore the printed form.",
+     "fix": "rājakṣavaka-aśvagandhā-kākolī-kṣīrakākolī-vāṭhyāyanī-bhadraudanī-bhāradvājī-payasyā-ṛṣyagandhāḥ",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "rājakṣavaka-aśvagandhā-kākolī-kṣīrakākolī-vāṭyāyanī-bhadraudanī-bhāradvājī-payasyā-ṛṣyagandhāḥ",
+      "field": "w",
+      "value": "rājakṣavaka-aśvagandhā-kākolī-kṣīrakākolī-vāṭhyāyanī-bhadraudanī-bhāradvājī-payasyā-ṛṣyagandhāḥ",
+      "n": "9"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वाट्यायनी",
+     "problem": "Restore the printed form (flag removed).",
+     "fix": "वाठ्यायनी",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "वाट्यायनी",
+      "new": "वाठ्यायनी",
+      "n": "9"
+     }
+    },
+    {
+     "field": "english",
+     "where": "vāṭyāyanī",
+     "problem": "Restore the printed form (flag removed).",
+     "fix": "vāṭhyāyanī",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "vāṭyāyanī",
+      "new": "vāṭhyāyanī",
+      "n": "9"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "G2 vāṭyāyanī",
+     "problem": "Restore the printed form (flag removed).",
+     "fix": "rājakṣavaka, vāṭhyāyanī,",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "rājakṣavaka, vāṭyāyanī,",
+      "new": "rājakṣavaka, vāṭhyāyanī,",
+      "n": "9"
+     }
+    },
+    {
+     "field": "english",
+     "where": "kindling digestion",
+     "problem": "Glossary: dīpana = stimulating digestion.",
+     "fix": "dīpanīya (stimulating digestion)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "dīpanīya (kindling digestion)",
+      "new": "dīpanīya (stimulating digestion)",
+      "n": "9"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "dīpanīyāni",
+     "problem": "Glossary: dīpana = stimulating digestion.",
+     "fix": "stimulating digestion (dīpanīya)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "dīpanīyāni",
+      "field": "gloss",
+      "value": "stimulating digestion (dīpanīya)",
+      "n": "9"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "jīvanīyāni",
+     "problem": "Glossary: gerundives are labelled 'gerundive (kṛtya)'.",
+     "fix": "n. nom. pl. gerundive (kṛtya) √jīv",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "jīvanīyāni",
+      "field": "gram",
+      "value": "n. nom. pl. gerundive (kṛtya) √jīv",
+      "n": "9"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "bṛṃhaṇīyāni",
+     "problem": "Glossary: gerundives are labelled 'gerundive (kṛtya)'.",
+     "fix": "n. nom. pl. gerundive (kṛtya) √bṛṃh",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "bṛṃhaṇīyāni",
+      "field": "gram",
+      "value": "n. nom. pl. gerundive (kṛtya) √bṛṃh",
+      "n": "9"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "lekhanīyāni",
+     "problem": "Glossary: gerundives are labelled 'gerundive (kṛtya)'.",
+     "fix": "n. nom. pl. gerundive (kṛtya) √likh",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "lekhanīyāni",
+      "field": "gram",
+      "value": "n. nom. pl. gerundive (kṛtya) √likh",
+      "n": "9"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "bhedanīyāni",
+     "problem": "Glossary: gerundives are labelled 'gerundive (kṛtya)'.",
+     "fix": "n. nom. pl. gerundive (kṛtya) √bhid",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "bhedanīyāni",
+      "field": "gram",
+      "value": "n. nom. pl. gerundive (kṛtya) √bhid",
+      "n": "9"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "sandhānīyāni",
+     "problem": "Glossary: gerundives are labelled 'gerundive (kṛtya)'.",
+     "fix": "n. nom. pl. gerundive (kṛtya) sam-√dhā",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sandhānīyāni",
+      "field": "gram",
+      "value": "n. nom. pl. gerundive (kṛtya) sam-√dhā",
+      "n": "9"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "dīpanīyāni",
+     "problem": "Glossary: gerundives are labelled 'gerundive (kṛtya)'.",
+     "fix": "n. nom. pl. gerundive (kṛtya) √dīp",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "dīpanīyāni",
+      "field": "gram",
+      "value": "n. nom. pl. gerundive (kṛtya) √dīp",
+      "n": "9"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "aiding sudation",
+     "problem": "Glossary: sveda = sweating.",
+     "fix": "svedopaga (aiding sweating)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "svedopaga (aiding sudation)",
+      "new": "svedopaga (aiding sweating)",
+      "n": "13"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sveda-upagāni",
+     "problem": "Glossary: sveda = sweating.",
+     "fix": "aiding sweating (svedopaga)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sveda-upagāni",
+      "field": "gloss",
+      "value": "aiding sweating (svedopaga)",
+      "n": "13"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "commentators take it as baked earth",
+     "problem": "Rests on commentators not shown in the input.",
+     "fix": "mṛt = earth",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "mṛt = earth (commentators take it as baked earth; interpretation)",
+      "new": "mṛt = earth",
+      "n": "14"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "त्वक्",
+     "problem": "Glossary: tvak (plant bark) = छाल in Hindi.",
+     "fix": "शल्लकी की छाल",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "शल्लकी की त्वक्",
+      "new": "शल्लकी की छाल",
+      "n": "15"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "…-itkaṭa-mūlāni",
+     "problem": "'mūla' closes the compound: dvandva then tat-puruṣa (as labelled in unit 12).",
+     "fix": "n. nom. pl., dvandva then tat-puruṣa",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "vṛkṣādanī-śvadaṃṣṭrā-vasuka-vaśira-pāṣāṇabheda-darbha-kuśa-kāśa-gundra-itkaṭa-mūlāni",
+      "field": "gram",
+      "value": "n. nom. pl., dvandva then tat-puruṣa",
+      "n": "15"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "both attested spellings",
+     "problem": "'attested' rests on memory; the input itself shows both spellings.",
+     "fix": "are two spellings of the same name in this chapter",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "are both attested spellings of the same name",
+      "new": "are two spellings of the same name in this chapter",
+      "n": "16"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "colic pain",
+     "problem": "Glossary: śūla = pain ('colic' is added).",
+     "fix": "śūlapraśamana (allaying pain)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "śūlapraśamana (allaying colic pain)",
+      "new": "śūlapraśamana (allaying pain)",
+      "n": "17"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "śūla-praśamanāni",
+     "problem": "Glossary: śūla = pain.",
+     "fix": "allaying pain (śūlapraśamana)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "śūla-praśamanāni",
+      "field": "gloss",
+      "value": "allaying pain (śūlapraśamana)",
+      "n": "17"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "some take it as saffron",
+     "problem": "Attribution to unnamed authorities ('some take'); keep it as a tagged identification only.",
+     "fix": "rudhira = literally 'blood'; saffron (disputed)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "rudhira (disputed: literally 'blood'; some take it as saffron)",
+      "new": "rudhira = literally 'blood'; saffron (disputed)",
+      "n": "18"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "others say Centella",
+     "problem": "Attribution to unnamed authorities; with two candidates the honest tag is 'disputed'.",
+     "fix": "brāhmī = Bacopa monnieri or Centella asiatica (disputed)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "brāhmī = Bacopa monnieri (probable; others say Centella)",
+      "new": "brāhmī = Bacopa monnieri or Centella asiatica (disputed)",
+      "n": "18"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "reasoning (yukti)",
+     "problem": "Glossary: yukti = rational planning (yukti).",
+     "fix": "inference and rational planning (yukti)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "inference and reasoning (yukti)",
+      "new": "inference and rational planning (yukti)",
+      "n": "P8"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "इतने अल्पबुद्धि वालों",
+     "problem": "Word order makes 'इतने' read as 'so many dull people' instead of 'this many (kaṣāyas)'.",
+     "fix": "क्योंकि अल्पबुद्धि वालों के व्यवहार के लिए इतने पर्याप्त हैं, और स्वालक्षण्य, अनुमान और युक्ति में कुशल बुद्धिमानों के लिए अनुक्त अर्थ के ज्ञान के लिए।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "क्योंकि अल्पबुद्धि वालों के व्यवहार के लिए इतने पर्याप्त हैं, और स्वालक्षण्य, अनुमान और युक्ति में कुशल बुद्धिमानों के लिए अनुक्त अर्थ के ज्ञान के लिए।",
+      "n": "P8"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "draṣṭavyam",
+     "problem": "Glossary: gerundives are labelled 'gerundive (kṛtya)'.",
+     "fix": "n. nom. sg. gerundive (kṛtya) √dṛś",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "draṣṭavyam",
+      "field": "gram",
+      "value": "n. nom. sg. gerundive (kṛtya) √dṛś",
+      "n": "22"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "draṣṭavyam",
+     "problem": "Glossary: gerundives are labelled 'gerundive (kṛtya)'.",
+     "fix": "n. nom. sg. gerundive (kṛtya) √dṛś",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "draṣṭavyam",
+      "field": "gram",
+      "value": "n. nom. sg. gerundive (kṛtya) √dṛś",
+      "n": "P9"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "saṃjñām",
+     "problem": "Singular form glossed 'names' (the note itself says it is singular).",
+     "fix": "name",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "saṃjñām",
+      "field": "gloss",
+      "value": "name",
+      "n": "P9"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "to teach it to pupils",
+     "problem": "'it' is added and ambiguous; anyat is the object of both infinitives.",
+     "fix": "who would wish to consider, or to teach to pupils, anything other than that?",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "who would wish to consider another than that, or to teach it to pupils?",
+      "new": "who would wish to consider, or to teach to pupils, anything other than that?",
+      "n": "P10"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Here are the verses:",
+     "problem": "Glossary: tatra ślokāḥ = \"Here, the verses:\".",
+     "fix": "Here, the verses:",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Here are the verses:",
+      "new": "Here, the verses:",
+      "n": "23"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "alpabuddheḥ ... goes with",
+     "problem": "Construction stated as certain; both constructions are possible.",
+     "fix": "'alpabuddheḥ' stands in line b and may go with 'sāmarthyāya' in line a, or with line b ('for one of little intellect this is ...').",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "'alpabuddheḥ' stands in line b but goes with 'sāmarthyāya' in line a.",
+      "new": "'alpabuddheḥ' stands in line b and may go with 'sāmarthyāya' in line a, or with line b ('for one of little intellect this is ...').",
+      "n": "27"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "ati-saṃkṣepa-vistaraḥ",
+     "problem": "Labelled dvandva but m. nom. sg.; a dvandva of two members would be dual (or n. sg. samāhāra). Read as one notion ('excess of brevity or extent') predicated of ayam, or as a bahuvrīhi agreeing with ayam (vargaḥ).",
+     "fix": "m. nom. sg., compound (dvandva taken as one notion, or bahuvrīhi with ayam)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "exact distinctions follow commentators",
+     "problem": "Appeal to commentators not shown in the input (glossary: no 'commentators say' notes).",
+     "fix": "(delete)",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "; exact distinctions follow commentators",
+      "new": "",
+      "n": "29"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "ślokasthāna is an attested alternative name",
+     "problem": "Rests on memory ('attested'), not on the input.",
+     "fix": " (not flagged)",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "; ślokasthāna is an attested alternative name of the same section (not flagged)",
+      "new": " (not flagged)",
+      "n": "P11"
+     }
+    },
+    {
+     "field": "english",
+     "where": "Ślokasthāna",
+     "problem": "Glossary: Ślokasthāna = Śloka section (Ślokasthāna).",
+     "fix": "in the Śloka section (Ślokasthāna) of",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "in the Ślokasthāna of",
+      "new": "in the Śloka section (Ślokasthāna) of",
+      "n": "P11"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P12",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "13 errors, 42 minor issues in 21 of 41 units. Errors: notes resting on commentators, other editions, the Kalpasthāna or memory (units 3, 4, 7, 8 x2, 14, 29, P11); one added interpretation in the English (unit 4); one text_flag resting on memory (unit 9, vāṭhyāyanī: flag removed, printed spelling restored in split, Hindi and English). Kept text_flags (internal or grammatical evidence): āpotthita (P4), arśoghra (8), gāgara (11), kṣīrakālolī and viḍaṅg (13), -śṛṅgyā (14), aśvakarṇa repeated (17), gairikarpiyaṅgu and śatavīrya (18), saṃñjāṃ (P9), ati/iti (21). Minor: glossary renderings (tvak = छाल, sveda = sweating, śūla = pain, dīpana = stimulating digestion, yukti, tatra ślokāḥ, Ślokasthāna), gerundive labels, a few gram labels and wording. Plant identifications are all in notes and tagged. Sums checked: unit 4 adds to 600; each list of units 9-18 has ten members (with the unit 17 dittography removed). No regrouping suggested; the P1-P6 GROUPING note matches the dandas. 'evacuative' for virecana needs a glossary entry (proposed). All layers remain unreviewed AI drafts."
+}

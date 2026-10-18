@@ -58,3 +58,8 @@ Draft status: AI drafts, not read by a person.
 - sukhasādhya = easily curable (सुखसाध्य); kṛcchrasādhya = curable with difficulty (कृच्छ्रसाध्य); yāpya = palliable (याप्य); anupakrama = untreatable; pratyākhyeya = to be rejected (प्रत्याख्येय); asādhya = incurable (असाध्य)
 - hetu/nimitta = cause; pūrvarūpa = prodromal signs (पूर्वरूप); rūpa = symptoms; upadrava = complication (उपद्रव); dūṣya = what is vitiated (दूष्य); marma = vital point (मर्म); ariṣṭa = fatal signs (अरिष्ट); vikalpa = gradation; upakaraṇa = equipment; ātmavant = self-controlled (आत्मवान्)
 - cikitsati/cikitsāmaḥ = desiderative of √kit; names: Punarvasu Ātreya (पुनर्वसु आत्रेय), Maitreya (मैत्रेय); bhavanti cātra = "And here there are:"; tatra ślokau = "Here, the two verses:"
+- virecana in Sū 4 (ṣaḍvirecanaśata, virecanāśraya) = evacuative (virecana); elsewhere = purgation; virecanopaga = aiding purgation
+- kaṣāya (Sū 4) = kaṣāya (medicinal extract/drug group); kaṣāya as a taste = astringent; mahākaṣāya = great kaṣāya; kaṣāyavarga = group of kaṣāyas
+- svarasa = expressed juice; kalka = paste; śṛta = decoction; śīta = cold infusion; phāṇṭa = hot infusion (Sanskrit kept)
+- group names: jīvanīya = vitalizing; bṛṃhaṇīya = nourishing; lekhanīya = reducing; bhedanīya = breaking up; sandhānīya = uniting; -upaga = aiding; -nigrahaṇa = checking; -saṃgrahaṇīya = binding; -virajanīya = correcting the colour of; -praśamana = allaying; -sthāpana = stabilizing; udarda kept Sanskrit
+- yoga (of a drug count) = application; saṃyoga = combination; prayoga = administration; alpabuddhi = of little intellect; buddhimat = intelligent; kalpopaniṣad kept as name; drug names keep printed spelling unless the chunk shows the correction
