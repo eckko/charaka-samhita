@@ -1,0 +1,5769 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athāto'ṣṭodarīyamadhyāyaṃ",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now",
+        "gram": "ind."
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "therefore",
+        "gram": "ind."
+       },
+       {
+        "w": "aṣṭodarīyam",
+        "gloss": "on the eight udaras (Aṣṭodarīya)",
+        "gram": "m. acc. sg., chapter name"
+       },
+       {
+        "w": "adhyāyam",
+        "gloss": "chapter",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyāsyāmaḥ",
+      "words": [
+       {
+        "w": "vyākhyāsyāmaḥ",
+        "gloss": "we shall expound",
+        "gram": "1 pl. fut. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब इसके बाद हम अष्टोदरीय अध्याय की व्याख्या करेंगे।",
+  "english": "Now, therefore, we shall expound the chapter on the eight udaras (Aṣṭodarīya).",
+  "text_flags": [],
+  "notes": "Prose opening formula of the chapter; the unit is typed as a verse in the input but is a prose line. The chapter name is a derived word in -īya from aṣṭa-udara 'eight udaras', after the first words of the list in 3.",
+  "confidence": "high"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ha",
+      "words": [
+       {
+        "w": "ha",
+        "gloss": "indeed (particle)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "smāha",
+      "words": [
+       {
+        "w": "sma",
+        "gloss": "(past particle)",
+        "gram": "ind."
+       },
+       {
+        "w": "āha",
+        "gloss": "said",
+        "gram": "3 sg. pf. √ah"
+       }
+      ]
+     },
+     {
+      "src": "bhagavānātreyaḥ",
+      "words": [
+       {
+        "w": "bhagavān",
+        "gloss": "the venerable",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ātreyaḥ",
+        "gloss": "Ātreya (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ऐसा भगवान् आत्रेय ने कहा।",
+  "english": "Thus said the venerable Ātreya.",
+  "text_flags": [],
+  "notes": "Prose formula; ha and sma are particles, not rendered separately.",
+  "confidence": "high"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iha",
+      "words": [
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "khalv",
+      "words": [
+       {
+        "w": "khalu",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "aṣṭāv",
+      "words": [
+       {
+        "w": "aṣṭau",
+        "gloss": "eight",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "udarāṇi,",
+      "words": [
+       {
+        "w": "udarāṇi",
+        "gloss": "udaras (abdominal diseases)",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "aṣṭau",
+      "words": [
+       {
+        "w": "aṣṭau",
+        "gloss": "eight",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mūtrāghātaḥ,",
+      "words": [
+       {
+        "w": "mūtra-āghātāḥ",
+        "gloss": "obstructions of urine (mūtrāghāta)",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "aṣṭau",
+      "words": [
+       {
+        "w": "aṣṭau",
+        "gloss": "eight",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṣīradoṣāḥ,",
+      "words": [
+       {
+        "w": "kṣīra-doṣāḥ",
+        "gloss": "defects of (breast-)milk",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "aṣṭau",
+      "words": [
+       {
+        "w": "aṣṭau",
+        "gloss": "eight",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "retodoṣāḥ;",
+      "words": [
+       {
+        "w": "retas-doṣāḥ",
+        "gloss": "defects of semen",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sapta",
+      "words": [
+       {
+        "w": "sapta",
+        "gloss": "seven",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kuṣṭhāni,",
+      "words": [
+       {
+        "w": "kuṣṭhāni",
+        "gloss": "kuṣṭhas",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sapta",
+      "words": [
+       {
+        "w": "sapta",
+        "gloss": "seven",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "piḍakāḥ,",
+      "words": [
+       {
+        "w": "piḍakāḥ",
+        "gloss": "eruptions",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sapta",
+      "words": [
+       {
+        "w": "sapta",
+        "gloss": "seven",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "visarpāḥ;",
+      "words": [
+       {
+        "w": "visarpāḥ",
+        "gloss": "visarpas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ṣaḍatīsārāḥ,",
+      "words": [
+       {
+        "w": "ṣaṭ",
+        "gloss": "six",
+        "gram": "nom. pl."
+       },
+       {
+        "w": "atīsārāḥ",
+        "gloss": "diarrhoeas (atisāra)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ṣaḍudāvartāḥ,",
+      "words": [
+       {
+        "w": "ṣaṭ",
+        "gloss": "six",
+        "gram": "nom. pl."
+       },
+       {
+        "w": "udāvartāḥ",
+        "gloss": "udāvartas (upward-turnings)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pañca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "gulmāḥ,",
+      "words": [
+       {
+        "w": "gulmāḥ",
+        "gloss": "gulmas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pañca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "plīhadoṣāḥ,",
+      "words": [
+       {
+        "w": "plīha-doṣāḥ",
+        "gloss": "disorders of the spleen",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pañca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kāsāḥ,",
+      "words": [
+       {
+        "w": "kāsāḥ",
+        "gloss": "coughs",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pañca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śvāsāḥ,",
+      "words": [
+       {
+        "w": "śvāsāḥ",
+        "gloss": "dyspnoeas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pañca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hikkāḥ,",
+      "words": [
+       {
+        "w": "hikkāḥ",
+        "gloss": "hiccups (hikkā)",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pañca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tṛṣṇāḥ,",
+      "words": [
+       {
+        "w": "tṛṣṇāḥ",
+        "gloss": "morbid thirsts (tṛṣṇā)",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pañca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "chardayaḥ,",
+      "words": [
+       {
+        "w": "chardayaḥ",
+        "gloss": "vomitings",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pañca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhaktasyānaśanasthānāni,",
+      "words": [
+       {
+        "w": "bhaktasya",
+        "gloss": "of food",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "anaśana-sthānāni",
+        "gloss": "grounds for not eating",
+        "gram": "n. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pañca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śirorogāḥ,",
+      "words": [
+       {
+        "w": "śiras-rogāḥ",
+        "gloss": "diseases of the head",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pañca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hṛdrogāḥ,",
+      "words": [
+       {
+        "w": "hṛd-rogāḥ",
+        "gloss": "heart diseases",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pañca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pāṇḍurogāḥ,",
+      "words": [
+       {
+        "w": "pāṇḍu-rogāḥ",
+        "gloss": "pāṇḍu diseases",
+        "gram": "m. nom. pl., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "pañconmādāḥ;",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       },
+       {
+        "w": "unmādāḥ",
+        "gloss": "insanities",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "catvāro'pasmārāḥ,",
+      "words": [
+       {
+        "w": "catvāraḥ",
+        "gloss": "four",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "apasmārāḥ",
+        "gloss": "apasmāras",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "catvāro'kṣirogāḥ,",
+      "words": [
+       {
+        "w": "catvāraḥ",
+        "gloss": "four",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "akṣi-rogāḥ",
+        "gloss": "eye diseases",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "catvāraḥ",
+      "words": [
+       {
+        "w": "catvāraḥ",
+        "gloss": "four",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "karṇarogāḥ,",
+      "words": [
+       {
+        "w": "karṇa-rogāḥ",
+        "gloss": "ear diseases",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "catvāraḥ",
+      "words": [
+       {
+        "w": "catvāraḥ",
+        "gloss": "four",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pratiśyāyāḥ,",
+      "words": [
+       {
+        "w": "pratiśyāyāḥ",
+        "gloss": "coryzas (pratiśyāya)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "catvāro",
+      "words": [
+       {
+        "w": "catvāraḥ",
+        "gloss": "four",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mukharogāḥ,",
+      "words": [
+       {
+        "w": "mukha-rogāḥ",
+        "gloss": "mouth diseases",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "catvāro",
+      "words": [
+       {
+        "w": "catvāraḥ",
+        "gloss": "four",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "grahaṇīdoṣāḥ,",
+      "words": [
+       {
+        "w": "grahaṇī-doṣāḥ",
+        "gloss": "grahaṇī disorders",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "catvāro",
+      "words": [
+       {
+        "w": "catvāraḥ",
+        "gloss": "four",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "madāḥ,",
+      "words": [
+       {
+        "w": "madāḥ",
+        "gloss": "intoxications (mada)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "catvāro",
+      "words": [
+       {
+        "w": "catvāraḥ",
+        "gloss": "four",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mūrcchāyāḥ,",
+      "words": [
+       {
+        "w": "mūrcchāyāḥ",
+        "gloss": "faintings (mūrcchāya)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "catvāraḥ",
+      "words": [
+       {
+        "w": "catvāraḥ",
+        "gloss": "four",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śoṣāḥ,",
+      "words": [
+       {
+        "w": "śoṣāḥ",
+        "gloss": "wastings (śoṣa)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "catvāri",
+      "words": [
+       {
+        "w": "catvāri",
+        "gloss": "four",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "klaibyāni;",
+      "words": [
+       {
+        "w": "klaibyāni",
+        "gloss": "impotences (klaibya)",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "trayaḥ",
+      "words": [
+       {
+        "w": "trayaḥ",
+        "gloss": "three",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śophāḥ,",
+      "words": [
+       {
+        "w": "śophāḥ",
+        "gloss": "swellings",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "trīṇi",
+      "words": [
+       {
+        "w": "trīṇi",
+        "gloss": "three",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kilāsāni,",
+      "words": [
+       {
+        "w": "kilāsāni",
+        "gloss": "kilāsas",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "trividhaṃ",
+      "words": [
+       {
+        "w": "trividham",
+        "gloss": "of three kinds",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "lohitapittaṃ;",
+      "words": [
+       {
+        "w": "lohita-pittam",
+        "gloss": "lohitapitta (blood-Pitta)",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "dvau",
+      "words": [
+       {
+        "w": "dvau",
+        "gloss": "two",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "jvarau,",
+      "words": [
+       {
+        "w": "jvarau",
+        "gloss": "fevers",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "dvau",
+      "words": [
+       {
+        "w": "dvau",
+        "gloss": "two",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "vraṇau,",
+      "words": [
+       {
+        "w": "vraṇau",
+        "gloss": "wounds",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "dvāvāyāmau,",
+      "words": [
+       {
+        "w": "dvau",
+        "gloss": "two",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "āyāmau",
+        "gloss": "āyāmas (stretchings)",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "dve",
+      "words": [
+       {
+        "w": "dve",
+        "gloss": "two",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "gṛdhrasyau,",
+      "words": [
+       {
+        "w": "gṛdhrasyau",
+        "gloss": "gṛdhrasīs",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "dve",
+      "words": [
+       {
+        "w": "dve",
+        "gloss": "two",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "kāmale,",
+      "words": [
+       {
+        "w": "kāmale",
+        "gloss": "kāmalās",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "dvididhamāmaṃ,",
+      "words": [
+       {
+        "w": "dvividham",
+        "gloss": "of two kinds",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "āmam",
+        "gloss": "āma",
+        "gram": "m./n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvividhaṃ",
+      "words": [
+       {
+        "w": "dvividham",
+        "gloss": "of two kinds",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vātaraktaṃ,",
+      "words": [
+       {
+        "w": "vātaraktam",
+        "gloss": "vātarakta",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvividhāny",
+      "words": [
+       {
+        "w": "dvividhāni",
+        "gloss": "of two kinds",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "arśāṃsi;",
+      "words": [
+       {
+        "w": "arśāṃsi",
+        "gloss": "arśas (piles)",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "eka",
+      "words": [
+       {
+        "w": "ekaḥ",
+        "gloss": "one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ūrustambhaḥ,",
+      "words": [
+       {
+        "w": "ūru-stambhaḥ",
+        "gloss": "stiffness of the thighs (ūrustambha)",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ekaḥ",
+      "words": [
+       {
+        "w": "ekaḥ",
+        "gloss": "one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃnyāsaḥ,",
+      "words": [
+       {
+        "w": "saṃnyāsaḥ",
+        "gloss": "saṃnyāsa (collapse)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "eko",
+      "words": [
+       {
+        "w": "ekaḥ",
+        "gloss": "one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mahāgadaḥ;",
+      "words": [
+       {
+        "w": "mahā-gadaḥ",
+        "gloss": "the great disease",
+        "gram": "m. nom. sg., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "viṃśatiḥ",
+      "words": [
+       {
+        "w": "viṃśatiḥ",
+        "gloss": "twenty",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "krimijātayaḥ,",
+      "words": [
+       {
+        "w": "krimi-jātayaḥ",
+        "gloss": "kinds of worms",
+        "gram": "f. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "viṃśatiḥ",
+      "words": [
+       {
+        "w": "viṃśatiḥ",
+        "gloss": "twenty",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pramehāḥ,",
+      "words": [
+       {
+        "w": "pramehāḥ",
+        "gloss": "pramehas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "viṃśatir",
+      "words": [
+       {
+        "w": "viṃśatiḥ",
+        "gloss": "twenty",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yonivyāpadaḥ;",
+      "words": [
+       {
+        "w": "yoni-vyāpadaḥ",
+        "gloss": "disorders of the female genital tract",
+        "gram": "f. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "aṣṭacatvāriṃśad",
+      "words": [
+       {
+        "w": "aṣṭa-catvāriṃśat",
+        "gloss": "forty-eight",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rogādhikaraṇāny",
+      "words": [
+       {
+        "w": "roga-adhikaraṇāni",
+        "gloss": "headings of diseases",
+        "gram": "n. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "asmin",
+      "words": [
+       {
+        "w": "asmin",
+        "gloss": "in this",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃgrahe",
+      "words": [
+       {
+        "w": "saṃgrahe",
+        "gloss": "compendium",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "samuddiṣṭāni",
+      "words": [
+       {
+        "w": "samuddiṣṭāni",
+        "gloss": "have been enumerated",
+        "gram": "n. nom. pl., past part. sam-ud-√diś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यहाँ आठ उदर, आठ मूत्राघात, आठ क्षीरदोष, आठ रेतोदोष; सात कुष्ठ, सात पिडकाएँ, सात विसर्प; छह अतीसार, छह उदावर्त, पाँच गुल्म, पाँच प्लीहदोष, पाँच कास, पाँच श्वास, पाँच हिक्का, पाँच तृष्णा, पाँच छर्दि, भोजन न करने के पाँच कारण, पाँच शिरोरोग, पाँच हृद्रोग, पाँच पाण्डुरोग, पाँच उन्माद; चार अपस्मार, चार अक्षिरोग, चार कर्णरोग, चार प्रतिश्याय, चार मुखरोग, चार ग्रहणीदोष, चार मद, चार मूर्च्छा, चार शोष, चार क्लैब्य; तीन शोफ, तीन किलास, तीन प्रकार का लोहितपित्त; दो ज्वर, दो व्रण, दो आयाम, दो गृध्रसी, दो कामला, दो प्रकार का आम, दो प्रकार का वातरक्त, दो प्रकार के अर्श; एक ऊरुस्तम्भ, एक संन्यास, एक महागद; बीस कृमिजातियाँ, बीस प्रमेह, बीस योनिव्यापद् — इस प्रकार इस संग्रह में रोगों के अड़तालीस अधिकरण गिनाए गए हैं।",
+  "english": "Here, indeed, [there are] eight udaras (abdominal diseases), eight mūtrāghātas (obstructions of urine), eight defects of milk, eight defects of semen; seven kuṣṭhas, seven eruptions (piḍakā), seven visarpas; six diarrhoeas (atisāra), six udāvartas, five gulmas, five disorders of the spleen, five coughs, five dyspnoeas, five hiccups (hikkā), five morbid thirsts (tṛṣṇā), five vomitings, five grounds for not eating food, five diseases of the head, five heart diseases, five pāṇḍu diseases, five insanities; four apasmāras, four eye diseases, four ear diseases, four coryzas (pratiśyāya), four mouth diseases, four grahaṇī disorders, four intoxications (mada), four faintings, four wastings (śoṣa), four impotences (klaibya); three swellings, three kilāsas, lohitapitta of three kinds; two fevers, two wounds (vraṇa), two āyāmas, two gṛdhrasīs, two kāmalās, āma of two kinds, vātarakta of two kinds, arśas of two kinds; one ūrustambha (stiffness of the thighs), one saṃnyāsa, one great disease; twenty kinds of worms, twenty pramehas, twenty disorders of the female genital tract (yonivyāpad). Thus forty-eight headings of diseases have been enumerated in this compendium.",
+  "text_flags": [
+   {
+    "src": "mūtrāghātaḥ,",
+    "suggest": "mūtrāghātāḥ,",
+    "why": "aṣṭau needs a plural, and every other item of the list is plural; 4-1 has mūtrāghātā (= mūtrāghātāḥ) iti"
+   },
+   {
+    "src": "dvididhamāmaṃ,",
+    "suggest": "dvividhamāmaṃ,",
+    "why": "dvididha is not a word; dvividha as in the next items and in 4-7 dvividhamāmamiti"
+   }
+  ],
+  "notes": "Unit 3 has śophāḥ, 4-6 has śothā (= śothāḥ): two forms of the same word for swelling, both kept. mūrcchāyāḥ (here and in 4-5) is printed as the m. plural of mūrcchāya, not of f. mūrcchā; kept as printed. āma here is taken as n. (trividham/dvividham agree in n.); āma is m. or n. elsewhere. Disease names (kuṣṭha, visarpa, gulma, pāṇḍu, apasmāra, grahaṇī, kilāsa, lohitapitta, āyāma, gṛdhrasī, kāmalā, āma, vātarakta, arśas, saṃnyāsa, prameha, yonivyāpad) kept in Sanskrit. The count of forty-eight is the number of headings (groups), checked: 4 groups of eight, 3 of seven, 2 of six, 12 of five, 10 of four, 3 of three, 8 of two, 3 of one, 3 of twenty = 48, as also stated in verses 8 and 9.",
+  "confidence": "high"
+ },
+ {
+  "n": "4-1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "etāni",
+      "words": [
+       {
+        "w": "etāni",
+        "gloss": "these",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "yathoddeśamabhinirdekṣyāmaḥ---",
+      "words": [
+       {
+        "w": "yathā-uddeśam",
+        "gloss": "in the order of the enumeration",
+        "gram": "ind., avyayībhāva"
+       },
+       {
+        "w": "abhinirdekṣyāmaḥ",
+        "gloss": "we shall specify",
+        "gram": "1 pl. fut. abhi-nir-√diś"
+       }
+      ]
+     },
+     {
+      "src": "aṣṭāvudarāṇīti",
+      "words": [
+       {
+        "w": "aṣṭau",
+        "gloss": "eight",
+        "gram": "nom. pl."
+       },
+       {
+        "w": "udarāṇi",
+        "gloss": "udaras",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātapittakaphasannipātaplīhabaddhacchidradakodarāṇi,",
+      "words": [
+       {
+        "w": "vāta-pitta-kapha-sannipāta-plīha-baddha-chidra-daka-udarāṇi",
+        "gloss": "the udaras of Vāta, Pitta, Kapha, all three combined (sannipāta), spleen, obstruction, perforation and water",
+        "gram": "n. nom. pl., dvandva members + tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "aṣṭau",
+      "words": [
+       {
+        "w": "aṣṭau",
+        "gloss": "eight",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mūtrāghātā",
+      "words": [
+       {
+        "w": "mūtra-āghātāḥ",
+        "gloss": "obstructions of urine",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātapittakaphasannipātāśmarīśarkarāśukraśoṇitajāḥ,",
+      "words": [
+       {
+        "w": "vāta-pitta-kapha-sannipāta-aśmarī-śarkarā-śukra-śoṇita-jāḥ",
+        "gloss": "born of Vāta, Pitta, Kapha, sannipāta, stone, gravel, semen and blood",
+        "gram": "m. nom. pl., tat-puruṣa (with dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "aṣṭau",
+      "words": [
+       {
+        "w": "aṣṭau",
+        "gloss": "eight",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṣīradoṣā",
+      "words": [
+       {
+        "w": "kṣīra-doṣāḥ",
+        "gloss": "defects of milk",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vaivarṇyaṃ",
+      "words": [
+       {
+        "w": "vaivarṇyam",
+        "gloss": "discoloration",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaigandhyaṃ",
+      "words": [
+       {
+        "w": "vaigandhyam",
+        "gloss": "bad smell",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vairasyaṃ",
+      "words": [
+       {
+        "w": "vairasyam",
+        "gloss": "bad taste",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "paicchilyaṃ",
+      "words": [
+       {
+        "w": "paicchilyam",
+        "gloss": "sliminess",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "phenasaṅghāto",
+      "words": [
+       {
+        "w": "phena-saṅghātaḥ",
+        "gloss": "massing of froth",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "raukṣyaṃ",
+      "words": [
+       {
+        "w": "raukṣyam",
+        "gloss": "roughness (dryness)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gauravamatisnehaśca,",
+      "words": [
+       {
+        "w": "gauravam",
+        "gloss": "heaviness",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ati-snehaḥ",
+        "gloss": "excess of fat (unctuousness)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "aṣṭau",
+      "words": [
+       {
+        "w": "aṣṭau",
+        "gloss": "eight",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "retodoṣā",
+      "words": [
+       {
+        "w": "retas-doṣāḥ",
+        "gloss": "defects of semen",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tanu",
+      "words": [
+       {
+        "w": "tanu",
+        "gloss": "thin",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śuṣkaṃ",
+      "words": [
+       {
+        "w": "śuṣkam",
+        "gloss": "dry",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "phenilamaśvetaṃ",
+      "words": [
+       {
+        "w": "phenilam",
+        "gloss": "frothy",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "aśvetam",
+        "gloss": "not white",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūtyatipicchalamanyadhātūpahitamavasādi",
+      "words": [
+       {
+        "w": "pūti",
+        "gloss": "putrid",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ati-picchalam",
+        "gloss": "very slimy",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "anya-dhātu-upahitam",
+        "gloss": "mixed with other dhātus",
+        "gram": "n. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "avasādi",
+        "gloss": "sinking",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "(1);",
+      "words": [
+       {
+        "w": "(1)",
+        "gloss": "(section number)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इन्हें हम उद्देश के क्रम से स्पष्ट करेंगे — 'आठ उदर': वात, पित्त, कफ, सन्निपात, प्लीहा, बद्ध, छिद्र और दक उदर; 'आठ मूत्राघात': वात, पित्त, कफ, सन्निपात, अश्मरी, शर्करा, शुक्र और शोणित से उत्पन्न; 'आठ क्षीरदोष': विवर्णता, दुर्गन्ध, विरसता, पिच्छिलता, झाग का जमाव, रूक्षता, गुरुता और अतिस्निग्धता; 'आठ रेतोदोष': पतला, सूखा, झागदार, अश्वेत, सड़ा हुआ, अति पिच्छिल, अन्य धातुओं से मिला हुआ और नीचे बैठने वाला।",
+  "english": "These we shall specify in the order of the enumeration. 'Eight udaras': the udaras of Vāta, Pitta, Kapha, sannipāta (all three combined), the spleen, obstruction (baddha), perforation (chidra) and water (daka). 'Eight obstructions of urine': those born of Vāta, Pitta, Kapha, sannipāta, stone (aśmarī), gravel (śarkarā), semen and blood. 'Eight defects of milk': discoloration, bad smell, bad taste, sliminess, massing of froth, roughness, heaviness and excess of unctuousness. 'Eight defects of semen': [semen that is] thin, dry, frothy, not white, putrid, very slimy, mixed with other dhātus, and sinking.",
+  "text_flags": [],
+  "notes": "sannipāta = the combination of all three doṣas. daka = udaka 'water' (dakodara = water-udara). baddha 'bound, obstructed' and chidra 'hole, perforation' are given their literal meanings. avasādi (from ava-√sad) is taken as 'sinking (to the bottom)'; it could also mean 'depressed, weak'. kṣīra here is breast-milk (the context is the defects of milk as a dhātu-like fluid); the text says only kṣīra. The section number (1) is the edition's.",
+  "confidence": "high"
+ },
+ {
+  "n": "4-2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sapta",
+      "words": [
+       {
+        "w": "sapta",
+        "gloss": "seven",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kuṣṭhānīti",
+      "words": [
+       {
+        "w": "kuṣṭhāni",
+        "gloss": "kuṣṭhas",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kapālodumbaramaṇḍalarṣyajihvapuṇḍarīkasidhmakākaṇāni,",
+      "words": [
+       {
+        "w": "kapāla-udumbara-maṇḍala-ṛṣyajihva-puṇḍarīka-sidhma-kākaṇāni",
+        "gloss": "kapāla, udumbara, maṇḍala, ṛṣyajihva, puṇḍarīka, sidhma and kākaṇa",
+        "gram": "n. nom. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "sapta",
+      "words": [
+       {
+        "w": "sapta",
+        "gloss": "seven",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "piḍakā",
+      "words": [
+       {
+        "w": "piḍakāḥ",
+        "gloss": "eruptions",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śarāvikā",
+      "words": [
+       {
+        "w": "śarāvikā",
+        "gloss": "śarāvikā (name)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kacchapikā",
+      "words": [
+       {
+        "w": "kacchapikā",
+        "gloss": "kacchapikā (name)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jālinī",
+      "words": [
+       {
+        "w": "jālinī",
+        "gloss": "jālinī (name)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarṣapyalajī",
+      "words": [
+       {
+        "w": "sarṣapī",
+        "gloss": "sarṣapī (name)",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "alajī",
+        "gloss": "alajī (name)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vinatā",
+      "words": [
+       {
+        "w": "vinatā",
+        "gloss": "vinatā (name)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidradhī",
+      "words": [
+       {
+        "w": "vidradhī",
+        "gloss": "vidradhī (name)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca,",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sapta",
+      "words": [
+       {
+        "w": "sapta",
+        "gloss": "seven",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "visarpā",
+      "words": [
+       {
+        "w": "visarpāḥ",
+        "gloss": "visarpas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātapittakaphāgnikardamakagranthisannipātākhyāḥ",
+      "words": [
+       {
+        "w": "vāta-pitta-kapha-agni-kardamaka-granthi-sannipāta-ākhyāḥ",
+        "gloss": "named Vāta, Pitta, Kapha, agni, kardamaka, granthi and sannipāta",
+        "gram": "m. nom. pl., bahuvrīhi (with dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "(2);",
+      "words": [
+       {
+        "w": "(2)",
+        "gloss": "(section number)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "'सात कुष्ठ': कपाल, उदुम्बर, मण्डल, ऋष्यजिह्व, पुण्डरीक, सिध्म और काकण; 'सात पिडकाएँ': शराविका, कच्छपिका, जालिनी, सर्षपी, अलजी, विनता और विद्रधी; 'सात विसर्प': वात, पित्त, कफ, अग्नि, कर्दमक, ग्रन्थि और सन्निपात नाम वाले।",
+  "english": "'Seven kuṣṭhas': kapāla, udumbara, maṇḍala, ṛṣyajihva, puṇḍarīka, sidhma and kākaṇa. 'Seven eruptions': śarāvikā, kacchapikā, jālinī, sarṣapī, alajī, vinatā and vidradhī. 'Seven visarpas': those named Vāta, Pitta, Kapha, agni (fire), kardamaka, granthi and sannipāta.",
+  "text_flags": [],
+  "notes": "Names kept in Sanskrit. Literal meanings of the kuṣṭha names: kapāla 'potsherd', udumbara 'fig', maṇḍala 'circle', ṛṣyajihva 'antelope's tongue', puṇḍarīka 'lotus', kākaṇa (unclear, kept). kardamaka 'muddy', granthi 'knot'.",
+  "confidence": "high"
+ },
+ {
+  "n": "4-3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ṣaḍatīsārā",
+      "words": [
+       {
+        "w": "ṣaṭ",
+        "gloss": "six",
+        "gram": "nom. pl."
+       },
+       {
+        "w": "atīsārāḥ",
+        "gloss": "diarrhoeas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātapittakaphasannipātabhayaśokajāḥ,",
+      "words": [
+       {
+        "w": "vāta-pitta-kapha-sannipāta-bhaya-śoka-jāḥ",
+        "gloss": "born of Vāta, Pitta, Kapha, sannipāta, fear and grief",
+        "gram": "m. nom. pl., tat-puruṣa (with dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "ṣaḍudāvartā",
+      "words": [
+       {
+        "w": "ṣaṭ",
+        "gloss": "six",
+        "gram": "nom. pl."
+       },
+       {
+        "w": "udāvartāḥ",
+        "gloss": "udāvartas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātamūtrapurīṣaśukracchardikṣavathujāḥ",
+      "words": [
+       {
+        "w": "vāta-mūtra-purīṣa-śukra-chardi-kṣavathu-jāḥ",
+        "gloss": "born of flatus, urine, faeces, semen, vomiting and sneezing",
+        "gram": "m. nom. pl., tat-puruṣa (with dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "(3);",
+      "words": [
+       {
+        "w": "(3)",
+        "gloss": "(section number)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "'छह अतीसार': वात, पित्त, कफ, सन्निपात, भय और शोक से उत्पन्न; 'छह उदावर्त': वात, मूत्र, पुरीष, शुक्र, छर्दि और छींक से उत्पन्न।",
+  "english": "'Six diarrhoeas': those born of Vāta, Pitta, Kapha, sannipāta, fear and grief. 'Six udāvartas': those born of flatus (vāta), urine, faeces, semen, vomiting and sneezing.",
+  "text_flags": [],
+  "notes": "In the udāvarta list vāta is taken as flatus, since it stands among the bodily discharges. The text says only 'born of' these; it does not say here whether their suppression is meant.",
+  "confidence": "high"
+ },
+ {
+  "n": "4-4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pañca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "gulmā",
+      "words": [
+       {
+        "w": "gulmāḥ",
+        "gloss": "gulmas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātapittakaphasannipātaśoṇitajāḥ,",
+      "words": [
+       {
+        "w": "vāta-pitta-kapha-sannipāta-śoṇita-jāḥ",
+        "gloss": "born of Vāta, Pitta, Kapha, sannipāta and blood",
+        "gram": "m. nom. pl., tat-puruṣa (with dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "pañca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "plīhadoṣā",
+      "words": [
+       {
+        "w": "plīha-doṣāḥ",
+        "gloss": "disorders of the spleen",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gulmairvyākhyātāḥ,",
+      "words": [
+       {
+        "w": "gulmaiḥ",
+        "gloss": "by the gulmas",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "vyākhyātāḥ",
+        "gloss": "are explained",
+        "gram": "m. nom. pl., past part. vi-ā-√khyā"
+       }
+      ]
+     },
+     {
+      "src": "pañca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kāsā",
+      "words": [
+       {
+        "w": "kāsāḥ",
+        "gloss": "coughs",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātapittakaphakṣatakṣayajāḥ,",
+      "words": [
+       {
+        "w": "vāta-pitta-kapha-kṣata-kṣaya-jāḥ",
+        "gloss": "born of Vāta, Pitta, Kapha, injury and wasting",
+        "gram": "m. nom. pl., tat-puruṣa (with dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "pañca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śvāsā",
+      "words": [
+       {
+        "w": "śvāsāḥ",
+        "gloss": "dyspnoeas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mahordhvacchinnatamakakṣudrāḥ,",
+      "words": [
+       {
+        "w": "mahā-ūrdhva-chinna-tamaka-kṣudrāḥ",
+        "gloss": "great, upward, interrupted, tamaka and minor",
+        "gram": "m. nom. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "pañca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hikkā",
+      "words": [
+       {
+        "w": "hikkāḥ",
+        "gloss": "hiccups",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mahatī",
+      "words": [
+       {
+        "w": "mahatī",
+        "gloss": "great",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gambhīrā",
+      "words": [
+       {
+        "w": "gambhīrā",
+        "gloss": "deep",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyapetā",
+      "words": [
+       {
+        "w": "vyapetā",
+        "gloss": "intermittent (vyapetā)",
+        "gram": "f. nom. sg., past part. vi-apa-√i"
+       }
+      ]
+     },
+     {
+      "src": "kṣudrānnajā",
+      "words": [
+       {
+        "w": "kṣudrā",
+        "gloss": "minor",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "anna-jā",
+        "gloss": "born of food",
+        "gram": "f. nom. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca,",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pañca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tṛṣṇā",
+      "words": [
+       {
+        "w": "tṛṣṇāḥ",
+        "gloss": "morbid thirsts",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātapittāmakṣayopasargātmikāḥ,",
+      "words": [
+       {
+        "w": "vāta-pitta-āma-kṣaya-upasarga-ātmikāḥ",
+        "gloss": "of the nature of Vāta, Pitta, āma, wasting and secondary affection",
+        "gram": "f. nom. pl., bahuvrīhi (with dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "pañca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "chardaya",
+      "words": [
+       {
+        "w": "chardayaḥ",
+        "gloss": "vomitings",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dviṣṭārthasaṃyogajā",
+      "words": [
+       {
+        "w": "dviṣṭa-artha-saṃyoga-jā",
+        "gloss": "born of contact with disliked objects",
+        "gram": "f. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vātapittakaphasannipātodrekotthāśca,",
+      "words": [
+       {
+        "w": "vāta-pitta-kapha-sannipāta-udreka-utthāḥ",
+        "gloss": "arising from the predominance of Vāta, Pitta, Kapha and sannipāta",
+        "gram": "f. nom. pl., tat-puruṣa (with dvandva)"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pañca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhaktasyānaśanasthānānīti",
+      "words": [
+       {
+        "w": "bhaktasya",
+        "gloss": "of food",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "anaśana-sthānāni",
+        "gloss": "grounds for not eating",
+        "gram": "n. nom. pl., tat-puruṣa"
+       },
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātapittakaphasannipātadveṣāḥ,",
+      "words": [
+       {
+        "w": "vāta-pitta-kapha-sannipāta-dveṣāḥ",
+        "gloss": "Vāta, Pitta, Kapha, sannipāta and aversion",
+        "gram": "m. nom. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "pañca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śirorogā",
+      "words": [
+       {
+        "w": "śiras-rogāḥ",
+        "gloss": "diseases of the head",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pūrvoddeśamabhisamasya",
+      "words": [
+       {
+        "w": "pūrva-uddeśam",
+        "gloss": "the former enumeration",
+        "gram": "m. acc. sg., karmadhāraya"
+       },
+       {
+        "w": "abhisamasya",
+        "gloss": "taking together",
+        "gram": "abs. abhi-sam-√as"
+       }
+      ]
+     },
+     {
+      "src": "vātapittakaphasannipātakrimijāḥ,",
+      "words": [
+       {
+        "w": "vāta-pitta-kapha-sannipāta-krimi-jāḥ",
+        "gloss": "born of Vāta, Pitta, Kapha, sannipāta and worms",
+        "gram": "m. nom. pl., tat-puruṣa (with dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "pañca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hṛdrogā",
+      "words": [
+       {
+        "w": "hṛd-rogāḥ",
+        "gloss": "heart diseases",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śirorogairvyākhyātāḥ,",
+      "words": [
+       {
+        "w": "śiras-rogaiḥ",
+        "gloss": "by the diseases of the head",
+        "gram": "m. inst. pl., tat-puruṣa"
+       },
+       {
+        "w": "vyākhyātāḥ",
+        "gloss": "are explained",
+        "gram": "m. nom. pl., past part. vi-ā-√khyā"
+       }
+      ]
+     },
+     {
+      "src": "pañca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pāṇḍurogā",
+      "words": [
+       {
+        "w": "pāṇḍu-rogāḥ",
+        "gloss": "pāṇḍu diseases",
+        "gram": "m. nom. pl., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātapittakaphasannipātamṛdbhakṣaṇajāḥ,",
+      "words": [
+       {
+        "w": "vāta-pitta-kapha-sannipāta-mṛd-bhakṣaṇa-jāḥ",
+        "gloss": "born of Vāta, Pitta, Kapha, sannipāta and eating clay",
+        "gram": "m. nom. pl., tat-puruṣa (with dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "pañconmādā",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       },
+       {
+        "w": "unmādāḥ",
+        "gloss": "insanities",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātapittakaphasannipātāgantunimittāḥ",
+      "words": [
+       {
+        "w": "vāta-pitta-kapha-sannipāta-āgantu-nimittāḥ",
+        "gloss": "caused by Vāta, Pitta, Kapha, sannipāta and exogenous factors",
+        "gram": "m. nom. pl., bahuvrīhi (with dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "(4);",
+      "words": [
+       {
+        "w": "(4)",
+        "gloss": "(section number)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "'पाँच गुल्म': वात, पित्त, कफ, सन्निपात और शोणित से उत्पन्न; 'पाँच प्लीहदोष' गुल्मों के समान व्याख्यात हैं; 'पाँच कास': वात, पित्त, कफ, क्षत और क्षय से उत्पन्न; 'पाँच श्वास': महा, ऊर्ध्व, छिन्न, तमक और क्षुद्र; 'पाँच हिक्का': महती, गम्भीरा, व्यपेता, क्षुद्रा और अन्नजा; 'पाँच तृष्णा': वात, पित्त, आम, क्षय और उपसर्ग स्वरूप वाली; 'पाँच छर्दि': अप्रिय विषयों के संयोग से उत्पन्न और वात, पित्त, कफ तथा सन्निपात की अधिकता से उठने वाली; 'भोजन न करने के पाँच कारण': वात, पित्त, कफ, सन्निपात और द्वेष; 'पाँच शिरोरोग' पूर्व उद्देश को साथ लेकर वात, पित्त, कफ, सन्निपात और कृमि से उत्पन्न; 'पाँच हृद्रोग' शिरोरोगों के समान व्याख्यात हैं; 'पाँच पाण्डुरोग': वात, पित्त, कफ, सन्निपात और मिट्टी खाने से उत्पन्न; 'पाँच उन्माद': वात, पित्त, कफ, सन्निपात और आगन्तु कारण वाले।",
+  "english": "'Five gulmas': those born of Vāta, Pitta, Kapha, sannipāta and blood. 'Five disorders of the spleen' are explained by the gulmas. 'Five coughs': those born of Vāta, Pitta, Kapha, injury (kṣata) and wasting (kṣaya). 'Five dyspnoeas': the great, the upward, the interrupted, tamaka and the minor. 'Five hiccups': the great (mahatī), the deep (gambhīrā), the intermittent (vyapetā), the minor (kṣudrā) and the food-born (annajā). 'Five morbid thirsts': those of the nature of Vāta, Pitta, āma, wasting and secondary affection (upasarga). 'Five vomitings': one born of contact with disliked objects, and those arising from the predominance of Vāta, Pitta, Kapha and sannipāta. 'Five grounds for not eating food': Vāta, Pitta, Kapha, sannipāta and aversion. 'Five diseases of the head': taking together the former enumeration, those born of Vāta, Pitta, Kapha, sannipāta and worms. 'Five heart diseases' are explained by the diseases of the head. 'Five pāṇḍu diseases': those born of Vāta, Pitta, Kapha, sannipāta and eating clay. 'Five insanities': those caused by Vāta, Pitta, Kapha, sannipāta and exogenous factors (āgantu).",
+  "text_flags": [],
+  "notes": "'Explained by the gulmas' / 'by the diseases of the head': the spleen disorders follow the same five-fold division as the gulmas, and the heart diseases the same as the head diseases. pūrvoddeśam abhisamasya (abs. of abhi-sam-√as, 'having put together') is read as 'taking together the earlier listing' (the Vāta-Pitta-Kapha-sannipāta series); exact sense medium. vyapetā (vi-apa-√i, 'gone apart') is rendered 'intermittent'; it could also mean 'separated, irregular'. upasarga is rendered 'secondary affection' (literally 'that which attaches itself'); the precise sense is not stated here. kṣudrānnajā is split kṣudrā + annajā, as the count of five requires. tamaka kept Sanskrit.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4-5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "catvāro'pasmārā",
+      "words": [
+       {
+        "w": "catvāraḥ",
+        "gloss": "four",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "apasmārāḥ",
+        "gloss": "apasmāras",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātapittakaphasannipātanimittāḥ,",
+      "words": [
+       {
+        "w": "vāta-pitta-kapha-sannipāta-nimittāḥ",
+        "gloss": "caused by Vāta, Pitta, Kapha and sannipāta",
+        "gram": "m. nom. pl., bahuvrīhi (with dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "catvāro'kṣirogāścatvāraḥ",
+      "words": [
+       {
+        "w": "catvāraḥ",
+        "gloss": "four",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "akṣi-rogāḥ",
+        "gloss": "eye diseases",
+        "gram": "m. nom. pl., tat-puruṣa"
+       },
+       {
+        "w": "catvāraḥ",
+        "gloss": "four",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "karṇarogāścatvāraḥ",
+      "words": [
+       {
+        "w": "karṇa-rogāḥ",
+        "gloss": "ear diseases",
+        "gram": "m. nom. pl., tat-puruṣa"
+       },
+       {
+        "w": "catvāraḥ",
+        "gloss": "four",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pratiśyāyāścatvāro",
+      "words": [
+       {
+        "w": "pratiśyāyāḥ",
+        "gloss": "coryzas",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "catvāraḥ",
+        "gloss": "four",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mukharogāścatvāro",
+      "words": [
+       {
+        "w": "mukha-rogāḥ",
+        "gloss": "mouth diseases",
+        "gram": "m. nom. pl., tat-puruṣa"
+       },
+       {
+        "w": "catvāraḥ",
+        "gloss": "four",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "grahaṇīdoṣāścatvāro",
+      "words": [
+       {
+        "w": "grahaṇī-doṣāḥ",
+        "gloss": "grahaṇī disorders",
+        "gram": "m. nom. pl., tat-puruṣa"
+       },
+       {
+        "w": "catvāraḥ",
+        "gloss": "four",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "madāścatvāro",
+      "words": [
+       {
+        "w": "madāḥ",
+        "gloss": "intoxications",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "catvāraḥ",
+        "gloss": "four",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mūrcchāyā",
+      "words": [
+       {
+        "w": "mūrcchāyāḥ",
+        "gloss": "faintings",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ityapasmārairvyākhyātāḥ,",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       },
+       {
+        "w": "apasmāraiḥ",
+        "gloss": "by the apasmāras",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "vyākhyātāḥ",
+        "gloss": "are explained",
+        "gram": "m. nom. pl., past part. vi-ā-√khyā"
+       }
+      ]
+     },
+     {
+      "src": "catvāraḥ",
+      "words": [
+       {
+        "w": "catvāraḥ",
+        "gloss": "four",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śoṣā",
+      "words": [
+       {
+        "w": "śoṣāḥ",
+        "gloss": "wastings",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sāhasasandhāraṇakṣayaviṣamāśanajāḥ,",
+      "words": [
+       {
+        "w": "sāhasa-sandhāraṇa-kṣaya-viṣama-aśana-jāḥ",
+        "gloss": "born of over-exertion, suppression, depletion and irregular eating",
+        "gram": "m. nom. pl., tat-puruṣa (with dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "catvāri",
+      "words": [
+       {
+        "w": "catvāri",
+        "gloss": "four",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "klaibyānīti",
+      "words": [
+       {
+        "w": "klaibyāni",
+        "gloss": "impotences",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bījopaghātāddhvajabhaṅgājjarāyāḥ",
+      "words": [
+       {
+        "w": "bīja-upaghātāt",
+        "gloss": "from damage to the seed",
+        "gram": "m. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "dhvaja-bhaṅgāt",
+        "gloss": "from breakdown of the penis",
+        "gram": "m. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "jarāyāḥ",
+        "gloss": "from old age",
+        "gram": "f. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "śukrakṣayācca",
+      "words": [
+       {
+        "w": "śukra-kṣayāt",
+        "gloss": "from depletion of semen",
+        "gram": "m. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "(5);",
+      "words": [
+       {
+        "w": "(5)",
+        "gloss": "(section number)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "'चार अपस्मार': वात, पित्त, कफ और सन्निपात के कारण वाले; चार अक्षिरोग, चार कर्णरोग, चार प्रतिश्याय, चार मुखरोग, चार ग्रहणीदोष, चार मद और चार मूर्च्छा — ये अपस्मारों के समान व्याख्यात हैं; 'चार शोष': साहस, सन्धारण, क्षय और विषम भोजन से उत्पन्न; 'चार क्लैब्य': बीज के उपघात से, ध्वज के भङ्ग से, जरा से और शुक्र के क्षय से।",
+  "english": "'Four apasmāras': those caused by Vāta, Pitta, Kapha and sannipāta. Four eye diseases, four ear diseases, four coryzas, four mouth diseases, four grahaṇī disorders, four intoxications and four faintings are explained by the apasmāras. 'Four wastings': those born of over-exertion (sāhasa), suppression (sandhāraṇa), depletion (kṣaya) and irregular eating. 'Four impotences': from damage to the seed, from breakdown of the penis (dhvaja), from old age, and from depletion of semen.",
+  "text_flags": [],
+  "notes": "'Explained by the apasmāras' = these seven groups follow the same four-fold division (Vāta, Pitta, Kapha, sannipāta). sāhasa literally 'rash or violent act', here taken as over-exertion; sandhāraṇa 'holding back', taken as suppression (of urges), which the text does not spell out. mūrcchāyāḥ kept as printed (m. pl. of mūrcchāya); see unit 3.",
+  "confidence": "high"
+ },
+ {
+  "n": "4-6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "trayaḥ",
+      "words": [
+       {
+        "w": "trayaḥ",
+        "gloss": "three",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śothā",
+      "words": [
+       {
+        "w": "śothāḥ",
+        "gloss": "swellings",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātapittaśleṣmanimittāḥ,",
+      "words": [
+       {
+        "w": "vāta-pitta-śleṣma-nimittāḥ",
+        "gloss": "caused by Vāta, Pitta and Kapha (śleṣman)",
+        "gram": "m. nom. pl., bahuvrīhi (with dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "trīṇi",
+      "words": [
+       {
+        "w": "trīṇi",
+        "gloss": "three",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kilāsānīti",
+      "words": [
+       {
+        "w": "kilāsāni",
+        "gloss": "kilāsas",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "raktatāmraśuklāni,",
+      "words": [
+       {
+        "w": "rakta-tāmra-śuklāni",
+        "gloss": "red, coppery and white",
+        "gram": "n. nom. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "trividhaṃ",
+      "words": [
+       {
+        "w": "trividham",
+        "gloss": "of three kinds",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "lohitapittamiti",
+      "words": [
+       {
+        "w": "lohita-pittam",
+        "gloss": "lohitapitta",
+        "gram": "n. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ūrdhvabhāgamadhobhāgamubhayabhāgaṃ",
+      "words": [
+       {
+        "w": "ūrdhva-bhāgam",
+        "gloss": "going upward",
+        "gram": "n. nom. sg., bahuvrīhi"
+       },
+       {
+        "w": "adhas-bhāgam",
+        "gloss": "going downward",
+        "gram": "n. nom. sg., bahuvrīhi"
+       },
+       {
+        "w": "ubhaya-bhāgam",
+        "gloss": "going both ways",
+        "gram": "n. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "(6);",
+      "words": [
+       {
+        "w": "(6)",
+        "gloss": "(section number)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "'तीन शोथ': वात, पित्त और श्लेष्मा के कारण वाले; 'तीन किलास': लाल, ताम्र और श्वेत; 'तीन प्रकार का लोहितपित्त': ऊर्ध्वभाग, अधोभाग और उभयभाग।",
+  "english": "'Three swellings': those caused by Vāta, Pitta and Kapha (śleṣman). 'Three kilāsas': red, coppery and white. 'Lohitapitta of three kinds': going upward, going downward and going both ways.",
+  "text_flags": [],
+  "notes": "ūrdhvabhāga etc. are read as bahuvrīhis, 'whose course (bhāga, side) is upward / downward / both'. śotha here = śopha of unit 3.",
+  "confidence": "high"
+ },
+ {
+  "n": "4-7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dvau",
+      "words": [
+       {
+        "w": "dvau",
+        "gloss": "two",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "jvarāviti",
+      "words": [
+       {
+        "w": "jvarau",
+        "gloss": "fevers",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "uṣṇābhiprāyaḥ",
+      "words": [
+       {
+        "w": "uṣṇa-abhiprāyaḥ",
+        "gloss": "desiring heat",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "śītasamutthaśca",
+      "words": [
+       {
+        "w": "śīta-samutthaḥ",
+        "gloss": "arising from cold",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śītābhiprāyaścoṣṇasamutthaḥ,",
+      "words": [
+       {
+        "w": "śīta-abhiprāyaḥ",
+        "gloss": "desiring cold",
+        "gram": "m. nom. sg., bahuvrīhi"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "uṣṇa-samutthaḥ",
+        "gloss": "arising from heat",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "dvau",
+      "words": [
+       {
+        "w": "dvau",
+        "gloss": "two",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "vraṇāviti",
+      "words": [
+       {
+        "w": "vraṇau",
+        "gloss": "wounds",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nijaścāgantujaśca,",
+      "words": [
+       {
+        "w": "nijaḥ",
+        "gloss": "endogenous",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "āgantu-jaḥ",
+        "gloss": "exogenous",
+        "gram": "m. nom. sg., upapada tat-puruṣa"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dvāvāyāmāviti",
+      "words": [
+       {
+        "w": "dvau",
+        "gloss": "two",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "āyāmau",
+        "gloss": "āyāmas",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bāhyaścābhyantaraśca,",
+      "words": [
+       {
+        "w": "bāhyaḥ",
+        "gloss": "external",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ābhyantaraḥ",
+        "gloss": "internal",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dve",
+      "words": [
+       {
+        "w": "dve",
+        "gloss": "two",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "gṛdhrasyāviti",
+      "words": [
+       {
+        "w": "gṛdhrasyau",
+        "gloss": "gṛdhrasīs",
+        "gram": "f. nom. du."
+       },
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātādvātakaphācca,",
+      "words": [
+       {
+        "w": "vātāt",
+        "gloss": "from Vāta",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "vāta-kaphāt",
+        "gloss": "from Vāta and Kapha",
+        "gram": "n. abl. sg., samāhāra dvandva"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dve",
+      "words": [
+       {
+        "w": "dve",
+        "gloss": "two",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "kāmale",
+      "words": [
+       {
+        "w": "kāmale",
+        "gloss": "kāmalās",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "koṣṭhāśrayā",
+      "words": [
+       {
+        "w": "koṣṭha-āśrayā",
+        "gloss": "based in the trunk",
+        "gram": "f. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "śākhāśrayā",
+      "words": [
+       {
+        "w": "śākhā-āśrayā",
+        "gloss": "based in the periphery",
+        "gram": "f. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "ca,",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dvividhamāmamiti",
+      "words": [
+       {
+        "w": "dvividham",
+        "gloss": "of two kinds",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "āmam",
+        "gloss": "āma",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "alasako",
+      "words": [
+       {
+        "w": "alasakaḥ",
+        "gloss": "alasaka",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "visūcikā",
+      "words": [
+       {
+        "w": "visūcikā",
+        "gloss": "visūcikā",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca,",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dvividhaṃ",
+      "words": [
+       {
+        "w": "dvividham",
+        "gloss": "of two kinds",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vātaraktamiti",
+      "words": [
+       {
+        "w": "vātaraktam",
+        "gloss": "vātarakta",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gambhīramuttānaṃ",
+      "words": [
+       {
+        "w": "gambhīram",
+        "gloss": "deep",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "uttānam",
+        "gloss": "superficial",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca,",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dvividhānyarśāṃsīti",
+      "words": [
+       {
+        "w": "dvividhāni",
+        "gloss": "of two kinds",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "arśāṃsi",
+        "gloss": "arśas",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śuṣkāṇyārdrāṇi",
+      "words": [
+       {
+        "w": "śuṣkāṇi",
+        "gloss": "dry",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "ārdrāṇi",
+        "gloss": "moist",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "(7);",
+      "words": [
+       {
+        "w": "(7)",
+        "gloss": "(section number)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "'दो ज्वर': उष्ण की इच्छा वाला और शीत से उत्पन्न, तथा शीत की इच्छा वाला और उष्ण से उत्पन्न; 'दो व्रण': निज और आगन्तुज; 'दो आयाम': बाह्य और आभ्यन्तर; 'दो गृध्रसी': वात से और वात-कफ से; 'दो कामला': कोष्ठ के आश्रय वाली और शाखा के आश्रय वाली; 'दो प्रकार का आम': अलसक और विसूचिका; 'दो प्रकार का वातरक्त': गम्भीर और उत्तान; 'दो प्रकार के अर्श': शुष्क और आर्द्र।",
+  "english": "'Two fevers': one that desires heat and arises from cold, and one that desires cold and arises from heat. 'Two wounds': the endogenous and the exogenous. 'Two āyāmas': the external and the internal. 'Two gṛdhrasīs': from Vāta, and from Vāta and Kapha. 'Two kāmalās': one based in the trunk (koṣṭha) and one based in the periphery (śākhā). 'Āma of two kinds': alasaka and visūcikā. 'Vātarakta of two kinds': deep and superficial. 'Arśas of two kinds': dry and moist.",
+  "text_flags": [],
+  "notes": "vātakaphāt is read as a samāhāra dvandva (n. abl. sg.). āyāma literally 'stretching, extension'; kept Sanskrit. alasaka and visūcikā kept Sanskrit.",
+  "confidence": "high"
+ },
+ {
+  "n": "4-8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "eka",
+      "words": [
+       {
+        "w": "ekaḥ",
+        "gloss": "one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ūrustambha",
+      "words": [
+       {
+        "w": "ūru-stambhaḥ",
+        "gloss": "stiffness of the thighs",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ityāmatridoṣasamutthaḥ,",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       },
+       {
+        "w": "āma-tridoṣa-samutthaḥ",
+        "gloss": "arising from āma and the three doṣas",
+        "gram": "m. nom. sg., tat-puruṣa (with dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "ekaḥ",
+      "words": [
+       {
+        "w": "ekaḥ",
+        "gloss": "one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃnyāsa",
+      "words": [
+       {
+        "w": "saṃnyāsaḥ",
+        "gloss": "saṃnyāsa",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tridoṣātmako",
+      "words": [
+       {
+        "w": "tri-doṣa-ātmakaḥ",
+        "gloss": "of the nature of the three doṣas",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "manaḥśarīrādhiṣṭhānaḥ,",
+      "words": [
+       {
+        "w": "manas-śarīra-adhiṣṭhānaḥ",
+        "gloss": "seated in mind and body",
+        "gram": "m. nom. sg., bahuvrīhi (with dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "eko",
+      "words": [
+       {
+        "w": "ekaḥ",
+        "gloss": "one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mahāgada",
+      "words": [
+       {
+        "w": "mahā-gadaḥ",
+        "gloss": "the great disease",
+        "gram": "m. nom. sg., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "atattvābhiniveśaḥ",
+      "words": [
+       {
+        "w": "a-tattva-abhiniveśaḥ",
+        "gloss": "attachment to what is not true",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "(8);",
+      "words": [
+       {
+        "w": "(8)",
+        "gloss": "(section number)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "'एक ऊरुस्तम्भ': आम और तीनों दोषों से उत्पन्न; 'एक संन्यास': तीनों दोषों के स्वरूप वाला, मन और शरीर में अधिष्ठित; 'एक महागद': अतत्त्व में अभिनिवेश।",
+  "english": "'One ūrustambha': arising from āma and the three doṣas. 'One saṃnyāsa': of the nature of the three doṣas, seated in mind and body. 'One great disease': attachment to what is not true (atattvābhiniveśa).",
+  "text_flags": [],
+  "notes": "āmatridoṣa is read as a dvandva 'āma and the three doṣas'; it could also be read 'the three doṣas with āma'. atattva = 'non-reality, what is not the truth'; abhiniveśa = 'fixed attachment, obstinate adherence'.",
+  "confidence": "high"
+ },
+ {
+  "n": "4-9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viṃśatiḥ",
+      "words": [
+       {
+        "w": "viṃśatiḥ",
+        "gloss": "twenty",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kramijātaya",
+      "words": [
+       {
+        "w": "krimi-jātayaḥ",
+        "gloss": "kinds of worms",
+        "gram": "f. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yūkā",
+      "words": [
+       {
+        "w": "yūkāḥ",
+        "gloss": "lice (yūkā)",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pipīlikāśceti",
+      "words": [
+       {
+        "w": "pipīlikāḥ",
+        "gloss": "pipīlikās (lit. ants)",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "(closing the list)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dvividhā",
+      "words": [
+       {
+        "w": "dvividhāḥ",
+        "gloss": "of two kinds",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bahirmalajāḥ,",
+      "words": [
+       {
+        "w": "bahis-mala-jāḥ",
+        "gloss": "born of external dirt",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "keśādā",
+      "words": [
+       {
+        "w": "keśa-adāḥ",
+        "gloss": "keśāda (hair-eaters)",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "lomādā",
+      "words": [
+       {
+        "w": "loma-adāḥ",
+        "gloss": "lomāda (body-hair-eaters)",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "lomadvīpāḥ",
+      "words": [
+       {
+        "w": "loma-dvīpāḥ",
+        "gloss": "lomadvīpa (name)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "saurasā",
+      "words": [
+       {
+        "w": "saurasāḥ",
+        "gloss": "saurasa (name)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "audumbarā",
+      "words": [
+       {
+        "w": "audumbarāḥ",
+        "gloss": "audumbara (name)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "jantumātaraśceti",
+      "words": [
+       {
+        "w": "jantu-mātaraḥ",
+        "gloss": "jantumātṛ (mothers of creatures)",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "(closing the list)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣaṭ",
+      "words": [
+       {
+        "w": "ṣaṭ",
+        "gloss": "six",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śoṇitajāḥ,",
+      "words": [
+       {
+        "w": "śoṇita-jāḥ",
+        "gloss": "born of blood",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "antrādā",
+      "words": [
+       {
+        "w": "antra-adāḥ",
+        "gloss": "antrāda (intestine-eaters)",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "udarāveṣṭā",
+      "words": [
+       {
+        "w": "udara-āveṣṭāḥ",
+        "gloss": "udarāveṣṭa (belly-encirclers)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hṛdayādāścuravo",
+      "words": [
+       {
+        "w": "hṛdaya-adāḥ",
+        "gloss": "hṛdayāda (heart-eaters)",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       },
+       {
+        "w": "curavaḥ",
+        "gloss": "curu (name)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "darbhapuṣpāḥ",
+      "words": [
+       {
+        "w": "darbha-puṣpāḥ",
+        "gloss": "darbhapuṣpa (name)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "saugandhikā",
+      "words": [
+       {
+        "w": "saugandhikāḥ",
+        "gloss": "saugandhika (name)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mahāgudāśceti",
+      "words": [
+       {
+        "w": "mahā-gudāḥ",
+        "gloss": "mahāguda (name)",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "(closing the list)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sapta",
+      "words": [
+       {
+        "w": "sapta",
+        "gloss": "seven",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kaphajāḥ,",
+      "words": [
+       {
+        "w": "kapha-jāḥ",
+        "gloss": "born of Kapha",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kakerukā",
+      "words": [
+       {
+        "w": "kakerukāḥ",
+        "gloss": "kakeruka (name)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "makerukā",
+      "words": [
+       {
+        "w": "makerukāḥ",
+        "gloss": "makeruka (name)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "lelihāḥ",
+      "words": [
+       {
+        "w": "lelihāḥ",
+        "gloss": "leliha (name)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "saśūlakāḥ",
+      "words": [
+       {
+        "w": "saśūlakāḥ",
+        "gloss": "saśūlaka (name)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sausurādāśceti",
+      "words": [
+       {
+        "w": "sausurādāḥ",
+        "gloss": "sausurāda (name)",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "(closing the list)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pañca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "purīṣajāḥ;",
+      "words": [
+       {
+        "w": "purīṣa-jāḥ",
+        "gloss": "born of faeces",
+        "gram": "m. nom. pl., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "viṃśatiḥ",
+      "words": [
+       {
+        "w": "viṃśatiḥ",
+        "gloss": "twenty",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pramehā",
+      "words": [
+       {
+        "w": "pramehāḥ",
+        "gloss": "pramehas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ityudakamehaścekṣubālikārasamehaśca",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       },
+       {
+        "w": "udaka-mehaḥ",
+        "gloss": "udakameha (water-meha)",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ikṣu-bālikā-rasa-mehaḥ",
+        "gloss": "ikṣubālikārasameha (sugarcane-juice meha)",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sāndramehaśca",
+      "words": [
+       {
+        "w": "sāndra-mehaḥ",
+        "gloss": "sāndrameha (thick meha)",
+        "gram": "m. nom. sg., karmadhāraya"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sāndraprasādamehaśca",
+      "words": [
+       {
+        "w": "sāndra-prasāda-mehaḥ",
+        "gloss": "sāndraprasādameha (thick-and-clear meha)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śuklamehaśca",
+      "words": [
+       {
+        "w": "śukla-mehaḥ",
+        "gloss": "śuklameha (white meha)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śukramehaśca",
+      "words": [
+       {
+        "w": "śukra-mehaḥ",
+        "gloss": "śukrameha (semen meha)",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śītamehaśca",
+      "words": [
+       {
+        "w": "śīta-mehaḥ",
+        "gloss": "śītameha (cold meha)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śanairmehaśca",
+      "words": [
+       {
+        "w": "śanaiḥ-mehaḥ",
+        "gloss": "śanairmeha (slow meha)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sikatāmehaśca",
+      "words": [
+       {
+        "w": "sikatā-mehaḥ",
+        "gloss": "sikatāmeha (sand meha)",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "lālāmehaśceti",
+      "words": [
+       {
+        "w": "lālā-mehaḥ",
+        "gloss": "lālāmeha (saliva meha)",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "(closing the list)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "daśa",
+      "words": [
+       {
+        "w": "daśa",
+        "gloss": "ten",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śleṣmanimittāḥ,",
+      "words": [
+       {
+        "w": "śleṣma-nimittāḥ",
+        "gloss": "caused by Kapha (śleṣman)",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "kṣāramehaśca",
+      "words": [
+       {
+        "w": "kṣāra-mehaḥ",
+        "gloss": "kṣārameha (alkali meha)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kālamehaśca",
+      "words": [
+       {
+        "w": "kāla-mehaḥ",
+        "gloss": "kālameha (black meha)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nīlamehaśca",
+      "words": [
+       {
+        "w": "nīla-mehaḥ",
+        "gloss": "nīlameha (blue meha)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "lohitamehaśca",
+      "words": [
+       {
+        "w": "lohita-mehaḥ",
+        "gloss": "lohitameha (red meha)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mañjiṣṭhāmehaśca",
+      "words": [
+       {
+        "w": "mañjiṣṭhā-mehaḥ",
+        "gloss": "mañjiṣṭhāmeha (madder-coloured meha)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "haridrāmehaśca",
+      "words": [
+       {
+        "w": "haridrā-mehaḥ",
+        "gloss": "haridrāmeha (turmeric-coloured meha)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hastimehaśca",
+      "words": [
+       {
+        "w": "hasti-mehaḥ",
+        "gloss": "hastimeha (elephant meha)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "madhumehaśceti",
+      "words": [
+       {
+        "w": "madhu-mehaḥ",
+        "gloss": "madhumeha (honey meha)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "(closing the list)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "catvāro",
+      "words": [
+       {
+        "w": "catvāraḥ",
+        "gloss": "four",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vātanimittāḥ,",
+      "words": [
+       {
+        "w": "vāta-nimittāḥ",
+        "gloss": "caused by Vāta",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viṃśatiḥ",
+      "words": [
+       {
+        "w": "viṃśatiḥ",
+        "gloss": "twenty",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pramehāḥ;",
+      "words": [
+       {
+        "w": "pramehāḥ",
+        "gloss": "pramehas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "viṃśatir",
+      "words": [
+       {
+        "w": "viṃśatiḥ",
+        "gloss": "twenty",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yonivyāpada",
+      "words": [
+       {
+        "w": "yoni-vyāpadaḥ",
+        "gloss": "disorders of the female genital tract",
+        "gram": "f. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(quoting)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātikī",
+      "words": [
+       {
+        "w": "vātikī",
+        "gloss": "of Vāta",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "paittikī",
+      "words": [
+       {
+        "w": "paittikī",
+        "gloss": "of Pitta",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śleṣmikī",
+      "words": [
+       {
+        "w": "śleṣmikī",
+        "gloss": "of Kapha (śleṣman)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sānnipātikī",
+      "words": [
+       {
+        "w": "sānnipātikī",
+        "gloss": "of sannipāta",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ceti",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "(closing the list)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "catasro",
+      "words": [
+       {
+        "w": "catasraḥ",
+        "gloss": "four",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "doṣajāḥ,",
+      "words": [
+       {
+        "w": "doṣa-jāḥ",
+        "gloss": "born of the doṣas",
+        "gram": "f. nom. pl., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "doṣadūṣyasaṃsargaprakṛtinirdeśairavaśiṣṭāḥ",
+      "words": [
+       {
+        "w": "doṣa-dūṣya-saṃsarga-prakṛti-nirdeśaiḥ",
+        "gloss": "by designations of the combination of doṣa and dūṣya and of their nature",
+        "gram": "m. inst. pl., tat-puruṣa (with dvandva)"
+       },
+       {
+        "w": "avaśiṣṭāḥ",
+        "gloss": "the remaining",
+        "gram": "f. nom. pl., past part. ava-√śiṣ"
+       }
+      ]
+     },
+     {
+      "src": "ṣoḍaśa",
+      "words": [
+       {
+        "w": "ṣoḍaśa",
+        "gloss": "sixteen",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "nirdiśyante,",
+      "words": [
+       {
+        "w": "nirdiśyante",
+        "gloss": "are designated",
+        "gram": "3 pl. pres. pass. nir-√diś"
+       }
+      ]
+     },
+     {
+      "src": "tadyathā",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "---",
+      "words": [
+       {
+        "w": "---",
+        "gloss": "(dash)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "raktayoniścārajaskā",
+      "words": [
+       {
+        "w": "rakta-yoniḥ",
+        "gloss": "raktayoni (blood-yoni)",
+        "gram": "f. nom. sg., bahuvrīhi"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "a-rajaskā",
+        "gloss": "arajaskā (without menses)",
+        "gram": "f. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "cācaraṇā",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "acaraṇā",
+        "gloss": "acaraṇā (name)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "cāticaraṇā",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ati-caraṇā",
+        "gloss": "aticaraṇā (name)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prākcaraṇā",
+      "words": [
+       {
+        "w": "prāk-caraṇā",
+        "gloss": "prākcaraṇā (name)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "copaplutā",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "upaplutā",
+        "gloss": "upaplutā (name)",
+        "gram": "f. nom. sg., past part. upa-√plu"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pariplutā",
+      "words": [
+       {
+        "w": "pariplutā",
+        "gloss": "pariplutā (name)",
+        "gram": "f. nom. sg., past part. pari-√plu"
+       }
+      ]
+     },
+     {
+      "src": "codāvartinī",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "udāvartinī",
+        "gloss": "udāvartinī (name)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "karṇinī",
+      "words": [
+       {
+        "w": "karṇinī",
+        "gloss": "karṇinī (name)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "putraghnī",
+      "words": [
+       {
+        "w": "putra-ghnī",
+        "gloss": "putraghnī (son-killing)",
+        "gram": "f. nom. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "cāntarmukhī",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "antar-mukhī",
+        "gloss": "antarmukhī (inward-mouthed)",
+        "gram": "f. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sūcīmukhī",
+      "words": [
+       {
+        "w": "sūcī-mukhī",
+        "gloss": "sūcīmukhī (needle-mouthed)",
+        "gram": "f. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śuṣkā",
+      "words": [
+       {
+        "w": "śuṣkā",
+        "gloss": "śuṣkā (dry)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vāminī",
+      "words": [
+       {
+        "w": "vāminī",
+        "gloss": "vāminī (ejecting)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣaṇḍhayoniś",
+      "words": [
+       {
+        "w": "ṣaṇḍha-yoniḥ",
+        "gloss": "ṣaṇḍhayoni (name)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mahāyoniśceti",
+      "words": [
+       {
+        "w": "mahā-yoniḥ",
+        "gloss": "mahāyoni (great yoni)",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "(closing the list)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viṃśatir",
+      "words": [
+       {
+        "w": "viṃśatiḥ",
+        "gloss": "twenty",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yonivyāpado",
+      "words": [
+       {
+        "w": "yoni-vyāpadaḥ",
+        "gloss": "disorders of the female genital tract",
+        "gram": "f. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhavanti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "(9);",
+      "words": [
+       {
+        "w": "(9)",
+        "gloss": "(section number)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "'बीस कृमिजातियाँ': यूका और पिपीलिका — ये दो प्रकार के बाहरी मल से उत्पन्न; केशाद, लोमाद, लोमद्वीप, सौरस, औदुम्बर और जन्तुमाता — ये छह शोणित से उत्पन्न; अन्त्राद, उदरावेष्ट, हृदयाद, चुरु, दर्भपुष्प, सौगन्धिक और महागुद — ये सात कफ से उत्पन्न; ककेरुक, मकेरुक, लेलिह, सशूलक और सौसुराद — ये पाँच पुरीष से उत्पन्न। 'बीस प्रमेह': उदकमेह, इक्षुबालिकारसमेह, सान्द्रमेह, सान्द्रप्रसादमेह, शुक्लमेह, शुक्रमेह, शीतमेह, शनैर्मेह, सिकतामेह और लालामेह — ये दस श्लेष्मा के कारण वाले; क्षारमेह, कालमेह, नीलमेह, लोहितमेह, मञ्जिष्ठामेह, हरिद्रामेह, हस्तिमेह और मधुमेह — ये चार वात के कारण वाले; इस प्रकार बीस प्रमेह हैं। 'बीस योनिव्यापद्': वातिकी, पैत्तिकी, श्लैष्मिकी और सान्निपातिकी — ये चार दोषों से उत्पन्न; शेष सोलह दोष और दूष्य के संसर्ग तथा प्रकृति के निर्देशों से बताई जाती हैं, जैसे — रक्तयोनि, अरजस्का, अचरणा, अतिचरणा, प्राक्चरणा, उपप्लुता, परिप्लुता, उदावर्तिनी, कर्णिनी, पुत्रघ्नी, अन्तर्मुखी, सूचीमुखी, शुष्का, वामिनी, षण्ढयोनि और महायोनि; इस प्रकार बीस योनिव्यापद् होती हैं।",
+  "english": "'Twenty kinds of worms': lice (yūkā) and pipīlikās, these two kinds born of external dirt; keśāda, lomāda, lomadvīpa, saurasa, audumbara and jantumātṛ, these six born of blood; antrāda, udarāveṣṭa, hṛdayāda, curu, darbhapuṣpa, saugandhika and mahāguda, these seven born of Kapha; kakeruka, makeruka, leliha, saśūlaka and sausurāda, these five born of faeces. 'Twenty pramehas': udakameha, ikṣubālikārasameha, sāndrameha, sāndraprasādameha, śuklameha, śukrameha, śītameha, śanairmeha, sikatāmeha and lālāmeha, these ten caused by Kapha (śleṣman); kṣārameha, kālameha, nīlameha, lohitameha, mañjiṣṭhāmeha, haridrāmeha, hastimeha and madhumeha, these four caused by Vāta: thus [there are] twenty pramehas. 'Twenty disorders of the female genital tract': the Vātika, Paittika, Ślaiṣmika and Sānnipātika, these four born of the doṣas; the remaining sixteen are designated by their naming after the combination of doṣa and dūṣya and after their nature, namely: raktayoni, arajaskā, acaraṇā, aticaraṇā, prākcaraṇā, upaplutā, pariplutā, udāvartinī, karṇinī, putraghnī, antarmukhī, sūcīmukhī, śuṣkā, vāminī, ṣaṇḍhayoni and mahāyoni: thus there are twenty disorders of the female genital tract.",
+  "text_flags": [
+   {
+    "src": "kramijātaya",
+    "suggest": "krimijātaya",
+    "why": "krami is not a word; unit 3 has krimijātayaḥ for the same heading"
+   },
+   {
+    "src": "yūkā",
+    "suggest": "yūkāḥ",
+    "why": "possible: the pair is plural (pipīlikāḥ, dvividhāḥ); yūkāḥ before p keeps its visarga, so yūkā is either a f. sg. used collectively or a dropped visarga"
+   },
+   {
+    "src": "catvāro",
+    "suggest": "(a phrase closing a Pitta group and further Vāta-caused names appear lost before or within this list)",
+    "why": "possible lacuna: after the ten Kapha-caused pramehas eight names follow but are summed as catvāraḥ vātanimittāḥ; 10 + 4 does not make the twenty stated twice, Pitta is nowhere named, and only eighteen names in all are given"
+   }
+  ],
+  "notes": "Worm and prameha names kept in Sanskrit with literal glosses only; no identifications. yūkā (louse) and pipīlikā (literally 'ant') are given their word meanings only. jantumātaraḥ is the nom. pl. of jantumātṛ (f.). Counting: worms 2 + 6 + 7 + 5 = 20, as stated; yonivyāpad 4 + 16 = 20, sixteen names given. The prameha passage does not add up as printed (see text_flags): by arithmetic 10 + 6 + 4 = 20 would fit if the six coloured/alkali names were a separate (Pitta) group and two Vāta names were missing, but the chunk does not show this; the translation follows the print. ikṣubālikārasa kept as printed (bālikā). doṣadūṣyasaṃsargaprakṛtinirdeśaiḥ: the analysis 'designations by the combination of doṣa and dūṣya, and by nature (prakṛti)' is medium; prakṛti could also mean the (constitutional) nature of the woman. The f. nom. pl. avaśiṣṭāḥ agrees with yonivyāpadaḥ (f.).",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kevalaścāyamuddeśo",
+      "words": [
+       {
+        "w": "kevalaḥ",
+        "gloss": "entire",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ayam",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "uddeśaḥ",
+        "gloss": "enumeration",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yathoddeśamabhinirdiṣṭo",
+      "words": [
+       {
+        "w": "yathā-uddeśam",
+        "gloss": "in the order of the enumeration",
+        "gram": "ind., avyayībhāva"
+       },
+       {
+        "w": "abhinirdiṣṭaḥ",
+        "gloss": "specified",
+        "gram": "m. nom. sg., past part. abhi-nir-√diś"
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और यह सम्पूर्ण उद्देश उद्देश के क्रम से स्पष्ट कर दिया गया है।",
+  "english": "And this entire enumeration has been specified in the order of the enumeration.",
+  "text_flags": [],
+  "notes": "GROUPING: this sentence closes paragraph 4 (it follows 4-9 and answers yathoddeśam abhinirdekṣyāmaḥ of 4-1); its unit number '4' after 4-1 to 4-9 is the intake's labelling, the order of the text is correct. kevala is taken as 'entire, complete'.",
+  "confidence": "high"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sarva",
+      "words": [
+       {
+        "w": "sarve",
+        "gloss": "all",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "indeed (emphatic)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nijā",
+      "words": [
+       {
+        "w": "nijāḥ",
+        "gloss": "endogenous",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vikārā",
+      "words": [
+       {
+        "w": "vikārāḥ",
+        "gloss": "disorders",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "nānyatra",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "anyatra",
+        "gloss": "apart from",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātapittakaphebhyo",
+      "words": [
+       {
+        "w": "vāta-pitta-kaphebhyaḥ",
+        "gloss": "Vāta, Pitta and Kapha",
+        "gram": "m. abl. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "nirvartante",
+      "words": [
+       {
+        "w": "nirvartante",
+        "gloss": "arise",
+        "gram": "3 pl. pres. nir-√vṛt"
+       }
+      ]
+     },
+     {
+      "src": "yathāhi",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "just as",
+        "gram": "ind."
+       },
+       {
+        "w": "hi",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śakuniḥ",
+      "words": [
+       {
+        "w": "śakuniḥ",
+        "gloss": "a bird",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvā",
+      "words": [
+       {
+        "w": "sarvam",
+        "gloss": "the whole",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "divasamapi",
+      "words": [
+       {
+        "w": "divasam",
+        "gloss": "day",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paripatan",
+      "words": [
+       {
+        "w": "paripatan",
+        "gloss": "flying about",
+        "gram": "m. nom. sg., pres. part. pari-√pat"
+       }
+      ]
+     },
+     {
+      "src": "svāṃ",
+      "words": [
+       {
+        "w": "svām",
+        "gloss": "its own",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "chāyāṃ",
+      "words": [
+       {
+        "w": "chāyām",
+        "gloss": "shadow",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nātivartate",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "ativartate",
+        "gloss": "goes beyond",
+        "gram": "3 sg. pres. ati-√vṛt"
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svadhātuvaiṣamyanimittāḥ",
+      "words": [
+       {
+        "w": "sva-dhātu-vaiṣamya-nimittāḥ",
+        "gloss": "caused by imbalance of one's own dhātus",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sarve",
+      "words": [
+       {
+        "w": "sarve",
+        "gloss": "all",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vikārā",
+      "words": [
+       {
+        "w": "vikārāḥ",
+        "gloss": "disorders",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vātapittakaphānnātiartante",
+      "words": [
+       {
+        "w": "vāta-pitta-kaphān",
+        "gloss": "Vāta, Pitta and Kapha",
+        "gram": "m. acc. pl., dvandva"
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "ativartante",
+        "gloss": "go beyond",
+        "gram": "3 pl. pres. ati-√vṛt"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सभी निज विकार वात, पित्त और कफ के बिना अन्यत्र उत्पन्न नहीं होते; जैसे पक्षी पूरे दिन उड़ता रहकर भी अपनी छाया का अतिक्रमण नहीं करता, वैसे ही अपनी धातुओं की विषमता के कारण होने वाले सभी विकार वात, पित्त और कफ का अतिक्रमण नहीं करते।",
+  "english": "All endogenous disorders without exception arise from nothing other than Vāta, Pitta and Kapha. Just as a bird, though flying about the whole day, does not go beyond its own shadow, so all disorders caused by imbalance of one's own dhātus do not go beyond Vāta, Pitta and Kapha.",
+  "text_flags": [
+   {
+    "src": "sarvā",
+    "suggest": "sarvaṃ",
+    "why": "possible: it qualifies m. acc. divasam; sarvā (f. nom. sg. or pl.) does not agree with anything in the sentence"
+   },
+   {
+    "src": "vātapittakaphānnātiartante",
+    "suggest": "vātapittakaphānnātivartante",
+    "why": "ativartante with v, as nātivartate in the same sentence; atiartante is not a form"
+   }
+  ],
+  "notes": "na anyatra + abl. 'not elsewhere than, not apart from'. sarva eva = sarve eva (e before a vowel becomes a). The unit is prose, typed as a verse in the input.",
+  "confidence": "high"
+ },
+ {
+  "n": "P1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vātapittaśleṣmaṇāṃ",
+      "words": [
+       {
+        "w": "vāta-pitta-śleṣmaṇām",
+        "gloss": "of Vāta, Pitta and Kapha (śleṣman)",
+        "gram": "m. gen. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "further",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sthānasaṃsthānaprakṛtiviśeṣānabhisamīkṣya",
+      "words": [
+       {
+        "w": "sthāna-saṃsthāna-prakṛti-viśeṣān",
+        "gloss": "the particulars of site, form and nature",
+        "gram": "m. acc. pl., tat-puruṣa (with dvandva)"
+       },
+       {
+        "w": "abhisamīkṣya",
+        "gloss": "having carefully observed",
+        "gram": "abs. abhi-sam-√īkṣ"
+       }
+      ]
+     },
+     {
+      "src": "tadātmakānapi",
+      "words": [
+       {
+        "w": "tad-ātmakān",
+        "gloss": "having these as their nature",
+        "gram": "m. acc. pl., bahuvrīhi"
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sarvavikārāṃstānevopadiśanti",
+      "words": [
+       {
+        "w": "sarva-vikārān",
+        "gloss": "all disorders",
+        "gram": "m. acc. pl., karmadhāraya"
+       },
+       {
+        "w": "tān",
+        "gloss": "those",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       },
+       {
+        "w": "upadiśanti",
+        "gloss": "designate",
+        "gram": "3 pl. pres. upa-√diś"
+       }
+      ]
+     },
+     {
+      "src": "buddhimantaḥ",
+      "words": [
+       {
+        "w": "buddhimantaḥ",
+        "gloss": "the intelligent",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "फिर बुद्धिमान् लोग वात, पित्त और श्लेष्मा के स्थान, संस्थान और प्रकृति के विशेषों को भली-भाँति देखकर, उन्हीं के स्वरूप वाले सब विकारों को भी उन्हीं (दोषों) के रूप में बताते हैं।",
+  "english": "Further, the intelligent, having carefully observed the particulars of site, form and nature of Vāta, Pitta and Kapha (śleṣman), designate all disorders too, which have these as their nature, as just those [doṣas].",
+  "text_flags": [],
+  "notes": "tān eva is read as the predicate ('as just those', i.e. as Vāta, Pitta, Kapha); it could also be read with sarvavikārān, 'designate all those disorders'. saṃsthāna is rendered 'form'; it can also mean 'disposition, arrangement'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhavataścātra",
+      "words": [
+       {
+        "w": "bhavataḥ",
+        "gloss": "there are (two)",
+        "gram": "3 du. pres. √bhū"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "atra",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "svadhātuvaiṣamyanimittajā",
+      "words": [
+       {
+        "w": "sva-dhātu-vaiṣamya-nimitta-jāḥ",
+        "gloss": "born from the cause of imbalance of one's own dhātus",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "which",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vikārasaṃghā",
+      "words": [
+       {
+        "w": "vikāra-saṃghāḥ",
+        "gloss": "groups of disorders",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bahavaḥ",
+      "words": [
+       {
+        "w": "bahavaḥ",
+        "gloss": "many",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śarīre",
+      "words": [
+       {
+        "w": "śarīre",
+        "gloss": "in the body",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "they",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pṛthak",
+      "words": [
+       {
+        "w": "pṛthak",
+        "gloss": "separate",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pittakaphānilebhya",
+      "words": [
+       {
+        "w": "pitta-kapha-anilebhyaḥ",
+        "gloss": "from Pitta, Kapha and Vāta (anila)",
+        "gram": "m. abl. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "āgantavastveva",
+      "words": [
+       {
+        "w": "āgantavaḥ",
+        "gloss": "the exogenous ones",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tato",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "from them",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viśiṣṭāḥ",
+      "words": [
+       {
+        "w": "viśiṣṭāḥ",
+        "gloss": "distinct",
+        "gram": "m. nom. pl., past part. vi-√śiṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और यहाँ दो (श्लोक) हैं: शरीर में अपनी धातुओं की विषमता के कारण से उत्पन्न होने वाले जो बहुत-से विकार-समूह हैं, वे पित्त, कफ और अनिल से पृथक् नहीं हैं; किन्तु आगन्तु विकार उनसे विशिष्ट होते हैं।",
+  "english": "And here there are two: The many groups of disorders in the body that are born from imbalance of one's own dhātus are not separate from Pitta, Kapha and Vāta (anila); but the exogenous ones are indeed distinct from them.",
+  "text_flags": [],
+  "notes": "bhavataḥ (dual) refers to the two verses 6 and 7. Upajāti metre (11 syllables a quarter). pittakaphānilebhya = -bhyaḥ before a vowel (visarga dropped). tataḥ is read as 'from them' (from the doṣas).",
+  "confidence": "high"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āganturanveti",
+      "words": [
+       {
+        "w": "āgantuḥ",
+        "gloss": "the exogenous (disorder)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "anveti",
+        "gloss": "follows",
+        "gram": "3 sg. pres. anu-√i"
+       }
+      ]
+     },
+     {
+      "src": "nijaṃ",
+      "words": [
+       {
+        "w": "nijam",
+        "gloss": "endogenous",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vikāraṃ",
+      "words": [
+       {
+        "w": "vikāram",
+        "gloss": "disorder",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nijastathāgantumapi",
+      "words": [
+       {
+        "w": "nijaḥ",
+        "gloss": "the endogenous",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       },
+       {
+        "w": "āgantum",
+        "gloss": "the exogenous",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pravṛddhaḥ",
+      "words": [
+       {
+        "w": "pravṛddhaḥ",
+        "gloss": "having increased",
+        "gram": "m. nom. sg., past part. pra-√vṛdh"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tatrānubandhaṃ",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       },
+       {
+        "w": "anubandham",
+        "gloss": "the secondary (associated) one",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakṛtiṃ",
+      "words": [
+       {
+        "w": "prakṛtim",
+        "gloss": "the primary one",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "samyag",
+      "words": [
+       {
+        "w": "samyak",
+        "gloss": "correctly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jñātvā",
+      "words": [
+       {
+        "w": "jñātvā",
+        "gloss": "having known",
+        "gram": "abs. √jñā"
+       }
+      ]
+     },
+     {
+      "src": "tataḥ",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "karma",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "action (treatment)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "samārabheta",
+      "words": [
+       {
+        "w": "samārabheta",
+        "gloss": "one should begin",
+        "gram": "3 sg. opt. mid. sam-ā-√rabh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आगन्तु विकार निज विकार का अनुगमन करता है, और इसी प्रकार बढ़ा हुआ निज विकार आगन्तु का भी; वहाँ अनुबन्ध और प्रकृति को भली-भाँति जानकर फिर कर्म आरम्भ करे।",
+  "english": "The exogenous [disorder] follows the endogenous disorder, and likewise the endogenous, when increased, follows the exogenous too. There, having correctly known the secondary (anubandha) and the primary (prakṛti), one should then begin action (karma).",
+  "text_flags": [],
+  "notes": "anubandha = what is attached, the secondary or associated element; prakṛti here = the primary, principal element (not 'normal state'). karma is the treatment to be undertaken. Upajāti metre.",
+  "confidence": "high"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ślokau",
+      "words": [
+       {
+        "w": "ślokau",
+        "gloss": "two verses",
+        "gram": "m. nom. du."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "viṃśakāścaikakāścaiva",
+      "words": [
+       {
+        "w": "viṃśakāḥ",
+        "gloss": "groups of twenty",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ekakāḥ",
+        "gloss": "groups of one",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "trikāścoktāstrayastrayaḥ",
+      "words": [
+       {
+        "w": "trikāḥ",
+        "gloss": "groups of three",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "uktāḥ",
+        "gloss": "have been stated",
+        "gram": "m. nom. pl., past part. √vac"
+       },
+       {
+        "w": "trayaḥ",
+        "gloss": "three",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "trayaḥ",
+        "gloss": "three",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dvikāścāṣṭau",
+      "words": [
+       {
+        "w": "dvikāḥ",
+        "gloss": "groups of two",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "aṣṭau",
+        "gloss": "eight",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "catuṣkāśca",
+      "words": [
+       {
+        "w": "catuṣkāḥ",
+        "gloss": "groups of four",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "daśa",
+      "words": [
+       {
+        "w": "daśa",
+        "gloss": "ten",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dvādaśa",
+      "words": [
+       {
+        "w": "dvādaśa",
+        "gloss": "twelve",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pañcakāḥ",
+      "words": [
+       {
+        "w": "pañcakāḥ",
+        "gloss": "groups of five",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यहाँ दो श्लोक: बीस वाले, एक वाले और तीन वाले वर्ग तीन-तीन कहे गए हैं; दो वाले आठ, चार वाले दस, पाँच वाले बारह;",
+  "english": "Here, the two verses: Groups of twenty, groups of one and groups of three have been stated, three of each; groups of two, eight; groups of four, ten; groups of five, twelve;",
+  "text_flags": [],
+  "notes": "trayastrayaḥ (repetition) = 'three each' (distributive). The sentence continues into verse 9. The counts agree with unit 3 (3 groups of twenty, 3 of one, 3 of three, 8 of two, 10 of four, 12 of five).",
+  "confidence": "high"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "catvāraścāṣṭakā",
+      "words": [
+       {
+        "w": "catvāraḥ",
+        "gloss": "four",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "aṣṭakāḥ",
+        "gloss": "groups of eight",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vargāḥ",
+      "words": [
+       {
+        "w": "vargāḥ",
+        "gloss": "groups",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ṣaṭkau",
+      "words": [
+       {
+        "w": "ṣaṭkau",
+        "gloss": "groups of six",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "dvau",
+      "words": [
+       {
+        "w": "dvau",
+        "gloss": "two",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "saptakāstrayaḥ",
+      "words": [
+       {
+        "w": "saptakāḥ",
+        "gloss": "groups of seven",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "trayaḥ",
+        "gloss": "three",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "aṣṭodarīye",
+      "words": [
+       {
+        "w": "aṣṭodarīye",
+        "gloss": "in the Aṣṭodarīya",
+        "gram": "m. loc. sg., chapter name"
+       }
+      ]
+     },
+     {
+      "src": "rogāṇāṃ",
+      "words": [
+       {
+        "w": "rogāṇām",
+        "gloss": "of diseases",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "rogādhyāye",
+      "words": [
+       {
+        "w": "roga-adhyāye",
+        "gloss": "in the chapter on diseases",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "prakāśitāḥ",
+      "words": [
+       {
+        "w": "prakāśitāḥ",
+        "gloss": "have been set forth",
+        "gram": "m. nom. pl., past part. caus. pra-√kāś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चार अष्टक वर्ग, दो षट्क और तीन सप्तक — रोगों के ये वर्ग अष्टोदरीय नामक रोगाध्याय में प्रकाशित किए गए हैं।",
+  "english": "four groups of eight, two groups of six and three groups of seven: these groups of diseases have been set forth in the Aṣṭodarīya, the chapter on diseases.",
+  "text_flags": [],
+  "notes": "Continues verse 8. rogādhyāye 'in the chapter on diseases' is read in apposition to aṣṭodarīye. Counts agree with unit 3 (4 of eight, 2 of six, 3 of seven); total 48.",
+  "confidence": "high"
+ },
+ {
+  "n": "P2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ityagniveśakṛte",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus (closing marker)",
+        "gram": "ind."
+       },
+       {
+        "w": "agniveśa-kṛte",
+        "gloss": "composed by Agniveśa",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tantre",
+      "words": [
+       {
+        "w": "tantre",
+        "gloss": "in the treatise",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "carakapratisaṃskṛte",
+      "words": [
+       {
+        "w": "caraka-pratisaṃskṛte",
+        "gloss": "redacted by Caraka",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ślokasthāne'ṣṭodarīyo",
+      "words": [
+       {
+        "w": "śloka-sthāne",
+        "gloss": "in the Śloka section",
+        "gram": "n. loc. sg., tat-puruṣa"
+       },
+       {
+        "w": "aṣṭodarīyaḥ",
+        "gloss": "Aṣṭodarīya",
+        "gram": "m. nom. sg., chapter name"
+       }
+      ]
+     },
+     {
+      "src": "nāmonaviṃśo'dhyāyaḥ",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "named",
+        "gram": "ind."
+       },
+       {
+        "w": "ūnaviṃśaḥ",
+        "gloss": "nineteenth",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "adhyāyaḥ",
+        "gloss": "chapter",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार अग्निवेश द्वारा रचित, चरक द्वारा प्रतिसंस्कृत तन्त्र के श्लोकस्थान में अष्टोदरीय नामक उन्नीसवाँ अध्याय।",
+  "english": "Thus, in the treatise composed by Agniveśa and redacted by Caraka, in the Śloka section (Ślokasthāna), the nineteenth chapter named Aṣṭodarīya.",
+  "text_flags": [],
+  "notes": "Chapter colophon, verbless.",
+  "confidence": "high"
+ }
+]
